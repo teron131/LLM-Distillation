@@ -83,7 +83,7 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
                 print(f"Warning: Parsed file not found for {doc_file.name} at {parsed_file_path}. Skipping QA pair generation for this document.")
 
     # Step 3: Curate data (now operates on the generated directory)
-    _run_command(["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--threshold", "8.0", "--output", f"{base_data_dir}/curated"], "Curating data...")
+    _run_command(["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--output", f"{base_data_dir}/curated"], "Curating data...")
 
     # Step 4: Save as fine-tuning format (now operates on the curated directory)
     _run_command(["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "ft", "--storage", "hf", "--output", f"{base_data_dir}/final"], "Saving data in fine-tuning format...")
