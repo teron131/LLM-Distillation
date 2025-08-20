@@ -1,125 +1,185 @@
 {
-  "summary": "This document, \"Technology Trends Outlook 2025,\" highlights 13 frontier technology trends with the potential to transform global business. Artificial intelligence is identified as a foundational amplifier, impacting and accelerating progress across other domains. The report also introduces \"agentic AI,\" which enables autonomous workflows, and \"application-specific semiconductors\" driven by the increasing demand for AI computing power. These trends, along with others like advanced connectivity, immersive reality, and bioengineering, are analyzed for their potential impact, use cases, and talent requirements, offering guidance to business leaders navigating a complex and rapidly evolving technological landscape.",
+  "summary": "This document, \"Technology Trends Outlook 2025,\" highlights 13 frontier technology trends poised to transform global business. Artificial intelligence is identified as a foundational amplifier, impacting and accelerating progress across other domains. The report also introduces \"agentic AI,\" which enables autonomous workflows, and \"application-specific semiconductors\" driven by AI's increasing demand for computing power. The outlook emphasizes that navigating these complex, rapidly evolving technologies requires strategic decision-making and consideration of their potential impact on various sectors.",
   "qa_pairs": [
     {
       "question": "What is the title of the report?",
-      "answer": "The title of the report is \"Technology Trends Outlook 2025\".",
+      "answer": "The title of the report is Technology Trends Outlook 2025.",
       "rating": 9
     },
     {
-      "question": "In what month and year was this report published?",
-      "answer": "This report was published in July 2025.",
+      "question": "What does the innovation score range from?",
+      "answer": "The innovation score ranges from 0 (lower) to 1 (higher).",
       "rating": 9
     },
     {
-      "question": "What edition is this technology trends report?",
-      "answer": "This is the fifth edition of the technology trends report.",
+      "question": "What capabilities do deep-research knowledge agents possess?",
+      "answer": "Multiple providers are advancing tools that can autonomously conduct multistep explorations for relevant content, execute searches, evaluate hundreds of sources, and synthesize information into comprehensive reports.",
       "rating": 9
     },
     {
-      "question": "Who are the authors of this report?",
-      "answer": "The authors of this report are Lareina Yee, Michael Chui, Roger Roberts, and Sven Smit.",
+      "question": "What is Microsoft's custom AI accelerator called, and what is its purpose?",
+      "answer": "Microsoft's custom AI accelerator is called Maia 100, and it is part of a strategy to optimize its AI infrastructure from silicon to software to systems, allowing for better integration and performance of its AI services.",
       "rating": 9
     },
     {
-      "question": "What is the copyright holder of this publication?",
-      "answer": "The copyright holder of this publication is McKinsey & Company.",
+      "question": "What percentage of postings require 5G skills?",
+      "answer": "13% of postings require 5G skills.",
       "rating": 9
     },
     {
-      "question": "How many frontier technology trends are discussed in this year's McKinsey Technology Trends Outlook?",
-      "answer": "This year's McKinsey Technology Trends Outlook provides in-depth perspectives on 13 frontier technology trends.",
+      "question": "What is a pronounced connectivity trend driven by AI?",
+      "answer": "A significant growth in data center connectivity demand driven by AI was one of the most pronounced connectivity trends during the last year.",
       "rating": 9
     },
     {
-      "question": "What is the primary role of Artificial Intelligence in the context of the other trends discussed in the report?",
-      "answer": "Artificial intelligence stands out as a foundational amplifier of the other trends.",
+      "question": "What is a growing issue in markets with clusters of data centers due to increased power needs?",
+      "answer": "The increasing power needed to operate data centers is becoming an issue in markets traditionally home to clusters of data centers.",
+      "rating": 8
+    },
+    {
+      "question": "What are some challenges that smart glasses categories still face?",
+      "answer": "The category still faces challenges like relatively limited fields of view and heavy device weights.",
+      "rating": 8
+    },
+    {
+      "question": "What can organizations do to proactively and adaptively approach cybersecurity?",
+      "answer": "Organizations can take proactive and adaptive approaches to cybersecurity by incorporating geopolitical factors into risk assessments and mitigation strategies.",
       "rating": 9
     },
     {
-      "question": "What is the mission of the McKinsey Global Institute (MGI)?",
-      "answer": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders.",
+      "question": "What can interfere with efforts to update or migrate technologies, especially when integrating with legacy systems?",
+      "answer": "Compatibility challenges can interfere with efforts to update or migrate technologies, especially when integrating with legacy systems like the many fragmented point solutions still in use.",
       "rating": 9
     },
     {
-      "question": "When was the McKinsey Global Institute (MGI) established?",
-      "answer": "MGI was established in 1990.",
+      "question": "What is the significance of GXO Logistics' agreement with Agility Robotics?",
+      "answer": "GXO Logistics has the first industry agreement of its kind with Agility Robotics to deploy the Digit humanoid robot in its facilities to automate tasks like moving totes and managing palletization.",
       "rating": 9
     },
     {
-      "question": "What are the key areas highlighted in the report about frontier technologies?",
-      "answer": "The report highlights technology breakthroughs, talent trends, use cases, and their potential impact on companies across sectors.",
+      "question": "What is driving the growth in job postings for data scientists in the mobility sector?",
+      "answer": "Job postings for data scientists have grown steadily, reflecting rising demand for battery analytics and AI-driven logistics.",
       "rating": 9
     },
     {
-      "question": "What are executives mandated to do in navigating the current global technology landscape?",
-      "answer": "Executives today face a mandate to navigate rising complexity, scale emerging solutions, and build trust in a world where the lines between digital and physical and centralized and decentralized continue to blur.",
+      "question": "According to Ryan Brukardt, what is space quickly becoming an essential platform for?",
+      "answer": "According to Ryan Brukardt, space is quickly becoming an essential platform for innovation, security, and economic growth.",
       "rating": 9
     },
     {
-      "question": "What kind of insights does the report offer to business leaders?",
-      "answer": "The report offers insights that can help business leaders decide which frontier technologies are most relevant to their companies by demonstrating how others are starting to apply them today.",
+      "question": "What does SWaP-C stand for in the context of space technology?",
+      "answer": "SWaP-C stands for size, weight, power, and cost.",
       "rating": 9
     },
     {
-      "question": "What quantitative measures were analyzed to derive the findings in the report?",
-      "answer": "The findings emerge from analysis of quantitative measures of interest, innovation, equity investment, and talent that underpin each of the 13 trends.",
+      "question": "What specific job roles are in demand within the energy and sustainability sector?",
+      "answer": "Maintenance technicians specializing in renewable-energy systems, electrical engineers working on grid modernization, and project managers overseeing decarbonization initiatives are in demand.",
       "rating": 9
     },
     {
-      "question": "How does AI accelerate progress in other domains according to the report?",
-      "answer": "AI accelerates progress within individual domains and unlocks new possibilities at the intersections, such as accelerating the training of robots and advancing scientific discoveries in bioengineering.",
+      "question": "How do thermal energy storage technologies function?",
+      "answer": "These technologies store energy in the form of heat or cold for later use.",
       "rating": 9
     },
     {
-      "question": "Which practice within McKinsey works with MGI on this report?",
-      "answer": "McKinsey\u2019s Technology, Media & Telecommunications Practice, QuantumBlack, AI by McKinsey; and McKinsey Technology work with MGI on this report.",
+      "question": "What can be stored using thermal energy storage?",
+      "answer": "This can include storing heat from solar thermal collectors, industrial-waste heat, or excess electricity for heating or cooling applications.",
       "rating": 9
     },
     {
-      "question": "When was MGI established?",
-      "answer": "MGI was established in 1990.",
+      "question": "What are adaptation solutions in the context of climate change?",
+      "answer": "These are measures taken to adjust to the actual or expected effects of climate change.",
       "rating": 9
     },
     {
-      "question": "What is MGI's mission?",
-      "answer": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders.",
+      "question": "What are some examples of adaptation solutions?",
+      "answer": "Adaptation encompasses a wide range of actions, from building more resilient infrastructure and developing drought-resistant crops to implementing early-warning systems for extreme weather events and managing coastal retreat.",
+      "rating": 10
+    },
+    {
+      "question": "What is a major uncertainty affecting the energy transition regarding power grids?",
+      "answer": "Grid resilience and flexibility, which is the ability of power grids to handle increasing amounts of variable renewable energy while maintaining stability and reliability, is a major uncertainty.",
+      "rating": 10
+    },
+    {
+      "question": "What is a significant factor for decarbonizing hard-to-abate sectors?",
+      "answer": "Decarbonizing hard-to-abate sectors requires more than engineering breakthroughs; it demands coordinated action across industries, governments, and communities to ensure that innovation is accessible, affordable, and resilient in the face of global uncertainties.",
       "rating": 9
     },
     {
-      "question": "How is MGI funded?",
-      "answer": "MGI is entirely funded by the partners of McKinsey.",
-      "rating": 9
+      "question": "What kind of infrastructure upgrades are needed for the energy transition?",
+      "answer": "The scale of infrastructure upgrades required for the energy transition, including transmission lines, charging stations, and hydrogen pipelines, is vast and faces potential delays and funding challenges.",
+      "rating": 10
     },
     {
-      "question": "How does MGI share its results?",
-      "answer": "MGI shares its results publicly free of charge.",
-      "rating": 9
+      "question": "How do macroeconomic factors impact investment in clean-energy projects?",
+      "answer": "Inflation, rising interest rates, and global trade disruptions create uncertainty about financing costs and investment flows for large-scale clean-energy projects.",
+      "rating": 10
     },
     {
-      "question": "What is agentic AI?",
-      "answer": "Agentic AI combines the flexibility and generality of AI foundation models with the ability to act in the world by creating \u201cvirtual coworkers\u201d that can autonomously plan and execute multistep workflows.",
-      "rating": 9
+      "question": "What supply chain issues can limit the deployment of clean-energy technologies?",
+      "answer": "The availability and sustainable sourcing of critical materials for clean-energy technologies, such as rare earth elements and lithium, could limit the speed of deployment.",
+      "rating": 10
     },
     {
-      "question": "What is needed to realize AI's full potential across sectors?",
-      "answer": "Realizing AI\u2019s full potential across sectors will require continued innovations to manage computing intensity, reduce deployment costs, and drive infrastructure investment, as well as thoughtful approaches to safety, governance, and workforce adaptation.",
-      "rating": 9
+      "question": "What is a key area of uncertainty in energy markets?",
+      "answer": "The interplay between traditional and emerging energy markets, including the future role of fossil fuels and the competitiveness of renewable-energy sources, remains a key area of uncertainty.",
+      "rating": 10
     },
     {
-      "question": "What is driving innovations in semiconductors?",
-      "answer": "Innovations in semiconductors have spiked in response to exponentially higher demands for computing capacity, memory, and networking for AI training and inference, as well as a need to manage cost, heat, and electric power consumption.",
-      "rating": 9
+      "question": "What is uncertain about the pace of innovation for technologies like green hydrogen electrolyzers and advanced batteries?",
+      "answer": "The speed at which technologies such as green hydrogen electrolyzers, advanced batteries, and synthetic fuels improve cost and performance (for example, achieve cost parity with fossil fuel alternatives) remains uncertain, which affects their scalability and adoption in hard-to-abate sectors.",
+      "rating": 10
     },
     {
-      "question": "What is the profile of AI as a technology trend?",
-      "answer": "AI is a widely applicable, general-purpose technology with use cases in every industry and business function\u2014and thus lots of innovation and interest\u2014and it is scaling rapidly across the business landscape.",
-      "rating": 9
+      "question": "What uncertainty exists regarding electricity market designs and regulatory frameworks?",
+      "answer": "The ability of electricity market designs and regulatory frameworks to rapidly adapt and incentivize flexibility, resilience, and low-emission investments is uncertain, posing risks to grid stability and affordability.",
+      "rating": 10
     },
     {
-      "question": "What are the potential impacts of quantum computing?",
-      "answer": "Quantum computing has the potential for transformative impact in certain critical domains, such as cryptography and material science.",
-      "rating": 9
+      "question": "What is a key area of uncertainty regarding energy markets?",
+      "answer": "The interplay between traditional and emerging energy markets, including the future role of fossil fuels and the competitiveness of renewable-energy sources, remains a key area of uncertainty.",
+      "rating": 10
+    },
+    {
+      "question": "What uncertainty affects the scalability and adoption of technologies like green hydrogen electrolyzers and advanced batteries in hard-to-abate sectors?",
+      "answer": "The speed at which technologies such as green hydrogen electrolyzers, advanced batteries, and synthetic fuels improve cost and performance remains uncertain, which affects their scalability and adoption in hard-to-abate sectors.",
+      "rating": 10
+    },
+    {
+      "question": "What risks are posed by the uncertainty in electricity market designs and regulatory frameworks?",
+      "answer": "The ability of electricity market designs and regulatory frameworks to rapidly adapt and incentivize flexibility, resilience, and low-emission investments is uncertain, posing risks to grid stability and affordability.",
+      "rating": 10
+    },
+    {
+      "question": "What is the uncertainty surrounding labor and talent availability in the clean energy sector?",
+      "answer": "The capacity to scale workforce development and training programs to close acute talent shortages in clean energy, sustainability, and digital skills essential for energy transition technologies is uncertain, risking project delays and innovation bottlenecks.",
+      "rating": 10
+    },
+    {
+      "question": "What is an important question companies and leaders should consider about accelerating climate technologies?",
+      "answer": "Companies and leaders may want to consider 'What will it take to accelerate the transition of promising climate technologies from lab to market, particularly in hard-to-abate sectors such as steel and cement?'",
+      "rating": 10
+    },
+    {
+      "question": "How can digital innovations help accelerate climate technologies?",
+      "answer": "Digital innovations\u2014like AI, sensors, and advanced analytics\u2014can accelerate the deployment and integration of renewables and climate technologies across fragmented energy systems.",
+      "rating": 10
+    },
+    {
+      "question": "What challenges will energy systems face as global electrification surges?",
+      "answer": "As global electrification surges, energy systems will need to adapt to rising demand, more distributed ownership of generation and storage, and the need for next-generation grid governance.",
+      "rating": 10
+    },
+    {
+      "question": "What is a key concern for nations and companies regarding supply chains for clean-energy materials?",
+      "answer": "Nations and companies need to consider how to secure resilient, diversified supply chains for critical clean-energy materials amid rising geopolitical tensions.",
+      "rating": 10
+    },
+    {
+      "question": "What is needed to scale next-generation energy technologies while maintaining affordability and reliability?",
+      "answer": "Regulatory frameworks and market mechanisms are needed to unlock the investment and coordination required to scale next-generation energy technologies while maintaining affordability and reliability.",
+      "rating": 10
     }
   ],
   "conversations": [
@@ -134,7 +194,7 @@
       },
       {
         "role": "assistant",
-        "content": "The title of the report is \"Technology Trends Outlook 2025\"."
+        "content": "The title of the report is Technology Trends Outlook 2025."
       }
     ],
     [
@@ -144,11 +204,11 @@
       },
       {
         "role": "user",
-        "content": "In what month and year was this report published?"
+        "content": "What does the innovation score range from?"
       },
       {
         "role": "assistant",
-        "content": "This report was published in July 2025."
+        "content": "The innovation score ranges from 0 (lower) to 1 (higher)."
       }
     ],
     [
@@ -158,11 +218,11 @@
       },
       {
         "role": "user",
-        "content": "What edition is this technology trends report?"
+        "content": "What capabilities do deep-research knowledge agents possess?"
       },
       {
         "role": "assistant",
-        "content": "This is the fifth edition of the technology trends report."
+        "content": "Multiple providers are advancing tools that can autonomously conduct multistep explorations for relevant content, execute searches, evaluate hundreds of sources, and synthesize information into comprehensive reports."
       }
     ],
     [
@@ -172,11 +232,11 @@
       },
       {
         "role": "user",
-        "content": "Who are the authors of this report?"
+        "content": "What is Microsoft's custom AI accelerator called, and what is its purpose?"
       },
       {
         "role": "assistant",
-        "content": "The authors of this report are Lareina Yee, Michael Chui, Roger Roberts, and Sven Smit."
+        "content": "Microsoft's custom AI accelerator is called Maia 100, and it is part of a strategy to optimize its AI infrastructure from silicon to software to systems, allowing for better integration and performance of its AI services."
       }
     ],
     [
@@ -186,11 +246,11 @@
       },
       {
         "role": "user",
-        "content": "What is the copyright holder of this publication?"
+        "content": "What percentage of postings require 5G skills?"
       },
       {
         "role": "assistant",
-        "content": "The copyright holder of this publication is McKinsey & Company."
+        "content": "13% of postings require 5G skills."
       }
     ],
     [
@@ -200,11 +260,11 @@
       },
       {
         "role": "user",
-        "content": "How many frontier technology trends are discussed in this year's McKinsey Technology Trends Outlook?"
+        "content": "What is a pronounced connectivity trend driven by AI?"
       },
       {
         "role": "assistant",
-        "content": "This year's McKinsey Technology Trends Outlook provides in-depth perspectives on 13 frontier technology trends."
+        "content": "A significant growth in data center connectivity demand driven by AI was one of the most pronounced connectivity trends during the last year."
       }
     ],
     [
@@ -214,11 +274,11 @@
       },
       {
         "role": "user",
-        "content": "What is the primary role of Artificial Intelligence in the context of the other trends discussed in the report?"
+        "content": "What is a growing issue in markets with clusters of data centers due to increased power needs?"
       },
       {
         "role": "assistant",
-        "content": "Artificial intelligence stands out as a foundational amplifier of the other trends."
+        "content": "The increasing power needed to operate data centers is becoming an issue in markets traditionally home to clusters of data centers."
       }
     ],
     [
@@ -228,11 +288,11 @@
       },
       {
         "role": "user",
-        "content": "What is the mission of the McKinsey Global Institute (MGI)?"
+        "content": "What are some challenges that smart glasses categories still face?"
       },
       {
         "role": "assistant",
-        "content": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders."
+        "content": "The category still faces challenges like relatively limited fields of view and heavy device weights."
       }
     ],
     [
@@ -242,11 +302,11 @@
       },
       {
         "role": "user",
-        "content": "When was the McKinsey Global Institute (MGI) established?"
+        "content": "What can organizations do to proactively and adaptively approach cybersecurity?"
       },
       {
         "role": "assistant",
-        "content": "MGI was established in 1990."
+        "content": "Organizations can take proactive and adaptive approaches to cybersecurity by incorporating geopolitical factors into risk assessments and mitigation strategies."
       }
     ],
     [
@@ -256,11 +316,11 @@
       },
       {
         "role": "user",
-        "content": "What are the key areas highlighted in the report about frontier technologies?"
+        "content": "What can interfere with efforts to update or migrate technologies, especially when integrating with legacy systems?"
       },
       {
         "role": "assistant",
-        "content": "The report highlights technology breakthroughs, talent trends, use cases, and their potential impact on companies across sectors."
+        "content": "Compatibility challenges can interfere with efforts to update or migrate technologies, especially when integrating with legacy systems like the many fragmented point solutions still in use."
       }
     ],
     [
@@ -270,11 +330,11 @@
       },
       {
         "role": "user",
-        "content": "What are executives mandated to do in navigating the current global technology landscape?"
+        "content": "What is the significance of GXO Logistics' agreement with Agility Robotics?"
       },
       {
         "role": "assistant",
-        "content": "Executives today face a mandate to navigate rising complexity, scale emerging solutions, and build trust in a world where the lines between digital and physical and centralized and decentralized continue to blur."
+        "content": "GXO Logistics has the first industry agreement of its kind with Agility Robotics to deploy the Digit humanoid robot in its facilities to automate tasks like moving totes and managing palletization."
       }
     ],
     [
@@ -284,11 +344,11 @@
       },
       {
         "role": "user",
-        "content": "What kind of insights does the report offer to business leaders?"
+        "content": "What is driving the growth in job postings for data scientists in the mobility sector?"
       },
       {
         "role": "assistant",
-        "content": "The report offers insights that can help business leaders decide which frontier technologies are most relevant to their companies by demonstrating how others are starting to apply them today."
+        "content": "Job postings for data scientists have grown steadily, reflecting rising demand for battery analytics and AI-driven logistics."
       }
     ],
     [
@@ -298,11 +358,11 @@
       },
       {
         "role": "user",
-        "content": "What quantitative measures were analyzed to derive the findings in the report?"
+        "content": "According to Ryan Brukardt, what is space quickly becoming an essential platform for?"
       },
       {
         "role": "assistant",
-        "content": "The findings emerge from analysis of quantitative measures of interest, innovation, equity investment, and talent that underpin each of the 13 trends."
+        "content": "According to Ryan Brukardt, space is quickly becoming an essential platform for innovation, security, and economic growth."
       }
     ],
     [
@@ -312,11 +372,11 @@
       },
       {
         "role": "user",
-        "content": "How does AI accelerate progress in other domains according to the report?"
+        "content": "What does SWaP-C stand for in the context of space technology?"
       },
       {
         "role": "assistant",
-        "content": "AI accelerates progress within individual domains and unlocks new possibilities at the intersections, such as accelerating the training of robots and advancing scientific discoveries in bioengineering."
+        "content": "SWaP-C stands for size, weight, power, and cost."
       }
     ],
     [
@@ -326,11 +386,11 @@
       },
       {
         "role": "user",
-        "content": "Which practice within McKinsey works with MGI on this report?"
+        "content": "What specific job roles are in demand within the energy and sustainability sector?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey\u2019s Technology, Media & Telecommunications Practice, QuantumBlack, AI by McKinsey; and McKinsey Technology work with MGI on this report."
+        "content": "Maintenance technicians specializing in renewable-energy systems, electrical engineers working on grid modernization, and project managers overseeing decarbonization initiatives are in demand."
       }
     ],
     [
@@ -340,11 +400,11 @@
       },
       {
         "role": "user",
-        "content": "When was MGI established?"
+        "content": "How do thermal energy storage technologies function?"
       },
       {
         "role": "assistant",
-        "content": "MGI was established in 1990."
+        "content": "These technologies store energy in the form of heat or cold for later use."
       }
     ],
     [
@@ -354,11 +414,11 @@
       },
       {
         "role": "user",
-        "content": "What is MGI's mission?"
+        "content": "What can be stored using thermal energy storage?"
       },
       {
         "role": "assistant",
-        "content": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders."
+        "content": "This can include storing heat from solar thermal collectors, industrial-waste heat, or excess electricity for heating or cooling applications."
       }
     ],
     [
@@ -368,11 +428,11 @@
       },
       {
         "role": "user",
-        "content": "How is MGI funded?"
+        "content": "What are adaptation solutions in the context of climate change?"
       },
       {
         "role": "assistant",
-        "content": "MGI is entirely funded by the partners of McKinsey."
+        "content": "These are measures taken to adjust to the actual or expected effects of climate change."
       }
     ],
     [
@@ -382,11 +442,11 @@
       },
       {
         "role": "user",
-        "content": "How does MGI share its results?"
+        "content": "What are some examples of adaptation solutions?"
       },
       {
         "role": "assistant",
-        "content": "MGI shares its results publicly free of charge."
+        "content": "Adaptation encompasses a wide range of actions, from building more resilient infrastructure and developing drought-resistant crops to implementing early-warning systems for extreme weather events and managing coastal retreat."
       }
     ],
     [
@@ -396,11 +456,11 @@
       },
       {
         "role": "user",
-        "content": "What is agentic AI?"
+        "content": "What is a major uncertainty affecting the energy transition regarding power grids?"
       },
       {
         "role": "assistant",
-        "content": "Agentic AI combines the flexibility and generality of AI foundation models with the ability to act in the world by creating \u201cvirtual coworkers\u201d that can autonomously plan and execute multistep workflows."
+        "content": "Grid resilience and flexibility, which is the ability of power grids to handle increasing amounts of variable renewable energy while maintaining stability and reliability, is a major uncertainty."
       }
     ],
     [
@@ -410,11 +470,11 @@
       },
       {
         "role": "user",
-        "content": "What is needed to realize AI's full potential across sectors?"
+        "content": "What is a significant factor for decarbonizing hard-to-abate sectors?"
       },
       {
         "role": "assistant",
-        "content": "Realizing AI\u2019s full potential across sectors will require continued innovations to manage computing intensity, reduce deployment costs, and drive infrastructure investment, as well as thoughtful approaches to safety, governance, and workforce adaptation."
+        "content": "Decarbonizing hard-to-abate sectors requires more than engineering breakthroughs; it demands coordinated action across industries, governments, and communities to ensure that innovation is accessible, affordable, and resilient in the face of global uncertainties."
       }
     ],
     [
@@ -424,11 +484,11 @@
       },
       {
         "role": "user",
-        "content": "What is driving innovations in semiconductors?"
+        "content": "What kind of infrastructure upgrades are needed for the energy transition?"
       },
       {
         "role": "assistant",
-        "content": "Innovations in semiconductors have spiked in response to exponentially higher demands for computing capacity, memory, and networking for AI training and inference, as well as a need to manage cost, heat, and electric power consumption."
+        "content": "The scale of infrastructure upgrades required for the energy transition, including transmission lines, charging stations, and hydrogen pipelines, is vast and faces potential delays and funding challenges."
       }
     ],
     [
@@ -438,11 +498,11 @@
       },
       {
         "role": "user",
-        "content": "What is the profile of AI as a technology trend?"
+        "content": "How do macroeconomic factors impact investment in clean-energy projects?"
       },
       {
         "role": "assistant",
-        "content": "AI is a widely applicable, general-purpose technology with use cases in every industry and business function\u2014and thus lots of innovation and interest\u2014and it is scaling rapidly across the business landscape."
+        "content": "Inflation, rising interest rates, and global trade disruptions create uncertainty about financing costs and investment flows for large-scale clean-energy projects."
       }
     ],
     [
@@ -452,18 +512,186 @@
       },
       {
         "role": "user",
-        "content": "What are the potential impacts of quantum computing?"
+        "content": "What supply chain issues can limit the deployment of clean-energy technologies?"
       },
       {
         "role": "assistant",
-        "content": "Quantum computing has the potential for transformative impact in certain critical domains, such as cryptography and material science."
+        "content": "The availability and sustainable sourcing of critical materials for clean-energy technologies, such as rare earth elements and lithium, could limit the speed of deployment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key area of uncertainty in energy markets?"
+      },
+      {
+        "role": "assistant",
+        "content": "The interplay between traditional and emerging energy markets, including the future role of fossil fuels and the competitiveness of renewable-energy sources, remains a key area of uncertainty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is uncertain about the pace of innovation for technologies like green hydrogen electrolyzers and advanced batteries?"
+      },
+      {
+        "role": "assistant",
+        "content": "The speed at which technologies such as green hydrogen electrolyzers, advanced batteries, and synthetic fuels improve cost and performance (for example, achieve cost parity with fossil fuel alternatives) remains uncertain, which affects their scalability and adoption in hard-to-abate sectors."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What uncertainty exists regarding electricity market designs and regulatory frameworks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability of electricity market designs and regulatory frameworks to rapidly adapt and incentivize flexibility, resilience, and low-emission investments is uncertain, posing risks to grid stability and affordability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key area of uncertainty regarding energy markets?"
+      },
+      {
+        "role": "assistant",
+        "content": "The interplay between traditional and emerging energy markets, including the future role of fossil fuels and the competitiveness of renewable-energy sources, remains a key area of uncertainty."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What uncertainty affects the scalability and adoption of technologies like green hydrogen electrolyzers and advanced batteries in hard-to-abate sectors?"
+      },
+      {
+        "role": "assistant",
+        "content": "The speed at which technologies such as green hydrogen electrolyzers, advanced batteries, and synthetic fuels improve cost and performance remains uncertain, which affects their scalability and adoption in hard-to-abate sectors."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What risks are posed by the uncertainty in electricity market designs and regulatory frameworks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ability of electricity market designs and regulatory frameworks to rapidly adapt and incentivize flexibility, resilience, and low-emission investments is uncertain, posing risks to grid stability and affordability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the uncertainty surrounding labor and talent availability in the clean energy sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "The capacity to scale workforce development and training programs to close acute talent shortages in clean energy, sustainability, and digital skills essential for energy transition technologies is uncertain, risking project delays and innovation bottlenecks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an important question companies and leaders should consider about accelerating climate technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies and leaders may want to consider 'What will it take to accelerate the transition of promising climate technologies from lab to market, particularly in hard-to-abate sectors such as steel and cement?'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can digital innovations help accelerate climate technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Digital innovations\u2014like AI, sensors, and advanced analytics\u2014can accelerate the deployment and integration of renewables and climate technologies across fragmented energy systems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What challenges will energy systems face as global electrification surges?"
+      },
+      {
+        "role": "assistant",
+        "content": "As global electrification surges, energy systems will need to adapt to rising demand, more distributed ownership of generation and storage, and the need for next-generation grid governance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key concern for nations and companies regarding supply chains for clean-energy materials?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nations and companies need to consider how to secure resilient, diversified supply chains for critical clean-energy materials amid rising geopolitical tensions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is needed to scale next-generation energy technologies while maintaining affordability and reliability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regulatory frameworks and market mechanisms are needed to unlock the investment and coordination required to scale next-generation energy technologies while maintaining affordability and reliability."
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 24,
-    "retention_rate": 0.96,
-    "avg_score": 8.9
+    "total": 1461,
+    "filtered": 36,
+    "retention_rate": 0.02,
+    "avg_score": 9.1
   }
 }

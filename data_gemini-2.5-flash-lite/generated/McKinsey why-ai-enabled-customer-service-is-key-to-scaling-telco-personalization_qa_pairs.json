@@ -1,40 +1,44 @@
 {
-  "summary": "This document argues that telecommunications companies (telcos) must integrate AI-enabled customer service with their commercial marketing efforts to achieve true personalization and growth. Currently, telcos often operate these functions in silos, leading to disjointed customer experiences and missed opportunities. By creating a unified \"next-best-experience\" engine, telcos can proactively address service issues and tailor commercial offers, leading to significant improvements in customer satisfaction, revenue, and churn reduction. This integrated approach, powered by robust data and analytics, is crucial for telcos to remain competitive in a rapidly evolving market.",
+  "summary": "This document argues that telecommunications companies (telcos) must integrate AI-enabled customer service with their commercial marketing efforts to achieve true personalization and growth. Currently, telcos often operate these functions in silos, leading to disjointed customer experiences and missed opportunities. By creating a unified \"next-best-experience\" engine, telcos can proactively address service issues and tailor commercial offers, leading to significant improvements in customer satisfaction, revenue, and churn reduction. This integrated approach requires a robust data layer that combines commercial and service information to provide a comprehensive view of each customer.",
   "qa_pairs": [
     {
-      "question": "What is the primary reason telcos are increasingly relying on customized commercial marketing?",
-      "answer": "Telcos increasingly rely on customized commercial marketing for objectives such as boosting cross-selling and upselling, reducing churn, improving retention, and acquiring new customers."
-    },
-    {
-      "question": "What is critical for telco growth in integrating commercial and service-related outreach?",
+      "question": "What is crucial for telcos to achieve growth by integrating commercial marketing with service-related outreach?",
       "answer": "Integrating commercial marketing efforts with service-related outreach into a comprehensive next-best-experience engine is critical for growth."
     },
     {
-      "question": "What risks can cause marketing efforts to fall flat for telcos?",
+      "question": "What are some objectives that telcos use commercial next-best-action engines for?",
+      "answer": "Telcos use commercial next-best-action engines for objectives such as boosting cross-selling and upselling, reducing churn, improving retention, and acquiring new customers."
+    },
+    {
+      "question": "Why are marketing efforts at risk of falling flat for telcos?",
       "answer": "Marketing efforts are at risk of falling flat without predictive, proactive, and customized outreach about service-related issues and concerns."
     },
     {
-      "question": "What is a consequence for customers frustrated with service issues like spotty connectivity or high bills?",
-      "answer": "Customers frustrated with spotty connectivity or unexpectedly high bills are less likely to respond positively to a new offer or promotion."
+      "question": "What is critical for telcos to thrive in the current market environment?",
+      "answer": "Creating a next-best-action engine for service issues is critical for telcos to thrive in the challenging market ahead."
     },
     {
-      "question": "What is critical for telcos to thrive in the current market conditions?",
-      "answer": "To thrive in the challenging market ahead, with disruptive new technologies, digital-native competition, and rising customer expectations, creating a next-best-action engine for service issues is critical."
+      "question": "What approach can telcos take instead of using two separate next-best-action engines?",
+      "answer": "Telcos can integrate commercial and service-related capabilities into a single, comprehensive next-best-experience engine to communicate with customers in a highly personalized way."
     },
     {
-      "question": "What is a more comprehensive approach telcos can take instead of using separate engines?",
-      "answer": "Rather than trying to use two separate next-best-action engines, telcos can work on integrating commercial and service-related capabilities into a single, comprehensive next-best-experience engine."
+      "question": "What is the estimated cost reduction for certain use cases within three years by integrating commercial and service engines?",
+      "answer": "Within three years, this approach will allow operators to cut costs associated with certain use cases by up to 30 percent."
     },
     {
-      "question": "What are the estimated cost and revenue benefits of integrating commercial and service capabilities into a single engine within three years?",
-      "answer": "Within three years, this approach will allow operators to cut costs associated with certain use cases by up to 30 percent, boost overall B2C revenues by 2 to 4 percent, improve customer satisfaction by 10 to 20 percent, and reduce early-life churn by as much as 30 percent."
+      "question": "What is the estimated boost in overall B2C revenues within three years from this integrated approach?",
+      "answer": "Within three years, this approach is estimated to boost overall B2C revenues by 2 to 4 percent."
     },
     {
-      "question": "What is the potential upside for early movers in adopting a next-best-experience engine?",
-      "answer": "There is a potentially significant upside for early movers, which will set new standards for what customers can expect from their telcos."
+      "question": "What is the estimated improvement in customer satisfaction within three years from integrating commercial and service engines?",
+      "answer": "Within three years, this approach is estimated to improve customer satisfaction by 10 to 20 percent."
     },
     {
-      "question": "What is the risk for telcos that are slow to adopt new customer experience strategies?",
+      "question": "What is the estimated reduction in early-life churn within three years from this integrated approach?",
+      "answer": "Within three years, this approach is estimated to reduce early-life churn by as much as 30 percent."
+    },
+    {
+      "question": "What are the risks for telcos that are slow to adopt this new approach?",
       "answer": "Operators that are slow to venture into this new frontier risk lagging further behind over the next three to five years as they struggle to satisfy customers\u2019 evolving demands."
     },
     {
@@ -42,64 +46,396 @@
       "answer": "Digital-native service and content providers are continually redefining customer expectations and, in the process, weakening telcos\u2019 relationships with their customers."
     },
     {
-      "question": "What does the commoditization of connectivity mean for telcos?",
-      "answer": "The commoditization of connectivity raises the stakes of getting telecom service right."
+      "question": "What is the correlation between customer experience and retention in the telecom industry?",
+      "answer": "There is a strong correlation between customer experience and retention, with overlap as high as 80 to 90 percent in some markets."
     },
     {
-      "question": "What is the correlation between customer experience and retention in the telco industry?",
-      "answer": "There is a strong correlation between customer experience and retention\u2014with overlap as high as 80 to 90 percent in some markets."
+      "question": "What happened to a Western European telco when customers had to make multiple calls to resolve connectivity issues?",
+      "answer": "A Western European telco discovered that customers who had to make two or more phone calls to resolve connectivity issues were almost twice as likely to walk away at the end of their contract."
     },
     {
-      "question": "What kind of customer experience issues can negatively impact a telco's marketing campaigns?",
+      "question": "What is the correlation between customer experience and retention in some markets?",
+      "answer": "There is a strong correlation between customer experience and retention, with overlap as high as 80 to 90 percent in some markets."
+    },
+    {
+      "question": "What kind of customer experiences are unlikely to lead to a positive response to marketing campaigns?",
       "answer": "Customers reeling from poor customer experience, faulty connectivity, or surprise charges on their bills are unlikely to respond well to any marketing campaign."
     },
     {
-      "question": "What did one Western European telco discover about customers who had to make multiple calls to resolve connectivity issues?",
+      "question": "What impact did having to make multiple calls for service issues have on customer loyalty for one Western European telco?",
       "answer": "One Western European telco discovered that customers who had to make two or more phone calls to resolve connectivity issues were almost twice as likely to walk away at the end of their contract."
     },
     {
-      "question": "What is the strong correlation between customer experience and retention in some markets?",
-      "answer": "The strong correlation between customer experience and retention can be as high as 80 to 90 percent in some markets."
-    },
-    {
-      "question": "What kind of customer issues are unlikely to make customers respond well to marketing campaigns, even with low prices?",
-      "answer": "Customers reeling from poor customer experience, faulty connectivity, or surprise charges on their bills are unlikely to respond well to any marketing campaign, even if a telco\u2019s prices are the lowest available."
-    },
-    {
-      "question": "What was discovered about customers who had to make multiple calls to resolve connectivity issues?",
-      "answer": "One Western European telco discovered that customers who had to make two or more phone calls to resolve connectivity issues were almost twice as likely to walk away at the end of their contract."
-    },
-    {
-      "question": "What can happen when telcos' commercial and service capabilities operate in silos?",
-      "answer": "When telcos\u2019 commercial and service capabilities operate in silos, customers may be flooded with irrelevant, even irksome communications, potentially leading them to revoke their consent to receive marketing communications."
+      "question": "What can happen when a telco's commercial and service capabilities operate in silos?",
+      "answer": "When telcos' commercial and service capabilities operate in silos, customers may be flooded with irrelevant, even irksome communications, leading some to revoke their consent to receive marketing communications."
     },
     {
       "question": "What is the benefit of an integrated next-best-experience engine?",
-      "answer": "An integrated next-best-experience engine that takes a holistic approach to personalization can substantially improve customer experience and reduce the costs associated with serving them."
+      "answer": "An integrated next-best-experience engine can not only substantially improve the experience of customers but also reduce the costs associated with serving them."
+    },
+    {
+      "question": "How can an integrated next-best-experience engine reduce costs?",
+      "answer": "This can be done by replacing reactive, inbound-focused customer interactions with highly automated outreach that is both proactive and preemptive, and by ensuring that a telco speaks to its customers with one voice."
     },
     {
       "question": "What are the four main layers of the next-best-experience engine?",
       "answer": "The next-best-experience engine comprises four main layers: data, analytics, decisioning, and channel execution."
     },
     {
-      "question": "What should the data layer of the next-best-experience engine be?",
-      "answer": "The data layer should be the single source of truth for the entire engine, encompassing all data points that may be relevant for addressing the full spectrum of customers\u2019 needs and desires."
+      "question": "What is analyzed through the lens of customer lifetime value in the next-best-experience engine?",
+      "answer": "Every potential action a telco might take is analyzed through the lens of customer lifetime value."
     },
     {
-      "question": "What kind of data is combined to create a 360-degree view of each customer?",
+      "question": "What should the data layer of the next-best-experience engine be?",
+      "answer": "The data layer should be the single source of truth for the entire engine."
+    },
+    {
+      "question": "What types of data are combined to create a 360-degree view of each customer in the data layer?",
       "answer": "Commercial and service data, including data from external sources, gets combined with data on demographics and location to create a consistent 360-degree view of each customer."
     },
     {
-      "question": "What are examples of commercial data that telcos might collect?",
+      "question": "What are examples of commercial data that might be included in the data layer?",
       "answer": "Commercial data might include tenure, historical receptivity to campaigns, customer satisfaction scores, and previous transactions."
     },
     {
-      "question": "What are examples of service data that telcos might collect?",
+      "question": "What are examples of service data that might be included in the data layer?",
       "answer": "Service data might include network usage, network stability, device usage, and customers\u2019 propensity to call regarding faulty service."
     },
     {
-      "question": "What is a common reason why service data is often less robust than commercial data?",
+      "question": "What is a common reason why service data is less robust than commercial data?",
       "answer": "Service data is generally far less robust, in part because it is often generated by sensors and therefore requires a great deal of effort to extract, transform, and use effectively."
+    },
+    {
+      "question": "Why do silos exist even within telcos' commercial divisions?",
+      "answer": "Silos exist even within telcos\u2019 commercial divisions; churn-focused teams, for example, may compile and process data separately from teams focused on customer acquisition."
+    },
+    {
+      "question": "Why is service data generally less robust?",
+      "answer": "Service data is generally less robust in part because it is often generated by sensors and therefore requires a great deal of effort to extract, transform, and use effectively."
+    },
+    {
+      "question": "What is a consequence of silos existing within telcos' commercial divisions?",
+      "answer": "Silos within telcos' commercial divisions can duplicate work while limiting each team\u2019s insight into customers\u2019 attributes, demands, and behaviors."
+    },
+    {
+      "question": "How does poor data governance affect telcos' ability to utilize their data?",
+      "answer": "Poor data governance affects telcos' ability to make the most of their data because they tend to lack clarity on data quality and where different types of data reside, often resorting to less productive, manual means of preparing data."
+    },
+    {
+      "question": "What is key to creating actionable, data-driven insights in telcos?",
+      "answer": "Automation is key to creating actionable, data-driven insights."
+    },
+    {
+      "question": "What is required to enable automation in data-related work?",
+      "answer": "Automation requires clear data accountability standards and consistent naming conventions to ensure that data from multiple sources is labeled and organized similarly."
+    },
+    {
+      "question": "What role can a chief data officer or head of data play in improving data quality?",
+      "answer": "A chief data officer or head of data can oversee all customer data, protect it, and guarantee that its quality is as high as possible, acting as the go-to person for data-related questions and having the authority to appoint a team to manage data."
+    },
+    {
+      "question": "What was the purpose of a European telecom group creating a single data and analytics center of excellence?",
+      "answer": "The group created a single data and analytics center of excellence to codify and share best practices, build economies of scale, and standardize and expedite service delivery."
+    },
+    {
+      "question": "What was the initial step taken by the European telecom group to improve data and analytics?",
+      "answer": "The group started by creating a common data model to serve as the foundation for analytical efforts across all countries."
+    },
+    {
+      "question": "How did the European telecom group's common abstraction layer benefit their analytical efforts?",
+      "answer": "The common abstraction layer, linked to raw data via standardized routines, made it easy to shift any analytical model or use case from one country to another."
+    },
+    {
+      "question": "What is the impact of the European telecom group's data strategy on deploying new use cases?",
+      "answer": "The group expedited the timeline for deploying new \u201clighthouse\u201d use cases from around five months to six weeks, with only two additional weeks required to deploy new use cases across multiple countries."
+    },
+    {
+      "question": "What are the three categories of service-related issues that machine learning models in the analytics layer can address?",
+      "answer": "The three categories of service-related issues are preemptive (detecting an impending problem before it occurs), proactive (detecting and correcting faults before customers notice them), and reactive (engaging with customers who contact them about an issue)."
+    },
+    {
+      "question": "What is the central aim of the analytics layer in telcos?",
+      "answer": "The central aim of the analytics layer is to intervene as early as possible, ideally by preventing errors altogether."
+    },
+    {
+      "question": "What are the benefits of intervening early through the analytics layer?",
+      "answer": "Intervening early minimizes the cost of rectifying issues and boosts customers\u2019 perception of service quality."
+    },
+    {
+      "question": "What is the benefit of analytical models working on top of an abstraction layer?",
+      "answer": "It makes it easy to shift any model or use case from one country to another."
+    },
+    {
+      "question": "How did the deployment timeline for new 'lighthouse' use cases change?",
+      "answer": "The timeline was expedited from around five months to six weeks."
+    },
+    {
+      "question": "What are the three categories of service-related issues that machine learning models can address?",
+      "answer": "The three categories are preemptive, proactive, and reactive."
+    },
+    {
+      "question": "What is the central aim of the analytics layer?",
+      "answer": "The central aim is to intervene as early as possible, ideally by preventing errors altogether."
+    },
+    {
+      "question": "Which types of use cases do many telcos have machine learning models for?",
+      "answer": "Many telcos have models for commercial use cases such as churn and pricing."
+    },
+    {
+      "question": "What is a missed opportunity for telcos regarding machine learning models?",
+      "answer": "It is a missed opportunity not to integrate machine learning models for both commercial and service use cases, as it prevents telcos from factoring service-related issues into their decision making."
+    },
+    {
+      "question": "What did a Western European telco develop to identify customers likely to call about fault-related issues?",
+      "answer": "The telco developed a predictive analytics model."
+    },
+    {
+      "question": "What percentage of customers were found to be significantly more likely to call about faults by the Western European telco?",
+      "answer": "About 10 percent of customers were almost 80 percent more likely than others to call about faults."
+    },
+    {
+      "question": "What type of solutions were offered in subsequent pilots by the Western European telco?",
+      "answer": "Subsequent pilots offered end-to-end automated solutions, such as overnight remote router resets."
+    },
+    {
+      "question": "By what percentage did the Western European telco reduce costs associated with serving a specific group of customers?",
+      "answer": "The telco reduced the costs by 35 percent."
+    },
+    {
+      "question": "What is the role of the decisioning layer in relation to machine learning models?",
+      "answer": "The decisioning layer determines which use case to activate, when to activate it, and how to do so for each customer, depending on the situation or issue that arises."
+    },
+    {
+      "question": "How do leading telcos gain a competitive edge at the decisioning layer stage?",
+      "answer": "Leading telcos gain their competitive edge by delivering true personalization at scale."
+    },
+    {
+      "question": "What factors does the decisioning layer consider when assessing potential actions?",
+      "answer": "The decisioning layer factors in the expected long-term value from every possible action, the likelihood of an individual customer taking certain actions, and the cost of serving the customer through each channel."
+    },
+    {
+      "question": "What new information does the decisioning model incorporate when a customer's status changes?",
+      "answer": "The decisioning model incorporates new information, such as migrating to a new plan, activating a new device, or starting to use a different channel, when predicting customers\u2019 responses and calculating the value and costs of each potential telco action."
+    },
+    {
+      "question": "How do leading telcos gain a competitive edge at this stage?",
+      "answer": "Leading telcos gain their competitive edge by delivering true personalization at scale."
+    },
+    {
+      "question": "What should be assessed for every potential action a telco takes?",
+      "answer": "Each potential action (both service and commercial) should be assessed for how it will affect customer lifetime value."
+    },
+    {
+      "question": "What factors does the decisioning layer consider when assessing actions?",
+      "answer": "The decisioning layer factors in the expected long-term value from every possible action a telco might take, the likelihood of an individual customer taking certain actions, and the cost of serving the customer through each channel."
+    },
+    {
+      "question": "When does the decisioning model incorporate new information?",
+      "answer": "Whenever a customer\u2019s status changes\u2014for example, when they migrate to a new plan, activate a new device, or start using a different channel\u2014the decisioning model incorporates this new information."
+    },
+    {
+      "question": "What happens if a model signals that a customer is likely to leave the company?",
+      "answer": "If the model signals, for example, that a customer will likely leave the company, the churn-prevention use case may kick in."
+    },
+    {
+      "question": "What is the purpose of the trigger-based flow in the decisioning layer?",
+      "answer": "The trigger-based flow is activated when circumstances change, necessitating a quick diversion from the machine learning model."
+    },
+    {
+      "question": "How did telcos historically segment customers for commercial operations?",
+      "answer": "Historically, telcos\u2019 commercial operations have grouped customers into ten to 15 relatively static segments, based on data related to such broad categories as demographics, usage, and tenure."
+    },
+    {
+      "question": "How do telcos' current microsegmentation approaches differ from historical methods?",
+      "answer": "To enable responsiveness and personalization, customers are grouped into hundreds of microsegments for each potential use case, which are dynamic, responsive, and automatically updated, constantly evolving based on new data, insights, and customer behaviors, unlike the historically static and broader segmentation methods."
+    },
+    {
+      "question": "What is an example of how telcos align responses to customer priorities?",
+      "answer": "If a high-value customer experiencing service problems were to be contacted proactively with an offer to send an engineer to their home, all marketing campaigns would be paused until the customer\u2019s service issues were resolved."
+    },
+    {
+      "question": "What are the three parallel flows ideally included in the decisioning layer?",
+      "answer": "The decisioning layer ideally includes three parallel flows: an always-on flow, a regulatory flow, and a trigger-based flow."
+    },
+    {
+      "question": "Which flow supersedes the other two and ensures compliance with legal mandates?",
+      "answer": "The regulatory flow supersedes the other two flows, ensuring that telcos comply with all legal mandates."
+    },
+    {
+      "question": "What is an example of a trigger-based flow action when a customer explores contract cancellation information?",
+      "answer": "If a customer explores a section of the telco\u2019s website with information about canceling contracts, the trigger-based flow might kick in to send offers enticing them to stay."
+    },
+    {
+      "question": "What action might be taken if a customer explores information about iPhone upgrades?",
+      "answer": "If a customer explores information about iPhone upgrades, they may receive a text with upgrade offers."
+    },
+    {
+      "question": "What might happen if a customer explores a section of a telco's website about canceling contracts?",
+      "answer": "If a customer explores a section of the telco\u2019s website with information about canceling contracts, a trigger-based flow might send offers enticing them to stay."
+    },
+    {
+      "question": "What is a potential outcome if a customer explores information about iPhone upgrades?",
+      "answer": "If a customer explores information about iPhone upgrades, they may receive a text with upgrade offers."
+    },
+    {
+      "question": "What might a customer receive if they conduct a remote speed check on their broadband connection?",
+      "answer": "If they conduct a remote speed check on their broadband connection, they may receive an in-app message suggesting they reconnect their router."
+    },
+    {
+      "question": "What is the recommended maximum number of triggers for a trigger-based flow?",
+      "answer": "The trigger-based flow should include at most a dozen triggers to monitor and act on."
+    },
+    {
+      "question": "What is the purpose of limiting the number of triggers in a trigger-based flow?",
+      "answer": "Limiting the number of triggers helps to reduce any risk of compromising the accuracy or efficiency of the always-on flow."
+    },
+    {
+      "question": "Why might business leaders manually override the always-on flow?",
+      "answer": "Business priorities or brand-new information that the model has not yet integrated may prompt leaders to manually override the always-on flow."
+    },
+    {
+      "question": "What is an example of a situation where a manual override might be used?",
+      "answer": "If a competitor enters a new region, the business may prioritize broadband repairs or offers in that specific region rather than the actions suggested by the always-on flow."
+    },
+    {
+      "question": "What is a potential risk of overusing the manual override feature, especially during a transitional period?",
+      "answer": "Overusing the manual override feature can erode the quality of the overall decisioning process."
+    },
+    {
+      "question": "What is the goal for a telco's various customer service channels like call centers, retail stores, and websites?",
+      "answer": "Inbound call centers, retail stores, websites, apps, SMS outreach, and email channels should ideally speak with one voice, so customers can switch channels seamlessly without being inundated with contradictory messaging."
+    },
+    {
+      "question": "What does it mean for a telco to have true omnichannel capabilities?",
+      "answer": "True omnichannel capabilities mean that all inbound, outbound, automated, and human-assisted channels are completely aligned."
+    },
+    {
+      "question": "What benefit do customers experience when commercial and service-related interactions are integrated across channels?",
+      "answer": "When this integration takes place, customers can schedule engineering visits through their preferred channels and track their technicians\u2019 locations in real time, making visits much more convenient."
+    },
+    {
+      "question": "How are the outcomes of customer interactions fed back into the decisioning layer?",
+      "answer": "When customers interact with the telco on any channel, the outcomes of these interactions are fed back into the decisioning layer to continually improve the model\u2019s decisioning logic."
+    },
+    {
+      "question": "What was a major source of customer dissatisfaction and churn for a major integrated European telco?",
+      "answer": "The service and repairs experience had long been a source of customer dissatisfaction and a driver of churn for a major integrated European telco."
+    },
+    {
+      "question": "What did the major integrated European telco do to overhaul its service and repairs experience?",
+      "answer": "The telco digitized the experience, creating an app and web-based platform that allow customers to schedule engineering visits easily, monitor how far a technician is from their home, see how many customers are ahead of them, and communicate with engineers before and after visits."
+    },
+    {
+      "question": "How do telcos gauge customer responses to interactions?",
+      "answer": "Telcos can gauge differences in how customers respond to interactions on various channels and at numerous times of day."
+    },
+    {
+      "question": "What happens to the outcomes of customer interactions with a telco?",
+      "answer": "When customers interact with the telco on any channel, the outcomes of these interactions are fed back into the decisioning layer to continually improve the model\u2019s decisioning logic."
+    },
+    {
+      "question": "What was a major challenge for a European telco mentioned in the text?",
+      "answer": "A major integrated European telco implemented a comprehensive channel strategy to overhaul its service and repairs experience, which had long been a source of customer dissatisfaction and a driver of churn."
+    },
+    {
+      "question": "What digital features did the European telco create to improve customer experience?",
+      "answer": "The telco digitized the experience, creating an app and web-based platform that allow customers to schedule engineering visits easily, monitor how far a technician is from their home, see how many customers are ahead of them, and communicate with engineers before and after visits."
+    },
+    {
+      "question": "What impact did the telco's digital strategy have on inbound calls and unsuccessful visits?",
+      "answer": "The effort was worth it, halving the telco\u2019s inbound calls related to service ticket management and reducing the number of unsuccessful visits (those failing to yield a satisfactory resolution by 20 percent)."
+    },
+    {
+      "question": "What is suggested for continually improving the next-best-experience engine?",
+      "answer": "To unlock the most value from the next-best-experience engine, all four layers should be continually improved through a feedback loop that incorporates automated resolution tracking to ensure problems have been resolved."
+    },
+    {
+      "question": "How can telcos ensure customers don't receive the same offer repeatedly?",
+      "answer": "New data, based on customers\u2019 responses to recent campaigns or the relative success of communications on different channels, should be incorporated as quickly as possible to ensure, for example, that customers who reject a particular offer do not receive the same one a week later."
+    },
+    {
+      "question": "What can organizations do once the four layers of the next-best-experience engine are in place?",
+      "answer": "Once the four layers are in place, along with processes for continually refining them, organizations can establish an entirely new set of end-to-end processes that use the engine\u2019s insights to unlock value."
+    },
+    {
+      "question": "What is required for true personalization at scale in telcos?",
+      "answer": "True personalization at scale requires a fundamental shift\u2014away from disconnected decision making based on business units\u2019 individual KPIs and toward cohesive decision making based on what\u2019s best for the customer at a given point in time."
+    },
+    {
+      "question": "What is essential at the infrastructural level for telcos aiming for personalization at scale?",
+      "answer": "At the infrastructural level, telcos should strongly consider having a modern tech stack in place, one fortified with best-in-class computational power, data engineering and software development tools, machine learning operations, DevOps (software development and IT operations), and real-time delivery capabilities."
+    },
+    {
+      "question": "What is essential regarding data governance and accountability in telco personalization?",
+      "answer": "Data governance and accountability, spanning all four layers, are essential; a single team or leader has to serve as the point of contact for all data-related questions and issues."
+    },
+    {
+      "question": "What is required for true personalization at scale in telcos?",
+      "answer": "True personalization at scale requires a fundamental shift away from disconnected decision making based on business units\u2019 individual KPIs and toward cohesive decision making based on what\u2019s best for the customer at a given point in time."
+    },
+    {
+      "question": "What are the essential infrastructural level enablers for telcos undergoing transformation?",
+      "answer": "At the infrastructural level, telcos should strongly consider having a modern tech stack in place, one fortified with best-in-class computational power, data engineering and software development tools, machine learning operations, DevOps, and real-time delivery capabilities. Data governance and accountability spanning all four layers are also essential."
+    },
+    {
+      "question": "What organizational changes are needed for telcos to achieve large-scale personalization?",
+      "answer": "Organizationally, people across many commercial and service teams need to collaborate, requiring complex workflows and new levels of cooperation. Agile teams with a 'fail fast' mentality, empowered to make decentralized decisions, are necessary, moving away from traditional 'waterfall' methods."
+    },
+    {
+      "question": "What type of technical talent do telcos need to develop for personalization initiatives?",
+      "answer": "Telcos will need to seek out and develop a new class of technical talent skilled in scaling up machine learning\u2013powered use cases, integrating technical and commercial considerations into decision making, and establishing effective pilots with solid feedback loops."
+    },
+    {
+      "question": "How can organizations start their personalization journey if certain enablers are weak?",
+      "answer": "If certain enablers are particularly weak, organizations might start with a diagnostic assessment and then begin with less complex models, using rule-based logic, for example, rather than waiting to develop the talent or tech stack for best-in-class models."
+    },
+    {
+      "question": "What is the purpose of lighthouse use cases in telco personalization?",
+      "answer": "Lighthouse use cases are relatively easy to build and demonstrate the value of a robust, integrated next-best-experience engine, serving to persuade business leaders that the effort for new ways of working, success measurement, and investment allocation will be worthwhile."
+    },
+    {
+      "question": "What customer expectation is likely to increase over the next five years for telcos?",
+      "answer": "Over the next five years, customers will likely expect personalization at scale in all interactions with their telcos, including service."
+    },
+    {
+      "question": "What opportunity does maturing 5G technology present for telcos?",
+      "answer": "As 5G technology matures, telcos have an opportunity to maximize their share of a value pool that could easily exceed $100 billion over the next five years by venturing further beyond core connectivity."
+    },
+    {
+      "question": "What is the primary benefit of lighthouse use cases for business leaders?",
+      "answer": "Lighthouse use cases are an effective way to persuade business leaders that creating new ways of working, measuring success, and allocating investment dollars will be worth the effort."
+    },
+    {
+      "question": "What customer expectation are telcos likely to face regarding personalization over the next five years?",
+      "answer": "Over the next five years, customers will likely expect personalization at scale in all interactions with their telcos."
+    },
+    {
+      "question": "How can telcos maximize their share of a value pool exceeding $100 billion in the next five years?",
+      "answer": "As 5G technology matures, telcos have an opportunity to maximize their share of a value pool that could easily exceed $100 billion over the next five years by venturing further beyond core connectivity."
+    },
+    {
+      "question": "What are some examples of new revenue streams telcos might create in the coming years?",
+      "answer": "In the coming years, we are likely to see telcos create a range of new revenue streams, from credit risk assessment products geared toward financial institutions to ecosystem offerings that bundle media and entertainment services."
+    },
+    {
+      "question": "Besides expanding beyond core connectivity, what other capabilities can telcos derive new value from?",
+      "answer": "Telcos can also derive new value from their new data and analytics capabilities to streamline the scale-up of use cases and move into adjacent businesses such as home security or financial services."
+    },
+    {
+      "question": "What is the foundation of all the potential change discussed in the text?",
+      "answer": "The foundation of all this potential change is the next-best-experience engine that integrates commercial and service-related capabilities."
+    },
+    {
+      "question": "What advantage do telcos have if they act early to create the next-best-experience engine?",
+      "answer": "Telcos that act early to create this powerful tool may have a distinct advantage, with the extended runway needed to experiment, iterate, refine, and monetize their efforts."
+    },
+    {
+      "question": "What are the names and affiliations of the partners mentioned in the text?",
+      "answer": "Lars Engel Nielsen is a partner in McKinsey\u2019s Copenhagen office, Lars Fiedler is a partner in the Hamburg office, Dominika Kampa and Stanislav Kucherenko are associate partners in the London office, Julian Raabe is a partner in the Munich office, Tim Schenk is an associate partner in the Melbourne office, and Davide Schiavotto is a senior partner in the Milan office."
+    },
+    {
+      "question": "Who are the individuals thanked for their contributions to the article?",
+      "answer": "The authors wish to thank Anshul Goyal, Kalina Janevska, and Sokto Sultimov for their contributions to this article."
     }
   ]
 }

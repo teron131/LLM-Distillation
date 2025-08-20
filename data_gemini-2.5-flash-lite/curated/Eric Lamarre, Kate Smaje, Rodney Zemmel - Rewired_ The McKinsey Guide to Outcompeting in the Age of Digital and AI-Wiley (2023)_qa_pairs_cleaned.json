@@ -1,130 +1,995 @@
 {
-  "summary": "This document contains praise for the book \"Rewired,\" which is described as an essential guide for digital and AI transformation. The reviewers highlight its comprehensive approach, covering talent, operating models, technology, and data. They emphasize that successful transformation requires reimagining the entire business, not just upgrading systems. The book is lauded for providing practical frameworks and actionable insights for leaders aiming to achieve competitive advantage in the digital age.",
+  "summary": "This document consists of a collection of endorsements for the book \"Rewired.\" The reviewers, primarily CEOs and senior executives from various global companies, praise the book as an essential guide for digital and AI transformation. They highlight its practical approach, comprehensive frameworks, and focus on reimagining business strategy, talent, and operations to leverage technology for competitive advantage. The consensus is that \"Rewired\" offers a clear roadmap for organizations seeking to navigate the complexities of digital innovation and become true digital enterprises.",
   "qa_pairs": [
     {
-      "question": "According to Matt Anderson, what are the key elements required for success in digital and AI transformation?",
-      "answer": "Matt Anderson states that the key elements for success in digital and AI transformation include talent-building, adopting new operating models, utilizing advanced technology, and embedding data.",
+      "question": "What key elements does 'Rewired' provide for success in digital and AI transformation?",
+      "answer": "'Rewired' provides an integrated approach to key elements for success in digital and AI transformation, including talent-building, adopting new operating models, utilizing advanced technology, and embedding data.",
       "rating": 9
     },
     {
-      "question": "What does Dr. Albert Bourla suggest is necessary for maximizing digital benefits today?",
-      "answer": "Dr. Albert Bourla suggests that maximizing digital benefits today entails boldly reimagining your business, from strategy to delivery, to reflect the power of AI, data, and advanced analytics.",
+      "question": "What are some of the technologies examined in the book that create unique issues and opportunities?",
+      "answer": "The book examines the unique issues and opportunities created by technologies such as smartphones, the Internet of Things, artificial intelligence (including machine learning and deep learning), augmented and virtual reality, big data and real-time analytics, digital twins, APIs, cloud technologies, and others.",
       "rating": 9
     },
     {
-      "question": "What does Bettina Dietsche say is required to win in the digital age?",
-      "answer": "Bettina Dietsche states that winning in the digital age requires a differentiating strategy, distinctive capabilities, and daring delivery.",
+      "question": "What is one touchstone for anchoring a transformation vision?",
+      "answer": "One touchstone is to anchor the transformation vision in the overall business strategy of the company.",
       "rating": 9
     },
     {
-      "question": "How does Julie Dillman describe the journey of being digital?",
-      "answer": "Julie Dillman describes being digital as an everlasting journey that requires constant reimagination of talent, organization, and underpinning technology and data to create competitive advantage.",
+      "question": "What is considered a bigger challenge than legacy technology?",
+      "answer": "Legacy mindsets are a bigger challenge than legacy technology.",
       "rating": 9
     },
     {
-      "question": "What is Ted Doheny's view on 'Rewired' as a reference guide?",
-      "answer": "Ted Doheny considers 'Rewired' to be the best reference guide on digital transformation he has seen, offering a detailed view of how to get it done and achieve results.",
+      "question": "How will system architecture need to adapt for GenAI?",
+      "answer": "System architecture will need to adapt to incorporate multimodal GenAI capabilities into end-to-end work flows.",
       "rating": 9
     },
     {
-      "question": "Who does Rona Fairhead believe 'Rewired' is for?",
-      "answer": "Rona Fairhead believes 'Rewired' is for anyone whose business has both digital opportunities and challenges and an aspiration to succeed, regardless of their industry or role.",
+      "question": "What is a key action within the 'PERSONALIZED MARKETING' domain in Phase 1?",
+      "answer": "A key action is to 'Build consumer 360 data asset'.",
       "rating": 9
     },
     {
-      "question": "According to Roger W. Ferguson Jr., what does 'Rewired' help to break down regarding technology's impact on business?",
-      "answer": "Roger W. Ferguson Jr. states that 'Rewired' helps to put AI and technology into perspective by breaking down the mechanics of change and itemizing all the things needed for technology to have an impact on a business.",
+      "question": "What is a critical question for executives regarding digital and AI transformations?",
+      "answer": "Every company faces the same strategic question when it comes to digital and AI transformations: \u201cDo we need to own this talent?\u201d",
       "rating": 9
     },
     {
-      "question": "What specific areas does Roger W. Ferguson Jr. mention as necessary for technology to have an impact on a business?",
-      "answer": "Roger W. Ferguson Jr. mentions areas such as building a digital talent bench, implementing modern software engineering practices, and organizing the enterprise to deliver continuous digital innovations.",
+      "question": "What kind of team is a TWR, and what are its key components?",
+      "answer": "The TWR is an interdisciplinary team that mirrors the working habits and behaviors of an agile pod, made up of tech recruiters and HR specialists.",
       "rating": 9
     },
     {
-      "question": "What is the primary purpose of the book 'Rewired' according to the provided text?",
-      "answer": "The book 'Rewired' helps to put AI and technology into perspective by breaking down the mechanics of change and itemizing all the things you need to do in order for technology to have an impact on your business.",
+      "question": "What does a Senior Principal DS do in relation to technical validity?",
+      "answer": "A Senior Principal DS holds the bar for technical validity of approaches and defends that bar even under time/resource pressure.",
       "rating": 9
     },
     {
-      "question": "What does 'Rewired' provide for developing and implementing a digital and AI transformation?",
-      "answer": "'Rewired' provides a thorough, yet easy-to-follow guide to developing and implementing a digital and AI transformation.",
+      "question": "How long can reskilling take to complete?",
+      "answer": "This can be a significant undertaking and can take six to 12 months or more to complete.",
+      "rating": 8
+    },
+    {
+      "question": "What are OKRs and who is generally credited as their brainchild?",
+      "answer": "OKRs are objectives and key results, and they are generally credited as the brainchild of the late Intel CEO Andy Grove.",
       "rating": 9
     },
     {
-      "question": "According to Peter Jacobs, what is a major challenge of digital and AI transformation?",
-      "answer": "According to Peter Jacobs, one of the major challenges of a digital and AI transformation is the technology that underpins it, which is complex and fast-changing.",
+      "question": "What else does a chapter own besides staffing?",
+      "answer": "The chapter also owns the exchange of best practices and the development of methods and standards.",
       "rating": 9
     },
     {
-      "question": "How does 'Rewired' help in applying technology to achieve a competitive advantage?",
-      "answer": "'Rewired' shows the way forward by not just clarifying the role of technology, but also showing how to apply the technology in order to achieve a competitive advantage.",
+      "question": "What are some of the skills of a great product owner as illustrated in Exhibit 15.1?",
+      "answer": "The skills of a great product owner include customer-experience grounding, ability to design customer-centric experiences throughout the customer decision journey, market orientation, business acumen, technical skills, and soft skills.",
       "rating": 9
     },
     {
-      "question": "What kind of guide is 'Rewired' for enterprise leaders in the digital age?",
-      "answer": "'Rewired' is a practical guide that takes enterprise leaders through the journey of building or changing business processes, capabilities, culture, and customer experiences to deliver sustainable value.",
+      "question": "What is the learning goal for Forum 2 in the upskilling program?",
+      "answer": "The learning goal for Forum 2 is empathizing with the user and defining the 'How', focusing on innovative rather than incremental approaches.",
       "rating": 9
     },
     {
-      "question": "What service have Lamarre, Smaje, and Zemmel undertaken in relation to digital transformation?",
-      "answer": "Lamarre, Smaje, and Zemmel have undertaken a unique service in filtering through the complexity of digital transformation and making it navigable.",
+      "question": "What is required to achieve the objective of enabling pods to innovate?",
+      "answer": "Achieving this requires building a distributed technology environment where every pod can access the data, applications, and software development tools they need to rapidly innovate and deliver secure, high-quality solutions.",
       "rating": 9
     },
     {
-      "question": "What does 'Rewired' provide for managing the complexity of digital transformation in a global organization?",
-      "answer": "'Rewired' captures that complexity and provides a clear set of actions and steps to manage it.",
+      "question": "How quickly can Netflix deploy new code into its production environment compared to most companies?",
+      "answer": "Netflix can deploy new code into its production environment within hours, where most companies would need months.",
       "rating": 9
     },
     {
-      "question": "Who is described as a potential reader for 'Rewired' in the context of leading a multinational company?",
-      "answer": "The book is described as an absolute must-read for any executive with aspirations for leading a multinational company and turning the promises of digital into reality.",
+      "question": "What CI tool did an agile pod at a global pharma company configure?",
+      "answer": "An agile pod developing new API functionality configured CircleCI as their CI tool of choice.",
       "rating": 9
     },
     {
-      "question": "What does Roger W. Ferguson Jr. state is needed for technology to have an impact on a business?",
-      "answer": "Roger W. Ferguson Jr. states that building a digital talent bench, implementing modern software engineering practices, organizing the enterprise to deliver continuous digital innovations are things you need to do for technology to have an impact on your business.",
+      "question": "How should changes to the production environment be made?",
+      "answer": "Changes to the production environment should follow standard engineering practices and be deployed via a strict continuous deployment process, not created manually.",
       "rating": 9
     },
     {
-      "question": "What does Jeff Harmening suggest 'Rewired' provides to increase an organization's odds of success in transformation?",
-      "answer": "Jeff Harmening suggests that 'Rewired' provides a clear roadmap to build enterprise capabilities and concrete examples that will greatly increase an organization's odds of success.",
+      "question": "What does Machine Learning (ML) do?",
+      "answer": "Machine learning (ML) is a method that 'learns' from data to improve performance on some set of tasks.",
+      "rating": 8
+    },
+    {
+      "question": "What is the first step before fixing or cleaning data?",
+      "answer": "Before fixing or cleaning the data, you need to identify what's wrong with it by thoroughly assessing it.",
       "rating": 9
     },
     {
-      "question": "What is the title of the book discussed in the text?",
-      "answer": "The title of the book is 'Rewired'.",
-      "rating": 10
-    },
-    {
-      "question": "What is the subtitle of the book 'Rewired'?",
-      "answer": "The subtitle of the book 'Rewired' is 'The McKinsey Guide to Outcompeting in the Age of Digital and AI'.",
-      "rating": 10
-    },
-    {
-      "question": "Who are the authors of the book 'Rewired'?",
-      "answer": "The authors of the book 'Rewired' are Eric Lamarre, Kate Smaje, and Rodney Zemmel.",
-      "rating": 10
-    },
-    {
-      "question": "According to Martin Shankland, for whom is 'Rewired' a must-read?",
-      "answer": "According to Martin Shankland, 'Rewired' is an absolute must-read for any executive with aspirations for leading a multinational company and turning the promises of digital into reality.",
+      "question": "What is a benefit of data products built to support consumption archetypes?",
+      "answer": "Data products built to support one or more of these consumption archetypes can easily be applied to multiple business applications with similar archetypes.",
       "rating": 9
     },
     {
-      "question": "What does Robin Vince state businesses must do to stay competitive?",
-      "answer": "Robin Vince states that to stay competitive and at the forefront of any industry, businesses must continuously adapt and evolve with technology.",
+      "question": "What is the benefit of creating an abstraction layer through a data platform?",
+      "answer": "By creating an abstraction layer through the data platform, you are enabling new applications to move much faster without having to create point-to-point connections.",
       "rating": 9
     },
     {
-      "question": "What does 'Rewired' provide a blueprint for, according to Robin Vince?",
-      "answer": "According to Robin Vince, 'Rewired' provides a blueprint for how to transform a business and prepare for the complexities that come with the journey.",
+      "question": "What is a reference architecture?",
+      "answer": "A reference architecture is a set of technologies proven to work well together to deliver on your chosen archetype.",
       "rating": 9
     },
     {
-      "question": "What does Ron Williams suggest 'Rewired' provides that helps companies move from disjointed digital projects to a true digital enterprise?",
-      "answer": "Ron Williams suggests that 'Rewired' provides a 'Unified Field Theory' based on elements that create specific actionable approaches to help companies move from disjointed digital projects to an end-to-end true digital enterprise.",
+      "question": "What is the goal of developing a 'minimum viable data architecture'?",
+      "answer": "The goal is to meet the needs of priority digital solutions, including both BI- and AI-intensive solutions.",
       "rating": 9
+    },
+    {
+      "question": "Who provides critical input for assessing current-state architecture?",
+      "answer": "The input of data consumers, data managers/administrators, and data product and application owners is critical for assessing current-state architecture.",
+      "rating": 9
+    },
+    {
+      "question": "What are examples of Data Consumption capabilities?",
+      "answer": "Data Consumption capabilities include BI and Visualization, and Ad-hoc SQL Analysis.",
+      "rating": 9
+    },
+    {
+      "question": "What are some Data Services capabilities listed?",
+      "answer": "Data Services capabilities include Data API endpoints and API Management (REST and/or GraphQL), SQL endpoints (JDBC and/or ODBC), and Data Federation and Virtualization.",
+      "rating": 9
+    },
+    {
+      "question": "What types of Data Sources are mentioned?",
+      "answer": "Mentioned Data Sources include Databases (Relational and NoSQL) and Data Warehouses.",
+      "rating": 9
+    },
+    {
+      "question": "What are key components of Data Processing?",
+      "answer": "Key components of Data Processing include Batch Ingestion, Event Streaming, Stream Processing, and Batch Processing.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of a Data Warehouse?",
+      "answer": "A Data Warehouse is used to store structured, integrated data to support BI activities and analytics.",
+      "rating": 9
+    },
+    {
+      "question": "What is the function of a DS Sandbox?",
+      "answer": "A DS Sandbox is for Analytics/ML.",
+      "rating": 8
+    },
+    {
+      "question": "What is PII Management?",
+      "answer": "PII Management involves detecting, securing, and governing sensitive data.",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of a Metrics and Feature Store?",
+      "answer": "A Metrics and Feature Store is used to transform, store, serve, monitor, and govern reusable features for BI and AI.",
+      "rating": 9
+    },
+    {
+      "question": "What does AI/ML involve in data architecture?",
+      "answer": "AI/ML involves training and optimizing ML models, including distributed training, optimization, and GPU compute.",
+      "rating": 9
+    },
+    {
+      "question": "What is a reference architecture?",
+      "answer": "A reference architecture is a set of technologies proven to work well together to deliver on your chosen archetype.",
+      "rating": 9
+    },
+    {
+      "question": "Who develops the high-level target of data capabilities in this approach?",
+      "answer": "Your lead data architect will develop a high-level target of the data capabilities needed.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of building a 'minimum viable data architecture'?",
+      "answer": "The goal of building a 'minimum viable data architecture' is to meet the needs of your priority digital solutions, including both BI- and AI-intensive solutions.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of a data capability map?",
+      "answer": "A data capability map will help build alignment on what\u2019s needed and provide a good benchmarking framework when analyzing the current-state architecture.",
+      "rating": 9
+    },
+    {
+      "question": "Whose input is critical for the assessment of data capabilities, even though the lead data architect owns it?",
+      "answer": "The input of data consumers, data managers/administrators, and data product and application owners who can speak about required technical capabilities is critical.",
+      "rating": 9
+    },
+    {
+      "question": "What are two types of data ingestion mentioned in the text?",
+      "answer": "Two types of data ingestion mentioned are Batch Ingestion and Event Streaming.",
+      "rating": 9
+    },
+    {
+      "question": "What is the function of a Data Warehouse in the context of data repositories?",
+      "answer": "A Data Warehouse stores structured, integrated data to support BI activities and analytics.",
+      "rating": 9
+    },
+    {
+      "question": "What are examples of relational data sources?",
+      "answer": "Examples of relational data sources include SQL Server, Oracle, and Postgres.",
+      "rating": 9
+    },
+    {
+      "question": "What does PII Management involve?",
+      "answer": "PII Management involves detecting, securing, and governing sensitive data.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of advanced analytics capabilities?",
+      "answer": "Some examples of advanced analytics capabilities include a DS Development Environment and Model Production Environments.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of Metrics and Feature Stores?",
+      "answer": "Metrics and Feature Stores are used to transform, store, serve, monitor, and govern reusable features for BI and AI.",
+      "rating": 9
+    },
+    {
+      "question": "What are two types of data endpoints for Data Services?",
+      "answer": "Two types of data endpoints for Data Services are Data API endpoints and SQL endpoints.",
+      "rating": 9
+    },
+    {
+      "question": "What is the function of Stream Processing?",
+      "answer": "Stream Processing is used to transform and analyze data in real-time.",
+      "rating": 9
+    },
+    {
+      "question": "What does Batch Processing typically involve?",
+      "answer": "Batch Processing typically involves cleaning, transforming, and enriching data in batches, usually daily.",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of Data Federation and Virtualization?",
+      "answer": "Data Federation and Virtualization are data capabilities that allow for accessing data from multiple sources without physically moving it.",
+      "rating": 9
+    },
+    {
+      "question": "What is a data architecture generally described as in the text?",
+      "answer": "Data architecture is generally described as the system of data \u201cpipes\u201d.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the core technology components of a data architecture?",
+      "answer": "The core technology components of a data architecture are determined by the archetype selected and the chosen cloud service provider (CSP).",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommendation for designing a data architecture to accelerate design and minimize risks?",
+      "answer": "The recommendation is to adopt a proven reference architecture to accelerate design and minimize implementation risks, rather than reinventing the wheel.",
+      "rating": 9
+    },
+    {
+      "question": "What was the goal of a retail bank in Asia when modernizing its data and analytics capabilities?",
+      "answer": "The goal was to prioritize a customer-360 \u201csuper-mart\u201d data product to support both business intelligence and AI use cases as part of a digital transformation.",
+      "rating": 9
+    },
+    {
+      "question": "What were the limitations of the bank's previous on-premises Hadoop data platform?",
+      "answer": "The previous platform could only support a few reporting use cases despite several years of development, had a highly centralized IT function, and lacked data APIs.",
+      "rating": 9
+    },
+    {
+      "question": "What approach did the bank decide to build its data platform?",
+      "answer": "The bank decided to build a hybrid open-source-based data lake leveraging Kubernetes on premises and a cloud service provider for cloud, using the same cloud-native OSS tooling for both.",
+      "rating": 9
+    },
+    {
+      "question": "How was data handled to comply with banking cloud regulations?",
+      "answer": "Data was ingested into a common landing zone on premises, anonymized, and then sent to the cloud. Non-anonymized data remained on premises to comply with regulatory reporting.",
+      "rating": 9
+    },
+    {
+      "question": "What tool served as a common SQL access layer across on-premises and cloud data sets?",
+      "answer": "A data federation tool (e.g., Dremio, Trino) served as a common SQL access layer.",
+      "rating": 9
+    },
+    {
+      "question": "How long did it take to build the bank's data platform and customer-360 data product?",
+      "answer": "The data platform and customer-360 data product was built in about 10 months.",
+      "rating": 9
+    },
+    {
+      "question": "What was a specific improvement in data processing speed for one use case after the new data architecture was implemented?",
+      "answer": "For one use case, the approach helped increase data processing speeds by 50%.",
+      "rating": 9
+    },
+    {
+      "question": "What was the purpose of developing Data APIs?",
+      "answer": "Data APIs were developed to mediate access to the customer 360 data product.",
+      "rating": 9
+    },
+    {
+      "question": "What type of tool served as a common SQL access layer for data sets?",
+      "answer": "A data federation tool, such as Dremio or Trino, served as a common SQL access layer.",
+      "rating": 9
+    },
+    {
+      "question": "How long did it take to build the data platform and customer-360 data product?",
+      "answer": "The data platform and customer-360 data product was built in about 10 months.",
+      "rating": 9
+    },
+    {
+      "question": "What was a benefit of the new approach for a specific use case?",
+      "answer": "For one use case, the approach helped increase data processing speeds by 50% and allowed the model to deliver more insights and generate more impact (>$100,000/day of value).",
+      "rating": 9
+    },
+    {
+      "question": "What is a key recommendation for designing a data architecture?",
+      "answer": "A key recommendation is to start small by defining a minimum viable architecture to meet the highest-priority needs.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a data federation or virtualization tool?",
+      "answer": "Examples of data federation or virtualization tools include Denodo, Trino/Starburst, and Dremio.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of BI and Visualization tools mentioned?",
+      "answer": "Examples of BI and Visualization tools mentioned are Power BI, QlikView, and DB Notebooks.",
+      "rating": 9
+    },
+    {
+      "question": "What technologies are listed for event streaming data ingestion?",
+      "answer": "Azure Event Hubs (including Event Hubs for Apache Kafka) and Confluent are listed for event streaming data ingestion.",
+      "rating": 9
+    },
+    {
+      "question": "What is used for stream processing in the reference architecture?",
+      "answer": "Databricks (Spark Streaming) is used for stream processing.",
+      "rating": 9
+    },
+    {
+      "question": "What are the layers within the Databricks Data Lakehouse?",
+      "answer": "The layers within the Databricks Data Lakehouse are Bronze, Silver, Gold, and Sandbox (for DS Lab).",
+      "rating": 9
+    },
+    {
+      "question": "What is utilized for data-driven and smart applications?",
+      "answer": "Data API endpoints, such as Azure API Management and in-house APIs, are used for data-driven and smart applications.",
+      "rating": 9
+    },
+    {
+      "question": "What is used as a metric and feature store?",
+      "answer": "Databricks Feature Store and Tecton are used as a metric and feature store.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary data repository mentioned in the reference architecture?",
+      "answer": "The primary data repository mentioned is the Databricks Data Lakehouse.",
+      "rating": 9
+    },
+    {
+      "question": "What are examples of batch ingestion tools?",
+      "answer": "Azure Data Factory, Airbytes, and Fivetran are examples of batch ingestion tools.",
+      "rating": 9
+    },
+    {
+      "question": "What is used for SQL analytics?",
+      "answer": "Databricks Notebooks are used for SQL analytics.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary goal when building a minimum viable architecture for data?",
+      "answer": "The primary goal is to deliver the specific data components required for each desired use case.",
+      "rating": 9
+    },
+    {
+      "question": "What kind of company is used as an example for building a cloud-based data platform?",
+      "answer": "A mid-sized asset management company is used as an example.",
+      "rating": 9
+    },
+    {
+      "question": "How long did it take the example company to stand up an initial version of their cloud-based data platform?",
+      "answer": "It took them just a few months.",
+      "rating": 9
+    },
+    {
+      "question": "What is data architecture described as in the text?",
+      "answer": "Data architecture is described as the system of data 'pipes'.",
+      "rating": 9
+    },
+    {
+      "question": "What is the reference architecture mentioned in the diagram?",
+      "answer": "The reference architecture is a Lakehouse using Databricks on Azure.",
+      "rating": 9
+    },
+    {
+      "question": "What are some tools listed for BI and Visualization?",
+      "answer": "Some tools listed for BI and Visualization are Power BI, QlikView, and DB Notebooks.",
+      "rating": 9
+    },
+    {
+      "question": "What is a tool mentioned for SQL Analytics?",
+      "answer": "Databricks Notebooks is a tool mentioned for SQL Analytics.",
+      "rating": 9
+    },
+    {
+      "question": "What are some environments or tools used for DS lab modeling?",
+      "answer": "Azure ML, Azure ML Studio, DS Notebooks, and Kedro ML pipelines are mentioned for DS lab modeling.",
+      "rating": 9
+    },
+    {
+      "question": "What are examples of data-driven applications and other operational systems?",
+      "answer": "Data-driven & Smart applications and other operational systems are examples of applications.",
+      "rating": 9
+    },
+    {
+      "question": "What technologies can be used for Data API endpoints?",
+      "answer": "Azure API Management and in-house APIs can be used for Data API endpoints.",
+      "rating": 9
+    },
+    {
+      "question": "What can be used for publishing/subscription endpoints?",
+      "answer": "Kafka topics on Azure EventHubs can be used for publishing/subscription endpoints.",
+      "rating": 9
+    },
+    {
+      "question": "What are examples of Metric and Feature Stores?",
+      "answer": "Databricks Feature Store and Tecton are examples of Metric and Feature Stores.",
+      "rating": 9
+    },
+    {
+      "question": "What are examples of SQL endpoints?",
+      "answer": "Databricks SQL is an example of SQL endpoints.",
+      "rating": 9
+    },
+    {
+      "question": "What type of data is stored in Delta Tables on ADLS?",
+      "answer": "Analytics optimized data is stored in Delta Tables on ADLS.",
+      "rating": 9
+    },
+    {
+      "question": "What are some technologies for Data Federation / Virtualization?",
+      "answer": "Denodo, Trino/Starburst, and Dremio are technologies for Data Federation / Virtualization.",
+      "rating": 9
+    },
+    {
+      "question": "What is the central data repository in the reference architecture?",
+      "answer": "The Databricks Data Lakehouse is the central data repository.",
+      "rating": 9
+    },
+    {
+      "question": "What are the layers within the Databricks Data Lakehouse, from raw to curated?",
+      "answer": "The layers are Bronze, Silver, Gold, and Sandbox (for DS Lab).",
+      "rating": 9
+    },
+    {
+      "question": "What is the physical storage for the data lakehouse layers?",
+      "answer": "Azure Data Lake Gen 2 is the physical storage.",
+      "rating": 9
+    },
+    {
+      "question": "What is the initial zone for raw data?",
+      "answer": "The landing zone is the initial zone for raw data.",
+      "rating": 9
+    },
+    {
+      "question": "What are some tools for Batch Ingestion?",
+      "answer": "Azure Data Factory, Airbytes, and Fivetran are tools for Batch Ingestion.",
+      "rating": 9
+    },
+    {
+      "question": "What technologies are used for Event Streaming ingestion?",
+      "answer": "Azure Event Hubs (including Event Hubs for Apache Kafka) and Confluent are used for Event Streaming ingestion.",
+      "rating": 9
+    },
+    {
+      "question": "Which data capability areas commonly have oversight from the CDO?",
+      "answer": "The CDO commonly has oversight over data product management, data architecture, data operations, data risk, and data talent and culture.",
+      "rating": 9
+    },
+    {
+      "question": "What is often the biggest challenge after developing a digital solution?",
+      "answer": "Getting customers or business users to adopt that solution as part of their day-to-day activities, and scaling it across your customer base, markets, or organizational units is often the biggest challenge.",
+      "rating": 9
+    },
+    {
+      "question": "What factors influence the level of adoption support?",
+      "answer": "The level of adoption support can vary greatly depending on the complexity of the solution, the size and geographic dispersion of the end-user base, and the magnitude of the underlying change to the business model.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three lenses used for assessing pod health?",
+      "answer": "The three lenses for assessing pod health are pod configuration metrics, pod performance metrics, and business/operational KPIs linked to pod OKRs.",
+      "rating": 9
+    },
+    {
+      "question": "What expertise is usually needed in the field of digital trust?",
+      "answer": "There is usually a need to deepen expertise in \u201cprivacy engineering\u201d, which involves managing data privacy applications, developing automated security and compliance tests, and refactoring applications for compliance.",
+      "rating": 9
+    },
+    {
+      "question": "What positive outcomes have been observed from the learning programs?",
+      "answer": "Metrics have shown positive outcomes across multiple vectors, including learner experiences, individual knowledge development, and application one month from program completion.",
+      "rating": 9
+    },
+    {
+      "question": "What does it mean to 'assetize' the models for TROI to work at other sites?",
+      "answer": "To 'assetize' the models meant refactoring and repackaging them so they could be more easily adapted to other plants.",
+      "rating": 9
+    },
+    {
+      "question": "What was DBS's turnover rate in Singapore compared to the industry average?",
+      "answer": "DBS had the lowest turnover rate in the industry in Singapore at 10%, compared to the industry average of 15\u201320%.",
+      "rating": 9
+    },
+    {
+      "question": "What page number discusses tech architecture for generative AI?",
+      "answer": "Tech architecture for generative AI is discussed on page 40.",
+      "rating": 9
+    },
+    {
+      "question": "What page number refers to underlying technologies in architecture?",
+      "answer": "Underlying technologies in architecture are referred to on page 266.",
+      "rating": 9
+    },
+    {
+      "question": "What page number defines Artificial Intelligence (AI)?",
+      "answer": "Artificial Intelligence (AI) is defined on page 228.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is a case example for reduction in application development times?",
+      "answer": "A case example for reduction in application development times is on page 233.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with SDLC in the context of AI?",
+      "answer": "SDLC in the context of AI is associated with page number 224.",
+      "rating": 9
+    },
+    {
+      "question": "What page number discusses security in AI through DevSecOps?",
+      "answer": "Security in AI through DevSecOps is discussed on page 223.",
+      "rating": 9
+    },
+    {
+      "question": "What page number mentions a robust set of tooling for AI testing?",
+      "answer": "A robust set of tooling for AI testing is mentioned on page 279.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are a case example for Freeport-McMoRan's AI transformation?",
+      "answer": "The case example for Freeport-McMoRan's AI transformation is on pages 350\u2013351.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is the exhibit for the generative AI approach?",
+      "answer": "The exhibit for the generative AI approach is on pages 38\u201341.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to the assessment of generative AI models?",
+      "answer": "The assessment of generative AI models is related to page numbers 39\u201340.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with the industrialization of AI?",
+      "answer": "The industrialization of AI is associated with page number 362.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is the exhibit for the AI model lifecycle?",
+      "answer": "The exhibit for the AI model lifecycle is on page 230.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to policy review for AI?",
+      "answer": "Policy review for AI is related to page number 331.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is a case example for an AI product?",
+      "answer": "A case example for an AI product is on page 362.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to AI risk policy review?",
+      "answer": "AI risk policy review is related to page number 331.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are associated with scaling AI solutions using MLOps?",
+      "answer": "Scaling AI solutions using MLOps is associated with page numbers 227\u2013233.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to AI solutions?",
+      "answer": "AI solutions are related to page number 361.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with the AI transformation journey?",
+      "answer": "The AI transformation journey is associated with page number 349.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of coding capabilities assessment?",
+      "answer": "An example of coding capabilities assessment is on page 77.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit for embedding risk assessment in the development process?",
+      "answer": "An exhibit for embedding risk assessment in the development process is on page 143.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of a look-back assessment of digital investments?",
+      "answer": "An example of a look-back assessment of digital investments is on page 53.",
+      "rating": 9
+    },
+    {
+      "question": "What are the methods for digital talent assessment mentioned?",
+      "answer": "The methods for digital talent assessment mentioned are individual self-assessment, manager assessment, and online testing.",
+      "rating": 9
+    },
+    {
+      "question": "What pages cover the different methods of digital talent assessment?",
+      "answer": "Individual self-assessment, manager assessment, and online testing are covered on page 75, with online testing extending to page 76.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of a solution's impact on an end-to-end process?",
+      "answer": "An example of a solution's impact on an end-to-end process is on page 297.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to technical interview assessment?",
+      "answer": "Technical interview assessment is related to page number 76.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers cover foundational digital capabilities assessment?",
+      "answer": "Foundational digital capabilities assessment covers page numbers 50\u201354.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to pod health assessment?",
+      "answer": "Pod health assessment is related to page numbers 318\u2013322.",
+      "rating": 9
+    },
+    {
+      "question": "What is the concept of assetization?",
+      "answer": "The concept of assetization is detailed on pages 304\u2013309.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of deployment speed in assetization?",
+      "answer": "An example of deployment speed in assetization is on page 309.",
+      "rating": 9
+    },
+    {
+      "question": "What page number describes the implementation process steps for assetization?",
+      "answer": "The implementation process steps for assetization are described on page 305.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is the assetization recipe exhibit?",
+      "answer": "The assetization recipe exhibit is on page 307.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to the requirement for assetization?",
+      "answer": "The requirement for assetization is related to page number 354.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are associated with auditability in a production environment?",
+      "answer": "Auditability in a production environment is associated with page numbers 216\u2013217.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with DataOps automation?",
+      "answer": "DataOps automation is associated with page number 279.",
+      "rating": 9
+    },
+    {
+      "question": "What page number discusses automation of document generation?",
+      "answer": "Automation of document generation is discussed on page 201.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers cover end-to-end automation through CI/CD?",
+      "answer": "End-to-end automation through CI/CD covers page numbers 202\u2013205.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to MLOps automation?",
+      "answer": "MLOps automation is related to page numbers 229\u2013231.",
+      "rating": 9
+    },
+    {
+      "question": "What page number discusses automation of risk controls?",
+      "answer": "Automation of risk controls is discussed on page 333.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of business operations KPIs in banking digital transformation?",
+      "answer": "An example of business operations KPIs in banking digital transformation is on page 316.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers describe the data architecture shift in a retail bank?",
+      "answer": "The data architecture shift in a retail bank is described on pages 268\u2013269.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers cover the value of digital and AI transformation in banking?",
+      "answer": "The value of digital and AI transformation in banking covers page numbers 4\u20137.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers compare batch processing and real-time data processing?",
+      "answer": "Batch processing and real-time data processing are compared on pages 183\u2013184.",
+      "rating": 9
+    },
+    {
+      "question": "What page mentions Jeff Bezos' memo?",
+      "answer": "Jeff Bezos' memo is mentioned on page 175.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are associated with building a digital on-ramp bootcamp?",
+      "answer": "Building a digital on-ramp bootcamp is associated with page number 110.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of a pod launch bootcamp?",
+      "answer": "An example of a pod launch bootcamp is on page 111.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to reskilling through bootcamps?",
+      "answer": "Reskilling through bootcamps is related to page numbers 112, 114.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are associated with business model adaptation?",
+      "answer": "Business model adaptation is associated with page numbers 294\u2013295, 297.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of business case value?",
+      "answer": "An example of business case value is on page 23.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to business model changes?",
+      "answer": "Business model changes are related to page numbers 41, 291.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit of business model shifts and creation?",
+      "answer": "An exhibit of business model shifts and creation is on page 296.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers cover business/operational KPIs?",
+      "answer": "Business/operational KPIs cover page numbers 314\u2013322.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit linking pod OKRs?",
+      "answer": "An exhibit linking pod OKRs is on page 319.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit for tracking business/operational KPIs?",
+      "answer": "An exhibit for tracking business/operational KPIs is on page 316.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to assessing foundational capabilities?",
+      "answer": "Assessing foundational capabilities is related to page number 50.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit for assessing foundational capabilities?",
+      "answer": "An exhibit for assessing foundational capabilities is on page 51.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with benchmarking foundational capabilities?",
+      "answer": "Benchmarking foundational capabilities is associated with page number 52.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to partnering for capability building?",
+      "answer": "Partnering for capability building is related to page numbers 54\u201356.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit of the elements of a capability building plan?",
+      "answer": "An exhibit of the elements of a capability building plan is on page 55.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to capability building progress?",
+      "answer": "Capability building progress is related to page number 322.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with career paths?",
+      "answer": "Career paths are associated with page number 108.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of dual career tracks?",
+      "answer": "An example of dual career tracks is on page 109.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to the relationship between career paths and professional development?",
+      "answer": "The relationship between career paths and professional development is related to page numbers 152, 155, 157.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an example of a career path in product management?",
+      "answer": "An example of a career path in product management is on page 153.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is a case example for an agricultural company's Talent War Room?",
+      "answer": "A case example for an agricultural company's Talent War Room is on page 84.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is an exhibit for a bank's product and platform model?",
+      "answer": "An exhibit for a bank's product and platform model is on page 140.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to a CPG company's personalization marketing domain breakdown?",
+      "answer": "A CPG company's personalization marketing domain breakdown is related to page number 37.",
+      "rating": 9
+    },
+    {
+      "question": "What are the page numbers for cloud application patterns?",
+      "answer": "Cloud application patterns are on page number 190.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers cover base cloud capabilities?",
+      "answer": "Base cloud capabilities cover page numbers 189\u2013190.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is related to a credit card company's data product?",
+      "answer": "A credit card company's data product is related to page number 258.",
+      "rating": 9
+    },
+    {
+      "question": "What page number is associated with DBS's digital and AI transformation?",
+      "answer": "DBS's digital and AI transformation is associated with page number 357.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are related to a financial services company's AI application development?",
+      "answer": "A financial services company's AI application development is related to page number 233.",
+      "rating": 9
+    },
+    {
+      "question": "What page numbers are associated with a financial services company determining talent gap dispositions?",
+      "answer": "A financial services company determining talent gap dispositions is associated with page numbers 187\u2013189.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of Financial Operations (FinOps)?",
+      "answer": "The text mentions Financial operations (FinOps) with page numbers 190-191, discussing its foundations, isolation zones, migration, monitoring, movement, policy review, and on-premises vs cloud considerations.",
+      "rating": 8
+    },
+    {
+      "question": "What are the key aspects of data governance mentioned in the text?",
+      "answer": "The text mentions data governance in relation to executive level dashboards, centralization, and identification/prioritization of data, with examples and frameworks discussed on pages 275, 281 (exhibit), and 239-240.",
+      "rating": 8
+    },
+    {
+      "question": "What is the impact of a Chief Executive Officer (CEO) on digital transformation?",
+      "answer": "The text states that a CEO has an impact on digital transformation, with specific discussion on CEO-led transformation governance and the CEO's role in digital transformation on pages 23, 351, and 61-62.",
+      "rating": 8
+    },
+    {
+      "question": "What are the different data architecture archetypes discussed?",
+      "answer": "The text discusses data architecture archetypes on pages 260-264 and 261 (exhibit).",
+      "rating": 8
+    },
+    {
+      "question": "What are the practices for sequencing and designing a data roadmap?",
+      "answer": "The text details practices for sequencing and designing a data roadmap on pages 269-271.",
+      "rating": 8
+    },
+    {
+      "question": "What are the key aspects of Customer Experience (CX) design?",
+      "answer": "The text covers Customer experience (CX) design, including its process, investment, competencies, value link, hiring designers, and design to development processes and tools on pages 160, 161 (exhibit), 162, 163 (exhibit), 164-165, 164 (exhibit), and 165-166.",
+      "rating": 9
+    },
+    {
+      "question": "What is the importance of code maintainability?",
+      "answer": "The text discusses code standards and their relation to maintainability on pages 197-201.",
+      "rating": 8
+    },
+    {
+      "question": "What is the impact of a Chief Financial Officer (CFO) on reimagining operations?",
+      "answer": "The text indicates that a Chief financial officer (CFO) has an impact on reimagining operations on pages 65 and 186-187.",
+      "rating": 8
+    },
+    {
+      "question": "What are the key considerations for building a data-driven culture?",
+      "answer": "The text mentions building a data-driven culture on pages 277-278.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of continuous integration (CI)?",
+      "answer": "The text defines Continuous integration (CI) on pages 202-204.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of continuous deployment (CD)?",
+      "answer": "The text defines Continuous deployment (CD) on pages 204-205.",
+      "rating": 8
+    },
+    {
+      "question": "How is end-to-end automation achieved in CI/CD?",
+      "answer": "The text discusses end-to-end automation in CI/CD on pages 202-205.",
+      "rating": 8
+    },
+    {
+      "question": "What are the practices for implementing security checks in CI/CD?",
+      "answer": "The text details the implementation of security checks in CI/CD on pages 224-225.",
+      "rating": 8
+    },
+    {
+      "question": "What is a data mesh and its relation to data architecture?",
+      "answer": "The text discusses data mesh as a data architecture archetype on pages 178, 261 (exhibit), and 262-264.",
+      "rating": 8
+    },
+    {
+      "question": "What are the different data readiness assessment dimensions?",
+      "answer": "The text provides data readiness assessment dimensions on page 242-244.",
+      "rating": 8
+    },
+    {
+      "question": "What are the different data capabilities discussed?",
+      "answer": "The text outlines data capabilities on pages 266-268 and 267 (exhibit).",
+      "rating": 8
+    },
+    {
+      "question": "What are the practices for ensuring data availability, quality, and control?",
+      "answer": "The text discusses practices for ensuring data availability, quality, and control on pages 229-231.",
+      "rating": 8
+    },
+    {
+      "question": "What are the different data architecture archetypes?",
+      "answer": "The text lists data architecture archetypes on pages 260-264 and 261 (exhibit).",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of code verification?",
+      "answer": "The text discusses code verification and testing framework decisions on page 200.",
+      "rating": 8
+    },
+    {
+      "question": "What is the impact of the Chief Executive Officer (CEO) on digital transformation?",
+      "answer": "The text indicates that the Chief Executive Officer (CEO) has an impact on digital transformation, specifically mentioning their role on pages 61-62.",
+      "rating": 8
+    },
+    {
+      "question": "What are the different data organization structures mentioned?",
+      "answer": "The text discusses data organization on pages 273-277.",
+      "rating": 8
+    },
+    {
+      "question": "What are the practices for data roadmap development?",
+      "answer": "The text outlines practices for data roadmap development on pages 244-245.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of data mesh?",
+      "answer": "The text discusses data mesh as a data architecture archetype on pages 178, 261 (exhibit), and 262-264.",
+      "rating": 8
     }
   ],
   "conversations": [
@@ -135,11 +1000,11 @@
       },
       {
         "role": "user",
-        "content": "According to Matt Anderson, what are the key elements required for success in digital and AI transformation?"
+        "content": "What key elements does 'Rewired' provide for success in digital and AI transformation?"
       },
       {
         "role": "assistant",
-        "content": "Matt Anderson states that the key elements for success in digital and AI transformation include talent-building, adopting new operating models, utilizing advanced technology, and embedding data."
+        "content": "'Rewired' provides an integrated approach to key elements for success in digital and AI transformation, including talent-building, adopting new operating models, utilizing advanced technology, and embedding data."
       }
     ],
     [
@@ -149,11 +1014,11 @@
       },
       {
         "role": "user",
-        "content": "What does Dr. Albert Bourla suggest is necessary for maximizing digital benefits today?"
+        "content": "What are some of the technologies examined in the book that create unique issues and opportunities?"
       },
       {
         "role": "assistant",
-        "content": "Dr. Albert Bourla suggests that maximizing digital benefits today entails boldly reimagining your business, from strategy to delivery, to reflect the power of AI, data, and advanced analytics."
+        "content": "The book examines the unique issues and opportunities created by technologies such as smartphones, the Internet of Things, artificial intelligence (including machine learning and deep learning), augmented and virtual reality, big data and real-time analytics, digital twins, APIs, cloud technologies, and others."
       }
     ],
     [
@@ -163,11 +1028,11 @@
       },
       {
         "role": "user",
-        "content": "What does Bettina Dietsche say is required to win in the digital age?"
+        "content": "What is one touchstone for anchoring a transformation vision?"
       },
       {
         "role": "assistant",
-        "content": "Bettina Dietsche states that winning in the digital age requires a differentiating strategy, distinctive capabilities, and daring delivery."
+        "content": "One touchstone is to anchor the transformation vision in the overall business strategy of the company."
       }
     ],
     [
@@ -177,11 +1042,11 @@
       },
       {
         "role": "user",
-        "content": "How does Julie Dillman describe the journey of being digital?"
+        "content": "What is considered a bigger challenge than legacy technology?"
       },
       {
         "role": "assistant",
-        "content": "Julie Dillman describes being digital as an everlasting journey that requires constant reimagination of talent, organization, and underpinning technology and data to create competitive advantage."
+        "content": "Legacy mindsets are a bigger challenge than legacy technology."
       }
     ],
     [
@@ -191,11 +1056,11 @@
       },
       {
         "role": "user",
-        "content": "What is Ted Doheny's view on 'Rewired' as a reference guide?"
+        "content": "How will system architecture need to adapt for GenAI?"
       },
       {
         "role": "assistant",
-        "content": "Ted Doheny considers 'Rewired' to be the best reference guide on digital transformation he has seen, offering a detailed view of how to get it done and achieve results."
+        "content": "System architecture will need to adapt to incorporate multimodal GenAI capabilities into end-to-end work flows."
       }
     ],
     [
@@ -205,11 +1070,11 @@
       },
       {
         "role": "user",
-        "content": "Who does Rona Fairhead believe 'Rewired' is for?"
+        "content": "What is a key action within the 'PERSONALIZED MARKETING' domain in Phase 1?"
       },
       {
         "role": "assistant",
-        "content": "Rona Fairhead believes 'Rewired' is for anyone whose business has both digital opportunities and challenges and an aspiration to succeed, regardless of their industry or role."
+        "content": "A key action is to 'Build consumer 360 data asset'."
       }
     ],
     [
@@ -219,11 +1084,11 @@
       },
       {
         "role": "user",
-        "content": "According to Roger W. Ferguson Jr., what does 'Rewired' help to break down regarding technology's impact on business?"
+        "content": "What is a critical question for executives regarding digital and AI transformations?"
       },
       {
         "role": "assistant",
-        "content": "Roger W. Ferguson Jr. states that 'Rewired' helps to put AI and technology into perspective by breaking down the mechanics of change and itemizing all the things needed for technology to have an impact on a business."
+        "content": "Every company faces the same strategic question when it comes to digital and AI transformations: \u201cDo we need to own this talent?\u201d"
       }
     ],
     [
@@ -233,11 +1098,11 @@
       },
       {
         "role": "user",
-        "content": "What specific areas does Roger W. Ferguson Jr. mention as necessary for technology to have an impact on a business?"
+        "content": "What kind of team is a TWR, and what are its key components?"
       },
       {
         "role": "assistant",
-        "content": "Roger W. Ferguson Jr. mentions areas such as building a digital talent bench, implementing modern software engineering practices, and organizing the enterprise to deliver continuous digital innovations."
+        "content": "The TWR is an interdisciplinary team that mirrors the working habits and behaviors of an agile pod, made up of tech recruiters and HR specialists."
       }
     ],
     [
@@ -247,11 +1112,11 @@
       },
       {
         "role": "user",
-        "content": "What is the primary purpose of the book 'Rewired' according to the provided text?"
+        "content": "What does a Senior Principal DS do in relation to technical validity?"
       },
       {
         "role": "assistant",
-        "content": "The book 'Rewired' helps to put AI and technology into perspective by breaking down the mechanics of change and itemizing all the things you need to do in order for technology to have an impact on your business."
+        "content": "A Senior Principal DS holds the bar for technical validity of approaches and defends that bar even under time/resource pressure."
       }
     ],
     [
@@ -261,11 +1126,11 @@
       },
       {
         "role": "user",
-        "content": "What does 'Rewired' provide for developing and implementing a digital and AI transformation?"
+        "content": "How long can reskilling take to complete?"
       },
       {
         "role": "assistant",
-        "content": "'Rewired' provides a thorough, yet easy-to-follow guide to developing and implementing a digital and AI transformation."
+        "content": "This can be a significant undertaking and can take six to 12 months or more to complete."
       }
     ],
     [
@@ -275,11 +1140,11 @@
       },
       {
         "role": "user",
-        "content": "According to Peter Jacobs, what is a major challenge of digital and AI transformation?"
+        "content": "What are OKRs and who is generally credited as their brainchild?"
       },
       {
         "role": "assistant",
-        "content": "According to Peter Jacobs, one of the major challenges of a digital and AI transformation is the technology that underpins it, which is complex and fast-changing."
+        "content": "OKRs are objectives and key results, and they are generally credited as the brainchild of the late Intel CEO Andy Grove."
       }
     ],
     [
@@ -289,11 +1154,11 @@
       },
       {
         "role": "user",
-        "content": "How does 'Rewired' help in applying technology to achieve a competitive advantage?"
+        "content": "What else does a chapter own besides staffing?"
       },
       {
         "role": "assistant",
-        "content": "'Rewired' shows the way forward by not just clarifying the role of technology, but also showing how to apply the technology in order to achieve a competitive advantage."
+        "content": "The chapter also owns the exchange of best practices and the development of methods and standards."
       }
     ],
     [
@@ -303,11 +1168,11 @@
       },
       {
         "role": "user",
-        "content": "What kind of guide is 'Rewired' for enterprise leaders in the digital age?"
+        "content": "What are some of the skills of a great product owner as illustrated in Exhibit 15.1?"
       },
       {
         "role": "assistant",
-        "content": "'Rewired' is a practical guide that takes enterprise leaders through the journey of building or changing business processes, capabilities, culture, and customer experiences to deliver sustainable value."
+        "content": "The skills of a great product owner include customer-experience grounding, ability to design customer-centric experiences throughout the customer decision journey, market orientation, business acumen, technical skills, and soft skills."
       }
     ],
     [
@@ -317,11 +1182,11 @@
       },
       {
         "role": "user",
-        "content": "What service have Lamarre, Smaje, and Zemmel undertaken in relation to digital transformation?"
+        "content": "What is the learning goal for Forum 2 in the upskilling program?"
       },
       {
         "role": "assistant",
-        "content": "Lamarre, Smaje, and Zemmel have undertaken a unique service in filtering through the complexity of digital transformation and making it navigable."
+        "content": "The learning goal for Forum 2 is empathizing with the user and defining the 'How', focusing on innovative rather than incremental approaches."
       }
     ],
     [
@@ -331,11 +1196,11 @@
       },
       {
         "role": "user",
-        "content": "What does 'Rewired' provide for managing the complexity of digital transformation in a global organization?"
+        "content": "What is required to achieve the objective of enabling pods to innovate?"
       },
       {
         "role": "assistant",
-        "content": "'Rewired' captures that complexity and provides a clear set of actions and steps to manage it."
+        "content": "Achieving this requires building a distributed technology environment where every pod can access the data, applications, and software development tools they need to rapidly innovate and deliver secure, high-quality solutions."
       }
     ],
     [
@@ -345,11 +1210,11 @@
       },
       {
         "role": "user",
-        "content": "Who is described as a potential reader for 'Rewired' in the context of leading a multinational company?"
+        "content": "How quickly can Netflix deploy new code into its production environment compared to most companies?"
       },
       {
         "role": "assistant",
-        "content": "The book is described as an absolute must-read for any executive with aspirations for leading a multinational company and turning the promises of digital into reality."
+        "content": "Netflix can deploy new code into its production environment within hours, where most companies would need months."
       }
     ],
     [
@@ -359,11 +1224,11 @@
       },
       {
         "role": "user",
-        "content": "What does Roger W. Ferguson Jr. state is needed for technology to have an impact on a business?"
+        "content": "What CI tool did an agile pod at a global pharma company configure?"
       },
       {
         "role": "assistant",
-        "content": "Roger W. Ferguson Jr. states that building a digital talent bench, implementing modern software engineering practices, organizing the enterprise to deliver continuous digital innovations are things you need to do for technology to have an impact on your business."
+        "content": "An agile pod developing new API functionality configured CircleCI as their CI tool of choice."
       }
     ],
     [
@@ -373,11 +1238,11 @@
       },
       {
         "role": "user",
-        "content": "What does Jeff Harmening suggest 'Rewired' provides to increase an organization's odds of success in transformation?"
+        "content": "How should changes to the production environment be made?"
       },
       {
         "role": "assistant",
-        "content": "Jeff Harmening suggests that 'Rewired' provides a clear roadmap to build enterprise capabilities and concrete examples that will greatly increase an organization's odds of success."
+        "content": "Changes to the production environment should follow standard engineering practices and be deployed via a strict continuous deployment process, not created manually."
       }
     ],
     [
@@ -387,11 +1252,11 @@
       },
       {
         "role": "user",
-        "content": "What is the title of the book discussed in the text?"
+        "content": "What does Machine Learning (ML) do?"
       },
       {
         "role": "assistant",
-        "content": "The title of the book is 'Rewired'."
+        "content": "Machine learning (ML) is a method that 'learns' from data to improve performance on some set of tasks."
       }
     ],
     [
@@ -401,11 +1266,11 @@
       },
       {
         "role": "user",
-        "content": "What is the subtitle of the book 'Rewired'?"
+        "content": "What is the first step before fixing or cleaning data?"
       },
       {
         "role": "assistant",
-        "content": "The subtitle of the book 'Rewired' is 'The McKinsey Guide to Outcompeting in the Age of Digital and AI'."
+        "content": "Before fixing or cleaning the data, you need to identify what's wrong with it by thoroughly assessing it."
       }
     ],
     [
@@ -415,11 +1280,11 @@
       },
       {
         "role": "user",
-        "content": "Who are the authors of the book 'Rewired'?"
+        "content": "What is a benefit of data products built to support consumption archetypes?"
       },
       {
         "role": "assistant",
-        "content": "The authors of the book 'Rewired' are Eric Lamarre, Kate Smaje, and Rodney Zemmel."
+        "content": "Data products built to support one or more of these consumption archetypes can easily be applied to multiple business applications with similar archetypes."
       }
     ],
     [
@@ -429,11 +1294,11 @@
       },
       {
         "role": "user",
-        "content": "According to Martin Shankland, for whom is 'Rewired' a must-read?"
+        "content": "What is the benefit of creating an abstraction layer through a data platform?"
       },
       {
         "role": "assistant",
-        "content": "According to Martin Shankland, 'Rewired' is an absolute must-read for any executive with aspirations for leading a multinational company and turning the promises of digital into reality."
+        "content": "By creating an abstraction layer through the data platform, you are enabling new applications to move much faster without having to create point-to-point connections."
       }
     ],
     [
@@ -443,11 +1308,11 @@
       },
       {
         "role": "user",
-        "content": "What does Robin Vince state businesses must do to stay competitive?"
+        "content": "What is a reference architecture?"
       },
       {
         "role": "assistant",
-        "content": "Robin Vince states that to stay competitive and at the forefront of any industry, businesses must continuously adapt and evolve with technology."
+        "content": "A reference architecture is a set of technologies proven to work well together to deliver on your chosen archetype."
       }
     ],
     [
@@ -457,11 +1322,11 @@
       },
       {
         "role": "user",
-        "content": "What does 'Rewired' provide a blueprint for, according to Robin Vince?"
+        "content": "What is the goal of developing a 'minimum viable data architecture'?"
       },
       {
         "role": "assistant",
-        "content": "According to Robin Vince, 'Rewired' provides a blueprint for how to transform a business and prepare for the complexities that come with the journey."
+        "content": "The goal is to meet the needs of priority digital solutions, including both BI- and AI-intensive solutions."
       }
     ],
     [
@@ -471,18 +1336,2440 @@
       },
       {
         "role": "user",
-        "content": "What does Ron Williams suggest 'Rewired' provides that helps companies move from disjointed digital projects to a true digital enterprise?"
+        "content": "Who provides critical input for assessing current-state architecture?"
       },
       {
         "role": "assistant",
-        "content": "Ron Williams suggests that 'Rewired' provides a 'Unified Field Theory' based on elements that create specific actionable approaches to help companies move from disjointed digital projects to an end-to-end true digital enterprise."
+        "content": "The input of data consumers, data managers/administrators, and data product and application owners is critical for assessing current-state architecture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of Data Consumption capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data Consumption capabilities include BI and Visualization, and Ad-hoc SQL Analysis."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some Data Services capabilities listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data Services capabilities include Data API endpoints and API Management (REST and/or GraphQL), SQL endpoints (JDBC and/or ODBC), and Data Federation and Virtualization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of Data Sources are mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mentioned Data Sources include Databases (Relational and NoSQL) and Data Warehouses."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are key components of Data Processing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Key components of Data Processing include Batch Ingestion, Event Streaming, Stream Processing, and Batch Processing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a Data Warehouse?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Data Warehouse is used to store structured, integrated data to support BI activities and analytics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of a DS Sandbox?"
+      },
+      {
+        "role": "assistant",
+        "content": "A DS Sandbox is for Analytics/ML."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is PII Management?"
+      },
+      {
+        "role": "assistant",
+        "content": "PII Management involves detecting, securing, and governing sensitive data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of a Metrics and Feature Store?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Metrics and Feature Store is used to transform, store, serve, monitor, and govern reusable features for BI and AI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does AI/ML involve in data architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI/ML involves training and optimizing ML models, including distributed training, optimization, and GPU compute."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a reference architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "A reference architecture is a set of technologies proven to work well together to deliver on your chosen archetype."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who develops the high-level target of data capabilities in this approach?"
+      },
+      {
+        "role": "assistant",
+        "content": "Your lead data architect will develop a high-level target of the data capabilities needed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of building a 'minimum viable data architecture'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal of building a 'minimum viable data architecture' is to meet the needs of your priority digital solutions, including both BI- and AI-intensive solutions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of a data capability map?"
+      },
+      {
+        "role": "assistant",
+        "content": "A data capability map will help build alignment on what\u2019s needed and provide a good benchmarking framework when analyzing the current-state architecture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Whose input is critical for the assessment of data capabilities, even though the lead data architect owns it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The input of data consumers, data managers/administrators, and data product and application owners who can speak about required technical capabilities is critical."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are two types of data ingestion mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two types of data ingestion mentioned are Batch Ingestion and Event Streaming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of a Data Warehouse in the context of data repositories?"
+      },
+      {
+        "role": "assistant",
+        "content": "A Data Warehouse stores structured, integrated data to support BI activities and analytics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of relational data sources?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples of relational data sources include SQL Server, Oracle, and Postgres."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does PII Management involve?"
+      },
+      {
+        "role": "assistant",
+        "content": "PII Management involves detecting, securing, and governing sensitive data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of advanced analytics capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some examples of advanced analytics capabilities include a DS Development Environment and Model Production Environments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Metrics and Feature Stores?"
+      },
+      {
+        "role": "assistant",
+        "content": "Metrics and Feature Stores are used to transform, store, serve, monitor, and govern reusable features for BI and AI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are two types of data endpoints for Data Services?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two types of data endpoints for Data Services are Data API endpoints and SQL endpoints."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the function of Stream Processing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stream Processing is used to transform and analyze data in real-time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Batch Processing typically involve?"
+      },
+      {
+        "role": "assistant",
+        "content": "Batch Processing typically involves cleaning, transforming, and enriching data in batches, usually daily."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of Data Federation and Virtualization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data Federation and Virtualization are data capabilities that allow for accessing data from multiple sources without physically moving it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a data architecture generally described as in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data architecture is generally described as the system of data \u201cpipes\u201d."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the core technology components of a data architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "The core technology components of a data architecture are determined by the archetype selected and the chosen cloud service provider (CSP)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommendation for designing a data architecture to accelerate design and minimize risks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The recommendation is to adopt a proven reference architecture to accelerate design and minimize implementation risks, rather than reinventing the wheel."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the goal of a retail bank in Asia when modernizing its data and analytics capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal was to prioritize a customer-360 \u201csuper-mart\u201d data product to support both business intelligence and AI use cases as part of a digital transformation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the limitations of the bank's previous on-premises Hadoop data platform?"
+      },
+      {
+        "role": "assistant",
+        "content": "The previous platform could only support a few reporting use cases despite several years of development, had a highly centralized IT function, and lacked data APIs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What approach did the bank decide to build its data platform?"
+      },
+      {
+        "role": "assistant",
+        "content": "The bank decided to build a hybrid open-source-based data lake leveraging Kubernetes on premises and a cloud service provider for cloud, using the same cloud-native OSS tooling for both."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was data handled to comply with banking cloud regulations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data was ingested into a common landing zone on premises, anonymized, and then sent to the cloud. Non-anonymized data remained on premises to comply with regulatory reporting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What tool served as a common SQL access layer across on-premises and cloud data sets?"
+      },
+      {
+        "role": "assistant",
+        "content": "A data federation tool (e.g., Dremio, Trino) served as a common SQL access layer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long did it take to build the bank's data platform and customer-360 data product?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data platform and customer-360 data product was built in about 10 months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was a specific improvement in data processing speed for one use case after the new data architecture was implemented?"
+      },
+      {
+        "role": "assistant",
+        "content": "For one use case, the approach helped increase data processing speeds by 50%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the purpose of developing Data APIs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data APIs were developed to mediate access to the customer 360 data product."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of tool served as a common SQL access layer for data sets?"
+      },
+      {
+        "role": "assistant",
+        "content": "A data federation tool, such as Dremio or Trino, served as a common SQL access layer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long did it take to build the data platform and customer-360 data product?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data platform and customer-360 data product was built in about 10 months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was a benefit of the new approach for a specific use case?"
+      },
+      {
+        "role": "assistant",
+        "content": "For one use case, the approach helped increase data processing speeds by 50% and allowed the model to deliver more insights and generate more impact (>$100,000/day of value)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key recommendation for designing a data architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "A key recommendation is to start small by defining a minimum viable architecture to meet the highest-priority needs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a data federation or virtualization tool?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples of data federation or virtualization tools include Denodo, Trino/Starburst, and Dremio."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of BI and Visualization tools mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples of BI and Visualization tools mentioned are Power BI, QlikView, and DB Notebooks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What technologies are listed for event streaming data ingestion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Event Hubs (including Event Hubs for Apache Kafka) and Confluent are listed for event streaming data ingestion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is used for stream processing in the reference architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Databricks (Spark Streaming) is used for stream processing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the layers within the Databricks Data Lakehouse?"
+      },
+      {
+        "role": "assistant",
+        "content": "The layers within the Databricks Data Lakehouse are Bronze, Silver, Gold, and Sandbox (for DS Lab)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is utilized for data-driven and smart applications?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data API endpoints, such as Azure API Management and in-house APIs, are used for data-driven and smart applications."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is used as a metric and feature store?"
+      },
+      {
+        "role": "assistant",
+        "content": "Databricks Feature Store and Tecton are used as a metric and feature store."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary data repository mentioned in the reference architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "The primary data repository mentioned is the Databricks Data Lakehouse."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of batch ingestion tools?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Data Factory, Airbytes, and Fivetran are examples of batch ingestion tools."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is used for SQL analytics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Databricks Notebooks are used for SQL analytics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary goal when building a minimum viable architecture for data?"
+      },
+      {
+        "role": "assistant",
+        "content": "The primary goal is to deliver the specific data components required for each desired use case."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of company is used as an example for building a cloud-based data platform?"
+      },
+      {
+        "role": "assistant",
+        "content": "A mid-sized asset management company is used as an example."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long did it take the example company to stand up an initial version of their cloud-based data platform?"
+      },
+      {
+        "role": "assistant",
+        "content": "It took them just a few months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is data architecture described as in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data architecture is described as the system of data 'pipes'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reference architecture mentioned in the diagram?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reference architecture is a Lakehouse using Databricks on Azure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some tools listed for BI and Visualization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some tools listed for BI and Visualization are Power BI, QlikView, and DB Notebooks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a tool mentioned for SQL Analytics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Databricks Notebooks is a tool mentioned for SQL Analytics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some environments or tools used for DS lab modeling?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure ML, Azure ML Studio, DS Notebooks, and Kedro ML pipelines are mentioned for DS lab modeling."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of data-driven applications and other operational systems?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data-driven & Smart applications and other operational systems are examples of applications."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What technologies can be used for Data API endpoints?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure API Management and in-house APIs can be used for Data API endpoints."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used for publishing/subscription endpoints?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kafka topics on Azure EventHubs can be used for publishing/subscription endpoints."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of Metric and Feature Stores?"
+      },
+      {
+        "role": "assistant",
+        "content": "Databricks Feature Store and Tecton are examples of Metric and Feature Stores."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of SQL endpoints?"
+      },
+      {
+        "role": "assistant",
+        "content": "Databricks SQL is an example of SQL endpoints."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of data is stored in Delta Tables on ADLS?"
+      },
+      {
+        "role": "assistant",
+        "content": "Analytics optimized data is stored in Delta Tables on ADLS."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some technologies for Data Federation / Virtualization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Denodo, Trino/Starburst, and Dremio are technologies for Data Federation / Virtualization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the central data repository in the reference architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Databricks Data Lakehouse is the central data repository."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the layers within the Databricks Data Lakehouse, from raw to curated?"
+      },
+      {
+        "role": "assistant",
+        "content": "The layers are Bronze, Silver, Gold, and Sandbox (for DS Lab)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the physical storage for the data lakehouse layers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Data Lake Gen 2 is the physical storage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the initial zone for raw data?"
+      },
+      {
+        "role": "assistant",
+        "content": "The landing zone is the initial zone for raw data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some tools for Batch Ingestion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Data Factory, Airbytes, and Fivetran are tools for Batch Ingestion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What technologies are used for Event Streaming ingestion?"
+      },
+      {
+        "role": "assistant",
+        "content": "Azure Event Hubs (including Event Hubs for Apache Kafka) and Confluent are used for Event Streaming ingestion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which data capability areas commonly have oversight from the CDO?"
+      },
+      {
+        "role": "assistant",
+        "content": "The CDO commonly has oversight over data product management, data architecture, data operations, data risk, and data talent and culture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is often the biggest challenge after developing a digital solution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Getting customers or business users to adopt that solution as part of their day-to-day activities, and scaling it across your customer base, markets, or organizational units is often the biggest challenge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors influence the level of adoption support?"
+      },
+      {
+        "role": "assistant",
+        "content": "The level of adoption support can vary greatly depending on the complexity of the solution, the size and geographic dispersion of the end-user base, and the magnitude of the underlying change to the business model."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three lenses used for assessing pod health?"
+      },
+      {
+        "role": "assistant",
+        "content": "The three lenses for assessing pod health are pod configuration metrics, pod performance metrics, and business/operational KPIs linked to pod OKRs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What expertise is usually needed in the field of digital trust?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is usually a need to deepen expertise in \u201cprivacy engineering\u201d, which involves managing data privacy applications, developing automated security and compliance tests, and refactoring applications for compliance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What positive outcomes have been observed from the learning programs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Metrics have shown positive outcomes across multiple vectors, including learner experiences, individual knowledge development, and application one month from program completion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does it mean to 'assetize' the models for TROI to work at other sites?"
+      },
+      {
+        "role": "assistant",
+        "content": "To 'assetize' the models meant refactoring and repackaging them so they could be more easily adapted to other plants."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was DBS's turnover rate in Singapore compared to the industry average?"
+      },
+      {
+        "role": "assistant",
+        "content": "DBS had the lowest turnover rate in the industry in Singapore at 10%, compared to the industry average of 15\u201320%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number discusses tech architecture for generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tech architecture for generative AI is discussed on page 40."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number refers to underlying technologies in architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Underlying technologies in architecture are referred to on page 266."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number defines Artificial Intelligence (AI)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Artificial Intelligence (AI) is defined on page 228."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is a case example for reduction in application development times?"
+      },
+      {
+        "role": "assistant",
+        "content": "A case example for reduction in application development times is on page 233."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with SDLC in the context of AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "SDLC in the context of AI is associated with page number 224."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number discusses security in AI through DevSecOps?"
+      },
+      {
+        "role": "assistant",
+        "content": "Security in AI through DevSecOps is discussed on page 223."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number mentions a robust set of tooling for AI testing?"
+      },
+      {
+        "role": "assistant",
+        "content": "A robust set of tooling for AI testing is mentioned on page 279."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are a case example for Freeport-McMoRan's AI transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The case example for Freeport-McMoRan's AI transformation is on pages 350\u2013351."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is the exhibit for the generative AI approach?"
+      },
+      {
+        "role": "assistant",
+        "content": "The exhibit for the generative AI approach is on pages 38\u201341."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to the assessment of generative AI models?"
+      },
+      {
+        "role": "assistant",
+        "content": "The assessment of generative AI models is related to page numbers 39\u201340."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with the industrialization of AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "The industrialization of AI is associated with page number 362."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is the exhibit for the AI model lifecycle?"
+      },
+      {
+        "role": "assistant",
+        "content": "The exhibit for the AI model lifecycle is on page 230."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to policy review for AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Policy review for AI is related to page number 331."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is a case example for an AI product?"
+      },
+      {
+        "role": "assistant",
+        "content": "A case example for an AI product is on page 362."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to AI risk policy review?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI risk policy review is related to page number 331."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are associated with scaling AI solutions using MLOps?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scaling AI solutions using MLOps is associated with page numbers 227\u2013233."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to AI solutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI solutions are related to page number 361."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with the AI transformation journey?"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI transformation journey is associated with page number 349."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of coding capabilities assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of coding capabilities assessment is on page 77."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit for embedding risk assessment in the development process?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit for embedding risk assessment in the development process is on page 143."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of a look-back assessment of digital investments?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of a look-back assessment of digital investments is on page 53."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the methods for digital talent assessment mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "The methods for digital talent assessment mentioned are individual self-assessment, manager assessment, and online testing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What pages cover the different methods of digital talent assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Individual self-assessment, manager assessment, and online testing are covered on page 75, with online testing extending to page 76."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of a solution's impact on an end-to-end process?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of a solution's impact on an end-to-end process is on page 297."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to technical interview assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Technical interview assessment is related to page number 76."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers cover foundational digital capabilities assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Foundational digital capabilities assessment covers page numbers 50\u201354."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to pod health assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pod health assessment is related to page numbers 318\u2013322."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the concept of assetization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The concept of assetization is detailed on pages 304\u2013309."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of deployment speed in assetization?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of deployment speed in assetization is on page 309."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number describes the implementation process steps for assetization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The implementation process steps for assetization are described on page 305."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is the assetization recipe exhibit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The assetization recipe exhibit is on page 307."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to the requirement for assetization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The requirement for assetization is related to page number 354."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are associated with auditability in a production environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Auditability in a production environment is associated with page numbers 216\u2013217."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with DataOps automation?"
+      },
+      {
+        "role": "assistant",
+        "content": "DataOps automation is associated with page number 279."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number discusses automation of document generation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Automation of document generation is discussed on page 201."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers cover end-to-end automation through CI/CD?"
+      },
+      {
+        "role": "assistant",
+        "content": "End-to-end automation through CI/CD covers page numbers 202\u2013205."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to MLOps automation?"
+      },
+      {
+        "role": "assistant",
+        "content": "MLOps automation is related to page numbers 229\u2013231."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number discusses automation of risk controls?"
+      },
+      {
+        "role": "assistant",
+        "content": "Automation of risk controls is discussed on page 333."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of business operations KPIs in banking digital transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of business operations KPIs in banking digital transformation is on page 316."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers describe the data architecture shift in a retail bank?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data architecture shift in a retail bank is described on pages 268\u2013269."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers cover the value of digital and AI transformation in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "The value of digital and AI transformation in banking covers page numbers 4\u20137."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers compare batch processing and real-time data processing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Batch processing and real-time data processing are compared on pages 183\u2013184."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page mentions Jeff Bezos' memo?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jeff Bezos' memo is mentioned on page 175."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are associated with building a digital on-ramp bootcamp?"
+      },
+      {
+        "role": "assistant",
+        "content": "Building a digital on-ramp bootcamp is associated with page number 110."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of a pod launch bootcamp?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of a pod launch bootcamp is on page 111."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to reskilling through bootcamps?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reskilling through bootcamps is related to page numbers 112, 114."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are associated with business model adaptation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Business model adaptation is associated with page numbers 294\u2013295, 297."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of business case value?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of business case value is on page 23."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to business model changes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Business model changes are related to page numbers 41, 291."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit of business model shifts and creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit of business model shifts and creation is on page 296."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers cover business/operational KPIs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Business/operational KPIs cover page numbers 314\u2013322."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit linking pod OKRs?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit linking pod OKRs is on page 319."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit for tracking business/operational KPIs?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit for tracking business/operational KPIs is on page 316."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to assessing foundational capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Assessing foundational capabilities is related to page number 50."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit for assessing foundational capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit for assessing foundational capabilities is on page 51."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with benchmarking foundational capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benchmarking foundational capabilities is associated with page number 52."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to partnering for capability building?"
+      },
+      {
+        "role": "assistant",
+        "content": "Partnering for capability building is related to page numbers 54\u201356."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit of the elements of a capability building plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit of the elements of a capability building plan is on page 55."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to capability building progress?"
+      },
+      {
+        "role": "assistant",
+        "content": "Capability building progress is related to page number 322."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with career paths?"
+      },
+      {
+        "role": "assistant",
+        "content": "Career paths are associated with page number 108."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of dual career tracks?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of dual career tracks is on page 109."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to the relationship between career paths and professional development?"
+      },
+      {
+        "role": "assistant",
+        "content": "The relationship between career paths and professional development is related to page numbers 152, 155, 157."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an example of a career path in product management?"
+      },
+      {
+        "role": "assistant",
+        "content": "An example of a career path in product management is on page 153."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is a case example for an agricultural company's Talent War Room?"
+      },
+      {
+        "role": "assistant",
+        "content": "A case example for an agricultural company's Talent War Room is on page 84."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is an exhibit for a bank's product and platform model?"
+      },
+      {
+        "role": "assistant",
+        "content": "An exhibit for a bank's product and platform model is on page 140."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to a CPG company's personalization marketing domain breakdown?"
+      },
+      {
+        "role": "assistant",
+        "content": "A CPG company's personalization marketing domain breakdown is related to page number 37."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the page numbers for cloud application patterns?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cloud application patterns are on page number 190."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers cover base cloud capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Base cloud capabilities cover page numbers 189\u2013190."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is related to a credit card company's data product?"
+      },
+      {
+        "role": "assistant",
+        "content": "A credit card company's data product is related to page number 258."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page number is associated with DBS's digital and AI transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "DBS's digital and AI transformation is associated with page number 357."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are related to a financial services company's AI application development?"
+      },
+      {
+        "role": "assistant",
+        "content": "A financial services company's AI application development is related to page number 233."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What page numbers are associated with a financial services company determining talent gap dispositions?"
+      },
+      {
+        "role": "assistant",
+        "content": "A financial services company determining talent gap dispositions is associated with page numbers 187\u2013189."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Financial Operations (FinOps)?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text mentions Financial operations (FinOps) with page numbers 190-191, discussing its foundations, isolation zones, migration, monitoring, movement, policy review, and on-premises vs cloud considerations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key aspects of data governance mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text mentions data governance in relation to executive level dashboards, centralization, and identification/prioritization of data, with examples and frameworks discussed on pages 275, 281 (exhibit), and 239-240."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the impact of a Chief Executive Officer (CEO) on digital transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text states that a CEO has an impact on digital transformation, with specific discussion on CEO-led transformation governance and the CEO's role in digital transformation on pages 23, 351, and 61-62."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the different data architecture archetypes discussed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses data architecture archetypes on pages 260-264 and 261 (exhibit)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the practices for sequencing and designing a data roadmap?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text details practices for sequencing and designing a data roadmap on pages 269-271."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key aspects of Customer Experience (CX) design?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text covers Customer experience (CX) design, including its process, investment, competencies, value link, hiring designers, and design to development processes and tools on pages 160, 161 (exhibit), 162, 163 (exhibit), 164-165, 164 (exhibit), and 165-166."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the importance of code maintainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses code standards and their relation to maintainability on pages 197-201."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the impact of a Chief Financial Officer (CFO) on reimagining operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text indicates that a Chief financial officer (CFO) has an impact on reimagining operations on pages 65 and 186-187."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key considerations for building a data-driven culture?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text mentions building a data-driven culture on pages 277-278."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of continuous integration (CI)?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text defines Continuous integration (CI) on pages 202-204."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of continuous deployment (CD)?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text defines Continuous deployment (CD) on pages 204-205."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is end-to-end automation achieved in CI/CD?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses end-to-end automation in CI/CD on pages 202-205."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the practices for implementing security checks in CI/CD?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text details the implementation of security checks in CI/CD on pages 224-225."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a data mesh and its relation to data architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses data mesh as a data architecture archetype on pages 178, 261 (exhibit), and 262-264."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the different data readiness assessment dimensions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text provides data readiness assessment dimensions on page 242-244."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the different data capabilities discussed?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text outlines data capabilities on pages 266-268 and 267 (exhibit)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the practices for ensuring data availability, quality, and control?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses practices for ensuring data availability, quality, and control on pages 229-231."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the different data architecture archetypes?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text lists data architecture archetypes on pages 260-264 and 261 (exhibit)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of code verification?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses code verification and testing framework decisions on page 200."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the impact of the Chief Executive Officer (CEO) on digital transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text indicates that the Chief Executive Officer (CEO) has an impact on digital transformation, specifically mentioning their role on pages 61-62."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the different data organization structures mentioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses data organization on pages 273-277."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the practices for data roadmap development?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text outlines practices for data roadmap development on pages 244-245."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of data mesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text discusses data mesh as a data architecture archetype on pages 178, 261 (exhibit), and 262-264."
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 25,
-    "retention_rate": 1.0,
-    "avg_score": 9.1
+    "total": 3080,
+    "filtered": 198,
+    "retention_rate": 0.06,
+    "avg_score": 8.2
   }
 }

@@ -1,125 +1,145 @@
 {
-  "summary": "This document explores the significant economic potential of generative AI (gen AI) within the Technology, Media, and Telecommunications (TMT) sector, estimating billions in annual impact. It highlights the need for TMT leaders to move beyond pilot stages and develop strategies for AI-native transformation to remain competitive. The report emphasizes that successful gen AI adoption requires a focus on technology, data, governance, and talent, while also acknowledging the challenges and risks involved. Ultimately, it aims to provide guidance on preparing for and implementing gen AI, particularly within telecommunications, to capture its transformative benefits.",
+  "summary": "This document explores the significant economic potential of generative AI (gen AI) in the Technology, Media, and Telecommunications (TMT) sector, estimating billions in annual impact. It highlights that TMT companies must embrace gen AI to remain competitive, with telecommunications operators potentially seeing substantial gains in areas like customer care and network operations. The report emphasizes the need for an \"AI-native transformation\" focusing on technology, data, and governance, while also acknowledging challenges like talent shortages and regulatory uncertainty. Ultimately, it advises leaders to develop clear strategies, invest in AI, and manage risks to effectively capture the benefits of gen AI.",
   "qa_pairs": [
     {
-      "question": "What is the estimated annual economic impact of generative AI on the global economy?",
+      "question": "What is the estimated annual economic potential of generative AI?",
       "answer": "McKinsey research estimates that gen AI could add to the economy between $2.6 trillion and $4.4 trillion annually.",
       "rating": 9
     },
     {
-      "question": "What is the projected impact of generative AI on the Technology, Media, and Telecommunications (TMT) space?",
-      "answer": "In the TMT space, new gen AI use cases are expected to unleash between $380 billion and $690 billion in impact.",
+      "question": "What percentage of total investments in generative AI companies did companies based in the United States account for from 2020 to 2022?",
+      "answer": "Generative AI\u2013related companies based in the United States raised about $8 billion from 2020 to 2022, accounting for 75 percent of total investments in such companies during that period.",
       "rating": 9
     },
     {
-      "question": "What is the estimated impact of generative AI specifically within the telecommunications sector?",
-      "answer": "The impact in telecommunications is estimated to be between $60 billion and $100 billion.",
+      "question": "Beyond direct productivity impacts, what are potential knock-on effects of generative AI in marketing?",
+      "answer": "Generative AI\u2013enabled synthesis could provide higher-quality data insights, leading to new ideas for marketing campaigns and better-targeted customer segments.",
       "rating": 9
     },
     {
-      "question": "What is the estimated impact of generative AI within the media sector?",
-      "answer": "The impact in media is estimated to be between $80 billion and $130 billion.",
+      "question": "What issue does the text raise regarding the reliability of Generative AI outputs?",
+      "answer": "Models can produce different answers to the same prompts, impeding the user\u2019s ability to assess the accuracy and reliability of outputs.",
       "rating": 9
     },
     {
-      "question": "What is the estimated impact of generative AI within the high tech sector?",
-      "answer": "The impact in high tech is estimated to be about $240 billion to $460 billion.",
+      "question": "What is the potential impact of generative AI on telcos' profitability?",
+      "answer": "Generative AI could be the catalyst to reignite growth for telcos after a decade of stagnation and offers the sector a real opportunity to reverse its stagnant fortunes.",
       "rating": 9
     },
     {
-      "question": "What is McKinsey's approach to ensuring generative AI delivers meaningful value?",
-      "answer": "McKinsey has conducted extensive research into how to embed gen AI and has worked with clients to create and implement gen AI road maps.",
-      "rating": 9
-    },
-    {
-      "question": "How many generative AI use cases have been identified by McKinsey in TMT across seven business domains?",
-      "answer": "McKinsey has identified more than 100 gen AI use cases in TMT across seven business domains.",
-      "rating": 9
-    },
-    {
-      "question": "What has McKinsey done to understand how generative AI can deliver meaningful value?",
-      "answer": "McKinsey has conducted extensive research into how to embed gen AI and has spent the past year working with clients to create and implement gen AI road maps.",
-      "rating": 9
-    },
-    {
-      "question": "How many gen AI use cases has McKinsey identified in TMT across seven business domains?",
-      "answer": "McKinsey has identified more than 100 gen AI use cases in TMT across seven business domains.",
-      "rating": 9
-    },
-    {
-      "question": "Which functions in telcos are expected to see the largest share of total impact from gen AI?",
-      "answer": "The largest share of total impact from gen AI in telcos will likely be in customer care and sales.",
-      "rating": 9
-    },
-    {
-      "question": "What percentage of total impact is customer care and sales expected to account for in telcos?",
-      "answer": "Customer care and sales together would account for approximately 70 percent of total impact in telcos.",
-      "rating": 9
-    },
-    {
-      "question": "What is the potential revenue increase from enhancing employee-customer interactions with gen AI?",
-      "answer": "Enhancing interactions between employees and customers with gen AI can spark a potential revenue increase of 3 to 5 percent.",
-      "rating": 9
-    },
-    {
-      "question": "What is the potential productivity increase in customer care interactions through gen AI automation?",
-      "answer": "Customer care interactions have potential for a 30 to 45 percent increase in productivity where as much as 50 percent of activity could be automated.",
-      "rating": 9
-    },
-    {
-      "question": "What percentage of repetitive work activities could be automated via gen AI to improve productivity?",
-      "answer": "Up to 70 percent of repetitive work activities could be automated via gen AI to improve productivity.",
-      "rating": 9
-    },
-    {
-      "question": "What percentage of activity has the potential for automation in knowledge search, validation, and synthesis using gen AI?",
-      "answer": "Some 60 percent of activity in knowledge search, validation, and synthesis has the potential for automation.",
-      "rating": 9
-    },
-    {
-      "question": "By what percentage could gen AI tools boost developer productivity?",
-      "answer": "Gen AI tools could boost developer productivity by 20 to 45 percent.",
-      "rating": 9
-    },
-    {
-      "question": "What are the key components for becoming an AI-native organization at scale?",
-      "answer": "Becoming an AI-native organization at scale involves making the most of technology, data, and governance.",
-      "rating": 9
-    },
-    {
-      "question": "What kind of operating model is recommended for success with gen AI?",
-      "answer": "Success follows when leaders embrace an operating model that leverages the strengths of both humans and machines, is rooted in agility, flexibility, and continuous learning, and is supported by strong data and analytics talent.",
-      "rating": 9
-    },
-    {
-      "question": "What is another condition of success for gen AI implementation besides the operating model?",
-      "answer": "Another condition of success is to invest in data quality and quantity, focusing on the data life cycle to ensure high-quality information for training the gen AI model.",
-      "rating": 9
-    },
-    {
-      "question": "What capabilities should be built into the data architecture to enable gen AI use case development?",
-      "answer": "Building capabilities into the data architecture, such as vector databases and data pre- and post-processing pipelines, will enable the development of use cases.",
-      "rating": 9
-    },
-    {
-      "question": "What do successful gen AI implementations share?",
-      "answer": "Successful implementations share a clear vision and decisive approach.",
-      "rating": 9
-    },
-    {
-      "question": "What is McKinsey's advice regarding gen AI budgets over the next year?",
-      "answer": "McKinsey advises that financial plans maintain or increase gen AI budgets over the next year.",
-      "rating": 9
-    },
-    {
-      "question": "What should gen AI budgets include for shaping bespoke solutions?",
-      "answer": "These budgets should include resources dedicated to gen AI for the shaping and crafting of bespoke solutions, such as training large language models with telco-specific data, rather than implementing off-the-shelf ones.",
-      "rating": 9
-    },
-    {
-      "question": "What are the key areas mentioned that benefit from marketing and digital transformation?",
-      "answer": "Marketing and digital, sales and channels, customer care, customer strategy, support, additional areas, and new businesses.",
+      "question": "What is the estimated productivity boost for engineering resources in network maintenance using generative AI?",
+      "answer": "Generative AI can boost the productivity of engineering resources, for example, by enabling a 25-30% reduction in the size of the incident management team through self-healing processes.",
       "rating": 8
+    },
+    {
+      "question": "What is a prioritized use case for generative AI in telco/TMT applications related to network usage?",
+      "answer": "Optimization of own vs third-party network usage is a prioritized use case.",
+      "rating": 8
+    },
+    {
+      "question": "What are the implications of next-generation transportation for human travel and goods transport?",
+      "answer": "Next-generation transportation has vast implications for air and land transportation, with the potential to make human travel and the transport of goods far more efficient and environmentally sustainable.",
+      "rating": 8
+    },
+    {
+      "question": "What is a concern regarding intellectual property and gen AI?",
+      "answer": "Organizations may have trouble shielding intellectual property from being inadvertently exposed through a company's gen AI outputs.",
+      "rating": 9
+    },
+    {
+      "question": "What is a key function in driving the Shaper approach to generative AI?",
+      "answer": "One key function in driving the Shaper approach is communicating the trade-offs needed to deliver on specific use cases and highlighting those that are most feasible.",
+      "rating": 9
+    },
+    {
+      "question": "What characterizes the 'Shaper' archetype for generative AI?",
+      "answer": "The 'Shaper' archetype integrates models with internal data and systems to generate more customized results, and is appropriate for companies looking to scale, develop proprietary capabilities, or meet higher security or compliance needs.",
+      "rating": 9
+    },
+    {
+      "question": "What emerging approach can be used to store and retrieve embeddings for generative AI?",
+      "answer": "Emerging approaches include the use of vector databases to store and retrieve embeddings.",
+      "rating": 9
+    },
+    {
+      "question": "What mechanisms are regulators seeking to ensure accountability for AI systems?",
+      "answer": "Regulators are seeking mechanisms that ensure awareness of responsibilities, accountability, and potential redress regarding AI systems, which includes top management buy-in, organization-wide education, and awareness of individual responsibility.",
+      "rating": 9
+    },
+    {
+      "question": "How did an insurer make a step-change impact on end-to-end handling time with gen AI?",
+      "answer": "An insurer made a step-change impact on end-to-end handling time by reimagining its end-to-end claims process, identifying gen AI, digital, and analytics opportunities at each step, and focusing on the claims adjustor's experience.",
+      "rating": 9
+    },
+    {
+      "question": "What is the mechanism of self-attention?",
+      "answer": "Self-attention, sometimes called intra-attention, is a mechanism that aims to mimic cognitive attention, relating different positions of a single sequence to compute a representation of the sequence.",
+      "rating": 9
+    },
+    {
+      "question": "What is structured data?",
+      "answer": "Structured data is tabular data (for example, organized in tables, databases, or spreadsheets) that can be used to train some machine learning models effectively.",
+      "rating": 9
+    },
+    {
+      "question": "How do machine learning algorithms learn and make predictions?",
+      "answer": "Machine learning algorithms detect patterns and learn how to make predictions and recommendations by processing data and experiences, rather than by receiving explicit programming instruction.",
+      "rating": 9
+    },
+    {
+      "question": "What is modality in the context of data?",
+      "answer": "Modality is a high-level data category such as numbers, text, images, video, and audio.",
+      "rating": 9
+    },
+    {
+      "question": "What factors contribute to labor productivity growth?",
+      "answer": "Labor productivity growth comes from increases in the amount of capital available to each worker, the education and experience of the workforce, and improvements in technology.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of prompt engineering?",
+      "answer": "Prompt engineering refers to the process of designing, refining, and optimizing input prompts to guide a generative AI model toward producing desired (that is, accurate) outputs.",
+      "rating": 9
+    },
+    {
+      "question": "What does self-attention, or intra-attention, aim to do?",
+      "answer": "Self-attention, sometimes called intra-attention, is a mechanism that aims to mimic cognitive attention, relating different positions of a single sequence to compute a representation of the sequence.",
+      "rating": 9
+    },
+    {
+      "question": "What kind of data is considered structured data?",
+      "answer": "Structured data is tabular data (for example, organized in tables, databases, or spreadsheets) that can be used to train some machine learning models effectively.",
+      "rating": 9
+    },
+    {
+      "question": "What is the key mechanism that transformers rely on?",
+      "answer": "Transformers are a relatively new neural network architecture that relies on self-attention mechanisms to transform a sequence of inputs into a sequence of outputs while focusing its attention on important parts of the context around the inputs.",
+      "rating": 9
+    },
+    {
+      "question": "What is technical automation potential?",
+      "answer": "Technical automation potential refers to the share of the work time that could be automated.",
+      "rating": 9
+    },
+    {
+      "question": "How was the technical potential for automation assessed?",
+      "answer": "We assessed the technical potential for automation across the global economy through an analysis of the component activities of each occupation. We used databases published by institutions including the World Bank and the US Bureau of Labor Statistics to break down about 850 occupations into approximately 2,100 activities, and we determined the performance capabilities needed for each activity based on how humans currently perform them.",
+      "rating": 9
+    },
+    {
+      "question": "What are use cases in the context of business challenges?",
+      "answer": "Use cases are applications targeted to a specific business challenge that produce one or more measurable outcomes.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a use case for generative AI in marketing?",
+      "answer": "For example, in marketing, generative AI could be used to generate creative content such as personalized emails.",
+      "rating": 9
+    },
+    {
+      "question": "What characterizes unstructured data?",
+      "answer": "Unstructured data lacks a consistent format or structure (for example, text, images, and audio files) and typically requires more advanced techniques to extract insights.",
+      "rating": 9
     }
   ],
   "conversations": [
@@ -130,7 +150,7 @@
       },
       {
         "role": "user",
-        "content": "What is the estimated annual economic impact of generative AI on the global economy?"
+        "content": "What is the estimated annual economic potential of generative AI?"
       },
       {
         "role": "assistant",
@@ -144,11 +164,11 @@
       },
       {
         "role": "user",
-        "content": "What is the projected impact of generative AI on the Technology, Media, and Telecommunications (TMT) space?"
+        "content": "What percentage of total investments in generative AI companies did companies based in the United States account for from 2020 to 2022?"
       },
       {
         "role": "assistant",
-        "content": "In the TMT space, new gen AI use cases are expected to unleash between $380 billion and $690 billion in impact."
+        "content": "Generative AI\u2013related companies based in the United States raised about $8 billion from 2020 to 2022, accounting for 75 percent of total investments in such companies during that period."
       }
     ],
     [
@@ -158,11 +178,11 @@
       },
       {
         "role": "user",
-        "content": "What is the estimated impact of generative AI specifically within the telecommunications sector?"
+        "content": "Beyond direct productivity impacts, what are potential knock-on effects of generative AI in marketing?"
       },
       {
         "role": "assistant",
-        "content": "The impact in telecommunications is estimated to be between $60 billion and $100 billion."
+        "content": "Generative AI\u2013enabled synthesis could provide higher-quality data insights, leading to new ideas for marketing campaigns and better-targeted customer segments."
       }
     ],
     [
@@ -172,11 +192,11 @@
       },
       {
         "role": "user",
-        "content": "What is the estimated impact of generative AI within the media sector?"
+        "content": "What issue does the text raise regarding the reliability of Generative AI outputs?"
       },
       {
         "role": "assistant",
-        "content": "The impact in media is estimated to be between $80 billion and $130 billion."
+        "content": "Models can produce different answers to the same prompts, impeding the user\u2019s ability to assess the accuracy and reliability of outputs."
       }
     ],
     [
@@ -186,11 +206,11 @@
       },
       {
         "role": "user",
-        "content": "What is the estimated impact of generative AI within the high tech sector?"
+        "content": "What is the potential impact of generative AI on telcos' profitability?"
       },
       {
         "role": "assistant",
-        "content": "The impact in high tech is estimated to be about $240 billion to $460 billion."
+        "content": "Generative AI could be the catalyst to reignite growth for telcos after a decade of stagnation and offers the sector a real opportunity to reverse its stagnant fortunes."
       }
     ],
     [
@@ -200,11 +220,11 @@
       },
       {
         "role": "user",
-        "content": "What is McKinsey's approach to ensuring generative AI delivers meaningful value?"
+        "content": "What is the estimated productivity boost for engineering resources in network maintenance using generative AI?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey has conducted extensive research into how to embed gen AI and has worked with clients to create and implement gen AI road maps."
+        "content": "Generative AI can boost the productivity of engineering resources, for example, by enabling a 25-30% reduction in the size of the incident management team through self-healing processes."
       }
     ],
     [
@@ -214,11 +234,11 @@
       },
       {
         "role": "user",
-        "content": "How many generative AI use cases have been identified by McKinsey in TMT across seven business domains?"
+        "content": "What is a prioritized use case for generative AI in telco/TMT applications related to network usage?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey has identified more than 100 gen AI use cases in TMT across seven business domains."
+        "content": "Optimization of own vs third-party network usage is a prioritized use case."
       }
     ],
     [
@@ -228,11 +248,11 @@
       },
       {
         "role": "user",
-        "content": "What has McKinsey done to understand how generative AI can deliver meaningful value?"
+        "content": "What are the implications of next-generation transportation for human travel and goods transport?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey has conducted extensive research into how to embed gen AI and has spent the past year working with clients to create and implement gen AI road maps."
+        "content": "Next-generation transportation has vast implications for air and land transportation, with the potential to make human travel and the transport of goods far more efficient and environmentally sustainable."
       }
     ],
     [
@@ -242,11 +262,11 @@
       },
       {
         "role": "user",
-        "content": "How many gen AI use cases has McKinsey identified in TMT across seven business domains?"
+        "content": "What is a concern regarding intellectual property and gen AI?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey has identified more than 100 gen AI use cases in TMT across seven business domains."
+        "content": "Organizations may have trouble shielding intellectual property from being inadvertently exposed through a company's gen AI outputs."
       }
     ],
     [
@@ -256,11 +276,11 @@
       },
       {
         "role": "user",
-        "content": "Which functions in telcos are expected to see the largest share of total impact from gen AI?"
+        "content": "What is a key function in driving the Shaper approach to generative AI?"
       },
       {
         "role": "assistant",
-        "content": "The largest share of total impact from gen AI in telcos will likely be in customer care and sales."
+        "content": "One key function in driving the Shaper approach is communicating the trade-offs needed to deliver on specific use cases and highlighting those that are most feasible."
       }
     ],
     [
@@ -270,11 +290,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of total impact is customer care and sales expected to account for in telcos?"
+        "content": "What characterizes the 'Shaper' archetype for generative AI?"
       },
       {
         "role": "assistant",
-        "content": "Customer care and sales together would account for approximately 70 percent of total impact in telcos."
+        "content": "The 'Shaper' archetype integrates models with internal data and systems to generate more customized results, and is appropriate for companies looking to scale, develop proprietary capabilities, or meet higher security or compliance needs."
       }
     ],
     [
@@ -284,11 +304,11 @@
       },
       {
         "role": "user",
-        "content": "What is the potential revenue increase from enhancing employee-customer interactions with gen AI?"
+        "content": "What emerging approach can be used to store and retrieve embeddings for generative AI?"
       },
       {
         "role": "assistant",
-        "content": "Enhancing interactions between employees and customers with gen AI can spark a potential revenue increase of 3 to 5 percent."
+        "content": "Emerging approaches include the use of vector databases to store and retrieve embeddings."
       }
     ],
     [
@@ -298,11 +318,11 @@
       },
       {
         "role": "user",
-        "content": "What is the potential productivity increase in customer care interactions through gen AI automation?"
+        "content": "What mechanisms are regulators seeking to ensure accountability for AI systems?"
       },
       {
         "role": "assistant",
-        "content": "Customer care interactions have potential for a 30 to 45 percent increase in productivity where as much as 50 percent of activity could be automated."
+        "content": "Regulators are seeking mechanisms that ensure awareness of responsibilities, accountability, and potential redress regarding AI systems, which includes top management buy-in, organization-wide education, and awareness of individual responsibility."
       }
     ],
     [
@@ -312,11 +332,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of repetitive work activities could be automated via gen AI to improve productivity?"
+        "content": "How did an insurer make a step-change impact on end-to-end handling time with gen AI?"
       },
       {
         "role": "assistant",
-        "content": "Up to 70 percent of repetitive work activities could be automated via gen AI to improve productivity."
+        "content": "An insurer made a step-change impact on end-to-end handling time by reimagining its end-to-end claims process, identifying gen AI, digital, and analytics opportunities at each step, and focusing on the claims adjustor's experience."
       }
     ],
     [
@@ -326,11 +346,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of activity has the potential for automation in knowledge search, validation, and synthesis using gen AI?"
+        "content": "What is the mechanism of self-attention?"
       },
       {
         "role": "assistant",
-        "content": "Some 60 percent of activity in knowledge search, validation, and synthesis has the potential for automation."
+        "content": "Self-attention, sometimes called intra-attention, is a mechanism that aims to mimic cognitive attention, relating different positions of a single sequence to compute a representation of the sequence."
       }
     ],
     [
@@ -340,11 +360,11 @@
       },
       {
         "role": "user",
-        "content": "By what percentage could gen AI tools boost developer productivity?"
+        "content": "What is structured data?"
       },
       {
         "role": "assistant",
-        "content": "Gen AI tools could boost developer productivity by 20 to 45 percent."
+        "content": "Structured data is tabular data (for example, organized in tables, databases, or spreadsheets) that can be used to train some machine learning models effectively."
       }
     ],
     [
@@ -354,11 +374,11 @@
       },
       {
         "role": "user",
-        "content": "What are the key components for becoming an AI-native organization at scale?"
+        "content": "How do machine learning algorithms learn and make predictions?"
       },
       {
         "role": "assistant",
-        "content": "Becoming an AI-native organization at scale involves making the most of technology, data, and governance."
+        "content": "Machine learning algorithms detect patterns and learn how to make predictions and recommendations by processing data and experiences, rather than by receiving explicit programming instruction."
       }
     ],
     [
@@ -368,11 +388,11 @@
       },
       {
         "role": "user",
-        "content": "What kind of operating model is recommended for success with gen AI?"
+        "content": "What is modality in the context of data?"
       },
       {
         "role": "assistant",
-        "content": "Success follows when leaders embrace an operating model that leverages the strengths of both humans and machines, is rooted in agility, flexibility, and continuous learning, and is supported by strong data and analytics talent."
+        "content": "Modality is a high-level data category such as numbers, text, images, video, and audio."
       }
     ],
     [
@@ -382,11 +402,11 @@
       },
       {
         "role": "user",
-        "content": "What is another condition of success for gen AI implementation besides the operating model?"
+        "content": "What factors contribute to labor productivity growth?"
       },
       {
         "role": "assistant",
-        "content": "Another condition of success is to invest in data quality and quantity, focusing on the data life cycle to ensure high-quality information for training the gen AI model."
+        "content": "Labor productivity growth comes from increases in the amount of capital available to each worker, the education and experience of the workforce, and improvements in technology."
       }
     ],
     [
@@ -396,11 +416,11 @@
       },
       {
         "role": "user",
-        "content": "What capabilities should be built into the data architecture to enable gen AI use case development?"
+        "content": "What is the purpose of prompt engineering?"
       },
       {
         "role": "assistant",
-        "content": "Building capabilities into the data architecture, such as vector databases and data pre- and post-processing pipelines, will enable the development of use cases."
+        "content": "Prompt engineering refers to the process of designing, refining, and optimizing input prompts to guide a generative AI model toward producing desired (that is, accurate) outputs."
       }
     ],
     [
@@ -410,11 +430,11 @@
       },
       {
         "role": "user",
-        "content": "What do successful gen AI implementations share?"
+        "content": "What does self-attention, or intra-attention, aim to do?"
       },
       {
         "role": "assistant",
-        "content": "Successful implementations share a clear vision and decisive approach."
+        "content": "Self-attention, sometimes called intra-attention, is a mechanism that aims to mimic cognitive attention, relating different positions of a single sequence to compute a representation of the sequence."
       }
     ],
     [
@@ -424,11 +444,11 @@
       },
       {
         "role": "user",
-        "content": "What is McKinsey's advice regarding gen AI budgets over the next year?"
+        "content": "What kind of data is considered structured data?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey advises that financial plans maintain or increase gen AI budgets over the next year."
+        "content": "Structured data is tabular data (for example, organized in tables, databases, or spreadsheets) that can be used to train some machine learning models effectively."
       }
     ],
     [
@@ -438,11 +458,11 @@
       },
       {
         "role": "user",
-        "content": "What should gen AI budgets include for shaping bespoke solutions?"
+        "content": "What is the key mechanism that transformers rely on?"
       },
       {
         "role": "assistant",
-        "content": "These budgets should include resources dedicated to gen AI for the shaping and crafting of bespoke solutions, such as training large language models with telco-specific data, rather than implementing off-the-shelf ones."
+        "content": "Transformers are a relatively new neural network architecture that relies on self-attention mechanisms to transform a sequence of inputs into a sequence of outputs while focusing its attention on important parts of the context around the inputs."
       }
     ],
     [
@@ -452,18 +472,74 @@
       },
       {
         "role": "user",
-        "content": "What are the key areas mentioned that benefit from marketing and digital transformation?"
+        "content": "What is technical automation potential?"
       },
       {
         "role": "assistant",
-        "content": "Marketing and digital, sales and channels, customer care, customer strategy, support, additional areas, and new businesses."
+        "content": "Technical automation potential refers to the share of the work time that could be automated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was the technical potential for automation assessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "We assessed the technical potential for automation across the global economy through an analysis of the component activities of each occupation. We used databases published by institutions including the World Bank and the US Bureau of Labor Statistics to break down about 850 occupations into approximately 2,100 activities, and we determined the performance capabilities needed for each activity based on how humans currently perform them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are use cases in the context of business challenges?"
+      },
+      {
+        "role": "assistant",
+        "content": "Use cases are applications targeted to a specific business challenge that produce one or more measurable outcomes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a use case for generative AI in marketing?"
+      },
+      {
+        "role": "assistant",
+        "content": "For example, in marketing, generative AI could be used to generate creative content such as personalized emails."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What characterizes unstructured data?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unstructured data lacks a consistent format or structure (for example, text, images, and audio files) and typically requires more advanced techniques to extract insights."
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 24,
-    "retention_rate": 0.96,
-    "avg_score": 8.9
+    "total": 1454,
+    "filtered": 28,
+    "retention_rate": 0.02,
+    "avg_score": 8.5
   }
 }

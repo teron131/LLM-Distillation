@@ -1,105 +1,369 @@
 {
-  "summary": "This McKinsey Digital Practice article emphasizes that strategic alliances are crucial for companies to unlock the full value of generative AI (gen AI). Unlike traditional vendor relationships, successful gen AI partnerships require deeper collaboration, trust, and transparency. Companies should focus on cocreating solutions, engaging in joint planning with providers, and ensuring scalability, interoperability, and reusability of gen AI offerings. Ultimately, maintaining control over one's destiny by balancing provider capabilities with internal investment is key to navigating the complexities and rapid evolution of gen AI.",
+  "summary": "This McKinsey Digital Practice article emphasizes that strategic alliances are crucial for companies to unlock the full value of generative AI (gen AI), going beyond traditional vendor relationships. It highlights that successful gen AI collaborations require deeper trust, transparency, and alignment with providers, unlike typical vendor arrangements. Key to these alliances are cocreation of tailored solutions, joint planning with shared roadmaps, and maintaining control by balancing provider capabilities with in-house investment. Companies must also prioritize providers offering scalability, interoperability, and reusability to build effective gen AI ecosystems.",
   "qa_pairs": [
     {
       "question": "What is the estimated annual economic impact of generative AI?",
-      "answer": "Generative AI promises to propel up to $4.4 trillion in economic impact annually."
+      "answer": "Generative AI (gen AI) promises to propel up to $4.4 trillion in economic impact annually."
     },
     {
-      "question": "Why are strategic alliances vital for companies working with generative AI?",
-      "answer": "Collaborations are increasingly vital due to the lack of experience many have with gen AI, its instability and risk, and the technology's rapid pace of change."
+      "question": "Why are strategic alliances crucial for companies using generative AI?",
+      "answer": "Strategic alliances are crucial for companies looking to build value from generative AI due to its unique challenges, such as the lack of user experience, instability, risk, and rapid pace of change."
     },
     {
-      "question": "What are the three key areas companies should focus on to make the most of strategic alliances for gen AI?",
+      "question": "What is a key component for companies to achieve the full value of their generative AI efforts?",
+      "answer": "A key component for companies to achieve the full value of their generative AI efforts is developing strategic alliances with gen AI providers."
+    },
+    {
+      "question": "What are the three areas companies should focus on to make the most of strategic alliances with gen AI providers?",
       "answer": "Companies should focus on going deeper on collaboration, zeroing in on providers who offer scalability, interoperability, and reusability, and staying in control of their destiny."
     },
     {
-      "question": "How does working with gen AI providers differ from traditional vendor arrangements?",
+      "question": "How does collaborating with gen AI providers differ from traditional vendor relationships?",
       "answer": "Effective strategic gen AI alliances work differently from traditional vendor relationships, requiring a greater degree of trust, thoughtful transparency, frequent communications, and explicit alignment across planning, development, and ongoing management."
     },
     {
-      "question": "What is a key consideration when selecting gen AI providers regarding their solutions?",
-      "answer": "It is important to consider how well providers' solutions will work with other components in a company's gen AI ecosystem, looking for scalability, interoperability, and reusability."
+      "question": "What are the potential downsides of building gen AI capabilities entirely in-house?",
+      "answer": "Building gen AI capabilities entirely in-house can be time-consuming and resource-intensive, especially given the lack of gen AI talent at most companies."
     },
     {
-      "question": "What is recommended to maintain control when working with gen AI providers?",
-      "answer": "It is important to strike a balance between building on a provider\u2019s capabilities and becoming overly dependent on them by investing in flexible infrastructure, monitoring provider performance, and tying compensation to outcomes while clarifying intellectual property boundaries."
+      "question": "What is a benefit of collaborating with gen AI providers?",
+      "answer": "Collaborating with gen AI providers can offer significant benefits in terms of access to the latest capabilities and expertise, development speed, and tailored solutions."
     },
     {
-      "question": "What are the potential drawbacks of building gen AI capabilities entirely in-house?",
-      "answer": "Building solutions entirely in-house can be time-consuming and resource-intensive, especially given the lack of gen AI talent at most companies."
+      "question": "What does it mean to 'stay in control of your destiny' when working with gen AI providers?",
+      "answer": "Staying in control of your destiny means striking a balance between building on a provider's capabilities and becoming overly dependent on them, which involves investing in flexible infrastructure, monitoring provider performance, tying compensation to outcomes, and being clear about intellectual property boundaries."
     },
     {
-      "question": "What are the limitations of buying existing gen AI products or services?",
-      "answer": "While buying existing gen AI products or services can provide quick access to proven solutions, these solutions often require experienced gen AI workers to customize them to what the business really needs."
+      "question": "Why is sharing data to fine-tune models with strategic allies dependent on trust?",
+      "answer": "Sharing data to fine-tune models can only happen if client companies trust their strategic allies to protect that data effectively."
     },
     {
-      "question": "What is an example of a situation where trust is crucial in a strategic gen AI alliance?",
-      "answer": "Sharing data to fine-tune models can happen only if client companies trust strategic allies to protect it effectively."
-    },
-    {
-      "question": "What is necessary to address root cause issues in gen AI models?",
+      "question": "What is required to address root cause issues in AI models, which are often not yet fully stable?",
       "answer": "Addressing root cause issues in AI models necessitates both clear lines of communication and alignment on how solutions will work with other components in a company\u2019s gen AI ecosystem."
     },
     {
-      "question": "What are some challenges in implementing AI technology that necessitate closer collaboration and higher degrees of trust?",
-      "answer": "The technology is still rapidly maturing, implementation is complex, and stability issues bedevil solutions, requiring closer collaboration and higher degrees of trust."
+      "question": "What are some of the challenges associated with current AI technology implementations?",
+      "answer": "The technology is still rapidly maturing, implementation is complex, and stability issues bedevil solutions."
     },
     {
-      "question": "Why is sharing data to fine-tune models only possible with trust between client companies and strategic allies?",
-      "answer": "Sharing data to fine-tune models, for example, can happen only if client companies trust strategic allies to protect it effectively."
+      "question": "Why is trust essential when sharing data to fine-tune AI models?",
+      "answer": "Sharing data to fine-tune models can happen only if client companies trust strategic allies to protect it effectively."
     },
     {
-      "question": "What is required to address root cause issues in AI models, given their complexity and potential instability?",
-      "answer": "The complexity of addressing root cause issues in AI models, many of which are not yet fully stable, necessitates both clear lines of communication and alignment on resolution protocols."
+      "question": "What is necessary to address root cause issues in AI models, given their instability?",
+      "answer": "Addressing root cause issues in AI models necessitates both clear lines of communication and alignment on resolution protocols."
     },
     {
-      "question": "What are the three essential building blocks for establishing trust and collaboration in strategic alliances for generative AI?",
-      "answer": "Trust and collaboration should be established on three essential building blocks: cocreation of solutions and joint planning."
+      "question": "What are the three essential building blocks for trust and collaboration in strategic alliances for gen AI?",
+      "answer": "The three essential building blocks are cocreation of solutions and joint planning."
     },
     {
-      "question": "How do companies typically gain the greatest value from generative AI?",
+      "question": "How do companies typically derive the greatest value from gen AI?",
       "answer": "For most companies, the greatest value from gen AI will come from adopting established capabilities, which providers offer, and tailoring these capabilities to companies\u2019 unique data."
     },
     {
-      "question": "What does the cocreation of solutions with gen AI providers require?",
-      "answer": "This requires a highly iterative and collaborative process where the company and provider work closely together to source and prepare the right data, engineer relevant prompts, fine-tune models based on specific use case needs, and test and iterate on the models in the field."
+      "question": "What does the cocreation of solutions with gen AI providers involve?",
+      "answer": "It requires a highly iterative and collaborative process where the company and provider work closely together to source and prepare the right data, engineer relevant prompts, fine-tune models based on specific use case needs, and test and iterate on the models in the field."
     },
     {
-      "question": "What is important to institute to manage the range of providers a company might need to work with in cocreation?",
-      "answer": "To manage the range of providers a company might need to work with, it will be important to institute frequent touchpoints to share updates, discuss challenges, and align on priorities across providers."
-    },
-    {
-      "question": "What activities are critical for building trust during the cocreation process with gen AI providers?",
+      "question": "What is critical for building trust during the cocreation process?",
       "answer": "Dedicating time for in-person workshops and co-innovation sessions, celebrating milestones, and sharing learnings openly during this process is also critical for building trust."
     },
     {
-      "question": "What information did a luxury retail company share with a gen AI provider to create a personalized product recommendation system?",
-      "answer": "The company shared its vast catalog of product information, including detailed specifications, features, and customer reviews. The company also provided valuable insights into the nuances of customer preferences and behaviors, such as how they pose queries."
+      "question": "What information did the luxury retail company share with its gen AI provider for a personalized product recommendation system?",
+      "answer": "The company shared its vast catalog of product information, including detailed specifications, features, and customer reviews, and provided valuable insights into the nuances of customer preferences and behaviors, such as how they pose queries."
     },
     {
-      "question": "How did the collaboration between the luxury retail company and the gen AI provider impact the resulting model's accuracy?",
+      "question": "What was the impact of the collaboration between the luxury retail company and the gen AI provider on the recommendation system's accuracy?",
       "answer": "This collaboration was instrumental in allowing the resulting model to surface the most appropriate products, even for complex or ambiguous queries, with over 99 percent accuracy."
     },
     {
-      "question": "What is the potential improvement in conversion rate from product discovery to purchase indicated by early results of the luxury retail company's gen AI solution?",
-      "answer": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase, a significant leap for the luxury industry."
+      "question": "What is the potential improvement in conversion rate indicated by early results for the luxury retail company's gen AI solution?",
+      "answer": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase."
     },
     {
-      "question": "What visibility should a gen AI provider offer to a client company for joint planning?",
+      "question": "What should a gen AI provider offer to facilitate joint planning with a client company?",
       "answer": "It is essential for the gen AI provider to offer visibility into its product road map, including upcoming features and capabilities, and possibly grant access to alpha or beta releases."
     },
     {
-      "question": "How can a client company benefit from a provider's product road map visibility?",
-      "answer": "This allows the client company both to anticipate how the provider\u2019s offerings might evolve to meet the company\u2019s own future needs and to possibly influence the direction of the road map."
-    },
-    {
-      "question": "How can a company help a gen AI provider align its product road map?",
-      "answer": "The road map can also be aligned when the company shares its strategic goals and relevant customer insights to help the provider better understand the company\u2019s needs."
+      "question": "How can a client company influence the direction of a gen AI provider's road map?",
+      "answer": "The client company can influence the direction of the road map by sharing its strategic goals and relevant customer insights to help the provider better understand the company\u2019s needs."
     },
     {
       "question": "What is the potential improvement in conversion rate from product discovery to purchase indicated by early results?",
       "answer": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase."
+    },
+    {
+      "question": "Why is it essential for a gen AI provider to offer visibility into its product road map to a client company?",
+      "answer": "It is essential for the gen AI provider to offer visibility into its product road map so the client company can anticipate how the provider\u2019s offerings might evolve to meet the company\u2019s own future needs and to possibly influence the direction of the road map."
+    },
+    {
+      "question": "How can a client company help a gen AI provider better understand its needs?",
+      "answer": "The company can share its strategic goals and relevant customer insights to help the provider better understand the company\u2019s needs."
+    },
+    {
+      "question": "Why is a high level of communication and coordination important when working with gen AI models?",
+      "answer": "This level of communication and coordination is particularly important given that companies will likely be working with different gen AI models and applications\u2014often developed by different providers\u2014that need to be closely integrated for a solution to work well."
+    },
+    {
+      "question": "What is a potential benefit of providing clarity and transparency between gen AI vendors?",
+      "answer": "Potential benefits of providing clarity and transparency include helping various vendors align their road maps and identify dependencies (for example, between multiple models that need to work together to deliver a specific gen AI solution)."
+    },
+    {
+      "question": "What is recommended as an investment of time up front when building strategic alliances for gen AI?",
+      "answer": "Investing significant time together up front\u2014often meeting every couple of days for two to four weeks\u2014to work out a mutual road map and system dependencies is recommended."
+    },
+    {
+      "question": "What should the output of upfront planning efforts for gen AI alliances include?",
+      "answer": "The output from this effort should include a primary project plan that captures milestones and dependencies between providers so the client company can better manage and coordinate all parties."
+    },
+    {
+      "question": "What approach did a leading technology company adopt with its gen AI providers?",
+      "answer": "It engaged in joint planning sessions with its gen AI providers to identify high-impact use cases to strengthen its core product."
+    },
+    {
+      "question": "How did the technology company's sharing of customer analytics insights and long-term vision benefit its gen AI providers?",
+      "answer": "The company shared valuable customer analytics insights and outlined its long-term vision for AI-driven innovation, which helped the gen AI providers develop a more aligned road map."
+    },
+    {
+      "question": "What was a key benefit for the technology company from collaborative planning and continual communication with gen AI providers?",
+      "answer": "Through these collaborative-planning efforts and continual communication about road map needs and adjustments, the company was able to reduce time to market for deploying at-scale solutions."
+    },
+    {
+      "question": "What was the result of the personalized marketing campaign powered by gen AI launched by the technology company?",
+      "answer": "It launched a personalized marketing campaign powered by gen AI within six months of starting the strategic alliance, resulting in a significant boost in sales conversions."
+    },
+    {
+      "question": "What are some areas that often require sizable investments for gen AI programs?",
+      "answer": "Gen AI programs often require sizable investments in specialized hardware, large-scale data acquisition and tagging, and extensive computational resources for model training."
+    },
+    {
+      "question": "What are some risks associated with adopting gen AI capabilities that require close attention?",
+      "answer": "The risks associated with adopting gen AI capabilities\u2014from hallucinating models to privacy issues\u2014require close attention."
+    },
+    {
+      "question": "What should companies consider regarding the distribution of resources and risks with gen AI development?",
+      "answer": "Companies should consider how best to distribute among providers financial, technological, and operational resources and risks associated with gen AI development."
+    },
+    {
+      "question": "What specific risks should companies and providers be explicit in defining for a gen AI project?",
+      "answer": "Companies and providers, for example, should be explicit in defining specific risks associated with the gen AI project, such as data privacy breaches, model biases, or IP infringement."
+    },
+    {
+      "question": "What should agreements for gen AI projects ideally outline regarding risks?",
+      "answer": "These agreements will ideally outline each party\u2019s responsibilities for mitigating and managing these risks, as well as any financial or legal liabilities."
+    },
+    {
+      "question": "How did the technology company share risks with its gen AI providers?",
+      "answer": "The same technology company mentioned earlier shared risks with their gen AI providers by structuring contracts around outcomes instead of token usage."
+    },
+    {
+      "question": "What was the benefit of structuring contracts around outcomes instead of token usage for the technology company?",
+      "answer": "This approach allowed the company to manage uncertainties and costs while aligning incentives and fostering a shared commitment to success."
+    },
+    {
+      "question": "What specific risks should companies and providers be explicit about in gen AI projects?",
+      "answer": "Companies and providers should be explicit in defining specific risks associated with gen AI projects, such as data privacy breaches, model biases, or IP infringement."
+    },
+    {
+      "question": "How can contracts help manage risks and liabilities in gen AI projects?",
+      "answer": "These agreements will ideally outline each party\u2019s responsibilities for mitigating and managing risks, as well as any financial or legal liabilities."
+    },
+    {
+      "question": "How did one technology company share risks with its gen AI providers?",
+      "answer": "The same technology company shared risks with their gen AI providers by structuring contracts around outcomes instead of token usage."
+    },
+    {
+      "question": "What are the benefits of structuring gen AI contracts around outcomes instead of token usage?",
+      "answer": "This approach allowed the company to manage uncertainties and costs while aligning incentives and fostering a shared commitment to success."
+    },
+    {
+      "question": "Why do companies need to team up with a network of specialized tech providers for gen AI solutions?",
+      "answer": "A single provider that can provide all the best components for an effective gen AI solution doesn\u2019t exist, at least not yet, and the variety of components and models needed to work together across the tech stack means companies will need to team up with a curated network of specialized tech providers."
+    },
+    {
+      "question": "What is more important when developing an ecosystem of gen AI providers that can scale?",
+      "answer": "In developing an ecosystem of providers that can scale, the component parts working together are more important than the parts individually."
+    },
+    {
+      "question": "How has the provider landscape for gen AI grown since the launch of ChatGPT?",
+      "answer": "Since the launch of ChatGPT in November 2022, the number of open-source large language models (LLMs) and commercial LLMs has quadrupled, and there are currently more than 1,000 AI vendors, with more than 600 new products introduced over the previous year."
+    },
+    {
+      "question": "What are the three key criteria companies should focus on when selecting gen AI providers?",
+      "answer": "Companies should zero in on three key criteria when selecting providers: scalability, reusability, and interoperability."
+    },
+    {
+      "question": "What is required of providers in terms of scalability for gen AI?",
+      "answer": "Providers should have a proven track record of handling increased volumes of complex traffic and user queries without compromising performance, and should be able to commit to specific milestones, such as handling a 50 percent increase in user queries over six months without degradation."
+    },
+    {
+      "question": "What is a critical benefit of reusing code in gen AI development?",
+      "answer": "Reusing code can accelerate the development of gen AI use cases by 30 to 50 percent."
+    },
+    {
+      "question": "What types of solutions should companies look for from providers to enable reusability?",
+      "answer": "Companies should look for providers that offer flexible, modular components and pretrained models, as well as tools and frameworks that can enable easy customization and extension of solutions."
+    },
+    {
+      "question": "What is a key milestone to look for when evaluating the scalability of a provider?",
+      "answer": "When evaluating scalability, providers should be able to handle a 50 percent increase in user queries over six months without degradation."
+    },
+    {
+      "question": "How can reusing code impact the development of gen AI use cases?",
+      "answer": "Reusing code can accelerate the development of gen AI use cases by 30 to 50 percent."
+    },
+    {
+      "question": "What types of components and models should companies look for from providers to ensure reusability?",
+      "answer": "Companies should look for providers that offer flexible, modular components and pretrained models, such as customizable natural-language-processing modules or configurable data pipelines."
+    },
+    {
+      "question": "Why is interoperability between models and components crucial for gen AI?",
+      "answer": "Interoperability between models and components is crucial for creating a cohesive, efficient, and scalable gen AI ecosystem."
+    },
+    {
+      "question": "What industry standards and best practices should companies look for when evaluating model or solution interoperability?",
+      "answer": "When evaluating interoperability, companies should look for providers that adhere to industry standards and best practices for data exchange, API design, and software development, such as standard data formats like Apache Avro and JavaScript Object Notation, or machine learning frameworks like PyTorch."
+    },
+    {
+      "question": "Besides scalability, what other important criteria should companies ensure providers meet?",
+      "answer": "Companies should also ensure that all providers meet a high bar on other criteria, such as ethical guidelines and adherence to local privacy and tech sovereignty regulations."
+    },
+    {
+      "question": "What is a critical challenge for organizations when forging strategic alliances with gen AI providers?",
+      "answer": "Finding the sweet spot between forging close strategic alliances and maintaining agency over the broader direction and vision of these collaborations presents a critical challenge for organizations."
+    },
+    {
+      "question": "What can serve as a foundation for quickly integrating different providers in a gen AI infrastructure?",
+      "answer": "A flexible, scalable gen AI infrastructure can serve as a foundation for quickly integrating different providers."
+    },
+    {
+      "question": "What MLOps best practices can companies adopt to ensure maximum flexibility in their gen AI infrastructure?",
+      "answer": "To ensure maximum flexibility, companies can adopt MLOps best practices, such as containerization, automated testing, and continuous-integration and continuous-delivery (CI/CD) pipelines."
+    },
+    {
+      "question": "What is a key reason for companies to continually monitor model performance?",
+      "answer": "Companies need to continually monitor model performance to avoid receiving a 'black box' solution."
+    },
+    {
+      "question": "What are the benefits of certain practices for the gen AI stack?",
+      "answer": "These practices help ensure the reliability and performance of the gen AI stack and allow for rapid rollback of changes if issues arise."
+    },
+    {
+      "question": "Why is it important to continually monitor model performance in a gen AI solution?",
+      "answer": "Companies need to maintain a clear understanding of what providers are building to avoid receiving a \u201cblack box\u201d solution and to track provider performance and identify issues early."
+    },
+    {
+      "question": "What should companies ensure providers include during the development of gen AI solutions?",
+      "answer": "They should ensure that providers include proper documentation and sufficient transparency during development."
+    },
+    {
+      "question": "What are examples of relevant metrics that automated reporting capabilities can collect and aggregate?",
+      "answer": "Automated reporting capabilities can collect and aggregate model inputs and outputs, latency and throughput statistics, and user feedback."
+    },
+    {
+      "question": "Why is it important to regularly conduct end-to-end tests of a gen AI solution?",
+      "answer": "It's important to regularly conduct end-to-end tests of the gen AI solution\u2014from data ingestion to model outputs\u2014so as to track performance and identify the source of a problem across the provider ecosystem."
+    },
+    {
+      "question": "What kind of testing strategy helps set clear expectations and responsibilities among providers?",
+      "answer": "Involving all providers in establishing a comprehensive testing strategy, such as joint integration testing and scenario testing, helps to set clear expectations and responsibilities."
+    },
+    {
+      "question": "Why is it important to establish clear IP boundaries for gen AI collaborations?",
+      "answer": "Difficult questions about IP are still being worked through with respect to gen AI, so it is important to establish clear boundaries up front."
+    },
+    {
+      "question": "What specific IP should companies specify when establishing clear IP boundaries?",
+      "answer": "Companies should specify, for example, the existing IP that each party brings to the collaboration, such as proprietary data sets, algorithms, or models."
+    },
+    {
+      "question": "What aspects of IP created during a gen AI collaboration should be defined?",
+      "answer": "They should define how IP that is created during the collaboration (for example, any patents, copyrights, or trade secrets) will be owned and managed, including predefined terms for licensing, commercialization, and revenue sharing."
+    },
+    {
+      "question": "What can help prevent disputes and ensure proper recognition of each party's contributions in a gen AI collaboration?",
+      "answer": "Outlining a process for tracking and attributing individual contributions to the codeveloped IP can help prevent disputes and ensure proper recognition of each party\u2019s contributions."
+    },
+    {
+      "question": "What should a provider's compensation be tied to in a gen AI partnership?",
+      "answer": "It is critical to tie a provider\u2019s compensation to measurable outcomes such as model accuracy, uptime, and user satisfaction."
+    },
+    {
+      "question": "What should companies avoid including in contracts related to gen AI providers?",
+      "answer": "Companies should avoid minimum spend requirements."
+    },
+    {
+      "question": "What should be included in gen AI provider contracts to avoid limiting flexibility?",
+      "answer": "Companies should include clear exit clauses and data portability requirements to avoid limiting flexibility."
+    },
+    {
+      "question": "What action can executives consider to position themselves for success in the era of gen AI?",
+      "answer": "To get started, executives can consider establishing a steering committee made up of key stakeholders from business, IT, legal, and procurement to oversee the gen-AI-alliance strategy."
+    },
+    {
+      "question": "What tasks should a steering committee for gen AI alliances be tasked with?",
+      "answer": "The committee should be tasked with defining strategic-alliance criteria, setting performance metrics, and establishing governance guidelines."
+    },
+    {
+      "question": "What is the purpose of conducting a strategic gen-AI-alliance audit?",
+      "answer": "A strategic gen-AI-alliance audit is conducted to assess current strategic alliances and identify gaps, redundancies, or misalignments with the gen AI strategy."
+    },
+    {
+      "question": "What criteria should be used to determine which strategic alliances to maintain, expand, or phase out?",
+      "answer": "The decision to maintain, expand, or phase out strategic alliances should be based on their potential to spur business value."
+    },
+    {
+      "question": "What tasks should the committee be tasked with regarding strategic alliances?",
+      "answer": "The committee should be tasked with defining strategic-alliance criteria, setting performance metrics, and establishing governance guidelines."
+    },
+    {
+      "question": "What kind of autonomy does the team need to make decisions?",
+      "answer": "The team needs sufficient autonomy to make decisions within strategic guidelines."
+    },
+    {
+      "question": "What should the playbook for strategic gen-AI alliances include?",
+      "answer": "The playbook should include guidelines for assessing scalability, reusability, and interoperability, as well as templates for contracts, service-level agreements, and performance dashboards."
+    },
+    {
+      "question": "What is the purpose of conducting a strategic gen-AI-alliance audit?",
+      "answer": "The purpose is to assess current strategic alliances and identify gaps, redundancies, or misalignments with the gen AI strategy."
+    },
+    {
+      "question": "What should be determined based on the gen AI alliance audit?",
+      "answer": "It should be determined which strategic alliances to maintain, expand, or phase out based on their potential to spur business value."
+    },
+    {
+      "question": "What qualifications should dedicated relationship managers for gen AI alliances possess?",
+      "answer": "The managers should have a solid understanding of gen AI technologies, architectures, and best practices."
+    },
+    {
+      "question": "What is the role of relationship managers in the gen AI ecosystem?",
+      "answer": "They oversee the entire gen AI ecosystem and act as the 'central authority' to help coordinate activities among providers, monitor progress, and resolve issues."
+    },
+    {
+      "question": "What is recommended to be on board alongside relationship managers?",
+      "answer": "In many cases, it will be useful to have a solution architect on board."
+    },
+    {
+      "question": "What is important to do regularly with providers?",
+      "answer": "It is recommended to regularly meet with providers to understand exactly what they are doing and how they are progressing."
+    },
+    {
+      "question": "What should the strategic gen-AI-alliance playbook include?",
+      "answer": "It should include a standardized framework for evaluating, onboarding, and managing new gen AI providers."
+    },
+    {
+      "question": "What should companies do to unlock the full potential of gen AI?",
+      "answer": "Companies should start small, learn fast, and iterate often."
+    },
+    {
+      "question": "Who is a senior partner in McKinsey\u2019s Chicago office mentioned in the text?",
+      "answer": "Alex Singla is a senior partner in McKinsey\u2019s Chicago office."
+    },
+    {
+      "question": "What is the copyright year and holder of the text?",
+      "answer": "Copyright \u00a9 2024 McKinsey & Company."
     }
   ]
 }

@@ -1,130 +1,30 @@
 {
-  "summary": "This document emphasizes the critical role of strategic workforce planning (SWP) in navigating the uncertainties brought by generative AI. It argues that organizations treating talent with the same rigor as financial capital, through a forward-looking SWP approach, can achieve significantly higher revenue per employee. SWP allows companies to proactively anticipate future skill and capacity needs, enabling dynamic resource allocation and a shift away from reactive hiring and firing. The article highlights five best practices for companies to build holistic talent plans and prepare for technological disruptions.",
+  "summary": "This document emphasizes the critical role of strategic workforce planning (SWP) in navigating the disruptions caused by generative AI and rapid technological change. It argues that organizations must treat talent with the same rigor as financial capital, using a forward-looking, data-driven approach to anticipate future skill needs and ensure the right people are in place. By prioritizing talent investments, considering both capacity and capabilities, and embedding SWP into daily operations, companies can achieve greater agility, efficiency, and long-term resilience in the evolving world of work.",
   "qa_pairs": [
     {
-      "question": "What is the primary topic of the article?",
-      "answer": "The article discusses the critical role of strategic workforce planning (SWP) in the age of AI.",
+      "question": "What is the critical role of strategic workforce planning in the age of AI?",
+      "answer": "Strategic workforce planning (SWP) plays a critical role in the age of AI by helping organizations anticipate multiple situations and ensure they have the right number of people with the right skills at the right time to achieve their strategic objectives.",
       "rating": 9
     },
     {
-      "question": "How does Gen AI impact workforce skills and capabilities?",
-      "answer": "Gen AI has increased uncertainty about workforce skills and capabilities.",
-      "rating": 8
-    },
-    {
-      "question": "What is the benefit for organizations that harness AI-driven innovation regarding talent planning?",
-      "answer": "Organizations that harness AI-driven innovation find it makes strategic thinking and talent planning easier.",
+      "question": "Why did a European integrated power utility implement SWP for the first time?",
+      "answer": "Leaders realized there was no clear link between the company\u2019s strategic priorities and its talent strategy.",
       "rating": 9
     },
     {
-      "question": "Who are the authors of this article?",
-      "answer": "This article is a collaborative effort by Neel Gandhi, Sandra Durth, and Vincent B\u00e9rub\u00e9, with Kritvi Kedia and Randy Lim.",
+      "question": "What did the European utility create to forecast future roles?",
+      "answer": "The utility created a model to forecast the supply of future roles (based on attrition, hiring, and targets) and the demand for future roles (based on business growth, strategic changes, and productivity effects).",
       "rating": 10
     },
     {
-      "question": "Which practice group from McKinsey is represented in this article?",
-      "answer": "The article represents views from McKinsey\u2019s People and Organizational Performance Practice.",
-      "rating": 10
+      "question": "What is a benefit of SWP allowing organizations to have one source of data and insights on people interventions?",
+      "answer": "Organizations can make informed decisions about whether to invest in external hires or focus on reskilling and upskilling existing employees.",
+      "rating": 9
     },
     {
-      "question": "What is the date of this article?",
-      "answer": "The article is dated February 2025.",
-      "rating": 10
-    },
-    {
-      "question": "How much more revenue per employee do S&P 500 companies that excel at maximizing their return on talent generate compared to the median firm?",
-      "answer": "S&P 500 companies that excel at maximizing their return on talent generate an astonishing 300 percent more revenue per employee compared with the median firm.",
-      "rating": 10
-    },
-    {
-      "question": "What approach do top-performing companies use to stay ahead in the talent race?",
-      "answer": "Top performers are using strategic workforce planning (SWP) to stay ahead in the talent race.",
-      "rating": 10
-    },
-    {
-      "question": "How do organizations using SWP approach talent management?",
-      "answer": "Organizations using SWP treat talent with the same rigor as managing their financial capital.",
-      "rating": 10
-    },
-    {
-      "question": "What is the typical time horizon for strategic workforce planning?",
-      "answer": "Organizations using SWP take a three-to-five-year view.",
-      "rating": 10
-    },
-    {
-      "question": "What does SWP allow organizations to anticipate?",
-      "answer": "SWP allows organizations to anticipate multiple situations so that they have the right number of people with the right skills at the right time to achieve their strategic objectives.",
-      "rating": 10
-    },
-    {
-      "question": "What are the benefits of SWP regarding resource allocation and efficiency?",
-      "answer": "SWP offers greater fluidity of resources and increases efficiencies by allowing organizations to understand their future capacity and capability gaps.",
-      "rating": 10
-    },
-    {
-      "question": "What kind of insights does SWP provide for existing talent?",
-      "answer": "SWP provides data-backed insights into potential upskilling and reskilling opportunities for existing talent beyond sourcing and recruitment.",
-      "rating": 10
-    },
-    {
-      "question": "What does SWP link to focus on dynamic, systemwide resource allocation?",
-      "answer": "SWP links human resources, operations, and financial priorities with broader organizational capabilities.",
-      "rating": 10
-    },
-    {
-      "question": "Is strategic workforce planning a new concept?",
-      "answer": "SWP is not a novel concept.",
-      "rating": 10
-    },
-    {
-      "question": "What is new about SWP in the current technological landscape?",
-      "answer": "What is new is how it can help companies address the rapid pace of technological change affecting workers across the globe\u2014particularly with the emergence of generative AI.",
-      "rating": 10
-    },
-    {
-      "question": "How is Gen AI changing the nature of jobs?",
-      "answer": "Gen AI is changing the way people work and the nature of their jobs, creating profound implications for employment.",
-      "rating": 10
-    },
-    {
-      "question": "What are some predicted shifts in the future of work due to technological change?",
-      "answer": "The future of work will include shifts in demand for occupations, skills upgrades, automation increases, and productivity challenges.",
-      "rating": 10
-    },
-    {
-      "question": "What percentage of current worked hours may potentially be replaced through automation by 2030, according to McKinsey research?",
-      "answer": "McKinsey research shows that up to 30 percent of current worked hours may potentially be replaced through automation by 2030.",
-      "rating": 10
-    },
-    {
-      "question": "What is the focus of the article regarding companies that have faced shifts in the workforce?",
-      "answer": "The article discusses five best practices used by companies that have faced these shifts head-on by building a holistic talent plan through SWP.",
-      "rating": 10
-    },
-    {
-      "question": "What happened to leading players like Nokia during periods of rapid technological change?",
-      "answer": "The rapid innovation of smartphones left leading players such as Nokia behind.",
-      "rating": 10
-    },
-    {
-      "question": "How does Gen AI fundamentally alter organizations compared to other technological advancements?",
-      "answer": "Gen AI represents a rewiring of how organizations operate and generate value, fundamentally altering the ratio of humans to technology in organizations.",
-      "rating": 10
-    },
-    {
-      "question": "What allows organizations to react more quickly and intentionally to changes in the workforce?",
-      "answer": "Having SWP in place allows organizations to react more quickly and intentionally to these changes.",
-      "rating": 10
-    },
-    {
-      "question": "What does SWP help organizations monitor to stay ahead of the curve?",
-      "answer": "SWP helps organizations monitor leading and lagging indicators.",
-      "rating": 10
-    },
-    {
-      "question": "What is the purpose of identifying and developing new capabilities through SWP?",
-      "answer": "Identifying and developing new capabilities ensures that the workforce is prepared for the evolving demands that changes will bring.",
-      "rating": 10
+      "question": "How can organizations secure a competitive talent advantage in the current and future business environment?",
+      "answer": "Organizations that embed strategic workforce planning into their daily business and strategy can secure a competitive talent advantage now and in the future.",
+      "rating": 9
     }
   ],
   "conversations": [
@@ -135,11 +35,11 @@
       },
       {
         "role": "user",
-        "content": "What is the primary topic of the article?"
+        "content": "What is the critical role of strategic workforce planning in the age of AI?"
       },
       {
         "role": "assistant",
-        "content": "The article discusses the critical role of strategic workforce planning (SWP) in the age of AI."
+        "content": "Strategic workforce planning (SWP) plays a critical role in the age of AI by helping organizations anticipate multiple situations and ensure they have the right number of people with the right skills at the right time to achieve their strategic objectives."
       }
     ],
     [
@@ -149,11 +49,11 @@
       },
       {
         "role": "user",
-        "content": "How does Gen AI impact workforce skills and capabilities?"
+        "content": "Why did a European integrated power utility implement SWP for the first time?"
       },
       {
         "role": "assistant",
-        "content": "Gen AI has increased uncertainty about workforce skills and capabilities."
+        "content": "Leaders realized there was no clear link between the company\u2019s strategic priorities and its talent strategy."
       }
     ],
     [
@@ -163,11 +63,11 @@
       },
       {
         "role": "user",
-        "content": "What is the benefit for organizations that harness AI-driven innovation regarding talent planning?"
+        "content": "What did the European utility create to forecast future roles?"
       },
       {
         "role": "assistant",
-        "content": "Organizations that harness AI-driven innovation find it makes strategic thinking and talent planning easier."
+        "content": "The utility created a model to forecast the supply of future roles (based on attrition, hiring, and targets) and the demand for future roles (based on business growth, strategic changes, and productivity effects)."
       }
     ],
     [
@@ -177,11 +77,11 @@
       },
       {
         "role": "user",
-        "content": "Who are the authors of this article?"
+        "content": "What is a benefit of SWP allowing organizations to have one source of data and insights on people interventions?"
       },
       {
         "role": "assistant",
-        "content": "This article is a collaborative effort by Neel Gandhi, Sandra Durth, and Vincent B\u00e9rub\u00e9, with Kritvi Kedia and Randy Lim."
+        "content": "Organizations can make informed decisions about whether to invest in external hires or focus on reskilling and upskilling existing employees."
       }
     ],
     [
@@ -191,298 +91,18 @@
       },
       {
         "role": "user",
-        "content": "Which practice group from McKinsey is represented in this article?"
+        "content": "How can organizations secure a competitive talent advantage in the current and future business environment?"
       },
       {
         "role": "assistant",
-        "content": "The article represents views from McKinsey\u2019s People and Organizational Performance Practice."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What is the date of this article?"
-      },
-      {
-        "role": "assistant",
-        "content": "The article is dated February 2025."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "How much more revenue per employee do S&P 500 companies that excel at maximizing their return on talent generate compared to the median firm?"
-      },
-      {
-        "role": "assistant",
-        "content": "S&P 500 companies that excel at maximizing their return on talent generate an astonishing 300 percent more revenue per employee compared with the median firm."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What approach do top-performing companies use to stay ahead in the talent race?"
-      },
-      {
-        "role": "assistant",
-        "content": "Top performers are using strategic workforce planning (SWP) to stay ahead in the talent race."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "How do organizations using SWP approach talent management?"
-      },
-      {
-        "role": "assistant",
-        "content": "Organizations using SWP treat talent with the same rigor as managing their financial capital."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What is the typical time horizon for strategic workforce planning?"
-      },
-      {
-        "role": "assistant",
-        "content": "Organizations using SWP take a three-to-five-year view."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What does SWP allow organizations to anticipate?"
-      },
-      {
-        "role": "assistant",
-        "content": "SWP allows organizations to anticipate multiple situations so that they have the right number of people with the right skills at the right time to achieve their strategic objectives."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What are the benefits of SWP regarding resource allocation and efficiency?"
-      },
-      {
-        "role": "assistant",
-        "content": "SWP offers greater fluidity of resources and increases efficiencies by allowing organizations to understand their future capacity and capability gaps."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What kind of insights does SWP provide for existing talent?"
-      },
-      {
-        "role": "assistant",
-        "content": "SWP provides data-backed insights into potential upskilling and reskilling opportunities for existing talent beyond sourcing and recruitment."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What does SWP link to focus on dynamic, systemwide resource allocation?"
-      },
-      {
-        "role": "assistant",
-        "content": "SWP links human resources, operations, and financial priorities with broader organizational capabilities."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "Is strategic workforce planning a new concept?"
-      },
-      {
-        "role": "assistant",
-        "content": "SWP is not a novel concept."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What is new about SWP in the current technological landscape?"
-      },
-      {
-        "role": "assistant",
-        "content": "What is new is how it can help companies address the rapid pace of technological change affecting workers across the globe\u2014particularly with the emergence of generative AI."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "How is Gen AI changing the nature of jobs?"
-      },
-      {
-        "role": "assistant",
-        "content": "Gen AI is changing the way people work and the nature of their jobs, creating profound implications for employment."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What are some predicted shifts in the future of work due to technological change?"
-      },
-      {
-        "role": "assistant",
-        "content": "The future of work will include shifts in demand for occupations, skills upgrades, automation increases, and productivity challenges."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What percentage of current worked hours may potentially be replaced through automation by 2030, according to McKinsey research?"
-      },
-      {
-        "role": "assistant",
-        "content": "McKinsey research shows that up to 30 percent of current worked hours may potentially be replaced through automation by 2030."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What is the focus of the article regarding companies that have faced shifts in the workforce?"
-      },
-      {
-        "role": "assistant",
-        "content": "The article discusses five best practices used by companies that have faced these shifts head-on by building a holistic talent plan through SWP."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What happened to leading players like Nokia during periods of rapid technological change?"
-      },
-      {
-        "role": "assistant",
-        "content": "The rapid innovation of smartphones left leading players such as Nokia behind."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "How does Gen AI fundamentally alter organizations compared to other technological advancements?"
-      },
-      {
-        "role": "assistant",
-        "content": "Gen AI represents a rewiring of how organizations operate and generate value, fundamentally altering the ratio of humans to technology in organizations."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What allows organizations to react more quickly and intentionally to changes in the workforce?"
-      },
-      {
-        "role": "assistant",
-        "content": "Having SWP in place allows organizations to react more quickly and intentionally to these changes."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What does SWP help organizations monitor to stay ahead of the curve?"
-      },
-      {
-        "role": "assistant",
-        "content": "SWP helps organizations monitor leading and lagging indicators."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What is the purpose of identifying and developing new capabilities through SWP?"
-      },
-      {
-        "role": "assistant",
-        "content": "Identifying and developing new capabilities ensures that the workforce is prepared for the evolving demands that changes will bring."
+        "content": "Organizations that embed strategic workforce planning into their daily business and strategy can secure a competitive talent advantage now and in the future."
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 25,
-    "retention_rate": 1.0,
-    "avg_score": 9.8
+    "total": 77,
+    "filtered": 5,
+    "retention_rate": 0.06,
+    "avg_score": 8.8
   }
 }

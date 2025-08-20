@@ -1,89 +1,84 @@
 {
-  "summary": "This document, from a Hong Kong REWIRED Roundtable, discusses how companies can outcompete in the digital and AI age. It highlights a shift from slow, custom-built systems to modular architectures and the importance of in-sourcing for competitive advantage. The presentation emphasizes that successful digital and AI transformations require a holistic approach, embedding technology across core processes and building capabilities for continuous improvement, as demonstrated by leading banks. Ultimately, it argues that true outperformance comes from domain transformation, not just isolated use cases, and requires C-suite alignment and a focus on building sustainable capabilities.",
+  "summary": "This document, from a Hong Kong REWIRED Roundtable, discusses how companies can outcompete in the digital and AI age. It highlights a shift from slow, custom-built systems to modular architectures and the importance of in-sourcing for competitive advantage. The presentation emphasizes that successful digital and AI transformations require a holistic approach, embedding technology across core processes to drive continuous improvement and create hard-to-replicate competitive advantages, as seen in leading banks. Key capabilities for \"rewired\" companies include business-led roadmaps, strong delivery capabilities, talent development, and an agile operating model, with a focus on enterprise-wide innovation rather than isolated use cases.",
   "qa_pairs": [
     {
       "question": "What is the date of the Hong Kong REWIRED Roundtable mentioned in the text?",
-      "answer": "The Hong Kong REWIRED Roundtable was held on September 19, 2024.",
+      "answer": "The Hong Kong REWIRED Roundtable took place on September 19, 2024.",
       "rating": 9
     },
     {
-      "question": "According to the text, what is a key difference in architecture between the old and new paradigms of technology adoption?",
-      "answer": "The old paradigm featured a large system with slow evolution, while the new paradigm utilizes modular architecture for rapid evolution.",
+      "question": "According to the text, what is a key difference in architecture between the old and new technology paradigms?",
+      "answer": "The old paradigm featured a large system with slow evolution, while the new paradigm utilizes a modular architecture for rapid evolution.",
       "rating": 9
     },
     {
-      "question": "What percentage of companies have a digital and AI transformation underway?",
-      "answer": "89% of companies have a digital and AI transformation underway.",
+      "question": "What percentage of companies undergoing digital and AI transformation are delivering the expected revenue increase, according to the text?",
+      "answer": "30% of companies undergoing digital and AI transformation are delivering the expected revenue increase.",
       "rating": 9
     },
     {
-      "question": "What percentage of expected revenue increase is delivered in digital and AI transformations?",
-      "answer": "30% of expected revenue increase is delivered.",
+      "question": "What percentage of companies undergoing digital and AI transformation are delivering the expected cost reduction, according to the text?",
+      "answer": "25% of companies undergoing digital and AI transformation are delivering the expected cost reduction.",
       "rating": 9
     },
     {
-      "question": "What percentage of expected cost reduction is delivered in digital and AI transformations?",
-      "answer": "25% of expected cost reduction is delivered.",
+      "question": "What does the text suggest is a key characteristic of leaders in the banking sector regarding technology?",
+      "answer": "Leaders in the banking sector embed tech everywhere in their core processes/journeys and have built capabilities to drive continuous digital/AI improvements.",
       "rating": 9
     },
     {
-      "question": "How do leaders in banking outperform laggards according to the benchmarking study?",
-      "answer": "Leaders far outperform on every financial metric, embed tech everywhere in their core processes/journeys, and have built capabilities to drive continuous digital/AI improvements.",
-      "rating": 9
-    },
-    {
-      "question": "What are the key capabilities of 'Rewired' companies mentioned in the text?",
+      "question": "What are the key capabilities of 'Rewired' companies as listed in the text?",
       "answer": "The capabilities of Rewired companies include Alignment on value, Business-led digital roadmap, Delivery capabilities, Talent, Operating Model, Technology, Data, Change management, and Adoption and Scaling.",
       "rating": 9
     },
     {
-      "question": "What is the characteristic of 'REWIRED' maturity in terms of EBIT value creation?",
-      "answer": "REWIRED maturity involves enterprise-wide business innovation with digital & AI, creating over 20% EBIT value enterprise-wide.",
+      "question": "What is the estimated EBIT value created from siloed use cases in the 'Experimenting' REWIRED maturity stage?",
+      "answer": "In the 'Experimenting' stage, less than 1% EBIT value is created from siloed use cases.",
       "rating": 9
     },
     {
-      "question": "How is 'Data' handled in the 'REWIRED' maturity model compared to 'Siloed use cases'?",
-      "answer": "In the 'REWIRED' maturity model, data is easy to consume, whereas in 'Siloed use cases,' data is controlled by data specialists.",
+      "question": "What is the estimated EBIT value created enterprise-wide in the 'REWIRED' maturity stage?",
+      "answer": "In the 'REWIRED' stage, more than 20% EBIT value is created enterprise-wide through enterprise-wide business innovation with digital & AI.",
       "rating": 9
     },
     {
-      "question": "What does the Digital Quotient (DQ) and AI Quotient (AIQ) assess?",
-      "answer": "DQ and AIQ assessments measure digital and AI maturity across core capabilities and management practices essential for capturing value.",
+      "question": "How does the text describe the data management in the 'REWIRED' maturity stage compared to the 'Experimenting' stage?",
+      "answer": "In the 'REWIRED' stage, data is easy to consume, whereas in the 'Experimenting' stage, data is controlled by data specialists.",
       "rating": 9
     },
     {
-      "question": "What are some examples of current AI killer applications mentioned in the text?",
-      "answer": "Examples of current AI killer applications include yield optimization, contact centers, pricing optimization, specialized field forces, sales optimization, sales/advisory services, supply chain optimization, and software development.",
+      "question": "What does the text state about the adoption and scaling in the 'REWIRED' maturity stage?",
+      "answer": "In the 'REWIRED' maturity stage, adoption and scaling are business-owned and architected to scale, addressing 'last mile' challenges.",
       "rating": 9
     },
     {
-      "question": "According to the text, what drives the rate of improvement in digital and AI transformations?",
+      "question": "Which sector has the highest average Digital Quotient (DQ) and AI Quotient (AIQ) scores among those listed?",
+      "answer": "High tech has the highest average Digital Quotient and AI Quotient scores.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of current AI and Generative AI killer applications mentioned in the text?",
+      "answer": "Examples of current AI and Generative AI killer applications include yield optimization, contact centers, pricing optimization, specialized field forces, sales optimization, sales/advisory services, supply chain optimization, and software development.",
+      "rating": 9
+    },
+    {
+      "question": "According to the text, what drives the rate of improvement in leveraging technology?",
       "answer": "The rate of improvement is driven by core capabilities.",
       "rating": 9
     },
     {
-      "question": "What is the typical duration for the 'Lighthouses' phase in a transformation?",
-      "answer": "The 'Lighthouses' phase typically lasts 6-12 months.",
+      "question": "What is the typical duration for the 'Scaling' phase in a transformation phasing as described in the text?",
+      "answer": "The 'Scaling' phase typically lasts 24-36 months.",
       "rating": 9
     },
     {
-      "question": "What is the primary goal of the 'Blueprint' phase in a typical transformation?",
-      "answer": "The 'Blueprint' phase aims to define the vision and prioritized domains for the transformation.",
+      "question": "What is the primary focus of the 'Blueprint' phase in typical transformation phasing?",
+      "answer": "The 'Blueprint' phase focuses on vision and prioritized domains.",
       "rating": 9
     },
     {
-      "question": "What is the objective of the 'Scaling' phase in a transformation?",
-      "answer": "The 'Scaling' phase aims to implement the transformation across the organization, typically taking 24-36 months.",
-      "rating": 9
-    },
-    {
-      "question": "What is mentioned as being transformed in the initial lighthouse domains?",
-      "answer": "1-3 lighthouse domains are being transformed.",
-      "rating": 9
-    },
-    {
-      "question": "What was set up as foundational enablers?",
-      "answer": "Foundational enablers were set up, such as cloud infra and data platform.",
+      "question": "What has been set up as foundational enablers?",
+      "answer": "Foundational enablers such as cloud infrastructure and data platforms have been set up.",
       "rating": 9
     },
     {
@@ -92,38 +87,63 @@
       "rating": 9
     },
     {
-      "question": "Which roles are mentioned in relation to modern software engineering and enterprise capabilities?",
-      "answer": "CIO/CTO/CDO are mentioned in relation to modern software engineering and enterprise capabilities.",
+      "question": "Which roles are involved in C-suite alignment and modern software engineering?",
+      "answer": "The CIO, CTO, and CDO are involved in C-suite alignment and modern software engineering.",
       "rating": 9
     },
     {
-      "question": "What is the CFO responsible for in terms of transformation?",
-      "answer": "The CFO is responsible for the transformation business case, planning and funding process, and evolution of policies.",
+      "question": "What responsibilities fall under the BU Heads/COO/Business Functions?",
+      "answer": "Domain reimagination, talent bench, and change management are responsibilities under BU Heads/COO/Business Functions.",
       "rating": 9
     },
     {
-      "question": "What are the HR Lead's responsibilities mentioned in the text?",
-      "answer": "The HR Lead is responsible for domain reimagination, talent bench, change management, employee value proposition, and skill-based talent management.",
+      "question": "What financial responsibilities are listed for the CFO?",
+      "answer": "Transformation business case, embedding of control functions, and planning and funding processes are financial responsibilities for the CFO.",
       "rating": 9
     },
     {
-      "question": "What is an example of a business domain transformation mentioned?",
-      "answer": "An airline example is provided for transform by business domain.",
+      "question": "What are the responsibilities related to legal, risk, and compliance?",
+      "answer": "Evolution of policies, OKR/QBR management, and managing new Digital/AI risks are responsibilities related to legal, risk, and compliance.",
       "rating": 9
     },
     {
-      "question": "What are the three waves of use cases mentioned in the airline example?",
-      "answer": "Wave 1 is to Increase utilization (Capacity forecast, Utilization forecast), Wave 2 is to Optimize pricing (Customer lifetime value, True cost to serve estimator), and Wave 3 is for the Airwaybill process (Airwaybill acceptance assistant, Deviant airwaybill risk).",
+      "question": "What is the example business domain used in the text?",
+      "answer": "An airline example is used as a business domain.",
       "rating": 9
     },
     {
-      "question": "What are the three options for bringing business, tech, and ops closer?",
-      "answer": "The three options are: Digital factory, Product & platform, and Enterprise-wide agile.",
+      "question": "What are the three waves of use cases mentioned for the airline example?",
+      "answer": "Wave 1 is to increase utilization, Wave 2 is to optimize pricing, and Wave 3 is for the Airwaybill process.",
       "rating": 9
     },
     {
-      "question": "What is the core message about transformation according to the closing remarks?",
-      "answer": "The core message is that it's not enough to 'just do it' - you need to Lead Industry, it's about Domain Transformation, not just shiny 'use cases', it involves business Change Management, not just Tech, it's a journey to Build Capabilities, not a one-time transformation, and the entire Top Team must play, not just IT.",
+      "question": "What are examples of use cases in Wave 1 for the airline industry?",
+      "answer": "Capacity forecast and utilization forecast are examples of use cases in Wave 1.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example use case in Wave 2 for the airline industry?",
+      "answer": "Customer lifetime value is an example use case in Wave 2.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example use case in Wave 3 for the airline industry?",
+      "answer": "Airwaybill acceptance assistant and deviant airwaybill risk are examples of use cases in Wave 3.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three options presented for bringing business, tech, and ops closer?",
+      "answer": "The three options are Digital factory, Product & platform, and Enterprise-wide agile.",
+      "rating": 9
+    },
+    {
+      "question": "What are some components of the 'Product & platform' option?",
+      "answer": "Data products, core systems, and cloud services are components of the 'Product & platform' option.",
+      "rating": 9
+    },
+    {
+      "question": "According to the closing remarks, what should one do instead of 'just do it'?",
+      "answer": "Instead of 'just do it,' one needs to Lead Industry.",
       "rating": 9
     }
   ],
@@ -139,7 +159,7 @@
       },
       {
         "role": "assistant",
-        "content": "The Hong Kong REWIRED Roundtable was held on September 19, 2024."
+        "content": "The Hong Kong REWIRED Roundtable took place on September 19, 2024."
       }
     ],
     [
@@ -149,11 +169,11 @@
       },
       {
         "role": "user",
-        "content": "According to the text, what is a key difference in architecture between the old and new paradigms of technology adoption?"
+        "content": "According to the text, what is a key difference in architecture between the old and new technology paradigms?"
       },
       {
         "role": "assistant",
-        "content": "The old paradigm featured a large system with slow evolution, while the new paradigm utilizes modular architecture for rapid evolution."
+        "content": "The old paradigm featured a large system with slow evolution, while the new paradigm utilizes a modular architecture for rapid evolution."
       }
     ],
     [
@@ -163,11 +183,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of companies have a digital and AI transformation underway?"
+        "content": "What percentage of companies undergoing digital and AI transformation are delivering the expected revenue increase, according to the text?"
       },
       {
         "role": "assistant",
-        "content": "89% of companies have a digital and AI transformation underway."
+        "content": "30% of companies undergoing digital and AI transformation are delivering the expected revenue increase."
       }
     ],
     [
@@ -177,11 +197,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of expected revenue increase is delivered in digital and AI transformations?"
+        "content": "What percentage of companies undergoing digital and AI transformation are delivering the expected cost reduction, according to the text?"
       },
       {
         "role": "assistant",
-        "content": "30% of expected revenue increase is delivered."
+        "content": "25% of companies undergoing digital and AI transformation are delivering the expected cost reduction."
       }
     ],
     [
@@ -191,11 +211,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of expected cost reduction is delivered in digital and AI transformations?"
+        "content": "What does the text suggest is a key characteristic of leaders in the banking sector regarding technology?"
       },
       {
         "role": "assistant",
-        "content": "25% of expected cost reduction is delivered."
+        "content": "Leaders in the banking sector embed tech everywhere in their core processes/journeys and have built capabilities to drive continuous digital/AI improvements."
       }
     ],
     [
@@ -205,21 +225,7 @@
       },
       {
         "role": "user",
-        "content": "How do leaders in banking outperform laggards according to the benchmarking study?"
-      },
-      {
-        "role": "assistant",
-        "content": "Leaders far outperform on every financial metric, embed tech everywhere in their core processes/journeys, and have built capabilities to drive continuous digital/AI improvements."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What are the key capabilities of 'Rewired' companies mentioned in the text?"
+        "content": "What are the key capabilities of 'Rewired' companies as listed in the text?"
       },
       {
         "role": "assistant",
@@ -233,11 +239,11 @@
       },
       {
         "role": "user",
-        "content": "What is the characteristic of 'REWIRED' maturity in terms of EBIT value creation?"
+        "content": "What is the estimated EBIT value created from siloed use cases in the 'Experimenting' REWIRED maturity stage?"
       },
       {
         "role": "assistant",
-        "content": "REWIRED maturity involves enterprise-wide business innovation with digital & AI, creating over 20% EBIT value enterprise-wide."
+        "content": "In the 'Experimenting' stage, less than 1% EBIT value is created from siloed use cases."
       }
     ],
     [
@@ -247,11 +253,11 @@
       },
       {
         "role": "user",
-        "content": "How is 'Data' handled in the 'REWIRED' maturity model compared to 'Siloed use cases'?"
+        "content": "What is the estimated EBIT value created enterprise-wide in the 'REWIRED' maturity stage?"
       },
       {
         "role": "assistant",
-        "content": "In the 'REWIRED' maturity model, data is easy to consume, whereas in 'Siloed use cases,' data is controlled by data specialists."
+        "content": "In the 'REWIRED' stage, more than 20% EBIT value is created enterprise-wide through enterprise-wide business innovation with digital & AI."
       }
     ],
     [
@@ -261,11 +267,11 @@
       },
       {
         "role": "user",
-        "content": "What does the Digital Quotient (DQ) and AI Quotient (AIQ) assess?"
+        "content": "How does the text describe the data management in the 'REWIRED' maturity stage compared to the 'Experimenting' stage?"
       },
       {
         "role": "assistant",
-        "content": "DQ and AIQ assessments measure digital and AI maturity across core capabilities and management practices essential for capturing value."
+        "content": "In the 'REWIRED' stage, data is easy to consume, whereas in the 'Experimenting' stage, data is controlled by data specialists."
       }
     ],
     [
@@ -275,11 +281,11 @@
       },
       {
         "role": "user",
-        "content": "What are some examples of current AI killer applications mentioned in the text?"
+        "content": "What does the text state about the adoption and scaling in the 'REWIRED' maturity stage?"
       },
       {
         "role": "assistant",
-        "content": "Examples of current AI killer applications include yield optimization, contact centers, pricing optimization, specialized field forces, sales optimization, sales/advisory services, supply chain optimization, and software development."
+        "content": "In the 'REWIRED' maturity stage, adoption and scaling are business-owned and architected to scale, addressing 'last mile' challenges."
       }
     ],
     [
@@ -289,7 +295,35 @@
       },
       {
         "role": "user",
-        "content": "According to the text, what drives the rate of improvement in digital and AI transformations?"
+        "content": "Which sector has the highest average Digital Quotient (DQ) and AI Quotient (AIQ) scores among those listed?"
+      },
+      {
+        "role": "assistant",
+        "content": "High tech has the highest average Digital Quotient and AI Quotient scores."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of current AI and Generative AI killer applications mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples of current AI and Generative AI killer applications include yield optimization, contact centers, pricing optimization, specialized field forces, sales optimization, sales/advisory services, supply chain optimization, and software development."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the text, what drives the rate of improvement in leveraging technology?"
       },
       {
         "role": "assistant",
@@ -303,11 +337,11 @@
       },
       {
         "role": "user",
-        "content": "What is the typical duration for the 'Lighthouses' phase in a transformation?"
+        "content": "What is the typical duration for the 'Scaling' phase in a transformation phasing as described in the text?"
       },
       {
         "role": "assistant",
-        "content": "The 'Lighthouses' phase typically lasts 6-12 months."
+        "content": "The 'Scaling' phase typically lasts 24-36 months."
       }
     ],
     [
@@ -317,11 +351,11 @@
       },
       {
         "role": "user",
-        "content": "What is the primary goal of the 'Blueprint' phase in a typical transformation?"
+        "content": "What is the primary focus of the 'Blueprint' phase in typical transformation phasing?"
       },
       {
         "role": "assistant",
-        "content": "The 'Blueprint' phase aims to define the vision and prioritized domains for the transformation."
+        "content": "The 'Blueprint' phase focuses on vision and prioritized domains."
       }
     ],
     [
@@ -331,39 +365,11 @@
       },
       {
         "role": "user",
-        "content": "What is the objective of the 'Scaling' phase in a transformation?"
+        "content": "What has been set up as foundational enablers?"
       },
       {
         "role": "assistant",
-        "content": "The 'Scaling' phase aims to implement the transformation across the organization, typically taking 24-36 months."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What is mentioned as being transformed in the initial lighthouse domains?"
-      },
-      {
-        "role": "assistant",
-        "content": "1-3 lighthouse domains are being transformed."
-      }
-    ],
-    [
-      {
-        "role": "system",
-        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
-      },
-      {
-        "role": "user",
-        "content": "What was set up as foundational enablers?"
-      },
-      {
-        "role": "assistant",
-        "content": "Foundational enablers were set up, such as cloud infra and data platform."
+        "content": "Foundational enablers such as cloud infrastructure and data platforms have been set up."
       }
     ],
     [
@@ -387,11 +393,11 @@
       },
       {
         "role": "user",
-        "content": "Which roles are mentioned in relation to modern software engineering and enterprise capabilities?"
+        "content": "Which roles are involved in C-suite alignment and modern software engineering?"
       },
       {
         "role": "assistant",
-        "content": "CIO/CTO/CDO are mentioned in relation to modern software engineering and enterprise capabilities."
+        "content": "The CIO, CTO, and CDO are involved in C-suite alignment and modern software engineering."
       }
     ],
     [
@@ -401,11 +407,11 @@
       },
       {
         "role": "user",
-        "content": "What is the CFO responsible for in terms of transformation?"
+        "content": "What responsibilities fall under the BU Heads/COO/Business Functions?"
       },
       {
         "role": "assistant",
-        "content": "The CFO is responsible for the transformation business case, planning and funding process, and evolution of policies."
+        "content": "Domain reimagination, talent bench, and change management are responsibilities under BU Heads/COO/Business Functions."
       }
     ],
     [
@@ -415,11 +421,11 @@
       },
       {
         "role": "user",
-        "content": "What are the HR Lead's responsibilities mentioned in the text?"
+        "content": "What financial responsibilities are listed for the CFO?"
       },
       {
         "role": "assistant",
-        "content": "The HR Lead is responsible for domain reimagination, talent bench, change management, employee value proposition, and skill-based talent management."
+        "content": "Transformation business case, embedding of control functions, and planning and funding processes are financial responsibilities for the CFO."
       }
     ],
     [
@@ -429,11 +435,11 @@
       },
       {
         "role": "user",
-        "content": "What is an example of a business domain transformation mentioned?"
+        "content": "What are the responsibilities related to legal, risk, and compliance?"
       },
       {
         "role": "assistant",
-        "content": "An airline example is provided for transform by business domain."
+        "content": "Evolution of policies, OKR/QBR management, and managing new Digital/AI risks are responsibilities related to legal, risk, and compliance."
       }
     ],
     [
@@ -443,11 +449,11 @@
       },
       {
         "role": "user",
-        "content": "What are the three waves of use cases mentioned in the airline example?"
+        "content": "What is the example business domain used in the text?"
       },
       {
         "role": "assistant",
-        "content": "Wave 1 is to Increase utilization (Capacity forecast, Utilization forecast), Wave 2 is to Optimize pricing (Customer lifetime value, True cost to serve estimator), and Wave 3 is for the Airwaybill process (Airwaybill acceptance assistant, Deviant airwaybill risk)."
+        "content": "An airline example is used as a business domain."
       }
     ],
     [
@@ -457,11 +463,11 @@
       },
       {
         "role": "user",
-        "content": "What are the three options for bringing business, tech, and ops closer?"
+        "content": "What are the three waves of use cases mentioned for the airline example?"
       },
       {
         "role": "assistant",
-        "content": "The three options are: Digital factory, Product & platform, and Enterprise-wide agile."
+        "content": "Wave 1 is to increase utilization, Wave 2 is to optimize pricing, and Wave 3 is for the Airwaybill process."
       }
     ],
     [
@@ -471,18 +477,88 @@
       },
       {
         "role": "user",
-        "content": "What is the core message about transformation according to the closing remarks?"
+        "content": "What are examples of use cases in Wave 1 for the airline industry?"
       },
       {
         "role": "assistant",
-        "content": "The core message is that it's not enough to 'just do it' - you need to Lead Industry, it's about Domain Transformation, not just shiny 'use cases', it involves business Change Management, not just Tech, it's a journey to Build Capabilities, not a one-time transformation, and the entire Top Team must play, not just IT."
+        "content": "Capacity forecast and utilization forecast are examples of use cases in Wave 1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example use case in Wave 2 for the airline industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Customer lifetime value is an example use case in Wave 2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example use case in Wave 3 for the airline industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Airwaybill acceptance assistant and deviant airwaybill risk are examples of use cases in Wave 3."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three options presented for bringing business, tech, and ops closer?"
+      },
+      {
+        "role": "assistant",
+        "content": "The three options are Digital factory, Product & platform, and Enterprise-wide agile."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some components of the 'Product & platform' option?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data products, core systems, and cloud services are components of the 'Product & platform' option."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the closing remarks, what should one do instead of 'just do it'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Instead of 'just do it,' one needs to Lead Industry."
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 25,
-    "retention_rate": 1.0,
-    "avg_score": 9.0
+    "total": 30,
+    "filtered": 29,
+    "retention_rate": 0.97,
+    "avg_score": 8.9
   }
 }

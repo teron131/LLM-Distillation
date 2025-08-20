@@ -1,124 +1,229 @@
 {
-  "summary": "This report, \"Superagency in the Workplace,\" argues that Artificial Intelligence (AI) has the potential to be as transformative as the steam engine, ushering in a new era of productivity. Despite widespread investment, only 1% of companies believe they have reached AI maturity. The primary barrier to scaling AI is not employee readiness, as employees are eager to adopt and utilize AI, but rather leadership's slow pace in steering its implementation. The report emphasizes that leaders must embrace bolder ambitions and strategically integrate AI to empower employees and drive significant business outcomes, or risk falling behind.",
+  "summary": "This report, \"Superagency in the Workplace,\" argues that while AI has the potential to be as transformative as the steam engine, most companies are not yet mature in its adoption. The primary barrier to scaling AI is not employee readiness, as employees are eager to use and learn about AI, but rather leadership's slow pace in steering its implementation. The report emphasizes that leaders must embrace bolder ambitions and strategically focus on practical AI applications to empower employees and drive transformative change, rather than incremental value. Ultimately, successfully integrating AI into the workplace is a business challenge that requires leadership alignment and organizational rewiring, not a technological one.",
   "qa_pairs": [
     {
-      "question": "What is the primary barrier to scaling AI adoption in companies, according to the research?",
-      "answer": "The biggest barrier to scaling AI adoption is not employees, who are ready, but leaders who are not steering fast enough.",
+      "question": "What percentage of companies believe they have reached AI maturity?",
+      "answer": "Almost all companies invest in AI, but just 1 percent believe they are at maturity.",
       "rating": 9
     },
     {
-      "question": "How is artificial intelligence compared to past technological advancements in the text?",
-      "answer": "Artificial intelligence has the potential to be as transformative as the steam engine was to the 19th-century Industrial Revolution.",
+      "question": "How does Marc Benioff describe the capability provided by Salesforce's Agentforce?",
+      "answer": "Marc Benioff describes this as providing a \u201cdigital workforce\u201d where humans and automated agents work together to achieve customer outcomes.",
       "rating": 9
     },
     {
-      "question": "What is the estimated long-term AI opportunity in terms of added productivity growth potential from corporate use cases?",
-      "answer": "McKinsey research sizes the long-term AI opportunity at $4.4 trillion in added productivity growth potential from corporate use cases.",
-      "rating": 10
+      "question": "What percentage of employees report receiving minimal to no support for AI training?",
+      "answer": "More than a fifth of employees report that they have received minimal to no support.",
+      "rating": 9
     },
     {
-      "question": "What percentage of companies plan to increase their AI investments over the next three years?",
-      "answer": "Over the next three years, 92 percent of companies plan to increase their AI investments.",
-      "rating": 10
+      "question": "What types of metrics do C-suite leaders primarily focus on when using benchmarks for AI evaluation?",
+      "answer": "When leaders use benchmarks, they opt to measure operational metrics (such as scalability, reliability, robustness, and cost efficiency) and performance-related metrics (including accuracy, precision, F1 score, latency, and throughput).",
+      "rating": 9
     },
     {
-      "question": "What percentage of company leaders believe their companies are mature in AI deployment?",
-      "answer": "Only 1 percent of leaders call their companies 'mature' on the deployment spectrum.",
-      "rating": 10
+      "question": "What percentage of leaders anticipate AI deployment driving revenue growth in the next three years?",
+      "answer": "Almost 90 percent of leaders anticipate that deploying AI will drive revenue growth in the next three years.",
+      "rating": 9
     },
     {
-      "question": "According to the report, what is the risk for business leaders regarding AI adoption?",
-      "answer": "The risk for business leaders is not thinking too big, but rather too small when it comes to AI.",
-      "rating": 10
+      "question": "What percentage of US respondents work at companies with more than 50,000 employees?",
+      "answer": "31 percent of US respondents work at companies with more than 50,000 employees.",
+      "rating": 9
     },
     {
-      "question": "How many times more likely are employees to be using generative AI for a significant portion of their work than their leaders imagine?",
-      "answer": "3 times more employees are using gen AI for a third or more of their work than their leaders imagine.",
-      "rating": 10
+      "question": "What methods, beyond surveys, were used in the research?",
+      "answer": "The researchers also conducted interviews with dozens of C-level executives and industry experts.",
+      "rating": 9
     },
     {
-      "question": "What percentage of employees believe generative AI will change a substantial portion of their work within two years?",
-      "answer": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work.",
-      "rating": 10
-    },
-    {
-      "question": "Which age group is more likely to report extensive familiarity with generative AI tools and expect workflows to change within a year?",
-      "answer": "Millennials are 1.4x more likely to report extensive familiarity with gen AI tools than peers in other age groups; they are also 1.2x more likely to expect workflows to change within a year.",
-      "rating": 10
-    },
-    {
-      "question": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?",
-      "answer": "47% of the C-suite say their companies are developing gen AI tools too slowly.",
-      "rating": 10
-    },
-    {
-      "question": "How long ago did 69% of companies start investing more in generative AI?",
-      "answer": "69% of companies started investing more than a year ago.",
-      "rating": 10
-    },
-    {
-      "question": "What is the current state of AI compared to the internet many years ago?",
-      "answer": "AI now is like the internet many years ago.",
+      "question": "What is the primary focus of the survey and research in terms of AI?",
+      "answer": "Our survey and research primarily focus on gen AI.",
       "rating": 8
     },
     {
-      "question": "What is the primary risk for business leaders regarding AI?",
-      "answer": "The risk for business leaders is not thinking too big, but rather too small.",
-      "rating": 10
-    },
-    {
-      "question": "How many more employees are using generative AI for a third or more of their work than their leaders imagine?",
-      "answer": "3x more employees are using gen AI for a third or more of their work than their leaders imagine.",
-      "rating": 10
-    },
-    {
-      "question": "What percentage of all employees believe that within 2 years generative AI will change 30% or more of their work?",
-      "answer": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work.",
-      "rating": 10
-    },
-    {
-      "question": "Which age group is more likely to report extensive familiarity with generative AI tools?",
-      "answer": "Millennials are more likely than peers in other age groups to report extensive familiarity with gen AI tools.",
+      "question": "What is the size of the database developed for AI use cases?",
+      "answer": "A comprehensive database featuring more than 250 potential AI use cases was developed.",
       "rating": 9
     },
     {
-      "question": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?",
-      "answer": "47% of the C-suite say their companies are developing gen AI tools too slowly.",
-      "rating": 10
-    },
-    {
-      "question": "What percentage of companies plan to invest more in generative AI over the next 3 years?",
-      "answer": "92% of companies plan to invest more in gen AI over the next 3 years.",
-      "rating": 10
-    },
-    {
-      "question": "What percentage of companies believe their generative AI investments have reached maturity?",
-      "answer": "1% believe their investments have reached maturity.",
-      "rating": 10
-    },
-    {
-      "question": "What is the most important factor for generative AI adoption according to employees?",
-      "answer": "Employees rank training as the most important factor for gen AI adoption.",
-      "rating": 10
-    },
-    {
-      "question": "What is the biggest barrier to success for AI adoption according to the report?",
-      "answer": "The biggest barrier to success is leadership.",
+      "question": "How many gen AI use cases were initially identified by McKinsey\u2019s Digital Practice?",
+      "answer": "McKinsey\u2019s Digital Practice identified 63 gen AI use cases.",
       "rating": 9
     },
     {
-      "question": "How much more likely are employees to believe that AI will replace 30 percent of their work in the next year compared to what leaders realize?",
-      "answer": "Employees are three times more likely than leaders realize to believe that AI will replace 30 percent of their work in the next year.",
+      "question": "What does 'deployment' typically refer to in the context of technology products?",
+      "answer": "Deployment typically refers to the extent to which an organization rolls out a technology product (whether developed in-house or purchased off the shelf).",
       "rating": 10
     },
     {
-      "question": "What percentage of the workplace is apprehensive about AI and will need additional support?",
-      "answer": "A large minority (41 percent) are more apprehensive and will need additional support.",
+      "question": "What does 'adoption' reflect in the context of technology products?",
+      "answer": "Adoption reflects how extensively these products are used to generate measurable business value.",
       "rating": 10
     },
     {
-      "question": "What are the top concerns regarding AI deployment for employees?",
-      "answer": "Trust and safety are top concerns.",
+      "question": "How does the report often use 'adoption and deployment' interchangeably?",
+      "answer": "This report often uses adoption and deployment interchangeably to refer to the overall uptake of AI tools because many companies are simultaneously deploying and adopting, iterating as they go.",
+      "rating": 10
+    },
+    {
+      "question": "What defines 'Agentic AI'?",
+      "answer": "Agentic AI refers to systems with autonomy and goal-directed behavior capable of making independent decisions, planning, and adapting to achieve specific objectives without direct, ongoing human input.",
+      "rating": 10
+    },
+    {
+      "question": "What is an 'Application programming interface (API)'?",
+      "answer": "An Application programming interface (API) is an intermediary software component that allows two applications to talk to each other; a structured way for AI systems to programmatically access (usually external) models, data sets, or other pieces of software.",
+      "rating": 10
+    },
+    {
+      "question": "What is Artificial Intelligence (AI)?",
+      "answer": "Artificial Intelligence (AI) is the ability of software to perform tasks that traditionally require human intelligence, mirroring some cognitive functions usually associated with human minds.",
+      "rating": 10
+    },
+    {
+      "question": "What is 'Deep learning'?",
+      "answer": "Deep learning is a subset of machine learning that uses deep neural networks, which are layers of connected 'neurons' whose connections have parameters or weights that can be trained.",
+      "rating": 10
+    },
+    {
+      "question": "What makes Deep learning especially effective?",
+      "answer": "Deep learning is especially effective at learning from unstructured data such as images, text, and audio.",
+      "rating": 10
+    },
+    {
+      "question": "What is agentic AI?",
+      "answer": "Agentic AI refers to systems with autonomy and goal-directed behavior capable of making independent decisions, planning, and adapting to achieve specific objectives without direct, ongoing human input.",
+      "rating": 10
+    },
+    {
+      "question": "What is the purpose of an Application Programming Interface (API) in the context of AI systems?",
+      "answer": "An API acts as an intermediary software component that allows two applications to communicate, providing a structured way for AI systems to programmatically access models, data sets, or other software.",
+      "rating": 10
+    },
+    {
+      "question": "How is Artificial Intelligence (AI) defined in the text?",
+      "answer": "Artificial Intelligence (AI) is defined as the ability of software to perform tasks that traditionally require human intelligence, mirroring some cognitive functions usually associated with human minds.",
+      "rating": 10
+    },
+    {
+      "question": "What distinguishes deep learning from other forms of machine learning?",
+      "answer": "Deep learning is a subset of machine learning that utilizes deep neural networks, which are layers of connected \"neurons\" with trainable parameters or weights, and is particularly effective at learning from unstructured data.",
+      "rating": 10
+    },
+    {
+      "question": "Describe the concept of a digital workforce as presented in the text.",
+      "answer": "A digital workforce is a collaborative ecosystem where humans and automated agents work together, utilizing digital platforms, AI, and cloud computing to enhance productivity, efficiency, and scalability.",
+      "rating": 10
+    },
+    {
+      "question": "What types of employees are mentioned as examples in the report?",
+      "answer": "Examples of employees represented in the report include people working in product management, marketing, technology, business development, sales, and finance.",
+      "rating": 9
+    },
+    {
+      "question": "What are foundation models and what are they trained on?",
+      "answer": "Foundation models are deep learning models trained on vast quantities of unstructured, unlabeled data that can be used for a wide range of tasks out of the box or adapted through fine-tuning.",
+      "rating": 10
+    },
+    {
+      "question": "What capability does Generative AI (gen AI) possess that earlier forms of AI lacked?",
+      "answer": "Generative AI (gen AI) has capabilities that earlier forms lacked, such as the ability to generate content.",
+      "rating": 9
+    },
+    {
+      "question": "What are GPUs and why are they useful for deep learning?",
+      "answer": "GPUs are computer chips originally developed for producing computer graphics that are also useful for deep learning applications.",
+      "rating": 10
+    },
+    {
+      "question": "What is meant by 'hallucination' in the context of AI systems?",
+      "answer": "Hallucination is a scenario where an AI system generates outputs that lack grounding in reality or a provided context, such as fabricating information or presenting a false narrative.",
+      "rating": 10
+    },
+    {
+      "question": "What is the process of prompt engineering?",
+      "answer": "Prompt engineering is the process of designing, refining, and optimizing input prompts to guide a gen AI model toward producing desired and accurate outputs.",
+      "rating": 10
+    },
+    {
+      "question": "What are the capabilities of Reasoning AI?",
+      "answer": "Reasoning AI systems perform logical thinking, step-by-step planning, problem solving, and decision making using structured or unstructured data, going beyond pattern recognition to draw conclusions and solve complex problems.",
+      "rating": 10
+    },
+    {
+      "question": "What is 'Superagency' as described in the text?",
+      "answer": "Superagency is a state where individuals, empowered by AI, amplify their creativity, productivity, and positive impact, with even those not directly engaging with AI benefiting from its broader effects.",
+      "rating": 10
+    },
+    {
+      "question": "What are examples of unstructured data?",
+      "answer": "Examples of unstructured data include text, images, video, and audio files.",
+      "rating": 10
+    },
+    {
+      "question": "How does the report suggest companies are approaching AI adoption and deployment?",
+      "answer": "The report suggests that many companies are simultaneously deploying and adopting AI, iterating as they go.",
+      "rating": 10
+    },
+    {
+      "question": "What is hallucination in the context of AI systems?",
+      "answer": "Hallucination is a scenario where an AI system generates outputs that lack grounding in reality or a provided context, such as fabricating information or presenting a false narrative.",
+      "rating": 10
+    },
+    {
+      "question": "What is prompt engineering?",
+      "answer": "Prompt engineering is the process of designing, refining, and optimizing input prompts to guide a gen AI model toward producing desired and accurate outputs.",
+      "rating": 10
+    },
+    {
+      "question": "What are Reasoning AI systems capable of?",
+      "answer": "Reasoning AI systems perform logical thinking, step-by-step planning, problem solving, and decision making using structured or unstructured data, going beyond pattern recognition to draw conclusions and solve complex problems.",
+      "rating": 10
+    },
+    {
+      "question": "What is superagency in the context of AI empowerment?",
+      "answer": "Superagency is a state where individuals, empowered by AI, amplify their creativity, productivity, and positive impact, with even those not directly engaging with AI benefiting from its broader effects.",
+      "rating": 10
+    },
+    {
+      "question": "What defines unstructured data?",
+      "answer": "Unstructured data is data that lacks a consistent format or structure, such as text, images, video, and audio files, and typically requires more advanced techniques to extract insights.",
+      "rating": 10
+    },
+    {
+      "question": "What are Large Language Models (LLMs)?",
+      "answer": "LLMs are a class of foundation models that can process massive amounts of unstructured text and learn the relationships between words or tokens, enabling them to generate natural-language text for tasks like summarization or knowledge extraction.",
+      "rating": 10
+    },
+    {
+      "question": "What are examples of LLMs?",
+      "answer": "GPT-4 (which underlies ChatGPT) and the Llama family of models from Meta are examples of LLMs.",
+      "rating": 10
+    },
+    {
+      "question": "What is considered a modality in AI data categories?",
+      "answer": "A modality is a high-level data category such as numbers, text, images, video, and audio.",
+      "rating": 10
+    },
+    {
+      "question": "What does it mean for an AI system to have multimodal capabilities?",
+      "answer": "Multimodal capabilities mean an AI system can process and generate various types of data, including text, images, audio, and video, simultaneously, allowing for complex tasks and rich outputs.",
+      "rating": 10
+    },
+    {
+      "question": "How is productivity from labor defined?",
+      "answer": "Productivity from labor is defined as the ratio of GDP to total hours worked in the economy.",
+      "rating": 10
+    },
+    {
+      "question": "What typically drives labor productivity growth?",
+      "answer": "Labor productivity growth generally comes from increases in the amount of capital available to each worker, the education and experience of the workforce, and improvements in technology.",
+      "rating": 10
+    },
+    {
+      "question": "On what are traditional machine learning models usually run?",
+      "answer": "Traditional machine learning usually runs on central processing units (CPUs), normally referred to as a computer\u2019s \u201cprocessor.\u201d",
       "rating": 10
     }
   ],
@@ -130,11 +235,11 @@
       },
       {
         "role": "user",
-        "content": "What is the primary barrier to scaling AI adoption in companies, according to the research?"
+        "content": "What percentage of companies believe they have reached AI maturity?"
       },
       {
         "role": "assistant",
-        "content": "The biggest barrier to scaling AI adoption is not employees, who are ready, but leaders who are not steering fast enough."
+        "content": "Almost all companies invest in AI, but just 1 percent believe they are at maturity."
       }
     ],
     [
@@ -144,11 +249,11 @@
       },
       {
         "role": "user",
-        "content": "How is artificial intelligence compared to past technological advancements in the text?"
+        "content": "How does Marc Benioff describe the capability provided by Salesforce's Agentforce?"
       },
       {
         "role": "assistant",
-        "content": "Artificial intelligence has the potential to be as transformative as the steam engine was to the 19th-century Industrial Revolution."
+        "content": "Marc Benioff describes this as providing a \u201cdigital workforce\u201d where humans and automated agents work together to achieve customer outcomes."
       }
     ],
     [
@@ -158,11 +263,11 @@
       },
       {
         "role": "user",
-        "content": "What is the estimated long-term AI opportunity in terms of added productivity growth potential from corporate use cases?"
+        "content": "What percentage of employees report receiving minimal to no support for AI training?"
       },
       {
         "role": "assistant",
-        "content": "McKinsey research sizes the long-term AI opportunity at $4.4 trillion in added productivity growth potential from corporate use cases."
+        "content": "More than a fifth of employees report that they have received minimal to no support."
       }
     ],
     [
@@ -172,11 +277,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of companies plan to increase their AI investments over the next three years?"
+        "content": "What types of metrics do C-suite leaders primarily focus on when using benchmarks for AI evaluation?"
       },
       {
         "role": "assistant",
-        "content": "Over the next three years, 92 percent of companies plan to increase their AI investments."
+        "content": "When leaders use benchmarks, they opt to measure operational metrics (such as scalability, reliability, robustness, and cost efficiency) and performance-related metrics (including accuracy, precision, F1 score, latency, and throughput)."
       }
     ],
     [
@@ -186,11 +291,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of company leaders believe their companies are mature in AI deployment?"
+        "content": "What percentage of leaders anticipate AI deployment driving revenue growth in the next three years?"
       },
       {
         "role": "assistant",
-        "content": "Only 1 percent of leaders call their companies 'mature' on the deployment spectrum."
+        "content": "Almost 90 percent of leaders anticipate that deploying AI will drive revenue growth in the next three years."
       }
     ],
     [
@@ -200,11 +305,11 @@
       },
       {
         "role": "user",
-        "content": "According to the report, what is the risk for business leaders regarding AI adoption?"
+        "content": "What percentage of US respondents work at companies with more than 50,000 employees?"
       },
       {
         "role": "assistant",
-        "content": "The risk for business leaders is not thinking too big, but rather too small when it comes to AI."
+        "content": "31 percent of US respondents work at companies with more than 50,000 employees."
       }
     ],
     [
@@ -214,11 +319,11 @@
       },
       {
         "role": "user",
-        "content": "How many times more likely are employees to be using generative AI for a significant portion of their work than their leaders imagine?"
+        "content": "What methods, beyond surveys, were used in the research?"
       },
       {
         "role": "assistant",
-        "content": "3 times more employees are using gen AI for a third or more of their work than their leaders imagine."
+        "content": "The researchers also conducted interviews with dozens of C-level executives and industry experts."
       }
     ],
     [
@@ -228,11 +333,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of employees believe generative AI will change a substantial portion of their work within two years?"
+        "content": "What is the primary focus of the survey and research in terms of AI?"
       },
       {
         "role": "assistant",
-        "content": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work."
+        "content": "Our survey and research primarily focus on gen AI."
       }
     ],
     [
@@ -242,11 +347,11 @@
       },
       {
         "role": "user",
-        "content": "Which age group is more likely to report extensive familiarity with generative AI tools and expect workflows to change within a year?"
+        "content": "What is the size of the database developed for AI use cases?"
       },
       {
         "role": "assistant",
-        "content": "Millennials are 1.4x more likely to report extensive familiarity with gen AI tools than peers in other age groups; they are also 1.2x more likely to expect workflows to change within a year."
+        "content": "A comprehensive database featuring more than 250 potential AI use cases was developed."
       }
     ],
     [
@@ -256,11 +361,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?"
+        "content": "How many gen AI use cases were initially identified by McKinsey\u2019s Digital Practice?"
       },
       {
         "role": "assistant",
-        "content": "47% of the C-suite say their companies are developing gen AI tools too slowly."
+        "content": "McKinsey\u2019s Digital Practice identified 63 gen AI use cases."
       }
     ],
     [
@@ -270,11 +375,11 @@
       },
       {
         "role": "user",
-        "content": "How long ago did 69% of companies start investing more in generative AI?"
+        "content": "What does 'deployment' typically refer to in the context of technology products?"
       },
       {
         "role": "assistant",
-        "content": "69% of companies started investing more than a year ago."
+        "content": "Deployment typically refers to the extent to which an organization rolls out a technology product (whether developed in-house or purchased off the shelf)."
       }
     ],
     [
@@ -284,11 +389,11 @@
       },
       {
         "role": "user",
-        "content": "What is the current state of AI compared to the internet many years ago?"
+        "content": "What does 'adoption' reflect in the context of technology products?"
       },
       {
         "role": "assistant",
-        "content": "AI now is like the internet many years ago."
+        "content": "Adoption reflects how extensively these products are used to generate measurable business value."
       }
     ],
     [
@@ -298,11 +403,11 @@
       },
       {
         "role": "user",
-        "content": "What is the primary risk for business leaders regarding AI?"
+        "content": "How does the report often use 'adoption and deployment' interchangeably?"
       },
       {
         "role": "assistant",
-        "content": "The risk for business leaders is not thinking too big, but rather too small."
+        "content": "This report often uses adoption and deployment interchangeably to refer to the overall uptake of AI tools because many companies are simultaneously deploying and adopting, iterating as they go."
       }
     ],
     [
@@ -312,11 +417,11 @@
       },
       {
         "role": "user",
-        "content": "How many more employees are using generative AI for a third or more of their work than their leaders imagine?"
+        "content": "What defines 'Agentic AI'?"
       },
       {
         "role": "assistant",
-        "content": "3x more employees are using gen AI for a third or more of their work than their leaders imagine."
+        "content": "Agentic AI refers to systems with autonomy and goal-directed behavior capable of making independent decisions, planning, and adapting to achieve specific objectives without direct, ongoing human input."
       }
     ],
     [
@@ -326,11 +431,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of all employees believe that within 2 years generative AI will change 30% or more of their work?"
+        "content": "What is an 'Application programming interface (API)'?"
       },
       {
         "role": "assistant",
-        "content": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work."
+        "content": "An Application programming interface (API) is an intermediary software component that allows two applications to talk to each other; a structured way for AI systems to programmatically access (usually external) models, data sets, or other pieces of software."
       }
     ],
     [
@@ -340,11 +445,11 @@
       },
       {
         "role": "user",
-        "content": "Which age group is more likely to report extensive familiarity with generative AI tools?"
+        "content": "What is Artificial Intelligence (AI)?"
       },
       {
         "role": "assistant",
-        "content": "Millennials are more likely than peers in other age groups to report extensive familiarity with gen AI tools."
+        "content": "Artificial Intelligence (AI) is the ability of software to perform tasks that traditionally require human intelligence, mirroring some cognitive functions usually associated with human minds."
       }
     ],
     [
@@ -354,11 +459,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?"
+        "content": "What is 'Deep learning'?"
       },
       {
         "role": "assistant",
-        "content": "47% of the C-suite say their companies are developing gen AI tools too slowly."
+        "content": "Deep learning is a subset of machine learning that uses deep neural networks, which are layers of connected 'neurons' whose connections have parameters or weights that can be trained."
       }
     ],
     [
@@ -368,11 +473,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of companies plan to invest more in generative AI over the next 3 years?"
+        "content": "What makes Deep learning especially effective?"
       },
       {
         "role": "assistant",
-        "content": "92% of companies plan to invest more in gen AI over the next 3 years."
+        "content": "Deep learning is especially effective at learning from unstructured data such as images, text, and audio."
       }
     ],
     [
@@ -382,11 +487,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of companies believe their generative AI investments have reached maturity?"
+        "content": "What is agentic AI?"
       },
       {
         "role": "assistant",
-        "content": "1% believe their investments have reached maturity."
+        "content": "Agentic AI refers to systems with autonomy and goal-directed behavior capable of making independent decisions, planning, and adapting to achieve specific objectives without direct, ongoing human input."
       }
     ],
     [
@@ -396,11 +501,11 @@
       },
       {
         "role": "user",
-        "content": "What is the most important factor for generative AI adoption according to employees?"
+        "content": "What is the purpose of an Application Programming Interface (API) in the context of AI systems?"
       },
       {
         "role": "assistant",
-        "content": "Employees rank training as the most important factor for gen AI adoption."
+        "content": "An API acts as an intermediary software component that allows two applications to communicate, providing a structured way for AI systems to programmatically access models, data sets, or other software."
       }
     ],
     [
@@ -410,11 +515,11 @@
       },
       {
         "role": "user",
-        "content": "What is the biggest barrier to success for AI adoption according to the report?"
+        "content": "How is Artificial Intelligence (AI) defined in the text?"
       },
       {
         "role": "assistant",
-        "content": "The biggest barrier to success is leadership."
+        "content": "Artificial Intelligence (AI) is defined as the ability of software to perform tasks that traditionally require human intelligence, mirroring some cognitive functions usually associated with human minds."
       }
     ],
     [
@@ -424,11 +529,11 @@
       },
       {
         "role": "user",
-        "content": "How much more likely are employees to believe that AI will replace 30 percent of their work in the next year compared to what leaders realize?"
+        "content": "What distinguishes deep learning from other forms of machine learning?"
       },
       {
         "role": "assistant",
-        "content": "Employees are three times more likely than leaders realize to believe that AI will replace 30 percent of their work in the next year."
+        "content": "Deep learning is a subset of machine learning that utilizes deep neural networks, which are layers of connected \"neurons\" with trainable parameters or weights, and is particularly effective at learning from unstructured data."
       }
     ],
     [
@@ -438,11 +543,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of the workplace is apprehensive about AI and will need additional support?"
+        "content": "Describe the concept of a digital workforce as presented in the text."
       },
       {
         "role": "assistant",
-        "content": "A large minority (41 percent) are more apprehensive and will need additional support."
+        "content": "A digital workforce is a collaborative ecosystem where humans and automated agents work together, utilizing digital platforms, AI, and cloud computing to enhance productivity, efficiency, and scalability."
       }
     ],
     [
@@ -452,18 +557,312 @@
       },
       {
         "role": "user",
-        "content": "What are the top concerns regarding AI deployment for employees?"
+        "content": "What types of employees are mentioned as examples in the report?"
       },
       {
         "role": "assistant",
-        "content": "Trust and safety are top concerns."
+        "content": "Examples of employees represented in the report include people working in product management, marketing, technology, business development, sales, and finance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are foundation models and what are they trained on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Foundation models are deep learning models trained on vast quantities of unstructured, unlabeled data that can be used for a wide range of tasks out of the box or adapted through fine-tuning."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What capability does Generative AI (gen AI) possess that earlier forms of AI lacked?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI (gen AI) has capabilities that earlier forms lacked, such as the ability to generate content."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are GPUs and why are they useful for deep learning?"
+      },
+      {
+        "role": "assistant",
+        "content": "GPUs are computer chips originally developed for producing computer graphics that are also useful for deep learning applications."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is meant by 'hallucination' in the context of AI systems?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hallucination is a scenario where an AI system generates outputs that lack grounding in reality or a provided context, such as fabricating information or presenting a false narrative."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the process of prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the process of designing, refining, and optimizing input prompts to guide a gen AI model toward producing desired and accurate outputs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the capabilities of Reasoning AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reasoning AI systems perform logical thinking, step-by-step planning, problem solving, and decision making using structured or unstructured data, going beyond pattern recognition to draw conclusions and solve complex problems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is 'Superagency' as described in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Superagency is a state where individuals, empowered by AI, amplify their creativity, productivity, and positive impact, with even those not directly engaging with AI benefiting from its broader effects."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of unstructured data?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples of unstructured data include text, images, video, and audio files."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the report suggest companies are approaching AI adoption and deployment?"
+      },
+      {
+        "role": "assistant",
+        "content": "The report suggests that many companies are simultaneously deploying and adopting AI, iterating as they go."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is hallucination in the context of AI systems?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hallucination is a scenario where an AI system generates outputs that lack grounding in reality or a provided context, such as fabricating information or presenting a false narrative."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is prompt engineering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prompt engineering is the process of designing, refining, and optimizing input prompts to guide a gen AI model toward producing desired and accurate outputs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Reasoning AI systems capable of?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reasoning AI systems perform logical thinking, step-by-step planning, problem solving, and decision making using structured or unstructured data, going beyond pattern recognition to draw conclusions and solve complex problems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is superagency in the context of AI empowerment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Superagency is a state where individuals, empowered by AI, amplify their creativity, productivity, and positive impact, with even those not directly engaging with AI benefiting from its broader effects."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What defines unstructured data?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unstructured data is data that lacks a consistent format or structure, such as text, images, video, and audio files, and typically requires more advanced techniques to extract insights."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Large Language Models (LLMs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "LLMs are a class of foundation models that can process massive amounts of unstructured text and learn the relationships between words or tokens, enabling them to generate natural-language text for tasks like summarization or knowledge extraction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of LLMs?"
+      },
+      {
+        "role": "assistant",
+        "content": "GPT-4 (which underlies ChatGPT) and the Llama family of models from Meta are examples of LLMs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is considered a modality in AI data categories?"
+      },
+      {
+        "role": "assistant",
+        "content": "A modality is a high-level data category such as numbers, text, images, video, and audio."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does it mean for an AI system to have multimodal capabilities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multimodal capabilities mean an AI system can process and generate various types of data, including text, images, audio, and video, simultaneously, allowing for complex tasks and rich outputs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is productivity from labor defined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Productivity from labor is defined as the ratio of GDP to total hours worked in the economy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What typically drives labor productivity growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Labor productivity growth generally comes from increases in the amount of capital available to each worker, the education and experience of the workforce, and improvements in technology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "On what are traditional machine learning models usually run?"
+      },
+      {
+        "role": "assistant",
+        "content": "Traditional machine learning usually runs on central processing units (CPUs), normally referred to as a computer\u2019s \u201cprocessor.\u201d"
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 24,
-    "retention_rate": 0.96,
-    "avg_score": 9.5
+    "total": 400,
+    "filtered": 45,
+    "retention_rate": 0.11,
+    "avg_score": 9.7
   }
 }

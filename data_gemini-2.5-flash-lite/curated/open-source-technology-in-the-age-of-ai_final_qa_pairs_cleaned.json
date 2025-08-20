@@ -1,130 +1,135 @@
 {
-  "summary": "This report, a collaboration between McKinsey, the Mozilla Foundation, and the Patrick J. McGovern Foundation, explores the growing use of open source technology in the age of AI. A survey of over 700 tech leaders and developers reveals that open source AI solutions are widely adopted across data, models, and tools, particularly in the technology sector and among experienced developers. Organizations are satisfied with open source AI for its performance, ease of use, and cost benefits, though proprietary tools offer a faster time to value. Despite concerns about cybersecurity and compliance, the use of open source AI is expected to increase, with organizations embracing a mix of open and proprietary solutions.",
+  "summary": "This report, a collaboration between McKinsey, the Mozilla Foundation, and the Patrick J. McGovern Foundation, explores the growing use of open source technology in the age of AI. A survey of over 700 tech leaders and developers reveals that open source AI solutions are widely adopted across data, models, and tools, with organizations in the technology sector leading the trend. While open source offers cost benefits and is valued by developers for job satisfaction, proprietary tools provide a faster time to value. Despite concerns about cybersecurity and compliance, organizations expect to increase their use of open source AI, viewing it as a crucial component for competitive advantage.",
   "qa_pairs": [
     {
-      "question": "What trend is observed regarding organizations deploying generative AI?",
-      "answer": "As more organizations deploy generative AI across business functions, leaders are increasingly turning to open source solutions to build out their tech stacks.",
+      "question": "What is the main trend identified in the survey regarding organizations' approach to building tech stacks in the age of AI?",
+      "answer": "Leaders are increasingly turning to open source solutions to build out their tech stacks.",
       "rating": 9
     },
     {
-      "question": "Which organizations collaborated on this report?",
-      "answer": "This report is part of a research collaboration among McKinsey, the Mozilla Foundation, and the Patrick J. McGovern Foundation.",
-      "rating": 10
+      "question": "What percentage of respondents expressed a preference for open source AI technologies?",
+      "answer": "29 percent of respondents expressed a preference for open source AI technologies.",
+      "rating": 9
     },
     {
-      "question": "What percentage of respondents reported leveraging open source in the data, models, and tools areas of their tech stack?",
-      "answer": "More than 50 percent of respondents reported leveraging open source in each of the data, models, and tools areas of the tech stack.",
-      "rating": 10
+      "question": "What percentage of respondents addressing copyright concerns are implementing technical safeguards and testing measures?",
+      "answer": "46 percent are implementing technical safeguards and testing measures.",
+      "rating": 9
     },
     {
-      "question": "Which sectors show the highest use of open source AI?",
-      "answer": "Open source AI use is highest in the technology, media, and telecommunications sectors (70 percent).",
-      "rating": 10
+      "question": "What percentage of respondents addressing copyright concerns are purchasing cleaned data sets?",
+      "answer": "29 percent are purchasing cleaned data sets.",
+      "rating": 9
     },
     {
-      "question": "How much more likely are experienced AI developers to use open source?",
-      "answer": "Experienced AI developers are 40 percent more likely to use open source.",
-      "rating": 10
+      "question": "What percentage of respondents addressing copyright concerns are avoiding open source data sets altogether?",
+      "answer": "33 percent avoid open source data sets altogether.",
+      "rating": 9
     },
     {
-      "question": "What are the most commonly used open source tools among enterprises as of January 2025?",
-      "answer": "The most commonly used open source tools among enterprises, as of January 2025, are those developed by large technology players, such as Meta\u2019s Llama and Google\u2019s Gemma.",
-      "rating": 10
+      "question": "What are the leading barriers to adopting open source AI tools according to the survey?",
+      "answer": "Leading barriers to adopting open source AI tools are concerns about security and compliance, long-term support, and intellectual property.",
+      "rating": 9
     },
     {
-      "question": "What are the top reasons for satisfaction with open source AI models?",
-      "answer": "The top reasons for satisfaction with open source AI models are performance and ease of use.",
-      "rating": 10
+      "question": "What is the percentage of respondents citing security and compliance concerns as a barrier to adopting open source AI tools?",
+      "answer": "56 percent of respondents cite security and compliance concerns.",
+      "rating": 9
     },
     {
-      "question": "How do open source AI tools compare to proprietary tools in terms of cost benefits?",
-      "answer": "Respondents say that open source AI has lower implementation costs (60 percent of respondents) and lower maintenance costs (46 percent).",
-      "rating": 10
+      "question": "What is the percentage of respondents citing uncertainty about long-term support and updates as a barrier to adopting open source AI tools?",
+      "answer": "45 percent of respondents cite uncertainty about long-term support and updates.",
+      "rating": 9
     },
     {
-      "question": "Which type of tools do respondents see as having a faster time to value?",
-      "answer": "Respondents see faster time to value from proprietary tools (48 percent).",
-      "rating": 10
+      "question": "What is the percentage of respondents citing intellectual property risks as a barrier to adopting open source AI tools?",
+      "answer": "40 percent of respondents cite intellectual property risks.",
+      "rating": 9
     },
     {
-      "question": "What percentage of developers report that experience with open source tools is highly valued in their field?",
-      "answer": "Most developers (81 percent) report that experience with open source tools is highly valued in their field.",
-      "rating": 10
+      "question": "What is the percentage of respondents citing lack of internal expertise as a barrier to adopting open source AI tools?",
+      "answer": "31 percent of respondents cite lack of internal expertise.",
+      "rating": 9
     },
     {
-      "question": "What percentage of developers find working with open source tools important to their job satisfaction?",
-      "answer": "Most developers (66 percent) report that working with open source tools is important to their job satisfaction.",
-      "rating": 10
+      "question": "What is the percentage of respondents citing perceived lower quality versus proprietary tools as a barrier to adopting open source AI tools?",
+      "answer": "27 percent of respondents cite perceived lower quality versus proprietary tools.",
+      "rating": 9
     },
     {
-      "question": "What is the expectation for the use of open source AI technologies over the next few years?",
-      "answer": "Three-quarters of respondents expect to increase their use of open source AI technologies over the next few years.",
-      "rating": 10
+      "question": "What is the percentage of respondents citing difficulty in integrating with existing systems as a barrier to adopting open source AI tools?",
+      "answer": "24 percent of respondents cite difficulty in integrating with existing systems.",
+      "rating": 9
     },
     {
-      "question": "What is the general openness of organizations towards open source and proprietary solutions?",
-      "answer": "Nearly three-quarters of respondents (more than 70 percent) say they are open to either open source or proprietary technologies across areas of the tech stack.",
-      "rating": 10
+      "question": "What is a significant opportunity for organizations as the open source ecosystem expands and use increases?",
+      "answer": "Organizations will have a significant opportunity to reduce development costs and deploy customized AI systems on edge devices.",
+      "rating": 9
     },
     {
-      "question": "What are the main concerns cited by respondents regarding open source AI tools?",
-      "answer": "Respondents cite concerns about cybersecurity (62 percent), regulatory compliance (54 percent), and intellectual property (50 percent) when engaging with AI tools.",
-      "rating": 10
+      "question": "What is essential for businesses to fully harness the benefits of open source technology?",
+      "answer": "Businesses may need to have higher confidence that they can address the technical and legal risks that they perceive to be greater for some open source AI usage.",
+      "rating": 9
     },
     {
-      "question": "What strategies are organizations implementing to manage open source AI risks?",
-      "answer": "Strategies include strengthening information security frameworks and software supply chain controls, third-party evaluation of models, and guardrails to limit model behavior.",
-      "rating": 10
+      "question": "What is essential for the future of open source AI development and usage?",
+      "answer": "Upskilling teams is essential, as experienced developers are the primary contributors to and users of open source projects.",
+      "rating": 9
     },
     {
-      "question": "How does open source software typically differ from commercial software in terms of access and restrictions?",
-      "answer": "Unlike most commercial software, which typically requires a commercial license or subscription and restricts access to its core technology, open source tools are developed collaboratively and made available to the public to use, modify, and distribute with far fewer restrictions.",
-      "rating": 10
+      "question": "What is likely to drive the emergence of new services in the open source AI space?",
+      "answer": "Increased collaboration in this space is likely to drive the emergence of new services aimed at enhancing the developer experience.",
+      "rating": 9
     },
     {
-      "question": "What are some examples of open source AI technologies mentioned in the text?",
-      "answer": "Examples include Meta\u2019s Llama family, Google\u2019s Gemma family, the Allen Institute for Artificial Intelligence\u2019s OLMo family, Nvidia\u2019s NeMo family, DeepSeek-R1, and Alibaba\u2019s Qwen 2.5-Max.",
-      "rating": 10
+      "question": "What approach is likely to become the standard in the AI technology stack, similar to the cloud and software industries?",
+      "answer": "A hybrid approach will likely become the standard, with open source and proprietary technologies coexisting across multiple layers of the AI technology stack.",
+      "rating": 9
     },
     {
-      "question": "What are some examples of open source AI technologies mentioned in the text?",
-      "answer": "Examples of open source AI technologies include Meta\u2019s Llama family, Google\u2019s Gemma family, the Allen Institute for Artificial Intelligence\u2019s OLMo family, Nvidia\u2019s NeMo family, DeepSeek-R1, and Alibaba\u2019s Qwen 2.5-Max.",
-      "rating": 10
+      "question": "What is considered essential for open source projects, given that experienced developers are the primary contributors and users?",
+      "answer": "Upskilling teams is essential for open source projects.",
+      "rating": 9
     },
     {
-      "question": "Who conducted the survey on enterprise adoption of open source AI?",
-      "answer": "The survey was conducted by McKinsey, the Mozilla Foundation, and the Patrick J. McGovern Foundation.",
-      "rating": 10
+      "question": "What kind of approach is likely to become the standard in the AI technology stack, similar to observations in the cloud and software industries?",
+      "answer": "A hybrid approach, with open source and proprietary technologies coexisting, is likely to become the standard.",
+      "rating": 9
     },
     {
-      "question": "How many technology leaders and senior developers were surveyed?",
-      "answer": "More than 700 technology leaders and senior developers were surveyed.",
-      "rating": 10
+      "question": "Who is a partner in McKinsey\u2019s Dubai office?",
+      "answer": "Ankit Bisht is a partner in McKinsey\u2019s Dubai office.",
+      "rating": 9
     },
     {
-      "question": "In how many countries was the survey on open source AI conducted?",
-      "answer": "The survey was conducted across 41 countries.",
-      "rating": 10
+      "question": "Who is a senior partner in McKinsey\u2019s Bay Area office?",
+      "answer": "Lareina Yee is a senior partner in the Bay Area office.",
+      "rating": 9
     },
     {
-      "question": "What advantages do leaders cite for embracing open source AI tools?",
-      "answer": "Leaders cite advantages including high performance, ease of use, and lower implementation and maintenance costs relative to proprietary tools.",
-      "rating": 10
+      "question": "Which organizations are acknowledged as research partners?",
+      "answer": "The Mozilla Foundation and the Patrick J. McGovern Foundation are acknowledged as research partners.",
+      "rating": 9
     },
     {
-      "question": "How do developers view experience with open source AI?",
-      "answer": "Developers increasingly view experience with open source AI as an important part of their overall job satisfaction.",
-      "rating": 10
+      "question": "What is QuantumBlack Labs?",
+      "answer": "QuantumBlack Labs is the software development and R&D arm of QuantumBlack, AI by McKinsey.",
+      "rating": 9
     },
     {
-      "question": "What percentage of survey respondents expect to increase their use of open source AI?",
-      "answer": "More than three-quarters of survey respondents say they expect to increase their use of open source AI in the years ahead.",
-      "rating": 10
+      "question": "When did the survey run?",
+      "answer": "The survey ran from December 2024 to January 2025.",
+      "rating": 9
     },
     {
-      "question": "What are the seven areas of the AI tech stack respondents were asked about?",
-      "answer": "Respondents were asked about their experiences with open source and proprietary AI technology across data; models; hosting/inference; modifications; APIs and prompt handling; tools; and user experience/applications.",
-      "rating": 10
+      "question": "How many respondents participated in the survey?",
+      "answer": "703 respondents participated in the survey.",
+      "rating": 9
+    },
+    {
+      "question": "In how many countries was the survey conducted?",
+      "answer": "The survey was conducted in 41 countries.",
+      "rating": 9
     }
   ],
   "conversations": [
@@ -135,11 +140,11 @@
       },
       {
         "role": "user",
-        "content": "What trend is observed regarding organizations deploying generative AI?"
+        "content": "What is the main trend identified in the survey regarding organizations' approach to building tech stacks in the age of AI?"
       },
       {
         "role": "assistant",
-        "content": "As more organizations deploy generative AI across business functions, leaders are increasingly turning to open source solutions to build out their tech stacks."
+        "content": "Leaders are increasingly turning to open source solutions to build out their tech stacks."
       }
     ],
     [
@@ -149,11 +154,11 @@
       },
       {
         "role": "user",
-        "content": "Which organizations collaborated on this report?"
+        "content": "What percentage of respondents expressed a preference for open source AI technologies?"
       },
       {
         "role": "assistant",
-        "content": "This report is part of a research collaboration among McKinsey, the Mozilla Foundation, and the Patrick J. McGovern Foundation."
+        "content": "29 percent of respondents expressed a preference for open source AI technologies."
       }
     ],
     [
@@ -163,11 +168,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of respondents reported leveraging open source in the data, models, and tools areas of their tech stack?"
+        "content": "What percentage of respondents addressing copyright concerns are implementing technical safeguards and testing measures?"
       },
       {
         "role": "assistant",
-        "content": "More than 50 percent of respondents reported leveraging open source in each of the data, models, and tools areas of the tech stack."
+        "content": "46 percent are implementing technical safeguards and testing measures."
       }
     ],
     [
@@ -177,11 +182,11 @@
       },
       {
         "role": "user",
-        "content": "Which sectors show the highest use of open source AI?"
+        "content": "What percentage of respondents addressing copyright concerns are purchasing cleaned data sets?"
       },
       {
         "role": "assistant",
-        "content": "Open source AI use is highest in the technology, media, and telecommunications sectors (70 percent)."
+        "content": "29 percent are purchasing cleaned data sets."
       }
     ],
     [
@@ -191,11 +196,11 @@
       },
       {
         "role": "user",
-        "content": "How much more likely are experienced AI developers to use open source?"
+        "content": "What percentage of respondents addressing copyright concerns are avoiding open source data sets altogether?"
       },
       {
         "role": "assistant",
-        "content": "Experienced AI developers are 40 percent more likely to use open source."
+        "content": "33 percent avoid open source data sets altogether."
       }
     ],
     [
@@ -205,11 +210,11 @@
       },
       {
         "role": "user",
-        "content": "What are the most commonly used open source tools among enterprises as of January 2025?"
+        "content": "What are the leading barriers to adopting open source AI tools according to the survey?"
       },
       {
         "role": "assistant",
-        "content": "The most commonly used open source tools among enterprises, as of January 2025, are those developed by large technology players, such as Meta\u2019s Llama and Google\u2019s Gemma."
+        "content": "Leading barriers to adopting open source AI tools are concerns about security and compliance, long-term support, and intellectual property."
       }
     ],
     [
@@ -219,11 +224,11 @@
       },
       {
         "role": "user",
-        "content": "What are the top reasons for satisfaction with open source AI models?"
+        "content": "What is the percentage of respondents citing security and compliance concerns as a barrier to adopting open source AI tools?"
       },
       {
         "role": "assistant",
-        "content": "The top reasons for satisfaction with open source AI models are performance and ease of use."
+        "content": "56 percent of respondents cite security and compliance concerns."
       }
     ],
     [
@@ -233,11 +238,11 @@
       },
       {
         "role": "user",
-        "content": "How do open source AI tools compare to proprietary tools in terms of cost benefits?"
+        "content": "What is the percentage of respondents citing uncertainty about long-term support and updates as a barrier to adopting open source AI tools?"
       },
       {
         "role": "assistant",
-        "content": "Respondents say that open source AI has lower implementation costs (60 percent of respondents) and lower maintenance costs (46 percent)."
+        "content": "45 percent of respondents cite uncertainty about long-term support and updates."
       }
     ],
     [
@@ -247,11 +252,11 @@
       },
       {
         "role": "user",
-        "content": "Which type of tools do respondents see as having a faster time to value?"
+        "content": "What is the percentage of respondents citing intellectual property risks as a barrier to adopting open source AI tools?"
       },
       {
         "role": "assistant",
-        "content": "Respondents see faster time to value from proprietary tools (48 percent)."
+        "content": "40 percent of respondents cite intellectual property risks."
       }
     ],
     [
@@ -261,11 +266,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of developers report that experience with open source tools is highly valued in their field?"
+        "content": "What is the percentage of respondents citing lack of internal expertise as a barrier to adopting open source AI tools?"
       },
       {
         "role": "assistant",
-        "content": "Most developers (81 percent) report that experience with open source tools is highly valued in their field."
+        "content": "31 percent of respondents cite lack of internal expertise."
       }
     ],
     [
@@ -275,11 +280,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of developers find working with open source tools important to their job satisfaction?"
+        "content": "What is the percentage of respondents citing perceived lower quality versus proprietary tools as a barrier to adopting open source AI tools?"
       },
       {
         "role": "assistant",
-        "content": "Most developers (66 percent) report that working with open source tools is important to their job satisfaction."
+        "content": "27 percent of respondents cite perceived lower quality versus proprietary tools."
       }
     ],
     [
@@ -289,11 +294,11 @@
       },
       {
         "role": "user",
-        "content": "What is the expectation for the use of open source AI technologies over the next few years?"
+        "content": "What is the percentage of respondents citing difficulty in integrating with existing systems as a barrier to adopting open source AI tools?"
       },
       {
         "role": "assistant",
-        "content": "Three-quarters of respondents expect to increase their use of open source AI technologies over the next few years."
+        "content": "24 percent of respondents cite difficulty in integrating with existing systems."
       }
     ],
     [
@@ -303,11 +308,11 @@
       },
       {
         "role": "user",
-        "content": "What is the general openness of organizations towards open source and proprietary solutions?"
+        "content": "What is a significant opportunity for organizations as the open source ecosystem expands and use increases?"
       },
       {
         "role": "assistant",
-        "content": "Nearly three-quarters of respondents (more than 70 percent) say they are open to either open source or proprietary technologies across areas of the tech stack."
+        "content": "Organizations will have a significant opportunity to reduce development costs and deploy customized AI systems on edge devices."
       }
     ],
     [
@@ -317,11 +322,11 @@
       },
       {
         "role": "user",
-        "content": "What are the main concerns cited by respondents regarding open source AI tools?"
+        "content": "What is essential for businesses to fully harness the benefits of open source technology?"
       },
       {
         "role": "assistant",
-        "content": "Respondents cite concerns about cybersecurity (62 percent), regulatory compliance (54 percent), and intellectual property (50 percent) when engaging with AI tools."
+        "content": "Businesses may need to have higher confidence that they can address the technical and legal risks that they perceive to be greater for some open source AI usage."
       }
     ],
     [
@@ -331,11 +336,11 @@
       },
       {
         "role": "user",
-        "content": "What strategies are organizations implementing to manage open source AI risks?"
+        "content": "What is essential for the future of open source AI development and usage?"
       },
       {
         "role": "assistant",
-        "content": "Strategies include strengthening information security frameworks and software supply chain controls, third-party evaluation of models, and guardrails to limit model behavior."
+        "content": "Upskilling teams is essential, as experienced developers are the primary contributors to and users of open source projects."
       }
     ],
     [
@@ -345,11 +350,11 @@
       },
       {
         "role": "user",
-        "content": "How does open source software typically differ from commercial software in terms of access and restrictions?"
+        "content": "What is likely to drive the emergence of new services in the open source AI space?"
       },
       {
         "role": "assistant",
-        "content": "Unlike most commercial software, which typically requires a commercial license or subscription and restricts access to its core technology, open source tools are developed collaboratively and made available to the public to use, modify, and distribute with far fewer restrictions."
+        "content": "Increased collaboration in this space is likely to drive the emergence of new services aimed at enhancing the developer experience."
       }
     ],
     [
@@ -359,11 +364,11 @@
       },
       {
         "role": "user",
-        "content": "What are some examples of open source AI technologies mentioned in the text?"
+        "content": "What approach is likely to become the standard in the AI technology stack, similar to the cloud and software industries?"
       },
       {
         "role": "assistant",
-        "content": "Examples include Meta\u2019s Llama family, Google\u2019s Gemma family, the Allen Institute for Artificial Intelligence\u2019s OLMo family, Nvidia\u2019s NeMo family, DeepSeek-R1, and Alibaba\u2019s Qwen 2.5-Max."
+        "content": "A hybrid approach will likely become the standard, with open source and proprietary technologies coexisting across multiple layers of the AI technology stack."
       }
     ],
     [
@@ -373,11 +378,11 @@
       },
       {
         "role": "user",
-        "content": "What are some examples of open source AI technologies mentioned in the text?"
+        "content": "What is considered essential for open source projects, given that experienced developers are the primary contributors and users?"
       },
       {
         "role": "assistant",
-        "content": "Examples of open source AI technologies include Meta\u2019s Llama family, Google\u2019s Gemma family, the Allen Institute for Artificial Intelligence\u2019s OLMo family, Nvidia\u2019s NeMo family, DeepSeek-R1, and Alibaba\u2019s Qwen 2.5-Max."
+        "content": "Upskilling teams is essential for open source projects."
       }
     ],
     [
@@ -387,11 +392,11 @@
       },
       {
         "role": "user",
-        "content": "Who conducted the survey on enterprise adoption of open source AI?"
+        "content": "What kind of approach is likely to become the standard in the AI technology stack, similar to observations in the cloud and software industries?"
       },
       {
         "role": "assistant",
-        "content": "The survey was conducted by McKinsey, the Mozilla Foundation, and the Patrick J. McGovern Foundation."
+        "content": "A hybrid approach, with open source and proprietary technologies coexisting, is likely to become the standard."
       }
     ],
     [
@@ -401,11 +406,11 @@
       },
       {
         "role": "user",
-        "content": "How many technology leaders and senior developers were surveyed?"
+        "content": "Who is a partner in McKinsey\u2019s Dubai office?"
       },
       {
         "role": "assistant",
-        "content": "More than 700 technology leaders and senior developers were surveyed."
+        "content": "Ankit Bisht is a partner in McKinsey\u2019s Dubai office."
       }
     ],
     [
@@ -415,11 +420,11 @@
       },
       {
         "role": "user",
-        "content": "In how many countries was the survey on open source AI conducted?"
+        "content": "Who is a senior partner in McKinsey\u2019s Bay Area office?"
       },
       {
         "role": "assistant",
-        "content": "The survey was conducted across 41 countries."
+        "content": "Lareina Yee is a senior partner in the Bay Area office."
       }
     ],
     [
@@ -429,11 +434,11 @@
       },
       {
         "role": "user",
-        "content": "What advantages do leaders cite for embracing open source AI tools?"
+        "content": "Which organizations are acknowledged as research partners?"
       },
       {
         "role": "assistant",
-        "content": "Leaders cite advantages including high performance, ease of use, and lower implementation and maintenance costs relative to proprietary tools."
+        "content": "The Mozilla Foundation and the Patrick J. McGovern Foundation are acknowledged as research partners."
       }
     ],
     [
@@ -443,11 +448,11 @@
       },
       {
         "role": "user",
-        "content": "How do developers view experience with open source AI?"
+        "content": "What is QuantumBlack Labs?"
       },
       {
         "role": "assistant",
-        "content": "Developers increasingly view experience with open source AI as an important part of their overall job satisfaction."
+        "content": "QuantumBlack Labs is the software development and R&D arm of QuantumBlack, AI by McKinsey."
       }
     ],
     [
@@ -457,11 +462,11 @@
       },
       {
         "role": "user",
-        "content": "What percentage of survey respondents expect to increase their use of open source AI?"
+        "content": "When did the survey run?"
       },
       {
         "role": "assistant",
-        "content": "More than three-quarters of survey respondents say they expect to increase their use of open source AI in the years ahead."
+        "content": "The survey ran from December 2024 to January 2025."
       }
     ],
     [
@@ -471,18 +476,32 @@
       },
       {
         "role": "user",
-        "content": "What are the seven areas of the AI tech stack respondents were asked about?"
+        "content": "How many respondents participated in the survey?"
       },
       {
         "role": "assistant",
-        "content": "Respondents were asked about their experiences with open source and proprietary AI technology across data; models; hosting/inference; modifications; APIs and prompt handling; tools; and user experience/applications."
+        "content": "703 respondents participated in the survey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In how many countries was the survey conducted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The survey was conducted in 41 countries."
       }
     ]
   ],
   "metrics": {
-    "total": 25,
-    "filtered": 25,
-    "retention_rate": 1.0,
-    "avg_score": 10.0
+    "total": 240,
+    "filtered": 26,
+    "retention_rate": 0.11,
+    "avg_score": 8.9
   }
 }

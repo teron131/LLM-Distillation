@@ -14,71 +14,83 @@
       "answer": "January 2025"
     },
     {
-      "question": "What are the core areas where effective deployment of technology and AI could generate ROI for institutional investors?",
+      "question": "What key technologies are transforming the investment landscape?",
+      "answer": "Technology innovation, AI, and generative AI are transforming the investment landscape."
+    },
+    {
+      "question": "What types of institutional investors are mentioned as struggling with technology transformations?",
+      "answer": "Pensions, insurers, and sovereign wealth funds around the world are mentioned as struggling with technology transformations."
+    },
+    {
+      "question": "What is the potential ROI for institutional investors in deploying technology and AI?",
       "answer": "Institutional investors\u2019 effective deployment of technology and AI could generate an ROI of more than tenfold across three domains: investment returns, operational efficiency, and risk management."
     },
     {
-      "question": "What do leading institutional investors do differently in their technology strategy?",
-      "answer": "Leading investors start by setting long-term aspirations for their technology strategy in alignment with the investment philosophy, develop a strong technology foundation using AI and cutting-edge investment platforms, build an operating model that instills close collaboration between the technology team and other functions, ensure technology initiatives are done iteratively, allocate resources toward building and retaining technology talent, mitigate risks, and prioritize change management."
+      "question": "What is the first step leading investors take in their technology strategy?",
+      "answer": "Leading investors start by setting long-term aspirations for their technology strategy in alignment with the investment philosophy."
     },
     {
-      "question": "In what critical areas can technology help institutional investors deliver superior risk-adjusted returns?",
-      "answer": "Technology can help institutional investors deliver on their mandate in several critical areas: new alpha-generation strategies and dynamic portfolio construction."
+      "question": "How do leading investors build their operating model?",
+      "answer": "Their operating model is built in a way that instills close collaboration between the technology team and other functions; it also ensures all major technology initiatives are done in an iterative manner to manage costs while delivering value."
     },
     {
-      "question": "How can AI tools assist in generating new alpha strategies in private markets?",
-      "answer": "Managers can use AI tools to parse through large data sets and identify hidden market signals to capture investment alpha, especially as private markets enter a slower era of growth."
+      "question": "What potential risks do leading institutions mitigate?",
+      "answer": "These institutions also allocate time and resources toward building and retaining technology talent as well as mitigating potential risks, such as regulatory compliance and cybersecurity."
     },
     {
-      "question": "What are some ways technology can help with dynamic portfolio construction?",
-      "answer": "Technology can help investors dynamically adjust their portfolios in response to market shifts by establishing a total portfolio view, increasing visibility into the fund\u2019s exposure to risk factors and performance drivers such as ESG, reallocating investments rapidly, and managing liquidity."
+      "question": "What is a critical area where technology can help institutional investors deliver on their mandate?",
+      "answer": "New alpha-generation strategies are a critical area where technology can help institutional investors deliver on their mandate."
+    },
+    {
+      "question": "How can AI tools assist in generating alpha in private markets?",
+      "answer": "They can use AI tools to parse through large data sets and identify hidden market signals."
+    },
+    {
+      "question": "How can technology help with dynamic portfolio construction?",
+      "answer": "Technology can help investors dynamically adjust their portfolios in response to market shifts by establishing a total portfolio view, increasing visibility into the fund\u2019s exposure to risk factors and performance drivers such as environmental, social, and governance (ESG); reallocating investments rapidly; and managing liquidity."
     },
     {
       "question": "What is the primary mandate of institutional investors?",
       "answer": "Institutional investors have a complex mandate of delivering superior risk-adjusted returns on their portfolios, even during uncertain times."
     },
     {
-      "question": "How can AI tools assist managers in capturing investment alpha in private markets?",
-      "answer": "AI tools can help managers parse through large data sets and identify hidden market signals to capture investment alpha."
+      "question": "How can technology assist institutional investors in generating new alpha strategies?",
+      "answer": "Technology, particularly AI tools, can help parse through large data sets and identify hidden market signals to capture investment alpha, especially in private markets."
     },
     {
-      "question": "What are some ways technology can help institutional investors with dynamic portfolio construction?",
-      "answer": "Technology can help investors dynamically adjust their portfolios by establishing a total portfolio view, increasing visibility into risk factors and performance drivers, reallocating investments rapidly, and managing liquidity."
+      "question": "In what ways can technology aid in dynamic portfolio construction for investors?",
+      "answer": "Technology can help investors dynamically adjust portfolios by providing a total portfolio view, increasing visibility into risk factors like ESG, enabling rapid reallocation, and managing liquidity."
     },
     {
-      "question": "How can technology improve investment operations for institutional investors?",
-      "answer": "Investors can achieve cost efficiency by reimagining investment operations through technology, for example, by using exception-based processing and automating manual, repeatable tasks."
+      "question": "How can technology lead to cost efficiency in investment operations?",
+      "answer": "Technology can achieve cost efficiency by reimagining investment operations, using exception-based processing for speed and risk management, and automating manual tasks."
     },
     {
-      "question": "What is a benefit of having a robust technology foundation for institutional investors moving toward disintermediated models?",
-      "answer": "Having a robust technology foundation can improve the management of potentially resource-intensive activities such as fund accounting for institutional investors moving toward disintermediated models."
+      "question": "What is a benefit of having a robust technology foundation for institutional investors moving towards disintermediated models?",
+      "answer": "A robust technology foundation can improve the management of potentially resource-intensive activities like fund accounting for institutional investors moving toward disintermediated models."
     },
     {
-      "question": "What type of risk management model can technology and AI help institutions move towards?",
-      "answer": "Technology and AI can help institutions move to an exception-based risk management model."
+      "question": "How can technology and AI enhance risk management for institutions?",
+      "answer": "Technology and AI can help institutions move to an exception-based risk management model by automating repeatable checks, allowing risk teams to focus on complex and critical areas."
     },
     {
-      "question": "What are some risks faced by institutions that have not invested adequately in technology capabilities?",
-      "answer": "Institutions that have not invested adequately can face increasing risks such as growing cybersecurity vulnerabilities, operational risk associated with poor data quality, and limited ability to respond rapidly to market events."
+      "question": "What are some risks faced by institutions with inadequate technology capabilities?",
+      "answer": "Institutions with inadequate technology capabilities can face risks such as growing cybersecurity vulnerabilities, operational risk from poor data quality, and limited ability to respond rapidly to market events."
     },
     {
-      "question": "What common tools do many institutional investors still use for tasks that could be automated?",
-      "answer": "Many institutional investors still use spreadsheets and emails for tasks that could be automated."
+      "question": "What common outdated systems do many institutional investors struggle with?",
+      "answer": "Many institutional investors struggle with outdated core systems, such as their investment book of record (IBOR), which slow decision-making."
     },
     {
-      "question": "What are some issues institutional investors struggle with regarding their core systems?",
-      "answer": "They tend to struggle with outdated core systems, such as their investment book of record (IBOR), that slow decision-making."
+      "question": "What data challenges do institutional investors sometimes face, especially with emerging asset classes?",
+      "answer": "Institutional investors may face data quality and granularity challenges with both current portfolios and new investments in emerging asset classes like private credit, which may not be supported by current private-markets technology."
     },
     {
-      "question": "What data challenges might institutional investors face with new investments in emerging asset classes?",
-      "answer": "They may face data quality and granularity challenges with new investments in emerging asset classes such as private credit, which may not be supported by the current state of private-markets technology."
+      "question": "What are the common reasons for institutional investors lagging behind the digital curve?",
+      "answer": "Challenges are often due to insufficient spending on technology or investors' inability to make a clear prioritization case to their boards and stakeholders."
     },
     {
-      "question": "What are the common reasons for the technology challenges faced by institutional investors?",
-      "answer": "These challenges are often either due to insufficient spending or investors\u2019 inability to make a clear prioritization case to their boards and stakeholders."
-    },
-    {
-      "question": "What was the average spending on technology and AI by large institutional investors in 2022, expressed in basis points?",
+      "question": "What was the average spending on technology and AI for large institutional investors in 2022, as a percentage of assets under management?",
       "answer": "In 2022, the average large institutional investor spent between 1.3 and 2.7 basis points on technology and AI."
     },
     {
@@ -86,20 +98,348 @@
       "answer": "An institutional investor with $150 billion in assets under management had an annual technology budget of approximately $20 million to $40 million in 2022."
     },
     {
-      "question": "How much did technology and AI spending increase in absolute dollars since 2020 for institutional investors?",
-      "answer": "This spend has increased by about 20 percent in absolute dollars since 2020."
+      "question": "How has technology and AI spending by institutional investors changed since 2020?",
+      "answer": "This spend has increased by about 20 percent in absolute dollars since 2020, with an estimated incremental 10 percent increase in 2023."
     },
     {
-      "question": "What was the estimated incremental increase in technology and AI spending for institutional investors in 2023?",
-      "answer": "There was an estimated incremental 10 percent increase in technology and AI spending in 2023."
+      "question": "What was the spending on technology and AI for the top 25 percent of institutional investors in 2022?",
+      "answer": "Those who spent the most\u2014the top 25 percent\u2014were spending upward of 3.5 basis points."
     },
     {
-      "question": "What percentage of institutional investors spent the most on technology and AI, and what was their spending level?",
-      "answer": "The top 25 percent of investors spent the most on technology and AI, spending upward of 3.5 basis points."
-    },
-    {
-      "question": "What challenges might institutional investors face with emerging asset classes like private credit?",
+      "question": "What challenges can institutional investors face with emerging asset classes like private credit?",
       "answer": "Institutional investors may face data quality and granularity challenges with emerging asset classes like private credit, as current private-markets technology may not support them."
+    },
+    {
+      "question": "What are the common reasons for data challenges in institutional investing?",
+      "answer": "These challenges are often due to insufficient spending on technology or investors' inability to make a clear prioritization case to their boards and stakeholders."
+    },
+    {
+      "question": "What was the average spending on technology and AI by large institutional investors in 2022?",
+      "answer": "In 2022, the average large institutional investor spent between 1.3 and 2.7 basis points on technology and AI."
+    },
+    {
+      "question": "What was the approximate annual technology budget for an institutional investor with $150 billion in assets under management in 2022?",
+      "answer": "An institutional investor with $150 billion in assets under management had an annual technology budget of approximately $20 million to $40 million in 2022."
+    },
+    {
+      "question": "How much has the spending on technology and AI by institutional investors increased since 2020?",
+      "answer": "This spend has increased by about 20 percent in absolute dollars since 2020, with an estimated incremental 10 percent increase in 2023."
+    },
+    {
+      "question": "What spending level did the top 25 percent of institutional investors dedicate to technology and AI?",
+      "answer": "Those who spent the most\u2014the top 25 percent\u2014were spending upward of 3.5 basis points on technology and AI."
+    },
+    {
+      "question": "What three factors are correlated with higher spending on technology and AI by institutional investors?",
+      "answer": "Higher spending is correlated with a higher percentage of assets managed in-house, a higher percentage of assets allocated to private assets, and a greater number of staff focused on risk management."
+    },
+    {
+      "question": "What were the challenges of the conservative approach to technology adoption?",
+      "answer": "The conservative approach, which involved incremental improvements as and when required, was likely to create fragmentation, growing technology debt, and friction over time, with investments often funneled to maintenance in the absence of a holistic strategy."
+    },
+    {
+      "question": "What were the potential drawbacks of multiyear transformation programs with a 'waterfall' delivery style?",
+      "answer": "These programs could lose steam over time due to increasing costs and the lack of measurable impact early in the transformation."
+    },
+    {
+      "question": "What are the three archetypes of institutional investors regarding their technology aspirations?",
+      "answer": "Institutional investors fall into three archetypes: leading-edge innovator, close follower, and minimum viable maintainer."
+    },
+    {
+      "question": "What were the consequences for 'minimum viable maintainer' institutions?",
+      "answer": "These institutions realized they could not react to new opportunities and market shifts as quickly as they would have liked, and also faced compounding technology debt."
+    },
+    {
+      "question": "What mindset shift do leading institutions recommend for investors regarding technology and AI?",
+      "answer": "Leading institutions believe investors would do well to change their mindsets and become close followers, if not leading-edge innovators of technology and AI."
+    },
+    {
+      "question": "What is the first step recommended for investors to become close followers or leading-edge innovators of technology and AI?",
+      "answer": "To become close followers or leading-edge innovators, they should first set long-term aspirations for their technology strategy so they can put all their resources and entire organization behind the vision."
+    },
+    {
+      "question": "What was the historical mindset of many investors regarding technology?",
+      "answer": "Historically, many investors operated as minimum viable maintainers, believing technology had limited potential to enhance investment outcomes and thus only developed the bare minimum capabilities."
+    },
+    {
+      "question": "What challenges did institutions face due to their historical approach to technology?",
+      "answer": "Institutions faced challenges in reacting to new opportunities and market shifts as quickly as they would have liked, and also dealt with compounding technology debt."
+    },
+    {
+      "question": "What mindset shift is recommended for institutions regarding technology and AI?",
+      "answer": "Institutions are recommended to change their mindsets and become close followers, if not leading-edge innovators, of technology and AI."
+    },
+    {
+      "question": "What is a key step for institutions to become leading innovators in technology and AI?",
+      "answer": "To become leading innovators, institutions should first set long-term aspirations for their technology strategy to align resources and the entire organization behind the vision."
+    },
+    {
+      "question": "How have leading institutions strengthened their technology foundation?",
+      "answer": "Leading institutions have invested in modernizing and future-proofing their IT foundation, upgrading core investment platforms, and deploying AI tools to improve data processes."
+    },
+    {
+      "question": "How have leading institutions treated data?",
+      "answer": "Leading institutions have made data a strategic asset instead of merely a by-product of operations."
+    },
+    {
+      "question": "What are common challenges with legacy IBOR platforms?",
+      "answer": "Legacy IBOR platforms often struggle with integrating disparate data across asset types and products, and many institutions lack support for newer asset classes like private debt."
+    },
+    {
+      "question": "What are leading institutions doing to address legacy IBOR platforms?",
+      "answer": "Leading institutions are modernizing their legacy IBOR platforms and unwinding custom work-arounds to simplify upgrades and reduce platform lock-in."
+    },
+    {
+      "question": "How are leading institutions establishing a total fund view?",
+      "answer": "Leading institutions are establishing a total fund view by investing in a total fund platform or a data platform that integrates data from different asset-class-focused IBORs."
+    },
+    {
+      "question": "What is a key factor for success when modernizing technology platforms for investment processes?",
+      "answer": "Investors are more likely to succeed if they can reimagine their investment and operations processes hand in hand with platform modernization."
+    },
+    {
+      "question": "How are leading pensions using generative AI?",
+      "answer": "Leading pensions are using gen AI to rapidly synthesize internal and external knowledge or distill thousands of private asset documents for more efficient investment decision-making."
+    },
+    {
+      "question": "What did a North American pension develop to support its investment activities?",
+      "answer": "A North American pension developed a proprietary gen AI model that draws on aggregated internal and external data to support research, thesis development, deal sourcing, and portfolio exposure analytics."
+    },
+    {
+      "question": "What investments were necessary for the North American pension to develop its gen AI model?",
+      "answer": "To develop its gen AI model, the pension invested in the underlying data platform to create a firmwide production-level environment and identified and structured critical internal and external data sources."
+    },
+    {
+      "question": "How did the North American pension modernize its data management approach?",
+      "answer": "The pension modernized its approach to data management with centrally defined standards and robust accountability and ownership across organizational units."
+    },
+    {
+      "question": "What was one of the initial steps taken to develop a firmwide production-level environment?",
+      "answer": "It invested in the underlying data platform."
+    },
+    {
+      "question": "What types of data were identified and structured as critical sources?",
+      "answer": "Investment memos, proprietary research, corporate filings, and analyst reports were identified and structured."
+    },
+    {
+      "question": "How was data management modernized in terms of standards and accountability?",
+      "answer": "It was modernized with centrally defined standards and robust accountability and ownership across organizational units."
+    },
+    {
+      "question": "Besides data infrastructure, what other actions did the investor take to ensure successful adoption of new technologies?",
+      "answer": "The investor had a clear vision of the end goal and communicated it to all relevant stakeholders, conducted training across roles and user groups, and iterated with investment teams to tailor use cases."
+    },
+    {
+      "question": "What was a key achievement within the first 12 months of the exercise?",
+      "answer": "Rapid adoption across the company was achieved within the first 12 months."
+    },
+    {
+      "question": "How did the gen AI model help the investor achieve meaningful performance differentiation?",
+      "answer": "The gen AI model helped through quicker assessment of novel investment strategies and quantifying of investment risk in creative ways."
+    },
+    {
+      "question": "How does the institutional investing industry compare to the broader financial services industry in terms of gen AI adoption?",
+      "answer": "The institutional investing industry continues to lag behind its financial-services-industry peers in gen AI adoption."
+    },
+    {
+      "question": "According to CEM Benchmarking's research, what percentage of participants indicated readiness to incorporate AI and future technologies?",
+      "answer": "Less than 20 percent of participants indicated they were ready to incorporate AI and other future technologies."
+    },
+    {
+      "question": "What is the recommended approach to data for leading institutions?",
+      "answer": "Leading institutions treat data as a strategic asset versus a byproduct of operations."
+    },
+    {
+      "question": "What was a common issue with data access for front office teams in surveyed institutions?",
+      "answer": "Only 18 percent of front office teams could get timely data access without manual intervention."
+    },
+    {
+      "question": "What are the three actions leading institutions are taking to make data a strategic asset?",
+      "answer": "Leading institutions are establishing data governance tools and processes, building or maturing a data platform, and optimizing procurement of third-party data."
+    },
+    {
+      "question": "What is an example of a new role created for data governance?",
+      "answer": "Data stewards and data owners are examples of new roles created for data governance."
+    },
+    {
+      "question": "What is the purpose of a data platform for leading institutions?",
+      "answer": "A data platform integrates data across sources into high-value data products and serves as a single source of truth for all data consumers."
+    },
+    {
+      "question": "What approach do leading institutions adopt for their technology initiatives after building the technology foundation?",
+      "answer": "Leading institutions build a collaborative operating model and adopt an iterative test-and-learn approach."
+    },
+    {
+      "question": "What was the traditional perception of the technology team in relation to investment and operations teams?",
+      "answer": "The technology team was considered a support function for investment and operations teams, working behind the scenes."
+    },
+    {
+      "question": "What are investors now recognizing as important regarding technology capabilities and investment strategy?",
+      "answer": "Investors are recognizing the importance of aligning with and prioritizing technology capabilities in service of the investment strategy."
+    },
+    {
+      "question": "How are institutions starting their technology transformations?",
+      "answer": "Institutions are starting small by selecting one or two focus areas for conducting minimal viable product (MVP) testing and training investment teams."
+    },
+    {
+      "question": "What percentage of front office teams can access timely data without manual intervention?",
+      "answer": "Only 18 percent of front office teams can get timely data access without manual intervention."
+    },
+    {
+      "question": "What are the three actions leading institutions are taking to make data a strategic asset?",
+      "answer": "Leading institutions are establishing data governance tools and processes, building or maturing a data platform, and optimizing procurement of third-party data."
+    },
+    {
+      "question": "What are examples of data governance tools and processes that institutions are establishing?",
+      "answer": "Examples include tools and processes for data quality and metadata, with clear responsibilities and new roles like data stewards and data owners."
+    },
+    {
+      "question": "What is the purpose of a data platform for institutional investors?",
+      "answer": "A data platform integrates data across sources into high-value data products and serves as a single source of truth for all data consumers."
+    },
+    {
+      "question": "Why are institutions optimizing the procurement of third-party data?",
+      "answer": "Institutions are optimizing procurement to integrate new sources, right-size consumption, and improve commercial arrangements."
+    },
+    {
+      "question": "What approach do leading institutions adopt for technology initiatives after building the technology foundation?",
+      "answer": "Leading institutions build a collaborative operating model and adopt an iterative test-and-learn approach for their technology initiatives."
+    },
+    {
+      "question": "How has the role of the technology team evolved from the past?",
+      "answer": "In the past, the technology team was considered a support function working behind the scenes, often leading to fragmented and subpar solutions. Now, investors are aligning technology capabilities with the investment strategy and ensuring measurable outcomes."
+    },
+    {
+      "question": "How are institutions starting their organizational transformation with technology initiatives?",
+      "answer": "Institutions are starting small by selecting one or two focus areas for conducting minimal viable product (MVP) testing and training investment teams, rather than trying to transform every part of the organization."
+    },
+    {
+      "question": "What kind of teams are leading institutions developing to integrate firm functions?",
+      "answer": "Leading institutions are developing integrated deployment teams with members from the investment, operations, and technical-delivery teams."
+    },
+    {
+      "question": "What is an example of an integrated deployment team's composition and activity?",
+      "answer": "An example is a team staffed for three to six months to build an MVP of an AI-powered model for liquidity management, including a product owner, subject matter experts, a tech lead, scrum master, and data engineers and scientists, who co-locate and use forums like daily stand-ups and demos."
+    },
+    {
+      "question": "What percentage of technology staff, on average, are embedded within investment teams in some institutions?",
+      "answer": "Roughly 10 percent of technology staff are embedded within investment teams, on average."
+    },
+    {
+      "question": "What should institutions keen on embedding technology staff within investment teams avoid?",
+      "answer": "Institutions should avoid overfragmentation in the technology team to ensure central oversight, adherence to standards, architectural alignment, and risk management."
+    },
+    {
+      "question": "What challenges can executives face with large, multi-year technological transformation initiatives?",
+      "answer": "Many executives can struggle with maintaining consistency in such initiatives due to cost and time considerations."
+    },
+    {
+      "question": "What is recommended to ensure central oversight and adherence to standards when adopting a technology approach?",
+      "answer": "Institutions keen on this approach would do well to avoid overfragmentation in the technology team to ensure central oversight and adherence to standards, architectural alignment, and risk management."
+    },
+    {
+      "question": "How can organizations overcome the challenge of maintaining consistency in large, multi-year technological initiatives?",
+      "answer": "Some investors overcome these issues by breaking large initiatives into their component parts and iteratively deploying them."
+    },
+    {
+      "question": "What is an example of iterative deployment for a data warehouse program?",
+      "answer": "Instead of embarking on a two-year data warehouse program, investors take two to three months to instantiate the environment, followed by three-month bursts to build and deploy MVP data products and AI use cases."
+    },
+    {
+      "question": "What should investors ensure when adopting an iterative deployment approach to avoid sacrificing future scalability?",
+      "answer": "While adopting this approach, investors are expected to ensure that near-term speed doesn\u2019t come at the expense of future scalability. They can do this by making sure the iterative releases adhere to a target state architecture and vision, and by tracking their technology debt."
+    },
+    {
+      "question": "What are some strategies investors use to address struggles with attracting and retaining technologists who have sufficient investing knowledge?",
+      "answer": "To solve for this, some investors lean on outsourcing, while others temper their technology aspirations to match available talent."
+    },
+    {
+      "question": "How are investors building internal capabilities in technology and AI roles?",
+      "answer": "Investors who want to build internal capabilities are elevating technology and AI roles in their organization by establishing a clear value proposition, creating development pathways, and, in some cases, ensuring more competitive compensation for such roles."
+    },
+    {
+      "question": "What are some examples of potential technology risks that investors are expected to be mindful of?",
+      "answer": "Investors are also expected to be mindful of potential technology risks, including cybersecurity breaches, data risks (for example, poor data quality leading to suboptimal decisions), operational risks (such as a core platform going down and preventing trading), third-party risks (for instance, an IBOR provider making a mistake in its calculations), and legal and compliance issues (for example, not adhering to third-party data use agreements)."
+    },
+    {
+      "question": "What are some challenges associated with the adoption of generative AI?",
+      "answer": "Adoption of gen AI also comes with its own challenges, including potential hallucinations of patterns and other biases."
+    },
+    {
+      "question": "How are forward-leaning investors implementing mitigation measures for identified technology risks?",
+      "answer": "More forward-leaning investors are investing time and resources to identify such risks and implement and ideally automate monitoring of these systems as a mitigation measure."
+    },
+    {
+      "question": "With whom do some investors work for more robust monitoring and controls?",
+      "answer": "Some investors work closely with third-party platform providers, outsourced service providers, and strategic partners for more robust monitoring and controls."
+    },
+    {
+      "question": "What are the three ways institutions are optimizing their sourcing model?",
+      "answer": "Institutions are optimizing their sourcing model through insourcing strategically differentiating roles, outsourcing more repeatable activities, and forming strategic partnerships."
+    },
+    {
+      "question": "What are some examples of technology risks investors should be mindful of?",
+      "answer": "Investors should be mindful of cybersecurity breaches, data risks, operational risks, third-party risks, and legal and compliance issues."
+    },
+    {
+      "question": "What are the challenges associated with the adoption of generative AI?",
+      "answer": "Challenges associated with the adoption of generative AI include potential hallucinations of patterns and other biases."
+    },
+    {
+      "question": "How do forward-leaning investors mitigate technology risks?",
+      "answer": "Forward-leaning investors identify risks, implement and ideally automate monitoring of these systems, and work closely with third-party platform providers, outsourced service providers, and strategic partners for more robust monitoring and controls."
+    },
+    {
+      "question": "What is a key factor for capturing lasting value from technology and AI in investment processes?",
+      "answer": "To capture lasting value, leading investors embed technology in their core investment and operational processes and shift the way staff work."
+    },
+    {
+      "question": "What did most participants in CEM Benchmarking's survey report regarding gen AI or machine learning?",
+      "answer": "Most participants reported working on gen AI or machine learning proofs of concept, but only a few have made meaningful progress in adopting these tools for daily use."
+    },
+    {
+      "question": "What are the characteristics of institutions that succeed in technology and AI transitions?",
+      "answer": "Successful institutions think about change management before technical delivery, have strong communication and backing from leadership, start with a clear change story and value proposition, invest in training, and stay close to users for feedback and support."
+    },
+    {
+      "question": "What are the three actions institutional investors can take to understand and accelerate their technology and AI path forward?",
+      "answer": "Institutional investors can assess their current strategy and participate in peer benchmarking, refresh their technology strategy and align resources, and actively explore opportunities to leapfrog progress using new capabilities."
+    },
+    {
+      "question": "How can investors begin extracting insights without a fully fledged data warehouse or data lake?",
+      "answer": "Investors can begin extracting transaction data from core platforms and using gen AI to query it."
+    },
+    {
+      "question": "What are the potential benefits of technology for institutional investors?",
+      "answer": "Technology can enhance investment returns, improve operational efficiency, and improve risk management, among other long-term gains."
+    },
+    {
+      "question": "What is required for investors to achieve the gains offered by technology?",
+      "answer": "To achieve these gains, investors must be willing to overhaul how their institutions run."
+    },
+    {
+      "question": "What can investors do instead of waiting for a fully fledged data warehouse or data lake to start developing insights?",
+      "answer": "Investors can begin extracting transaction data from core platforms (such as IBORs) and using gen AI to query it."
+    },
+    {
+      "question": "What are some of the benefits that technology can provide to institutional investors?",
+      "answer": "Technology can enhance investment returns and improve operational efficiency and risk management, among other long-term gains."
+    },
+    {
+      "question": "What must investors be willing to do to achieve the gains from technology?",
+      "answer": "Investors must be willing to do the hard work of overhauling how their institutions run."
+    },
+    {
+      "question": "Who is a partner in McKinsey\u2019s Bay Area office?",
+      "answer": "Bryan Petzold is a partner in McKinsey\u2019s Bay Area office."
+    },
+    {
+      "question": "Where is Elizabeth Skovira a partner?",
+      "answer": "Elizabeth Skovira is a partner in the Boston office."
+    },
+    {
+      "question": "Who is a senior partner in the Montreal office?",
+      "answer": "Marcos Tarnowski is a senior partner in the Montreal office."
     }
   ]
 }
