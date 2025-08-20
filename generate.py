@@ -52,7 +52,10 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
     base_data_dir = Path(f"data_{model_name.split('/')[-1]}")
 
     # Step 1: Create directory structure
-    _run_command(["mkdir", "-p", f"{base_data_dir}/{{input,parsed,generated,curated,final}}"], f"Creating directory structure: {base_data_dir}/{{input,parsed,generated,curated,final}}")
+    _run_command(
+        ["mkdir", "-p", f"{base_data_dir}/input", f"{base_data_dir}/parsed", f"{base_data_dir}/generated", f"{base_data_dir}/curated", f"{base_data_dir}/final"],
+        f"Creating directory structure: {base_data_dir}/{{input,parsed,generated,curated,final}}",
+    )
 
     # Step 2: Ingest documents and create QA pairs individually
     documents_path = Path(documents_dir)
@@ -62,7 +65,10 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
 
             # Ingest document
             parsed_output_dir = base_data_dir / "parsed"
-            _run_command(["synthetic-data-kit", "-c", "config.yaml", "ingest", str(doc_file), "--output-dir", str(parsed_output_dir)], f"Ingesting {doc_file.name}...")
+            _run_command(
+                ["synthetic-data-kit", "-c", "config.yaml", "ingest", str(doc_file), "--output-dir", str(parsed_output_dir)],
+                f"Ingesting {doc_file.name}...",
+            )
 
             # Calculate number of QA pairs
             # Assuming ingested files are named doc_file.name.txt in parsed_output_dir
@@ -78,15 +84,24 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
 
                 # Create QA pairs
                 generated_output_dir = base_data_dir / "generated"
-                _run_command(["synthetic-data-kit", "-c", "config.yaml", "create", str(parsed_file_path), "--type", "qa", "--num-pairs", str(num_qa_pairs), "--output-dir", str(generated_output_dir)], f"Creating {num_qa_pairs} QA pairs for {doc_file.name}...")
+                _run_command(
+                    ["synthetic-data-kit", "-c", "config.yaml", "create", str(parsed_file_path), "--type", "qa", "--num-pairs", str(num_qa_pairs), "--output-dir", str(generated_output_dir)],
+                    f"Creating {num_qa_pairs} QA pairs for {doc_file.name}...",
+                )
             else:
                 print(f"Warning: Parsed file not found for {doc_file.name} at {parsed_file_path}. Skipping QA pair generation for this document.")
 
     # Step 3: Curate data (now operates on the generated directory)
-    _run_command(["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--output", f"{base_data_dir}/curated"], "Curating data...")
+    _run_command(
+        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--output", f"{base_data_dir}/curated"],
+        "Curating data...",
+    )
 
     # Step 4: Save as fine-tuning format (now operates on the curated directory)
-    _run_command(["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "ft", "--storage", "hf", "--output", f"{base_data_dir}/final"], "Saving data in fine-tuning format...")
+    _run_command(
+        ["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "ft", "--storage", "hf", "--output", f"{base_data_dir}/final"],
+        "Saving data in fine-tuning format...",
+    )
 
     print("Synthetic data generation pipeline completed.")
 
