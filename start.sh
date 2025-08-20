@@ -1,4 +1,4 @@
-mkdir -p data_gemini-2.5-flash-lite/{input,parsed,generated,curated,final}
+mkdir -p data/{input,parsed,generated,curated,final}
 synthetic-data-kit -c config.yaml ingest ./documents/ --output-dir data/parsed
 synthetic-data-kit -c config.yaml create ./data/parsed/ --type qa --output-dir data/generated
 synthetic-data-kit -c config.yaml curate ./data/generated/ --threshold 8.0 --output data/curated
