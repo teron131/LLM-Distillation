@@ -1,0 +1,488 @@
+{
+  "summary": "This document discusses how organizations are adapting to capture value from generative AI. It highlights that companies are beginning to redesign workflows, strengthen governance, and mitigate risks associated with AI. CEO oversight of AI governance is strongly correlated with higher bottom-line impact, especially in larger companies. While some elements like risk and data governance are often centralized, tech talent and solution adoption tend to be managed through hybrid models. The overall adoption of AI, including generative AI, is increasing, with larger organizations leading the way in these organizational changes.",
+  "qa_pairs": [
+    {
+      "question": "What are organizations beginning to create to derive meaningful value from generative AI?",
+      "answer": "Organizations are beginning to create structures and processes that lead to meaningful value from gen AI.",
+      "rating": 8
+    },
+    {
+      "question": "What actions are companies taking as they deploy generative AI?",
+      "answer": "Companies are redesigning workflows as they deploy gen AI.",
+      "rating": 8
+    },
+    {
+      "question": "What is one element most correlated with higher self-reported bottom-line impact from an organization\u2019s generative AI use?",
+      "answer": "A CEO\u2019s oversight of AI governance is one element most correlated with higher self-reported bottom-line impact from an organization\u2019s gen AI use.",
+      "rating": 9
+    },
+    {
+      "question": "What is AI governance?",
+      "answer": "AI governance refers to the policies, processes, and technology necessary to develop and deploy AI systems responsibly.",
+      "rating": 10
+    },
+    {
+      "question": "Which attribute has the biggest effect on an organization\u2019s ability to see EBIT impact from its use of generative AI?",
+      "answer": "The redesign of workflows has the biggest effect on an organization\u2019s ability to see EBIT impact from its use of gen AI.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of respondents whose organizations use AI report that their CEO is responsible for overseeing AI governance?",
+      "answer": "Twenty-eight percent of respondents whose organizations use AI report that their CEO is responsible for overseeing AI governance.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of respondents reporting generative AI use say their organizations have fundamentally redesigned at least some workflows?",
+      "answer": "Twenty-one percent of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows.",
+      "rating": 10
+    },
+    {
+      "question": "Which types of organizations are changing more quickly in their adoption of AI?",
+      "answer": "Companies with at least $500 million in annual revenue are changing more quickly than smaller organizations.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of respondents now say their organizations use AI in at least one business function?",
+      "answer": "More than three-quarters of respondents now say that their organizations use AI in at least one business function.",
+      "rating": 10
+    },
+    {
+      "question": "What is happening to the use of generative AI in particular?",
+      "answer": "The use of gen AI in particular is rapidly increasing.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of organizations using gen AI have fundamentally redesigned at least some workflows?",
+      "answer": "Twenty-one percent of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows.",
+      "rating": 10
+    },
+    {
+      "question": "Who is responsible for overseeing AI governance in 28 percent of organizations that use AI?",
+      "answer": "Twenty-eight percent of respondents whose organizations use AI report that their CEO is responsible for overseeing AI governance.",
+      "rating": 10
+    },
+    {
+      "question": "What was the R-squared value when using Johnson\u2019s Relative Weights regression analysis to consider the effect of gen AI use on organizations\u2019 EBIT?",
+      "answer": "Using the Johnson\u2019s Relative Weights regression analysis, the reported effect of gen AI use on organizations\u2019 EBIT yielded an R-squared of 0.20.",
+      "rating": 10
+    },
+    {
+      "question": "What is one example of how organizations are managing time saved by gen AI deployment?",
+      "answer": "Organizations are managing time saved by gen AI deployment by assigning completely new activities and fewer hours to employees, or by reducing head count.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first best practice for gen AI adoption and scaling mentioned in the text?",
+      "answer": "The first best practice is establishing a dedicated team to drive gen AI adoption, such as a project management office, transformation office, or dedicated adoption and scaling team.",
+      "rating": 10
+    },
+    {
+      "question": "What is the fifth best practice for gen AI adoption and scaling?",
+      "answer": "The fifth best practice is establishing role-based capability training courses to make sure employees at each level know how to use gen AI capabilities appropriately.",
+      "rating": 10
+    },
+    {
+      "question": "What is the twelfth best practice for gen AI adoption and scaling?",
+      "answer": "The twelfth best practice is creating a comprehensive approach to foster trust among customers in the use of gen AI, such as transparency on regulatory compliance and the use of customer data.",
+      "rating": 10
+    },
+    {
+      "question": "According to McKinsey commentary, what kind of process is needed to effectively move the needle with AI implementation?",
+      "answer": "According to McKinsey commentary, it takes a top-down process to really move the needle with AI implementation.",
+      "rating": 9
+    },
+    {
+      "question": "What is a common mistake companies make when delegating AI implementation?",
+      "answer": "Many companies' instinct is to delegate implementation to the IT or digital department, but this often turns out to be a recipe for failure.",
+      "rating": 9
+    },
+    {
+      "question": "What is essential for effective AI implementation, according to the McKinsey commentary?",
+      "answer": "Effective AI implementation starts with a fully committed C-suite and, ideally, an engaged board.",
+      "rating": 10
+    },
+    {
+      "question": "What are some of the attributes included in the survey regarding generative AI adoption?",
+      "answer": "The attributes included which leaders oversee AI governance, how organizations are managing time saved by gen AI deployment, whether organizations have fundamentally redesigned workflows due to gen AI, and whether they have adopted specific gen AI adoption and scaling best practices.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of respondents using gen AI reported that their organizations have fundamentally redesigned at least some workflows?",
+      "answer": "Twenty-one percent of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows.",
+      "rating": 10
+    },
+    {
+      "question": "According to the McKinsey commentary, where does effective AI implementation ideally start?",
+      "answer": "Effective AI implementation starts with a fully committed C-suite and, ideally, an engaged board.",
+      "rating": 10
+    },
+    {
+      "question": "Why is delegating AI implementation solely to the IT or digital department often a recipe for failure?",
+      "answer": "This often turns out to be a recipe for failure because getting real value out of AI requires transformation, not just new technology, and is a question of successful change management and mobilization, which requires C-suite leadership.",
+      "rating": 10
+    },
+    {
+      "question": "What are two examples of how organizations might manage the time saved by gen AI deployment?",
+      "answer": "Organizations might manage time saved by gen AI deployment by assigning completely new activities and fewer hours to employees, or by reducing head count.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are organizations beginning to create to derive meaningful value from generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Organizations are beginning to create structures and processes that lead to meaningful value from gen AI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What actions are companies taking as they deploy generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies are redesigning workflows as they deploy gen AI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one element most correlated with higher self-reported bottom-line impact from an organization\u2019s generative AI use?"
+      },
+      {
+        "role": "assistant",
+        "content": "A CEO\u2019s oversight of AI governance is one element most correlated with higher self-reported bottom-line impact from an organization\u2019s gen AI use."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is AI governance?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI governance refers to the policies, processes, and technology necessary to develop and deploy AI systems responsibly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which attribute has the biggest effect on an organization\u2019s ability to see EBIT impact from its use of generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "The redesign of workflows has the biggest effect on an organization\u2019s ability to see EBIT impact from its use of gen AI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents whose organizations use AI report that their CEO is responsible for overseeing AI governance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twenty-eight percent of respondents whose organizations use AI report that their CEO is responsible for overseeing AI governance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents reporting generative AI use say their organizations have fundamentally redesigned at least some workflows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twenty-one percent of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which types of organizations are changing more quickly in their adoption of AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies with at least $500 million in annual revenue are changing more quickly than smaller organizations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents now say their organizations use AI in at least one business function?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than three-quarters of respondents now say that their organizations use AI in at least one business function."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the use of generative AI in particular?"
+      },
+      {
+        "role": "assistant",
+        "content": "The use of gen AI in particular is rapidly increasing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of organizations using gen AI have fundamentally redesigned at least some workflows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twenty-one percent of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is responsible for overseeing AI governance in 28 percent of organizations that use AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twenty-eight percent of respondents whose organizations use AI report that their CEO is responsible for overseeing AI governance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the R-squared value when using Johnson\u2019s Relative Weights regression analysis to consider the effect of gen AI use on organizations\u2019 EBIT?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using the Johnson\u2019s Relative Weights regression analysis, the reported effect of gen AI use on organizations\u2019 EBIT yielded an R-squared of 0.20."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one example of how organizations are managing time saved by gen AI deployment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Organizations are managing time saved by gen AI deployment by assigning completely new activities and fewer hours to employees, or by reducing head count."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first best practice for gen AI adoption and scaling mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first best practice is establishing a dedicated team to drive gen AI adoption, such as a project management office, transformation office, or dedicated adoption and scaling team."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the fifth best practice for gen AI adoption and scaling?"
+      },
+      {
+        "role": "assistant",
+        "content": "The fifth best practice is establishing role-based capability training courses to make sure employees at each level know how to use gen AI capabilities appropriately."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the twelfth best practice for gen AI adoption and scaling?"
+      },
+      {
+        "role": "assistant",
+        "content": "The twelfth best practice is creating a comprehensive approach to foster trust among customers in the use of gen AI, such as transparency on regulatory compliance and the use of customer data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to McKinsey commentary, what kind of process is needed to effectively move the needle with AI implementation?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to McKinsey commentary, it takes a top-down process to really move the needle with AI implementation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common mistake companies make when delegating AI implementation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many companies' instinct is to delegate implementation to the IT or digital department, but this often turns out to be a recipe for failure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is essential for effective AI implementation, according to the McKinsey commentary?"
+      },
+      {
+        "role": "assistant",
+        "content": "Effective AI implementation starts with a fully committed C-suite and, ideally, an engaged board."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the attributes included in the survey regarding generative AI adoption?"
+      },
+      {
+        "role": "assistant",
+        "content": "The attributes included which leaders oversee AI governance, how organizations are managing time saved by gen AI deployment, whether organizations have fundamentally redesigned workflows due to gen AI, and whether they have adopted specific gen AI adoption and scaling best practices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents using gen AI reported that their organizations have fundamentally redesigned at least some workflows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Twenty-one percent of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the McKinsey commentary, where does effective AI implementation ideally start?"
+      },
+      {
+        "role": "assistant",
+        "content": "Effective AI implementation starts with a fully committed C-suite and, ideally, an engaged board."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is delegating AI implementation solely to the IT or digital department often a recipe for failure?"
+      },
+      {
+        "role": "assistant",
+        "content": "This often turns out to be a recipe for failure because getting real value out of AI requires transformation, not just new technology, and is a question of successful change management and mobilization, which requires C-suite leadership."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are two examples of how organizations might manage the time saved by gen AI deployment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Organizations might manage time saved by gen AI deployment by assigning completely new activities and fewer hours to employees, or by reducing head count."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 9.5
+  }
+}

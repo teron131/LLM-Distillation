@@ -1,0 +1,469 @@
+{
+  "summary": "This report, \"Superagency in the Workplace,\" argues that Artificial Intelligence (AI) has the potential to be as transformative as the steam engine, ushering in a new era of productivity. Despite widespread investment, only 1% of companies believe they have reached AI maturity. The primary barrier to scaling AI is not employee readiness, as employees are eager to adopt and utilize AI, but rather leadership's slow pace in steering its implementation. The report emphasizes that leaders must embrace bolder ambitions and strategically integrate AI to empower employees and drive significant business outcomes, or risk falling behind.",
+  "qa_pairs": [
+    {
+      "question": "What is the primary barrier to scaling AI adoption in companies, according to the research?",
+      "answer": "The biggest barrier to scaling AI adoption is not employees, who are ready, but leaders who are not steering fast enough.",
+      "rating": 9
+    },
+    {
+      "question": "How is artificial intelligence compared to past technological advancements in the text?",
+      "answer": "Artificial intelligence has the potential to be as transformative as the steam engine was to the 19th-century Industrial Revolution.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated long-term AI opportunity in terms of added productivity growth potential from corporate use cases?",
+      "answer": "McKinsey research sizes the long-term AI opportunity at $4.4 trillion in added productivity growth potential from corporate use cases.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of companies plan to increase their AI investments over the next three years?",
+      "answer": "Over the next three years, 92 percent of companies plan to increase their AI investments.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of company leaders believe their companies are mature in AI deployment?",
+      "answer": "Only 1 percent of leaders call their companies 'mature' on the deployment spectrum.",
+      "rating": 10
+    },
+    {
+      "question": "According to the report, what is the risk for business leaders regarding AI adoption?",
+      "answer": "The risk for business leaders is not thinking too big, but rather too small when it comes to AI.",
+      "rating": 10
+    },
+    {
+      "question": "How many times more likely are employees to be using generative AI for a significant portion of their work than their leaders imagine?",
+      "answer": "3 times more employees are using gen AI for a third or more of their work than their leaders imagine.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of employees believe generative AI will change a substantial portion of their work within two years?",
+      "answer": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work.",
+      "rating": 10
+    },
+    {
+      "question": "Which age group is more likely to report extensive familiarity with generative AI tools and expect workflows to change within a year?",
+      "answer": "Millennials are 1.4x more likely to report extensive familiarity with gen AI tools than peers in other age groups; they are also 1.2x more likely to expect workflows to change within a year.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?",
+      "answer": "47% of the C-suite say their companies are developing gen AI tools too slowly.",
+      "rating": 10
+    },
+    {
+      "question": "How long ago did 69% of companies start investing more in generative AI?",
+      "answer": "69% of companies started investing more than a year ago.",
+      "rating": 10
+    },
+    {
+      "question": "What is the current state of AI compared to the internet many years ago?",
+      "answer": "AI now is like the internet many years ago.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary risk for business leaders regarding AI?",
+      "answer": "The risk for business leaders is not thinking too big, but rather too small.",
+      "rating": 10
+    },
+    {
+      "question": "How many more employees are using generative AI for a third or more of their work than their leaders imagine?",
+      "answer": "3x more employees are using gen AI for a third or more of their work than their leaders imagine.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of all employees believe that within 2 years generative AI will change 30% or more of their work?",
+      "answer": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work.",
+      "rating": 10
+    },
+    {
+      "question": "Which age group is more likely to report extensive familiarity with generative AI tools?",
+      "answer": "Millennials are more likely than peers in other age groups to report extensive familiarity with gen AI tools.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?",
+      "answer": "47% of the C-suite say their companies are developing gen AI tools too slowly.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of companies plan to invest more in generative AI over the next 3 years?",
+      "answer": "92% of companies plan to invest more in gen AI over the next 3 years.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of companies believe their generative AI investments have reached maturity?",
+      "answer": "1% believe their investments have reached maturity.",
+      "rating": 10
+    },
+    {
+      "question": "What is the most important factor for generative AI adoption according to employees?",
+      "answer": "Employees rank training as the most important factor for gen AI adoption.",
+      "rating": 10
+    },
+    {
+      "question": "What is the biggest barrier to success for AI adoption according to the report?",
+      "answer": "The biggest barrier to success is leadership.",
+      "rating": 9
+    },
+    {
+      "question": "How much more likely are employees to believe that AI will replace 30 percent of their work in the next year compared to what leaders realize?",
+      "answer": "Employees are three times more likely than leaders realize to believe that AI will replace 30 percent of their work in the next year.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of the workplace is apprehensive about AI and will need additional support?",
+      "answer": "A large minority (41 percent) are more apprehensive and will need additional support.",
+      "rating": 10
+    },
+    {
+      "question": "What are the top concerns regarding AI deployment for employees?",
+      "answer": "Trust and safety are top concerns.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary barrier to scaling AI adoption in companies, according to the research?"
+      },
+      {
+        "role": "assistant",
+        "content": "The biggest barrier to scaling AI adoption is not employees, who are ready, but leaders who are not steering fast enough."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is artificial intelligence compared to past technological advancements in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Artificial intelligence has the potential to be as transformative as the steam engine was to the 19th-century Industrial Revolution."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated long-term AI opportunity in terms of added productivity growth potential from corporate use cases?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey research sizes the long-term AI opportunity at $4.4 trillion in added productivity growth potential from corporate use cases."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies plan to increase their AI investments over the next three years?"
+      },
+      {
+        "role": "assistant",
+        "content": "Over the next three years, 92 percent of companies plan to increase their AI investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of company leaders believe their companies are mature in AI deployment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only 1 percent of leaders call their companies 'mature' on the deployment spectrum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the report, what is the risk for business leaders regarding AI adoption?"
+      },
+      {
+        "role": "assistant",
+        "content": "The risk for business leaders is not thinking too big, but rather too small when it comes to AI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many times more likely are employees to be using generative AI for a significant portion of their work than their leaders imagine?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 times more employees are using gen AI for a third or more of their work than their leaders imagine."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees believe generative AI will change a substantial portion of their work within two years?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which age group is more likely to report extensive familiarity with generative AI tools and expect workflows to change within a year?"
+      },
+      {
+        "role": "assistant",
+        "content": "Millennials are 1.4x more likely to report extensive familiarity with gen AI tools than peers in other age groups; they are also 1.2x more likely to expect workflows to change within a year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?"
+      },
+      {
+        "role": "assistant",
+        "content": "47% of the C-suite say their companies are developing gen AI tools too slowly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long ago did 69% of companies start investing more in generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "69% of companies started investing more than a year ago."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of AI compared to the internet many years ago?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI now is like the internet many years ago."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary risk for business leaders regarding AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "The risk for business leaders is not thinking too big, but rather too small."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many more employees are using generative AI for a third or more of their work than their leaders imagine?"
+      },
+      {
+        "role": "assistant",
+        "content": "3x more employees are using gen AI for a third or more of their work than their leaders imagine."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of all employees believe that within 2 years generative AI will change 30% or more of their work?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which age group is more likely to report extensive familiarity with generative AI tools?"
+      },
+      {
+        "role": "assistant",
+        "content": "Millennials are more likely than peers in other age groups to report extensive familiarity with gen AI tools."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?"
+      },
+      {
+        "role": "assistant",
+        "content": "47% of the C-suite say their companies are developing gen AI tools too slowly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies plan to invest more in generative AI over the next 3 years?"
+      },
+      {
+        "role": "assistant",
+        "content": "92% of companies plan to invest more in gen AI over the next 3 years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies believe their generative AI investments have reached maturity?"
+      },
+      {
+        "role": "assistant",
+        "content": "1% believe their investments have reached maturity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the most important factor for generative AI adoption according to employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employees rank training as the most important factor for gen AI adoption."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the biggest barrier to success for AI adoption according to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The biggest barrier to success is leadership."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much more likely are employees to believe that AI will replace 30 percent of their work in the next year compared to what leaders realize?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employees are three times more likely than leaders realize to believe that AI will replace 30 percent of their work in the next year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the workplace is apprehensive about AI and will need additional support?"
+      },
+      {
+        "role": "assistant",
+        "content": "A large minority (41 percent) are more apprehensive and will need additional support."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the top concerns regarding AI deployment for employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trust and safety are top concerns."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 9.5
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "summary": "This McKinsey article discusses the evolution of telecommunications companies (telcos) towards becoming \"AI-native\" organizations. It highlights that while telcos are increasingly investing in and benefiting from AI, the focus is now shifting from initial adoption to scaling these capabilities across the enterprise. The article emphasizes the emergence of \"agentic AI\" as the next frontier, which promises to further automate workflows and create new business opportunities. To succeed, telcos must strategically integrate traditional AI with generative AI, build robust data architectures, and manage organizational change effectively to unlock the full potential of AI.",
+  "qa_pairs": [
+    {
+      "question": "What is an 'AI-native' telco?",
+      "answer": "An 'AI-native' telco is an organization where AI is viewed as a core competency that powers decision making across all departments and organization layers, where top executives serve as champions of critical AI initiatives, and where data and AI capabilities are managed as products, built for scalability and reusability."
+    },
+    {
+      "question": "What were the three opportunities identified for AI in telcos?",
+      "answer": "The three opportunities identified were AI for core operations, AI as a service, and AI for the consumer."
+    },
+    {
+      "question": "What percentage of telco C-level executives reported currently capturing impact from AI/gen AI in the most recent survey?",
+      "answer": "About 50 percent of telco C-level executives reported currently capturing impact from AI/gen AI in the most recent survey."
+    },
+    {
+      "question": "How did a North American telco use AI to optimize network capital?",
+      "answer": "A North American telco used AI to harness granular insights on customer experiences on its network, which helped it optimize network capital by about 10 percent."
+    },
+    {
+      "question": "What was the impact of a leading European telco using gen AI for hyper-personalization?",
+      "answer": "A leading European telco used gen AI to accelerate its hyper-personalization efforts for upselling, achieving a 5 to 15 percent increase in average revenue per user (ARPU), depending on customer segment."
+    },
+    {
+      "question": "What was the result of a telco deploying an AI-driven help desk bot?",
+      "answer": "A telco deployed an AI-driven help desk bot that led to a 35 percent reduction in cost per call and a 60 percent higher customer resolution rate."
+    },
+    {
+      "question": "What new innovation promises more seamless workflow redesign and scalability?",
+      "answer": "Agentic AI is a new innovation that promises more seamless workflow redesign and scalability."
+    },
+    {
+      "question": "Who are the authors of this article from McKinsey\u2019s Technology, Media & Telecommunications Practice?",
+      "answer": "The authors are Benjamim Vieira, Guilherme Cruz, Ignacio Ferrero, Joshan Cherian Abraham, and Tomas Lajous, with Borja Belda and Eric Parsonnet."
+    },
+    {
+      "question": "What percentage of respondents in a C-suite survey indicated they are focused on scaling AI and capturing enterprise-wide impact?",
+      "answer": "64 percent of respondents to a recent C-suite survey stated they are focused on scaling AI and capturing impact across the enterprise."
+    },
+    {
+      "question": "What was the estimated optimization of network capital for a North American telco that used AI for customer experience insights?",
+      "answer": "A North American telco used AI to harness granular insights on customer experiences on its network, which helped it optimize network capital by about 10 percent."
+    },
+    {
+      "question": "What increase in average revenue per user (ARPU) did a European telco achieve by using gen AI for hyper-personalization?",
+      "answer": "A leading European telco used gen AI to accelerate its hyper-personalization efforts for upselling, achieving a 5 to 15 percent increase in average revenue per user (ARPU), depending on customer segment."
+    },
+    {
+      "question": "What was the impact of an AI-driven help desk bot on cost per call and customer resolution rate for a telco?",
+      "answer": "Another telco deployed an AI-driven help desk bot that led to a 35 percent reduction in cost per call and a 60 percent higher customer resolution rate."
+    },
+    {
+      "question": "What is the target improvement in EBITDA for telcos focused on scaling AI?",
+      "answer": "Telcos focused on scaling AI are aiming for a 10 to 15 percent improvement in EBITDA."
+    },
+    {
+      "question": "What percentage of C-level executives consider AI a \"blockbuster technology that will transform the industry\"?",
+      "answer": "Some 61 percent of C-level executives say they consider AI to be a \u201cblockbuster technology that will transform the industry.\u201d"
+    },
+    {
+      "question": "What emerging AI technology has the potential to supercharge the promises of gen AI?",
+      "answer": "The introduction of AI agents (or agentic AI) is a key driver of transformation with the potential to supercharge the promises of gen AI."
+    },
+    {
+      "question": "What percentage of executives identify scaling agentic use cases across functions as a priority for 2025?",
+      "answer": "Nearly 42 percent of executives identify scaling agentic use cases across functions as a priority for 2025."
+    },
+    {
+      "question": "In which area are the majority of executives aiming to use AI agents by 2025?",
+      "answer": "About 75 percent of executives aim to use AI agents in customer service by 2025."
+    },
+    {
+      "question": "What is required for the design of AI agents to effectively address business problems?",
+      "answer": "The design of agents will need to be driven by close collaboration between subject-matter experts and gen AI practitioners to clearly define the business problems, reasoning, and tasks that can be offloaded to AI agents."
+    },
+    {
+      "question": "What are the fundamental requirements for scaling and realizing impact from AI agents?",
+      "answer": "The fundamentals for scaling and realizing impact from AI agents remain largely the same as scaling more \u201ctraditional\u201d AI."
+    },
+    {
+      "question": "What kind of collaboration is needed for agent design?",
+      "answer": "The design of agents will need to be driven by close collaboration between subject-matter experts and gen AI practitioners."
+    },
+    {
+      "question": "What is the purpose of collaboration between subject-matter experts and gen AI practitioners in agent design?",
+      "answer": "The purpose is to clearly define the business problems, reasoning, and tasks that can be offloaded to AI agents."
+    },
+    {
+      "question": "How can agentic AI support existing workflows?",
+      "answer": "Agentic AI will support the automation of existing workflows that are driven by humans, such as the creation of a summary after a customer interaction."
+    },
+    {
+      "question": "What new workflows can agentic AI enable?",
+      "answer": "The technology can also be the basis for new workflows and processes, which could include an AI agent capable of reading prior call transcripts, identifying potential opportunities to upsell, and automatically alerting an outbound call center team."
+    },
+    {
+      "question": "What is the potential benefit of combining AI agents with traditional tools like RPA in telcos?",
+      "answer": "Combined with more traditional tools like robotic process automation (RPA), AI agents could unlock a significantly higher level of automation within telcos."
+    },
+    {
+      "question": "What percentage of executives in the survey are using or planning to use AI agents for workflow automation?",
+      "answer": "In our survey, 52 percent of executives say they are using or planning to use AI agents to improve existing workflow automation efforts."
+    }
+  ]
+}

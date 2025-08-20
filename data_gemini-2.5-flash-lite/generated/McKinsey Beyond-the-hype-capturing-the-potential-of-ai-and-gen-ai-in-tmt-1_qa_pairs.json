@@ -1,0 +1,105 @@
+{
+  "summary": "This document explores the significant economic potential of generative AI (gen AI) within the Technology, Media, and Telecommunications (TMT) sector, estimating billions in annual impact. It highlights the need for TMT leaders to move beyond pilot stages and develop strategies for AI-native transformation to remain competitive. The report emphasizes that successful gen AI adoption requires a focus on technology, data, governance, and talent, while also acknowledging the challenges and risks involved. Ultimately, it aims to provide guidance on preparing for and implementing gen AI, particularly within telecommunications, to capture its transformative benefits.",
+  "qa_pairs": [
+    {
+      "question": "What is the estimated annual economic impact of generative AI on the global economy?",
+      "answer": "McKinsey research estimates that gen AI could add to the economy between $2.6 trillion and $4.4 trillion annually."
+    },
+    {
+      "question": "What is the projected impact of generative AI on the Technology, Media, and Telecommunications (TMT) space?",
+      "answer": "In the TMT space, new gen AI use cases are expected to unleash between $380 billion and $690 billion in impact."
+    },
+    {
+      "question": "What is the estimated impact of generative AI specifically within the telecommunications sector?",
+      "answer": "The impact in telecommunications is estimated to be between $60 billion and $100 billion."
+    },
+    {
+      "question": "What is the estimated impact of generative AI within the media sector?",
+      "answer": "The impact in media is estimated to be between $80 billion and $130 billion."
+    },
+    {
+      "question": "What is the estimated impact of generative AI within the high tech sector?",
+      "answer": "The impact in high tech is estimated to be about $240 billion to $460 billion."
+    },
+    {
+      "question": "What is the potential timeframe for non-AI connected things to be considered obsolete or ineffective?",
+      "answer": "It seems possible that within the next three years, anything not connected to AI will be considered obsolete or ineffective."
+    },
+    {
+      "question": "What is McKinsey's approach to ensuring generative AI delivers meaningful value?",
+      "answer": "McKinsey has conducted extensive research into how to embed gen AI and has worked with clients to create and implement gen AI road maps."
+    },
+    {
+      "question": "How many generative AI use cases have been identified by McKinsey in TMT across seven business domains?",
+      "answer": "McKinsey has identified more than 100 gen AI use cases in TMT across seven business domains."
+    },
+    {
+      "question": "What has McKinsey done to understand how generative AI can deliver meaningful value?",
+      "answer": "McKinsey has conducted extensive research into how to embed gen AI and has spent the past year working with clients to create and implement gen AI road maps."
+    },
+    {
+      "question": "How many gen AI use cases has McKinsey identified in TMT across seven business domains?",
+      "answer": "McKinsey has identified more than 100 gen AI use cases in TMT across seven business domains."
+    },
+    {
+      "question": "Which functions in telcos are expected to see the largest share of total impact from gen AI?",
+      "answer": "The largest share of total impact from gen AI in telcos will likely be in customer care and sales."
+    },
+    {
+      "question": "What percentage of total impact is customer care and sales expected to account for in telcos?",
+      "answer": "Customer care and sales together would account for approximately 70 percent of total impact in telcos."
+    },
+    {
+      "question": "What is the potential revenue increase from enhancing employee-customer interactions with gen AI?",
+      "answer": "Enhancing interactions between employees and customers with gen AI can spark a potential revenue increase of 3 to 5 percent."
+    },
+    {
+      "question": "What is the potential productivity increase in customer care interactions through gen AI automation?",
+      "answer": "Customer care interactions have potential for a 30 to 45 percent increase in productivity where as much as 50 percent of activity could be automated."
+    },
+    {
+      "question": "What percentage of repetitive work activities could be automated via gen AI to improve productivity?",
+      "answer": "Up to 70 percent of repetitive work activities could be automated via gen AI to improve productivity."
+    },
+    {
+      "question": "What percentage of activity has the potential for automation in knowledge search, validation, and synthesis using gen AI?",
+      "answer": "Some 60 percent of activity in knowledge search, validation, and synthesis has the potential for automation."
+    },
+    {
+      "question": "By what percentage could gen AI tools boost developer productivity?",
+      "answer": "Gen AI tools could boost developer productivity by 20 to 45 percent."
+    },
+    {
+      "question": "What are the key components for becoming an AI-native organization at scale?",
+      "answer": "Becoming an AI-native organization at scale involves making the most of technology, data, and governance."
+    },
+    {
+      "question": "What kind of operating model is recommended for success with gen AI?",
+      "answer": "Success follows when leaders embrace an operating model that leverages the strengths of both humans and machines, is rooted in agility, flexibility, and continuous learning, and is supported by strong data and analytics talent."
+    },
+    {
+      "question": "What is another condition of success for gen AI implementation besides the operating model?",
+      "answer": "Another condition of success is to invest in data quality and quantity, focusing on the data life cycle to ensure high-quality information for training the gen AI model."
+    },
+    {
+      "question": "What capabilities should be built into the data architecture to enable gen AI use case development?",
+      "answer": "Building capabilities into the data architecture, such as vector databases and data pre- and post-processing pipelines, will enable the development of use cases."
+    },
+    {
+      "question": "What do successful gen AI implementations share?",
+      "answer": "Successful implementations share a clear vision and decisive approach."
+    },
+    {
+      "question": "What is McKinsey's advice regarding gen AI budgets over the next year?",
+      "answer": "McKinsey advises that financial plans maintain or increase gen AI budgets over the next year."
+    },
+    {
+      "question": "What should gen AI budgets include for shaping bespoke solutions?",
+      "answer": "These budgets should include resources dedicated to gen AI for the shaping and crafting of bespoke solutions, such as training large language models with telco-specific data, rather than implementing off-the-shelf ones."
+    },
+    {
+      "question": "What are the key areas mentioned that benefit from marketing and digital transformation?",
+      "answer": "Marketing and digital, sales and channels, customer care, customer strategy, support, additional areas, and new businesses."
+    }
+  ]
+}

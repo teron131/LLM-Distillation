@@ -1,0 +1,469 @@
+{
+  "summary": "This McKinsey Digital Practice article emphasizes that strategic alliances are crucial for companies to unlock the full value of generative AI (gen AI). Unlike traditional vendor relationships, successful gen AI partnerships require deeper collaboration, trust, and transparency. Companies should focus on cocreating solutions, engaging in joint planning with providers, and ensuring scalability, interoperability, and reusability of gen AI offerings. Ultimately, maintaining control over one's destiny by balancing provider capabilities with internal investment is key to navigating the complexities and rapid evolution of gen AI.",
+  "qa_pairs": [
+    {
+      "question": "What is the estimated annual economic impact of generative AI?",
+      "answer": "Generative AI promises to propel up to $4.4 trillion in economic impact annually.",
+      "rating": 9
+    },
+    {
+      "question": "Why are strategic alliances vital for companies working with generative AI?",
+      "answer": "Collaborations are increasingly vital due to the lack of experience many have with gen AI, its instability and risk, and the technology's rapid pace of change.",
+      "rating": 10
+    },
+    {
+      "question": "What are the three key areas companies should focus on to make the most of strategic alliances for gen AI?",
+      "answer": "Companies should focus on going deeper on collaboration, zeroing in on providers who offer scalability, interoperability, and reusability, and staying in control of their destiny.",
+      "rating": 10
+    },
+    {
+      "question": "How does working with gen AI providers differ from traditional vendor arrangements?",
+      "answer": "Effective strategic gen AI alliances work differently from traditional vendor relationships, requiring a greater degree of trust, thoughtful transparency, frequent communications, and explicit alignment across planning, development, and ongoing management.",
+      "rating": 10
+    },
+    {
+      "question": "What is a key consideration when selecting gen AI providers regarding their solutions?",
+      "answer": "It is important to consider how well providers' solutions will work with other components in a company's gen AI ecosystem, looking for scalability, interoperability, and reusability.",
+      "rating": 10
+    },
+    {
+      "question": "What is recommended to maintain control when working with gen AI providers?",
+      "answer": "It is important to strike a balance between building on a provider\u2019s capabilities and becoming overly dependent on them by investing in flexible infrastructure, monitoring provider performance, and tying compensation to outcomes while clarifying intellectual property boundaries.",
+      "rating": 10
+    },
+    {
+      "question": "What are the potential drawbacks of building gen AI capabilities entirely in-house?",
+      "answer": "Building solutions entirely in-house can be time-consuming and resource-intensive, especially given the lack of gen AI talent at most companies.",
+      "rating": 10
+    },
+    {
+      "question": "What are the limitations of buying existing gen AI products or services?",
+      "answer": "While buying existing gen AI products or services can provide quick access to proven solutions, these solutions often require experienced gen AI workers to customize them to what the business really needs.",
+      "rating": 10
+    },
+    {
+      "question": "What is an example of a situation where trust is crucial in a strategic gen AI alliance?",
+      "answer": "Sharing data to fine-tune models can happen only if client companies trust strategic allies to protect it effectively.",
+      "rating": 10
+    },
+    {
+      "question": "What is necessary to address root cause issues in gen AI models?",
+      "answer": "Addressing root cause issues in AI models necessitates both clear lines of communication and alignment on how solutions will work with other components in a company\u2019s gen AI ecosystem.",
+      "rating": 9
+    },
+    {
+      "question": "What are the challenges in implementing AI technology that necessitate closer collaboration and higher degrees of trust?",
+      "answer": "The technology is still rapidly maturing, implementation is complex, and stability issues bedevil solutions, requiring closer collaboration and higher degrees of trust.",
+      "rating": 10
+    },
+    {
+      "question": "Why is sharing data to fine-tune models only possible with trust between client companies and strategic allies?",
+      "answer": "Sharing data to fine-tune models, for example, can happen only if client companies trust strategic allies to protect it effectively.",
+      "rating": 10
+    },
+    {
+      "question": "What is required to address root cause issues in AI models, given their complexity and potential instability?",
+      "answer": "The complexity of addressing root cause issues in AI models, many of which are not yet fully stable, necessitates both clear lines of communication and alignment on resolution protocols.",
+      "rating": 10
+    },
+    {
+      "question": "How do companies typically gain the greatest value from generative AI?",
+      "answer": "For most companies, the greatest value from gen AI will come from adopting established capabilities, which providers offer, and tailoring these capabilities to companies\u2019 unique data.",
+      "rating": 10
+    },
+    {
+      "question": "What does the cocreation of solutions with gen AI providers require?",
+      "answer": "This requires a highly iterative and collaborative process where the company and provider work closely together to source and prepare the right data, engineer relevant prompts, fine-tune models based on specific use case needs, and test and iterate on the models in the field.",
+      "rating": 10
+    },
+    {
+      "question": "What is important to institute to manage the range of providers a company might need to work with in cocreation?",
+      "answer": "To manage the range of providers a company might need to work with, it will be important to institute frequent touchpoints to share updates, discuss challenges, and align on priorities across providers.",
+      "rating": 10
+    },
+    {
+      "question": "What activities are critical for building trust during the cocreation process with gen AI providers?",
+      "answer": "Dedicating time for in-person workshops and co-innovation sessions, celebrating milestones, and sharing learnings openly during this process is also critical for building trust.",
+      "rating": 10
+    },
+    {
+      "question": "What information did a luxury retail company share with a gen AI provider to create a personalized product recommendation system?",
+      "answer": "The company shared its vast catalog of product information, including detailed specifications, features, and customer reviews. The company also provided valuable insights into the nuances of customer preferences and behaviors, such as how they pose queries.",
+      "rating": 10
+    },
+    {
+      "question": "How did the collaboration between the luxury retail company and the gen AI provider impact the resulting model's accuracy?",
+      "answer": "This collaboration was instrumental in allowing the resulting model to surface the most appropriate products, even for complex or ambiguous queries, with over 99 percent accuracy.",
+      "rating": 10
+    },
+    {
+      "question": "What is the potential improvement in conversion rate from product discovery to purchase indicated by early results of the luxury retail company's gen AI solution?",
+      "answer": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase, a significant leap for the luxury industry.",
+      "rating": 10
+    },
+    {
+      "question": "What visibility should a gen AI provider offer to a client company for joint planning?",
+      "answer": "It is essential for the gen AI provider to offer visibility into its product road map, including upcoming features and capabilities, and possibly grant access to alpha or beta releases.",
+      "rating": 10
+    },
+    {
+      "question": "How can a client company benefit from a provider's product road map visibility?",
+      "answer": "This allows the client company both to anticipate how the provider\u2019s offerings might evolve to meet the company\u2019s own future needs and to possibly influence the direction of the road map.",
+      "rating": 10
+    },
+    {
+      "question": "How can a company help a gen AI provider align its product road map?",
+      "answer": "The road map can also be aligned when the company shares its strategic goals and relevant customer insights to help the provider better understand the company\u2019s needs.",
+      "rating": 10
+    },
+    {
+      "question": "What is the potential improvement in conversion rate from product discovery to purchase indicated by early results?",
+      "answer": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated annual economic impact of generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generative AI promises to propel up to $4.4 trillion in economic impact annually."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are strategic alliances vital for companies working with generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Collaborations are increasingly vital due to the lack of experience many have with gen AI, its instability and risk, and the technology's rapid pace of change."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three key areas companies should focus on to make the most of strategic alliances for gen AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies should focus on going deeper on collaboration, zeroing in on providers who offer scalability, interoperability, and reusability, and staying in control of their destiny."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does working with gen AI providers differ from traditional vendor arrangements?"
+      },
+      {
+        "role": "assistant",
+        "content": "Effective strategic gen AI alliances work differently from traditional vendor relationships, requiring a greater degree of trust, thoughtful transparency, frequent communications, and explicit alignment across planning, development, and ongoing management."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key consideration when selecting gen AI providers regarding their solutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is important to consider how well providers' solutions will work with other components in a company's gen AI ecosystem, looking for scalability, interoperability, and reusability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is recommended to maintain control when working with gen AI providers?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is important to strike a balance between building on a provider\u2019s capabilities and becoming overly dependent on them by investing in flexible infrastructure, monitoring provider performance, and tying compensation to outcomes while clarifying intellectual property boundaries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the potential drawbacks of building gen AI capabilities entirely in-house?"
+      },
+      {
+        "role": "assistant",
+        "content": "Building solutions entirely in-house can be time-consuming and resource-intensive, especially given the lack of gen AI talent at most companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the limitations of buying existing gen AI products or services?"
+      },
+      {
+        "role": "assistant",
+        "content": "While buying existing gen AI products or services can provide quick access to proven solutions, these solutions often require experienced gen AI workers to customize them to what the business really needs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a situation where trust is crucial in a strategic gen AI alliance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sharing data to fine-tune models can happen only if client companies trust strategic allies to protect it effectively."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is necessary to address root cause issues in gen AI models?"
+      },
+      {
+        "role": "assistant",
+        "content": "Addressing root cause issues in AI models necessitates both clear lines of communication and alignment on how solutions will work with other components in a company\u2019s gen AI ecosystem."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the challenges in implementing AI technology that necessitate closer collaboration and higher degrees of trust?"
+      },
+      {
+        "role": "assistant",
+        "content": "The technology is still rapidly maturing, implementation is complex, and stability issues bedevil solutions, requiring closer collaboration and higher degrees of trust."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is sharing data to fine-tune models only possible with trust between client companies and strategic allies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sharing data to fine-tune models, for example, can happen only if client companies trust strategic allies to protect it effectively."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to address root cause issues in AI models, given their complexity and potential instability?"
+      },
+      {
+        "role": "assistant",
+        "content": "The complexity of addressing root cause issues in AI models, many of which are not yet fully stable, necessitates both clear lines of communication and alignment on resolution protocols."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do companies typically gain the greatest value from generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "For most companies, the greatest value from gen AI will come from adopting established capabilities, which providers offer, and tailoring these capabilities to companies\u2019 unique data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the cocreation of solutions with gen AI providers require?"
+      },
+      {
+        "role": "assistant",
+        "content": "This requires a highly iterative and collaborative process where the company and provider work closely together to source and prepare the right data, engineer relevant prompts, fine-tune models based on specific use case needs, and test and iterate on the models in the field."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is important to institute to manage the range of providers a company might need to work with in cocreation?"
+      },
+      {
+        "role": "assistant",
+        "content": "To manage the range of providers a company might need to work with, it will be important to institute frequent touchpoints to share updates, discuss challenges, and align on priorities across providers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What activities are critical for building trust during the cocreation process with gen AI providers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dedicating time for in-person workshops and co-innovation sessions, celebrating milestones, and sharing learnings openly during this process is also critical for building trust."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What information did a luxury retail company share with a gen AI provider to create a personalized product recommendation system?"
+      },
+      {
+        "role": "assistant",
+        "content": "The company shared its vast catalog of product information, including detailed specifications, features, and customer reviews. The company also provided valuable insights into the nuances of customer preferences and behaviors, such as how they pose queries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the collaboration between the luxury retail company and the gen AI provider impact the resulting model's accuracy?"
+      },
+      {
+        "role": "assistant",
+        "content": "This collaboration was instrumental in allowing the resulting model to surface the most appropriate products, even for complex or ambiguous queries, with over 99 percent accuracy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential improvement in conversion rate from product discovery to purchase indicated by early results of the luxury retail company's gen AI solution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase, a significant leap for the luxury industry."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What visibility should a gen AI provider offer to a client company for joint planning?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is essential for the gen AI provider to offer visibility into its product road map, including upcoming features and capabilities, and possibly grant access to alpha or beta releases."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a client company benefit from a provider's product road map visibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "This allows the client company both to anticipate how the provider\u2019s offerings might evolve to meet the company\u2019s own future needs and to possibly influence the direction of the road map."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a company help a gen AI provider align its product road map?"
+      },
+      {
+        "role": "assistant",
+        "content": "The road map can also be aligned when the company shares its strategic goals and relevant customer insights to help the provider better understand the company\u2019s needs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential improvement in conversion rate from product discovery to purchase indicated by early results?"
+      },
+      {
+        "role": "assistant",
+        "content": "Early results indicate the solution could yield a 10 to 20 percent improvement in the conversion rate from product discovery to purchase."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 9.8
+  }
+}

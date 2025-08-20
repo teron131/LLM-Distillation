@@ -1,0 +1,105 @@
+{
+  "summary": "This report, \"Superagency in the Workplace,\" argues that Artificial Intelligence (AI) has the potential to be as transformative as the steam engine, ushering in a new era of productivity. Despite widespread investment, only 1% of companies believe they have reached AI maturity. The primary barrier to scaling AI is not employee readiness, as employees are eager to adopt and utilize AI, but rather leadership's slow pace in steering its implementation. The report emphasizes that leaders must embrace bolder ambitions and strategically integrate AI to empower employees and drive significant business outcomes, or risk falling behind.",
+  "qa_pairs": [
+    {
+      "question": "What is the primary barrier to scaling AI adoption in companies, according to the research?",
+      "answer": "The biggest barrier to scaling AI adoption is not employees, who are ready, but leaders who are not steering fast enough."
+    },
+    {
+      "question": "How is artificial intelligence compared to past technological advancements in the text?",
+      "answer": "Artificial intelligence has the potential to be as transformative as the steam engine was to the 19th-century Industrial Revolution."
+    },
+    {
+      "question": "What is the estimated long-term AI opportunity in terms of added productivity growth potential from corporate use cases?",
+      "answer": "McKinsey research sizes the long-term AI opportunity at $4.4 trillion in added productivity growth potential from corporate use cases."
+    },
+    {
+      "question": "What percentage of companies plan to increase their AI investments over the next three years?",
+      "answer": "Over the next three years, 92 percent of companies plan to increase their AI investments."
+    },
+    {
+      "question": "What percentage of company leaders believe their companies are mature in AI deployment?",
+      "answer": "Only 1 percent of leaders call their companies 'mature' on the deployment spectrum."
+    },
+    {
+      "question": "According to the report, what is the risk for business leaders regarding AI adoption?",
+      "answer": "The risk for business leaders is not thinking too big, but rather too small when it comes to AI."
+    },
+    {
+      "question": "How many times more likely are employees to be using generative AI for a significant portion of their work than their leaders imagine?",
+      "answer": "3 times more employees are using gen AI for a third or more of their work than their leaders imagine."
+    },
+    {
+      "question": "What percentage of employees believe generative AI will change a substantial portion of their work within two years?",
+      "answer": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work."
+    },
+    {
+      "question": "Which age group is more likely to report extensive familiarity with generative AI tools and expect workflows to change within a year?",
+      "answer": "Millennials are 1.4x more likely to report extensive familiarity with gen AI tools than peers in other age groups; they are also 1.2x more likely to expect workflows to change within a year."
+    },
+    {
+      "question": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?",
+      "answer": "47% of the C-suite say their companies are developing gen AI tools too slowly."
+    },
+    {
+      "question": "How long ago did 69% of companies start investing more in generative AI?",
+      "answer": "69% of companies started investing more than a year ago."
+    },
+    {
+      "question": "Which companies have attained trillion-dollar market capitalizations?",
+      "answer": "Companies including Alphabet, Amazon, Apple, Meta, and Microsoft have attained trillion-dollar market capitalizations."
+    },
+    {
+      "question": "What is the current state of AI compared to the internet many years ago?",
+      "answer": "AI now is like the internet many years ago."
+    },
+    {
+      "question": "What is the primary risk for business leaders regarding AI?",
+      "answer": "The risk for business leaders is not thinking too big, but rather too small."
+    },
+    {
+      "question": "How many more employees are using generative AI for a third or more of their work than their leaders imagine?",
+      "answer": "3x more employees are using gen AI for a third or more of their work than their leaders imagine."
+    },
+    {
+      "question": "What percentage of all employees believe that within 2 years generative AI will change 30% or more of their work?",
+      "answer": "More than 70% of all employees believe that within 2 years gen AI will change 30% or more of their work."
+    },
+    {
+      "question": "Which age group is more likely to report extensive familiarity with generative AI tools?",
+      "answer": "Millennials are more likely than peers in other age groups to report extensive familiarity with gen AI tools."
+    },
+    {
+      "question": "What percentage of the C-suite believes their companies are developing generative AI tools too slowly?",
+      "answer": "47% of the C-suite say their companies are developing gen AI tools too slowly."
+    },
+    {
+      "question": "What percentage of companies plan to invest more in generative AI over the next 3 years?",
+      "answer": "92% of companies plan to invest more in gen AI over the next 3 years."
+    },
+    {
+      "question": "What percentage of companies believe their generative AI investments have reached maturity?",
+      "answer": "1% believe their investments have reached maturity."
+    },
+    {
+      "question": "What is the most important factor for generative AI adoption according to employees?",
+      "answer": "Employees rank training as the most important factor for gen AI adoption."
+    },
+    {
+      "question": "What is the biggest barrier to success for AI adoption according to the report?",
+      "answer": "The biggest barrier to success is leadership."
+    },
+    {
+      "question": "How much more likely are employees to believe that AI will replace 30 percent of their work in the next year compared to what leaders realize?",
+      "answer": "Employees are three times more likely than leaders realize to believe that AI will replace 30 percent of their work in the next year."
+    },
+    {
+      "question": "What percentage of the workplace is apprehensive about AI and will need additional support?",
+      "answer": "A large minority (41 percent) are more apprehensive and will need additional support."
+    },
+    {
+      "question": "What are the top concerns regarding AI deployment for employees?",
+      "answer": "Trust and safety are top concerns."
+    }
+  ]
+}

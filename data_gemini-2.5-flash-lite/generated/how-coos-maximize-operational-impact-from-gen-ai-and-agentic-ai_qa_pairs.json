@@ -1,0 +1,105 @@
+{
+  "summary": "This document discusses how Chief Operating Officers (COOs) can maximize the impact of generative AI (gen AI) and agentic AI within their organizations. It highlights that while gen AI promises significant productivity gains, many companies struggle to realize its full potential due to fragmentation and slow adoption. The COO's role is crucial in bridging this gap by defining the right operating structure, establishing robust data governance, and leading effective change management initiatives. By focusing on these three areas, COOs can ensure that AI investments translate into tangible business value and reshape how work is done across the enterprise.",
+  "qa_pairs": [
+    {
+      "question": "What are the key components COOs need to define to maximize the impact of AI investments?",
+      "answer": "COOs can help their companies make the most of their AI investments by defining the right operating structure, data governance model, and change management approach."
+    },
+    {
+      "question": "What is the primary promise of generative AI?",
+      "answer": "The primary promise of generative AI is to be better, faster, easier, and cheaper."
+    },
+    {
+      "question": "What are some early applications of generative AI in operations mentioned in the text?",
+      "answer": "Early adopters are using generative AI to help strengthen supplier negotiations in procurement and improve quality control in equipment maintenance."
+    },
+    {
+      "question": "What is the estimated long-term productivity growth potential of generative AI?",
+      "answer": "McKinsey estimates that over the long term, generative AI could yield $4.4 trillion in productivity growth potential."
+    },
+    {
+      "question": "How does generative AI differ from traditional or analytical AI?",
+      "answer": "Generative AI's deep learning AI models are already helping companies achieve performance breakthroughs across the operations value chain, especially by finding new opportunities to break internal silos, while traditional or analytical AI relies on structured data to solve discrete analytic tasks."
+    },
+    {
+      "question": "What benefits did a European automotive supplier achieve by using generative AI in R&D?",
+      "answer": "The efforts across new-code generation, quality assurance, and documentation yielded a time savings of 20 to 30 percent while improving code quality."
+    },
+    {
+      "question": "How did a global heavy-industry manufacturer improve equipment maintenance with generative AI?",
+      "answer": "A global heavy-industry manufacturer developed a generative AI-based \u201ctechnician maintenance copilot\u201d that reduced maintenance workload by 40 percent while increasing overall equipment effectiveness (OEE) by 3 percent."
+    },
+    {
+      "question": "What was the outcome of a multinational resources company using generative AI models to review contracts?",
+      "answer": "The effort revealed more than $15 million in quick-win savings, such as through improved compliance with payment terms."
+    },
+    {
+      "question": "How could generative AI agents be used on future production lines during shift turnovers?",
+      "answer": "A generative AI-based agent could aggregate the prior shift\u2019s performance, identify ongoing problems and their resolution status, and develop remediation plans for the supervisor to review."
+    },
+    {
+      "question": "What are the authors of the article credited with?",
+      "answer": "The article is by Curt Mueller, Darryl Piasecki, Marie El Hoyek, and Oana Cheta."
+    },
+    {
+      "question": "What tasks can a gen-AI-based agent perform for an incoming shift supervisor?",
+      "answer": "A gen-AI-based agent could aggregate the prior shift\u2019s performance, identify ongoing problems and their resolution status, and develop remediation plans for the supervisor to review."
+    },
+    {
+      "question": "What percentage of US C-suite executives surveyed by McKinsey reported that gen AI increased their company\u2019s revenue by more than 5 percent?",
+      "answer": "In a recent McKinsey survey of 118 US C-suite executives, only 19 percent said that gen AI increased their company\u2019s revenue by more than 5 percent."
+    },
+    {
+      "question": "What percentage of organizations worldwide reported deriving more than 10 percent of EBIT from gen AI in mid-2024?",
+      "answer": "In mid-2024, just 17 percent of organizations worldwide said that they derive more than 10 percent of EBIT from gen AI."
+    },
+    {
+      "question": "According to a survey of senior executives, what percentage described their organization\u2019s development and release of gen AI tools as too slow?",
+      "answer": "About half of senior executives in that survey describe their organization\u2019s development and release of gen AI tools as too slow."
+    },
+    {
+      "question": "What percentage of organizations have been able to find revenue-generating use cases for gen AI?",
+      "answer": "Only 12 percent of these organizations have been able to find revenue-generating use cases for gen AI."
+    },
+    {
+      "question": "What percentage of executives believe their organization has reached gen AI maturity, fundamentally changing how work gets done?",
+      "answer": "A mere 1 percent of executives say their organization has reached that point."
+    },
+    {
+      "question": "In what three ways can a COO help build enterprise capabilities for gen AI-based rewiring?",
+      "answer": "First, they can define the company\u2019s operating structure for gen AI, identifying the highest-potential domains for gen AI deployment and building the capabilities needed to scale the technology effectively across the enterprise. Second, they can shape the organization\u2019s data governance, addressing the complex challenges associated with extracting and structuring data from legacy operating systems and minimizing risks associated with inaccuracy. Third, they can oversee change management initiatives so that people learn, use, and improve the tools and processes gen AI enables."
+    },
+    {
+      "question": "What is a common pitfall of gen AI development that a European equipment maker wanted to avoid?",
+      "answer": "A common pitfall of gen AI development is fragmentation, where individual functions and business units design gen AI tools that optimize their own tasks but fail at the enterprise level."
+    },
+    {
+      "question": "What did the COO of a European equipment maker recognize was needed to face the future of operations with gen AI?",
+      "answer": "The company\u2019s COO recognized that they needed to rethink the entire operating model to see how this new automation could transform people\u2019s work, not just have a list of potential gen AI use cases."
+    },
+    {
+      "question": "What is a common pitfall in gen AI development that companies aim to avoid?",
+      "answer": "A common pitfall in gen AI development that companies aim to avoid is fragmentation in development, where individual functions and business units design gen AI tools that optimize their own tasks but fail at the enterprise level."
+    },
+    {
+      "question": "What did the COO of the European equipment maker recognize was needed to face the future of operations?",
+      "answer": "The COO recognized that to face the future of operations, he and his team needed to rethink the entire operating model to see how new automation could transform people\u2019s work, rather than just having a list of potential gen AI use cases."
+    },
+    {
+      "question": "Why is the operating structure particularly important for gen AI transformation?",
+      "answer": "The operating structure is particularly important for gen AI transformation because gen AI touches virtually every part of a business organization, and an effective structure helps identify high-potential enterprise-level opportunities and see them through to fruition."
+    },
+    {
+      "question": "Which roles were brought together by the European equipment manufacturer for a gen AI-prompted reassessment?",
+      "answer": "The European equipment manufacturer brought together the COO, CIO, chief technology officer (CTO), heads of manufacturing, procurement, supply chain, and quality control, along with business unit leads responsible for marketing and sales."
+    },
+    {
+      "question": "What approach did the European equipment manufacturer's leaders recognize as essential for sustaining gen AI capabilities?",
+      "answer": "The European equipment manufacturer's leaders recognized that a centralized approach, particularly a center of excellence (COE) or 'factory' model, would be essential for sustaining foundational capabilities in fields like platform architecture and risk and ethics."
+    },
+    {
+      "question": "What is the most practical option for gen AI exploration at the very earliest stages, according to the text?",
+      "answer": "At the very earliest stages of gen AI exploration, the most practical option is often a centralized COE that directs gen AI strategy, reports directly to the CEO, and operates in parallel to business units, enforcing enterprise-wide standards and minimizing duplication and resource waste."
+    }
+  ]
+}

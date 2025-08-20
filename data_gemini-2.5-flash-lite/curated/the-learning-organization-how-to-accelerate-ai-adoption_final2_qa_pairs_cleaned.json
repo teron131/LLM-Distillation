@@ -1,0 +1,488 @@
+{
+  "summary": "This document discusses how organizations can accelerate the adoption of generative AI, noting that front-line employees often embrace new technologies faster than management. It highlights the widening gap between AI's potential and its implementation, emphasizing the need for organizations to adapt quickly to remain competitive. The article proposes four key mindsets and practices to achieve this, focusing on nurturing existing innovation, creating incentives for adoption, and fostering rapid learning through structured experimentation.",
+  "qa_pairs": [
+    {
+      "question": "According to a 2024 McKinsey Global Survey, what percentage of employees used gen AI for their work?",
+      "answer": "A 2024 McKinsey Global Survey found that nine in ten employees used gen AI for their work.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of employees in the 2024 McKinsey Global Survey identified their organization as an early adopter of AI tools?",
+      "answer": "Only 13 percent of surveyed employees considered their organization to be an early adopter.",
+      "rating": 10
+    },
+    {
+      "question": "What is the primary observation regarding the adoption of new technology by front-line employees versus managers?",
+      "answer": "Front lines often embrace new tech much faster than managers do.",
+      "rating": 8
+    },
+    {
+      "question": "What is the concept described as a 'gardener's mindset' in the context of organizational leadership?",
+      "answer": "A 'gardener's mindset' is about nurturing the growth that you see, focusing on identifying employees, teams, or departments that are experimenting with new technologies and showing promising early results.",
+      "rating": 10
+    },
+    {
+      "question": "What is the 'carpenter's mindset' as described in the text, and why is it less effective for current technological change?",
+      "answer": "The 'carpenter's mindset' favors meticulously planning every detail of technological transformation from the top down, which can't keep pace with the current rate of change and can lead to building yesterday's solutions for tomorrow's problems.",
+      "rating": 10
+    },
+    {
+      "question": "Who are typically considered 'AI natives' in the context of the text?",
+      "answer": "AI natives are typically younger employees who are already using gen AI tools.",
+      "rating": 9
+    },
+    {
+      "question": "What is the key difference highlighted this time regarding technological transitions like gen AI?",
+      "answer": "The differences this time are the speed and scale of change, with the time between gen AI capabilities being a competitive advantage and becoming a competitive necessity being dramatically shorter.",
+      "rating": 10
+    },
+    {
+      "question": "What is the 'carpenter's mindset' in the context of technological transformation?",
+      "answer": "The 'carpenter's mindset' involves meticulously planning every detail of technological transformation from the top down.",
+      "rating": 9
+    },
+    {
+      "question": "Why can the 'carpenter's mindset' be ineffective for technological transformation?",
+      "answer": "This approach can't keep pace with the current rate of change, and leaders trying to precisely specify AI implementation often end up building yesterday's solutions for tomorrow's problems.",
+      "rating": 10
+    },
+    {
+      "question": "What is an example of informal AI adoption in an Asian financial-services company?",
+      "answer": "Teams at an Asian financial-services company informally used AI to streamline application development, creating a common data layer that automated data labeling and cut AI application development times in half.",
+      "rating": 10
+    },
+    {
+      "question": "What is the 'gardener's mindset' for fostering innovation?",
+      "answer": "Applying a gardener's mindset requires leaders to spend more time observing patterns and less time creating rigid plans, accepting that transformative ideas often emerge from unexpected places.",
+      "rating": 10
+    },
+    {
+      "question": "Why are managers and senior practitioners often resistant to change when adopting new technologies?",
+      "answer": "They are often resistant due to rational self-interest: they are busy, their current methods work reasonably well, and the learning curve for new technologies can feel daunting.",
+      "rating": 10
+    },
+    {
+      "question": "What type of rewards are most effective for encouraging AI adoption?",
+      "answer": "The most effective rewards focus on learning rather than just usage, such as rewarding employees for demonstrating new competencies, sharing insights, and helping others navigate the learning curve.",
+      "rating": 10
+    },
+    {
+      "question": "How can social recognition help reduce psychological barriers to learning new technologies?",
+      "answer": "When respected team leaders share their learning journeys and acknowledge they are still learning, it reduces psychological barriers for everyone else.",
+      "rating": 10
+    },
+    {
+      "question": "What are some incentives offered by organizations that run innovation competitions?",
+      "answer": "Teams that advance in innovation competitions may receive increased resources, expert support, and leadership exposure.",
+      "rating": 9
+    },
+    {
+      "question": "What are 'innovation rituals' and how do they benefit an organization?",
+      "answer": "Innovation rituals, such as regular innovation days where teams explore interests and uncover ideas not yet road-mapped, can yield unexpected discoveries that lead to reprioritizing projects.",
+      "rating": 10
+    },
+    {
+      "question": "What is the significance of the time between gen AI capabilities becoming a competitive advantage and a necessity?",
+      "answer": "The time between gen AI capabilities being a competitive advantage and becoming a competitive necessity is dramatically shorter than in earlier technological transitions.",
+      "rating": 10
+    },
+    {
+      "question": "What is one way companies foster rapid learning for innovation?",
+      "answer": "Successful organizations experiment better by borrowing principles from A/B testing and applying them to organizational innovation.",
+      "rating": 9
+    },
+    {
+      "question": "What kind of goals should teams start with when experimenting for innovation?",
+      "answer": "Teams should start with specific, testable predictions rather than vague goals.",
+      "rating": 9
+    },
+    {
+      "question": "How should better experiments be designed in organizations?",
+      "answer": "Better experiments are designed to fail fast and document approaches that didn\u2019t work, and they span functions.",
+      "rating": 10
+    },
+    {
+      "question": "What is an example of an assumption-led approach to product launch mentioned in the text?",
+      "answer": "An agricultural biotech company used an assumption-led approach to identify the best path to launch a new product and shortened the time to launch by 30 percent.",
+      "rating": 10
+    },
+    {
+      "question": "What is the goal of small sample experiments in organizations?",
+      "answer": "The goal of small sample experiments is rapid iteration, not statistical significance.",
+      "rating": 10
+    },
+    {
+      "question": "What is the most critical question to ask about an experiment, whether it succeeds or fails?",
+      "answer": "The most critical question is not 'What happened?' but 'Why did it happen?'",
+      "rating": 10
+    },
+    {
+      "question": "How did Amazon's Prime Video initially underperform, and what did they do to address it?",
+      "answer": "Prime Video initially underperformed because customers didn't see stand-alone value; Amazon responded by bundling it into the Prime membership and investing in original content.",
+      "rating": 10
+    },
+    {
+      "question": "What is a common pitfall for business leaders when trying to encourage innovation?",
+      "answer": "Business leaders often fall into the trap of celebrating everything equally, which can cause truly breakthrough ideas to get lost.",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to a 2024 McKinsey Global Survey, what percentage of employees used gen AI for their work?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 2024 McKinsey Global Survey found that nine in ten employees used gen AI for their work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees in the 2024 McKinsey Global Survey identified their organization as an early adopter of AI tools?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only 13 percent of surveyed employees considered their organization to be an early adopter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary observation regarding the adoption of new technology by front-line employees versus managers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Front lines often embrace new tech much faster than managers do."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the concept described as a 'gardener's mindset' in the context of organizational leadership?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 'gardener's mindset' is about nurturing the growth that you see, focusing on identifying employees, teams, or departments that are experimenting with new technologies and showing promising early results."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'carpenter's mindset' as described in the text, and why is it less effective for current technological change?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'carpenter's mindset' favors meticulously planning every detail of technological transformation from the top down, which can't keep pace with the current rate of change and can lead to building yesterday's solutions for tomorrow's problems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are typically considered 'AI natives' in the context of the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI natives are typically younger employees who are already using gen AI tools."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key difference highlighted this time regarding technological transitions like gen AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "The differences this time are the speed and scale of change, with the time between gen AI capabilities being a competitive advantage and becoming a competitive necessity being dramatically shorter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'carpenter's mindset' in the context of technological transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'carpenter's mindset' involves meticulously planning every detail of technological transformation from the top down."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why can the 'carpenter's mindset' be ineffective for technological transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "This approach can't keep pace with the current rate of change, and leaders trying to precisely specify AI implementation often end up building yesterday's solutions for tomorrow's problems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of informal AI adoption in an Asian financial-services company?"
+      },
+      {
+        "role": "assistant",
+        "content": "Teams at an Asian financial-services company informally used AI to streamline application development, creating a common data layer that automated data labeling and cut AI application development times in half."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'gardener's mindset' for fostering innovation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Applying a gardener's mindset requires leaders to spend more time observing patterns and less time creating rigid plans, accepting that transformative ideas often emerge from unexpected places."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are managers and senior practitioners often resistant to change when adopting new technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are often resistant due to rational self-interest: they are busy, their current methods work reasonably well, and the learning curve for new technologies can feel daunting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of rewards are most effective for encouraging AI adoption?"
+      },
+      {
+        "role": "assistant",
+        "content": "The most effective rewards focus on learning rather than just usage, such as rewarding employees for demonstrating new competencies, sharing insights, and helping others navigate the learning curve."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can social recognition help reduce psychological barriers to learning new technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "When respected team leaders share their learning journeys and acknowledge they are still learning, it reduces psychological barriers for everyone else."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some incentives offered by organizations that run innovation competitions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Teams that advance in innovation competitions may receive increased resources, expert support, and leadership exposure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are 'innovation rituals' and how do they benefit an organization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Innovation rituals, such as regular innovation days where teams explore interests and uncover ideas not yet road-mapped, can yield unexpected discoveries that lead to reprioritizing projects."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of the time between gen AI capabilities becoming a competitive advantage and a necessity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The time between gen AI capabilities being a competitive advantage and becoming a competitive necessity is dramatically shorter than in earlier technological transitions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way companies foster rapid learning for innovation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Successful organizations experiment better by borrowing principles from A/B testing and applying them to organizational innovation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of goals should teams start with when experimenting for innovation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Teams should start with specific, testable predictions rather than vague goals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should better experiments be designed in organizations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Better experiments are designed to fail fast and document approaches that didn\u2019t work, and they span functions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of an assumption-led approach to product launch mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "An agricultural biotech company used an assumption-led approach to identify the best path to launch a new product and shortened the time to launch by 30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of small sample experiments in organizations?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal of small sample experiments is rapid iteration, not statistical significance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the most critical question to ask about an experiment, whether it succeeds or fails?"
+      },
+      {
+        "role": "assistant",
+        "content": "The most critical question is not 'What happened?' but 'Why did it happen?'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Amazon's Prime Video initially underperform, and what did they do to address it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prime Video initially underperformed because customers didn't see stand-alone value; Amazon responded by bundling it into the Prime membership and investing in original content."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common pitfall for business leaders when trying to encourage innovation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Business leaders often fall into the trap of celebrating everything equally, which can cause truly breakthrough ideas to get lost."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 25,
+    "retention_rate": 1.0,
+    "avg_score": 9.7
+  }
+}

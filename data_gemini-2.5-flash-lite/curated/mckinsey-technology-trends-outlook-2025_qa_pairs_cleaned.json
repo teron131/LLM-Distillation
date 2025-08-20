@@ -1,0 +1,469 @@
+{
+  "summary": "This document, \"Technology Trends Outlook 2025,\" highlights 13 frontier technology trends with the potential to transform global business. Artificial intelligence is identified as a foundational amplifier, impacting and accelerating progress across other domains. The report also introduces \"agentic AI,\" which enables autonomous workflows, and \"application-specific semiconductors\" driven by the increasing demand for AI computing power. These trends, along with others like advanced connectivity, immersive reality, and bioengineering, are analyzed for their potential impact, use cases, and talent requirements, offering guidance to business leaders navigating a complex and rapidly evolving technological landscape.",
+  "qa_pairs": [
+    {
+      "question": "What is the title of the report?",
+      "answer": "The title of the report is \"Technology Trends Outlook 2025\".",
+      "rating": 9
+    },
+    {
+      "question": "In what month and year was this report published?",
+      "answer": "This report was published in July 2025.",
+      "rating": 9
+    },
+    {
+      "question": "What edition is this technology trends report?",
+      "answer": "This is the fifth edition of the technology trends report.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the authors of this report?",
+      "answer": "The authors of this report are Lareina Yee, Michael Chui, Roger Roberts, and Sven Smit.",
+      "rating": 9
+    },
+    {
+      "question": "What is the copyright holder of this publication?",
+      "answer": "The copyright holder of this publication is McKinsey & Company.",
+      "rating": 9
+    },
+    {
+      "question": "How many frontier technology trends are discussed in this year's McKinsey Technology Trends Outlook?",
+      "answer": "This year's McKinsey Technology Trends Outlook provides in-depth perspectives on 13 frontier technology trends.",
+      "rating": 9
+    },
+    {
+      "question": "What is the primary role of Artificial Intelligence in the context of the other trends discussed in the report?",
+      "answer": "Artificial intelligence stands out as a foundational amplifier of the other trends.",
+      "rating": 9
+    },
+    {
+      "question": "What is the mission of the McKinsey Global Institute (MGI)?",
+      "answer": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders.",
+      "rating": 9
+    },
+    {
+      "question": "When was the McKinsey Global Institute (MGI) established?",
+      "answer": "MGI was established in 1990.",
+      "rating": 9
+    },
+    {
+      "question": "What are the key areas highlighted in the report about frontier technologies?",
+      "answer": "The report highlights technology breakthroughs, talent trends, use cases, and their potential impact on companies across sectors.",
+      "rating": 9
+    },
+    {
+      "question": "What are executives mandated to do in navigating the current global technology landscape?",
+      "answer": "Executives today face a mandate to navigate rising complexity, scale emerging solutions, and build trust in a world where the lines between digital and physical and centralized and decentralized continue to blur.",
+      "rating": 9
+    },
+    {
+      "question": "What kind of insights does the report offer to business leaders?",
+      "answer": "The report offers insights that can help business leaders decide which frontier technologies are most relevant to their companies by demonstrating how others are starting to apply them today.",
+      "rating": 9
+    },
+    {
+      "question": "What quantitative measures were analyzed to derive the findings in the report?",
+      "answer": "The findings emerge from analysis of quantitative measures of interest, innovation, equity investment, and talent that underpin each of the 13 trends.",
+      "rating": 9
+    },
+    {
+      "question": "How does AI accelerate progress in other domains according to the report?",
+      "answer": "AI accelerates progress within individual domains and unlocks new possibilities at the intersections, such as accelerating the training of robots and advancing scientific discoveries in bioengineering.",
+      "rating": 9
+    },
+    {
+      "question": "Which practice within McKinsey works with MGI on this report?",
+      "answer": "McKinsey\u2019s Technology, Media & Telecommunications Practice, QuantumBlack, AI by McKinsey; and McKinsey Technology work with MGI on this report.",
+      "rating": 9
+    },
+    {
+      "question": "When was MGI established?",
+      "answer": "MGI was established in 1990.",
+      "rating": 9
+    },
+    {
+      "question": "What is MGI's mission?",
+      "answer": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders.",
+      "rating": 9
+    },
+    {
+      "question": "How is MGI funded?",
+      "answer": "MGI is entirely funded by the partners of McKinsey.",
+      "rating": 9
+    },
+    {
+      "question": "How does MGI share its results?",
+      "answer": "MGI shares its results publicly free of charge.",
+      "rating": 9
+    },
+    {
+      "question": "What is agentic AI?",
+      "answer": "Agentic AI combines the flexibility and generality of AI foundation models with the ability to act in the world by creating \u201cvirtual coworkers\u201d that can autonomously plan and execute multistep workflows.",
+      "rating": 9
+    },
+    {
+      "question": "What is needed to realize AI's full potential across sectors?",
+      "answer": "Realizing AI\u2019s full potential across sectors will require continued innovations to manage computing intensity, reduce deployment costs, and drive infrastructure investment, as well as thoughtful approaches to safety, governance, and workforce adaptation.",
+      "rating": 9
+    },
+    {
+      "question": "What is driving innovations in semiconductors?",
+      "answer": "Innovations in semiconductors have spiked in response to exponentially higher demands for computing capacity, memory, and networking for AI training and inference, as well as a need to manage cost, heat, and electric power consumption.",
+      "rating": 9
+    },
+    {
+      "question": "What is the profile of AI as a technology trend?",
+      "answer": "AI is a widely applicable, general-purpose technology with use cases in every industry and business function\u2014and thus lots of innovation and interest\u2014and it is scaling rapidly across the business landscape.",
+      "rating": 9
+    },
+    {
+      "question": "What are the potential impacts of quantum computing?",
+      "answer": "Quantum computing has the potential for transformative impact in certain critical domains, such as cryptography and material science.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The title of the report is \"Technology Trends Outlook 2025\"."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what month and year was this report published?"
+      },
+      {
+        "role": "assistant",
+        "content": "This report was published in July 2025."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What edition is this technology trends report?"
+      },
+      {
+        "role": "assistant",
+        "content": "This is the fifth edition of the technology trends report."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the authors of this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The authors of this report are Lareina Yee, Michael Chui, Roger Roberts, and Sven Smit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the copyright holder of this publication?"
+      },
+      {
+        "role": "assistant",
+        "content": "The copyright holder of this publication is McKinsey & Company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many frontier technology trends are discussed in this year's McKinsey Technology Trends Outlook?"
+      },
+      {
+        "role": "assistant",
+        "content": "This year's McKinsey Technology Trends Outlook provides in-depth perspectives on 13 frontier technology trends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary role of Artificial Intelligence in the context of the other trends discussed in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Artificial intelligence stands out as a foundational amplifier of the other trends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the mission of the McKinsey Global Institute (MGI)?"
+      },
+      {
+        "role": "assistant",
+        "content": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the McKinsey Global Institute (MGI) established?"
+      },
+      {
+        "role": "assistant",
+        "content": "MGI was established in 1990."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key areas highlighted in the report about frontier technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "The report highlights technology breakthroughs, talent trends, use cases, and their potential impact on companies across sectors."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are executives mandated to do in navigating the current global technology landscape?"
+      },
+      {
+        "role": "assistant",
+        "content": "Executives today face a mandate to navigate rising complexity, scale emerging solutions, and build trust in a world where the lines between digital and physical and centralized and decentralized continue to blur."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of insights does the report offer to business leaders?"
+      },
+      {
+        "role": "assistant",
+        "content": "The report offers insights that can help business leaders decide which frontier technologies are most relevant to their companies by demonstrating how others are starting to apply them today."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What quantitative measures were analyzed to derive the findings in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The findings emerge from analysis of quantitative measures of interest, innovation, equity investment, and talent that underpin each of the 13 trends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does AI accelerate progress in other domains according to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI accelerates progress within individual domains and unlocks new possibilities at the intersections, such as accelerating the training of robots and advancing scientific discoveries in bioengineering."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which practice within McKinsey works with MGI on this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey\u2019s Technology, Media & Telecommunications Practice, QuantumBlack, AI by McKinsey; and McKinsey Technology work with MGI on this report."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was MGI established?"
+      },
+      {
+        "role": "assistant",
+        "content": "MGI was established in 1990."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is MGI's mission?"
+      },
+      {
+        "role": "assistant",
+        "content": "MGI's mission is to provide a fact base to aid decision-making on the economic and business issues most critical to the world\u2019s companies and policy leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is MGI funded?"
+      },
+      {
+        "role": "assistant",
+        "content": "MGI is entirely funded by the partners of McKinsey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does MGI share its results?"
+      },
+      {
+        "role": "assistant",
+        "content": "MGI shares its results publicly free of charge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is agentic AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Agentic AI combines the flexibility and generality of AI foundation models with the ability to act in the world by creating \u201cvirtual coworkers\u201d that can autonomously plan and execute multistep workflows."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is needed to realize AI's full potential across sectors?"
+      },
+      {
+        "role": "assistant",
+        "content": "Realizing AI\u2019s full potential across sectors will require continued innovations to manage computing intensity, reduce deployment costs, and drive infrastructure investment, as well as thoughtful approaches to safety, governance, and workforce adaptation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is driving innovations in semiconductors?"
+      },
+      {
+        "role": "assistant",
+        "content": "Innovations in semiconductors have spiked in response to exponentially higher demands for computing capacity, memory, and networking for AI training and inference, as well as a need to manage cost, heat, and electric power consumption."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the profile of AI as a technology trend?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI is a widely applicable, general-purpose technology with use cases in every industry and business function\u2014and thus lots of innovation and interest\u2014and it is scaling rapidly across the business landscape."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the potential impacts of quantum computing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quantum computing has the potential for transformative impact in certain critical domains, such as cryptography and material science."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 25,
+    "filtered": 24,
+    "retention_rate": 0.96,
+    "avg_score": 8.9
+  }
+}
