@@ -1,0 +1,1168 @@
+Technology, Media & Telecommunications Practice
+
+Scaling the AI-native telco 
+
+With telcos aiming to integrate AI throughout their organizations, here’s 
+how they can unlock the full potential while positioning themselves for the 
+next wave of innovation.
+
+This article is a collaborative effort by Benjamim Vieira, Guilherme Cruz, Ignacio Ferrero, Joshan Cherian 
+Abraham, and Tomas Lajous, with Borja Belda and Eric Parsonnet, representing views from McKinsey’s 
+Technology, Media & Telecommunications Practice.
+
+February 2025
+
+© Getty Images
+
+Two years ago, with the introduction of 
+ChatGPT sparking a surge of optimism about the 
+transformative power of artificial intelligence in 
+business, we heralded the rise of the “AI-native” 
+telco. These would be organizations where “AI 
+is viewed as a core competency that powers 
+decision making across all departments and 
+organization layers,” where “top executives 
+serve as champions of critical AI initiatives,” and 
+where “data and AI capabilities are managed 
+as products, built for scalability and reusability.” 
+The opportunity, we argued, was threefold: AI for 
+core operations, AI as a service, and AI for the 
+consumer. And the prize for getting it right  
+was huge.
+
+with a slew of new questions: How can companies 
+prepare themselves to capitalize on the next 
+frontier of innovation, particularly regarding 
+agentic AI, a new innovation that promises more 
+seamless workflow redesign and scalability? 
+What is the best way to scale the technology 
+to generate organization-wide value? How 
+can enterprises best integrate “traditional” AI 
+and machine-learning tools with newer gen 
+AI capabilities? And how can operators drive 
+adoption and change behaviors? (Related 
+questions about how telcos can capture a bigger 
+role in the AI value chain and create new services 
+and business models are addressed in a separate 
+article.)
+
+When we published that analysis, only a few telco 
+operators had fully embraced AI as a priority 
+and adopted an AI-focused mindset designed to 
+scale the technology. Two years later, by contrast, 
+nearly all telco operators are investing in and 
+capturing benefits from the technology—and a 
+few are moving toward doing it at scale. Our most 
+recent survey of C-level executives at telcos finds 
+that about 50 percent are “currently capturing 
+impact from AI/gen AI,” compared with some 
+25 percent in our last survey a year ago. Some 
+early adopters already are reporting significant 
+results, using AI to drive significant cost 
+reductions in select functions and leveraging the 
+technology as a catalyst for growth and customer 
+experience improvements through features like 
+hyper-personalization. For example, one North 
+American telco used AI to harness granular 
+insights on customer experiences on its network—
+insights that helped it optimize network capital by 
+about 10 percent. A leading European telco used 
+gen AI to accelerate its hyper-personalization 
+efforts for upselling, achieving a 5 to 15 percent 
+increase in average revenue per user (ARPU), 
+depending on customer segment. Yet another 
+telco deployed an AI-driven help desk bot that led 
+to a 35 percent reduction in cost per call and a 60 
+percent higher customer resolution rate.
+
+These results make it clear that the question of 
+whether AI will create value has been replaced 
+
+Most telcos already are grappling with these 
+questions: 64 percent of respondents to our 
+recent C-suite survey say they are focused on 
+scaling AI and that they are working to capture 
+impact across the enterprise, aiming for a 10 to 15 
+percent improvement in EBITDA (Exhibit 1). This 
+will not be easy. But moving slowly or clinging to 
+a wait-and-see attitude is simply not an option. 
+As the recent furor surrounding DeepSeek 
+shows, the pace of innovation is accelerating 
+rapidly, which is forcing business leaders to 
+move faster as well. At the same time, rapid 
+innovation requires organizations to be smarter, 
+ensuring they build the proper data architectures, 
+risk management guardrails, and change 
+management practices. 
+
+Fortunately, we’ve learned a lot over the past two 
+years. In this article, we outline the opportunity 
+from the next frontier, highlighting the key 
+questions organizations must address and 
+sharing our learnings to date. Think of it as a 
+playbook to help telcos get the most out of AI  
+in 2025. 
+
+What is AI’s next frontier, and how 
+do we prepare for it? 
+Some 61 percent of C-level executives say they 
+consider AI to be a “blockbuster technology 
+that will transform the industry.” One of the key 
+
+2
+
+Scaling the AI-native telco
+
+Exhibit 1 
+Anticipating major cost savings, telco operators are shifting their focus to 
+Anticipating major cost savings, telco operators are shifting their focus to 
+scaling their AI/gen AI efforts.
+scaling their AI/gen AI efforts.
+
+Primary focus
+
+Estimated impact on cost savings, by function, most common response
+
+2025
+
+50+
+
+2023¹
+
+Cost savings, %
+
+2023
+
+0
+
+1–5
+
+6–20
+
+21–50
+
+Marketing and sales
+
+Network
+
+IT
+
+Customer servicing
+
+Support functions
+
+2025²
+
+34%
+
+focused on
+pilots and
+quick wins
+
+64%
+
+focused on
+scaling AI/
+gen AI
+
+1GenAI CxO Survey 2023 (n = 130).
+2GenAI CxO Survey 2025 (n = 52).
+
+McKinsey & Company
+
+drivers of that transformation is the introduction 
+of AI agents (or agentic AI), a technology with the 
+potential to supercharge the already considerable 
+promises of gen AI (Exhibit 2). 
+
+While agents remain nascent, telcos already are 
+exploring and deploying the technology, spurred 
+in part by releases from leading tech players (for 
+example, Salesforce’s Agentforce). Nearly 42 
+percent of executives identify scaling agentic use 
+cases across functions as a priority for 2025—
+notably in customer service, where about 75 
+percent of executives aim to use the technology. 
+The fundamentals for scaling and realizing impact 
+from AI agents remain largely the same as scaling 
+more “traditional” AI, as discussed later in this 
+article. In particular, the design of agents will 
+need to be driven by close collaboration between 
+subject-matter experts and gen AI practitioners to 
+
+clearly define the business problems, reasoning, 
+and tasks that can be offloaded to AI agents. 
+
+While agentic AI will support the automation of 
+existing workflows that are driven by humans, 
+such as the creation of a summary after a 
+customer interaction, the technology also can be 
+the basis for new workflows and processes, which 
+could include an AI agent capable of reading prior 
+call transcripts, identifying potential opportunities 
+to upsell, and automatically alerting an outbound 
+call center team. Combined with more traditional 
+tools like robotic process automation (RPA), AI 
+agents could unlock a significantly higher level of 
+automation within telcos. In our survey, 52 percent 
+of executives say they are using or planning to use 
+AI agents to improve existing workflow automation 
+efforts in areas including energy optimization, 
+financial planning, and software development.  
+
+Scaling the AI-native telco
+
+3
+
+Exhibit 2 
+Gen AI agents are software entities that simulate human behavior.
+Gen AI agents are software entities that simulate human behavior.
+
+Gen AI agent capabilities
+
+Perceive external
+environment
+
+Gather information through text, image, video, and audio sources, as well as input
+from upstream/downstream systems
+
+Make decisions,
+plan, and execute
+
+Create and implement action plan based on human inputs, breaking the plan into
+smaller tasks until each is executed 
+
+Use tools
+
+Autonomously utilize tools¹ (eg, RAG,² APIs, web browsing, machine learning models,
+code execution) to process data and integrate with existing systems
+
+Learn and
+improve
+
+Create feedback loop to iterate outputs then codify recipes
+
+Agents differ from co-pilots by executing tasks with minimal human input.
+In contrast, humans collaborate with a co-pilot throughout the task.
+
+1For example, through function-calling, a mechanism that enables agents to connect with external tools and systems. It involves generating an output string that 
+invokes a JSON structure, allowing for explicit calls to tools with fixed parameter.
+2Retrieval augmented generation.
+
+McKinsey & Company
+
+AI agents for telcos will likely take on a variety  
+of forms:
+
+to customers based on data usage patterns and 
+revenue goals.
+
+ — Simple reflex agents could take action based on 
+
+preset rules similar to current next-best-action 
+systems (for instance, sending a bill shock 
+notification to users who are approaching their 
+monthly data limits). 
+
+ — Utility-based agents might be able to 
+
+independently consider several options and act 
+accordingly. An AI agent for email, for example, 
+might choose whether to automatically reply to 
+an unhappy customer or to draft an email for a 
+service rep to send, depending on the tone and 
+severity of the inbound email. 
+
+ — Goal-based agents could make decisions 
+
+to achieve specific goals. For example, a 
+recommender agent might suggest upsell offers 
+
+ — Hierarchical agents could break complex tasks 
+into manageable subtasks, allowing for more 
+organized control and decision making. An 
+example could be an agent designed to create 
+financial reports, which first breaks the task into 
+research and content generation.
+
+ — Multi-agent systems could be capable of 
+
+combining multiple autonomous agents working 
+independently and/or cooperatively to achieve 
+a collective goal. The system could, for example, 
+function as a centralized employee assistant 
+capable of driving multiple network-related 
+tasks, such as answering queries, providing 
+recommendations, and auto-completing notes 
+following a site visit.
+
+4
+
+Scaling the AI-native telco
+
+For telcos that execute on the opportunity, this 
+could be a game changer. Imagine, for instance, 
+a fully realized AI-native telco in which agents 
+augment humans or autonomously execute end-
+to-end workflows. Here’s an example of what that 
+might look like in B2B sales (Exhibit 3):
+
+A sales rep turns to the agentic system with open-
+ended request: “Help me find leads to pursue 
+this week.” The system springs into action, with 
+the following steps. First, a research AI agent 
+identifies and prioritizes prospects (determining 
+which, if any, can be handled without any rep 
+intervention) and makes initial contact on behalf 
+of the rep. Second, the agent creates bespoke 
+product recommendations and pricing based on 
+prospects’ profiles, autonomously validating with 
+finance. Third, the agent schedules meetings and 
+generates pitch materials for reps, autonomously 
+negotiating lower-value deals. Fourth, the deal 
+is finalized via automated sales ops, such as 
+risk approvals, ordering, and shipping. And 
+fifth, an agent autonomously finds and develops 
+opportunities to further capitalize on the 
+relationship. This kind of automation, heretofore 
+only a fantasy, allows reps to focus on critical 
+
+client conversations, leading to higher conversion 
+rates, higher sales volumes, and lower overhead 
+costs.
+
+While the common focus with agentic systems 
+tends to be on efficiency gains, AI agents 
+offer much more potential. One telco company 
+is developing an agentic system capable of 
+handling requests related to its network—for 
+example, immediately understanding root 
+causes of network issues and proactively raising 
+potential upcoming issues. This innovation is not 
+just about reaching a solution faster; it’s about 
+achieving a better solution where the AI agent 
+acts as both a thought partner and a creator. 
+Additionally, agents can augment transformation 
+teams at telcos and support them in identifying 
+opportunities for impact. They can help drive 
+“one-off” complex and time-consuming analyses 
+(for instance, the optimization of real estate costs 
+at central offices across hundreds of locations.) 
+Agents also can support the assessment and 
+reimagining of business processes – by analyzing, 
+say, documentation on workflows and interviews 
+with subject-matter experts to recommend new, 
+streamlined processes.
+
+Exhibit 3 
+AI agents could assist across various stages of the sales journey.
+AI agents could assist across various stages of the sales journey.
+
+AI agent capabilities by stage of sales journey
+
+Achievable near-term
+
+Achievable long-term
+
+Lead identification
+and qualification
+
+Offer/pricing
+creation
+
+Meeting preparation
+
+Sales operations
+
+Relationship
+management
+
+Identify and prioritize 
+leads (eg, via web 
+search)
+
+Create bespoke prod-
+uct recommendations 
+and pricing based on 
+prospect profiles
+
+Develop pitch
+materials based on 
+previous successful 
+deals
+
+Use internal tools to 
+finalize deals (eg, 
+account creation, 
+device ordering,
+shipping)
+
+Continuously monitor 
+relationship (eg, customer 
+interactions, industry 
+trends) to identify oppor-
+tunities to grow account
+
+Automatically contact 
+and vet potential 
+customers
+
+Automatically engage 
+internal teams for 
+approval
+
+Interact with client to 
+schedule meetings 
+and handle logistics
+
+Autonomously engage 
+customer at opportune 
+time for up-sell/cross-sell
+
+McKinsey & Company
+
+Scaling the AI-native telco
+
+5
+
+Agents are not the only way AI is driving a new 
+wave of creativity and innovation. Already, we 
+are seeing telcos deploying AI not just to boost 
+efficiency but also to develop new features 
+for existing products and create entirely new 
+offerings. A Latin American telco is adding 
+a new gen-AI-enabled service for its B2B 
+customers that offers hyper-personalized 
+messaging capabilities on its B2B messaging 
+platform to enable the management of SMS, 
+email, and WhatsApp messaging; early results 
+have shown a click-through rate of more than 
+40 percent. Another operator is building a new 
+gen AI software-as-a-service (SaaS) offering 
+that enables the generation, submission, and 
+distribution of electronic tax documents. Some 
+telcos are exploring new ways to upgrade their 
+mobile and home plan offerings by bundling 
+credits for large language model (LLM) providers 
+or providing exclusive access to premium AI 
+capabilities through their partners.
+
+Other telcos are doubling down on enabling the 
+infrastructure to power AI, from connecting new 
+data centers with high-capacity links to offering 
+enterprises more intelligent networks (for example, 
+with latency-based routing and high elasticity) 
+and enabling distributed computing. One Asian 
+operator is moving beyond the connectivity 
+infrastructure and into AI as a service by providing 
+B2B customers a proprietary AI platform to 
+support machine-learning training and inferencing 
+at the edge for AI workloads. 
+
+With innovations such as these, leading-edge 
+telcos stand to become a fundamental backbone 
+of the AI economy. 
+
+What does it mean to scale AI across 
+the enterprise?
+To capitalize on these kinds of future 
+developments, telcos must successfully build 
+the capabilities to scale AI throughout their 
+organizations. We think of scaling as the ability 
+to deploy multiple interconnected AI/gen AI 
+use cases among thousands of employees or 
+
+hundreds of thousands of customers in a cost-
+effective manner.
+
+For organizations that are large and complex, this 
+is a difficult task that often proceeds in a series of 
+fits and starts, advances and setbacks. One large 
+organization, for example, deployed a use case for 
+a gen-AI-based IT developer copilot, experiencing 
+initial productivity gains of 25 percent to 40 
+percent—only to see those gains quickly fall to 
+less than 5 percent, with limited financial impact. 
+Why the drop-off? It turned out that the early 
+adopters in the pilot were more enthusiastic than 
+the rank-and-file users when the program was 
+rolled out throughout the organization. Managers 
+also cited poor communication between tech 
+developers and business teams, incomplete or 
+inconsistent data foundations, and limited change 
+management to drive adoption. Situations like this 
+are hardly unusual; commonly reported inhibitors 
+to scaling include the absence of a shared vision 
+and operating model between development and 
+business/user teams.
+
+Based on our work supporting leading telcos 
+around the globe and through conversations with 
+C-level executives, we have synthesized seven 
+key elements that organizations must get right to 
+scale impact. Think of it as a “scaling framework” 
+for success.  
+
+1. Target domains and end-to-end persona 
+workflows for transformational impact
+While individual use cases can demonstrate 
+potential and generate excitement, very rarely do 
+they drive meaningful impact. A gen AI use case 
+to automatically create personalized customer 
+messages, for example, won’t do much to 
+mitigate high levels of churn. But when a leading 
+telco combined multiple related use cases—an 
+AI-based audiencing tool, a unified churn model, 
+a real-time proactive decisioning/NBX (next best 
+action) tool, and an automated multivariate testing 
+model—into a single solution, it transformed an 
+entire end-to-end workflow. That operator now 
+boasts the least churn in its country of operation. 
+
+6
+
+Scaling the AI-native telco
+
+That organization succeeded because it took 
+a domain view, reimagining a set of critical 
+workflows and persona experiences and 
+developing a set of use cases to work in 
+conjunction to make it happen. In another 
+example, an Americas-based telco expects 
+to reap up to $100 million in productivity 
+gains from a set of AI use cases to support 
+all network operation personas across their 
+most common tasks. Targeting core KPIs like 
+overtime pay, customer experience, average 
+handling time for ticket/dispatch, and upskilling 
+time for new employees, the telco performed a 
+granular mapping of each persona’s “day in the 
+life” to ensure the tools’ required functionality 
+and capabilities. Not only is this approach 
+transforming workflows today, but the process 
+also collected valuable data and learnings to 
+inform the transition to autonomous networks in 
+the future.
+
+2. Build a scalable, modular AI platform
+Many large telcos have seen a proliferation 
+of AI teams, each running its own pilots and 
+experiments. The result: Multiple teams are 
+developing AI use cases in silos, without sharing 
+technology or best practices with one another. At 
+one telco, for instance, the customer care team 
+was developing its own knowledge management 
+use case, unaware the network operations 
+team was pursuing a project leveraging a 
+similar retrieval augmented generation (RAG) 
+architecture. But while unleashing an array of 
+unrelated use cases may be an effective way to 
+drive creativity and drive enthusiasm for AI, it may 
+not be the best way to scale the technology to 
+generate meaningful value. 
+
+Leading organizations instead are developing 
+centralized AI platforms that can serve as 
+repositories of proven and maintained AI/gen 
+AI modules, APIs, tools, and code snippets 
+that have been vetted and deemed safe for 
+consumption and use across the organization. 
+This platform approach helps drive quicker 
+implementation of successful use cases while 
+maintaining consistent guardrails and leveraging 
+proven architectures and use-case “recipes” 
+
+(Exhibit 4). What’s more, such a modular platform 
+allows for easy plug-and-play usage, meaning 
+you can be ready to leverage new innovations, 
+such as cheaper models like DeepSeek, that may 
+emerge. 
+
+By building a gen AI platform of about 50 
+reusable services, one North American telco 
+successfully reduced the time it took to build 
+new use cases from months to about two weeks 
+while ensuring that all similar use cases used 
+similar architectures and that all best practices/
+learnings were shared to a common repository. 
+Without this kind of centralized repository, 
+by contrast, use cases are slow to generate 
+business value as developers experiment on their 
+own. The siloing of efforts also has the potential 
+to introduce risk. 
+
+Two key components of an effective AI platform 
+are a machine-learning ops capability and an AI 
+financial operations capability. The first ensures 
+the organization can continually track and drive 
+improvement for AI use cases deployed to 
+production; the second ensures it can continually 
+measure and optimize the total cost of running an 
+AI solution. 
+
+3. Implement adequate data foundations
+Thirty percent of the executives we surveyed 
+cite limitations in their data as a core inhibitor 
+of impact at scale. Perhaps more important, 45 
+percent say data is the core inhibitor they foresee 
+for scaling AI agents. Scaling gen AI requires new 
+discipline in consolidating and managing data. 
+That’s because any AI/gen AI solution is only as 
+good as the data it accesses. 
+
+Especially with gen AI, the ability to manage 
+unstructured and structured data together is 
+critical, requiring operators to reconcile years 
+and even decades of contracts, annotations, 
+and technical blueprints that have previously 
+been dispersed across the organization. This is 
+especially critical in the context of B2B, wireline, 
+and network settings, which contain legacy and 
+complex business agreements and documents. 
+
+Scaling the AI-native telco
+
+7
+
+Exhibit 4a 
+One of the key breakthroughs of gen AI is its ability to rapidly analyze and draw 
+A centralized gen AI platform can enable multiple use cases via a common 
+insights from “unstructured” data, like contracts, transcripts, and surveys. 
+set of reusable elements.
+
+Multiple use cases of centralized gen AI platform, illustrative
+
+Blueprints
+Common set of gen AI “recipes”
+
+Insight-extraction use cases¹
+Targeted implementation to solve business problems
+
+Insight
+extraction
+
+Knowledge
+management
+(chat)
+
+Document
+generation
+
+…
+
+• Call center transcripts
+• Sales  contracts
+• Real estate contracts
+• Regulatory documents
+• Customer sentiment
+
+Components
+Collection of approved, maintained, and interoperable code components
+
+Data ingestion
+
+OCR² readers
+
+Unstructured data
+
+Splitters chunking
+
+Structured data
+
+LLM-based parsers
+
+Table parser
+
+Data retrieval and storage
+
+Reranking
+
+Vector store adaptors
+
+Object store adaptors
+
+Processing and generation
+
+Multi-stage retrieval
+
+Embedding
+generation
+
+Sketch-to-image
+
+Metadata-store
+adaptors
+
+Text to image
+generation
+
+Summary/
+doc generation
+
+Advanced functionality
+
+Multi agents library
+
+Tools (eg, web search)
+
+Chat
+
+Capability specific
+prompts
+
+Chat summarization
+
+Local and cloud
+LLM providers
+
+Metadata filtering
+
+RAG:³ regular
+and multimodal
+
+Prompt optimizer
+
+Evaluation
+
+Security and management
+
+Authentication
+
+Authentication
+
+Guardrails
+
+1Non-exhaustive.
+2Optical character recognition.
+3Retrieval augmented generation.
+
+McKinsey & Company
+
+8
+
+Scaling the AI-native telco
+
+Exhibit 4b 
+A centralized gen AI platform can enable multiple use cases via a common 
+Gen AI copilots draw on large volumes of data to provide real-time help to 
+set of reusable elements.
+users with sales, customer service, technical troubleshooting, and more. 
+
+Multiple use cases of centralized gen AI platform, illustrative
+
+Blueprints
+Common set of gen AI “recipes”
+
+Knowledge management (chat) use cases¹
+Targeted implementation to solve business problems
+
+Insight
+extraction
+
+Knowledge
+management
+(chat)
+
+Document
+generation
+
+…
+
+• Network tech co-pilot
+• Sales rep co-pilot
+• Customer care co-pilot
+• HR chatbot
+• Customer care chatbot
+
+Components
+Collection of approved, maintained, and interoperable code components
+
+Data ingestion
+
+OCR² readers
+
+Unstructured data
+
+Splitters chunking
+
+Structured data
+
+LLM-based parsers
+
+Table parser
+
+Data retrieval and storage
+
+Reranking
+
+Vector store adaptors
+
+Object store adaptors
+
+Processing and generation
+
+Multi-stage retrieval
+
+Embedding
+generation
+
+Sketch-to-image
+
+Metadata-store
+adaptors
+
+Text to image
+generation
+
+Summary/
+doc generation
+
+Advanced functionality
+
+Multi agents library
+
+Tools (eg, web search)
+
+Chat
+
+Capability specific
+prompts
+
+Chat summarization
+
+Local and cloud
+LLM providers
+
+Metadata filtering
+
+RAG:³ regular
+and multimodal
+
+Prompt optimizer
+
+Evaluation
+
+Security and management
+
+Authentication
+
+Authentication
+
+Guardrails
+
+1Non-exhaustive.
+2Optical character recognition.
+3Retrieval augmented generation.
+
+McKinsey & Company
+
+Scaling the AI-native telco
+
+9
+
+Exhibit 4c 
+A centralized gen AI platform can enable multiple use cases via a common 
+Gen AI tools also can help users create new documents—RFPs, customer 
+set of reusable elements.
+emails, sales-pitch materials, and the like. 
+
+Multiple use cases of centralized gen AI platform, illustrative
+
+Blueprints
+Common set of gen AI “recipes”
+
+Document generation use cases¹
+Targeted implementation to solve business problems
+
+Insight
+extraction
+
+Knowledge
+management
+(chat)
+
+Document
+generation
+
+…
+
+• Request-for-proposal response
+• Email authoring
+• Sales account planning
+• Sales pitch materials
+• Hyper-personalized marketing
+
+Components
+Collection of approved, maintained, and interoperable code components
+
+Data ingestion
+
+OCR² readers
+
+Unstructured data
+
+Splitters chunking
+
+Structured data
+
+LLM-based parsers
+
+Table parser
+
+Data retrieval and storage
+
+Reranking
+
+Vector store adaptors
+
+Object store adaptors
+
+Processing and generation
+
+Multi-stage retrieval
+
+Embedding
+generation
+
+Sketch-to-image
+
+Metadata-store
+adaptors
+
+Text to image
+generation
+
+Summary/
+doc generation
+
+Advanced functionality
+
+Multi agents library
+
+Tools (eg, web search)
+
+Chat
+
+Capability specific
+prompts
+
+Chat summarization
+
+Local and cloud
+LLM providers
+
+Metadata filtering
+
+RAG:³ regular
+and multimodal
+
+Prompt optimizer
+
+Evaluation
+
+Security and management
+
+Authentication
+
+Authentication
+
+Guardrails
+
+1Non-exhaustive.
+2Optical character recognition.
+3Retrieval augmented generation.
+
+McKinsey & Company
+
+At the same time, investing in the core foundations 
+for data remains just as important. While some 
+telcos were early movers in transforming their data 
+capabilities and developing data products and 
+digital twins of key domains like network and call 
+center, most have only started to use the impetus 
+of gen AI to transform their data infrastructures 
+into more modern hybrid lakehouse architectures 
+with structured data products that allow for 
+curated and reusable data across use cases.
+
+4. Drive adoption with best-in-class  
+change management
+Telcos are complex organizations with a large 
+number of varied roles—especially frontline roles 
+like call center reps, network technicians, and retail 
+store employees. What’s more, telco employees 
+tend to stay in their roles longer—an average of 7.5 
+years, almost double the tenure in other industries, 
+according to the US Department of Labor. An 
+unintended consequence of these factors can 
+
+10
+
+Scaling the AI-native telco
+
+be a high degree of organizational inertia when 
+it comes to embracing new tools and ways of 
+operating. In one case, a telco developed an 
+AI-based field support tool to drive efficiency, only 
+to see field techs refuse to use it. 
+
+To scale AI, it is essential for telcos to develop and 
+execute a comprehensive change management 
+strategy to ensure widespread adoption of 
+new technologies and processes across the 
+organization. At the macro level, it should start 
+at the top, with CEO-led communication on the 
+importance of reimagining the organization 
+through AI, coupled with targeted AI proficiency 
+programs to highlight the benefits and allay 
+the fears of change. At the micro level, change 
+management plans should be built into the design 
+of the AI use cases from the outset; adoption 
+should be a critical part of the development 
+life cycle, rather than being treated as an 
+afterthought. Engagement plans should be built in 
+close collaboration with frontline employees and 
+managers who will be the ultimate users of the 
+tools. With the field support tool in the previous 
+paragraph, for example, managers were able to 
+regroup and drive adoption by adding features 
+for explainability, incentivizing more tenured 
+technicians to use the tool, and encouraging 
+managers to ask about tool usage in one-to-
+one check-ins. In another example, an operator 
+launched sprints, typically consisting of two to 
+four weeks during which business and tech teams 
+met nearly daily to hash out detailed AI use cases. 
+Only through these sprints were they able to build 
+solutions that were sufficiently backed by users to 
+drive adoption.
+
+5. Develop an AI operating model and  
+talent strategy
+One of the key inhibitors to scaling AI solutions 
+is the complexity of the stakeholders involved, 
+including, for example, development teams, CIO/
+IT teams, product managers, end users, and 
+business-unit leaders. About 85 percent of 
+operators we surveyed say the primary decisions 
+about AI strategy, use case development, and 
+foundational infrastructure take place among 
+different teams. Especially pervasive has been a 
+disconnect between AI development teams and 
+
+the business unit leaders, which has resulted 
+in missed opportunities for business-backed 
+features. Another disconnect occurs between AI 
+development teams and CIO/IT teams, especially 
+when it comes to embedding AI solutions into 
+existing systems. 
+
+Overcoming such disconnects requires 
+organizations to implement a joint governance 
+cadence between technology and business teams, 
+to prioritize AI solutions and maintain alignment 
+with business goals. This is not just about setting 
+up a cross-functional gen AI center of excellence, 
+which many telcos have done. Telcos must 
+consider how to revamp their existing processes, 
+such as decision making, budget allocation, and 
+intake management, by setting up a governance 
+model that brings together all stakeholders at 
+different levels. Organizations also must invest in 
+AI-focused skills, both by hiring new employees 
+(especially data engineers, data scientists, and 
+AI product managers) and by retraining existing 
+talent across different parts of the organization.
+
+6. Establish a strong AI partnership ecosystem
+While many telco operators have relatively 
+advanced IT organizations, it is difficult to keep 
+up with the rapid pace of AI’s evolution. Yet 
+most telcos tend to consider large software 
+and tech players, including AI-focused players, 
+to be “vendors” rather than “partners.” This is 
+a missed opportunity. Telcos would be wise 
+to take a page from the software industry and 
+curate an ecosystem of trusted partners that 
+can offer support with accelerating use cases. A 
+hyperscaler partner, for example, could augment 
+a telco’s own data science and developer 
+teams, as well as help create telco-specific AI 
+capabilities. Telco-specific data, for example, has 
+not necessarily been included in the training sets 
+of some popular foundation models, which could 
+inhibit the next frontier of use cases. 
+
+To ensure adequate control over partnerships, 
+operators should avoid engaging in numerous 
+low-impact collaborations and instead link with 
+partners that can add distinctive value and 
+align with the company’s unique assets. These 
+ecosystems also can extend beyond technology 
+
+Scaling the AI-native telco
+
+11
+
+partners to include service partners, research 
+laboratories, educational institutions, and even 
+other telcos in noncompeting regions.
+
+have access to can be leveraged and monetized 
+through AI—but only if customers, employees and 
+regulators trust that the data is being used safely 
+and responsibly.  
+
+7. Manage risks and ensure regulatory adherence
+While AI can have significant impact, it is critical to 
+ensure that usage and deployment efforts account 
+for ethical and regulatory factors. Telcos must 
+seek to avoid biases in outputs—both customer 
+and employee facing—by implementing robust 
+guidelines in use cases like customer sentiment 
+analysis, employee performance assessment, and 
+hyper-personalization. While operators already face 
+significant regulatory oversight regarding the use of 
+proprietary data, telcos will need to establish clear 
+information security guardrails and a responsible AI 
+framework that builds trust in AI-driven services to 
+ensure that all AI-generated output meets quality 
+and safety standards and that there are robust 
+data governance and privacy measures to protect 
+consumer data. 
+
+This cannot be an afterthought. In fact, responsible 
+AI has the potential to unlock a huge source of 
+differentiation. The rich data sets that telcos 
+
+While the impact and value of AI are already 
+evident, it’s important to remember that we are 
+only at the beginning of the AI revolution. The 
+potential extends beyond operational efficiency to 
+re-accelerating growth and reimagining products, 
+offerings, and business models. As technology 
+evolves, operators must be prepared to evolve 
+alongside it, with the structures and practices 
+in place to meet the moment, whether they are 
+pursuing incremental improvements, such as 
+cheaper models and better performance, or 
+outright reinvention and paradigm shifting, as with 
+AI agents. It is critical for C-level executives to ask, 
+“Am I set up to truly scale AI and capture the full 
+value potential?” The rewards of doing so can be 
+immense, and the competitive pain of not doing so 
+stands to be equally large. 
+
+Benjamim Vieira is a senior partner in McKinsey’s Lisbon office; Guilherme Cruz and Joshan Cherian Abraham are 
+partners in the New York office, where Tomas Lajous is a senior partner, Borja Belda is an associate partner, and Eric 
+Parsonnet is an consultant; and Ignacio Ferrero is a partner in the Miami office.
+
+This article was edited by Larry Kanter, a senior editor in the New York office.
+
+Copyright © 2025 McKinsey & Company. All rights reserved.
+
+12
+
+Scaling the AI-native telco
+
+Scan • Download • PersonalizeFind more content like this on the McKinsey Insights App

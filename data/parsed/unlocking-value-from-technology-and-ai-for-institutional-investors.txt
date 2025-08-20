@@ -1,0 +1,378 @@
+Private Capital Practice
+
+Unlocking value from 
+technology and AI for 
+institutional investors
+
+Strategy, tools, and talent are key considerations for institutional 
+investors as they adopt and scale technology to generate alpha.
+
+This article is a collaborative effort by Bryan Petzold, Elizabeth Skovira, Frédéric Jacques, Marcos 
+Tarnowski, Piyush Sharma, and Raj Bector, with Akshat Kumar, Jérémie Guay, and Ragi Ragavan, 
+representing views from McKinsey Technology and McKinsey’s Financial Services and Private 
+Capital Practices.
+
+January 2025
+
+It is difficult to talk about investment success without mentioning technology innovation, AI, 
+and generative AI. The investment landscape has fundamentally shifted over the years—but 
+where are the world’s largest investors on this journey?
+
+Many institutional investors, be it pensions, insurers, or sovereign wealth funds around the 
+world, are struggling with how, when, and where to begin their technology transformations 
+(particularly in a budget-conscious context). As a result, they are not only falling perilously 
+behind more forward-leaning investors with whom capital ultimately competes but also failing to 
+capture the full financial benefits of such transformations.
+
+Our analysis suggests that institutional investors’ effective deployment of technology and AI 
+could generate an ROI of more than tenfold across three domains: investment returns, 
+operational efficiency, and risk management.
+
+A set of leading investors have figured out how to rewire their organizations with technological 
+capabilities—and reap these rewards. We undertook detailed analysis to better understand what 
+they are doing differently, and how the rest of the industry can adopt these best practices to 
+accelerate their tech journey and gain a performance edge.
+
+We found that leading investors start by setting long-term aspirations for their technology 
+strategy in alignment with the investment philosophy. They develop a strong technology 
+foundation using AI and cutting-edge investment platforms. Their operating model is built in a 
+way that instills close collaboration between the technology team and other functions; it also 
+ensures all major technology initiatives are done in an iterative manner to manage costs while 
+delivering value. These institutions also allocate time and resources toward building and 
+retaining technology talent as well as mitigating potential risks, such as regulatory compliance 
+and cybersecurity. And, last but not least, they prioritize change management at every step to 
+encourage widespread adoption of new technologies across the organization.
+
+The role of technology in institutional investing
+
+Institutional investors have a complex mandate of delivering superior risk-adjusted returns on 
+their portfolios, even during uncertain times. Technology can help them deliver on this mandate 
+in several critical areas:
+
+—  New alpha-generation strategies. As private markets enter a slower era of growth, 
+
+managers may need to unlock new ways to capture investment alpha (for example, investing 
+in higher-returning early-stage opportunities). They can use AI tools to parse through large 
+data sets and identify hidden market signals.
+
+Unlocking value from technology and AI for institutional investors
+
+2
+
+— Dynamic portfolio construction. Technology can help investors dynamically adjust their 
+portfolios in response to market shifts by establishing a total portfolio view, increasing 
+visibility into the fund’s exposure to risk factors and performance drivers such as 
+environmental, social, and governance (ESG); reallocating investments rapidly; and 
+managing liquidity.
+
+— Streamlined investment operations. Investors can achieve cost efficiency by reimagining 
+investment operations through technology. For example, an operations team can use 
+exception-based processing to improve delivery speed and risk management, and automate 
+manual, repeatable tasks so that it can focus on more complex tasks, such as the processing 
+of investment vehicles.
+
+— Enabling disintermediated models. For institutional investors moving toward 
+
+disintermediated models such as co-invest, co-syndicate, or direct, having a robust 
+technology foundation can improve the management of potentially resource-intensive 
+activities such as fund accounting.
+
+— Risk management. Technology and AI can help institutions move to an exception-based risk 
+management model, automating repeatable checks so that risk teams can focus on the most 
+complex and critical areas. Institutions that have not invested adequately to mature their 
+technology capabilities can face increasing risks, such as growing cybersecurity 
+vulnerabilities, operational risk associated with poor data quality, and limited ability to 
+respond rapidly to market events.
+
+Many institutional investors remain behind the digital curve. We see investors using 
+spreadsheets and emails for tasks that could be automated, such as managing portfolio 
+performance and investment compliance. They tend to struggle with outdated core systems, 
+such as their investment book of record (IBOR), that slow decision-making. They may also face 
+data quality and granularity challenges, both in their current portfolio and new investments in 
+emerging asset classes such as private credit, which may not be supported by the current state 
+of private-markets technology.
+
+In our experience, these challenges are often either due to insufficient spending or investors’ 
+inability to make a clear prioritization case to their boards and stakeholders. Consider these data 
+points: In 2022, the average large institutional investor spent between 1.3 and 2.7 basis points 
+on technology and AI. In other words, an institutional investor with $150 billion in assets under 
+management had an annual technology budget of approximately $20 million to $40 million.1 
+This spend has increased by about 20 percent in absolute dollars since 2020, with an estimated 
+incremental 10 percent increase in 2023.2
+
+Some investors spend more on technology and AI: Those who spent the most—the top 25 
+percent—were spending upward of 3.5 basis points (Exhibit 1).
+
+1  CEM Investment Benchmarking, 2022.
+2 CEM Data & Systems Benchmarking, 2023.
+
+Unlocking value from technology and AI for institutional investors
+
+3
+
+Exhibit 1
+
+Higher spending is correlated with three factors: a higher percentage of assets managed in-
+house, a higher percentage of assets allocated to private assets, and a greater number of staff 
+focused on risk management.
+
+A new approach to building, deploying, and managing technology 
+and AI
+
+To make technology a priority agenda item for boards and stakeholders, institutional investors 
+may also need to reexamine their approach. Historically, there were two common approaches, 
+and both were beset by a number of challenges. Some investors adopted a more conservative 
+stance and incrementally improved (and invested in) their technology capabilities, as and when 
+required. This approach was likely to create fragmentation, growing technology debt, and 
+friction over time. In the absence of a holistic technology strategy, these investments were also 
+more likely to get funneled to maintenance. 
+
+Unlocking value from technology and AI for institutional investors
+
+4
+
+In the second approach, investors launched multiyear transformation programs with a “waterfall” 
+delivery style, for example, building new IBOR platforms and a fully-fledged data warehouse. We 
+found that these programs could lose steam over time due to increasing costs and the lack of 
+measurable impact early in the transformation.
+
+Leading institutions are taking a new and fundamentally different approach. Based on our work 
+in this area, there are six steps that leading investors have taken to rewire their organizations 
+and implement successful technology transformations.
+
+Define technology aspirations in alignment with investment objectives
+In our view, institutional investors fall into one of three archetypes regarding their technology 
+aspirations: leading-edge innovator, close follower, and minimum viable maintainer. Many 
+investors historically operated as minimum viable maintainers; since they believed technology 
+had limited potential to enhance investment outcomes, they only developed the bare minimum 
+capabilities. With time, these institutions have realized that they could not react to new 
+opportunities and market shifts as quickly as they would have liked, and also faced 
+compounding technology debt.
+
+We believe institutions would do well to change their mindsets and become close followers, if 
+not leading-edge innovators of technology and AI. To do this, they should first set long-term 
+aspirations for their technology strategy so they can put all their resources and entire 
+organization behind the vision.
+
+Strengthen the technology foundation
+Leading institutions have invested in modernizing and future-proofing their IT foundation, 
+upgrading core investment platforms, and deploying AI tools to improve data processes. They 
+have also made data a strategic asset instead of being merely a by-product of operations.
+
+Reimagine and integrate core investment platforms. Investment teams have been using IBOR 
+platforms for data management, risk, and compliance processing, among other tasks, but they 
+often encounter challenges (Exhibit 2). For instance, legacy platforms tend to struggle with 
+integrating disparate data across asset types and products. And many institutions lack a 
+supporting platform for newer asset classes such as private debt. Custom work-arounds built 
+around legacy IBOR solutions can also create friction and risk (for example, incorrectly keying in 
+a transaction amount).
+
+Leading institutions are modernizing their legacy IBOR platforms and unwinding custom work-
+arounds to simplify platform upgrades and reduce platform lock-in. They are also establishing a 
+total fund view by investing in a total fund platform or a data platform that integrates data from 
+different asset-class-focused IBORs.
+
+Unlocking value from technology and AI for institutional investors
+
+5
+
+Exhibit 2
+
+Successfully modernizing or building IBORs is often a complex task. Some institutions have 
+surpassed their budgets and timelines to modernize their technology platforms, only to get 
+limited benefits. Investors are more likely to succeed if they can reimagine their investment and 
+operations processes hand in hand with platform modernization. For example, they could design 
+an optimized private assets process from sourcing to diligence to investment finalization and 
+operations, and then appropriately tailor an IBOR platform (and potential custom applications).
+
+Use AI to create value. A variety of use cases of AI in the investment sector are well 
+documented. Leading pensions are using gen AI to rapidly synthesize internal and external 
+knowledge or distill thousands of private asset documents for more efficient investment 
+decision-making (see sidebar, “How a leading North American pension tapped into the power of 
+AI and data”). Some investors are also exploring external partnerships to advance their AI 
+capabilities.
+
+Unlocking value from technology and AI for institutional investors
+
+6
+
+.
+
+How a leading North American pension tapped into the power of 
+AI and data
+
+A North American pension developed a proprietary gen AI model that draws on aggregated internal 
+and external data to support research, thesis development, deal sourcing, and portfolio exposure 
+analytics, among other tasks. To achieve this, it invested in the underlying data platform to develop a 
+firmwide production-level environment. Then, it identified and structured the most critical sources of 
+internal and external data (for example, investment memos, proprietary research, corporate filings, 
+and analyst reports), which were aggregated into robust data assets in a cloud-based data lake. The 
+pension also modernized its approach to data management with centrally defined standards and 
+robust accountability and ownership across organizational units.
+
+The investor also did a few other things right: having a clear vision of the end goal and communicating 
+it to all relevant stakeholders, conducting training across roles and user groups for more efficient 
+adoption, and iterating with investment teams to tailor the developed use cases to their needs.
+
+Within the first 12 months of this exercise, the investor achieved rapid adoption across the company. 
+The gen AI model also helped the investor achieve meaningful performance differentiation through 
+quicker assessment of novel investment strategies and quantifying of investment risk in creative 
+ways.
+
+While 2024 saw spikes in worldwide gen AI adoption, the institutional investing industry 
+continues to lag behind its financial-services-industry peers. Based on CEM Benchmarking’s 
+recent research, less than 20 percent of participants indicated they were ready to incorporate AI 
+and other future technologies (Exhibit 2).
+
+Treat data as a strategic asset versus a byproduct of operations. Although a majority of the 
+institutions surveyed by CEM Benchmarking reported having dedicated data teams, many 
+lacked robust data governance practices and reported low satisfaction with their data strategy. 
+For example, only 18 percent said their front office teams could get timely data access without 
+manual intervention, as shown in Exhibit 2.
+
+Unlocking value from technology and AI for institutional investors
+
+7
+
+Leading institutions are taking three actions to make data a strategic asset: 1) establishing data 
+governance tools and processes (for example, for data quality, metadata) with clear 
+responsibilities and new roles such as data stewards and data owners (and, in some cases, 
+leveraging AI and gen AI to enable data governance); 2) building or maturing a data platform that 
+integrates data across sources into high-value data products and serves as a single source of 
+truth for all data consumers; and 3) optimizing procurement of third-party data to integrate new 
+sources (such as for ESG), right-size consumption, and improve commercial arrangements.
+
+Reimagine the approach to technology and AI delivery
+Once the technology foundation has been built, leading institutions build a collaborative 
+operating model and adopt an iterative test-and-learn approach for their technology initiatives 
+to manage costs.
+
+Implement a collaborative operating model. In the past, the technology team was considered a 
+support function for investment and operations teams, working behind the scenes to address 
+issues, which often led to fragmented solutions, subpar solutions, and technology debt.
+
+Investors are now recognizing the importance of aligning with and prioritizing technology 
+capabilities in service of the investment strategy and ensuring technology spend has 
+measurable outcomes and benefits. Institutions are also starting small instead of trying to 
+transform every part of the organization—by selecting one or two focus areas for conducting 
+minimal viable product (MVP) testing and training investment teams.
+
+Establish integrated delivery teams that cut across firm functions. Leading institutions are 
+developing integrated deployment teams with members from the investment, operations, and 
+technical-delivery teams. For example, some investors staff a specific team for three to six 
+months to build an MVP of an AI-powered model to improve liquidity management. The team 
+has a product owner, subject matter experts from the total fund team, a tech lead, scrum master, 
+and data engineers and scientists from the technology domain. The team would co-locate and 
+establish a series of forums (for instance, daily stand-ups, backlog planning, demos, and retros) 
+to jointly develop and refine the use case. Some investors have extended this concept further by 
+embedding technology staff, such as data scientists, within the investment teams (roughly 10 
+percent of technology staff, on average, according to CEM Benchmarking’s research3). 
+Institutions keen on this approach would do well to avoid overfragmentation in the technology 
+team to ensure central oversight and adherence to standards, architectural alignment, and risk 
+management.
+
+Create early and ongoing value with iterative deployment. Building lasting technological 
+transformation at scale often requires organizations to undertake larger and costlier initiatives 
+over multiple years. In our experience, many executives can struggle with maintaining 
+consistency in such initiatives, given cost and time considerations.
+
+3 CEM Data & Systems Benchmarking, 2023.
+
+Unlocking value from technology and AI for institutional investors
+
+8
+
+Some investors overcome these issues by breaking large initiatives into their component parts 
+and iteratively deploying them. Instead of embarking on a two-year data warehouse program 
+(when value gets generated only on the back end), for example, investors take two to three 
+months to instantiate the environment, followed by three-month bursts to build and deploy MVP 
+data products and AI use cases. They then scale in subsequent three-month bursts to mature 
+the data products and use cases and extend to new ones. This approach can build momentum 
+early in the process, allow for regular user feedback, and offset costs with value creation over 
+time.
+
+While adopting this approach, investors are expected to ensure that near-term speed doesn’t 
+come at the expense of future scalability. They can do this by making sure the iterative releases 
+adhere to a target state architecture and vision, and by tracking their technology debt.
+
+Revisit the talent model
+Many institutions struggle to attract and retain technologists who have sufficient investing 
+knowledge. To solve for this, some investors lean on outsourcing, while others temper their 
+technology aspirations to match available talent.
+
+Investors who want to build internal capabilities are elevating technology and AI roles in their 
+organization by establishing a clear value proposition, creating development pathways, and, in 
+some cases, ensuring more competitive compensation for such roles. To complement this 
+approach, they also invest in skill building for all staff, covering technical disciplines as well as 
+the essentials of investing. Several institutions are also revisiting and optimizing their sourcing 
+model: insourcing strategically differentiating roles such as data scientists and technology 
+architects; outsourcing more repeatable activities such as reporting; and forming strategic 
+partnerships (to accelerate delivery in the near term as the internal bench grows, or integrate 
+available third-party technology and AI offerings).
+
+Identify and mitigate risks
+Investors are also expected to be mindful of potential technology risks, including cybersecurity 
+breaches, data risks (for example, poor data quality leading to suboptimal decisions), operational 
+risks (such as a core platform going down and preventing trading), third-party risks (for instance, 
+an IBOR provider making a mistake in its calculations), and legal and compliance issues (for 
+example, not adhering to third-party data use agreements). Adoption of gen AI also comes with 
+its own challenges, including potential hallucinations of patterns and other biases.
+
+More forward-leaning investors are investing time and resources to identify such risks and 
+implement and ideally automate monitoring of these systems as a mitigation measure. Some 
+investors work closely with third-party platform providers, outsourced service providers, and 
+strategic partners for more robust monitoring and controls.
+
+Unlocking value from technology and AI for institutional investors
+
+9
+
+Emphasize change management to propel adoption at every step
+To capture lasting value from technology and AI, leading investors embed technology in their 
+core investment and operational processes and shift the way staff work. Getting this right isn’t 
+easy. For example, while most participants in CEM Benchmarking’s survey reported working on 
+gen AI or machine learning proofs of concept, only a few have made meaningful progress in 
+adopting these tools for daily use.
+
+Institutions that succeed in the transition (such as the North American pension in our case 
+study) think about change management before technical delivery starts (for example, by 
+understanding users’ needs and concerns and designing future-state processes explicitly to use 
+the technology). They have strong communication and backing from the leadership team. They 
+start with a clear change story and value proposition and adequately invest in training staff to 
+help propel initial adoption. And to ensure that adoption sticks, they stay close to users to 
+rapidly address any questions or issues, offer further training, and constantly seek feedback for 
+improvement.
+
+What now? Decisive actions for growth
+
+Institutional investors can take three actions to understand where they are with technology and 
+AI and chart an accelerated path forward. They can assess their current (technological) strategy 
+and participate in peer benchmarking to understand the technology and AI maturity across the 
+organization. Next, they can refresh their technology strategy; solidify future aspirations, 
+funding, and team head count; and ensure resources are aligned to the highest-value 
+investment and operational needs (for example, scaling private assets investments and 
+improving total fund management). And, last but not least, they can actively explore 
+opportunities to leapfrog progress using new capabilities. For example, instead of waiting for a 
+fully fledged data warehouse or data lake to start developing insights, investors can begin 
+extracting transaction data from core platforms (such as IBORs) and using gen AI to query it.
+
+Technology has immense value potential for institutional investors. It can enhance investment 
+returns and improve operational efficiency and risk management, among other long-term gains. 
+But to achieve these gains, investors must be willing to do the hard work of overhauling how 
+their institutions run.
+
+Bryan Petzold is a partner in McKinsey’s Bay Area office; Elizabeth Skovira is a partner in the Boston office; 
+Frédéric Jacques is a partner in the Montreal office, where Marcos Tarnowski is a senior partner and Jérémie 
+Guay is a consultant; Piyush Sharma is a partner in the New York office, where Akshat Kumar is an expert 
+associate partner; Raj Bector is a senior partner in the Washington, DC, office; and Ragi Ragavan is an associate 
+partner in the Detroit office.
+
+This article was edited by Arshiya Khullar, an editor in the Gurugram office.
+
+Copyright © 2025 McKinsey & Company. All rights reserved.
+
+Unlocking value from technology and AI for institutional investors
+
+10
+
+
