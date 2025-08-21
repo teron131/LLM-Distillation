@@ -1,5 +1,6 @@
 import os
 import subprocess
+from pathlib import Path
 
 import yaml
 from dotenv import load_dotenv
@@ -41,7 +42,12 @@ def _run_command(command: list[str], description: str):
     subprocess.run(command, check=True)
 
 
-from pathlib import Path
+def clean_input_duplicates(data_dir: Path = Path("./documents")):
+    """Cleans duplicates from the data directory."""
+    duplicate_files = [f for f in data_dir.iterdir() if f.is_file() and " (1).pdf" in f.name]
+    for file in duplicate_files:
+        print(f"Deleting duplicate file: {file.name}")
+        file.unlink()
 
 
 def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
@@ -49,6 +55,9 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
     Runs the synthetic data kit pipeline based on the start.sh script.
     The data directory will be dynamic based on the model name.
     """
+    # Clean input duplicates
+    clean_input_duplicates(Path(documents_dir))
+
     base_data_dir = Path(f"data_{model_name.split('/')[-1]}")
 
     # Step 1: Create directory structure
