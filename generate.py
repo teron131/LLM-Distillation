@@ -99,7 +99,7 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
 
     # Step 4: Save as fine-tuning format (now operates on the curated directory)
     _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "ft", "--storage", "hf", "--output", f"{base_data_dir}/final"],
+        ["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "jsonl", "--storage", "json", "--output", f"{base_data_dir}/final"],
         "Saving data in fine-tuning format...",
     )
 
