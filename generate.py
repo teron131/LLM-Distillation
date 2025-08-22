@@ -37,7 +37,7 @@ def run_pipeline(
     JUDGE_MODEL: str,
     documents_dir: str = "./documents/",
     PAIRS_PER_PAGE: int = 5,
-    CHARS_PER_PAGE: int = 2000,
+    CHARS_PER_PAGE: int = 3000,
 ):
     """
     Runs the synthetic data kit pipeline based on the start.sh script.
@@ -105,7 +105,7 @@ def run_pipeline(
 
 if __name__ == "__main__":
     PAIRS_PER_PAGE = 5
-    CHARS_PER_PAGE = 2000
+    CHARS_PER_PAGE = 3000
 
     # Get model name from config.yaml
     GENERATION_MODEL = get_GENERATION_MODEL_from_config()
