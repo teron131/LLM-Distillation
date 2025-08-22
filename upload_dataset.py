@@ -8,7 +8,7 @@ api = HfApi()
 
 # data_dir = "dataset_hf"
 # repo_id = "OrcinusOrca/YouTube-Cantonese"
-data_dir = "Llama-4-Maverick-17B-128E-Instruct-FP8"
+data_dir = "datasets"
 repo_id = "OrcinusOrca/McKinsey-reports"
 
 try:
@@ -19,16 +19,16 @@ try:
 except Exception as e:
     pass
 
-api.delete_files(
-    repo_id=repo_id,
-    repo_type="dataset",
-    delete_patterns=["*"],
-)
-# api.upload_large_folder(
-#     folder_path=data_dir,
+# api.delete_files(
 #     repo_id=repo_id,
 #     repo_type="dataset",
-#     # allow_patterns=["*", "README.md"],
+#     delete_patterns=["*"],
 # )
+api.upload_large_folder(
+    folder_path=data_dir,
+    repo_id=repo_id,
+    repo_type="dataset",
+    # allow_patterns=["*", "README.md"],
+)
 
 # huggingface-cli upload-large-folder OrcinusOrca/YouTube-Cantonese data --repo-type=dataset

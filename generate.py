@@ -1,6 +1,7 @@
 import os
 import subprocess
 from pathlib import Path
+from typing import Literal
 
 import yaml
 from dotenv import load_dotenv
@@ -34,10 +35,10 @@ def clean_input_duplicates(data_dir: Path = Path("./documents")):
 
 def run_pipeline(
     GENERATION_MODEL: str,
-    JUDGE_MODEL: str,
     documents_dir: str = "./documents/",
     PAIRS_PER_PAGE: int = 5,
     CHARS_PER_PAGE: int = 3000,
+    GENERATION_TYPE: Literal["qa", "cot", "summary"] = "qa",
 ):
     """
     Runs the synthetic data kit pipeline based on the start.sh script.
@@ -67,7 +68,7 @@ def run_pipeline(
                 f"Ingesting {doc_file.name}...",
             )
 
-            # Calculate number of QA pairs
+            # Calculate number of generations
             # Assuming ingested files are named doc_file.name.txt in parsed_output_dir
             # The synthetic-data-kit ingest command outputs .txt files for PDFs, etc.
             # Need to read the content of the parsed file to get character count
@@ -76,21 +77,21 @@ def run_pipeline(
                 with open(parsed_file_path, "r") as f:
                     content = f.read()
                 char_count = len(content)
-                num_qa_pairs = max(1, (char_count // CHARS_PER_PAGE) * PAIRS_PER_PAGE)  # At least 1 pair, 10 per 2000 chars
-                print(f"Calculated {num_qa_pairs} QA pairs for {doc_file.name} (character count: {char_count}).")
+                num_generations = max(1, (char_count // CHARS_PER_PAGE) * PAIRS_PER_PAGE)
+                print(f"Calculated {num_generations} generations for {doc_file.name} (character count: {char_count}).")
 
-                # Create QA pairs
+                # Create generations
                 generated_output_dir = base_data_dir / "generated"
                 _run_command(
-                    ["synthetic-data-kit", "-c", "config.yaml", "create", str(parsed_file_path), "--type", "qa", "--num-pairs", str(num_qa_pairs), "--output-dir", str(generated_output_dir)],
-                    f"Creating {num_qa_pairs} QA pairs for {doc_file.name}...",
+                    ["synthetic-data-kit", "-c", "config.yaml", "create", str(parsed_file_path), "--type", GENERATION_TYPE, "--num-pairs", str(num_generations), "--output-dir", str(generated_output_dir)],
+                    f"Creating {num_generations} generations for {doc_file.name}...",
                 )
             else:
-                print(f"Warning: Parsed file not found for {doc_file.name} at {parsed_file_path}. Skipping QA pair generation for this document.")
+                print(f"Warning: Parsed file not found for {doc_file.name} at {parsed_file_path}. Skipping generation for this document.")
 
     # Step 3: Curate data (now operates on the generated directory)
     _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", JUDGE_MODEL, "--output", f"{base_data_dir}/curated"],
+        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated"],
         "Curating data...",
     )
 
@@ -106,17 +107,16 @@ def run_pipeline(
 if __name__ == "__main__":
     PAIRS_PER_PAGE = 5
     CHARS_PER_PAGE = 3000
+    GENERATION_TYPE = "cot"
 
     # Get model name from config.yaml
     GENERATION_MODEL = get_GENERATION_MODEL_from_config()
-    JUDGE_MODEL = GENERATION_MODEL  # Assume judge model is the same as generation model
     print(f"Using Generation Model from config.yaml: {GENERATION_MODEL}")
-    print(f"Using Judge Model: {JUDGE_MODEL}")
 
     # Run the pipeline
     run_pipeline(
         GENERATION_MODEL,
-        JUDGE_MODEL,
         PAIRS_PER_PAGE=PAIRS_PER_PAGE,
         CHARS_PER_PAGE=CHARS_PER_PAGE,
+        GENERATION_TYPE=GENERATION_TYPE,
     )
