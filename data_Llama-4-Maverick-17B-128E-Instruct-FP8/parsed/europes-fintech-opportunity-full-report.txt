@@ -1,0 +1,1878 @@
+October 2022
+
+Europe’s fintech 
+opportunity 
+
+Europe’s fintech 
+opportunity
+
+This article is a collaborative effort by Alessio Botta,  
+Sarina Deuble, Constance Emmanuelli, Fernando Figueiredo,  
+Max Flötotto, Christian Irlbeck, André Jerenz, Timo Mauerhoefer,  
+Tunde Olanrewaju, Alessia Vassallo, Stefanie Vielmeier, and  
+Eckart Windhagen, representing views from McKinsey’s  
+Financial Services Practice.
+
+Contents
+
+Executive Summary
+
+1. Fintechs are a force for growth, modernization, and customer  
+satisfaction in Europe’s financial-services sector
+
+Fintechs are substantially improving customer satisfaction
+
+For the financial ecosystem, fintechs are a catalyst for disruptive innovation  
+and growth
+
+Fintechs contribute to economic growth and employment
+
+2. The divergent national performance of fintech ecosystems in Europe 
+points to considerable untapped potential
+
+The variations in Europe’s fintech ecosystem performance are evident  
+at all three growth stages
+
+Country-specific market conditions explain some of the differences in  
+ecosystem performance across Europe
+
+Calculating the upside: Europe’s fintech opportunity promises more jobs,  
+larger funding volumes, and higher valuations
+
+3. A focused push along six strategic areas could help all European  
+countries catch up with fintech leaders
+
+4
+
+6
+
+6
+
+7
+
+8
+
+10
+
+12
+
+17
+
+21
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary
+
+The deteriorating macroeconomic environment in Europe and around the world is hurting start-ups 
+across sectors and has hit fintechs hard, with valuations declining and access to financing becoming 
+more difficult.1 Viewed from a long-term perspective, however, European fintechs continue to gain 
+in strength and relevance for customers and the economy. In each of the seven largest European 
+economies, as measured by GDP, at least one fintech ranks among the five top banking institutions.2 
+
+While some fintechs may not survive the current environment, others will gain market share and benefit 
+from structural trends. Those able to build resilient, profitable business models with solid cash flows will 
+become more competitive in the long term.3 
+
+Strong fintechs offer customers greater choice and convenience. The competition they bring to banking 
+systems is already helping modernize the financial-sector ecosystem in several European countries. In this 
+report, we focus on three key aspects of Europe’s fintech sector: founding, funding, and scaling—that is, the 
+ability of fintechs to set up in the first place, the ease with which they can access capital, and how well they 
+can grow and thrive (see sidebar “Sources for this report”).
+
+Our analysis highlights growing fintech activity in every European country (chapter 1)—including some 
+unexpected pockets of strength in a few comparatively small economies such as Estonia, Luxembourg, and 
+Malta. At the same time, we find a wide divergence of maturity and performance among fintech ecosystems 
+by country, with substantial gaps between the top one-third and the rest (Exhibit 1). Two countries in 
+particular stand out for their superior fintech ecosystem performance: the United Kingdom and Sweden. 
+
+If fintech ecosystems in all European countries were able to attain the level of performance of the best 
+in the European region, the upside could be substantial (chapter 2). Our analysis suggests that if the 
+
+1 We define “fintech” in this article as financial-services companies driven by digital technology (excluding direct banks) that were launched after 
+2000, have raised funding since 2010, and have not yet reached maturity. For the purposes of this paper, Europe includes Switzerland and the 
+United Kingdom post-Brexit as well as the EU-27 countries. 
+2 Excluding insurance and stock exchanges; valuation of nonlisted European fintechs determined based on latest funding rounds and market 
+capitalization of the largest banks listed in the STOXX Europe 600 banks index as of June 30, 2022; for Switzerland, we used the market 
+capitalization of the largest banks listed in the SMI Expanded index as of June 30, 2022.
+3  “Fintech value creation in a changed investor climate,” McKinsey Global Banking Practice memo (available on request). 
+
+Sources for this report
+
+The insights in this report are drawn from three principal sources:
+
+ — analyses and assessments of the fintech industry based on public data on key criteria and indicators, focusing on European 
+
+countries with a comparative look at the United States
+
+ — proprietary data from surveys and databases about European fintechs
+
+ — more than 30 interviews with fintech founders and management teams, top management of established banks, leading investors, 
+
+and representatives of regulatory authorities
+
+4
+
+Europe’s fintech opportunity Exhibit 1
+
+Fintech performance is variable across Europe, with the United Kingdom, 
+Fintech performance is variable across Europe, with the United Kingdom, 
+Sweden, and northern European countries leading. 
+Sweden, and northern European countries leading. 
+
+Top third1
+
+Middle third
+
+Lower third
+
+Not considered
+
+Countries with GDP > $100 billion
+Countries with GDP < $100 billion
+
+Fintech ranking by performance
+
+United Kingdom
+
+Germany
+
+Sweden
+
+Malta
+
+Luxembourg
+
+Switzerland
+
+Estonia
+
+Ireland
+
+Netherlands
+
+Denmark
+
+Republic of 
+Cyprus
+
+Lithuania
+
+Finland
+
+Austria
+
+France
+
+Latvia
+
+Spain
+
+Belgium
+
+Portugal
+
+Italy
+
+Hungary
+
+Slovenia
+
+Czech Republic
+
+Croatia
+
+Poland
+
+Greece
+
+Bulgaria
+
+Romania
+
+Slovakia
+
+Note: KPIs considered for all EU-27 countries, United Kingdom, and Switzerland: fintechs founded per million capita, 2021; fintech funding per capita in €, 2021;
+deals per million capita, 2021; unicorns per million capita, 2021; workforce (fintech jobs) as share of total workforce in 2021. The boundaries and names shown on 
+maps do not imply official endorsement or acceptance by McKinsey & Company.
+1We have also considered the United States as an additional market for comparison (a top-third country based on our analysis).
+Source: Dealroom.co
+
+bottom two-thirds in Europe could catch up with the top third, and if the top third could catch up with 
+the United Kingdom, the number of fintech jobs in Europe would grow by a factor of 2.7 to more than 
+364,000. The potential funding would grow by a factor of about 2.3, adding about €84 billion in investments, 
+and valuations could grow by a factor of 2.3, to about €981 billion—almost twice the combined market 
+capitalization of Europe’s top ten banking players with €516 billion.4 
+
+As they look to boost fintech growth, countries across Europe and stakeholders in the fintech ecosystem 
+need to address some overarching challenges, including market maturity, access to capital, a regulatory 
+and legal framework that does more to foster innovation and growth, the mobility of talent, the requirements 
+for scaling across borders, and customer openness. Existing market prerequisites such as language or 
+currency will also be a factor in determining whether fintechs can emerge and scale. 
+
+We conclude with some of the imperatives for the fintech sector in Europe as it seeks to build on its 
+momentum and inject new competition into the financial system (chapter 3). These include the need 
+to foster the harmonization of market structures within the European Union, encourage more diverse 
+“homegrown” capital, foster regulation with an innovative mindset, become a magnet for global talent, 
+enable fintechs to thrive in target markets, and increase customer choice and access.
+
+4 McKinsey analysis; as of June 30, 2022.
+
+5
+
+Europe’s fintech opportunity 1
+
+Fintechs are a force for growth, 
+modernization, and customer 
+satisfaction in Europe’s 
+financial-services sector
+
+Europe’s fintech sector has moved quickly from the fringes of the European financial landscape to its 
+core. In each of the seven largest European economies by GDP—France, Germany, Italy, the Netherlands, 
+Spain, Switzerland, and the United Kingdom—at least one fintech now ranks among the top five banking 
+services institutions, as measured by market value.5 Germany and the Netherlands each has three in 
+its top five—and the leading banking services institution in the Netherlands also ranked as the largest 
+fintech in Europe by market valuation in mid-2022. 
+
+Underlying the significant growth of fintechs in Europe and their increasingly mainstream positions are 
+the contributions they make to customers, to the continent’s financial sector, and to the overall economy 
+and society.
+
+Fintechs are substantially improving customer satisfaction
+For customers, the growing appeal of fintechs is that they create value with superior service at lower costs. 
+
+Whereas the average customer satisfaction score (a measurement of customer loyalty and satisfaction) 
+for banking is 30 out of 100, the latest figures show that several fintechs easily outperform leading 
+international banks; one online financial-services platform in the United Kingdom achieved a very strong 
+score of 80.6 Competitive pricing for existing services is an important part of the attraction. For example, 
+international transfers and the end-customer price of stock trades transacted through fintechs can 
+cost just 10 percent of the rates charged by traditional banking services institutions.7 This is a significant 
+competitive advantage, because pricing is one of the top two reasons why customers use fintechs. A recent 
+McKinsey retail banking consumer survey in seven large European countries found that 32 percent of 
+respondents listed pricing as a main reason to use fintechs or digital banks; an equivalent number cited 
+easy access (Exhibit 2).8 Speed of service also ranks high across Europe—although there has been criticism 
+that after a generally customer-friendly onboarding process that includes straight-through processing, 
+after-sales service sometimes lags behind that of incumbent peers.
+
+Some fintechs offer financial opportunities to customers who may not have had access to them otherwise, 
+including asset classes previously available only to institutions. For example, one German fintech 
+
+5 Excluding insurance and stock exchanges; valuation of nonlisted European fintechs determined based on latest funding rounds and market 
+capitalization of the largest banks listed in the STOXX Europe 600 banks index as of June 30, 2022; for Switzerland, we used the market 
+capitalization of the largest banks listed in the SMI Expanded index as of June 30, 2022.
+6 Net Promoter Score database, CustomerGauge, 2022.
+7 Average end customer price for international transfers including 90 percent lower foreign-exchange costs at a leading UK-based payment 
+fintech than at incumbents. In Germany, the average end customer price for stock trades is 90 percent lower at a leading German neobroker 
+than at incumbents.
+8 McKinsey Retail Banking Consumer Survey 2021. The seven countries in the survey are France, Germany, Italy, the Netherlands, Portugal, 
+Spain, and the United Kingdom.
+
+6
+
+Europe’s fintech opportunity Exhibit 2
+Customers cite pricing and customer experience as their primary reasons for 
+Customers cite pricing and customer experience as their primary reasons 
+banking with fintechs.
+for banking with fintechs.
+
+Top reasons to use fintechs and digital banks1 
+What are the main reasons why you use products or services from a fintech or digital/direct bank?2
+
+Pricing
+
+Easy access
+
+Speed of service
+
+Quality of service
+
+32%
+
+32%
+
+30%
+
+22%
+
+Quality of products
+
+17%
+
+1Results from consumer survey in France, Germany, Italy, Netherlands, Portugal, Spain, and United Kingdom.
+2Within the group of respondents who answered, “I plan to keep my current exposure,” “I plan/expect to increase my exposure to fintechs,” or “I plan/expect to 
+significantly increase my exposure to fintechs.” User can select up to three reasons. Other reasons include “curiosity, wanted to try them out”; “fintechs or 
+direct/digital banks are cool”; “recommendation from someone I know”; “products not offered by banks.”
+Source: McKinsey Retail Banking Consumer Survey 2021
+
+investment platform gives retail investors the opportunity to invest in private-equity funds, venture capital 
+(VC) funds, and infrastructure funds. Other fintechs focus on customer segments previously underserved; 
+for example, a French digital bank is providing online business banking to small and medium-size 
+enterprises. Peer-to-peer lending fintechs offer private and institutional investors the possibility of investing 
+directly in private loans. Fintechs also provide access to cryptocurrencies and innovative value-adding 
+features such as “bill split,” virtual debit cards, and smart chatbots. 
+
+For the financial ecosystem, fintechs are a catalyst for disruptive innovation and growth
+Fintechs make important contributions to the financial-services ecosystem, help create new revenue pools, 
+and challenge incumbent offerings and operations. In doing so, they contribute to a more vibrant and 
+robust financial sector. 
+
+With their agility and speed, fintechs are well equipped to accommodate many new trends in the financial 
+sector, including embedded finance and “distributed ledger” technology. They launch new products 
+and services much faster than incumbent banks, with an average time to market of two to six months 
+versus 12 to 18 months for incumbents, according to our analysis. This enables them to tap into emerging 
+opportunities and markets more quickly. 
+
+The ability of fintechs to adopt and adapt technology puts them in a solid starting position to embrace 
+innovation and serve as a long-term catalyst for Europe’s prosperity. For example, one leading UK-based 
+fintech has evolved from serving as a cross-border payments product for retail customers to serving small 
+businesses. It now provides cross-border payment infrastructure to banks, financial institutions, and 
+enterprises of all sizes. 
+
+7
+
+Europe’s fintech opportunity Fintechs can serve as a bellwether  
+for incumbents, signaling which  
+innovations are successful.
+
+Fintechs also act as ongoing challengers and front-runners in providing unique customer experiences and 
+lean-banking processes. For incumbents, fintechs can serve as a bellwether, signaling which innovations are 
+successful and highlighting ways in which incumbents can become more competitive. Today, many leading 
+European banks rely on fintech partnerships across a wide range of areas, particularly in operations and 
+payments. Acquisitions also allow incumbent banks to benefit from fintech know-how. For example, a large 
+banking player in the United Kingdom is targeting new customer groups via the acquisition of a banking 
+fintech that is supporting families in educating their children on healthy savings and spending behavior.
+
+Our analysis suggests that the success of fintechs is not a result of a weak incumbent-banking market. 
+Indeed, leading banking markets can provide a fertile breeding ground for successful fintechs. At the same 
+time, strong fintech ecosystems can also be found in less developed banking markets. Thus, the structure of 
+the banking market is not to blame for a suboptimal development of the fintech ecosystem. Likewise, fintechs 
+per se do not pose a threat to the strength and health of the banking sector. 
+
+In the long run, incumbents working together with fintechs as forward-thinking business partners could 
+make the financial sector more robust and vibrant and strengthen the competitiveness of Europe’s financial 
+industry. This can be achieved through a successful interplay of the strengths of both incumbents and 
+fintechs—for example, by combining incumbents’ expertise and capabilities in credit risk assessments or 
+regulatory processes with the sharp customer focus of fintechs.
+
+Fintechs contribute to economic growth and employment
+Fintechs are an important source of potential growth for the overall economy. Across Europe, they have created 
+approximately 134,000 jobs, as well as fostering innovation and creating economic growth momentum.9 
+
+A growing fintech sector creates future-focused jobs in fields such as data science, IT and programming, and 
+design. Vibrant start-up hubs such as Amsterdam, Berlin, London, Lisbon, Madrid, and Paris also serve as 
+magnets for both domestic and international talent, further strengthening the start-up ecosystems in these 
+regions. Indeed, fintechs in Europe have scaled up their hiring significantly at a time when incumbent banks 
+in Europe have been reducing their workforces by about 3 percent, or 60,000 jobs, annually since 2019.10 
+Fintechs are starting from a rather modest base, but job growth is strong: in 2021 alone, the top ten European 
+fintechs employed more than 20,000 individuals,11 which implies growth of more than 80 percent over two 
+years since 2019. Due to a deteriorating macroeconomic environment, some fintechs have recently reduced 
+staff, but we expect the overall upward trend to continue. 
+
+9 As of June 30, 2022; Dealroom.co.
+10“EU structural finance indicators: end of 2021,” European Central Bank, June 2, 2022.
+11  Company 2021 reports for the ten largest European fintechs: Adyen, Allfunds, Blockchain.com, Checkout.com, FNZ, Llama, N26, Rapid, 
+
+Revolut, and SumUp.
+
+8
+
+Europe’s fintech opportunity As of June 2022, from a value creation perspective, fintechs in Europe represent a total valuation of almost 
+€430 billion. That is more than the combined market capitalization of Europe’s seven largest listed banks 
+as of June 30, 2022.12 The future will show whether fintechs can fulfill the expectations implied by current 
+valuations—especially given rising interest rates and therefore higher investor expectations regarding 
+profitability. Indeed, these adverse macroeconomic conditions will likely persist for some time, affecting 
+various segments unevenly, and valuations of several fintechs have already decreased in the latest funding 
+rounds. Fintech management teams, few of which have experience navigating such environments, will 
+need to pivot from a pure-growth mindset to focus on profitability and scale while meeting increased 
+expectations for operational maturity.
+
+Fintechs’ ability to attract venture capital—currently exceeding €57 billion (considering more than 700 
+European fintechs)—puts them in a position to invest heavily in growth and to create competitive advantages, 
+thereby contributing to the economy with successful business models. For example, fintechs invest substantial 
+resources in modern IT infrastructures to achieve cost advantages, ensure scalability, and foster innovation. 
+
+So far, fintechs in Europe have mainly focused on building up successful retail propositions. This leaves 
+further opportunity to disrupt the B2B financial-services market and tap into areas such as monetization 
+of bank and market data, as well as business models that embrace megatrends such as environmental, 
+social, and governance (ESG) investments. An emerging open-banking ecosystem in some countries could 
+also fuel innovation and lower barriers to new customer propositions, such as through low-cost securities 
+trading or foreign interest rate deposits. 
+
+12Dealroom fintech database, Dealroom.co.
+
+9
+
+Europe’s fintech opportunity 2
+
+The divergent national 
+performance of fintech 
+ecosystems in Europe points to 
+considerable untapped potential 
+
+Our research highlights a huge variance across European fintech ecosystems. For example, the United 
+Kingdom and Sweden significantly outperform their European peers across all critical performance areas. 
+We compare and discuss in detail these performance factors, which are common to fintech ecosystems in 
+every country, and subsequently focus on a number of country-specific market realities that help explain 
+why some places are ahead and others behind (see sidebar “Our analysis of fintech performance”).
+
+Exhibit 3 provides an overview of the performance of European fintech ecosystems based on five KPIs. 
+As well as showing that the United Kingdom and Sweden are clear leaders across all the dimensions, it 
+also highlights a second tier of countries with strong fintech sectors across most of the dimensions we 
+examine: Switzerland, Ireland, the Netherlands, and Denmark. Together with the top-ranked countries, they 
+constitute the top one-third of fintech performers in Europe. 
+
+This exercise reveals several notable findings. First, our heat map suggests that there is a correlation 
+between geography and performance. Countries in northern Europe tend to significantly outperform other 
+geographies. Central Europe and the Mediterranean countries are in the midfield, and eastern Europe has 
+a significant gap compared with the leaders. Switzerland, a leader despite its location in central Europe, is a 
+geographic outlier to this pattern.
+
+Second, based on this analysis, strong ecosystem performance does not seem to be significantly influenced 
+by market size in terms of GDP. Indeed, some of the smaller European economies in terms of GDP—
+Denmark, Ireland, and the Netherlands—significantly outperform France and Germany, two of Europe’s 
+largest economies.
+
+Third, some smaller countries show singular strengths. For example, the Republic of Cyprus ranks eighth in  
+the number of fintechs founded per million capita, Lithuania is a top-five country with a relatively high number 
+of 6.5 deals per million capita, and Austria is in the top one-third with fintech funding of €46 per capita.
+
+Taking a deeper look, our analysis suggests, unsurprisingly, that countries with stronger market 
+prerequisites—for example, stronger scores in international rankings such as the Global Entrepreneurship 
+Index and the Global Talent Competitiveness Index 2021, as well as the level of digital bank usage—are 
+also those that tend to show higher performance along the growth stages (and vice versa).13 The United 
+Kingdom, Sweden, Switzerland, Ireland, the Netherlands, and Denmark—all of which are leaders—rank in 
+the top third for these indicators. 
+
+13 See Zoltan Acs et al., Global Entrepreneurship Index 2019, Global Entrepreneurship and Development Institute, January 2020; and Bruno Lanvin 
+and Felipe Monteiro, The Global Talent Competitiveness Index 2021, INSEAD, 2021. Digital usage is based on McKinsey proprietary research.
+
+10
+
+Europe’s fintech opportunity Exhibit 3
+
+By the end of 2021, a few European countries outperformed others across  
+By the end of 2021, a few European countries outperformed others across 
+all dimensions.
+all dimensions.
+
+Ranking by relative strength for five KPIs along the three fintech growth path stages
+
+Top third
+
+Middle third
+
+Bottom third
+
+Countries with GDP > $100 billion
+
+Countries with GDP < $100 billion
+
+Filling the 
+pipeline
+
+Fintechs 
+founded
+per million 
+capita 2021
+
+Funding growth
+
+Scaling fintechs
+
+Total
+
+Fintech 
+funding
+per capita
+
+Deals
+per million 
+capita
+
+Unicorns
+per million 
+capita
+
+Workforce 
+(fintech jobs)
+as share of total 
+workforce
+
+Average 
+ranking
+
+Country
+
+United Kingdom
+Sweden
+Malta
+Luxembourg
+Switzerland
+Estonia
+Ireland
+Netherlands
+Denmark
+Germany
+Republic of Cyprus
+Lithuania
+Finland
+Austria
+France
+Latvia
+Spain
+Belgium
+Portugal
+Italy
+Hungary
+Slovenia
+Czech Republic
+Croatia
+Poland
+Greece
+Bulgaria
+Romania
+Slovakia
+
+United States
+
+Note: Data as of the end of 2021.
+Source: Dealroom.co; World Bank
+
+6
+7
+3
+1
+5
+2
+4
+11
+10
+17
+8
+14
+12
+18
+19
+13
+20
+16
+21
+26
+22
+15
+23
+25
+27
+30
+24
+29
+28
+
+9
+
+3
+2
+1
+12
+8
+6
+9
+7
+5
+11
+22
+17
+13
+10
+14
+24
+16
+19
+15
+20
+18
+23
+21
+26
+25
+28
+27
+29
+30
+
+4
+
+4
+8
+6
+2
+3
+1
+7
+14
+9
+15
+11
+5
+12
+19
+16
+13
+18
+17
+20
+22
+23
+26
+21
+25
+24
+29
+28
+27
+30
+
+10
+
+4
+2
+1
+N/A
+8
+15
+7
+5
+6
+11
+N/A
+N/A
+N/A
+9
+10
+N/A
+12
+N/A
+N/A
+13
+N/A
+N/A
+N/A
+N/A
+N/A
+14
+N/A
+N/A
+N/A
+
+3
+
+3
+2
+11
+4
+7
+8
+5
+6
+14
+9
+10
+16
+18
+15
+12
+13
+19
+17
+26
+22
+21
+N/A
+24
+20
+23
+25
+28
+28
+28
+
+1
+
+4.0
+4.2
+4.4
+4.8
+6.2
+6.4
+6.4
+8.6
+8.6
+12.6
+12.8
+13.0
+13.8
+14.2
+14.2
+15.8
+17.0
+17.3
+20.5
+20.6
+21.0
+21.3
+22.3
+24.0
+24.8
+25.2
+26.8
+28.3
+29.0
+
+5.4
+
+11
+
+Europe’s fintech opportunity Our analysis of fintech performance
+
+For the analysis of overall performance, we ranked the EU-27 countries, the United Kingdom, and Switzerland based on the 
+performance of their fintech ecosystems along the three growth stages: founding, funding, and scaling. We used five key 
+performance indicators:
+
+Stage 1: Filling the pipeline
+
+ — number of fintechs founded per million capita in 2021
+
+Stage 2: Funding growth
+
+ — fintech funding per capita in 2021 in euros
+
+ — number of deals per million capita in 2021
+
+Stage 3: Scaling fintechs
+
+ — number of fintech unicorns per capita in 20211
+
+ — size of the fintech workforce as a percentage of the total workforce in 2021
+
+To obtain an overall score, we averaged the countries’ rankings across the five KPIs and classified them as top, middle, or 
+bottom third, according to their score. We acknowledge that these KPIs do not in themselves constitute a comprehensive 
+analysis of all factors that can contribute to overall performance. Nonetheless, they are indicative of the key strengths and 
+weaknesses of fintech performance. 
+
+Some countries with a GDP of less than $100 billion performed relatively well on some of our KPIs. Since these numbers 
+may be affected by the low sample size of fintechs in these countries in the observed time frame, we acknowledge their 
+performance but do not include them in the exhibits, which focus on countries with GDP greater than $100 billion. 
+
+1 Fintech unicorns are defined here as fast-growing, technology-based companies with a valuation exceeding $1 billion (based on recent funding rounds).
+
+The variations in Europe’s fintech ecosystem performance are evident at all 
+three growth stages 
+Our analysis shows wide performance gaps in each of the three stages of founding, funding, and scaling.
+
+Filling the fintech pipeline. For this founding criterion, we used the number of fintechs in 2021 per million 
+people as the key performance metric. The analysis shows that more than half of European countries 
+have fewer than ten fintechs per million residents, creating a significant gap compared with best-in-class 
+countries; for example, Ireland and Switzerland each has 30 fintechs per million residents, and the United 
+Kingdom has 26 (Exhibit 4). On average, the top five countries (with a GDP greater than $100 billion) have 
+25 fintechs per million residents. Neither GDP nor R&D spending appears to be correlated with a “founding 
+spirit” within the countries, because there is no recognizable pattern. Nevertheless, as expected, an 
+
+12
+
+Europe’s fintech opportunity examination of the Global Entrepreneurship Index—an indicator of the entrepreneurial attitudes, abilities, 
+and aspirations of the local population as they affect the establishment of new companies—reveals that 
+countries with a higher entrepreneurial index also seem to produce more fintechs per capita.14 
+
+14 Global Entrepreneurship Index, January 2020.
+
+Exhibit 4
+The number of fintechs per capita varies widely among European countries.
+The number of fintechs per capita varies widely among European countries.
+
+Fintechs1 per million capita 2021 
+
+Population,
+millions
+
+7
+
+7
+
+7
+
+6
+
+5
+
+Ireland
+
+Switzerland
+
+United Kingdom
+
+Sweden
+
+Denmark
+
+Netherlands
+
+Finland
+
+Belgium
+
+Germany
+
+Austria
+
+France
+
+Spain
+
+Portugal
+
+Hungary
+
+Czech Republic
+
+Italy
+
+Poland
+
+Slovakia
+
+Romania
+
+4
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+Greece
+
+0
+
+United States
+
+30
+
+30
+
+26
+
+23
+
+16
+
+15
+
+15
+
+5
+
+9
+
+67
+
+10
+
+6
+
+17
+
+6
+
+12
+
+83
+
+9
+
+67
+
+47
+
+10
+
+10
+
+11
+
+60
+
+38
+
+6
+
+19
+
+11
+
+21
+
+330
+
+1Fintechs founded after 2000 that have raised at least one funding round since 2010. This reflects only countries with a GDP > $100 billion.
+Source: Dealroom.co; World Bank
+
+13
+
+Europe’s fintech opportunity Funding growth. Access to capital plays a key role in our ranking of fintech ecosystem performance. The 
+countries in Europe that perform the best have among the highest funding per capita, as do the others in 
+the top one-third of our ranking (Exhibit 5). In countries that perform less well, including Greece, Poland, 
+and Romania, per capita funding is significantly lower. While some countries have managed to increase per 
+capita funding by as much as a factor of six in the past three years, Hungary, Italy, Poland, and Portugal still 
+lag behind their peers significantly because the total volume of funding is still low.
+
+Exhibit 5
+By the end of 2021, Sweden and the United Kingdom were the leading fintech 
+By the end of 2021, Sweden and the United Kingdom were the leading 
+ecosystems for funding per capita.
+fintech ecosystems for funding per capita.
+
+Fintech1 funding per capita,
+€ millions
+
+Increase,
+2019–21
+
+170
+
+153
+
+94
+
+67
+
+50
+
+47
+
+46
+
+39
+
+31
+
+26
+
+19
+
+Sweden
+
+United Kingdom
+
+Denmark
+
+Netherlands
+
+Switzerland
+
+Ireland
+
+Austria
+
+Germany
+
+Finland
+
+France
+
+Portugal
+
+Spain
+
+Hungary
+
+Belgium
+
+Italy
+
+Czech Republic
+
+Poland
+
+Greece
+
+Romania
+
+11
+
+7
+
+5
+
+4
+
+4
+
+2
+
+1
+
+1
+
+Slovakia
+
+0
+
+United States
+
+127
+
+1Fintechs founded after 2000 that have raised at least one funding round since 2010. This reflects only countries with a GDP > $100 billion.
+Source: Dealroom.co; World Bank
+
+14
+
+2x
+
+2x
+
+5x
+
+6x
+
+2x
+
+1x
+
+110x
+
+2x
+
+3x
+
+3x
+
+9x
+
+3x
+
+6x
+
+3x
+
+9x
+
+3x
+
+6x
+
+1x
+
+5x
+
+N/A
+
+3x
+
+Europe’s fintech opportunity The growth rate in recent years of fintech funding in some countries—such as Germany, Greece, and 
+Ireland—has been lower in comparison with markets such as the Netherlands and France. This lower growth 
+rate makes it harder to launch future fintechs and more challenging for existing ones to scale. When it 
+comes to different growth stages, the United Kingdom is the top performer in both early-stage (seed and 
+series A) and late-stage (series B+) per capita funding (Exhibit 6). The United Kingdom led the European 
+market with a total volume of approximately €1.3 billion for early-stage funding and €8.3 billion for late-
+stage funding in 2021. That performance compares favorably with other countries, including the United 
+States: while US GDP is about ten times larger than that of the United Kingdom, US spending on funding is 
+only four times larger (see sidebar “How fintech in Europe compares with the United States”). By contrast, 
+several countries in Europe, particularly in eastern Europe, had very little early-stage funding in 2021 and no 
+late-stage funding at all.
+
+Exhibit 6
+The United Kingdom leads in both early- and late-stage funding.
+The United Kingdom led in both early- and late-stage funding in 2021.
+
+Early-stage (seed and series A) and late-stage (series B+) fintech¹ funding for countries with 
+highest overall fintech funding, 2021 in 1/100,000 of GDP
+
+Early-stage funding
+
+Late-stage funding
+
+330
+
+159
+
+170
+
+High early-stage and late-stage funding
+
+United Kingdom
+
+53
+
+United States
+
+Netherlands
+
+33
+
+40
+
+105
+
+High late-stage but limited early-stage funding
+
+Denmark
+
+Austria
+
+Portugal
+
+Germany
+
+5
+
+4
+
+8
+
+11
+
+103
+
+88
+
+81
+
+High early-stage but low late-stage funding
+
+Sweden
+
+Switzerland
+
+Finland
+
+38
+
+38
+
+28
+
+26
+
+50
+
+21
+
+1Fintechs founded after 2000 and raised at least one funding round since 2010. This reflects only countries with a GDP > $100 billion.
+Source: Dealroom.co; World Bank
+
+15
+
+Europe’s fintech opportunity How fintech in Europe compares with the United States
+
+Using the same three life cycle aspects of founding, funding, and scaling, a comparison between Europe and the 
+United States is instructive (exhibit). The United States exceeds the European average and is within the top third across 
+all KPIs—with particular strength when it comes to the contribution of US fintechs to the economy and the workforce. 
+
+How to explain the strength of the United States compared with the European average? Many factors could be at play 
+here that correspond to similar factors in Europe. For example, the United States has a large home market, but it also 
+has just one primary language and largely harmonized banking regulation—thus benefiting from favorable market 
+structure conditions. Market maturity is also stronger than in various European countries, with the venture capital 
+(VC) community, especially in the tech sector, perfecting funding mechanisms from earliest seed funding through to 
+IPOs. The United States has strong connections with all the other large economies and has long served as a magnet for 
+investors, making access to capital easier: US pension funds and other institutional investors provide venture capital 
+in ways that are restricted in some parts of Europe, where risk concerns tend to be larger. Nevertheless, our analysis 
+shows that some individual countries, including the United Kingdom, outperform the United States in the funding stage. 
+In addition, US companies can easily attract talent from the world’s best universities; regions such as Silicon Valley, 
+south of San Francisco, or New York City, as the US financial center, exert a strong pull on foreign talent, although 
+immigration measures have somewhat limited the flow. 
+
+Exhibit 
+
+In 2021, the United States would have ranked in the top one-third of Europe 
+In 2021, the United States would have ranked in the top one-third of Europe for 
+for all of the performance indicators we evaluated.
+all of the performance indicators we evaluated.
+
+Lowest score
+
+EU leader (GDP > $100 billion)
+
+United States
+
+Bottom third
+
+Middle third
+
+Top third
+
+Overall score¹
+(average ranking)²
+
+Fintechs founded
+per million capita, 
+2021
+
+Fintech funding
+per capita, 2021, €
+
+Deals
+per million 
+capita, 2021
+
+Unicorns
+per million 
+capita, 2021
+
+Workforce 
+(fintech jobs)
+as % of total 
+workforce, 2021
+
+29
+
+0.2
+
+0
+
+0.0
+
+0
+
+20.6
+
+20.5
+
+12.6
+
+8.8
+
+4.3
+
+5.4
+
+15.3
+
+16.5
+
+4
+
+39
+
+46
+
+0.7
+
+0.9
+
+3.7
+
+3.3
+
+United
+States
+
+21
+
+United
+States
+
+127
+
+United
+States
+
+5.4
+
+4
+
+United
+States
+
+United
+Kingdom
+
+30
+
+Ireland
+
+170
+
+Sweden
+
+6.9
+
+Switzerland
+
+0.1
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+United
+States
+
+Sweden
+
+0.00
+
+0.01
+
+0.05
+
+0.25
+
+Sweden
+
+0.35
+
+United
+States
+
+1For details on our scoring system based on parameters of founding, funding, and scaling, see Exhibits 1 and 3.
+2Ranked from worst to first.
+Source: Dealroom.co; World Bank
+
+16
+
+Europe’s fintech opportunity The limited scale of fintechs may  
+be related to the relatively low level  
+of internationalization of business 
+models, which can serve as a constraint 
+on growth.
+
+Scaling fintechs. As a proxy to judge the ability of countries in Europe to scale their fintech ecosystems, we 
+looked at the prevalence of fintech unicorns.15 Most countries with more than one unicorn show a timeline 
+between six and eight years from funding to becoming a unicorn. The United Kingdom has the best scaling 
+track record by far with 32 unicorns in total—four times as many as France and the Netherlands, the 
+countries with the next largest numbers of unicorns.
+
+In some countries, the limited scale of fintechs may be related to the relatively low level of internationalization  
+of business models, which can serve as a constraint on growth. Europe’s fintech leaders, including the 
+United Kingdom and Sweden, tend to have a global footprint. For example, the leading neobank in the 
+United Kingdom had a presence in 34 countries including the United States and three Asian markets in 
+2021. In Sweden, an open-banking platform is present in 18 countries. 
+
+Country-specific market conditions explain some of the differences in ecosystem 
+performance across Europe
+Closing the gap between leading European countries and those in the bottom or middle third of the rankings 
+requires an examination of the factors inhibiting the sector’s success. Here we focus on six factors that can 
+have an impact on the ecosystem, and for which strategic improvements can make a difference in both the 
+short and medium term. The six factors are market structure and maturity; access to capital; the regulatory 
+and legal framework; talent mobility and acquisition; requirements for scaling, including internationalization; 
+and customer openness.
+
+Market structure and maturity. These elements can depend partly on culture, language, and history. For 
+example, having a widely spoken language or a common currency and harmonized regulation can help—
+and the lack of those factors can be a hindrance. We see three main dimensions to this aspect. The first 
+is how long a fintech or broader start-up scene has been present, since markets learn and improve over 
+time. Second, mature markets can differentiate themselves by the extent to which a second generation of 
+entrepreneurial founders is emerging that can learn from the previous generation and count on them to 
+be mentors, supporters, advisers, or investors. Such networks do exist: for example, more than 15 former 
+employees of two of the largest UK fintechs are now active with their own start-ups.16 This demonstrates 
+that fintech hubs can be developed around unicorns and decacorns, with new start-ups providing 
+complementary services to them and their customers. It also shows the potential of clustering effects 
+
+15 Fintech unicorns are defined here as fast-growing, technology-based companies with a valuation exceeding $1 billion (based on recent 
+
+funding rounds).
+
+16 Isabel Woodford, “Digital bank ‘mafia’: Monzo and Revolut employees who have become founders,” Sifted, September 2, 2020.
+
+17
+
+Europe’s fintech opportunity emerging in regions such as Zurich, where prominent tech giants have headquarters or large local offices.17 
+For example, McKinsey analysis shows that the Netherlands already has a strong start-up ecosystem, with 
+a high number of start-ups per capita and a society in which starting a business is highly valued. Market 
+maturity may be one contributing factor to the Netherlands’ strong fintech landscape.18 
+
+Access to capital. Fintech funding in Europe has significantly increased over the past five years, but not 
+uniformly and with sizable funding gaps between European leaders and their peers. Looking at the various 
+funding stages, we find that less than 20 percent of all capital raised goes to early-stage financing, which 
+points to risk aversion among some European investors. More than one-third of all European countries—
+most of them in eastern Europe—did not have any late-stage funding. This unevenness threatens to dry up 
+the pipeline for early-stage fintechs because they have less access to funding than the overall investment 
+numbers might suggest. In addition, some late-stage fintechs may need to seek funding from countries 
+outside their home market. 
+
+The source of funding is as important as the recipient, and the little funding available in some of these 
+underserved markets mostly comes from abroad—as much as 81 percent in 2021.19 Significant European 
+money pools such as pension funds and life insurance policies tend not to be sufficiently tapped because of 
+more restrictive regulations compared with the United States—although here too there is some movement. 
+Pension funds in the United States are large investors in private markets with sophisticated investment 
+teams and board members who are familiar with the risks and returns of VC. Some European countries are 
+trying to build similar strengths. In Scandinavia in particular, capital accumulation institutions are already 
+taking a more active role. Sweden, for example, allows pension funds to invest up to 40.0 percent of their 
+capital in illiquid assets—compared with just 7.5 percent in Germany (excluding a 25.0 percent limit for real 
+estate investments).
+
+17A decacorn is defined in this context as a grown unicorn with a valuation greater than $10 billion.
+18“Building a world-class Dutch start-up ecosystem,” McKinsey, forthcoming. 
+19 Venture capital database, PitchBook, 2022. 
+
+A tale of two countries: Fintech lessons from France and the United Kingdom
+
+Regulators and other authorities in both France and the United Kingdom have played important roles in helping 
+develop local markets. 
+
+In France, rapid growth of unicorns
+In 2019, the French government set a goal for start-up growth in France: 25 unicorns by 2025.1 That number had been 
+exceeded by January 2022—well ahead of schedule. Behind this success story are several government initiatives that 
+support young tech companies, including fintechs, in key ways: 
+
+Process guidance. The regulatory landscape can be complex and overwhelming for fintech start-ups. To address this 
+issue, regulators in France set up a body to support fintechs and help them navigate the landscape by directing them 
+to the relevant authority. This body also convenes ecosystem players in the Fintech Regulation Forum to discuss the 
+current regulatory requirements, review the appropriateness of the measures, and initiate adjustments if necessary. 
+
+18
+
+Europe’s fintech opportunity A tale of two countries: Fintech lessons from France and the United Kingdom
+(continued)
+
+Business-creation simplification. Enacted in 2019, the Business Growth and Transformation Action Plan (Loi PACTE) 
+aims to simplify business creation for start-ups and adapt labor laws and regulations as necessary. One update has 
+made employee savings plans more attractive to prospective employees—strengthening fintechs by helping them 
+secure top talent. 
+
+Innovation enablement. Loi PACTE also ushered in a regulatory change that supports fintechs’ product offerings in the 
+cryptocurrency space. This change is related to initial coin offering regulations and creates special visas that allow the 
+issuance of digital tokens. Banque de France launched an experiment using central bank digital currency, and various 
+fintechs participated. 
+
+Building on the ambition set in 2019, the French government launched the Scale-Up Europe initiative in 2021. In 
+collaboration with the European Commission and other member states, the initiative has convened more than 300 
+founders, investors, researchers, and corporations with the goal of Europe becoming home to ten tech giants, each 
+valued at more than €100 billion, by 2030.
+
+In the United Kingdom, a focus on greater sustainability
+The United Kingdom has historically been an attractive market for fintechs in Europe and a front-runner in promoting 
+open banking. It interacts with fintechs in a relatively nonbureaucratic way. For example, it states licensing 
+requirements clearly and provides legal support to help entrepreneurs easily understand the process. To further pave 
+the way for a green and technologically advanced financial sector, the government in 2021 announced that the United 
+Kingdom will be implementing many of the recommendations made in the Kalifa review of UK fintech and the UK listing 
+review. These include the following:
+
+Policy and regulation. Plans call for the design of a digital finance package for emerging technology and 
+implementation of a “scale box” to support firms focusing on innovative technologies. The goal is to integrate fintechs 
+into trade policy.
+
+Investments. The United Kingdom will expand R&D tax credits, establish a fintech growth fund of £1 billion, and reduce 
+the percentage of capital freely available to the public to improve the listing environment.
+
+International attractiveness and competitiveness. Steps include the design of an international action plan for fintechs, 
+launch of an international fintech credential portfolio, and international collaboration through the Centre for Finance, 
+Innovation and Technology.
+
+National connectivity. The government will nurture the top ten fintech clusters; enhance the national coordination 
+strategy through the Centre for Finance, Innovation and Technology; and accelerate the development and growth of 
+fintech clusters.
+
+1 Fintech unicorns are defined here as fast-growing, technology-based companies with a valuation exceeding $1 billion (based on recent funding rounds).
+
+19
+
+Europe’s fintech opportunity The regulatory and legal landscape. Some European countries see their regulators as an important 
+facilitator of innovation. For example, in France, financial regulators are evolving to become strategic 
+partners for the financial sector, and in the Netherlands, local regulators have recognized that fintechs’ 
+products and services do not always fit with existing rules; Dutch regulators thus interpret obligations 
+for fintechs in proportion to their size and complexity. In other countries, existing regulatory frameworks 
+to support the establishment, growth, and value of fintechs have room for improvement. Regulators and 
+political actors serve as crucial enablers for the creation and protection of an innovative fintech ecosystem. 
+Mandates of relevant bodies can reflect the ambition of finding the right balance between enabling fintech 
+innovation and ensuring customer protection. While mandates define key goals and boundaries, responsible 
+actors are asked to set priorities and translate ambitions into actions (see sidebar “A tale of two countries: 
+Fintech lessons from France and the United Kingdom”).
+
+European payment service directives for data exchanges in financial industries may create new 
+opportunities for fintechs. These directives will enable fintechs to access customer data from all financial 
+players in Europe, giving rise to new business models. This has happened in the United Kingdom, a 
+pioneer in open data for finance. Other countries with advance regulation include Switzerland. The Swiss 
+Financial Market Supervisory Authority (FINMA) was among the first regulators to approve token trading on 
+distributed-ledger technology (DLT) and has since spearheaded a technology-agnostic regulation approach 
+enabling DLT and other new technologies to flourish. 
+
+But obstacles to fintech growth remain. Collaboration models with regulators are not always structured 
+optimally, especially for small fintechs. For example, these collaborations might lack a clearly defined 
+fintech–regulator interface. Overall, there is still a heavy focus on risks and control, while support for 
+innovation tends not to be considered to the same extent. As a result, standardized processes associated 
+with regulations often inhibit fintechs’ ability to move quickly in an environment in which agility is essential.
+
+Talent mobility and acquisition. Europe as a region has a major skills gap that needs to be closed, and not 
+just for fintechs.20 Along with an overall shortage of talent, visa requirements and bureaucratic processes for 
+obtaining work permits in some countries can act as a brake on talent acquisition, as can high income taxes. 
+Perceptions about the attractiveness of financial centers like London or Zurich as places to live and work 
+also play a role. While one in four graduates in Europe finishes higher education with a STEM degree, the 
+share of STEM graduates varies widely across European countries, especially in computing and information 
+technology (IT), which are critical for fintechs. Fintech ecosystems in some European countries thus rely 
+heavily on foreign talent—although attracting that talent is challenging. 
+
+Remote work has increased the competition between fintechs and other tech firms for IT talent. The 
+United Kingdom, for one, has announced a new visa scheme that allows workers in the fintech industry to 
+come to the United Kingdom without employer sponsorship. However, talent can come to the country not 
+only through attractive employers and working conditions but also through active university promotion. 
+Switzerland is home to ETH Zurich and EPFL in Lausanne, two of the highest-ranked universities in the 
+world. The high level of state support for these universities helps produce top talent and create new start-
+ups. At ETH alone, 34 start-up spin-offs were created in 2020.21 
+
+In general, European countries have great appeal. Many European cities appear year after year in the 
+rankings of the world’s most livable cities, which makes them favorable locations for fintechs. Nevertheless, 
+the downside to an area concentrated with attractive employers is an emerging competition for talent. This 
+
+20 David Chinn, Solveigh Hieronimus, Julian Kirchherr, and Julia Klier, “The future is now: Closing the skills gap in Europe’s public sector,” McKinsey, 
+
+April 27, 2020. 
+
+21 Heike Schrader, “ETH Zürich bringt rekordviele Ausgründungen hervor,” Switzerland Global Enterprise, January 6, 2021.
+
+20
+
+Europe’s fintech opportunity To scale up, fintechs in Europe  
+need to be able to expand beyond  
+their home market. 
+
+may be one reason why some fintechs have decided to build new hubs in attractive but lower-cost regions 
+such as Portugal.
+
+Requirements for scaling and internationalization. To scale up, fintechs in Europe need to be able to 
+expand beyond their home markets. Even within a single market such as the European Union, differences 
+in language, regulation, culture, and sometimes currency can create barriers. Export agencies can 
+support companies in their global ambitions with advice but are not yet equipped to meet the needs of 
+fintechs; their expertise is in more typically established trade relations based on physical goods. Fintechs 
+may therefore be tempted to limit their international growth or focus only on markets where they feel 
+comfortable because of factors such as a common language or cultural similarities. For example, one 
+large European neobank is scaling from Barcelona to Latin America by taking advantage of the shared 
+Spanish language.
+
+Customer openness. Different levels of digital maturity, the lack of broadband infrastructure, and other 
+structural challenges in some countries can limit the reach of fintechs. Customers may also have limited 
+understanding of risks, including data security. Such issues play out in favor of incumbent banks, which 
+tend to have a higher level of trust among the public than fintechs. Research from the United Kingdom 
+shows that fintechs need to offer significantly superior products that provide clear benefits or convenience 
+to customers to overcome this lack of trust. In other countries, customer protection associations or 
+governments may be pushing fintechs to provide solutions that increase customer trust. Regulatory 
+differences can be factors, too. For example, customer protection laws are tougher in some countries 
+than in others. Know-your-customer stipulations in some countries, including Estonia and Sweden, are 
+more digital, making it easier for customers to switch to new offers from fintechs. In Estonia, for example, 
+residents and “e-residents”—who do not have to live in Estonia—can open a bank account with minimal 
+requirements without going to a branch. All they need is an e-ID card, which 99 percent of the Estonian 
+population has. With the help of the e-ID card, customers can verify their identity in a few minutes and at any 
+time, and thus open an account completely digitally.
+
+Calculating the upside: Europe’s fintech opportunity promises more jobs, larger 
+funding volumes, and higher valuations
+What is the potential upside for European fintechs if the lower-performing countries could rise to the level 
+of the best in region and if the leading countries could catch up with the United Kingdom? We have built a 
+model that estimates what could happen to fintech jobs, fintech funding volume, and fintech valuations if all 
+countries in Europe attained the levels per capita of the best-performing countries.
+
+21
+
+Europe’s fintech opportunity Exhibit 7 shows the result of this hypothetical exercise. The overall number of jobs could grow by a factor 
+of 2.7, to more than 364,000, and the number of jobs in the “follower” countries—those catching up with 
+the leaders—could increase as much as sixfold. These would be next-generation jobs in fields such as data 
+science, digital marketing, IT, and design. Potential funding would grow by a factor of about 2.3, adding 
+about €84 billion in investments. The relative strength of the United Kingdom is evident here—funding 
+volume for the top third of European countries would grow fourfold if lifted to the United Kingdom’s level. 
+Showing a potential of more than half a trillion euros, valuations in Europe could grow by approximately 2.3 
+times to €981 billion. Getting there is possible, but it requires the aligned and collective push of multiple 
+stakeholders along a clear action plan.
+
+Exhibit 7
+
+European fintechs could have significant growth potential if all countries 
+European fintechs could have significant growth potential if all countries 
+caught up with the best in region.
+caught up with the best in region.
+
+Relative ambition of countries compared with United Kingdom and leading European fintech 
+ecosystems, as of end of June 2022² 
+
+United Kingdom
+
+Top third (excl United Kingdom)
+
+Middle and bottom third
+
+Fintech jobs,² thousands
+
+Fintech funding volume,⁴ € billions
+
+Fintech valuation,⁵ € billions
+
+364
+
+62
+
+50
+
+~2.0x
+
+~2.7x
+~230,000
+additional 
+jobs
+
+~6.0x
+
+253
+
+134
+
+62
+
+29
+
+44
+
+147
+
+31
+
+~2.3x
+Funding gap: 
+~84 billion³
+
+981
+
+237
+
+~2.3x
+Valuation gap: 
+~555 billion³
+
+~4.0x
+
+46
+
+~2.0x
+
+258
+
+63
+
+31
+
+12
+
+20
+
+3.5x
+
+70
+
+427
+
+237
+
+111
+
+79
+
+~6.0x
+
+486
+
+Status quo¹
+
+Potential²
+
+Status quo¹
+
+Potential²
+
+Status quo¹
+
+Potential²
+
+Note: Figures may not sum, because of rounding.
+1Numbers current as of end of June 2022 for United Kingdom, top third (Denmark, Estonia, Ireland, Luxembourg, Netherlands, Sweden, and Switzerland), and 
+middle and bottom third (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Italy, Latvia, Lithuania, 
+Poland, Portugal, Romania, Slovakia, Slovenia, and Spain).
+2Ambition level determined as EU followers compared with EU leaders’ potential and EU leaders compared with UK’s potential.
+3Normalized to total employment in respective market’s financial industry.
+4Normalized to gross fixed capital formation of respective market.
+5Normalized to GDP of respective market.
+Source: Dealroom.co; McKinsey analysis
+
+22
+
+Europe’s fintech opportunity 3
+
+A focused push along six 
+strategic areas could help all 
+European countries catch 
+up with fintech leaders 
+
+For lower- and middle-performing countries, catching up with the leaders will require a clearly defined 
+programmatic agenda and ongoing commitment. In the process, established structures will need to 
+be further developed. The success of this agenda requires the buy-in and active participation of all 
+stakeholders—including investors, incumbent banks, political players, regulatory bodies, and fintechs 
+themselves. In this final chapter, we examine several strategic options that fintechs and their stakeholders in 
+Europe can consider as they look to grow and develop the sector.
+
+Drive the alignment of market structures within the European Union
+The goal: a European market structure that is easy for fintechs to navigate and that enables them in 
+developing a truly scalable business model. 
+
+An overall simplification and harmonization of fragmented national country regulation is already taking 
+place in the European Union, enabling fintechs to understand key pillars of legal frameworks and to focus 
+on regional specifics. The further development of cultural exchanges among countries will better equip 
+fintechs to understand key customer needs outside their home market. Meanwhile, customers may catch up 
+with a more digitalized way of living. 
+
+Encourage more diverse, ‘homegrown’ capital 
+The aim here is to increase funding for fintechs along all stages (seed, series A, and later stages) for 
+the protection of influence and local interests and, at the same time, reduce exposure to geopolitical 
+developments. In addition, successful and sustainable growth depends on an effective support ecosystem 
+beyond capital injections—for example, strong adviser networks and access to experts.
+
+Local political players and regulators have an important role to play in shaping restrictions on institutional 
+investors’ access to growth capital. For example, they could create stronger incentives for venture capital 
+and private-equity investments compared with debt investments. Relaxing investment restrictions 
+for capital accumulation institutions and aligning them with those of other countries could also make 
+a difference. For example, only about 10 percent of German insurers’ investments are currently in 
+alternative assets such as venture or private capital, whereas in the United Kingdom this share is at 
+approximately 30 percent.22 
+
+Increased attention to diversity in society can also lead investors to use their interest, and ultimately capital, 
+in a fair way without disadvantaging specific groups. Politics can play a supporting role in this through 
+campaigns and other activities. 
+
+22 Investing in private markets: A road map for insurance companies, StepStone Group, October 2021.
+
+23
+
+Europe’s fintech opportunity Foster regulation with an innovative mindset
+The goal: a regulatory framework that fosters innovation and provides companies with the necessary 
+conditions to compete domestically and internationally while ensuring stability and protecting both investors 
+and customers.
+
+Fintechs can actively work to make regulators even more aware of the societal benefits of their products 
+and services. They can also commit to taking regulatory considerations into account early in their product 
+development process. In addition, fintechs can use their customer orientation to implement regulatory 
+requirements in a user-friendly way.
+
+Political actors and customer-based regulation with a systematic focus on growth and innovation can 
+contribute to an environment that fosters fintech start-ups and their growth. Programmatic coordination 
+aimed at strengthening the fintech ecosystem is particularly important in this context. Specifically, this 
+can mean minimizing the administrative burden and associated costs for fintechs and adapting regulatory 
+requirements where necessary as well as making implementation more customer friendly. Likewise, 
+innovation for better capital intermediation and mobilization is required to ensure fintechs have the 
+necessary capital composition at the right time. 
+
+Whereas some countries, such as Estonia and the United Kingdom, try to reduce bureaucratic hurdles in the 
+licensing process, the United Kingdom also provides a support structure between regulators and fintechs 
+to create trust. For example, regulators provide “sandboxes” that allow fintechs to test and demonstrate 
+innovative business models with dummy customer data. This keeps regulators informed about innovations in 
+the financial sector and helps them align regulation with the latest market developments.
+
+Become a magnet for global talent 
+The goal: a fintech ecosystem that can compete with global tech hubs for top talent from around the world.
+
+Fintechs can do their part by offering attractive jobs with excellent development opportunities. They can 
+also commit to creating a modern work culture that responds to a diversity of backgrounds and needs. For 
+example, the ability to work remotely with no in-person office requirement can be a valuable offering for 
+prospective employees. Likewise, fintechs could meet the special needs and requirements of international 
+hires. A holistic program that offers support in obtaining a visa, for example, could be a very attractive perk. 
+
+Political players and regulators can also help establish modern ways of working within their countries. 
+For example, remote working could include working from another country. This is currently easier in some 
+countries than others due to regulatory restrictions, but more flexibility in labor laws could make it easier for 
+fintechs—especially for those based in less attractive cities or regions—to attract the right talent. 
+
+Furthermore, local political players are in a position to make the tax framework appealing to foreign talent. 
+For example, reducing the individual tax burden on income or employee stock ownership plans provides 
+incentives for talented people to apply for jobs in such countries; low income tax rates in Switzerland may 
+be a contributing factor to the country’s relative strength in fintech ecosystem performance. Additionally, 
+political players and regulators could consider simplifying visa processes. This move would not only 
+allow companies to more easily integrate foreign hires but also signal to the world that the country values 
+international diversity in its fintech ecosystem. The promotion of talent exchange programs at universities or 
+international internships within the European Union may also help attract talent.
+
+24
+
+Europe’s fintech opportunity Enable fintechs to thrive in target markets 
+The aim: a support structure of hubs in target markets that advise fintechs on market requirements and help 
+them to adjust their business model accordingly.
+
+Fintechs may be able to make more informed decisions about future target markets if all stakeholders—
+from investors to incumbent banks to public players and regulatory bodies—bundled their insights on 
+foreign markets with the respective foreign regulations and industry requirements in one central hub. The 
+establishment of internationalization hubs in key areas could create central points of access where fintechs 
+and other start-ups could receive legal advice, get market insights on customer segments, and connect 
+to support networks in the target country. A European institution such as the Enterprise Europe Network 
+could serve as a potential central point of contact for this purpose.
+
+Increase customer choices and access
+The goal: a wider range of innovative, safe, high-quality, and convenient-to-use offers with low barriers and 
+minimal risk for customers switching to or participating in fintech.
+
+If fintechs put as much focus on product safety and stability as they do on customer experience, they 
+might be able to avoid some regulatory challenges from the start. For example, they could go beyond 
+established data and customer protection norms and be more transparent about securities and the 
+inherent risk to customers before trading. By using their capabilities in customer communication and 
+implementing customer requirements, fintechs can even turn regulatory compliance into a competitive 
+advantage. Incumbent banks have an opportunity to partner with fintechs to drive innovative B2C and 
+B2B propositions, because each can learn from the other. Such partnerships also foster customer trust in 
+fintechs and new digital business models.
+
+Political players and regulators could also develop Europe-wide initiatives to make it easier for fintech 
+companies to demonstrate their credibility to customers—for example, by recognizing fintechs with official 
+certifications or awards such as Singapore’s SFF Global FinTech Awards, announced by the Monetary 
+Authority of Singapore and the Singapore FinTech Association.23 Such prizes, awarded by public authorities, 
+can increase customer trust in fintechs.
+
+Fintechs have made major inroads into Europe’s banking landscape and are becoming central to its core. 
+That is good news for customers, who will benefit from increased choice, and for financial systems, which 
+will become more competitive and modern. But this is just the start: while a few countries have already 
+emerged as leaders in Europe’s fintech space, the potential for growth is strong everywhere in the region. If 
+countries could rise to the level of the best in region, the upside could be significant for the economy as well 
+as for fintechs themselves. In the coming months and years, it will be critical for all stakeholders—including 
+public institutions, established financial industry players, and fintechs—to combine their strengths by 
+establishing the enabling structure and mechanisms the sector needs to reach its full potential.
+
+23“MAS and SFA announce award winners at Singapore FinTech Festival,” Monetary Authority of Singapore, November 12, 2021.
+
+25
+
+Europe’s fintech opportunity About the authors
+
+Alessio Botta is a senior partner in McKinsey’s Milan office, where Alessia Vassallo is an associate 
+partner. Sarina Deuble is a consultant in the Frankfurt office, where Timo Mauerhoefer is an associate 
+partner and Eckart Windhagen is a senior partner. Constance Emmanuelli is a partner in the Paris 
+office, and Fernando Figueiredo is a partner in the London office, where Tunde Olanrewaju is a senior 
+partner. Max Flötotto is a senior partner in the Munich office, where Stefanie Vielmeier is a consultant. 
+Christian Irlbeck is an associate partner in the Düsseldorf office, and André Jerenz is a partner in the 
+Hamburg office.
+
+The authors wish to thank Christopher Blaufelder, Pascal Bretländer, Sven Enkirch, Pierre-Matthieu 
+Gompertz, Reinhard Höll, Laura Hofstee, Himanshu Jatale, Matthias Lange, Deepa Mahajan, Fernando 
+Martin del Agua, Mohcine Ouass, Hiro Sayama, Giuseppe Sofo, Dominik Termathe, and Birgit Teschke for 
+their contributions to this article. 
+
+26
+
+October 2022 
+Copyright © McKinsey & Company 
+Cover illustration: © IgorShishov/Getty Images
+
+McKinsey.com
+
+  @McKinsey 
+  @McKinsey
+
+ 
+

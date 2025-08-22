@@ -24,11 +24,11 @@ api.delete_files(
     repo_type="dataset",
     delete_patterns=["*"],
 )
-api.upload_large_folder(
-    folder_path=data_dir,
-    repo_id=repo_id,
-    repo_type="dataset",
-    # allow_patterns=["*", "README.md"],
-)
+# api.upload_large_folder(
+#     folder_path=data_dir,
+#     repo_id=repo_id,
+#     repo_type="dataset",
+#     # allow_patterns=["*", "README.md"],
+# )
 
 # huggingface-cli upload-large-folder OrcinusOrca/YouTube-Cantonese data --repo-type=dataset

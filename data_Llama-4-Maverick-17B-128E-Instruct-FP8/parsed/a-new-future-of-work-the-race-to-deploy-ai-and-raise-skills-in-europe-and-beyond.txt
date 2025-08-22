@@ -1,0 +1,5096 @@
+A
+
+n
+
+e
+
+w
+
+f
+
+u
+
+t
+
+u
+
+r
+
+e
+
+o
+
+f
+
+w
+
+o
+
+r
+
+k
+
+:
+
+T
+
+h
+
+e
+
+r
+
+a
+
+c
+
+e
+
+t
+
+o
+
+d
+
+e
+
+p
+
+l
+
+o
+
+y
+
+A
+
+I
+
+a
+
+n
+
+d
+
+r
+
+a
+
+i
+
+s
+
+e
+
+s
+
+k
+
+i
+
+l
+
+l
+
+s
+
+i
+
+n
+
+E
+
+u
+
+r
+
+o
+
+p
+
+e
+
+a
+
+n
+
+d
+
+b
+
+e
+
+y
+
+o
+
+n
+
+d
+
+A new future of work: 
+The race to deploy 
+AI and raise skills in 
+Europe and beyond
+
+Authors
+
+Eric Hazan
+Anu Madgavkar
+Michael Chui
+Sven Smit
+Dana Maor
+Gurneet Singh Dandona
+Roland Huyghues-Despointes
+
+May 2024
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About the McKinsey 
+Global Institute 
+
+The McKinsey Global Institute was established in 1990. Our mission is to provide a fact 
+base to aid decision making on the economic and business issues most critical to the world’s 
+companies and policy leaders. We benefit from the full range of McKinsey’s regional, sectoral, 
+and functional knowledge, skills, and expertise, but editorial direction and decisions are solely 
+the responsibility of MGI directors and partners. 
+
+Our research is grouped into five major themes:
+
+ — Productivity and prosperity: Creating and harnessing the world’s assets most productively 
+
+ — Resources of the world: Building, powering, and feeding the world sustainably 
+
+ — Human potential: Maximizing and achieving the potential of human talent 
+
+ — Global connections: Exploring how flows of goods, services, people, capital, and ideas 
+
+shape economies 
+
+ — Technologies and markets of the future: Discussing the next big arenas of value and 
+
+competition 
+
+We aim for independent and fact-based research. None of our work is commissioned or paid 
+for by any business, government, or other institution; we share our results publicly free of 
+charge; and we are entirely funded by the partners of McKinsey. While we engage multiple 
+distinguished external advisers to contribute to our work, the analyses presented in our 
+publications are MGI’s alone, and any errors are our own. 
+
+You can find out more about MGI and our research at www.mckinsey.com/mgi. 
+
+MGI Directors 
+
+Sven Smit (chair) 
+
+Chris Bradley
+
+Kweilin Ellingrud 
+
+Sylvain Johansson 
+
+Olivia White
+
+MGI Partners 
+
+Michael Chui 
+
+Mekala Krishnan 
+
+Anu Madgavkar 
+
+Jan Mischke
+
+Jeongmin Seong 
+
+Tilman Tacke 
+
+ii
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondContents
+
+Spotlight: Manufacturing 
+40
+
+Spotlight: Healthcare 
+42
+
+Implications for 
+the workforce 
+44
+
+Enhancing productivity and 
+human capital in a time of 
+technological ferment 
+52
+
+Technical appendix 
+60
+
+Acknowledgments 
+65
+
+At a glance
+3
+
+Context: Labor shortages  
+and a slowdown in 
+productivity growth
+4
+
+Potential for accelerated  
+work transitions ahead 
+10
+
+The varied geography of  
+labor market disruptions
+22
+
+New skills for a new era 
+26
+
+Spotlight: Wholesale and 
+retail trade 
+36
+
+Spotlight: Financial services 
+38
+
+1
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyond2
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondAt a glance
+
+Amid tightening labor markets and a slowdown in productivity growth, Europe and the 
+United States face shifts in labor demand, spurred by AI and automation. Our updated 
+modeling of the future of work finds that demand for workers in STEM-related, healthcare, 
+and other high-skill professions would rise while demand for occupations such as office 
+workers, production workers, and customer service representatives would decline. By 
+2030, in a midpoint adoption scenario, up to 30 percent of current hours worked could be 
+automated, accelerated by generative AI. Efforts to achieve net-zero emissions, an aging 
+workforce, and growth in e-commerce as well as infrastructure and technology spending and 
+overall economic growth could also shift employment demand.
+
+By 2030, Europe could require up to 12 million occupational transitions, double the 
+prepandemic pace. In the United States, required transitions could reach almost 12 million, 
+in line with the prepandemic norm. Both regions navigated even higher levels of labor market 
+shifts at the height of the COVID-19 period, suggesting that they can handle this scale of 
+future job transitions. The pace of occupational change is broadly similar among countries in 
+Europe, although the specific mix reflects their economic variations. 
+
+Businesses will need a major skills upgrade. Demand for technological and social and 
+emotional skills could rise as demand for physical and manual and higher cognitive skills 
+stabilizes. Surveyed executives in Europe and the United States expressed a need not just 
+for advanced IT and data analytics but also for critical thinking, creativity, and teaching and 
+training—skills they report as currently being in short supply. Companies plan to focus on 
+retraining workers, in addition to hiring or subcontracting, to meet skill needs.
+
+Workers with lower wages face challenges of redeployment as demand reweights 
+toward occupations with higher wages in both Europe and the United States. 
+Occupations with lower wages are likely to see reductions in demand, and workers will need 
+to acquire new skills to transition to better-paying work. If that doesn’t happen, there is a risk 
+of a more polarized labor market, with more higher-wage jobs than workers and too many 
+workers for existing lower-wage jobs.
+
+Choices made today could revive productivity growth while creating better societal 
+outcomes. Embracing the path of accelerated technology adoption with proactive worker 
+redeployment could help Europe achieve an annual productivity growth rate of up to 
+3 percent through 2030. However, slow adoption and slow redeployment would limit that to 
+0.3 percent, closer to today’s level of productivity growth in Western Europe. Slow worker 
+redeployment would leave millions unable to participate productively in the future of work. 
+
+3
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyond1
+
+Context: Labor shortages 
+and a slowdown in 
+productivity growth
+
+This report focuses on labor markets in Europe and the United States, looking at the 
+next few years to 2030. Technology and other factors will spur changes in the pattern of 
+labor demand, but these expected shifts need to be taken in the context of deep-seated 
+labor market changes already under way. Our study focuses on nine major economies in the 
+European Union along with the United Kingdom (which we refer to collectively in this report as 
+“Europe”), in comparison with the United States.
+
+Structural shifts in labor markets have been ongoing for decades, including the very long-
+term decline in the share of employment in agriculture, industry, and mining in favor of 
+services (Exhibit 1). More recently, labor markets were buffeted by pandemic shocks that 
+propelled not only faster shifts in hiring needs and more job switching but also new employee 
+preferences such as hybrid work. While COVID-19 exacerbated labor market tightening, 
+Europe’s high employment rate, a rapidly aging population, and a steady fall in working 
+hours make continuing shortages of workers and skills a persistent challenge for the future. 
+The burning question that remains is this: to what extent can the forthcoming technological 
+disruption solve labor market challenges in Europe? 
+
+4
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 1
+Exhibit <1> of <16>
+
+Employment in Europe and the United States has shifted toward 
+service sectors.
+
+Share of total employment by sector, Europe1 and US, 1850–2022, %
+
+Europe
+
+US
+
+2022
+
+2022
+
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2Increase from 1850 to 1860 in US primarily due to changes in how unpaid labor was tracked.
+Source: Eurostat; Integrated Public Use Microdata Series USA, 2017; Ivan T. Berend, An Economic History of Twentieth-Century Europe, Cambridge University 
+Press, October 2016; US Bureau of Labor Statistics
+
+McKinsey & Company
+
+5
+
+1850190019502000020406080100GovernmentEducationFinancial servicesEntertainmentHealthcareTelecommunicationsBusiness and repair servicesProfessional servicesTrade (retail and wholesale)Household workUtilitiesMiningManufacturingAgricultureTransportationConstruction1850190019502000020406080100GovernmentEducationFinancial servicesEntertainmentHealthcareTelecommunicationsBusiness and repair servicesProfessional servicesTrade (retail and wholesale)Household work2UtilitiesMiningManufacturingAgricultureTransportationConstructionA new future of work: The race to deploy AI and raise skills in Europe and beyondEurope’s future of work unfolds amid labor shortages 
+and a slowdown in productivity growth
+
+In both Europe and the United States, labor market tightness has been on the rise, with 
+unfilled positions on the rise in both regions and unemployment at historically low levels.1 As 
+populations age on both sides of the Atlantic and the number of hours worked per worker 
+falls, particularly in Europe, labor market tightness is not likely to resolve naturally. In this 
+context, employers are increasingly competing for talent. 
+
+The pandemic had additional lasting impacts on workplaces, notably the increased adoption 
+of hybrid work. While about 90 percent of the working population was working fully on-site 
+in 2018, that number dropped to some 60 percent between 2021 and 2022. Since then, 
+the number has stabilized. However, only 40 percent of the 72 minutes saved daily from 
+not having to commute is allocated to work, with the rest mostly allocated to leisure and 
+caregiving.2 The overall impact on productivity is still being debated.3
+
+Overall, in the global economy, productivity is crucial for remaining competitive.4 When a 
+company becomes more productive, it can produce more or higher-quality goods or services 
+with the same amount of resources. This often leads to lower production costs, allowing 
+companies to remain competitive or even expand. As a result, they may need to hire more 
+workers to meet the increased demand for their products or services. Also, increased 
+productivity in one sector can stimulate job growth in related industries; it boosts innovation 
+and leads to the creation of new job roles in areas such as research and development, 
+engineering, and information technology. Increased productivity would help address labor 
+market challenges, enabling employers to produce more even in tight talent markets, driving 
+economic growth, and creating better-paying jobs with opportunities to build human capital. 
+
+Yet Europe has experienced a long-term productivity slowdown, with productivity growth 
+almost steadily decreasing since the 1960s (Exhibit 2).5 Alongside its divergence in 
+productivity growth relative to the United States, Europe’s competitiveness is also waning. 
+The issues appear to be systemic rather than cyclical. European companies lag behind US 
+peers on multiple key metrics, such as return on invested capital, revenue growth, capital 
+expenditure, and R&D. Initial delays in Europe in technology development and adoption 
+help explain this gap, as Europe did not benefit from the information communications and 
+technology–driven productivity advancements that have occurred in the United States since 
+the 1990s. Our previous research indicates that Europe lags behind in eight out of ten key 
+cross-sector technologies where “winner takes most” effects are common, widening the gap 
+between the two regions.6 The two areas in which European companies still have an edge are 
+cleantech and next-gen materials, the research found.
+
+1 
+
+In third quarter 2023, the unemployment rate stood at 6.0 percent in Europe and 3.7 percent in the United States, 
+compared with a peak of 11.5 percent in Europe in 1994 and 7.5 percent in the United States in 1992. For detailed data, see 
+“Unemployment Statistics,” Eurostat, March 2024; “Job Vacancies,” Eurostat, March 2024; and “Job Openings and Labor 
+Turnover,” US Bureau of Labor Statistics, March 2024.
+
+2  Cevat Giray Aksoy et al., Time savings when working from home, National Bureau of Economic Research working paper, 
+
+number 30866, January 2023.
+
+3  Several studies have associated remote work with productivity decreases ranging from 8 to 19 percent, whereas some 
+
+reports show a reduction of 4 percent for individual employees. Conversely, other research indicates productivity 
+improvements of 10 percent and more when switching to hybrid work. See, for example, Michael Gibbs, Friederike Mengel, 
+and Christoph Siemroth, Work from home & productivity: Evidence from personnel & analytics data on IT professionals, 
+Becker Friedman Institute for Economics at the University of Chicago working paper, number 2021-56, July 2021; 
+Natalia Emanuel and Emma Harrington, Working remotely? Selection, treatment, and the market provision of remote 
+work, Federal Reserve Bank of New York staff reports, number 1061, May 2023; Marta Angelici and Paola Profeta, 
+Smart-working: Work flexibility without constraints,” CESifo working paper, number 8165, March 2020.
+
+4  Assuming constant exchange rates.
+5  “Investing in productivity growth,” McKinsey Global Institute, March 1, 2024.
+6  “Securing Europe’s competitiveness, addressing its technology gap,” McKinsey Global Institute, September 22, 2022.
+
+6
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 2
+Exhibit <2> of <16>
+
+European and US productivity growth decreased seven and three 
+percentage points, respectively, between 1950 and 2022.
+
+Labor productivity growth (annual change in GDP per hours worked), % year over year
+
+Second industrialization
+
+Post-war boom
+
+Era of contention
+
+Era of markets
+
+Electrification, mass production, 
+and industrialization
+
+Continued urbanization 
+and infrastructure 
+build-out
+
+Energy crises and 
+stagflation
+
+Integration of 
+GVCs1; ICT2 
+revolution
+
+Pre- and 
+post-GFC3 
+slowdown
+
+Note: Productivity is defined as GDP per hour worked, in 2010 dollars, as measured by purchasing-power parity. Calculated using a Hodrick-Prescott filter (λ = 
+6.25). Europe is calculated using the simple average of France, Germany, Italy, Spain, Sweden, and the United Kingdom. The remaining ten European countries 
+in our analysis were excluded because of data availability issues.
+1Global value chains. 
+2Information and communication technology. 
+3Global financial crisis. 
+Source: Antonin Bergeaud, Gilbert Cette, and Rémy Lecat, “Productivity trends in advanced countries between 1890 and 2012,” The Review of Income and 
+Wealth, September 2016, Volume 62, Number 3; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Automation technology has the potential to revive productivity growth, allowing economies 
+to solve most of today’s labor market challenges. However, Europe and the United States are 
+not on the same trajectory for capturing this productivity growth: most AI-related innovations 
+are developed in the United States. There are fears in both regions that the adoption of 
+these technologies could prove disruptive to labor markets and exacerbate the challenges 
+of both finding requisite skills in the workforce and enabling workers to move from declining 
+occupations into rising ones. 
+
+Workers navigated major changes in demand for work during COVID-19, which resulted in a 
+temporary surge in occupational transitions—a sign that labor markets could successfully 
+adjust to rapid and heightened shifts in the pattern of employment demand. In Europe, some 
+3 percent of the working population voluntarily or involuntarily exited their occupational 
+categories between 2019 and 2022, more than triple the historical average. In the 
+period between 2019 to 2022, 5.5 percent of the US working population was affected by 
+occupational shifts, 1.5 times the historical average.7 The occupational shifts in both Europe 
+and the United States have subsequently returned to their historical rate, although some 
+professions continue to be affected, including food service.
+
+7  Estimates based on US Bureau of Labor Statistics data.
+
+7
+
+1900191019201930194019501960197019801990200020102020−6−4−202468United StatesEuropeA new future of work: The race to deploy AI and raise skills in Europe and beyondNow, as Europe looks ahead, automation, AI, and other trends present opportunities for 
+higher productivity growth but with faster occupational transitions. Business leaders and 
+policy makers will face critical choices on how much to embrace technological change and 
+investment while training and redeploying workers into the jobs of the future. These choices 
+will determine whether Europe’s countries, companies, and labor force can derive the full 
+productivity and human capital benefits of the future of work. 
+
+Business leaders and policy 
+makers will face critical 
+choices on how much to 
+embrace technological change 
+and investment while training 
+and redeploying workers 
+into the jobs of the future. 
+
+8
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyond9
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyond2
+
+Potential for accelerated 
+work transitions ahead 
+
+Demand for labor will continue to evolve over time, affected by structural trends at play in 
+Europe and the United States. Foremost among these is the expected advancements in 
+technology, especially AI, which could accelerate productivity growth and alter labor demand. 
+Structural factors such as the aging workforce and rising healthcare needs, particularly 
+pronounced in Europe, and additional priorities such as climate change will also reshape 
+demand for workers. Additionally, some trends that were boosted by the pandemic are likely 
+to endure, including the growth in e-commerce and the switch to remote work. 
+
+These trends represent opportunity for productivity growth but also underscore the need for 
+workers to transition from declining occupations to rising ones. In Europe, by our estimates, a 
+faster technology adoption scenario could be associated with productivity growth of roughly 
+2 to 3 percent per year, requiring some 12 million occupational transitions, or roughly double 
+the pace of occupational shifts in the prepandemic period. In the United States, with its 
+more dynamic labor market, the trend would be closer to the historical norm, but automation 
+adoption could accelerate further after 2030 in both regions. While the scale of occupational 
+transitions may appear daunting, both Europe and the United States navigated even higher 
+levels of labor market shifts during the pandemic, signaling the potential to handle future 
+transitions as well.
+
+In this chapter, we outline how demand for labor could evolve and require accelerated 
+occupational transitions in the coming years, considering a range of scenarios to reflect 
+the uncertainties around pace of technology adoption (see Box 1, “Our methodology for 
+estimating occupational transitions”).
+
+10
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondBox 1 
+Our methodology for estimating occupational transitions
+
+We used methodology consistent with other 
+McKinsey Global Institute reports on the future 
+of work, dating back to 2017, to model trends of 
+job changes at the level of occupations, activities, 
+and skills.1 For this report, we focused our analysis 
+on the 2022–30 period. We also considered how 
+automation adoption could evolve beyond 2030 to 
+2035.2 The drivers of the model have been updated 
+accordingly. 
+
+Our model differentiates between employment 
+demand and occupational transitions. For the 
+first, it estimates net changes in employment 
+demand by sector and occupation; for the second, 
+it estimates the net decline in occupations across 
+sectors compared with the 2030 baseline. When 
+counting transitions, we do not include gains in this 
+calculation to avoid double counting.
+
+In this report, we focus our analysis on Europe 
+and the United States. For Europe, we included 
+ten countries: nine EU members that together 
+represent 75 percent of the European working 
+population—the Czech Republic, Denmark, France, 
+Germany, Italy, Netherlands, Poland, Spain, and 
+Sweden—and the United Kingdom. In this report, 
+numbers referring to “Europe” correspond to the 
+total estimates for these ten focus countries, which 
+were analyzed individually. Numbers have not 
+been extrapolated to the full European working 
+population. For the United States, we build on 
+estimates published in our 2023 report Generative 
+AI and the future of work in America.3
+
+To understand the impact of automation and 
+overall potential changes in demand in each 
+occupation, we included multiple drivers in our 
+modeling: automation adoption, net-zero transition, 
+e-commerce growth, remote work adoption, 
+increases in income, aging populations, technology 
+investments, infrastructure investments, 
+marketization of unpaid work, new jobs, and 
+increased educational levels. 
+
+A critical driver of occupational transitions is the 
+rate at which automation, AI, and generative AI (gen 
+AI) will be adopted (exhibit). Two scenarios are used 
+to bookend the work-automation model: “late” and 
+“early.” The “early” scenario flexes all parameters 
+to the extremes of plausible assumptions, resulting 
+in the fastest pace of automation development 
+and adoption, and the “late” scenario flexes all 
+parameters in the opposite direction. The reality is 
+likely to fall somewhere between the two.4
+
+For this report, we have modeled region-specific 
+scenarios: 
+
+ — For Europe, we modeled two outcomes: a 
+
+“faster” scenario and a “slower” one. For the 
+faster scenario, we use the midpoint—the 
+arithmetical average between our late and 
+early scenarios. For the slower scenario, we 
+use a “mid late” trajectory, an arithmetical 
+average between a late adoption scenario 
+and the midpoint scenario. We model this 
+slower, mid-late scenario for Europe because 
+achieving the faster, midpoint scenario by 
+2030 would require an occupational transition 
+rate significantly higher than seen in Europe’s 
+recent prepandemic past. 
+
+ — For the United States, we use the midpoint 
+
+scenario, based on our earlier research. This 
+is an arithmetical average between our late 
+and early scenarios of automation technology 
+adoption. 
+
+We also estimate the productivity effects of 
+automation, using GDP per full-time-equivalent 
+(FTE) employee as the measure of productivity. We 
+first calculated automation displacement under 
+different scenarios by multiplying the projected 
+number of FTEs by the estimated automation 
+adoption rate for each occupation in each country. 
+We considered only job activities that are available 
+and well defined as of the date of this report. Also, 
+to be conservative, we assumed automation has a 
+labor substitution effect but no other performance 
+
+1  The modeling examines more than 850 unique occupations, more than 2,000 different activities, and 18 technical capabilities for each 
+activity. We also leveraged the framework devised in MGI’s 2018 report Skill shift: Automation and the future of the workforce. For 
+more detail, see the technical appendixes in A future that works: Automation, employment, productivity, McKinsey Global Institute, 
+January 2017.
+
+2  For 2035, we modeled only the potential automation adoption rates for each occupation, not the occupational transitions required.
+3  For more, see “Generative AI and the future of work in America,” McKinsey Global Institute, July 26, 2023.
+4  “The economic potential of generative AI: The next productivity frontier,” McKinsey, June 14, 2023.
+
+11
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondgains. We assumed that workers displaced 
+by automation rejoin the workforce at 2022 
+productivity levels, net of automation. 
+
+Our main sources of data are national and regional 
+labor surveys. For the United States, we used data 
+from the Current Population Survey, conducted by 
+the US Census Bureau for the US Bureau of Labor 
+Statistics. For Europe, we used data from the 
+Labor Force Survey carried out by the European 
+Commission and local labor agencies’ data. 
+As described in chapter 4, we also conducted 
+a survey of more than 1,100 executives in five 
+countries.
+
+Our model has some important uncertainties 
+and limitations. First, structural attributes—
+such as management–employee relations, the 
+regulatory and investment framework, and current 
+AI and innovation momentum—would affect 
+
+which scenario evolves. Second, labor demand 
+could shift based on macroeconomic shifts in 
+consumption due to changes in prices and costs, 
+which our model does not account for. Indeed, as 
+automation increases productivity and income and 
+lowers costs and the prices of goods and services, 
+it could shift consumption, and thus labor demand, 
+in unanticipated ways. In the literature, this 
+specific impact of automation has been framed as 
+the “deflationist” nature of technology adoption. 
+Rapid adoption of technology could therefore 
+establish a new equilibrium of demand. Third, the 
+shifts we model are the ones broadly anticipated 
+given the underlying base and current momentum 
+of economies. We do not model changes in 
+industrial production, trade, or labor migration that 
+may be driven by geopolitical, climatic, or social 
+factors, for example.
+
+Web <2024>
+<MCK242172 VivaTech 2024-BOX>
+Exhibit 
+Exhibit <B1> of <16>
+
+Europe has varying automation adoption scenarios through 2030.
+
+Automation of current work activities, % of working hours modeled to be automated, with generative AI 
+acceleration, Europe1 and the US, 2022–80
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+2022
+
+Note: The range of scenarios represents uncertainty regarding the availability of technical capabilities, based on interviews with experts and survey responses. 
+The early scenario makes more-aggressive assumptions for all key model parameters (technical potential, integration timeline, economic feasibility, and regula-
+tory and public adoption). The “faster” or midpoint adoption scenario is the average between the early and late scenarios. The “slower” scenario is the average 
+between the late scenario and the midpoint scenario. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+12
+
+203020402050206020702080Early scenario Europe1Late scenario Europe1Faster scenario Europe1Slower scenario Europe1Midpoint scenario USA new future of work: The race to deploy AI and raise skills in Europe and beyondAs technology reshapes work, demand is changing 
+for a wide range of occupations
+
+Our analysis suggests that demand for some occupations could grow sharply by 2030. In our 
+faster, midpoint technology adoption scenario, demand for STEM and health professionals 
+would grow by 17 to 30 percent between 2022 and 2030, adding seven million positions in 
+Europe and an additional seven million in the United States. Despite the surge in tech sector 
+layoffs in 2023 and the potential of generative AI (gen AI) to augment tasks such as coding, 
+the broader, long-term demand for tech talent could remain robust across businesses of 
+every size and sector in an increasingly digital economy (Exhibit 3). Similarly, demand for 
+health aides, technicians, and wellness workers could continue growing by 25 to 30 percent 
+between 2022 and 2030, adding 3.3 million positions in Europe and 3.5 million in the 
+United States.
+
+By contrast, demand for workers in food services, production work, customer services, 
+sales, and office support—all of which declined over the 2012–22 period—could continue to 
+decline until 2030.8 These jobs involve a high share of repetitive tasks, data collection, and 
+elementary data processing—all activities that automated systems can handle efficiently. In 
+all, our analysis suggests that this could lead to decreases in demand for these positions of 
+between 300,000 and 5.0 million positions in Europe and 0.1 million to 3.7 million positions in 
+the United States. 
+
+Demand for other occupations would remain in line with overall demand growth. This includes 
+positions for educators and workforce trainers in Europe and includes businesses and 
+legal professionals, as well as community services workers, in the United States. Demand 
+for occupations such as management, construction, creative and arts management, and 
+transportation services is expected to increase by about 8 to 9 percent.
+
+Our analysis highlights some differences between Europe and the United States in the 
+occupations with growing or diminishing demand. Those differences are a result of the 
+differences in occupational composition between the two regions, as well as cultural 
+specificities. For example, the greater share of public employment in Europe, especially in 
+administrative activities, may reduce the impact of the expected disruption on these workers 
+for the coming years. Understanding the nuances of how this might play out and who might be 
+affected is critical to ensuring a smooth transition for individuals and businesses alike.
+
+8  Examples here include cashiers, call-center representatives, tellers, and guest service agents.
+
+13
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 3
+Exhibit <3> of <16>
+
+Demand for healthcare and STEM roles could grow, while demand for office 
+support and customer service roles could decline.
+
+Net expected change in labor demand, Europe1 and US, faster/midpoint scenario,1 2022–30
+
+Europe2
+
+US
+
+Employment change vs 2022, 
+million
+
+Employ-
+ment 
+change vs 
+2022, %
+
+Employment change vs 2022, 
+million
+
+Employ-
+ment 
+change vs 
+2022, %
+
+25.2
+
+16.7
+
+23.6
+
+9.1
+
+6.9
+
+6.9
+
+7.9
+
+5.3
+
+8.6
+
+3.5
+
+1.6
+
+1.2
+
+–3.8
+
+–3.3
+
+–5.3
+
+–12.1
+
+–18.3
+
+29.7
+
+23.1
+
+30.1
+
+11.3
+
+6.6
+
+11.9
+
+9.5
+
+10.3
+
+10.7
+
+6.6
+
+2.6
+
+7.0
+
+2.3
+
+–1.9
+
+–0.7
+
+–13.4
+
+–18.5
+
+Occupational category
+
+Health aides, techni-
+cians, and wellness
+
+STEM professionals
+
+Health professionals
+
+Managers
+
+Business or legal pro-
+fessionals
+
+Builders
+
+Transportation services
+
+Property maintenance
+
+Creatives and arts man-
+agement
+
+Community services
+
+Educator and workforce 
+training
+
+Mechanical installation 
+and repair
+
+Agriculture
+
+Food services
+
+Production work
+
+Customer service and 
+sales
+
+Office support
+
+1For Europe, we used the “faster” scenario, which corresponds to the “midpoint” scenario in the United States. The “faster” or midpoint adoption scenario is the 
+average between the early and late scenarios. The “slower” scenario is the average between the late scenario and the midpoint scenario.
+2Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+14
+
+3.32.31.51.11.00.70.50.40.40.30.20.1−0.2−0.3−0.9−1.7−5.03.51.82.01.11.10.80.50.50.20.40.30.50−0.3−0.1−2.0−3.7A new future of work: The race to deploy AI and raise skills in Europe and beyondSome 12 million occupational transitions may be needed 
+in both Europe and the United States by 2030
+Our analysis finds that in our faster automation adoption scenario, some 12.0 million 
+occupational transitions would be needed by 2030 in the ten European countries, affecting 
+6.5 percent of the current employed workforce.9 Under the slower scenario, the number of 
+occupational transitions needed would amount to 8.5 million in Europe, affecting 4.6 percent 
+of the current employed workforce. In the United States, the figures for the midpoint scenario 
+we use (which corresponds to the faster European scenario) are 11.8 million occupational 
+shifts, affecting 7.5 percent of the current employed workforce. 
+
+The range of outcomes for Europe from the two scenarios reflects different potential for the 
+number of work hours that could be automated, thereby affecting both potential productivity 
+gains and the number of occupational transitions that might be needed. A failure to achieve 
+the faster-paced adoption model would mean fewer occupational transitions are needed. But 
+it would also mean failing to achieve some significant productivity gains in the period to 2030.
+
+Occupational transitions would need to roughly double in Europe 
+but return to their historical level in the United States
+The pace of change in required occupational transitions is uneven between Europe and the 
+United States. Europe could experience a stark acceleration in the pace of occupational 
+change needed in both the faster and slower scenarios, with the number rising to between 1.1 
+million and 1.5 million occupational transitions annually between 2022 and 2030. That is 1.6 
+to 2.2 times the historical 2016–19 rate, before the COVID-19 pandemic, indicating a potential 
+doubling of this measure of change in the European employment market. By contrast, in 
+the United States, the number of occupational transitions needed annually between 2022 
+and 2030 could reach 1.5 million, our analysis suggests (Exhibit 4). This would be slightly 
+lower than the historical 2016–19 rate. The difference arises mainly because of the historical 
+dynamism of the US employment market, which sees about 1.2 percent of the US workforce 
+shifting occupations every year. In comparison, just 0.4 percent of the European workforce 
+shifted occupations annually between 2016 and 2019.
+
+The potential pace of yearly occupational changes needed from 2022 to 2030 is lower 
+than those experienced by both regions during the COVID-19 pandemic from 2019 to 
+2022. In Europe and the United States, occupational shifts during the pandemic increased 
+significantly, reaching 2.2 million in Europe and 2.9 million in the United States each year, or 
+1.2 percent and 1.8 percent of their respective workforces. The changes to labor markets in 
+Europe and the United States caused by COVID-19 were both rapid and wrenching, but both 
+regions adapted to them, suggesting that they have the potential to respond effectively to 
+disruptions brought about by AI, automation, and other drivers of change in labor demand.10
+
+9  Here, “occupational transition” refers to an individual’s move from one occupation to another, as distinct from regular 
+employment churn, which includes the movement of individuals between businesses to perform the same occupation.
+10  A large share of occupational transitions that occured during COVID-19 were voluntary. This may not be the case with 
+
+future ones.
+
+15
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 4
+Exhibit <4> of <16>
+
+Europe may need faster occupational transitions relative to the past, while 
+the United States could return to its prepandemic pace.
+
+Occupational shifts, 2016–19 and 2019–22, and anticipated occupational 
+transitions, 2022–30, slower, faster/midpoint,1 yearly average
+
+xx Total occupational transitions or shifts during the period, million
+
+Historical
+
+Slower scenario
+
+Faster/midpoint scenario
+
+Europe2
+
+US
+
+2.0
+
+6.6
+
+8.5–12.0
+
+5.6
+
+8.6
+
+11.8
+
+2.2
+(1.2%)
+
+1.5
+(0.8%)
+
+1.1
+(0.6%)
+
+1.9
+(1.2%)
+
+0.7
+(0.4%)
+
+2.9
+(1.8%)
+
+1.5
+(0.9%)
+
+Example occupational categories with highest transitions or shifts in respective time periods
+
+• Agriculture
+
+• Agriculture
+
+• Office support
+
+• Office support
+
+• Food services
+
+• Office support
+
+• Property 
+
+maintenance
+
+• Community 
+services
+
+• Property 
+
+maintenance
+
+• Community 
+services
+
+• Customer service 
+
+• Production work
+
+• Customer service 
+
+• Customer service 
+
+and sales
+
+• Customer service 
+
+and sales
+
+and sales
+
+• Production work
+
+and sales
+
+• Office support
+
+• Production work
+
+• Food services
+
+• Mechanical 
+
+• Production work
+
+• Food services
+
+• Production work
+
+• Production work
+
+• Office support
+
+• Customer service 
+
+and sales
+
+• Mechanical 
+
+installation and 
+repair
+
+installation and 
+repair
+
+• Builders
+
+• STEM 
+
+professionals
+
+• Business or legal 
+
+professionals
+
+Note: “Occupational shifts” refers to net declines in employment in specific occupations in 2016–19 and 2019–22. However, we do not know exactly how 
+individuals moved from one occupation to another or if they made multiple moves; for that reason, we refer to the number of occupational shifts rather than 
+specifying the number of workers making those changes. Transitions are calculated where there is a decline in net demand for an occupation and employees of 
+that workforce would have to leave for another occupation. Even in categories that are growing overall, employment may decline in specific occupations, requir-
+ing some workers to find new roles. People joining a new occupation are not counted toward transitions, to avoid double counting. 
+1For Europe, we used the “faster” scenario, which corresponds to the “midpoint” scenario in the United States. The “faster” or midpoint adoption scenario is the 
+average between the early and late scenarios. The “slower” scenario is the average between the late scenario and the midpoint scenario.
+2Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom. 
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+16
+
+2016–192019–222022–302016–192019–222022–30A new future of work: The race to deploy AI and raise skills in Europe and beyond 
+About 30 percent of current work activities could be 
+automated by 2030, accelerated by gen AI deployment
+
+The automation of work is the predominant driver of the need for occupational transitions 
+by 2030, our analysis finds. Automation and AI technologies have already changed the way 
+people work and will continue to do so. More recently, the emergence of gen AI and the rapid 
+spread of solutions such as ChatGPT are likely to mark a paradigm shift in the automation of 
+work activities, since this technology significantly accelerates the automation potential of 
+complex and cognitive tasks once thought to be the sole domain of human judgment.11 
+
+Our analysis finds that, with gen AI, 27 percent of the hours worked in Europe and 30 percent 
+of hours worked in the United States today could be automated by 2030, based on a midpoint 
+adoption scenario (Exhibit 5).12 By 2035, these figures could rise to 45 percent in Europe and 
+48 percent in the United States—reflecting a continuing increase of automation potential in 
+the coming decade. (Our model suggests that many hours worked would still be automated 
+even without gen AI but fewer than with it: 20 percent in Europe and 21 percent in the 
+United States by 2030.)
+
+With gen AI, 27 percent of 
+the hours worked in Europe 
+and 30 percent of hours 
+worked in the United States 
+today could be automated by 
+2030, based on a midpoint 
+adoption scenario. 
+
+11  McKinsey has published extensively on gen AI and its potential uses. See, for example, “The economic potential of 
+
+generative AI: The next productivity frontier,” McKinsey, June 14, 2023.
+
+12  Hours worked refers to hours worked on specific activities in today’s economy. Automation adoption is derived from 
+automation potential, which is the theoretical maximum that could be automated, considering current technological 
+capabilities. The pace of actual adoption typically lags behind technical potential. It is affected by the time needed for 
+solution integration, whether it is economically feasible to replace human labor with technology, and multiple other barriers 
+such as customer acceptance, labor laws, and companies lacking the right workforce skills.
+
+17
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 5
+Exhibit <5> of <16>
+
+With a boost from generative AI, up to 30 percent of work hours could 
+become automated by 2030 in Europe and the United States. 
+
+Automation adoption,¹ Europe2 and US 
+faster/midpoint scenario, 2030, % as a 
+share of time spent on current work activities
+
+Automation adoption without generative AI, %
+
+xx
+
+Automation adoption with generative AI, %
+Acceleration in automation adoption from generative AI, 
+percentage points
+
+Europe2
+
+US
+
+Automation adoption, 
+%
+
+2022 
+employment, 
+million
+
+Automation adoption, %
+
+2022 
+employment, 
+million
+
+Highly 
+accelerated
+
+Educator and 
+workforce training
+
+15
+
+STEM professionals
+
+Creatives and arts 
+management
+
+Business or legal 
+professionals
+
+Community services
+
+Office support
+
+Managers
+
+Property maintenance
+
+Builders
+
+Mechanical installation 
+and repair
+
+Production work
+
+Food services
+
+Transportation services
+
+Health professionals
+
+Customer service 
+and sales
+
+Agriculture
+
+Moderately 
+accelerated
+
+Health aides, techni-
+cians, and wellness
+
+All occupational 
+categories3
+
+14
+
+13
+
+13
+
+8
+
+7
+
+7
+
+8
+
+6
+
+6
+
+5
+
+5
+
+5
+
+3
+
+5
+
+5
+
+4
+
+8
+
+11.6
+
+14.0
+
+4.1
+
+14.9
+
+8.8
+
+27.1
+
+12.4
+
+7.9
+
+9.7
+
+6.1
+
+16.6
+
+8.5
+
+6.3
+
+6.3
+
+14.0
+
+4.1
+
+12.9
+
+185
+
+16
+
+16
+
+15
+
+14
+
+9
+
+9
+
+6
+
+7
+
+6
+
+5
+
+4
+
+5
+
+5
+
+6
+
+6
+
+3
+
+8
+
+4
+
+9.9
+
+7.9
+
+2.2
+
+16.0
+
+6.8
+
+20.1
+
+9.7
+
+4.6
+
+7.0
+
+6.6
+
+13.3
+
+13.7
+
+5.6
+
+6.5
+
+14.7
+
+2.1
+
+11.6
+
+158
+
+Note: Figures may not sum, because of rounding.
+1Midpoint automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: The 
+next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint scenario.
+2Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom. 
+3Totals are weighted by 2022 employment in each occupation in respective occupational categories.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+18
+
+613913182912132427313219112126142021272226263619203033363724162630172710152025303571410161931141226283132211223271621243025302838231832333537261929302030101520253035A new future of work: The race to deploy AI and raise skills in Europe and beyondThe potential for automation varies greatly across occupations. With the integration of gen AI, 
+STEM professionals in Europe could see automation of the percentage of hours worked more 
+than double, from 13 percent to 27 percent. Automation of hours worked for roles in education 
+and workforce training could more than triple, from 6 percent without integration of gen AI to 
+21 percent with it. 
+
+Gen AI could also extend automation’s influence into areas requiring imagination, creativity, 
+and critical judgment. For example, the creative and arts sectors, typically associated with a 
+high degree of human originality and innovation, face a possible increase in the proportion of 
+hours worked from 9 percent being automated without gen AI to 22 percent with it. Similarly, 
+the automation adoption of business and legal professions could rise from 13 percent without 
+gen AI to 26 percent with it.
+
+In evaluating the impact of automation technologies, the technical ability of machines is not 
+the only factor. Complementarity between the worker and the technology—notably AI—will 
+be decisive in propelling adoption. The concept of complementarity, although not the focus of 
+our report, is critical for the future of work. As discussed in a recent report by the International 
+Monetary Fund (IMF),13 AI complementarity measures the extent to which technologies can 
+support workers in their tasks (expanding human labor without replacing it). Complementarity 
+varies across different types of occupations, measured through the technicality of applying AI 
+as well as social acceptability.
+
+These insights suggest a considerable shift toward embracing gen AI across the board and 
+automation of work hours more broadly. However, our analysis also indicates that the effect of 
+gen AI on the workforce is not linear and uniform but nuanced and occupation-specific (see 
+Box 2, “What could hinder technology adoption including AI?”). 
+
+13  Mauro Cazzaniga et al., Gen-AI: Artificial intelligence and the future of work, IMF, January 2024.
+
+Box 2
+What could hinder technology adoption including AI? 
+
+Numerous factors might hinder the 
+estimated growth of AI and generative AI 
+(gen AI) that underpins our analysis in this 
+report. 
+
+On the demand side, the integration of 
+automation, AI, and gen AI into existing 
+systems could take longer than expected 
+if companies struggle to pinpoint effective 
+applications or lack relevant workforce 
+expertise. Furthermore, the costs 
+associated with developing and deploying 
+these technologies may escalate if there 
+are shortages in computing power or 
+energy resources. Another potential 
+challenge is the sustainability of wage 
+increases due to labor augmentation, 
+
+which could impede further technological 
+uptake. Finally, customer acceptance and 
+other factors including social, political, 
+or regulatory developments that we have 
+not explicitly modeled, may need to be 
+considered, as AI-fueled automation 
+may require behavioral changes in 
+some cases—for example, customers 
+may need to accept that they will not 
+speak to human agents during customer 
+support calls. A perception of lacking risk 
+management by AI suppliers could also 
+hinder customer acceptance.
+
+On the supply side, technological 
+advancements may stall, especially if 
+adoption rates fall short of expectations 
+
+or if other factors impede technological 
+development. For example, physical 
+constraints on energy supply could pose 
+significant barriers to the rapid increase 
+in computing demands: AI and deep 
+learning models require substantial 
+computational power (approximately 
+40 percent of data centers’ electricity 
+consumption is dedicated to computing). 
+The International Energy Agency (IEA) 
+estimates in a high-case scenario that 
+the amount of electricity data centers 
+consume could more than double from 
+2022 to 2026, from 460 terawatt-hours 
+to about 1,000.1 
+
+1  “Electricity 2024,” IEA, 2024.
+
+19
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondNet-zero actions, aging demographics, and e-commerce 
+will also affect employment demand
+
+Among other trends that will affect labor markets in Europe and the United States in the 
+years ahead, we focus here on three: the impact of the push to achieve net-zero emissions, 
+changing demographics, and the rise of e-commerce.
+
+Net-zero actions could increase demand for work and lead to 
+occupational transitions in both Europe and the United States
+Europe and the United States have committed to achieving net-zero emissions by 2050 with 
+interim targets of reducing emissions 55 percent and 50 percent, respectively, by 2030.14 EU 
+countries have also committed to binding principles affecting almost all sectors by 2030 in 
+the Fit for 55 package of measures.15 Along with heightened regulation, the European Union 
+is emphasizing sustainable spending and aims to mobilize a minimum of €1 trillion in green 
+investments by 2030.16 In the United States, the Inflation Reduction Act has boosted green 
+spending, allocating approximately $400 billion toward green initiatives.17 
+
+These regulatory and investment commitments to the net-zero transition could lead to 
+structural shifts in the labor market by 2030. To estimate the effect of the net-zero transition, 
+we built on previous McKinsey research18 assessing the global impact through 2050 with 
+regional deep dives on the European Union and the United States, using the Net Zero 2050 
+scenario from NGFS.19
+
+Our analysis suggests that the net-zero transition in Europe could result in 3.0 million gross 
+displacements by 2030 through direct and indirect effects across the economy and driven 
+by lower demand for jobs in carbon-intensive industries such as oil, gas, and coal. These 
+losses could be offset by the potential gross gains of 4.5 million to 5.0 million jobs, primarily 
+led by fields such as renewable-power generation and storage, construction, and electric 
+vehicles. In the United States, our analysis suggests that the transition could result in gross 
+displacement of some 3.5 million positions through direct and indirect effects across the 
+economy. But these losses should be more than offset by the gains of 4.2 million jobs. 
+
+Capital spending to build low-emissions facilities and to retrofit existing infrastructure is 
+expected to drive much of the demand. In the power sector, in both the European Union and 
+the United States, our analysis suggests that about a million new jobs (gross) could be added 
+by 2030, boosted mainly by new employment in solar and wind power, with a share of these 
+power jobs involving manufacturing and installing new infrastructure. Retrofitting homes and 
+commercial buildings with green heating and improved insulation systems could add a gross 
+500,000 to one million jobs in the buildings sector in both regions. Some of these shifts are 
+already playing out: in the United States, the solar industry employs twice as many workers as 
+the coal industry.20 
+
+14  “The European Green Deal: Striving to be the first climate-neutral continent,” European Commission, accessed 
+
+May 1, 2024; The long-term strategy of the United States: Pathways to net-zero greenhouse gas emissions by 2050, 
+US Department of State and US Executive Office of the President, November 2021.
+
+15  “Fit for 55,” European Council, accessed May 1, 2024.
+16  “Europe’s one trillion climate finance plan,” European Parliament, updated June 2021.
+17  “The Inflation Reduction Act: Here’s what’s in it,” McKinsey, October 2022.
+18  “The net-zero transition: What it would cost, what it could bring,” McKinsey Global Institute, January 2022.
+19  Net Zero 2050 scenario using REMIND MAgPIE 2.1-4.1, NGFS, accessed May 1, 2024. For details, see the technical 
+
+appendix.
+
+20 “National solar jobs census 2021,” Interstate Renewable Energy Council, July 2022. 
+
+20
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondSome countries with high concentrations of jobs in affected industries may experience bigger 
+shifts. For example, Poland and other countries in Central and Eastern Europe that have 
+strong legacies of coal mining and power generation may face higher levels of occupational 
+transitions. At the same time, the emergence of new industries such as hydrogen and biofuels 
+could create new industrial hubs in areas where sustainable and low-priced electricity will 
+be available. For example, Spain could become a competitive producer of green hydrogen, 
+leveraging its historical leadership in wind energy (with about 30 gigawatts installed capacity) 
+and solar resources.21 
+
+With aging demographics and higher spending, demand for 
+healthcare-related services could significantly increase
+Developed countries are already demanding more healthcare-related services. This trend is 
+expected to continue and accelerate in the coming years. Two drivers behind this acceleration 
+are the aging population and surging healthcare spending.
+
+In the ten European countries that are the focus of this report, the elder population—that is, 
+people over age 65—almost doubled between 1980 (43 million) and 2022 (82 million). In the 
+same period in the United States, the elder population more than doubled, from 24 million to 
+57 million. While growth is expected to slow slightly in both regions in coming years compared 
+with the past decade, the increase in the elder population will still be significant, amounting 
+to 94 million people in the ten European focus countries in 2030 (18 percent of the overall 
+population) and 70 million people in the United States (19 percent of the population) in the 
+same period.22 This in turn will drive demand for healthcare.
+
+A surge in per capita spending on healthcare will also lift the demand for healthcare services. 
+Historically, the United States has spent more on healthcare per capita than Europe and has 
+increased its spending at a faster rate. While per capita healthcare spending in the United 
+States is higher than in Europe, the acceleration could be steeper in Europe, with spending 
+growing at an annual average rate of 6.5 percent between 2022 and 2030, compared with 2.4 
+percent annually in the United States, according to our analysis.
+
+E-commerce is among factors that could affect occupational transitions
+E-commerce exploded during the COVID-19 pandemic, and it could continue to affect labor 
+demand and drive occupational transitions. Its continued growth will likely increase demand 
+for logistics and warehousing workers but could decrease demand for in-store occupations. 
+Our analysis suggests that this trend could be broadly similar across Europe, with decreases 
+in labor demand in traditional retail balanced by a similar scale of increase in e-commerce.
+
+21  “Net-zero Spain: Europe’s decarbonization hub,” McKinsey, September 23, 2022.
+22 The elder population would increase by 1.6 percent annually in Europe and by 2.6 percent in the United States between 
+2022 and 2030, compared with 1.8 percent in Europe and 3.2 percent in the United States between 2012 and 2022. For 
+details, see “Population data,” OECD, accessed May 3, 2024; and “Healthcare spending projections,” IMF, accessed 
+May 3, 2024.
+
+21
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyond3
+
+The varied geography of 
+labor market disruptions 
+
+The scale of the occupational transitions required is roughly on the same order of 
+magnitude across economies, but the specifics vary depending on each region’s economic 
+structure—that is, differences in sectoral structure and occupational mix. The impact of 
+automation and the other trends we used in our modeling reflect this. Nonetheless, there 
+are notable differences in the mix of occupations affected in each country. In this chapter, we 
+highlight those differences, with a focus on Europe. 
+
+The scale of occupational transitions required is 
+similar across countries, but their mix differs
+
+For Europe, our analysis indicates that the impact of occupational transitions between 2022 
+and 2030 will range quite narrowly, from a net 6.0 percent of employment in transition across 
+occupations in the United Kingdom to 7.4 percent in Sweden—relatively small differences 
+over an eight-year period. Yet a closer look at how labor market trends will affect each country 
+reveals some local divergences, notably in the mix of occupations likely to be affected (Exhibit 
+6). Such variations are driven by two considerations. First, differences in the structure of 
+employment, such as the preponderance of certain sectors, determine the share of the 
+workforce in occupations likely to be disrupted. For example, the share of employment 
+in occupations with high technical automation potential—those involving more routine 
+predictable tasks or more advanced work that gen AI technologies can perform—varies 
+across economies. Additionally, some types of work are more susceptible to dislocation due 
+
+22
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondto net-zero actions; countries heavily invested in the oil, gas, and coal sectors, for example, 
+could have a higher concentration of occupational transitions. Second, wage levels vary 
+among countries.23 Within the same occupation, countries with higher wages could have more 
+occupational transitions because higher wages give companies an economic incentive to 
+automate.
+
+Office support, production work, and agriculture—all of which would see a decrease in 
+labor demand, according to our analysis—exemplify the regional variations in occupational 
+transitions ahead.
+
+ — Office support. Occupational transitions required in office support constitute the largest 
+share of transitions in all ten European countries we studied. This is particularly true in 
+Denmark, Germany, and Italy, where they account for more than 50 percent of the overall 
+number of occupational transitions, while in Poland and Sweden they represent only 30 
+to 35 percent. Germany and Italy have a relatively high concentration of employment in 
+office support work, which is why the share of occupational transitions from these jobs 
+would be so high. By contrast, in Sweden, office support accounts for less than 11 percent 
+of employment, and thus the share of occupational transitions from this occupational 
+category is likely to be lower, based on our analysis. Wages for office support workers are 
+higher in Denmark than in, say, Poland, making automation adoption in office work more 
+likely in Denmark than in Poland. Consequently, Denmark could experience 50 percent of 
+its occupational transitions in office support, due to the strong wage-related incentives to 
+automate these jobs, while in Poland, where wages are relatively lower, the share of office 
+support in total potential occupational transitions could fall to 30 percent.
+
+ — Production work. Occupational transitions from production work constitute a higher 
+
+share of total transitions in the Czech Republic and Poland (32 percent and 23 percent, 
+respectively). In the Netherlands and the United Kingdom, by contrast, this share falls to 9 
+percent and 8 percent, respectively. More production work stems from carbon-intensive 
+industry in Poland and the Czech Republic than in the Netherlands or the United Kingdom. 
+These occupations could face disruptions because of net-zero transitions, driving up the 
+share of production work in occupational transitions in these countries. 
+
+ — Agriculture. Poland would experience the most impact in agriculture, with more than 
+
+11 percent of its 2030 potential occupational transitions coming from farming. In other 
+European countries, the share of agriculture in occupational transitions would be much 
+lower, ranging from 4 percent in Spain to less than 1 percent in the United Kingdom. 
+Poland is particularly susceptible to occupational transitions in agriculture because 
+the agricultural occupation category represents 6 percent of total employment, two to 
+three times higher than in other countries. The share held by agriculture in the expected 
+occupational transitions in Poland is thus three to ten times higher than in other countries. 
+This is exacerbated by the fact that agriculture in Poland is not yet highly automated today.
+
+23 Gen-AI: Artificial intelligence, January 2024.
+
+23
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondBeyond current employment structure and wage rates, research indicates that AI readiness 
+will be needed to unlock AI potential and can explain some local divergences in labor market 
+outcomes across countries. “AI readiness” refers to a country’s ability to adopt and deploy 
+AI technologies across the private and public sectors. The IMF, for example, groups factors 
+influencing AI readiness into four categories: digital infrastructure, innovation and economic 
+integration, human capital and labor market policies, and regulation.24 These elements vary 
+across the ten European countries that are the focus of this report and imply different labor 
+market outcomes. For example, Germany shows the highest level of preparedness among 
+the ten European countries (around 0.8 on a scale of 0.0 to 1.0). Germany and the United 
+Kingdom are two of the highest-scoring countries in terms of AI readiness.
+
+Such differences also exist within countries. Our prior research on the future of work in 
+Europe has shown that Europe has highly varied local labor markets with strong local 
+specificities. In Europe, only a few dozen cities drive GDP growth, while hundreds of shrinking 
+regions have declining workforces, older populations, and lower educational attainment.25 
+Similar geographic concentrations exist in the United States.
+
+While the scale of the 
+occupational transitions 
+required is roughly on the 
+same order of magnitude 
+across the economies we 
+analyzed, there are notable 
+differences in the mix of 
+occupations likely to be 
+affected in each country, 
+based on our modeling.
+
+24 Ibid.; see also “Government AI Readiness Index 2023,” Oxford Insights, December 2023.
+25 “The future of work in Europe,” McKinsey Global Institute, June 10, 2020.
+
+24
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 6
+Exhibit <6> of <16>
+
+The scale of occupational transitions is broadly similar across countries, 
+with some differences in the mix.
+
+Expected transitions by occupational categories, faster/midpoint 
+scenario,1 2022–30, % of total transitions in the country
+
+<2%
+
+2–9%
+
+10–19%
+
+20–43%
+
+35–45%
+
+>45%
+
+Occupational
+categories
+
+Total occupational 
+transitions, million 
+(% of 2022 
+employment)
+
+3.0
+(7.0%)
+
+1.7
+(6.1%)
+
+0.6
+(6.3%)
+
+1.9
+(6.0%)
+
+1.2
+(6.0%)
+
+0.4
+(7.4%)
+
+1.6
+(7.0%)
+
+0.2
+(7.1%)
+
+0.3
+(6.3%)
+
+1.0
+(6.1%)
+
+12.0
+(6.5%)
+
+11.8
+(7.5%)
+
+Note: Figures may not sum, because of rounding. Transitions are calculated where there is a decline in net demand for an occupation and employees of that 
+workforce would have to leave for another occupation. Even in categories that are growing overall, employment may decrease in specific occupations, requiring 
+some workers to find new roles. People joining a new occupation are not counted toward transitions, to avoid double counting.
+1For Europe, we used the “faster” scenario, which corresponds to the “midpoint” scenario in the United States. The “faster” or midpoint adoption scenario is the 
+average between the early and late scenarios. The “slower” scenario is the average between the late scenario and the midpoint scenario.
+2Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom. 
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+25
+
+GermanyFranceNetherlandsUnitedKingdomSpainSwedenItalyDenmarkCzechRepublicPolandEurope2UnitedStatesOffice supportCustomer serviceand salesProduction workFood servicesBusiness or legalprofessionalsBuildersEducator andworkforce trainingMechanicalinstallation andrepairAgricultureCommunityservicesManagersTransportationservicesCreatives and artsmanagementSTEMprofessionalsPropertymaintenanceHealth aides,technicians, andwellnessHealthprofessionals541716511031101000005016135522211000000049189581222101010004317857262022111100411816633514201000003518157537123110100051201362301210000000501610642511111011004312323320121010000030202353102111020000047171454222211100000402312106222111000000A new future of work: The race to deploy AI and raise skills in Europe and beyond4
+
+New skills for a new era
+
+New technologies require new workforce skills. As a result of the advent of digital, for example, 
+almost all jobs, from nursing to truck driving, have some digital component today. With AI and 
+gen AI on the rise, this chapter looks at which skills could be in high demand by 2030 and which 
+may see a decline. 
+
+In our McKinsey Global Institute Future of Work model, we categorized 25 workforce skills into 
+five groups: physical and manual, basic cognitive, higher cognitive, social and emotional, and 
+technological. We measured the current time allocation for each skill and projected the shifts 
+that could be needed by 2030 as a direct consequence of the shifts in employment demand we 
+modeled.26 We find that the need for technological expertise, as well as social and emotional 
+skills, could continue to rise to 2030. 
+
+We supplemented our modeling with a survey of more than 1,100 C-level executives in France, 
+Germany, Italy, the United Kingdom, and the United States.27 They report that some of the skills 
+most valued for the future are scarce in today’s market. Companies and workers will thus need 
+to pivot quickly to adapt to the changes. Businesses face critical choices about retraining staff, 
+recruiting new talent, or finding alternative strategies to secure the necessary skills for a new 
+era of technology.
+
+26 See technical appendix for details. Workers use multiple skills to perform a given task, but for the purposes of our 
+
+quantification, we identified the predominant skill used. For example, in banking and insurance, we mapped “prepare 
+business correspondence” and “prepare legal or investigatory documentation” to the skill “advanced literacy and writing,” 
+which is grouped in the category of higher cognitive skills. In retail, we classified “stock products or parts” into gross motor 
+skills and strength in the category of physical and manual skills, while “greeting customers, patrons, or visitors” is mapped to 
+basic communication skills, in the basic cognitive category.
+
+27 The survey was conducted by Dynata in March 2024. Thirty-three percent of the companies surveyed had fewer than 500 
+employees, 44 percent had 500–5,000, and the remainder were larger. Companies were active in sectors ranging from 
+technology and financial services to healthcare, automotive, and retail. The survey also asked respondents to self-report 
+whether their profit margin was higher or lower relative to the industry average. For details, see the technical appendix.
+
+26
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondOccupational transformations will require a large shift in skills
+
+The occupational transitions outlined in the previous chapter underscore substantial shifts 
+in workforce skills in a future in which automation and AI are integrated into the workplace. 
+Physical skills remain important, but technological and social and emotional skills could be in 
+higher demand (Exhibit 7).28 
+
+Demand for technological skills—by which we mean the number of hours worked for which 
+technological skills are predominant—could see substantial growth in Europe and in the 
+United States (increases of 25 percent and 29 percent, respectively, in hours worked by 2030 
+compared to 2022) under our faster, midpoint scenario of automation adoption. 
+
+Demand for social and emotional skills could rise by 11 percent in Europe and by 14 percent in 
+the United States. Underlying this increase is higher demand for roles requiring empathy and 
+leadership skills, which could rise by 20 percent and 14 percent in Europe and by 23 percent 
+and 15 percent in the United States by 2030, according to our analysis. These skills are crucial 
+in healthcare and managerial roles in an evolving economy that demands greater adaptability 
+and flexibility.
+
+Conversely, demand for work in which basic cognitive skills are predominant is expected to 
+decline. Basic cognitive skills are required primarily in office support or customer service roles, 
+which are highly susceptible to being automated or enhanced by AI. Our analysis suggests 
+that demand for these types of activities could decrease by 14 percent. Among these basic 
+cognitive skills that characterize work experiencing significant drops in demand are basic 
+data processing and literacy, numeracy, and communication (by 17 percent and 9 percent, 
+respectively, in Europe and by 16 percent and 11 percent, respectively, in the United States). 
+
+Demand for work in which higher cognitive skills are predominant would also decline slightly—
+by 4 percent in Europe and 2 percent in the United States by 2030—according to our analysis. 
+While creativity is expected to remain highly sought after, with a potential increase of 12 
+percent in Europe and 16 percent in the United States by 2030, activities predominated by 
+other advanced cognitive skills such as advanced literacy and writing, along with quantitative 
+and statistical skills, could likely see lower demand, with both declining by 19 percent in 
+Europe. This can be attributed to the potential of automating activities primarily requiring 
+these skills and may particularly affect business and legal professions. 
+
+Demand for work in which physical and manual skills are predominant on the other hand, 
+could decrease by 1 percent by 2030 in Europe. These activities remain the largest 
+share of labor, representing about 30 percent of total hours worked in 2022. Lower than 
+expected decline in these  skills between 2022 and 2030 could come from the build-out 
+of infrastructure and production shifts in sustainability sectors.29 Higher demand may also 
+reflect a renewed focus in both Europe and the United States on industrialization and the 
+reshoring of production.30 In addition, e-commerce drives demand for warehousing and 
+transportation work, which involves physical and manual skills. Healthcare occupations, 
+particularly in healthcare support, also require a high degree of physical skills. 
+
+28 Estimations of future demand for skills are based on the predominant skill used to perform one activity rather than the full 
+
+spectrum of skills used to perform an activity.
+
+29 See Ezra Greenberg, Erik Schaefer, and Brooke Weddle, “Tradespeople wanted: The need for critical trade skills in the 
+
+US,” McKinsey, April 9, 2024.
+
+30 In Europe, for example, the 2024 Antwerp Declaration seeks to enhance the competitiveness, resilience, and sustainability 
+of Europe’s industrial landscape by tackling significant challenges such as dwindling demand, stalled investments, and 
+the need for a vigorous, green transition. Almost 700 European companies have endorsed declaration. See “The Antwerp 
+Declaration for a European Industrial Deal,” accessed May 2, 2024. US legislation—including the Bipartisan Infrastructure 
+Law and the America Creating Opportunities for Manufacturing Pre-Eminence in Technology and Economic Strength 
+(America COMPETES) Act—aims to modernize transportation systems, bolster supply chains, and enhance domestic 
+manufacturing. 
+
+27
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 7
+Exhibit <7> of <16>
+
+Demand for technological and social and emotional skills could increase 
+in Europe.
+
+Main skill 
+categories
+
+Skills mix in Europe,1 
+share of total hours, %
+
+Net change of total hours worked, 
+in Europe, faster scenario,1 
+2022–30, %
+
+Net change of total hours 
+worked, in US, 2022–30, 
+%
+
+Technological 
+
+Social and emotional 
+
+Physical and manual 
+
+Higher cognitive 
+
+Basic cognitive 
+
+Evolution of skills mix
+
+Advanced data analysis and mathematical skills
+Advanced IT skills and programming
+Basic digital skills
+Scientific research and development
+Technology design, engineering, and maintenance
+Adaptability and continuous learning
+Advanced communication and negotiation skills
+Entrepreneurship and initiative-taking
+Interpersonal skills and empathy
+Leadership and managing others
+Teaching and training others
+Craft and technician skills
+Fine motor skills
+General equipment operation and navigation
+General equipment repair and mechanical skills
+Gross motor skills and strength
+Inspecting and monitoring
+Advanced literacy and writing
+Complex information processing and interpretation
+Creativity
+Critical thinking and decision making
+Project management
+Quantitative and statistical skills
+Basic data input and processing
+Basic literacy, numeracy, and communication
+
+Change of total hours 
+worked in Europe,1 2022–30
+
+>20%
+
+10% to 20%
+
+0% to 10%
+
+–10% to 0%
+
+–20% to –10%
+
+Note: Figures may not sum to 100%, because of rounding. For percentage values, upper bounds are exclusive, while lower bounds are inclusive. Europe 
+includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom. 
+1While workers might use multiple skills to perform a given task, for the purposes of our quantification, using O*NET data, we classified ~2,100 work activities 
+associated with approximately 850 occupations according to the primary type of skill used.The “faster” or midpoint adoption scenario is the average between 
+the early and late scenarios. The “slower” scenario is the average between the late scenario and the midpoint scenario.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+28
+
+20222030161323213130182012152511−1−4−1429143−2−14A new future of work: The race to deploy AI and raise skills in Europe and beyondBusiness executives report skills shortages 
+today and expect them to worsen 
+
+The shift in skill requirements has major implications for businesses. Our survey of C-suite 
+executives shows that companies are already grappling with skills challenges—and highlights 
+how they are responding. 
+
+Indeed, executives face a skills mismatch even today, particularly in technological, higher 
+cognitive, and social and emotional skills: about one-third of companies report a shortfall in 
+these critical areas. At the same time, a notable number of executives say they have enough 
+employees with basic cognitive skills and, to a lesser extent, physical and manual skills. 
+This situation stems from the shift toward a service-based economy that prioritizes higher 
+cognitive and technological skills, rather than basic cognitive and physical and manual skills, 
+as well as the rise of automation and AI, which diminishes the demand for easily replaceable 
+skills. 
+
+Within technological skills, companies in our survey reported that their most significant 
+shortages are in advanced IT skills and programming, advanced data analysis, and 
+mathematical skills. Among higher cognitive skills, significant shortfalls are seen in critical 
+thinking and problem structuring and in complex information processing. About 40 percent of 
+the executives surveyed pointed to a shortage of workers with these skills, which are needed 
+for working alongside new technologies. Indeed, the survey highlights a demand for complex 
+analytical and cognitive abilities that automation and AI have yet to supplant.
+
+The challenge is more acute in Europe, where more companies report a shortfall of 
+technological and higher cognitive skills compared to the United States; the difference is six 
+percentage points for technological skills and two percentage points for higher cognitive 
+skills. Conversely, more companies in Europe reported having sufficient workers with physical 
+and manual skills and basic cognitive skills than in the United States. 
+
+Skill shortages are perceived to be getting more acute: our survey shows that the skills 
+projected to experience the most demand growth by 2030 are precisely those that are 
+currently in shortest supply. Comparing this year’s survey results with a 2018 survey that 
+examined skill shift requirements for the automation age, we find that the demand for 
+skills may be even more pronounced than we suggested just six years ago.31 In our latest 
+survey, about one in five respondents reported an increase in expected future skills needed 
+by 2030,32 while about one in four expressed a need for more technological, social and 
+emotional, and higher cognitive skills—the same skills that are perceived to be in shortage 
+today. 
+
+Technological skills have the highest overall expected need in response to the digital 
+transformation of all sectors, while higher cognitive skills and social and emotional skills 
+are also expected to experience significant growth in demand. Survey respondents also 
+anticipate continued growth in demand for physical and manual skills and basic cognitive 
+skills, although at slower rates compared to other skills, reflecting their ongoing, albeit 
+diminishing, role in the evolving economic structure. Compared with the 2018 executive 
+survey, companies today expect a greater need for physical and manual skills in the future 
+than they previously anticipated.33 This trend is in line with the results of other recent skill-
+focused research led by the World Economic Forum and others.34
+
+31  “Skill shift: Automation and the future of the workforce,” McKinsey Global Institute, May 23, 2018.
+32 Difference between percent of survey respondents who expect to need a skill more and share of survey respondents who 
+
+expect to need it less in the next six years.
+
+33 “Skill shift,” May 23, 2018. 
+34 The future of jobs report 2023, World Economic Forum, May 2023; see also Rui Costa, Christopher A. Pissarides, and 
+
+Bertha Rohenkohl, “Old skills, new skills: What is changing in the UK labour market?,” Centre for Economic Performance, 
+London School of Economics and Political Science, February 21, 2024.
+
+29
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondMismatches could be even greater in skills that are not widely used today
+The executives we surveyed anticipate that demand for skills will be more differentiated in the 
+future. For example, within the group of technological skills, the picture varies by specific skill. 
+Demand for basic IT skills is projected to grow by 15 percent, driven by the widespread need 
+for proficiency across all roles. Meanwhile, demand for advanced IT skills is expected to surge 
+by 34 percent, along with demand for data analytics and scientific research. This indicates 
+that companies will need to acquire or build specialized technology skills even as more 
+routine IT tasks are automated by AI. Coding remains a complex skill today that requires deep 
+technical knowledge and problem-solving abilities. Demand for more technical roles requiring 
+advanced IT skills will continue to grow. Similarly, within higher cognitive skills, critical thinking 
+and creativity are seen as more essential skills of the future, which executives link to the need 
+for innovation and strategic differentiation. Within social and emotional skills, adaptability and 
+entrepreneurship are highlighted as key future needs, linked to being able to navigate future 
+disruptions and embrace a culture of learning and flexibility that will be essential in adopting 
+automation and AI. 
+
+To understand the challenges companies face, we compared the expected future need 
+for skills with the degree to which companies use those skills today (Exhibit 8). The skills 
+that are both heavily used today and expected to significantly increase in demand include 
+advanced IT, technology engineering, advanced data analytics, and creativity. Winning the 
+race to acquire such skills will remain a challenge for companies. Yet they may face even 
+greater challenges in acquiring skills that are less used today but predicted to be in high 
+demand by 2030. These include critical thinking, complex information processing, product 
+design, scientific research, and most social and emotional skills. Some skills that are widely 
+used today but for which demand will grow only modestly include basic IT, basic data input, 
+and equipment operation. These represent opportunities for companies to find workflow 
+efficiencies and strategies for worker retraining. Finally, the skills that respondents say are not 
+much in use today and will grow only modestly in demand represent niche skills (such as craft 
+and technician skills) or basic nondifferentiated competencies (such as basic literacy or gross 
+motor skills). 
+
+Skill shifts vary by type of company, based on the rate of 
+technology adoption and the underlying industry
+In our survey, executives from companies with higher financial performance—measured 
+by their self-reported net profit margin relative to peers—were more likely to anticipate 
+an increase in expected future skills needed by 2030 than their lower-performing 
+counterparts.35 On average, survey participants expect a 21 percent demand increase, but 
+that figure rises to 30 percent among executives at higher-profit companies. This is likely 
+because they have a greater capacity to invest in automation and AI technologies; companies 
+that self-report higher profit margins say they allocate more than 20 percent of their digital 
+budget to AI, some 14 percentage points more than medium performers (that is, executives 
+who reported a similar net profit margin to their peers).
+
+35 Average across all skills of the difference between the percentage of survey respondents who expect to need a skill more 
+
+and the percentage of respondents who expect to need it less.
+
+30
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 8
+Exhibit <8> of <16>
+
+Surveyed executives reported rising demand for technological and 
+advanced cognitive skills, relative to their share in today’s workforce.
+
+Skills1 of today vs skills of tomorrow in Europe2 and the US, %
+
+Most widely used skills today,3 % of survey respondents
+
+Prevalent yet stable
+
+Prevalent and growing
+
+Share of companies reporting 
+missing these skills today,4 %
+
+Physical and manual
+
+Basic cognitive
+
+Higher cognitive
+
+Social and emotional
+
+Technological
+
+Limited and stable
+
+Limited but growing
+
+Expected future skill need,5 % of survey respondents
+
+Note: Chart does not include fine motor skills, inspecting and monitoring, or quantitative and statistical skills. Axes represent median of corresponding data 
+points.
+1Skills descriptions were shortened.
+2 Includes France, Germany, Italy, and the United Kingdom. 
+3Question: What are the most widely used workforce skills in your organization today?
+4Question: In which workforce skills do you currently have a mismatch between those needed and those your workforce has (that is, which skills do too many or 
+too few workers have currently)?
+5Difference between % of survey respondents who expect to need a skill more and % of survey respondents who expect to need it less. Q: How do you antici-
+pate the skill needs of your workforce will evolve driven by AI-related technologies adoption in your organization within the next 6 years? 
+Source: 2024 McKinsey Global Institute survey, n = 1,128 C-level executives (305 from the US, 213 from Germany, 209 from the UK, 201 from Italy, and 200 
+from France)
+
+McKinsey & Company
+
+31
+
+AdvancedITAdvanceddataanalysisCriticalthinkingComplexinformationprocessingScientificresearchLeadershipProductand UXdesignTeachingandtrainingCreativityTechnologyengineeringOptimizationandplanningAdaptabilityProjectmanagementJudgment anddecision makingCommunicationand negotiationAdvancedliteracyEquipmentrepairGrossmotorInterpersonaland empathyEntrepreneurshipCraft andtechnicianBasic ITBasicliteracyEquipmentoperationBasicdatainput05101520253035400510152025303540A new future of work: The race to deploy AI and raise skills in Europe and beyondThe expected demand for skills varies across industries, our survey reveals. Executives 
+from technology and financial-services companies expect a more significant increase in 
+demand for skills by 2030 (at 35 percent and 21 percent growth, respectively) compared 
+with those from retail, healthcare, and automotive (at 17 percent, 14 percent, and 13 percent, 
+respectively). This may be because retail and healthcare have fewer workers using AI today 
+than technology and financial services. Indeed, the extent of the anticipated skill shifts by 
+2030 in each industry appears to be linked to technological familiarity and the disruptions 
+that their adoption entails.
+
+The adoption of technology and variations in industrial structure are leading to differing 
+demands for skills across regions. For instance, US executives anticipate a greater increase 
+in skill demand by 2030—on average, 13 percentage points higher than in Europe, a trend 
+observed across all skill categories.
+
+Companies see retraining as key to acquiring needed 
+skills and adapting to the new work landscape
+
+Surveyed executives expect significant changes to their workforce skill levels and worry 
+about not finding the right skills by 2030. Executives said they view the lack of skills and the 
+skills mismatch as barriers to future growth and profitability: more than one in four survey 
+respondents report that failing to capture the needed skills could directly harm financial 
+performance and indirectly impede their efforts to leverage the value from AI. 
+
+To acquire the skills they need, companies have three main options: retraining, hiring, and 
+contracting workers. Our survey suggests that executives are looking at all three options, with 
+retraining the most widely reported tactic planned to address the skills mismatch: on average, 
+executives plan to retrain 32 percent of employees, followed by hiring (23 percent) and 
+contracting (18 percent) (Exhibit 9). Retraining is the predominant strategy across industries, 
+although it varies in degree. For example, respondents in the automotive industry expect 
+36 percent of their workforces to be retrained, compared with 28 percent in the financial-
+services industry. 
+
+Retraining enhances the skill sets of current employees, maintaining organizational 
+knowledge and potentially boosting employee motivation and loyalty.36 While training may 
+require significant time and up-front costs, companies will need to weigh the benefits of 
+developing in-house training programs against those of outsourcing the training, for example 
+by partnering with educational institutions. 
+
+Hiring can be used to bring skills into an organization, but it has risks associated with talent 
+shortages and the unpredictability of new hires’ performance. Companies can improve their 
+hiring outcomes by using digital recruitment tools to ensure better matches, offering an 
+attractive work culture and benefits, and onboarding new hires in a deliberate way. 
+
+Contracting gives companies access to skills through contractors, freelancers, or temporary 
+workers. It enables rapid skill acquisition but may lead to loss of proprietary knowledge and 
+a mismatch with company culture. Currently, contracting fills primarily noncore, low-skill 
+roles, but shifts are occurring as highly educated professionals, attracted by flexibility and 
+autonomy, enter the contracting market and command high rates for specialized skills. 
+
+36 Sandra Durth, Asmus Komm, Florian Pollner, and Angelika Reich, “Reimagining people development to overcome talent 
+
+challenges,” McKinsey, March 3, 2023.
+
+32
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+Exhibit 9
+<MCK242172 VivaTech 2024>
+Exhibit <9> of <16>
+
+Companies expect to reskill one-third of their current workforce to address 
+the skills mismatch.
+
+Expected share of employees 
+affected by specific tactics to 
+address the skills mismatch in 
+2030,1 % of employees2 
+
+Most important retraining actions to take 
+in 2030, % of respondents3
+
+Of the companies that 
+mentioned retraining 
+as one of their tactics 
+to address the skills 
+mismatch, respondents 
+answered that they 
+would retrain an 
+average of 32% of 
+their workforce
+
+1Question: Within the next 6 years, when you think about how the use of AI will affect your workforce skill needs, how much are you planning on addressing the 
+potential skills mismatch with the following tactics?
+2“Figures do not sum to 100%, because "No change” and “Displacement” responses are excluded. 
+3Question: With regard to retraining existing talent, which of the following actions will be most important for your organization to take in 6 years? 
+4Freelance or consulting workers.
+Source: 2024 McKinsey Global Institute survey, n = 1,128 C-level executives (305 from the US, 213 from Germany, 209 from the UK, 201 from Italy, and 200 
+from France)
+
+McKinsey & Company
+
+Our survey responses suggest that these strategies have specific applications by job type. Hiring as a 
+strategy seems to be relatively successful for high- and medium-skill jobs but less so for low-skill jobs—
+some 76 percent of surveyed executives expect to hire high- and medium-skill workers compared to 58 
+percent expecting to hire low-skill workers. Retraining and contracting follow the same trend, albeit with 
+less variation among job categories.
+
+These findings highlight the importance for companies to invest in skills development now. Transitioning 
+from manual and physical skills to advanced IT skills is a time-intensive process, and early action is critical. 
+By focusing on workforce training today, companies can ensure they have the necessary technological and 
+other skills by 2030. Our survey results suggest that companies favor internal training programs, with 49 
+percent and 44 percent of respondents, respectively, choosing to develop and provide in-house training and 
+to offer on-the-job training coupled with mentorship. Internal training allows companies to better align their 
+needs with the programs they offer and teach the precise skills they require. External or remote retraining 
+actions are less popular but remain under consideration, with 38 percent of executives surveyed planning 
+to partner externally with educational institutions. This type of action can remain relevant in learning highly 
+technical skills or skills that are not yet prevalent within a company.
+
+33
+
+RetrainHireContract4322318Internally develop and deliveremployee retraining programsOffer more on-the-job trainingand mentoringPartner externally witheducational institutionsPartner externally with otherstakeholdersEncourage virtual or remotelearningReimburse tuition for externalclasses and educationOffer apprenticeships49443837342925A new future of work: The race to deploy AI and raise skills in Europe and beyond34
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondSector spotlights
+
+In this section, we examine four sectors in greater depth: wholesale and retail trade, 
+financial services, manufacturing, and healthcare. Based on our modeling, we explore how 
+these sectors would be affected by automation, AI, actions aimed at achieving a net-zero 
+transition, e-commerce, the aging population, and other trends. Focusing on Europe and the 
+United States, we assess how changes in labor demand could affect the occupational mix 
+and skills demand at a sector level. 
+
+35
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWholesale and retail trade
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <1> of <8>
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <1> of <8>
+
+Wholesale and retail trade would be the sector most 
+Wholesale and retail trade stands to be 
+affected by changes in employment demand in Europe, 
+the sector most affected by changes in 
+with an estimated 2.8 million people potentially needing 
+European employment demand. 
+to change occupations by 2030. Reductions in demand 
+for office support and customer service occupations 
+could be significant, while managerial, business, and legal 
+professionals could see increased demand, along with 
+transportation services roles. 
+
+Wholesale and retail trade, Europe,1 faster scenario2
+
+Share of labor demand, 2022–30, %
+
+Wholesale and retail trade stands to be 
+the sector most affected by changes in 
+European employment demand. 
+
+Wholesale and retail trade, Europe,1 faster scenario2
+
+Share of labor demand, 2022–30, %
+
+23.9M
+
+22.5M
+
+23.9M
+
+22.5M
+
+Technologies such as automated checkout systems and 
+Customer service 
+and sales
+chatbot-equipped kiosks are taking over routine tasks such 
+as payment processing and price checking. The continued 
+Office support
+rise of e-commerce could further reduce demand for 
+customer service occupations and increase demand for jobs 
+in logistics. With the rise of gen AI, roles such as office clerks 
+and executive secretaries would increasingly be supplanted 
+by digital productivity tools. 
+
+Business or legal 
+professionals
+
+Managers
+
+Production work
+
+Technological proficiency would also become more important 
+as innovations such as virtual try-on features and augmented 
+reality transform consumer interactions. 
+
+Mechanical 
+installation and repair
+
+Transportation 
+services
+
+Other
+
+Customer service 
+and sales
+
+Office support
+
+Managers
+
+Business or legal 
+professionals
+
+Production work
+
+Mechanical 
+installation and repair
+
+Transportation 
+services
+
+Other
+
+Top 5 growing and declining occupational groups
+Top 5 growing and declining occupational groups
+
+Top 5 growing and declining occupational groups
+Top 5 growing and declining occupational groups
+
+Detailed occupational groups
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+Managers and team leaders
+
+Material movers and loaders
+
+Health technicians and 
+pharmacists
+Computer engineers and 
+specialists
+Business and financial 
+specialists
+
+Financial clerks
+
+Wholesale and retail 
+production workers
+
+Administrative assistants
+
+Information and record clerks
+
+Sales workers
+
+Labor demand change, 2022–30, 
+thousands
+
+Detailed occupational groups
+
+Labor demand change, 
+2022–30, %
+
+Labor demand change, 2022–30, 
+thousands
+
+Employment, 
+2022, thousands
+
+Managers and team leaders
+
+8
+
+2,596
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+Material movers and loaders
+
+16
+
+21
+
+Health technicians and 
+pharmacists
+Computer engineers and 
+24
+specialists
+Business and financial 
+specialists
+
+7
+
+Financial clerks
+
+Wholesale and retail 
+production workers
+
+(32)
+
+(17)
+
+Administrative assistants
+(30)
+
+Information and record clerks
+
+(13)
+
+Sales workers
+
+(13)
+
+870
+
+629
+
+247
+
+928
+
+427
+
+1,034
+
+814
+
+2,312
+
+9,498
+
+Labor demand change, 
+
+Employment, 
+
+2022–30, %
+
+2022, thousands
+
+8
+
+16
+
+21
+
+24
+
+7
+
+(32)
+
+(17)
+
+(30)
+
+(13)
+
+(13)
+
+2,596
+
+870
+
+629
+
+247
+
+928
+
+427
+
+1,034
+
+814
+
+2,312
+
+9,498
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+McKinsey & Company
+
+McKinsey & Company
+
+36
+
+2022203036321714111291077663313152131361316060−138−173−246−289−1,2092022203036321714111291077663313152131361316060−138−173−246−289−1,209A new future of work: The race to deploy AI and raise skills in Europe and beyond 
+ 
+ 
+ 
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <2> of <8>
+
+Wholesale and retail trade stands to be the sector most affected by 
+changes in European employment demand.
+
+Wholesale and retail trade, Europe,1 faster scenario2
+
+Share of work hours by skill, 2022–30, %
+
+Main skills 
+categories
+
+Evolution of skill mix in 
+Europe,1 share of total 
+hours, %
+
+Evolution of total hours in Europe,1 %
+Evolution of total hours in US, %
+
+Most affected skills
+
+Technological 
+skills
+
+Social and 
+emotional 
+skills
+
+Physical and 
+manual skills
+
+Higher 
+cognitive skills
+
+Basic 
+cognitive skills
+
+• Basic IT skills
+• Technology design, engineering, 
+
+and maintenance
+
+• Advanced IT skills and programming
+
+• Interpersonal skills and empathy
+• Leadership and managing others
+• Advanced communication and 
+
+negotiation skills
+
+• Inspecting and monitoring
+• Gross motor skills and strength
+• Craft and technician skills
+
+• Advanced literacy and writing
+• Quantitative and statistical skills
+• Project management
+
+• Basic data input and processing
+• Basic literacy, numeracy, and 
+
+communication
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2Faster scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023.
+
+McKinsey & Company
+
+37
+
+2022203022202423242318201114166−10−12−17193−8−13−18A new future of work: The race to deploy AI and raise skills in Europe and beyondFinancial services
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <3> of <8>
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <3> of <8>
+
+With the adoption of gen AI, Europe’s finance sector could 
+The adoption of generative AI could 
+see a decrease in labor demand by 2030, with the largest 
+cause the finance sector to see a 
+reductions in office support and customer service roles. The 
+decrease in labor demand by 2030.
+shift from traditional banking to digital platforms, accelerated 
+by the pandemic, could drive demand for STEM professionals, 
+Financial services, Europe,1 faster scenario2
+reflecting a strategic focus on using data to enhance 
+customer engagement. This trend requires specialists 
+including data scientists and software engineers, particularly 
+as financial services companies invest in digital architecture 
+and IT modernization.
+
+Share of labor demand, 2022–30, %
+
+Office support
+
+5.8M
+
+5.6M
+
+Business or legal 
+professionals
+
+In line with these trends, approximately 600,000 individuals 
+in banking might need to change occupations by 2030. 
+However, the demand for professionals in STEM and 
+management roles, which generally require higher education, 
+would grow. Demand for technological skills is expected 
+STEM professionals
+to increase. The importance of social and emotional skills 
+would also rise, reflecting an increased need for people in 
+Customer service 
+and sales
+managerial and interpersonal roles.
+
+Managers
+
+Community services
+
+Other
+
+The adoption of generative AI could 
+cause the finance sector to see a 
+decrease in labor demand by 2030.
+
+Financial services, Europe,1 faster scenario2
+
+Share of labor demand, 2022–30, %
+
+5.8M
+
+5.6M
+
+Office support
+
+Business or legal 
+professionals
+
+Managers
+
+STEM professionals
+
+Customer service 
+and sales
+
+Community services
+
+Other
+
+Top 5 growing and declining occupational groups
+
+Top 5 growing and declining occupational groups
+
+Detailed occupational groups
+Business and financial 
+specialists
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+Executives and managers
+
+Computer engineers and 
+specialists
+
+Computer support workers
+
+Lawyers and legal 
+professionals
+
+Sales workers
+
+Administrative assistants
+
+Information and record clerks
+
+Office support workers
+
+Financial clerks and tellers
+
+Labor demand change, 2022–30, 
+thousands
+
+Labor demand change, 
+2022–30, %
+
+Labor demand change, 2022–30, 
+thousands
+
+Employment, 
+2022, thousands
+
+Detailed occupational groups
+Business and financial 
+specialists
+
+7
+
+1,356
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+Executives and managers
+8
+
+Computer engineers and 
+15
+specialists
+
+Computer support workers
+
+11
+
+Lawyers and legal 
+professionals
+
+Sales workers
+
+7
+
+(3)
+
+Administrative assistants
+(21)
+
+Information and record clerks
+
+(12)
+
+Office support workers
+
+(22)
+
+Financial clerks and tellers
+(27)
+
+703
+
+330
+
+82
+
+67
+
+608
+
+305
+
+599
+
+436
+
+900
+
+Labor demand change, 
+
+Employment, 
+
+2022–30, %
+
+2022, thousands
+
+7
+
+8
+
+15
+
+11
+
+7
+
+(3)
+
+(21)
+
+(12)
+
+(22)
+
+(27)
+
+1,356
+
+703
+
+330
+
+82
+
+67
+
+608
+
+305
+
+599
+
+436
+
+900
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+McKinsey & Company
+
+McKinsey & Company
+
+38
+
+2022203037303135111381044445591605195−16−64−72−98−2422022203037303135111381044445591605195−16−64−72−98−242A new future of work: The race to deploy AI and raise skills in Europe and beyond 
+ 
+ 
+ 
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <4> of <8>
+
+The adoption of generative AI could cause the finance sector to see a 
+decrease in labor demand by 2030.
+
+Financial services, Europe,1 faster scenario2
+
+Share of work hours by skill, 2022–30, %
+
+Main skills 
+categories
+
+Evolution of skill mix in 
+Europe,1 share of total 
+hours, %
+
+Evolution of total hours in Europe,1 %
+Evolution of total hours in US, %
+
+Technological 
+skills
+
+Social and 
+emotional 
+skills
+
+Physical and 
+manual skills
+
+Higher 
+cognitive skills
+
+Basic 
+cognitive skills
+
+Most affected skills
+• Scientific research and 
+
+development
+
+• Technology design, engineering, 
+
+and maintenance
+
+• Advanced IT skills and programming
+
+• Advanced communication and 
+
+negotiation skills
+
+• Interpersonal skills and empathy
+• Leadership and managing others
+
+• Inspecting and monitoring
+• General equipment operation and 
+
+navigation
+
+• Advanced literacy and writing
+• Quantitative and statistical skills
+
+• Basic data input and processing
+• Basic literacy, numeracy, and 
+
+communication
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2Faster scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023.
+
+McKinsey & Company
+
+39
+
+20222030241931304421252122315−9−8−22513−8−10−25A new future of work: The race to deploy AI and raise skills in Europe and beyondManufacturing
+
+Web <2024>
+Europe’s manufacturing sector could see a net decline in employment 
+<MCK242172 VivaTech 2024-SECTORS>
+demand by 2030. Production work and office support are likely to see 
+Exhibit <5> of <8>
+the greatest decline, while demand for workers in STEM, management, 
+While demand for some roles may 
+and business and legal fields could grow. This shift toward more 
+increase, there could be a net decline 
+knowledge-intensive roles is driven by technological advancements and 
+in employment demand in Europe’s 
+the decreasing costs of robotic solutions, which promote automation. 
+manufacturing sector by 2030.
+Furthermore, actions related to net zero would have a dual impact on 
+the manufacturing sector. They would foster job creation in expanding 
+industries, such as renewable energy, low-emissions vehicles, and 
+electrical appliances, while potentially reducing demand in contracting 
+industries, such as those involved in the production of vehicles with 
+internal combustion engines.
+
+Manufacturing, Europe,1 faster scenario2
+
+Share of labor demand, 2022–30, %
+
+26.2M
+
+26.7M
+
+Production work
+
+Approximately 2.1 million individuals in Europe’s manufacturing sector 
+might need to change occupations by 2030, the second-most-
+affected sector across all sectors. This transition would be particularly 
+pronounced in production work because of its core role in the sector. 
+Specialized roles in management, business, and legal professions would 
+be less likely to undergo occupational transitions; these roles currently 
+tend to be held by workers with postsecondary education. 
+
+Mechanical 
+installation and repair
+
+STEM professionals
+
+Office support
+
+Managers
+
+Business or legal 
+professionals
+
+Demand for technological skills in the manufacturing sector is expected 
+to increase, along with demand for social and emotional skills. The sector 
+could experience a decline in demand for basic cognitive skills, physical 
+and manual skills, and higher cognitive skills, highlighting the increasing 
+replaceability of these skills due to automation and AI advancements.
+
+Food services
+
+Builders
+
+Other
+
+Top 5 growing and declining occupational groups
+
+Detailed occupational groups
+
+Labor demand change, 2022–30, 
+thousands
+
+Engineers, except computer 
+engineers
+
+Material movers and loaders
+
+Computer engineers and 
+specialists
+
+Executives and managers
+
+Business and financial 
+specialists
+
+Financial clerks
+
+Office support workers
+
+Administrative assistants
+
+Information and record clerks
+
+Production workers
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <5> of <8>
+While demand for some roles may 
+increase, there could be a net decline 
+in employment demand in Europe’s 
+manufacturing sector by 2030.
+
+Manufacturing, Europe,1 faster scenario2
+
+Share of labor demand, 2022–30, %
+
+26.7M
+
+26.2M
+
+Production work
+
+STEM professionals
+
+Office support
+
+Mechanical 
+installation and repair
+
+Managers
+
+Business or legal 
+professionals
+
+Food services
+
+Builders
+
+Other
+
+Top 5 growing and declining occupational groups
+
+Detailed occupational groups
+
+Labor demand change, 2022–30, 
+thousands
+
+Labor demand change, 
+
+Employment, 
+
+2022–30, %
+
+2022, thousands
+
+Engineers, except computer 
+Labor demand change, 
+engineers
+2022–30, %
+
+Employment, 
+2022, thousands
+
+Material movers and loaders
+
+15
+
+Computer engineers and 
+specialists
+
+15
+
+Executives and managers
+
+24
+Business and financial 
+specialists
+8
+
+Financial clerks
+
+11
+
+Office support workers
+(25)
+
+Administrative assistants
+
+(21)
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+1,723
+
+1,214
+
+686
+
+1,758
+
+802
+
+439
+
+535
+
+751
+
+Information and record clerks
+
+(22)
+
+Production workers
+(16)
+
+1,489
+
+15
+
+15
+
+24
+
+8
+
+11
+
+(25)
+
+(21)
+
+(22)
+
+(16)
+
+(10)
+
+1,723
+
+1,214
+
+686
+
+1,758
+
+802
+
+439
+
+535
+
+751
+
+1,489
+
+9,414
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+9,414
+
+(10)
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+McKinsey & Company
+
+McKinsey & Company
+
+40
+
+20222030373513151210886756554591025418016414085−112−112−165−235−92720222030373513151210886756554591025418016414085−112−112−165−235−927A new future of work: The race to deploy AI and raise skills in Europe and beyond 
+ 
+ 
+ 
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <6> of <8>
+
+While demand for some roles may increase, there could be a net decline in 
+employment demand in Europe’s manufacturing sector by 2030. 
+
+Manufacturing, Europe,1 faster scenario2
+
+Share of work hours by skill, 2022–30, %
+
+Main skills 
+categories
+
+Evolution of skill mix in 
+Europe,1 share of total 
+hours, %
+
+Evolution of total hours in Europe,1 %
+Evolution of total hours in US, %
+
+Technological 
+skills
+
+Social and 
+emotional 
+skills
+
+Physical and 
+manual skills
+
+Higher 
+cognitive skills
+
+Basic 
+cognitive skills
+
+Most affected skills
+• Basic IT skills
+• Scientific research and 
+
+development
+
+• Technology design, engineering, 
+
+and maintenance
+
+• Leadership and managing others
+• Advanced communication and 
+
+negotiation skills
+
+• General equipment operation and 
+
+navigation
+
+• Inspecting and monitoring
+• Fine motor skills
+
+• Quantitative and statistical skills
+• Advanced literacy and writing
+
+• Basic data input and processing
+• Basic literacy, numeracy, and 
+
+communication
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+McKinsey & Company
+
+41
+
+2022203011919194744111212162612−8−3−184118−73−17A new future of work: The race to deploy AI and raise skills in Europe and beyondHealthcare
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <7> of <8>
+
+Europe’s healthcare sector is projected to experience the 
+The healthcare sector in Europe is 
+most significant growth in labor demand by 2030, with the 
+projected to experience the largest 
+potential to add approximately 3.7 million jobs. This surge 
+growth in labor demand by 2030.
+would be driven primarily by rising demand for health aides 
+and healthcare professionals, while demand for office 
+Healthcare, Europe,1 faster scenario2
+support roles would decline because of automation and AI. 
+Key growth drivers include an aging population and rising 
+challenges from mental health issues and chronic diseases.
+
+Share of labor demand, 2022–30, %
+
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <7> of <8>
+
+The healthcare sector in Europe is 
+projected to experience the largest 
+growth in labor demand by 2030.
+
+Healthcare, Europe,1 faster scenario2
+
+Share of labor demand, 2022–30, %
+
+22.4M
+
+26.1M
+
+22.4M
+
+26.1M
+
+Health aides, technicians, 
+and wellness
+
+Around 500,000 healthcare workers in Europe could have 
+to change occupations by 2030, with office support roles 
+constituting the bulk of these transitions. The increase 
+in demand for technological skills reflects the sector’s 
+integration of advanced technologies, while demand for 
+social and emotional skills would also see substantial growth 
+to meet the needs of Europe’s aging population.
+
+Health professionals
+
+Community services
+
+Office support
+
+Property maintenance
+
+Educator and
+workforce training
+
+Managers
+
+Other
+
+Health aides, technicians, 
+and wellness
+
+Health professionals
+
+Community services
+
+Office support
+
+Property maintenance
+
+Educator and
+workforce training
+
+Managers
+
+Other
+
+Top 5 growing and declining occupational groups
+
+Top 5 growing and declining occupational groups
+
+Detailed occupational groups
+
+Health aides and health 
+support
+Nurses, physician assistants, 
+and pharmacists
+
+Personal care workers
+
+Doctors
+
+Health technicians and 
+pharmacists
+
+Production workers
+
+Financial clerks and tellers
+
+Information and record clerks
+
+Office support workers
+
+Administrative assistants
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+Labor demand change, 2022–30, 
+thousands
+
+Detailed occupational groups
+
+Labor demand change, 
+2022–30, %
+
+Labor demand change, 2022–30, 
+thousands
+
+Employment, 
+2022, thousands
+
+Health aides and health 
+27
+support
+Nurses, physician assistants, 
+and pharmacists
+
+31
+
+Personal care workers
+
+29
+
+Doctors
+
+18
+
+Health technicians and 
+pharmacists
+
+17
+
+Production workers
+
+(12)
+
+(23)
+Financial clerks and tellers
+
+Information and record clerks
+
+(15)
+
+Office support workers
+
+(23)
+
+(18)
+Administrative assistants
+
+5
+P
+O
+T
+
+5
+M
+O
+T
+T
+O
+B
+
+6,399
+
+1,801
+
+1,405
+
+2,108
+
+1,118
+
+217
+
+178
+
+501
+
+399
+
+619
+
+Labor demand change, 
+
+Employment, 
+
+2022–30, %
+
+2022, thousands
+
+27
+
+31
+
+29
+
+18
+
+17
+
+(12)
+
+(23)
+
+(15)
+
+(23)
+
+(18)
+
+6,399
+
+1,801
+
+1,405
+
+2,108
+
+1,118
+
+217
+
+178
+
+501
+
+399
+
+619
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2“Faster” scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023. The “slower” scenario is the average between the late scenario and the midpoint 
+scenario.
+
+McKinsey & Company
+
+McKinsey & Company
+
+42
+
+202220304145222488855433331091,720559414378194−26−42−76−94−111202220304145222488855433331091,720559414378194−26−42−76−94−111A new future of work: The race to deploy AI and raise skills in Europe and beyond 
+ 
+ 
+ 
+Web <2024>
+<MCK242172 VivaTech 2024-SECTORS>
+Exhibit <8> of <8>
+
+The healthcare sector in Europe is projected to experience the largest 
+growth in labor demand by 2030.
+
+Healthcare, Europe,1 faster scenario2
+
+Share of work hours by skill, 2022–30, %
+
+Main skills 
+categories
+
+Evolution of skill mix in 
+Europe,1 share of total 
+hours, %
+
+Evolution of total hours in Europe,1 %
+Evolution of total hours in US, %
+
+Technological 
+skills
+
+Social and 
+emotional 
+skills
+
+Physical and 
+manual skills
+
+Higher 
+cognitive skills
+
+Basic 
+cognitive skills
+
+Most affected skills
+• Basic IT skills
+• Technology design, engineering, 
+
+and maintenance
+
+• Scientific research and 
+
+development
+
+• Interpersonal skills and empathy
+• Advanced communication and 
+
+negotiation skills
+
+• Leadership and managing others
+
+• Fine motor skills
+• Gross motor skills and strength
+
+• Advanced literacy and writing
+• Quantitative and statistical skills
+• Project management
+
+• Basic data input and processing
+• Basic literacy, numeracy, and 
+
+communication
+
+Note: Figures may not sum to 100%, because of rounding. 
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+2Faster scenario automation adoption is the average of early and late automation adoption scenarios as referenced in “The economic potential of generative AI: 
+The next productivity frontier,” McKinsey Global Institute, June 14, 2023.
+
+McKinsey & Company
+
+43
+
+202220301715232129292122101348231574483526158A new future of work: The race to deploy AI and raise skills in Europe and beyond5
+
+Implications for the workforce
+
+Shifts in demand for certain skills and occupations could have a significant impact on society 
+more broadly. In this chapter, we explore various potential implications.
+
+Demand for higher-wage occupations could rise, with 
+uncertain consequences for workers in lower-wage jobs
+
+A critical question in the upcoming technological age will be which segments of the 
+population capture the income benefits of AI and gen AI deployment. According to UK 
+scenarios built by the IMF, AI would benefit mostly workers with above-median incomes, while 
+those below the median would see limited wage increases in the best-case scenario and 
+decreasing income in the worst case.37
+
+We mapped our estimated shifts in employment demand to current wage bands of 
+occupations to infer the potential impact on different types of workers. The wage levels of 
+occupations might change in coming years in response to demand and supply mismatches. 
+Rather than modeling future trends in wages, an uncertain exercise, we point to the 
+implications of rising or falling demand for occupations in wage bands as they exist today. 
+
+The past four decades have seen a divergence in outcomes for low- and middle-wage 
+workers on the one hand and high-wage workers on the other.38 Now, technology 
+
+37 Gen-AI: Artificial intelligence, January 2024.
+38 Wage concentration is significantly higher in the United States than in European countries, although the United States 
+has experienced wage compression recently. See David Autor, Arindrajit Dube, and Annie McGrew, The unexpected 
+compression: Competition at work in the low wage labor market, NBER working paper, number 31010, March 2023; and 
+“Inequality: A persisting challenge and its implications,” McKinsey Global Institute, June 26, 2019.
+
+44
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyonddevelopment and labor market disruptions could further reweight demand toward skills 
+associated with higher-wage jobs. Enabling labor market transitions that allow workers 
+to move from lower-pay to higher-pay work could minimize wage polarization, while rising 
+demand for technological and social and emotional skills could be detrimental to workers in 
+low- and middle-wage occupations if they do not have or are unable to acquire these skills.
+
+Rising demand for occupations with currently high wages offers an opportunity
+The interplay between occupational transitions and wage levels differs among countries 
+based on their current occupational structure and automation potential. All ten European 
+countries we examined for this report may see increasing demand for top-earning 
+occupations (Exhibit 10).
+
+Countries vary in terms of their potential reallocation toward higher-wage occupations. 
+Workers in the Czech Republic and Sweden could potentially benefit the most if they can 
+make the transition into higher-wage occupations with rising demand; this can be explained 
+by the potential automation of production and agricultural workers and the surging demand 
+for managerial positions. In fact, the Czech Republic has the highest potential to reweight 
+toward high-wage occupations, with share in employment demand for the two highest-wage 
+bands increasing by 3.4 percentage points. Conversely, Denmark shows a higher increase in 
+demand for middle-wage occupations than other European countries.
+
+Web <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 10a
+Exhibit <10a> of <16>
+
+In both Europe and the United States, labor demand could reweight toward 
+occupations that currently command higher wages.
+
+Wage bands1
+
+Highest-wage 
+occupations
+
+High-wage 
+occupations
+
+Middle-wage 
+occupations
+
+Low-wage 
+occupations
+
+Lowest-wage 
+occupations
+
+Europe2
+
+Expected change in 
+employment share by wage 
+band, faster scenario,3 
+2022–30, percentage points
+
+Share of employment, by 
+wage band, 2022, % 
+
+US
+
+Expected change in 
+employment share by wage 
+band, midpoint scenario,3 
+2022–30, percentage points
+
+Share of employment, by 
+wage band, 2022, % 
+
+16.9
+
+16.8
+
+16.2
+
+19.8
+
+30.3
+
+15.7
+
+18.3
+
+12.6
+
+19.6
+
+33.8
+
+1Occupations are ranged into quintiles based on their average wages. They are specific for each European country considered (see appendix). As an example, 
+data for France and the US is as follows: lowest-wage occupations: $15.3k–30.3k annually in France, $21.0k–31.0k in the US; low-wage occupations: 
+$30.3k–34.7k in France, $31.0k–38.0k in the US; middle-wage occupations: $34.7k–41.7k in France, $38.0k–50.0k in the US; high-wage occupations: 
+$41.7k–55.4k in France, $50.0k–69.0k in the US; highest-wage occupations: more than $55.4k in France, more than $69.0k in the US. For dollar values, note 
+that upper bounds are exclusive, while lower bounds are inclusive. Wages are in 2010 dollars.
+2Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+3With generative AI acceleration. For Europe, we used the “faster” scenario, which corresponds to the “midpoint” scenario in the United States.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+45
+
+1.400.40−0.30−1.50−0.021.700.700.40−1.90−0.90A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 10b
+Exhibit <10b> of <16>
+
+In both Europe and the United States, labor demand could reweight toward 
+occupations that currently command higher wages.
+
+Change in employment share by wage band, faster scenario,1 2022–30, percentage points
+
+Wage bands2
+
+Highest-wage 
+occupations
+
+High-wage 
+occupations
+
+Middle-wage 
+occupations
+
+Low-wage 
+occupations
+
+Lowest-wage 
+occupations
+
+GDP per 
+capita, 
+$ (current 
+PPP3)
+
+Czech 
+Republic
+
+Sweden
+
+Poland
+
+United 
+Kingdom
+
+France
+
+Italy
+
+Germany
+
+Spain
+
+Netherlands
+
+Denmark
+
+51.6
+
+68.2
+
+45.4
+
+56.8
+
+57.2
+
+55.3
+
+66.6
+
+48.9
+
+74.5
+
+77.9
+
+1With generative AI acceleration. For Europe, we used the “faster” scenario, which corresponds to the “midpoint” scenario in the United States.
+2Occupations are ranged into quintiles based on their average wages. They are specific for each European country considered (see appendix). As an example, 
+data for France and the US is as follows: lowest-wage occupations: $15.3k–30.3k annually in France, $21.0k–31.0k in the US; low-wage occupations: 
+$30.3k–34.7k in France, $31.0k–38.0k in the US; middle-wage occupations: $34.7k–41.7k in France, $38.0k–50.0k in the US; high-wage occupations: 
+$41.7k–55.4k in France, $50.0k–69.0k in the US; highest-wage occupations: more than $55.4k in France, more than $69.0k in the US. For dollar values, note 
+that upper bounds are exclusive, while lower bounds are inclusive. Wages are in 2010 dollars.
+3Purchasing-power parity.
+Source: Eurostat; Occupational Information Network; OECD; Oxford Economics; national statistical agencies of the European countries considered; McKinsey 
+Global Institute analysis
+
+McKinsey & Company
+
+46
+
+1.91.5−1.6−1.0−0.81.71.0−1.7−2.11.11.51.0−0.9−0.9−0.81.50.10.9−1.0−1.41.3−0.3−0.5−1.71.11.30.1−0.2−2.21.11.20.7−0.5−1.70.31.10.7−0.1−1.0−0.70.80.6−0.1−0.8−0.50.20.91.8−2.5−0.4A new future of work: The race to deploy AI and raise skills in Europe and beyondAdditional skills are necessary for low- and middle-wage 
+workers to transition to higher-wage jobs
+While increasing demand for high-wage occupations may present a social opportunity, low-
+wage workers may need to overcome a double disadvantage: they face a risk of job loss due 
+to declining demand for their occupations and, at the same time, may encounter potential 
+barriers to accessing higher-paying jobs if they lack requisite skills.39 This could result in a 
+temporary mismatch between job demand and skills supply.
+
+Our analysis identifies the potential skills profile of occupations based on their current 
+wages (Exhibit 11). Physical and manual skills are likely to be predominantly used in the three 
+lowest-wage brackets of occupations. Basic cognitive skills could be the most used in the 
+first and second brackets, while higher cognitive skills would dominate the fourth wage-
+bracket occupations, indicating their association with high-paying jobs. Meanwhile, social and 
+emotional, higher cognitive, and technological skills would be most prevalent in the top-wage 
+occupations. Similar trends appear in the United States.40
+
+Web <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 11
+Exhibit <11> of <16>
+
+To move to higher-wage occupations, workers will need more technological 
+and social and emotional skills.
+
+Time spent using various types of skills1 by wage band,2 Europe3 faster scenario,4 2030, %
+
+Note: Figures may not sum to 100%, because of rounding. Similar trends were observed in the US; see “Generative AI and the future of work in America,” 
+McKinsey Global Institute, July 26, 2023.
+1While workers might use multiple skills to perform a given task, for the purposes of our quantification, using O*NET data, we classified ~2,100 work activities 
+associated with approximately 850 occupations according to the primary type of skill used.
+2Occupations are ranged into quintiles based on their average wages. They are specific for each European country considered (see appendix). As an example, 
+data for France and the US is as follows: lowest-wage occupations: $15.3k–30.3k annually in France, $21.0k–31.0k in the US; low-wage occupations: 
+$30.3k–34.7k in France, $31.0k–38.0k in the US; middle-wage occupations: $34.7k–41.7k in France, $38.0k–50.0k in the US; high-wage occupations: 
+$41.7k–55.4k in France, $50.0k–69.0k in the US; highest-wage occupations: more than $55.4k in France, more than $69.0k in the US. For dollar values, note 
+that upper bounds are exclusive, while lower bounds are inclusive. Wages are in 2010 dollars.
+3Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+4With generative AI acceleration.
+Source: Eurostat; Occupational Information Network; OECD; Oxford Economics; national statistical agencies of the European countries considered; McKinsey 
+Global Institute analysis
+
+McKinsey & Company
+
+39 This is true for low-wage workers in all countries, but demand for the lowest-wage workers will remain stable or increase in 
+
+some countries, as highlighted in Exhibit 12.
+40 For more, see “Generative AI,” July 26, 2023.
+
+47
+
+Highest-wageoccupationsHigh-wageoccupationsMiddle-wageoccupationsLow-wageoccupationsLowest-wageoccupations41330405071015161627292419143728171213252015138Physical and manualBasic cognitiveHigher cognitiveSocial and emotionalTechnologicalA new future of work: The race to deploy AI and raise skills in Europe and beyondBy 2030, roles which are currently highest paid will require mostly social and emotional, 
+technological, and higher cognitive skills, our analysis suggests. Indeed, 37 percent of 
+workers’ time in the highest-wage occupations could be spent doing activities in which social 
+and emotional skills will predominate. Technological and higher cognitive skills will also be 
+needed in these high-paid jobs, where they are likely predominant, representing 27 percent 
+and 25 percent of hours worked, respectively.
+
+The rising demand for occupations that currently command higher wages—and require more 
+social and emotional, technological, and higher cognitive skills—underscores the critical role 
+of strategic skill acquisition. Workers will be able to move to better-compensated positions 
+if they have access to effective education and retraining programs that can equip them with 
+the requisite skills (see Box 3, “How generative AI could be used as a tool to enhance and 
+reshape skills acquisition”). However, if workers are not reskilled appropriately or in a timely 
+manner, an increasing gap will emerge between demand for and supply of highly valued 
+skills. This disparity could result in labor shortages for positions in high demand—often in 
+the STEM fields, as well as in business and legal professions. Such a shortage could dampen 
+productivity growth and hinder AI’s growth potential.
+
+Box 3 
+How generative AI could be used as a tool to enhance and reshape skills acquisition
+
+The daunting task of reskilling workers 
+rapidly could be made easier with 
+corporate learning and development 
+tools that are enhanced by generative AI 
+(gen AI). The technology can potentially 
+reshape training from generic offerings 
+to a personalized, interactive journey, 
+addressing specific skills gaps and 
+preparing employees for challenges.
+
+At the outset, gen AI could craft a 
+customized curriculum that discerns 
+and targets the learning needs and 
+skill deficits of each employee. It 
+would achieve this through an analysis 
+of personal profiles, effectively 
+aligning learning objectives with the 
+employee’s role, tenure, and location 
+to ensure relevant and accelerated skill 
+development. 
+
+For content creation, gen AI could 
+leverage its ability to synthesize 
+vast amounts of standard operating 
+procedures, compliance regulations, 
+and traditional training materials into 
+coherent, accessible just-in-time formats 
+
+and nudges. This synthesis would not 
+only improve engagement by simplifying 
+complex information but also reduce the 
+need to manage the shelf life of program 
+content. 
+
+For training delivery, gen AI could 
+introduce instructional methods, 
+deploying digestible, real-time training 
+content across multiple platforms. By 
+adapting to various learning styles and 
+preferences, gen AI could deliver a 
+more intuitive and interactive learning 
+experience that is both scalable and 
+efficient. The platform also could foster 
+the development of competencies by 
+enabling assessments that discern an 
+employee’s understanding and retention 
+of training, thus potentially ensuring that 
+the transition of knowledge is effective 
+and measurable. 
+
+Last, gen AI could provide immediate, 
+data-driven feedback on an employee’s 
+learning progress. This would allow both 
+content and format updates in real time 
+
+for maximum efficiency and effectiveness, 
+both individually and collectively. 
+
+One case study involving a global 
+specialty-materials company illustrates 
+how gen AI is emerging as a tool to 
+support individual professional growth. 
+The US-based company faced obstacles 
+in training and upskilling its workforce 
+to adopt a new supply chain planning 
+solution. To address this, the company 
+improved support for workers’ learning 
+needs by organizing a comprehensive 
+digital library, integrating external 
+resources, and implementing an AI 
+assistant. The AI tool bolstered workers’ 
+daily performance and reduced the time 
+they needed for learning activities. It 
+enhanced operational efficiency by up 
+to 15 percent, increased productivity 
+by up to 20 percent, and improved the 
+accuracy of forecasts. By enabling 
+workers to swiftly adapt to new methods, 
+the company achieved significant gains 
+in value and performance from the supply 
+chain planning solution, unlocking an 
+additional 10 to 15 percent in value.1
+
+1  The collaborative supply chain: Tech-driven and human-centric, MHI Annual Industry Report 2024, accessed May 2, 2024.
+
+48
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWorkers in low- and middle-wage jobs would be 
+more likely to have to change occupations
+
+With millions of workers in advanced economies potentially facing the prospect of 
+transitioning between occupations, groups that are heavily concentrated in lower-wage 
+occupations will be more likely to have to change occupations than others. But the scale of 
+those differences varies between European countries and the United States (Exhibit 12). 
+In Europe, workers in the two lowest-wage-bracket occupations will be three to five times 
+more likely to have to change occupations compared to the top wage earners, our analysis 
+finds. The disparity is much higher in the United States, where workers in the two lowest-
+wage-bracket occupations are ten to 14 times more likely to face occupational shifts than the 
+highest earners. In Europe, the middle-wage population could be almost twice as affected by 
+occupational transitions as the same population in United States, representing 7.3 percent of 
+the working population who might face occupational transitions.
+
+Intervention mechanisms to support labor market transitions would need to be designed 
+to address the needs of those most at risk of displacement. Based on current labor 
+demographics in both Europe and the United States, workers with lower educational 
+attainment are disproportionately represented among those who may need to find new types 
+of work by 2030. The need for higher qualifications is likely to surge as the demand for jobs 
+that require higher levels of formal education—STEM jobs and roles in the health professions, 
+for example—increases demand for tertiary degrees. However, occupational shifts will 
+primarily concern those without a tertiary education. Similarly, certain types of lower- and 
+middle-wage occupations, such as clerical roles, that are highly susceptible to automation, 
+tend to be disproportionately held by women currently. The importance of reskilling for all 
+workers in occupations that face a higher need for transition cannot be overemphasized. 
+
+In Europe, workers in the 
+two lowest-wage brackets 
+will be three to five times 
+more likely to have to change 
+occupations compared 
+to top wage earners.
+
+49
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 12
+Exhibit <12> of <16>
+
+Workers in lower-wage positions are more likely to face the need for 
+occupational transitions.
+
+Expected change in employment share by wage band, faster/midpoint scenario,1 2022–30, percentage points
+
+Below secondary education
+
+Secondary education
+
+Bachelor’s degree and above
+
+Male
+
+Female
+
+Wage bands2
+
+Highest-wage 
+occupations
+
+High-wage 
+occupations
+
+Middle-wage 
+occupations
+
+Low-wage 
+occupations
+
+Lowest-wage 
+occupations
+
+Europe3
+
+Occupational transitions, 
+share of 2022 employment, %
+
+Education,4 share of 2022 
+employment, % 
+
+Gender,5 share of 2022 
+employment, %
+
+US
+
+Occupational transitions, 
+share of 2022 employment, %
+
+Education,4 share of 2022 
+employment, % 
+
+Gender,5 share of 2022 
+employment, %
+
+Note: Figures may not sum to 100%, because of rounding.
+1With generative AI acceleration. For Europe, we used the “faster” scenario, which corresponds to the “midpoint” scenario in the United States.
+2Occupations are ranged into quintiles based on their average wages. They are specific for each European country considered (see appendix). As an example, 
+data for France and the US is as follows: lowest-wage occupations: $15.3k–30.3k annually in France, $21.0k–31.0k in the US; low-wage occupations: 
+$30.3k–34.7k in France, $31.0k–38.0k in the US; middle-wage occupations: $34.7k–41.7k in France, $38.0k–50.0k in the US; high-wage occupations: 
+$41.7k–55.4k in France, $50.0k–69.0k in the US; highest-wage occupations: more than $55.4k in France, more than $69.0k in the US. For dollar values, note 
+that upper bounds are exclusive, while lower bounds are inclusive. Wages are in 2010 dollars.
+3Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+4Share of educational attainment of current wage band occupations based on current demographics.
+5Share of male and female in current wage band occupations based on current demographics.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+50
+
+2.04.17.310.77.01.04.64.213.79.76256962385538534758424456623849516931495148527375611533618562627551812772235639622986922176915A new future of work: The race to deploy AI and raise skills in Europe and beyond51
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondConclusion
+
+Enhancing productivity 
+and human capital in a time 
+of technological ferment
+
+Many structural trends will shape the future of work—from AI and automation to the 
+transition to net-zero emissions and rising demand for healthcare services. Yet the primacy 
+of technological transformation as a driver of changes in the future of work is hard to ignore. 
+The technology adoption we describe in this report will drive both the occupational transitions 
+and skills upgrades that will be needed in the decade to come, as well as the productivity 
+growth that will be possible. Organizations and policy makers have choices to make; the 
+way they approach AI and automation, along with human capital augmentation, will affect 
+economic and societal outcomes. Will they go all out to adopt the new technologies quickly? 
+In their adoption strategy, will they also focus actively on the occupational transitions ahead, 
+looking to raise skill levels and enhance human capital while they automate? In this concluding 
+chapter, we look at these choices and their implications for businesses, policy makers, and 
+overall productivity growth.
+
+52
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondChoices for managing the technology and workforce transition
+
+Technology is not intrinsically good or bad. Artificial intelligence, like other technologies, can 
+produce positive or negative outcomes—and often both—depending on how it is deployed. 
+Policy makers and businesses face significant choices about what to prioritize and how to 
+manage potential trade-offs between technological deployment and the furthering of human 
+capital. How they think about these choices will be decisive for human capital and societal 
+well-being more broadly.
+
+Building on previous work on the deployment of technology for social good,41 we have 
+identified the need to address a critical factor: the way in which the workforce and skills 
+transition is managed. 
+
+The stance of businesses affects workers’ capabilities and the pace at which technologies 
+can spread through the economy. Companies taking a proactive stance (or path) would 
+anticipate and implement technological changes while establishing worker training 
+structures, supporting employees, and seeking to attract the right talent. Such an approach 
+might require significant capital investment and training hours. Policy makers would also 
+have a role to play—for example, by potentially framing smart public policies that facilitate 
+
+Companies taking 
+a proactive stance 
+would anticipate and 
+implement technological 
+changes while 
+establishing worker 
+training structures, 
+supporting employees, 
+and seeking to attract 
+the right talent.
+
+occupational transitions while supporting skill 
+building.42 Developing “lighthouse examples” 
+in public services could be one important 
+way to show the path toward human capital 
+development. For example, the French 
+government recently introduced “Albert,” a 
+large language model assistant designed to 
+help civil servants search for information and 
+formulate specific responses.43 
+
+Conversely, a reactive stance (or path) would 
+inherently pay little heed to the capability-
+building and human capital implications of 
+automation. This path may appear easier in 
+the short term—for example, it may require 
+less effort and incur lower immediate costs for 
+companies. But it comes with risks, both for 
+companies and for society more broadly. For 
+example, workers might lose their jobs and be 
+unable to find their way into occupations for 
+which demand is rising. And companies may be 
+unable to participate fully in the technological 
+transition because they lack much-needed AI 
+capabilities. If such issues become widespread, 
+they may ultimately choke technology 
+deployment for the economy as a whole, 
+hindering growth. 
+
+41  “‘Tech for Good’: Using technology to smooth disruption and improve well-being,” McKinsey Global Institute, May 15, 2019.
+42 For a discussion of AI and its deployment implications, see Daron Acemoglu and Pascual Restrepo, The wrong kind of AI? 
+
+Artificial intelligence and the future of labor demand, NBER working paper, number 25682, March 2019.
+
+43 “L’IA et la débureaucratisation pour simplifier la vie des usagers” (“AI and debureaucratization to simplify users’ lives”), 
+
+French Government, April 23, 2024. 
+
+53
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondEstimating the productivity implications of the technological transition for Europe
+The approach that businesses take to technology deployment and skills transitions affects 
+the balance between job displacement and productive job creation. Thus it also affects overall 
+economic productivity. We have attempted to quantify at a high level the potential effects of 
+different stances to technology deployment on productivity in Europe. For this exercise, we 
+refer to productivity (rather than income or GDP) to measure economic potential and express 
+the results as annual growth rate in productivity until 2030. This exercise focuses on all the 
+European economies we looked at in this report.
+
+Our analysis considers two dimensions. The first is the adoption rate of AI and automation 
+technologies. We consider two of our scenarios outlined earlier in chapter 2: the “faster” 
+scenario and the “late” scenario for technology adoption. As discussed in chapter 2, faster 
+adoption would unlock greater AI growth potential but also, potentially, more short-term labor 
+disruption than the late scenario. The late scenario anticipates about 2 percent of time spent 
+on current work activities to be automated by 2030, in contrast to the 27 percent assumed in 
+the faster scenario. The second dimension we consider is the level of automated worker time 
+that is redeployed into the economy. This represents the ability to redeploy the time gained by 
+automation and productivity gains (for example, new tasks and job creation). This could vary 
+depending on the success of worker training programs and strategies to match demand and 
+supply in labor markets. We based our analysis on two potential scenarios: either all current 
+work hours automated are fully redeployed into the economy at a similar productivity level as 
+in 2022 or only some 80 percent of the automated workers’ time will be redeployed into the 
+economy. 
+
+Exhibit 13 illustrates the various outcomes in terms of annual productivity growth rate. 
+The top-right quadrant illustrates the highest economy-wide productivity, with an annual 
+productivity growth rate of up to 3.1 percent. It requires fast adoption of technologies 
+(faster scenario) as well as full redeployment of automated hours. The top-left quadrant 
+also demonstrates technology adoption on a fast trajectory and shows a relatively high 
+productivity growth rate (up to 2.5 percent). However, about 6 percent of total hours worked 
+(equivalent to 10.2 million people not working) would not be redeployed in the economy, 
+meaning that some affected workers could be unable to find meaningful ways to reenter 
+the economy—a painful outcome for many with potential social implications. Finally, the two 
+bottom quadrants depict the failure to adopt AI and automation, leading to limited productivity 
+gains and translating into limited labor market disruptions. In terms of productivity levels, 
+these would be the least favorable outcomes, with annual productivity growth at 0.3 percent 
+or below.
+
+While this calculation is a thought exercise, it nonetheless highlights the impact that decisions 
+and choices made today could have in the future. The calculation is for 2030, but it would be a 
+starting point for upcoming decades. 
+
+54
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondDecisions that companies 
+make today could help them 
+boost both growth and human 
+capital development. 
+
+Web <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 13
+Exhibit <13> of <16>
+
+Europe faces choices about the pace of AI adoption and redeployment of 
+work hours, with different social and economic outcomes.
+
+Potential annual labor productivity growth rate in Europe1 until 2030, %
+
+Equivalent to 10.2 million 
+people not working
+
+Faster adoption 
+(27% automation adoption)
+
+Implies no additional 
+unemployment
+
+80% redeployment 
+of automated 
+workers’ hours 
+
+100% redeployment 
+of automated 
+workers’ hours 
+
+Equivalent to 0.9 million 
+people not working 
+
+Late adoption 
+(2% automation adoption)
+
+Implies no additional 
+unemployment 
+
+1Includes Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom.
+Source: Eurostat; Occupational Information Network; Oxford Economics; US Bureau of Labor Statistics; national statistical agencies of the European countries 
+considered; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+55
+
+Up to 2.5Up to 3.1Up to 0.2Up to 0.3A new future of work: The race to deploy AI and raise skills in Europe and beyondFour priorities for companies
+
+Companies will need to transform and retrain their workforces to adapt to the new work 
+landscape. The decisions they make today could help them boost both growth and human 
+capital development. Already, many employers seem ready to take on the challenge—and 
+they have the potential to create a new ethos of AI social responsibility.44
+
+The adoption of automation technologies will be decisive in protecting businesses’ 
+competitive advantage in an automation and AI era. To ensure successful deployment at a 
+company level, business leaders can embrace four priorities (Exhibit 14): 
+
+Understand the potential. What is the potential impact of automation technologies, and what 
+is the starting point? Leaders need to understand the potential of these technologies, notably 
+including how AI and gen AI can augment and automate work. This includes estimating both 
+the total capacity that these technologies could free up and their impact on role composition 
+and skills requirements. Understanding this allows business leaders to frame their end-
+to-end strategy and adoption goals with regard to these technologies. As an example, one 
+leading financial institution analyzed the current activities of its workforce and concluded that 
+AI and gen AI have the potential to save about half of worked-hour capacity at the company. 
+While this finding will need to be tempered by the adoption strategy the company puts in 
+place, it nonetheless highlights the very significant potential workforce implications of these 
+technologies. 
+
+Plan a strategic workforce shift. What are the key steps to identifying the starting point 
+of the transformation? Once they understand the potential of automation technologies, 
+leaders need to plan the company’s shift toward readiness for the automation and AI era. This 
+requires sizing the workforce and skill needs, based on strategically identified use cases, to 
+assess the potential future talent gap. From this analysis will flow details about the extent 
+of recruitment of new talent, upskilling, or reskilling of the current workforce that is needed, 
+as well as where to redeploy freed capacity to more value-added tasks. As an example, a 
+large financial institution successfully pinpointed its key opportunity pools for AI and gen AI 
+implementation by estimating 2030 talent gaps compared with its current workforce. This 
+enabled the company to determine that AI and gen AI had immediate potential to fill skills 
+gaps for two main groups of roles: those with the largest projected workforce gaps in 2030, 
+such as data science, information security, and business intelligence, and those with the 
+highest business value, such as machine learning engineering and software engineering. 
+This led the company to put a priority on filling those gaps, through both talent sprints 
+and the deployment of AI and gen AI use cases to address anticipated talent shortages 
+in those functions. In another example, a leading US financial firm partnered with large 
+language model vendors to develop its own gen AI solutions. The firm set up an operating 
+model with a center of excellence to guide the effort and get the most out of more than 150 
+use cases deployed. This effort included value measurement and close collaboration with 
+compliance, legal, and risk departments. For all businesses, these kinds of strategies offer a 
+prime opportunity to enhance operational efficiency and output growth, build trust with the 
+workforce, and overcome some of the hurdles posed by labor shortages.
+
+44 While our report focuses on the potential labor market impact of AI, the technology has many broader benefits and also 
+raises important concerns such as security and privacy. The responsible use of AI is increasingly the focus of evolving 
+company actions, policies and regulations. For a previous discussion of this topic, see Jacques Bughin and Eric Hazan, 
+“Can artificial intelligence help society as much as it helps business?,” McKinsey Quarterly, August 6, 2019.
+
+56
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondPrioritize people development. Who does the company need to succeed in this 
+transformation? To ensure that the right talent is on hand to sustain the company strategy 
+during all transformation phases, leaders could consider setting up dedicated talent “win 
+rooms”45 to identify, attract, and recruit future AI and gen AI leaders in a tight market. They 
+also will likely need to accelerate the building of AI and gen AI capabilities in the workforce. 
+Nontechnical talent will also need training to adapt to the changing skills environment. Finally, 
+leaders could deploy an HR strategy and operating model to fit the post–gen AI workforce.46 
+To that end, companies are increasingly setting up AI and gen AI departments specifically 
+to spearhead gen AI transformation efforts. These include roles focusing on strategy along 
+with technical roles essential for executing strategies and developing future gen AI expertise 
+across the organization. As an example, a Caribbean-based bank recently implemented 
+specific gen AI–supported coding solutions to improve the productivity of its more than 
+100 software developers and attract new talent. To bring software developers up to speed 
+quickly, the bank provided four immersive, hands-on half days of training on using gen AI tools 
+optimally and responsibly. As a result, 80 percent of the software developers indicated that 
+the solutions improved their coding experience and were easy to adopt. 
+
+Pursue the executive-education journey on automation technologies. Leaders also need 
+to undertake their own education journey on automation technologies to maximize their 
+contributions to their companies during the coming transformation. This includes empowering 
+senior managers to explore automation technologies implications and subsequently role 
+model to others, as well as bringing all company leaders together to create a dedicated road 
+map to drive business and employee value. A fundamental objective of this journey is for 
+leaders to not only reskill but also achieve a deep understanding of the value and challenges 
+that gen AI poses. This nuanced comprehension is crucial for formulating more-effective 
+strategies and fostering a collective conviction about the transformation within leadership. 
+As an example, when a motor racing league developed its next-generation electric racing 
+car with the objective of breaking indoor land speed records and exciting fans in a new way, 
+two gen AI models supported the ground team, helped guide the driver, and allowed the 
+fans to “communicate” with the cars (for example, asking the car, “How fast can you go on 
+this straight line during this lap?”). To make this a success, all the teams had to collaborate, 
+from the league’s chief technical officer to the motor engineers and the drivers themselves. 
+Another example is a Europe-based global telecommunications and media company that has 
+held dedicated board workshops to demystify gen AI and shape the gen AI road map. Such 
+comprehensive involvement ensures that leaders are not just strategy setters but also deeply 
+informed and engaged participants in the gen AI transformation.
+
+45 The “talent win room” model creates a hub for prioritizing and executing on the most pressing talent needs. Win rooms 
+are based on two key mandates: fast-track all critical talent decisions (for example, talent acquisition, attraction, and 
+selection) and adapt rapidly to all new workforce practices (for example, a laboratory environment for new ways of 
+working).
+
+46 See “The human side of generative AI: Creating a path to productivity,” McKinsey Quarterly, March 18, 2024.
+
+57
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024>
+Exhibit 14
+Exhibit <14> of <16>
+
+There are four action pillars for leaders when engaging with automation 
+technologies to unlock optimum outcomes through fast adoption.
+
+Understanding the future 
+of work potential
+
+Planning a strategic 
+workforce shift
+
+Prioritizing people 
+development
+
+• Full potential perspective on 
+
+• Sizing of “automation and AI era” 
+
+• Winning room to identify, attract, and 
+
+automation technologies, including 
+capacity, initial sizing, role composition, 
+and skills implications.
+
+• Early view on relevant automation 
+
+technology use cases and initiatives 
+for key roles
+
+• Organizational talent assessment on 
+automation technology skills and 
+capabilities, cultural readiness, and 
+employee value proposition
+
+workforce and skill needs, based on 
+strategically identified use cases
+
+• Talent gap assessment and 
+
+implications between now and 
+“post–automation technologies” 
+workforce
+
+• Planning to bridge gaps across all 
+
+levers, including recruitment, up- or 
+reskilling, and redeploying
+
+recruit talent in a tight market
+
+• Capability building of workforce to 
+deliver the outlined upskilling and 
+reskilling needs at scale
+
+• Facilitating reallocation of skills at 
+
+scale
+
+• HR strategy and operating model 
+
+transformation to fit the “automation 
+and AI era” workforce
+
+Pursuing the executive education journey
+
+• Empowering senior leaders to explore implications of automation technologies
+
+• Cocreation of an automation road map to drive business and employee value
+
+McKinsey & Company
+
+Work is not static. Labor markets have been in a state of flux since the Industrial Revolution 
+and continue to change, particularly as new technologies come into play and take over 
+activities previously undertaken by human labor—which then adapts and finds new work that 
+makes use of the new technologies. Will this pattern continue? AI and the toolbox of advanced 
+new technologies are evolving at a breathtaking pace. For companies and policy makers, 
+these technologies are highly compelling because they promise a range of benefits, including 
+higher productivity, which could lift growth and prosperity. Yet, as this report has sought to 
+illustrate, making full use of the advantages on offer will also require paying attention to the 
+critical element of human capital. In the best-case scenario, workers’ skills will develop and 
+adapt to new technological challenges. Achieving this goal in our new technological age 
+presents significant challenges—but the benefits will be great. 
+
+58
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyond59
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondTechnical appendix
+
+This report draws on the methodology and findings from two 2023 McKinsey Global Institute 
+(MGI) reports: Generative AI and the future of work in America and The economic potential 
+of generative AI. A full description of the methodology used is detailed in the technical 
+appendices of those reports. Below is a brief summary of the methodology and how it was 
+applied to produce the findings of this report. We also conducted a proprietary survey to 
+assess current and future skill demand influenced by AI adoption and evaluate strategies to 
+address the skills gap. For details about the terms we use throughout the report, see Box, “A 
+note on terminology.”
+
+Model methodology
+
+Our model includes the following data and assumptions:
+
+Employment. Our analysis draws on aggregated employment and growth projections from 
+the US Bureau of Labor Statistics, Eurostat, and the following national statistics agencies: 
+the Czech Statistical Office, France’s National Institute of Statistics and Economic Studies 
+(INSEE), Germany’s Federal Statistical Office, the Italian National Institute of Statistics 
+(Istat), Spain’s National Statistics Institute (INE), Statistics Denmark, Statistics Netherlands 
+(CBS), Statistics Poland, Statistics Sweden, and the UK Office for National Statistics. Where 
+employment projections were not available from national sources, we used projections 
+from Oxford Economics. Granular occupational-level data across sectors was not available 
+for the Czech Republic, Italy, and Poland. To derive employment insights, we estimated 
+the occupational structure of these countries by benchmarking with other countries in our 
+European sample and scaled to match the country level aggregates. Our analysis does not 
+seek to predict overall employment levels; rather, it models various factors driving labor 
+demand to understand how occupational composition may change. 
+
+Automation potential and adoption scenarios. To analyze the impact of automation on work 
+activities, the MGI model breaks down some 850 occupations into about 2,100 constituent 
+activities using data from the Occupational Information Network (O*NET). Each activity 
+was further mapped to a set of 18 capabilities required to perform that activity. For all 18 
+capabilities, we assess current availability of technology and scenarios for future availability 
+across required proficiency levels. This helps us assess the automation potential for an 
+activity today and in the future. This potential at an activity level is further aggregated by time 
+spent on those activities in an occupation to calculate occupation-level automation potential. 
+These occupational estimates are then aggregated at sector and country level by a weighted 
+average of employment in respective occupations to estimate overall impact. 
+
+Scenarios for automation adoption. Several factors can hinder or enable the timing and 
+pace of adoption. Solutions requiring different technologies have varying levels of ease of 
+integration. It takes time to integrate capabilities into current technical platforms and combine 
+them into an organic entity. Further, these solutions have to be economically feasible relative 
+to the labor cost or wages in order to allow organizations to implement at scale. Barriers 
+also exist on the organizational side. Human talent and organizational structures might 
+act as bottlenecks to implementation. Policies and regulations can also affect the pace of 
+technology innovation and adoption. Finally, depending on their preferences, consumers 
+might have varying levels of acceptance for automated solutions that could affect the pace 
+of adoption. To incorporate all these factors, we used the mathematics of the Bass diffusion 
+model, a well-known and widely used function in forecasting, especially for new product sales 
+forecasting and technology forecasting. 
+
+60
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondƒ(t)/1-F(t) = (p + qF(t))
+
+F(t) is the installed base fraction (that is, adoption of a given technology or product) and f(t) is 
+the corresponding rate of change. 
+
+We then simulated two scenarios for historic technology adoption curves. The fitted 
+values of parameters p and q are consistent with historical adoption curves for multiple 
+technologies. It takes about five years to reach 50 percent adoption in the earliest scenario 
+and approximately 16 years in the latest scenario. 
+
+Impact of automation on productivity. In our model we used GDP per full-time equivalent 
+employee (FTE) as the measure of productivity. To measure automation’s effect on 
+productivity, we first calculate FTEs impacted by automation by multiplying the projected 
+number of FTEs in 2030 by the estimated automation adoption rate. To maintain consistency 
+with other data sources, we made several additional assumptions. We consider only job 
+activities that are currently available and well defined as of the date of this report. Also, 
+to be conservative, we assume automation has a labor substitution effect but no other 
+performance gains. Finally, we create a scenario in which FTEs displaced by automation rejoin 
+the workforce at 2022 productivity levels. Under the assumptions outlined above, we first 
+calculate the additional GDP impact of FTEs joining back the labor force after the defined 
+automation adoption scenario, as follows: 
+
+Additional GDP from displaced FTEs joining back the economy =  
+FTE impact of automation adoption X productivity of 2022. 
+
+The additional GDP is then added to 2022 GDP, to derive the productivity impact and its 
+growth over 2022–30.
+
+Impact of net-zero transition. The European Union, the United Kingdom, and the United 
+States have made international commitments to reduce greenhouse gas emissions to net 
+zero by 2050. We examined the impact of these commitments on jobs using a scenario-
+based analysis drawing on the approach used by NGFS (scenario REMIND-MAgPIE 2.1-
+4.1, published in June 2022). We have built on previous McKinsey research assessing the 
+impact at a global level to analyze the specific implications for the European Union, the 
+United Kingdom, and the United States, adding sectoral and occupational dimensions to 
+the analysis. This net-zero analysis assumes that current supply chain composition remains 
+the same until 2030. We consider the impact of the European Union, the United Kingdom, 
+and the United States meeting their own emissions targets as well as their role in meeting 
+global demand for products. Jobs gained and lost are allocated as per the occupational mix 
+of 2022. We have considered job losses and gains directly and indirectly associated with the 
+transition for operations and maintenance and capital expenditure. We do not include other 
+macroeconomic forces such as population and income growth.
+
+Long-term labor market trends. In estimating labor demand, we factored in six 
+macroeconomic catalysts—rising incomes, healthcare and aging, technological innovation, 
+infrastructure investment, education, and the marketization of unpaid work—across the 
+economy. We captured direct and indirect jobs that could be created from each catalyst by 
+leveraging job multipliers from input-output tables. 
+
+Trends accelerated by COVID-19. We incorporated broad trends accelerated by the pandemic 
+that may influence labor demand and jobs in the economy through 2030, including increased 
+remote work and virtual meetings and the shift to e-commerce and other virtual transactions. 
+
+61
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondSkills demand and transitions. Our skills demand and transition modeling is based on the 
+framework devised in MGI’s May 2018 report, Skill shift: Automation and the future of the 
+workforce. We looked at 25 workforce skills that fall into five broad categories: physical 
+and manual, basic cognitive, higher cognitive, social and emotional, and technological. The 
+number of hours that workers spend performing specific work activities were then mapped 
+to a predominant skill. Since one-to-one mapping of skills and activities undercounts 
+digital skills, we corrected this by reallocating a portion of hours from activities requiring 
+nontechnological skills to those requiring basic digital skills.
+
+Box
+A note on terminology
+
+We use the term “occupational shifts” to mean 
+declines in employment in specific occupations 
+between 2016 and 2022. (We do not include gains 
+in this calculation to avoid double counting.) 
+
+Since the number of total workers grew over this 
+period, losses in some occupations were offset 
+or more than offset by gains in other occupations. 
+From the gross declines in each occupation, 
+we also reduced a proportional share of total 
+retirements. We calculated this by taking the 
+number of total retirements and allocating a share 
+to each occupation according to its proportion of 
+workers aged 65 and over. 
+
+However, we do not know exactly how many 
+individuals moved from one occupation to another 
+or if they made multiple moves; for that reason, 
+we refer to the number of occupational shifts that 
+occurred during this period rather than specifying 
+the number of workers making those changes. 
+
+Much of our analysis looks at occupational 
+categories. Each of those categories contains 
+multiple occupations. A move from one occupation 
+to another within the same category is counted 
+as a shift (in historical context) or a transition 
+(in the context of future projections). Within any 
+given category, some individual occupations may 
+experience declines while others increase. 
+
+Proprietary skills demand survey methodology
+
+We complemented the labor demand analysis of our model with a survey of executives to 
+gauge current and future expectations of demand for skills.
+
+Target sample. To supplement the findings of our model, we ran a proprietary skill survey 
+in March 2024 with 1,128 C-level executives from five representative countries: France, 
+Germany, Italy, the United Kingdom, and the United States. Survey respondents came from a 
+range of industrial sectors, per the NACE statistical classification of economic activities used 
+in the European Union, and included all types of companies with 50 employees or more. 
+
+Collection methodology. Respondents were asked to provide insights on three key areas: 
+(1) current and future skill demands, (2) the impact of AI and AI adoption on workforce skills 
+demand, and (3) companies’ strategies for bridging the existing skills gap. Participants 
+responded to a ten-minute online survey that focused on both the present (2024) and a 
+forecasted future (2030) regarding these three aspects (exhibit). Additionally, we compared 
+our results with the World Economic Forum’s The future of jobs report 2023 and found similar 
+results in both the scale and types of skill shifts needed.
+
+62
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondWeb <2024>
+<MCK242172 VivaTech 2024-APPENDIX>
+Exhibit A1
+Exhibit <1> of <1>
+
+Companies participating in a recent McKinsey Global Institute survey 
+represented five countries and leading sectors.
+
+Geography, % of respondents
+
+Sector, % of respondents
+
+France
+
+Italy
+
+United Kingdom
+
+Germany
+
+United States
+
+Public sector
+Electric power and
+natural gas
+Business, legal, and
+professional services
+
+Travel, logistics,
+and infrastructure
+
+Retail
+
+Healthcare
+
+Technology
+
+Advanced electronics
+
+Pharmaceuticals and 
+medical products
+Consumer  
+packaged goods
+
+Engineering, 
+construction, and 
+building materials
+
+Automotive 
+and assembly
+
+Financial services
+
+Others
+
+Company size,1 % of respondents
+
+Company performance,2 % of respondents
+
+20,001–50,000
+10,001–20,000
+More than 50,000
+
+5,001–10,000
+
+50–99
+
+500–999
+
+100–499
+
+1,000–5,000
+
+Don’t know
+Significantly worse
+Somewhat worse
+
+Same
+
+Significantly better
+
+Somewhat better
+
+Note: Figures do not sum to 100%, because of rounding.
+1Companies with fewer than 50 employees were screened out.
+2Company net profit margin compared to sector average.
+Source: 2024 McKinsey Global Institute Survey, n = 1,128 C-level executives (305 from the US, 213 from Germany, 209 from the UK, 201 from Italy, and 200 
+from France)
+
+McKinsey & Company
+
+63
+
+2421201210543542416421151313998865433322719191818A new future of work: The race to deploy AI and raise skills in Europe and beyondThe information contained herein has been obtained from sources believed to be reliable. 
+McKinsey and its advisers disclaim all warranties as to the accuracy, completeness, or 
+adequacy of such information. McKinsey and its advisers shall have no liability for errors, 
+omissions, or inadequacies in the information contained herein, or for interpretations thereof. 
+The material or information is not intended to be relied upon as the sole basis for any decision 
+that may affect any business. Before making any decision or taking any action that might 
+affect anybody’s personal finances or business, they should consult a qualified professional 
+adviser. 
+
+Use of or reference to companies/third parties in the report is merely for the purpose of 
+exemplifying the trends in the industry; no bias is intended toward any company. This report 
+does not purport to represent the views of the companies mentioned in the report. Reference 
+herein to any specific commercial product, process, or service by trade name, trademark, 
+manufacturer, or otherwise does not necessarily constitute or imply its endorsement, 
+recommendation, or favoring by McKinsey or any agency thereof, or its contractors or 
+subcontractors. 
+
+The material in this publication is copyrighted. No part of this report can be reproduced 
+either on paper or electronic media without permission in writing from McKinsey. Request for 
+permission to reproduce any part of the report may be sent to McKinsey. 
+
+Usage of information: Forwarding/copying/using this material in publications without 
+approval from McKinsey will be considered as infringement of intellectual property rights.
+
+64
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondAcknowledgments
+
+This research was led by Eric Hazan, a McKinsey senior partner based in Paris; 
+Anu Madgavkar and Michael Chui, McKinsey Global Institute partners based in New Jersey 
+and San Francisco, respectively; Sven Smit, chair of the McKinsey Global Institute and a 
+McKinsey senior partner based in Amsterdam; Dana Maor, a McKinsey senior partner based 
+in Tel Aviv; and Gurneet Singh Dandona, an associate partner based in New York. Roland 
+Huyghues-Despointes and Alok Singh led the working team, which included Stanislas Engel, 
+Darien Ghersinich, Camille Tomeo, and Martin Viellard. 
+
+Kweilin Ellingrud, a McKinsey Global Institute partner based in Minneapolis; Alexander 
+Sukharevsky, a McKinsey senior partner based in London and global leader of QuantumBlack, 
+AI by McKinsey; and Olivia White, director of the McKinsey Global Institute and a McKinsey 
+senior partner based in San Francisco, provided valuable guidance. In addition, Sandra Durth, 
+a McKinsey partner in Cologne, and Frédéric Panier, a McKinsey partner based in Brussels, 
+guided the team with their insights. Several other McKinsey colleagues offered valuable 
+inputs and guidance: Jan Bouly, Guillaume Dagorret, Mekala Krishnan, Jan Mischke, and 
+Tilman Tacke.
+
+We are grateful to the academic advisers who challenged our thinking and sharpened our 
+insights: Simon Johnson, the Ronald A. Kurtz Professor of Entrepreneurship at the MIT Sloan 
+School of Management, where he is head of the Global Economics and Management group 
+and anchors the MIT Shaping the Future of Work Initiative; and Sir Christopher Pissarides, 
+Nobel laureate and Regius Professor of Economics at the London School of Economics and 
+Political Science. We are grateful to Austin Lentsch, a workforce Policy and Communications 
+Fellow at MIT’s Blueprint Labs, for his valuable inputs. 
+
+The report was edited and produced by Peter Gumbel and the LEFF team of designers. We 
+thank Shannon Ensor, Rachida Mokhneche, and Rachel Robinson for their support.
+
+As with all MGI research, this work is independent and has not been commissioned or 
+sponsored in any way by any business, government, or other institution. While we gathered 
+a variety of perspectives, our views have been independently formed and articulated in this 
+report. Any errors are our own.
+
+65
+
+A new future of work: The race to deploy AI and raise skills in Europe and beyondMcKinsey Global Institute
+May 2024
+Copyright © McKinsey & Company
+Designed by the McKinsey Global Institute
+
+www.McKinsey.com/mgi
+
+  @McKinsey_MGI
+  @McKinseyGlobalInstitute
+  @McKinseyGlobalInstitute
+
+Subscribe to MGI’s podcast, Forward Thinking:
+mck.co/forwardthinking
+
+McKinsey & Company
+
+May 2024
+
+Copyright © McKinsey & Company
+
+www.McKinsey.com
+
+  @McKinsey
+
+  @McKinsey
+
+  @McKinsey
+
+A
+
+n
+
+e
+
+w
+
+f
+
+u
+
+t
+
+u
+
+r
+
+e
+
+o
+
+f
+
+w
+
+o
+
+r
+
+k
+
+:
+
+T
+
+h
+
+e
+
+r
+
+a
+
+c
+
+e
+
+t
+
+o
+
+d
+
+e
+
+p
+
+l
+
+o
+
+y
+
+A
+
+I
+
+a
+
+n
+
+d
+
+r
+
+a
+
+i
+
+s
+
+e
+
+s
+
+k
+
+i
+
+l
+
+l
+
+s
+
+i
+
+n
+
+E
+
+u
+
+r
+
+o
+
+p
+
+e
+
+a
+
+n
+
+d
+
+b
+
+e
+
+y
+
+o
+
+n
+
+d
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

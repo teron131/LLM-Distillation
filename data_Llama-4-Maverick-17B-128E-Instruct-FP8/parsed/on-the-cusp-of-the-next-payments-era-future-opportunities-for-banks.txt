@@ -1,0 +1,1654 @@
+The 2023 McKinsey Global Payments Report
+
+On the cusp  
+of the next payments era: 
+Future opportunities  
+for banks
+
+September 2023
+
+2023 McKinsey Global Payments Report
+
+On the cusp of the next 
+payments era: Future  
+opportunities for banks
+
+This report is a collaborative effort by Luca Bionducci, Alessio Botta, Philip Bruno, Olivier 
+Denecker, Carolyne Gathinji, Reema Jain, Marie-Claude Nadeau, and Bharath Sattanathan, 
+representing views from McKinsey’s Global Banking Practice.
+
+2
+
+Table of contents
+
+Introduction 
+
+State of the industry   
+
+Entering a new payments era 
+
+Emerging opportunities for banks 
+
+ 4
+
+ 5
+
+ 14
+
+ 18
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction
+
+The 2023 McKinsey Global Payments Report shines a light on a changing industry and explains how banks and 
+others can capitalize on new dynamics. The analysis is based on McKinsey’s Global Payments Map, covering more 
+than 25 payment products in 47 countries, accounting for 90 percent of global GDP.
+
+We begin by assessing the state of the industry. A close look at the industry’s revenues highlights emerging 
+changes in geographies and products, as well as developments in instant payments and digital wallets. Next, we 
+look at valuations and find that payments players have re-gained a degree of investment confidence. Among this 
+year’s findings are the following:
+
+ — Global payments revenue grew by double digits for the second year in a row.
+
+ — Sustained growth in India, fueled by cash displacement, moved it into the top five countries for payments 
+
+revenues.
+
+ — For the first time in several years, interest-based revenue contributed nearly half of revenue growth.
+
+ — Cash usage declined by nearly four percentage points globally in 2022. Over the past five years, the growth 
+
+rate for electronic transactions has been nearly triple the overall growth in payments revenue.
+
+A historical view provides a picture of the progress the industry has made. From its early days to the present, the 
+payments sector has already been through three distinct eras. The evidence suggests the industry may be on the 
+verge of a fourth era, which we interpret as an era of “de-coupling.”
+
+The industry’s transition from the Account Era to the Decoupled Era presents concrete opportunities for banks 
+and other payments players to differentiate. In our final section, we offer perspectives on two distinct paths 
+that banks and payments players more broadly can follow to solidify their competitive position in the payments 
+industry: finding new opportunities to scale business impact and doubling down on improvements to productivity 
+and risk management.
+
+44
+
+On the cusp of the next payments era: Future opportunities for banks
+
+State of the 
+industry
+
+5
+
+State of the industry
+
+The payments industry’s 2022 performance, in terms of revenues and valuations, shows ongoing change with 
+opportunities for growth and margin improvement across geographies and products. A close look at revenues 
+uncovers some structural changes, including new developments in instant payments and digital wallets. Also, 
+recent public company returns suggest investors may be regaining confidence following the volatility of 2020–22.
+
+Revenue results highlight the industry’s resilience and future direction
+
+Globally, payments revenues proved remarkably resilient, overcoming a variety of regional headwinds to grow at 
+rates well above the established long-term trend. Payments revenues grew at 11 percent in 2022—a double-digit 
+rate for the second consecutive year—reaching more than $2.2 trillion, an all-time high (Exhibit 1).  
+
+Revenues by geography: Broad-based gains
+Revenue growth was broadly distributed geographically, with three of the four regions posting their strongest 
+increases in a decade. North America; Latin America; and Europe, the Middle East, and Africa (EMEA) all grew at 
+double-digit rates. 
+
+The exception to this trend is Asia–Pacific. In recent years, this region, which accounts for 47 percent of global 
+payments revenues, has served as the primary growth vector. But in 2022, regional revenues rose just 4 percent, 
+
+Exhibit 1
+Global payments revenues grew by 11 percent in 2022.
+
+Global payments revenues, 2017–27F, $ trillion
+
+Asia–Pacific
+
+North America
+
+Europe, Middle East, and Africa¹
+
+Latin America
+
+CAGR, %
+
++7%
+
++11%
+
+0.1
+
+0.1
+
++5%
+
+1.8
+
+0.3
+
+0.5
+
+0.9
+
+2.0
+
+0.3
+
+0.5
+
+1.0
+
+2.2
+0.2
+0.4
+
+0.6
+
+1.0
+
+0.1
+
+1.7
+
+0.3
+
+0.5
+
+0.8
+
+2017–22
+
+2022–27F
+
+3.2
+
+0.3
+
+0.5
+
+0.8
+
+1.5
+
+6
+
+14
+
+7
+
+5
+
+5
+
+7
+
+11
+
+6
+
+6
+
+8
+
+Share of 
+banking 
+revenues,² %
+
+2017
+
+37
+
+2020
+
+2021
+
+2022
+
+35
+
+36
+
+36
+
+2027
+forecast
+
+38
+
+Note: Figures may not sum to totals, because of rounding.
+1Russia revenues kept flat after 2021.
+2Total banking revenues excludes capital markets and investment banking (CMIB) revenues.
+Source: McKinsey Global Payments Map
+
+McKinsey & Company
+
+6
+
+as a result of a 3 percent decline in payment revenues in China. Excluding China, however, the Asia–Pacific region 
+grew at 25 percent—faster than in 2022. 
+
+Broadly speaking, the economies with the largest payments revenue pools delivered growth at or above the mean, 
+contributing to 2022’s strong result. This list, which includes Brazil, India, Japan, and the United States, posted 
+solid results in both interest and fee-driven revenues. 
+
+A key factor in China’s results was the 5 percent decline in transactional fee revenue. It fell to $255 billion as a 
+result of smaller ticket sizes on card transactions and fee concessions implemented by payments providers to spur 
+small and medium-size enterprise (SME) activity and counteract the COVID-19 macroeconomic shock. 
+
+By category, interest outpaced fees, and commercial maintained a lead over retail
+In many markets, about half of 2022’s revenue growth came from rising interest rates, interrupting a long-standing 
+trend in which fees were the main source of growth. The shifting interest rate environment had the greatest impact 
+on the EMEA region, where net interest margins jumped markedly, reversing a trend of the past decade. EMEA’s 
+transaction-based revenue continued to grow at a steady pace (5 percent in 2022), while net interest income’s 
+(NII) share of total revenues rose from 33 percent to 45 percent in a single year, bringing it closer in line with other 
+regions.
+
+Another way to understand payments revenues is by customer segment (commercial and consumers) and the 
+products that the industry delivers to each (Exhibit 2). The mix has been subtly but persistently tilting toward 
+commercial across all regions for some time. Overall, commercial now accounts for 53 percent of revenues and 
+consumer 47 percent. This proportion varies from region to region. Commercial revenues have long predominated 
+in Asia–Pacific and EMEA. Consumers still generate the majority in North America (63%) and Latin America 
+(54%), where markets remain mostly card driven.
+
+Cross-border payment dynamics were particularly robust. Flows reached about $150 trillion in 2022, a 13 percent 
+increase in a single year. This money movement generated an even greater increase in cross-border revenues, 
+which rose 17 percent to $240 billion. Revenues from cross-border consumer payments—both C2B and C2C—
+increased at double-digit rates, accelerating from high single digits in 2021. Conversely, both forms of commercial 
+payments (B2B and B2C) grew by 10 percent, somewhat slower than 2021’s postpandemic surge. 
+
+The United States–Latin America corridor remains the largest for C2C remittances, representing 11 percent of 
+the total value of such flows. Central America has been an increasingly relevant destination for remittances and 
+humanitarian aid from the United States.¹
+
+While B2B remains the primary driver of cross-border revenue (69 percent of the total), the consumer categories 
+carry higher margins and are projected to grow more rapidly over the next five years. Much of the growth is 
+expected to be in C2B, related to increased travel and e-commerce spending. We discuss this opportunity further 
+in the last section.
+
+Future revenue growth: Instant payments and digital wallets on the rise
+Our analysis suggests that future revenue growth will likely be stimulated by instant-payments innovations and 
+the rise in digital wallets in certain geographies. The increase in electronic payments transaction volumes has 
+consistently outpaced payments revenue growth (17 percent versus 6 percent) over the past five years. This is 
+indicative of the continuing evolution in payments preferences, a general migration toward lower-fee instruments, 
+and the gradually declining margins that accompany scale. 
+
+1 “Fact sheet: Update on the US strategy for addressing the root causes of migration in South America,” The White House, February 2023. 
+
+On the cusp of the next payments era: Future opportunities for banks
+
+7
+
+Exhibit 2
+
+Liquidity revenues in 2022 accounted for $750 billion globally, largely driven
+by Asia–Pacific.
+
+Global payments revenues, by type and location, 2022
+
+Asia–Pacific
+
+North America
+
+EMEA
+
+Latin
+America
+
+Global 
+payments 
+revenues, 
+2022, %
+
+8
+
+28
+
+22
+
+4
+2
+
+16
+
+5
+
+15
+
+6
+
+11
+
+9
+
+11
+
+3
+
+8
+
+16
+
+37
+
+Commercial (53% of total)
+
+Cross-border¹
+
+Account-related liquidity²
+
+Domestic transactions³
+
+Credit cards
+
+Consumer (47% of total)
+
+Cross-border⁴
+
+Account-related liquidity²
+
+Domestic transactions³
+
+Credit cards
+
+6
+
+16
+
+20
+
+5
+2
+
+13
+
+9
+
+30
+
+16
+
+17
+
+22
+
+2
+4
+
+15
+
+16
+
+8
+
+$1.0 
+
+$0.6 
+
+$0.4
+
+$0.2
+
+Global payments revenues, 2022, $ trillion
+
+Note: Figures may not sum to 100%, because of rounding.
+1Cross-border payment services (B2B, B2C).
+2Net interest income on current accounts and overdrafts.
+³Fee revenues on domestic payment transactions and account maintenance (excluding credit cards).
+⁴Remittance services and C2B cross-border payment services.
+Source: McKinsey Global Payments Map
+
+McKinsey & Company
+
+These dynamics are also evident in cash displacement. Cash usage declined by nearly four percentage points 
+globally in 2022. Worldwide, the decline in cash usage during the pandemic shows no evidence of being reversed, 
+led downward by the cash-reliant economies of India and Brazil, where the share of cash transactions fell by seven 
+to ten percentage points. Brazil’s cash declines are concurrent with the rapid uptake of the country’s Pix instant-
+payments network. 
+
+8
+
+On the cusp of the next payments era: Future opportunities for banks
+
+A similar transformation is taking place on a smaller scale in Nigeria, where instant-payments capabilities are 
+being built into point-of-sale devices to facilitate merchant enablement. Nigeria’s share of cash transactions fell 
+from 95 percent in 2019 to 80 percent in 2022. Over the same period, instant payments’ share quadrupled to  
+8 percent. 
+
+Instant payments are playing a key role in this transition out of cash. In Brazil, almost half of the transactional 
+revenue growth through 2027 is expected to come from instant payments. Yet in other places, revenue growth 
+from instant payments could be meager. Instant payments in India are expected to contribute less than 10 
+percent of future revenue growth because no fees are currently charged for the Unified Payments Interface (UPI). 
+Conversely, in several European countries such as Germany, instant payments are perceived as a premium option, 
+resulting in relatively strong potential for revenue growth.
+
+By 2027, cash-heavy developing economies to make further significant shifts toward instant payments, bringing 
+these transactions’ share to roughly half of overall payment transactions—nearly two-and-a-half to three times 
+greater than in 2022. By contrast, our analysis indicates that near-term impact in mature markets such as the 
+United States and United Kingdom will be nominal. Instant payments remain in a nascent stage in the United 
+States, where 2022’s cash decline was more muted following 2021’s pandemic lockdown-related reduction. July 
+2023’s launch of the Federal Reserve’s FedNow real-time payment rails may prove to be an inflection point, but 
+the effect will be gradual.
+
+Our sidebar on the Indian market (“India’s embrace of digital payments”) offers a valuable case study of payments 
+evolution and its role in a strongly growing economy, with particular lessons for cash displacement and instant 
+payments adoption. 
+
+India’s embrace of digital payments
+
+The volume of India’s digital payments has grown 
+tenfold over the past five years and is projected 
+to grow at roughly 35 percent per year over the 
+next five. The vast majority of these new digital 
+transactions are the result of cash displacement 
+and, in recent years, have migrated directly 
+to instant payments on the Unified Payments 
+Interface (UPI) network. UPI’s share of digital 
+transactions has risen from 8 percent in 2017 to 
+nearly 75 percent in 2022. Notably, credit cards 
+also contributed to the growth of digital payments, 
+registering double-digit growth. 
+
+Although UPI generates minimal transaction 
+fees, these revenues still represent an uplift 
+from no-fee cash events, and the paperless 
+process eliminates the hidden costs of 
+managing cash transactions. Additionally, the 
+associated change in consumer behavior has 
+enhanced security and increased access to 
+digital commerce channels. Arguably, the shift 
+to a digital-payment mindset with credit-led 
+benefits may help explain increases in India’s 
+credit card usage as well.
+
+On the cusp of the next payments era: Future opportunities for banks
+
+9
+
+India payments revenues have risen by an 
+average of 12 percent over the past five years, 
+reaching $64 billion in 2022, when they grew 
+by 38 percent. India has pulled even with Japan 
+as the fourth-largest payments-revenue-
+generating country—behind only China, the 
+United States, and Brazil, and ahead of mature 
+economies including the United Kingdom, 
+Germany, Canada, and Italy.
+
+Looking forward, the Indian payments 
+ecosystem faces headwinds similar to those 
+in other markets. Regulatory mandates may 
+result in increased costs, and fintech players are 
+opening new competitive battlefronts through 
+adjacent payment propositions such as credit 
+offers at the point of sale.
+
+Despite all this, India has a unique opportunity 
+among large payments economies to continue 
+digitizing a significant cash base. The share of 
+cash transactions is projected to fall from 82 
+
+percent in 2022 to 34 percent in 2027. The solid 
+majority of these will migrate to UPI’s instant-
+payment rails, which—assuming a continuation 
+of current government policy—will drive minimal 
+direct revenue uplift. However, continued gains 
+in credit card penetration and usage, as well 
+as even stronger growth in digital commerce, 
+offer significant untapped pockets of revenue, 
+particularly given the volumes involved.
+
+We see India’s ongoing payments revenue 
+growth, which exceeds global averages, 
+concentrated in a handful of cash-rich, high-
+friction pockets (exhibit). The majority of these 
+are consumer initiated to businesses (where 
+point-of-sale transactions show healthy growth 
+along with digital) as well as to other consumers. 
+The sheer volume and digitization opportunity 
+in the B2B space is too large to overlook. There 
+is ample room for banks to pursue various 
+use cases depending on their specific core 
+competencies and strategic priorities.
+
+Exhibit
+
+India’s payments market has several cash-rich pockets.
+
+Number of payment transactions, 2022 and 2027F, billions
+
+Digital transactions
+
+<25%
+
+25–75%
+
+>75%
+
+Significant projected jump in digitization
+
+2022 actual
+
+Destination 
+
+2027 forecast
+
+Destination 
+
+Initiation
+
+Consumer 
+
+Business 
+
+Government 
+
+Consumer 
+
+Business 
+
+Government 
+
+Consumer 
+
+Business 
+
+Government 
+
+Total
+
+30%
+
+15%
+
+30%
+
+70%
+
+60%
+
+60%
+
+145
+
+360
+
+5
+
+5
+
+45%
+
+10%
+
+100
+
+85%
+
+99%
+
+<1
+
+~620
+
+<1
+
+<1
+
+<1
+
+95%
+
+100%
+
+20%
+
+190
+
+6
+
+6
+
+50%
+
+415
+
+140
+
+80%
+
+97%
+
+99%
+
+<1
+
+~765
+
+<1
+
+<1
+
+5
+
+98%
+
+100%
+
+65%
+
+Source: McKinsey Global Payments Map
+
+McKinsey & Company
+
+10
+
+On the cusp of the next payments era: Future opportunities for banks
+
+The story varies from country to country, but the developments in Europe are worth a second glance. Today, 
+instant payments currently constitute 12 percent of the credit transfer volume in the Single Euro Payments Area 
+(SEPA) (Exhibit 3). Absent regulatory intervention, this share could double by 2027; however, if regulators proceed 
+with anticipated actions to encourage adoption, this share could rise to 45 percent of SEPA’s 23 billion annual 
+transactions and a far higher share of account-to-account (A2A) payments, including transfers done through 
+automated clearing house (ACH), real-time gross settlement (RTGS), and instant payments.
+
+Digital wallets, the source and destination of much of the flow in instant payments, are similarly booming. Several 
+business models are taking shape in different parts of the world. In several African countries (Kenya, Ghana, and 
+Tanzania, for instance), mobile-wallet infrastructure is ubiquitous and interoperable. Nigeria’s Central Bank spurred 
+uptake by pushing a “cashless economy” during a note-change process in early 2023. Demand for digital payment 
+solutions has spiked among Nigerian merchants of all sizes. One acquirer reports that 70 percent of the new 
+merchant customers haven’t previously accepted digital payments—a clear indicator of expanding network effects. 
+
+Exhibit 3
+
+If new favourable regulations are issued, as anticipated, instant payments 
+volumes could double the current forecast for 2027. 
+
+Number of instant payments transactions,
+Eurozone,¹ 2022 and 2027F, billions
+
+Scenario 1: No new regulation
+
+Scenario 2: New regulation
+
+Share of A2A in
+total payments
+
+24%
+
+26%
+
+21–23
+
++140%
+
+8–11
+
+2027F
+
+3.30
+
+7.87
+
+3.3
+
+3.3
+
+2022
+
+1.50
+
+1.50
+
+Instant transfers/
+total payments,² %
+
+1Estimate for selected countries: Austria, Belgium, Finland, France, Germany, Greece, Italy, Netherlands, Portugal, Slovakia, Slovenia, and Spain.
+2Total payments includes transactions made through cash, checks, cards, and A2A in the Eurozone.
+Source: McKinsey Global Payments Map; McKinsey estimates
+
+McKinsey & Company
+
+On the cusp of the next payments era: Future opportunities for banks
+
+11
+
+Valuations: Signs of stabilization, with differentiated performance by sector
+
+Following strong performances in 2020 and the first half of 2021, during which time payments companies delivered 
+more than 50 percent total shareholder returns, and the “capital market reset” spanning the second half of 2021 
+and first half of 2022, when the same companies delivered a 60 percent negative TSR,² recent market valuations 
+suggest that payments players have regained a degree of investor confidence.
+
+Publicly traded payments companies overall delivered 13 percent TSR from September 2022 to August 2023, in 
+line with the overall market and above the broader banking industry’s 6 percent,³ despite the shifting interest rate 
+environment, which primarily benefits banks. 
+
+Our analysis of 33 listed payments companies globally is divided into incumbents (20 companies) and newer 
+“attacker”⁴ firms (13 companies). Attackers’ valuations took the larger hit in 2022 (–62 percent TSR for the year) but 
+performed on par with incumbents for the 12 months through August 2023. Notably, the attacker group’s recovery 
+had exceeded 20 percent until mid-August when adverse market news reversed some of those gains. 
+
+Recent market valuations suggest 
+that payments players have regained 
+a degree of investor confidence.
+
+Despite the rebound, payments companies’ share prices remain well off the highs established in 2021. Investors 
+may be expecting both groups to continue refocusing on fundamentals in order to align with the changed 
+macroeconomic environment. While investors’ revenue growth expectations for payments companies moderated to 
+10 percent for 2022–24 (versus 17 percent for 2020–22), EBITDA margin expectations increased from 35 percent 
+in 2022 to 41 percent in 2024, reflecting the greater focus on profitability. Meanwhile, the average EBITDA multiple 
+of 18 times is the same as measured in August 2022. 
+
+Incumbents’ performance has varied by segment over the past 12 months. Payment scheme providers fared best of 
+the four segments tracked, producing TSR of 25 percent. B2B payments specialists (companies specializing in fuel 
+cards, accounts-receivable financing, and similar offerings) also delivered positive returns (9 percent TSR), driven by 
+double-digit revenue growth expectations and margins anticipated to significantly improve to 47 percent in 2024. 
+By contrast, infrastructure providers (such as processors and merchant acquirers) produced the lowest returns (–17 
+percent), driven by a reduction in revenue growth expectations. Traditional cross-border specialists (essentially 
+money-transfer operators) were also in negative territory (–9 percent TSR), reflecting shrinking revenues and low 
+margins.⁵ 
+
+2 Please refer to the 2022 Global Payments Report for a deep dive on the capital markets performance by payments companies between 2020 and the first 
+
+half of 2022.
+
+3 “Overall market” includes the top 5,000 companies globally by market capitalization. “Broader banking industry” includes banks within this overall market.
+4 Attacker payments players defined as businesses established less than 15 years ago and with a business and operating model characterized by “disruptive” 
+attributes either in terms of products (for example, e-commerce acquiring only, issuing of non-physical cards, payments as a service), distribution channels 
+(for instance, partnerships with e-commerce/tech players), or technological infrastructure (for example, cloud-based data centers). Thirteen companies 
+included in sample.
+
+5 Data in this paragraph is based on analyst consensus figures taken from McKinsey Corporate Performance Analytics.
+
+12
+
+On the cusp of the next payments era: Future opportunities for banks
+
+Positioned for growth
+
+Overall, the payments industry’s 2022 revenue and valuation growth are consistent with optimism about the 
+future. Our analysis indicates that the five-year outlook is strong, with likely revenue growth of 6 to 8 percent. The 
+opportunities will likely be widespread: all four regions are projected to expand at an annual average of 6 percent 
+or higher. Fee-based revenue growth is forecast to return to slightly exceed interest-based contributions, and 
+global electronic transaction volumes may continue to grow (15 percent in this case) at rates exceeding revenue. 
+Although these interest rate effects may moderate in the coming years, the market remains on pace to exceed  
+$3 trillion in payments revenue by 2027.
+
+v v v
+
+Last year was a good one for the payments industry worldwide, and the five-year outlook is strong, with 
+significant opportunities in all four regions. However, while growth expectations remain positive, investors are still 
+reassessing their view of the sector in the capital markets, following the ups and downs of 2020–22. To withstand 
+the scrutiny, companies will benefit from keeping up with the technological transformation sweeping payments, as 
+described in the next section, to enhance the profitable nature of the projected revenue growth.
+
+The market remains on pace to exceed
+
+$3 trillion
+
+in payments revenue by 2027.
+
+On the cusp of the next payments era: Future opportunities for banks
+
+13
+
+ 
+Entering a new 
+payments era
+
+14
+
+On the cusp of the next payments era: Future opportunities for banks
+
+ 
+Entering a new payments era
+
+During the past few decades, the payments industry has rapidly embraced new technologies, in the process  
+opening new avenues to serve customers. The industry has already been through three distinct eras dominated, in 
+turn, by paper, plastic, and account transactions. Signs point to a fourth era starting in the present decade: we call 
+it the Decoupled Era. 
+
+How we got here
+
+The $3.2 trillion in revenue that McKinsey Global Payments Map projects for 2027 is aligned with the projection 
+we made in last year’s edition of this report⁶ ($3.0 trillion in 2026). However, the mix of revenue sources is evolving. 
+Cash usage has been declining rapidly, losing 20 percentage points in the share of global payments over the past 
+five years. Net interest margin is driving a greater share of growth, and companies are moving into less penetrated 
+areas of the payments value chain—for instance, low-value cross-border payments, business payments, and 
+instant domestic transfers. 
+
+All of this suggests the industry may be on the cusp of a new payments era⁷—and not for the first time (Exhibit 4). 
+People have seemingly always needed technologies to make payments. For the longest time—arguably since bills 
+
+6 The 2022 McKinsey Global Payments Report, McKinsey, October 2022 
+7 For more, see “On the cusp of a new era?,” McKinsey Global Institute, October 20, 2022.
+
+Exhibit 4
+
+Changes in the payments ecosystem have ushered in four eras of payments 
+business models.
+
+Timeline
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Paper Era:
+Pre-1960s
+
+Plastic Era:
+1960s–90s
+
+Account Era:
+1990s–2020s
+
+Decoupled Era:
+2020s
+
+Transactions
+
+Cash, checks, and
+wire transfers
+
+Sources of
+economic
+differentiation
+
+Balances and
+deposits
+
+Distribution
+channels
+
+Physical
+(eg, branches)
+
+Cash, checks,
+wire transfers,
+and physical cards 
+
+Transaction fees
+
+Physical and ATMs
+
+Instant transfers,
+A2A, and virtual cards
+
+Interoperable and 
+open, platform, 
+and decentralized
+
+Relationships and
+transfer fees
+
+Convenience, security,
+and low fraud incidence 
+
+Physical, ATMs,
+online, mobile, and
+digital wallets
+
+Physical, ATMs, online,
+mobile, embedded,
+and metaverse
+
+Technology
+
+Telegram
+
+Automated clearing
+house (ACH) 
+
+Applications and
+instant payments
+
+Platform as a service
+(PaaS), tokenization,
+generative AI, and
+open/API banking
+
+Source: McKinsey analysis
+
+McKinsey & Company
+On the cusp of the next payments era: Future opportunities for banks
+
+15
+
+of trade were used in the Middle Ages or even earlier, when Chinese emperors introduced notes—transactions 
+were made on paper.
+
+Modern payments began roughly in 1950 with a cardboard Diners Club card accepted by 28 restaurants in New 
+York City and two hotels. Card issuers soon ditched the cardboard; the Plastic Era took off in earnest starting in 
+the 1960s. Cards spawned new payments opportunities and new sources of revenue from transaction fees, such 
+as ATM and guarantee cards. 
+
+The Plastic Era then gave way to the Account Era, where we find ourselves today, when plastic is no longer 
+required to access funds or transfer money between accounts. We peg the start of the Account Era to the 
+emergence of the online world at the end of the last century. Internet and mobile technologies made it possible for 
+users to direct funds from their accounts, repurposing infrastructure such as automated clearing houses.
+
+Another notable shift in the account era has been the emergence of new players in the form of fintechs and telcos 
+(as wallet providers), which provide easier, cheaper, and instant transfers, driving transaction volumes in both 
+consumer and commercial segments. However, fintechs recently have had to adjust to lower valuations and an 
+equity market less willing to fund growth at the expense of margins, leading traditional banks to reassert their role 
+in the payments ecosystem. Bank response strategies have ranged from payments carve-outs, as when banks 
+have established merchant payments businesses, to the building of defensible propositions from within.
+
+As the world has moved from paper to plastic to accounts, a few observations warrant highlighting. For one, older 
+payment mechanisms don’t disappear but simply decline in usage. For another, each successive era has leaned 
+harder into technology, requiring established institutions to undertake extensive retooling and creating openings 
+for disruptive competition. Third, payments have become more embedded into customer shopping journeys 
+and business activities, which makes payments increasingly important to users as they search for convenience 
+and utility. Finally, each era has seen more companies entering the market, including banks, infrastructure and 
+payment schemes, and today’s specialists and fintechs.
+
+The Decoupled Era
+
+Today, the industry may be on the verge of a new era. We call it the Decoupled Era because payments may be 
+increasingly disconnected from accounts and other fixed repositories of value. Users will have an even greater 
+voice than in the Account Era as they seek convenience, affordability, and security. The Decoupled Era is also 
+shaping up to be even more reliant on technology—but with the winning technologies yet to be determined. 
+Contenders include models that will transition to platform as a service (PaaS), serving smaller providers unable 
+to build across the value chain and providing a seamless transition across products and services for clients; 
+generative AI, which will further personalize client experiences, streamline payments processes, and protect 
+against fraud; and decentralized and highly interoperable technologies such as tokenization, further reducing the 
+need for a central agent.
+
+Some new players may emerge in the Decoupled Era, and archetypes of existing players will morph as well. 
+Fintechs, having pivoted their business models toward sustainability, will likely either move further into traditional 
+financial services or aggressively pursue partnerships to fulfill client needs. Banks in turn will likely seek more 
+independence and control across the value chain, which may take the form of partnerships or M&A activities. 
+Payments infrastructure players could take a proactive approach to portfolio strategy to secure positions in the 
+higher-value businesses, and telco players could diversify from traditional mobile money offerings to become 
+broader platform-based digital finance enablers. As a result, competition for client deposits and balances will 
+likely intensify in the Decoupled Era in tandem with heightened pursuit of client relationships. Returns may accrue 
+to players able to seamlessly integrate payments into client lifestyles and behaviors. Embedded finance will 
+become the standard. 
+
+16
+
+On the cusp of the next payments era: Future opportunities for banks
+
+As the Decoupled Era begins, the business models, solutions, and firms of the Account Era remain relevant, 
+but new opportunities are emerging for actors willing to explore fresh areas of growth. As we saw earlier, 
+equity markets are treating banks and nonbanks more evenly than in recent years, affording banks a renewed 
+opportunity to invest in growth. We expect the shift from a “grow at all costs” to a “resilience” mindset to continue 
+for the near to medium term. Emerging trends point to an acceleration of M&A activities, especially of smaller 
+rivals or of carved-out operations of incumbents, as well as strategic partnerships and expansions to take place. 
+In particular, payments infrastructure operators may be willing to adopt a proactive corporate portfolio strategy in 
+order to maximize scale in high-value businesses (such as merchant acquiring) while shedding underperforming or 
+value-diluting activities.
+
+v v v
+
+In the Decoupled Era, banks will no longer be able to rely solely on the account ownership paradigm. They will need 
+to build new businesses to keep clients within their service ecosystem. The transformation will require technology 
+changes in the form of core modernization and the application of generative AI. Furthermore, because the 
+independent actors in decentralized systems pull toward their advantage, banks and nonbanks will experience a 
+heightened need for security as avenues for fraud and financial crimes increase. We explore some of these issues 
+in our next section.
+
+In the Decoupled Era, banks will no 
+longer be able to rely solely on the 
+account ownership paradigm. They will 
+need to build new businesses to keep 
+customers within their service ecosystem. 
+
+On the cusp of the next payments era: Future opportunities for banks
+
+17
+
+ 
+Emerging 
+opportunities 
+for banks
+
+18
+
+On the cusp of the next payments era: Future opportunities for banks
+
+ 
+Emerging opportunities for banks
+
+The transition from the Account Era presents concrete opportunities for banks to differentiate. These fall 
+into two distinct categories in which banks can solidify their competitive position in the payments industry. 
+The first involves finding new opportunities to scale business impact, including new digital businesses and 
+the opportunity in deposits. The second concerns ways that banks can double down on productivity through 
+generative AI, the modernization of technology, and the ongoing battle to prevent financial crime. 
+
+Building new digital businesses
+
+Given that payments has become a technology business, building new digital businesses is a logical path to 
+growth for incumbents and new entrants alike. Opportunities are especially appealing in B2B markets because 
+retail markets are already relatively well served by digital payments platforms. In the past, building new B2B 
+digital payments platforms hasn’t been easy (corporate and commercial clients have been reluctant to pay for 
+such services in the past), but banks have offered them as a vital lifeline to these valuable customers. Today, 
+macroeconomic changes might offer new hope for digital B2B payments platforms that can stand on their own 
+two feet.
+
+For those seeking new business opportunities, three areas stand out for their growth potential: cross-border 
+payments, financial supply chain alternatives for SMEs, and embedded finance. As leaders consider their 
+options, a pragmatic approach is to stay close to the customer and to focus on existing strengths,⁸ rather than 
+acting like a start-up. 
+
+Cross-border payments
+Traditional cross-border specialists (specifically money-transfer operators) performed well below the market 
+average between 2017 and 2022. Yet, while their business model is under stress, opportunities exist in key 
+segments. B2B trade continues to fuel two-thirds of cross-border payments revenues and has grown at a healthy 
+clip, but the C2B category ($35 billion revenue) is growing most rapidly (by 70 percent in 2022) and offering 
+several promising use cases.
+
+Another clear trend includes B2B: growing lower-value cross-border payments, which are generating new 
+revenue dynamics. SWIFT reports that for its SWIFT gpi solution,  transactions with ticket sizes less than $1,000 
+have been increasing at a rate of nearly 300 percent since the platform’s 2017 inception,⁹ at least double that of 
+other value categories. Even among the typically higher-value B2B payments flowing over SWIFT, 80 percent of 
+those transactions are less than $100,000.
+
+This makes low-value payments—those with ticket sizes less than $100,000 in consumer and SME segments—a 
+significant opportunity for banks and nonbanks. Although low-value payments comprise 8 percent of cross-
+border payment flows, they account for roughly one-third of revenue because of extensive retail networks and 
+higher margins. The majority of the low-value payments involve either B2B (still the lion’s share via SME trade and 
+one-off corporate payments), C2B use cases (travel; verticals such as healthcare, real estate, and education; and 
+general e-commerce spending), or B2C (marketplace payouts, salaries, and social benefits) (Exhibit 5). 
+
+While banks are incumbent leaders in this space, a growing number of attacker fintechs are steadily progressing 
+their positions. Additionally, banks and fintechs have formed partnerships to serve this market. With emergent 
+
+8 Tomas Beerthuis, Ralf Dreischmeier, Tomas Laboutka, and Nimal Manuel, “A practical guide to new-business building for incumbents,” McKinsey, June 
+
+21, 2023.
+
+9 Swift GPI: Driving a payments revolution, Swift, October 7, 2020.
+
+On the cusp of the next payments era: Future opportunities for banks
+
+19
+
+Exhibit 5
+
+Low-value payments use cases collectively account for about $12 trillion in 
+global cross-border payment outflows.
+
+2022 global low-value payments use cases, $ trillion
+
+Counter-
+party
+
+Use case
+
+B2B
+
+SME trade
+
+SME nontrade payments
+
+All B2B
+
+B2C
+
+Dividends and interest payments¹
+
+Marketplace payouts
+
+Payroll
+
+Claims and 1-time disbursements
+
+Refunds
+
+Social benefits
+
+High-touch vertical payouts²
+
+Average ticket
+size, 2022, $
+
+5,000–10,000
+
+15,000–50,000
+
+7,000–12,000
+
+500
+
+1,500
+
+1,000–2,000
+
+250
+
+200
+
+350
+
+300
+
+High >10%
+Medium 5–10%
+Low <5%
+
+CAGR, 2022–27F,
+low–high
+
+Principal, 2022, $ trillion
+
+~2
+
+~6
+
+~8
+
+~0.6
+
+~0.3
+
+~0.2
+
+<0.1
+
+<0.1
+
+<0.1
+
+<0.1
+
+C2B
+
+All B2C
+
+Travel
+
+E-commerce
+
+Education
+
+Healthcare
+
+Bill payments³
+
+Loan repayments⁴
+
+All C2B
+
+500–1,000
+
+~1.3
+
+~100
+
+~100
+
+~0.8
+
+~0.5
+
+5,000–10,000
+
+~0.2
+
+~5,000
+
+100
+
+500
+
+~0.1
+
+<0.1
+
+<0.1
+
+~1,000
+
+~1.6
+
+C2C
+
+Remittances
+
+300–1,000
+
+~0.8
+
+1Including only low-value payouts to individuals.
+2Eg, legal, NGO.
+3Eg, utilities, telco.
+4Excluding real estate and including microloans via platforms.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+action across full-stack players like Visa, Mastercard, and cloud- and API-based and clearing providers, as well as 
+alternatives leveraging existing rails, the chessboards are sure to be rearranged over the coming years. 
+
+Financial supply chain alternatives
+Pressure to digitize extends throughout the enterprise. With an uncertain economic environment and companies 
+keeping less excess cash in operating accounts to maximize interest yield, leaders need better visibility into real-time 
+account positions and access to efficient financing. Many of these needs reside in the office of the CFO. Banks have 
+an opportunity to extend valuable automation and digitization services, embedding new functionality into their suite of 
+financial offerings.
+
+20
+
+On the cusp of the next payments era: Future opportunities for banks
+
+Start with the basics. Invoice standardization is a prerequisite to payables and receivables automation. The Factur X  
+e-invoice initiative championed by France and Germany is one development. The steady growth occurring in the volume 
+and complexity of invoices merely adds to the imperative. Cloud computing and the increasing acceptance of software-
+as-a-service (SaaS) alternatives are creating a path forward.  
+
+Banks, factoring specialists, and SME financing fintechs should assess their options. Some banks may consider 
+partnering with others that can provide credit expertise; banks can bring their balance sheet to the table. Others can 
+build their own solutions—for example, by using their merchant networks and current underwriting capabilities.
+
+New moves in embedded finance
+Embedded finance10 is taking off, fueled by technology, especially by the possibility of exposing APIs that simplify the 
+integration of payments products into any type of consumer journey. Nonfinancial firms with a history of creating strong 
+digital experiences are becoming gateways to financial services for millions of consumers and businesses, while their 
+bank partners enjoy expanded, low-cost distribution for their financial products. 
+
+How can banks break into the business? And how can those already in the game improve their position? We see four 
+basic postures. Global and international banks might seek to build a bank-owned embedded-finance business, 
+replicating and trying to outcompete challenger models to win business in segments where the legacy approach 
+falls short or cannibalization seems a threat. Examples include installment repayment plans for standard credit card 
+purchases such as American Express’s Pay It, Plan It and Citi’s Flex Loans.
+
+Big banks can go another way and become strategic partners to retailers and other distributors. Banks choosing this 
+stance typically have strengths in risk and regulatory management that distributors lack. They can contribute these skills 
+and a fit-for-purpose embedded financial structure; distribution partners can focus on the digital experiences at which 
+they excel. 
+
+Banks can also tap an area of expertise and become specialists in a given product, such as loans. Their vast 
+experience in certain credit products and serving specific industry verticals can help them partner with distribution 
+companies that have neither the licensing nor infrastructure to address these needs at scale. 
+
+Some smaller banks might choose a fourth path: becoming providers of balance sheet and risk services. Such banks 
+might use banking-as-a-service (BaaS) platforms like Treasury Prime, Unit, and Bond to provide distribution partners 
+with deposit and lending products. In this way, banks can gain access to new revenue streams while BaaS platforms 
+expand their networks’ deposit and lending capacity.
+
+Deposits: A changed environment calls for new strategies
+Deposits represent one of the most critical resources of any bank and one of the most important revenue streams for 
+corporate transaction banks around the globe. However, several financial institutions have experienced significant 
+deposit withdrawals and increasing market volatility in response to rising interest rates, credit restrictions, and liquidity 
+gaps. As the banks attempt to capture and maintain their deposit base, investors are closely monitoring their resilience. 
+
+For several years, businesses and consumers have faced very little opportunity cost for retaining excess funds in current 
+accounts. This changed rapidly as interest rates began to increase in late 2022 and further accelerated in 2023. North 
+America saw money market rate increases of more than 2 percent, and balances migrated out of current accounts. 
+Across other markets (for example, Singapore), consumers shifted idle money into savings accounts as central banks 
+increased rates, causing declines in current-account deposits. In economies such as India and Indonesia, however, 
+money market rates rose less dramatically, and current-account balances moderated but did not decline.
+
+10 Andy Dresner, Albion Murati, Brian Pike, and Jonathan Zell, “Embedded finance: Who will lead the next payments revolution?,” October 13, 2022.
+
+On the cusp of the next payments era: Future opportunities for banks
+
+21
+
+Deposits represent one of the most critical 
+resources of any bank and one of the most 
+important revenue streams for corporate 
+transaction banks around the globe. 
+
+Corporate deposits generate 40 to 45 percent ($500 billion to $550 billion) of transactional bank revenues 
+globally. Recent market events (with bank deposits falling by over $700 billion during the latter half of 202211) and 
+continuous pressure on banks to reduce fees have made deposits a primary area of competition for many banks. 
+The shakeup of the financial market in March 2023, when Fed data shows that almost $100 billion in deposits 
+were withdrawn during the week up to March 15,12 has reignited the debate on how banks can maximize one of 
+their most valuable resources.
+
+In today’s uncertain environment, where deposit growth has slowed and interest rates have risen significantly, 
+achieving deposit growth requires challenging many of the traditional approaches. A current McKinsey analysis 
+outlines how to achieve such growth:
+
+ — Increasing client visibility into their liquidity position using data lakes, dashboards, and key performance 
+
+indicators
+
+ — Establishing a Deposit Command Center to coordinate, execute, and monitor the deposit growth effort
+
+ — Mobilizing a specific deposit growth sales approach, including resetting the focus of relationship managers 
+
+and training staff to address evolving market realities 
+
+ — Enhancing value propositions for ‘cash rich’ client sectors, identifying and pursuing pockets of excess 
+
+liquidity
+
+ — Leveraging advanced analytics given the wealth of available records, both internal and external
+
+ — Reinvigorating payments and liquidity management products directly tied to operating accounts
+
+ — Designing optimal pricing strategies based on segments data and rapidly evolving analytic tools
+
+Additionally, retail deposits continue to comprise 43 percent of current account balances and are therefore 
+another important source of both liquidity and revenue—although the funds are, of course, spread across many 
+more accounts and it is therefore difficult to apply the same granular approach. Both retail and corporate deposit 
+balances grew nominally during 2022 in all regions but North America, and are projected to continue to do so over 
+the near  to midterm, even as net-interest margins drive the greater share of liquidity revenue growth. It does not 
+follow, however, that all institutions will be affected equally. There will undoubtedly be banks registering deposit 
+share gains and others enduring absolute deposit losses. Strategies taken today will help determine those who 
+gain and those who don’t gain.      
+
+11 Damian J. Troise, “Bank failures highlight declining deposits,” Associated Press, March 30, 2023.
+12 Jeff Cox, “Nearly $100 billion in deposits pulled from banks; officials call system ‘sound and resilient’,” CNBC, March 26, 2023.
+
+22
+
+On the cusp of the next payments era: Future opportunities for banks
+
+Three avenues toward better productivity
+
+Banks can double down on productivity with strategic use of technology. Three measures relevant to the current 
+state of technology are: identifying valuable applications of generative artificial intelligence, modernizing the bank’s 
+technology, and applying technology to the ongoing battle against fraud and crime. 
+
+Deploying generative AI in payments
+Generative AI is taking the world by storm, and banks and other financial service providers can benefit significantly, 
+as several emerging gen AI use cases seem particularly fitting. For instance, banking is stringently regulated, with 
+thousands of pages of rules and documentation to sort through annually. Also, the industry has a huge number 
+of customer-facing workers who must answer questions and generate ideas. Finally, the industry is already well 
+embarked on digitization and could significantly benefit from gen AI’s impact on software development. McKinsey 
+Global Institute estimates that generative AI could further increase productivity in banking by 2.8 to 4.7 percent, 
+equivalent to $200 billion to $340 billion in annual revenues.13 
+
+As regards the payments industry, we see four applications with the greatest potential:
+
+ — Automating client operations. Payments processes involve significant middle-office activity, much of which 
+
+are quite complex in nature as they require some form of client interaction. Gen AI applications in this field span 
+multiple areas of the payments business. For instance, it can draft technical documents such as account plans, 
+commercial contracts, and requests for proposal that are key in the enterprise payments sales cycle. Gen AI can 
+further automate recurrent activities in payments workflows, such as conducting regulatory checks for cross-
+border payments, analyzing terms in trade-finance contracts, and matching invoices to purchase orders. It can 
+also be deployed in more sophisticated workflows, such as streamlining merchant onboarding by automating 
+analysis of application documents and flagging merchants for human review where necessary. Massive 
+deployment of gen AI applications is also expected on the retail payments front, as banks and PSPs can use the 
+technology in post-sale customer care for card and digital wallet businesses. Gen AI also has a major potential 
+role in combating fraud as we discuss below. For instance, it can optimize fraud-detection rules, identify high-
+priority incidents, and improve human analysts’ efficiency by highlighting relevant information and recommending 
+next best actions for case handlers. 
+
+ — Accelerating code development. Despite efforts to modernize their technology in response to the ecommerce 
+boom, many traditional payments companies still heavily rely on legacy systems written in COBOL. The 1960s–
+70s programming language remains the foundation for many bank systems yet is difficult to update for much-
+needed advancements such as migration to cloud. GenAI-based “code assistants” can facilitate bug detection, 
+repair as well as user acceptance testing. They can also interpret legacy code, documenting the results and 
+even rewriting it to make it more readable and testable. Indeed, gen AI is proving to be particularly effective in 
+improving software engineering across the board and could represent a once-in-a-lifetime opportunity for banks 
+payments companies to fill the technology gap against digital players. 
+
+ — Generating content. Gen AI can improve marketing and promotional effectiveness by drafting and personalizing 
+outbound customer communications—for example, in credit card marketing. It can also be useful in multimedia 
+content generation, including prospect profiling, where the new tools can use public and internal information to 
+identify and prioritize customers and targets for outreach. 
+
+ — Providing virtual expertise. An always-on support bot can augment employee performance by supporting 
+technical work and customer service. One leading player has built a virtual assistant based on GPT-4 which 
+takes natural language queries from developers, reads detailed documentation, and provides answers based on 
+relevant documents.
+
+13 “Industry impacts,” The economic potential of generative AI: The next productivity frontier, McKinsey, June 14, 2023.
+
+On the cusp of the next payments era: Future opportunities for banks
+
+23
+
+Companies’ success will depend on a coherent strategy, documented in a value-based “road map” to use cases, 
+and careful implementation. Differentiation will come from proprietary data and the ability to execute. Gen AI can 
+be the catalyst to a larger transformation in AI and machine learning, but to do that successfully and capture the 
+potential value, payments companies will need a multi-disciplinary digital transformation approach grounded in 
+capability building, change management, and risk management. Given the potential of gen AI to alter the scope of 
+jobs in key functions such as research, quality assurance, and engineering, new capabilities and talent will likely 
+be required. 
+
+As we discuss next, deploying gen AI will require modernization of many pieces of the tech stack (including 
+cloud platforms, model hubs, and apps), work that to this point may have seemed optional. In addition, a hybrid 
+approach to infrastructure will be required given many actors in the space. Further, gen AI requires proactive risk 
+management and organizations should be focused on how risks evolve. Gen AI is accelerating risk discussions 
+around data privacy, IP protection, data security, bias, and so on. The ability to roll out gen AI at scale, while 
+avoiding the trap of “pilot purgatory,” cannot be overemphasized.
+
+Technology modernization 
+Generative AI is one example of how, as the new era unfolds, companies’ reliance on technology will only 
+deepen. Incumbent payments players, who for decades faced little external pressure to evolve, now universally 
+acknowledge the need to modernize tech stacks to keep up with the rapid pace of innovation and ecosystem 
+disruption driven by cloud-based fintechs.
+
+Payments tech modernization can reduce operating costs by 20 to 30 percent and halve time to market for new 
+products. According to McKinsey’s Operating Model Index, compiled from research across 150 leading financial 
+institutions, those scoring higher on operating-model maturity tend to be faster growing (20 percent faster 
+revenue growth) and more profitable (69 percent higher TSR) than the others. 
+
+Payments tech modernization can reduce 
+operating costs by 20 to 30 percent and 
+halve time to market for new products.
+
+To achieve these gains, incumbents should strongly consider re-architecting complex, monolithic technology 
+stacks to microservices-based, cloud-native platforms that are flexible, consumable, and scalable. Payments 
+attackers use such platforms to achieve low cost-to-income ratios. For instance, ClearBank would be unable to 
+pursue its modular BaaS strategy without cloud technology. 
+
+Modernizing complex payments tech stacks is no small undertaking. As the technology gap to fintechs and 
+native digital players continues to widen, incumbents can no longer afford to wait three to five years to transform. 
+Instead, companies will need to take an agile approach, focusing modernization investments on strategic, high-
+development-intensity products where paying down technical debt and modularizing legacy code into micro-
+services will deliver the most benefit. Companies should also consider partnerships to integrate innovative 
+products and services that may be too lengthy or costly to develop in-house. 
+
+24
+
+On the cusp of the next payments era: Future opportunities for banks
+
+As companies rebuild their platforms, they can look to best-in-class tech companies for inspiration on structure and 
+working practices for modern product delivery. Payments companies will also need to attract, retain, and upskill future-
+ready tech talent well versed in modern technologies and skill sets, such as cloud, generative AI, and user interface and 
+user experience (UI/UX).
+
+Payments companies must also look to improve speed to market and reduce engineering toil by deploying modern 
+software engineering practices. We have found that typical software development organizations (in payments and other 
+industries) spend more time on outer-loop activities14—tasks such as security, compliance, configuration, and integration 
+testing that are not directly related to building new features and shipping product (the inner loop). Automation—including 
+generative AI—and modern practices in agile and DevSecOps15 can enable firms to redeploy people and resources to the 
+inner loop, lifting productivity by 15 percent or more (Exhibit 6) and improving speed to market by more than two times. 
+Generative AI is proving to be a powerful speed and efficiency lever as well, with especially promising results in code 
+generation, legacy code refactoring, and test automation.
+
+14 “Yes, you can measure software developer productivity,” McKinsey, August 17, 2023.
+15 Santiago Comella-Dorda,  James Kaplan,  Ling Lau, and Nick McNamara, “Agile, reliable, secure, compliant IT: Fulfilling the promise of DevSecOps,” McKinsey, 
+
+May 21, 2020.
+
+Exhibit 6
+
+Improving time utilization in inner-loop processes has potential to increase 
+developer productivity by roughly 15 percent.
+
+Allocation of time to inner- and outer-loop activities (illustrative), %
+
+Inner loop
+
+Outer loop
+
+Other
+
+Infrastructure configuration
+Integration testing
+Security and compliance
+
+Development tools
+
+Tech/infrastructure
+modernization
+
+Technology debt
+
+Maintenance
+
+Building new features
+
+57
+
+43
+
+Opportunity to
+increase efficiency
+by ~15% by increasing
+inner-loop time
+
+50
+
+50
+
+45
+
+55
+
+30
+
+70
+
+Client’s
+current state¹
+
+Potential
+future state
+
+Industry
+benchmark
+
+Aspirational tech
+benchmark¹
+
+1Example assumes a high-tech company with mature application of elevated automation tools.
+Source: McKinsey analysis
+
+McKinsey & Company
+
+On the cusp of the next payments era: Future opportunities for banks
+
+2525
+
+Incumbents’ technology gap with fintechs and native digital players continues to widen; for some, modernizing 
+technology won’t be enough. These firms may want to consider partnerships with others and more generally 
+think through the areas where paying down technical debt16 will deliver the most benefit. Some tech work can be 
+outsourced; looking ahead, industry utilities could simplify internal operations for many firms in one go.
+
+Staying ahead of financial crime
+A final way to lower costs is by updating how the organization limits risks and costs related to fraud. The face 
+of financial fraud has changed. Today’s financial criminals are sophisticated, coordinating borderless attacks 
+simultaneously and globally by using low-cost tools that exploit recent technological advancements. Although 
+unauthorized card-not-present (CNP) fraud is declining in SEPA (2.8 basis points of transacted card value in 
+2021, compared with 3.66 basis points in 2020), the introduction of faster payments has opened new fronts for 
+authorized push payment (APP) scams. In APP scams, fraudsters trick victims, often through social engineering, 
+into initiating payments to an account posing as a genuine payee. In the United Kingdom, APP scams accounted for 
+44 percent of the £583 million lost to financial fraud in 2021.17 Of the $6.9 billion lost to internet scams in the United 
+States in 2021, 98 percent began with social engineering, according to the FBI Internet Crime Center.18 
+
+Worse may be in store. It’s easy to envision how generative AI could aid fraudsters in producing fake videos 
+or spoofing voices, exploiting vulnerabilities of common identity recognition routines, say, through synthetic 
+identities. But generative AI and other new technologies also offer new avenues for those defending against fraud. 
+Early examples indicate that generative AI could boost productivity by 30 to 50 percent in fraud detection by 
+automating some currently manual activities and accelerating others. Its proven ability to process unstructured 
+data could optimize detection rules, identify high-priority incidents, and foster improved efficiencies for human 
+analysts by displaying relevant information and checklists for case handlers and recommending next best actions 
+during investigations. It could also pre-compile suspicious-activity reports for vetting and regulatory submission.
+
+To get the most out of the new technologies, payments companies will likely need to upgrade their fraud operations 
+from back-office functions to an actively managed competence center. Companies can incorporate what has 
+worked for them and their own advanced technology skills to design strategies that both counter financial crime 
+and enhance the customer experience.
+
+v v v
+
+The transition from the Account Era to the Decoupled Era presents opportunities for banks and other payments 
+players to capitalize on the resulting tailwinds. Many of these are driven by technology advancements, generative 
+AI being the clearest example. The need to modernize tech stacks has been recognized for some time; market 
+dynamics give the imperative added urgency while cloud-native platforms and refined API connections offer a 
+new path forward. Technology empowers both sides of the financial crime battle, making it both an offensive and 
+defensive maneuver. The shifting interest rate environment has reset deposit dynamics to a state many current 
+leaders have no experience navigating, with the added twist of technology enabling faster balance movement than 
+in past cycles.   
+
+The outlook for the payments sector remains strong, with five-year growth projected at or above the long-term 
+average. The vectors of growth are evolving, however, and banks must take steps to optimize the profitability of 
+such growth. This requires a detailed evaluation of their business, making clear and difficult investment decisions in 
+building an efficient payments operating core that delivers a share of that growth to both the top and bottom lines.
+
+16 Aamer Baig, Sven Blumberg, Arun Gundurao, and Basel Kayyali, “Breaking technical debt’s vicious cycle to modernize your business,” McKinsey, April 
+
+25, 2023.
+
+17 “Over £1.2 billion stolen through fraud in 2022, with nearly 80 per cent of app fraud cases starting online,” UK Finance press release, May 11, 2023.
+18 FBI internet crime report 2021, US Department of Justice/Federal Bureau of Investigation, March 2022.
+
+26
+
+On the cusp of the next payments era: Future opportunities for banks
+
+Luca Bionducci is an associate partner in McKinsey’s Rome office, Alessio Botta is a senior partner in the Milan office; 
+Philip Bruno is a partner in the New York office; Olivier Denecker is a partner in the Brussels office; Carolyne Gathinji 
+is an associate partner in the Nairobi office; Reema Jain is an associate partner in the Gurgaon office; Marie-Claude 
+Nadeau is a senior partner in the San Francisco office; and Bharath Sattanathan is a partner in the Singapore office.
+
+The authors wish to thank Diksha Arora, Hamza Arshad, Sukriti Bansal, Debopriyo Bhattacharyya, Szilard Buksa, 
+Tommaso Canzian, Neha Dar, Nunzio Digiacomo, Fuad Faridi, Alberto Farroni, Amit Gandhi, Hemant Gaur, Yannis 
+Harizopoulos, Reinhard Höll, Sumi Hur, Keerthi Iyengar, Larry Lerner, Baanee Luthra, Pavan Kumar Masanam, Kate 
+McCarthy, Prakhar Porwal, Priyanka Ralhan, Glen Sarvady, Nikki Shah, Julia Simchuk, Shwaitang Singh, Vasiliki 
+Stergiou, Christabel Sunmugam, Aparna Tekriwal, and Adolfo Tunon for their contributions to this report.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+Scan • Download • PersonalizeFind more content like this on the McKinsey Insights AppMcKinsey Global Banking Practice 
+September 2023 
+Copyright 2023 © McKinsey & Company 
+Designed by Darby
+
+www.mckinsey.com
+
+  @McKinsey 
+  @McKinsey
+
+ 
+

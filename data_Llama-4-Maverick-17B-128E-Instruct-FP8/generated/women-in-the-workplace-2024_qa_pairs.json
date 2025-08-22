@@ -1,0 +1,1477 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Women in the Workplace 2024\" report is a 10-year anniversary study that analyzes the progress of women in corporate America. The study found that while there have been gains in women's representation, particularly in senior leadership, the progress is fragile and uneven, with women of color remaining vastly underrepresented. The report highlights that it will take almost 50 years to reach parity for all women in corporate America at the current rate of progress. The study also notes a concerning decline in company commitment to diversity, emphasizing the need for companies to stay ambitious and committed to advancing gender diversity.",
+  "qa_pairs": [
+    {
+      "question": "How many companies have participated in the Women in the Workplace study over the last 10 years?",
+      "answer": "More than 1,000 companies have participated in the study."
+    },
+    {
+      "question": "In what year was the Women in the Workplace study launched?",
+      "answer": "The Women in the Workplace study was launched in 2015 by LeanIn.Org and McKinsey & Company."
+    },
+    {
+      "question": "What is the current trend in company commitment to diversity according to the 2024 study?",
+      "answer": "Company commitment to diversity is declining."
+    },
+    {
+      "question": "How long will it take to reach parity for all women in corporate America at the current rate of progress?",
+      "answer": "It will take almost 50 years to reach parity for all women in corporate America."
+    },
+    {
+      "question": "What benefits do companies with more women in leadership experience?",
+      "answer": "Companies with more women in leadership benefit from greater innovation, healthier cultures, and stronger performance."
+    },
+    {
+      "question": "How many employees were surveyed in the 2024 Women in the Workplace study?",
+      "answer": "More than 15,000 employees were surveyed."
+    },
+    {
+      "question": "What percentage of C-suite positions are held by women today?",
+      "answer": "29 percent."
+    },
+    {
+      "question": "How long will it take to reach parity for all women in corporate America at the current rate of progress?",
+      "answer": "Almost 50 years."
+    },
+    {
+      "question": "What percentage of C-suite roles are held by women of color?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "What was the percentage of C-suite positions held by women in 2015?",
+      "answer": "17 percent."
+    },
+    {
+      "question": "Which group is vastly overrepresented at the top of corporate America?",
+      "answer": "White men."
+    },
+    {
+      "question": "What percentage of entry-level workers are white men?",
+      "answer": "A third."
+    },
+    {
+      "question": "How does the representation of Asian men in the C-suite compare to that of Asian women?",
+      "answer": "Asian men's representation is more than double that of Asian women's."
+    },
+    {
+      "question": "What percentage of C-suite roles are held by women of color?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "What percentage of C-suite roles are held by white women?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "What is the representation of women at the entry level in 2024?",
+      "answer": "48%."
+    },
+    {
+      "question": "Which group experiences the greatest drop in representation at the first promotion to manager?",
+      "answer": "Black women."
+    },
+    {
+      "question": "What percentage of Bachelor's degrees are held by women?",
+      "answer": "59%."
+    },
+    {
+      "question": "What percentage of the population are women?",
+      "answer": "51%."
+    },
+    {
+      "question": "What is the representation of white men in the C-suite?",
+      "answer": "Over half of C-suite executives."
+    },
+    {
+      "question": "How does the representation of Asian men in the C-suite compare to Asian women?",
+      "answer": "Asian men's representation is more than double that of Asian women's."
+    },
+    {
+      "question": "Which group is the most underrepresented at the beginning of their careers?",
+      "answer": "Latinas."
+    },
+    {
+      "question": "What percentage of entry-level employees are women?",
+      "answer": "48%"
+    },
+    {
+      "question": "What percentage of Bachelor's degrees are held by women?",
+      "answer": "59%"
+    },
+    {
+      "question": "What is the ratio of women to men promoted to manager in 2024?",
+      "answer": "81 women for every 100 men"
+    },
+    {
+      "question": "Which group experiences the greatest drop in representation at the first promotion to manager?",
+      "answer": "Black women"
+    },
+    {
+      "question": "What percentage of the population are women?",
+      "answer": "51%"
+    },
+    {
+      "question": "Which group is the most underrepresented at the beginning of their careers?",
+      "answer": "Latinas"
+    },
+    {
+      "question": "What is the representation of white men in the C-suite compared to entry-level workers?",
+      "answer": "White men make up a third of entry-level workers, but over half of C-suite executives."
+    },
+    {
+      "question": "How does the representation of Asian men compare to Asian women in the C-suite?",
+      "answer": "Asian men's representation in the C-suite is more than double that of Asian women's."
+    },
+    {
+      "question": "What is the trend in promotion rates for Black women from 2021 to 2024?",
+      "answer": "Following notable improvements in 2021 and 2022, Black women's promotion rates regressed to 2020 levels in 2024."
+    },
+    {
+      "question": "For every 100 men promoted to manager in 2018, how many women were promoted?",
+      "answer": "79 women were promoted."
+    },
+    {
+      "question": "What was the ratio of women promoted to manager in 2024 compared to men?",
+      "answer": "For every 100 men promoted to manager, 81 women were promoted."
+    },
+    {
+      "question": "Which group of women faced their worst 'broken rung' in 2024?",
+      "answer": "Latinas faced their worst broken rung in 2024."
+    },
+    {
+      "question": "What type of roles are women more likely to hold in senior leadership positions?",
+      "answer": "Women are more likely to hold staff roles."
+    },
+    {
+      "question": "What was the primary reason for the increase in women's representation in the C-suite?",
+      "answer": "The primary reason was that companies added a staff role and were more likely to hire a woman into this new position."
+    },
+    {
+      "question": "What is the difference between line roles and staff roles?",
+      "answer": "Line roles are positions with profit-and-loss responsibility and/or a focus on core operations, while staff roles are positions in functions that support the organization like human resources, legal, and IT."
+    },
+    {
+      "question": "What were the fastest-growing positions in the C-suite from 2018 to 2023?",
+      "answer": "The fastest-growing positions were chief data officer, chief legal officer, and chief human resources officer, all of which are staff roles."
+    },
+    {
+      "question": "What was the main driver of the increase in women's representation at senior levels?",
+      "answer": "A reduction in the number of line roles, which disproportionately impacted men."
+    },
+    {
+      "question": "Why was women's progress in the C-suite not sustainable?",
+      "answer": "Because companies cannot add new staff roles indefinitely."
+    },
+    {
+      "question": "What type of roles are line roles?",
+      "answer": "Positions with profit-and-loss responsibility and/or a focus on core operations."
+    },
+    {
+      "question": "What type of roles are staff roles?",
+      "answer": "Positions in functions that support the organization like human resources, legal, and IT."
+    },
+    {
+      "question": "What are the fastest-growing positions in the C-suite?",
+      "answer": "Chief data officer, chief legal officer, and chief human resources officer."
+    },
+    {
+      "question": "How long will it take to reach parity for white women in senior leadership?",
+      "answer": "22 years."
+    },
+    {
+      "question": "How long will it take to reach parity for women of color in senior leadership?",
+      "answer": "More than twice as long as for white women, which is 48 years."
+    },
+    {
+      "question": "What steps have companies taken to support the advancement of women?",
+      "answer": "Companies have put more practices in place to de-bias hiring and performance reviews, prioritized equity and inclusion, invested in training employees, and offered supports to parents, caregivers, and employees facing health issues."
+    },
+    {
+      "question": "What has become the norm in many companies as a top priority for most employees?",
+      "answer": "Flexibility."
+    },
+    {
+      "question": "What percentage of companies have adopted all of the core practices experts recommend to de-bias hiring and performance reviews?",
+      "answer": "About 1 in 4 companies."
+    },
+    {
+      "question": "What is the trend in the adoption of clear evaluation criteria before candidates are considered for positions between 2018 and 2024?",
+      "answer": "The percentage of companies adopting clear evaluation criteria increased from 53% in 2018 to 63% in 2021 and then to 73% in 2024."
+    },
+    {
+      "question": "How many companies remove identifying candidate information from either r\u00e9sum\u00e9s or work samples?",
+      "answer": "Just 1 in 10 companies."
+    },
+    {
+      "question": "What percentage of companies have all five core practices for de-biasing hiring and performance reviews in place?",
+      "answer": "Only 27% of companies."
+    },
+    {
+      "question": "What is the trend in the percentage of companies offering career advancement programs with content tailored for women between 2017 and 2024?",
+      "answer": "Fewer companies offer such programs in 2024 compared to 2017."
+    },
+    {
+      "question": "What percentage of companies track outcomes for program participants?",
+      "answer": "A minority of companies."
+    },
+    {
+      "question": "What was the percentage of companies with internship programs focused on women in 2024?",
+      "answer": "15%."
+    },
+    {
+      "question": "What percentage of companies offer ERGs for women?",
+      "answer": "9 in 10 companies."
+    },
+    {
+      "question": "What percentage of companies offer ERGs for women of color?",
+      "answer": "Half of the companies."
+    },
+    {
+      "question": "Have the number of companies offering ERGs for women of color increased or decreased over the past few years?",
+      "answer": "Decreased."
+    },
+    {
+      "question": "What percentage of companies had internship programs focused on women in 2024?",
+      "answer": "15%."
+    },
+    {
+      "question": "What percentage of companies had recruiting programs focused on women of color in 2024?",
+      "answer": "8%."
+    },
+    {
+      "question": "Are microaggressions towards women still common today?",
+      "answer": "Yes, they remain just as common today as five years ago."
+    },
+    {
+      "question": "Which groups of women are most affected by microaggressions?",
+      "answer": "LGBTQ+ women and women with disabilities."
+    },
+    {
+      "question": "What percentage of companies instruct managers to encourage a respectful and inclusive culture?",
+      "answer": "95%."
+    },
+    {
+      "question": "Are companies' investments in manager training translating into better manager performance?",
+      "answer": "No, they are not consistently translating into better manager performance."
+    },
+    {
+      "question": "What percentage of companies are instructing managers to show interest in employees' career advancement in 2024?",
+      "answer": "91%"
+    },
+    {
+      "question": "What percentage of employees say their managers create a respectful and inclusive environment in 2024?",
+      "answer": "91%"
+    },
+    {
+      "question": "What percentage of companies are offering managers training to support employee well-being in 2024?",
+      "answer": "The text does not directly state this, but it is shown that 100% of companies are instructing managers to check in on employee well-being."
+    },
+    {
+      "question": "Why may managers not be acting on company priorities according to the text?",
+      "answer": "A lack of time and recognition may explain why managers aren't acting on company priorities."
+    },
+    {
+      "question": "What percentage of managers say their expectations have changed to do more in the last five years?",
+      "answer": "78%"
+    },
+    {
+      "question": "How are most companies evaluating managers according to the text?",
+      "answer": "Most companies are evaluating managers on business goals rather than people-management goals like career development and team morale."
+    },
+    {
+      "question": "What is the result when managers invest in areas such as career advancement, equity and inclusion, and employee well-being?",
+      "answer": "Employees are less burned out, happier in their roles, and less likely to think about leaving their organization."
+    },
+    {
+      "question": "What percentage of companies are instructing managers to show interest in employees' career advancement in 2024?",
+      "answer": "91%"
+    },
+    {
+      "question": "What percentage of employees say their managers effectively support employee well-being in 2024?",
+      "answer": "70%"
+    },
+    {
+      "question": "Why may managers not be acting on company priorities despite increased training?",
+      "answer": "A lack of time and recognition may explain why managers aren't acting on company priorities."
+    },
+    {
+      "question": "What percentage of managers say their expectations have changed to do more in the last five years?",
+      "answer": "78%"
+    },
+    {
+      "question": "What is the top action that managers are expected to do more of than in the past?",
+      "answer": "Support employee well-being"
+    },
+    {
+      "question": "What percentage of companies evaluate managers on how they promote an inclusive environment in 2024?",
+      "answer": "54%"
+    },
+    {
+      "question": "On what are most companies evaluating and rewarding their managers?",
+      "answer": "Business goals, as opposed to people-management goals like career development and team morale."
+    },
+    {
+      "question": "What percentage of managers say they are expected to do more to support employees and inclusion?",
+      "answer": "78%"
+    },
+    {
+      "question": "What is the top action managers are expected to do more of than in the past?",
+      "answer": "Support employee well-being"
+    },
+    {
+      "question": "What percentage of companies evaluate managers on how they promote an inclusive environment?",
+      "answer": "54%"
+    },
+    {
+      "question": "What percentage of employees say they take a public stand for racial equity?",
+      "answer": "29% of women and 26% of men in 2024"
+    },
+    {
+      "question": "What percentage of companies offer bias training for employees?",
+      "answer": "100% in 2024"
+    },
+    {
+      "question": "What percentage of employees consider themselves allies to women of color?",
+      "answer": "68% of women and 60% of men in 2024"
+    },
+    {
+      "question": "What percentage of managers say they are expected to do more to support employees and inclusion?",
+      "answer": "78%"
+    },
+    {
+      "question": "What are the top actions managers are expected to do more of than in the past?",
+      "answer": "Support employee well-being, Handle issues arising from remote or hybrid work, Support employee career development, Promote inclusion on their teams"
+    },
+    {
+      "question": "What percentage of companies evaluate managers on how they support employee well-being and inclusion?",
+      "answer": "The text does not provide a direct percentage, but it is mentioned that 'most companies are not rewarding them for this', with a related statistic being 5%."
+    },
+    {
+      "question": "Has the percentage of companies offering bias training for employees changed over time?",
+      "answer": "Yes, it has increased from 90% in 2019 to 100% in 2024."
+    },
+    {
+      "question": "Do employees who receive training show increased awareness or action regarding bias against women?",
+      "answer": "No, employees are not markedly more likely to recognize bias against women or act as allies to women of color despite increased training."
+    },
+    {
+      "question": "What percentage of employees take a public stand for racial equity?",
+      "answer": "29% of women and 26% of men in 2024."
+    },
+    {
+      "question": "What percentage of employees consider themselves allies to women of color?",
+      "answer": "68% of women and 60% of men in 2024."
+    },
+    {
+      "question": "What percentage of women of color say that women's opportunities for growth and development have gotten better in the last 10 years?",
+      "answer": "56%"
+    },
+    {
+      "question": "What percentage of senior-level men think that women's opportunities to advance have improved?",
+      "answer": "90%"
+    },
+    {
+      "question": "What percentage of companies offered extended maternity leave beyond what's required by law in 2021?",
+      "answer": "92%"
+    },
+    {
+      "question": "How do employees perceive the change in companies' handling of microaggressions in the workplace over the last decade?",
+      "answer": "Employees universally agree that there has been less progress in how organizations handle microaggressions."
+    },
+    {
+      "question": "What percentage of employees say their company is taking the necessary steps to advance gender diversity in 2024?",
+      "answer": "The percentages vary by group: 50% overall, 64% of men, 45% of women, and 38% of women of color."
+    },
+    {
+      "question": "What is the trend in companies offering employee work-life benefits?",
+      "answer": "Companies now offer more significant employee work-life benefits, including extended maternity and paternity leave."
+    },
+    {
+      "question": "What percentage of men believe that women's opportunities for growth and development have gotten better in the last 10 years?",
+      "answer": "71%"
+    },
+    {
+      "question": "How do women of color perceive the progress made by companies in increasing women's opportunities and focus on inclusion?",
+      "answer": "They are the least likely to say that companies have increased women's opportunities or their focus on inclusion, and the most likely to say progress in these areas has stalled over the last 10 years."
+    },
+    {
+      "question": "What percentage of senior-level men think that women's opportunities to advance have improved?",
+      "answer": "Nine in 10"
+    },
+    {
+      "question": "What percentage of companies offered extended maternity leave beyond what's required by law in 2024?",
+      "answer": "96%"
+    },
+    {
+      "question": "What percentage of companies offered support for caregivers of sick or elderly adults in 2024?",
+      "answer": "Half (50%)"
+    },
+    {
+      "question": "How have employee perceptions changed regarding their company's efforts to improve gender diversity between 2016 and 2024?",
+      "answer": "Far more employees say their company is taking the necessary steps to advance gender diversity, with an increase from 38% to 71% among men and women combined."
+    },
+    {
+      "question": "What is the trend in companies offering benefits for fertility treatments and adoption or surrogacy?",
+      "answer": "8 in 10 organizations now offer benefits for fertility treatments and adoption or surrogacy."
+    },
+    {
+      "question": "What percentage of men and women observe microaggressions against women in the workplace?",
+      "answer": "Only 1 in 10 senior-level men observe microaggressions against women in the workplace, while the percentages for men and women overall are 7% and 19% respectively."
+    },
+    {
+      "question": "What percentage of employees say flexibility has improved over the last decade?",
+      "answer": "Almost 8 in 10 employees."
+    },
+    {
+      "question": "What percentage of companies were offering remote/hybrid work options in 2024?",
+      "answer": "96%."
+    },
+    {
+      "question": "What percentage of women under 30 say that gender diversity is a high priority to them in 2024?",
+      "answer": "71%."
+    },
+    {
+      "question": "Has company commitment to diversity increased or decreased since 2017?",
+      "answer": "Decreased."
+    },
+    {
+      "question": "What percentage of men under 30 say that racial diversity is a high priority to them in 2024?",
+      "answer": "40%."
+    },
+    {
+      "question": "What is the primary benefit of flexibility according to employees?",
+      "answer": "Greater productivity and reduced burnout."
+    },
+    {
+      "question": "What percentage of employees saw a decline in flexibility in 2024?",
+      "answer": "One in 3 employees."
+    },
+    {
+      "question": "Is there a difference in priority for gender diversity between women and men?",
+      "answer": "Yes, gender diversity is a higher priority to women than men."
+    },
+    {
+      "question": "What percentage of companies say gender diversity and racial diversity are a high priority in 2024?",
+      "answer": "69% and 77% respectively."
+    },
+    {
+      "question": "How has company commitment to diversity changed from 2017 to 2024?",
+      "answer": "Company commitment to diversity has declined from 88% in 2017 to 77% in 2024 for gender diversity, and from 78% to 69% for racial diversity."
+    },
+    {
+      "question": "What is the trend in employee commitment to diversity?",
+      "answer": "Employee commitment has remained relatively low."
+    },
+    {
+      "question": "How do younger women and men differ in their views on diversity?",
+      "answer": "Younger women are the most likely to say that gender and racial diversity are high priorities to them (71% and 66% respectively in 2024), while younger men are the least likely (38% and 40% respectively in 2024)."
+    },
+    {
+      "question": "Have women's experiences at work improved over the past 10 years?",
+      "answer": "No, despite an increase in women's representation and expanded company efforts, the workplace has not gotten better for women."
+    },
+    {
+      "question": "How do women perceive their opportunities to advance in their careers?",
+      "answer": "Women continue to worry it will be harder for them to advance, and are just as likely as in the past to think their gender will limit their opportunities to advance."
+    },
+    {
+      "question": "What is the trend in women's optimism about their career advancement over the past 10 years?",
+      "answer": "Women are just as likely as in the past to think their gender will limit their opportunities to advance."
+    },
+    {
+      "question": "How do women of color perceive the impact of their race on their career advancement?",
+      "answer": "Women of color are more likely to think their race has made it harder for them to advance."
+    },
+    {
+      "question": "What is the prevalence of sexual harassment in the workplace according to the study?",
+      "answer": "Sexual harassment is as prevalent in today's workplace as it was five years ago."
+    },
+    {
+      "question": "How do women's ambitions compare to men's?",
+      "answer": "Women remain highly ambitious\u2014and as ambitious as men."
+    },
+    {
+      "question": "What percentage of women under 30 say their gender will make it harder for them to advance?",
+      "answer": "42% of women under 30 say their gender will make it harder for them to advance."
+    },
+    {
+      "question": "What percentage of Black women say their race or ethnicity has played a role in missing out on a raise, promotion, or chance to get ahead?",
+      "answer": "61% of Black women say their race or ethnicity has played a role in missing out on a raise, promotion, or chance to get ahead."
+    },
+    {
+      "question": "What is the proportion of younger women seeking a promotion?",
+      "answer": "More than 8 in 10 younger women are seeking a promotion."
+    },
+    {
+      "question": "What percentage of women under 30 desire a promotion?",
+      "answer": "85%"
+    },
+    {
+      "question": "Who is most susceptible to ageism in the workplace?",
+      "answer": "Younger women"
+    },
+    {
+      "question": "How do younger women compare to younger men in terms of fielding unwanted comments about their age?",
+      "answer": "Younger women are almost twice as likely as younger men to field unwanted comments about their age"
+    },
+    {
+      "question": "What is the impact of age on women and men in the workplace as they get older?",
+      "answer": "Ageism impacts older employees at fairly similar rates for women and men"
+    },
+    {
+      "question": "What is one challenge faced by women of color in the workplace according to the text?",
+      "answer": "Women of color receive less of the support they need from managers to be successful"
+    },
+    {
+      "question": "What is a common expectation of South Asian women in the workplace?",
+      "answer": "People expect South Asian women to be coy, not assertive, or just quieter in general"
+    },
+    {
+      "question": "How do younger women feel about voicing their ideas in the workplace?",
+      "answer": "They feel like their ideas won't be taken seriously or that others will receive credit for their ideas"
+    },
+    {
+      "question": "What percentage of white women report that their managers have consistently shown interest in their career advancement in 2024?",
+      "answer": "48%"
+    },
+    {
+      "question": "Are women of color more likely to say that mentorship, sponsorship, and career development programs would help them advance their careers compared to white women?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the trend in the percentage of women who experience having their judgment questioned in their area of expertise from 2019 to 2024?",
+      "answer": "The percentage remains relatively stable, with 38% in 2019 and 38% in 2024 for women overall."
+    },
+    {
+      "question": "Do women of color receive less support from their managers compared to white women?",
+      "answer": "Yes, women of color get far less support from their managers compared to white women."
+    },
+    {
+      "question": "What is one of the challenges faced by Black women in the workplace according to the quotes provided?",
+      "answer": "One of the challenges is having to navigate stereotypes and being aware of being perceived as either 'too strong' or 'too soft'."
+    },
+    {
+      "question": "Are women more likely to have their competence undermined at work than men?",
+      "answer": "Yes, women are far more likely than men to deal with comments and actions that undermine their skills and expertise."
+    },
+    {
+      "question": "What percentage of women overall have had their judgment questioned in their area of expertise at work in 2024?",
+      "answer": "38%"
+    },
+    {
+      "question": "What is performance bias, and how does it affect women in the workplace?",
+      "answer": "Performance bias is the unfair belief that men are naturally more competent and better leaders. It prevents women from advancing, especially when they\u2019re early in their careers, by judging women's performance more harshly and promoting men based on their perceived potential."
+    },
+    {
+      "question": "Which groups of women are most likely to have their competence challenged at work?",
+      "answer": "LGBTQ+ women and women with disabilities are the most likely of any group to have their competence challenged at work."
+    },
+    {
+      "question": "Has the frequency of women being interrupted or spoken over at work changed over the past five years?",
+      "answer": "Men and women are less likely to be interrupted or spoken over than they were five years ago."
+    },
+    {
+      "question": "What percentage of women with partners reported being responsible for most or all of the housework in 2024?",
+      "answer": "39%"
+    },
+    {
+      "question": "How do the perceptions of housework responsibilities differ between men and women?",
+      "answer": "Women report doing more housework than men, with 39% of women saying they do most or all of the housework, while men's reports of sharing housework equally with their partner have increased over time."
+    },
+    {
+      "question": "Do younger women report doing more or less housework compared to older women?",
+      "answer": "Younger women report doing a similar amount of housework as older women, with 38% of partnered women under 30 and 37% of partnered women 50 and over reporting taking on most or all of the household responsibilities."
+    },
+    {
+      "question": "What percentage of senior-level women with partners report doing most or all of the household responsibilities?",
+      "answer": "35%"
+    },
+    {
+      "question": "Which groups of women are more likely to experience 'othering' microaggressions at work?",
+      "answer": "Women of color, LGBTQ+ women, and women with disabilities continue to deal with more of these demeaning interactions."
+    },
+    {
+      "question": "What type of microaggression are Black women most likely to experience?",
+      "answer": "Hearing others express surprise at their language skills or other abilities."
+    },
+    {
+      "question": "Are women today more or less likely to experience 'othering' microaggressions compared to five years ago?",
+      "answer": "Women today are just as likely to experience othering microaggressions as they were five years ago."
+    },
+    {
+      "question": "How much more likely are senior-level women with partners to do more housework compared to men in the same situation?",
+      "answer": "Over 4x more likely."
+    },
+    {
+      "question": "What percentage of partnered women under 30 and 50 and over report taking on most or all of the household responsibilities?",
+      "answer": "38% and 37% respectively."
+    },
+    {
+      "question": "Have the rates of women experiencing 'othering' microaggressions changed over the past five years?",
+      "answer": "No, women today are just as likely to experience othering microaggressions as they were five years ago."
+    },
+    {
+      "question": "Which group of women is most likely to feel judged because of their accent or way of speaking?",
+      "answer": "Latinas."
+    },
+    {
+      "question": "What is the impact of microaggressions on women's experiences in the workplace?",
+      "answer": "Women who experience microaggressions are more likely to feel burned out and consider leaving their company, and less likely to view their workplace as equitable."
+    },
+    {
+      "question": "According to the text, what percentage of senior-level women with partners take on most or all of the household responsibilities?",
+      "answer": "35%."
+    },
+    {
+      "question": "What do LGBTQ+ women and women with disabilities report experiencing more often than other groups?",
+      "answer": "Othering microaggressions, particularly feeling like they can\u2019t talk about themselves or their life outside work."
+    },
+    {
+      "question": "What is the impact of microaggressions on women in the workplace?",
+      "answer": "Women who experience microaggressions are more likely to feel burned out, consider leaving their company, and less likely to view their workplace as equitable."
+    },
+    {
+      "question": "How likely are women who experience microaggressions to consider leaving their company?",
+      "answer": "Women who experience microaggressions are 2.7x more likely to consider leaving their company."
+    },
+    {
+      "question": "What is the likelihood of women being 'Onlys' for their gender or race in the workplace?",
+      "answer": "1 in 5 women say they are Onlys for their gender and 2 in 5 are Onlys for their race."
+    },
+    {
+      "question": "How do 'Onlys' experience microaggressions compared to those who are not 'Onlys'?",
+      "answer": "Women who are Onlys for their gender are 3.4x more likely to experience microaggressions, and women who are Onlys for their race are 1.7x more likely to experience microaggressions."
+    },
+    {
+      "question": "What challenges do Latinas face in the workplace according to the quotes provided?",
+      "answer": "Latinas face challenges such as being told how to do their job by men, feeling like they don't belong due to lack of representation in senior leadership, and being advised to be careful about how they present themselves."
+    },
+    {
+      "question": "What percentage of women have experienced some form of sexual harassment during their careers?",
+      "answer": "Roughly 4 in 10 women."
+    },
+    {
+      "question": "Are younger women less likely to experience sexual harassment compared to older women?",
+      "answer": "No, younger women are just as likely as older women to have experienced some form of sexual harassment over the course of their career."
+    },
+    {
+      "question": "What percentage of women experienced a form of sexual coercion in 2024?",
+      "answer": "14% of women."
+    },
+    {
+      "question": "How do senior-level men perceive their company's handling of sexual harassment claims compared to women?",
+      "answer": "Senior-level men are more confident; 8 in 10 think a claim would be fairly investigated and addressed, whereas women are significantly less confident."
+    },
+    {
+      "question": "What is required for the next phase of change in promoting women's advancement in the workplace?",
+      "answer": "Even more tenacity, creativity, and optimism, as well as rekindling the commitment to diversity and fairness."
+    },
+    {
+      "question": "What is required for senior leaders to advance women in the workplace?",
+      "answer": "Continuing to champion this important work and challenging themselves and their organization to do better."
+    },
+    {
+      "question": "What are the four building blocks to getting practices right for advancing women?",
+      "answer": "1) making sure employees understand why a new practice is important; 2) teaching employees the skills they need to do their part; 3) putting mechanisms in place to support the practice; and 4) ensuring leaders role model the right behaviors."
+    },
+    {
+      "question": "What are some practical steps to drive further progress in advancing women and fostering inclusion?",
+      "answer": "De-bias the hiring and promotions processes, inspire and equip employees to curb bias and practice allyship, and unlock the power of managers to influence careers and team culture."
+    },
+    {
+      "question": "What should company and HR leaders evaluate their current efforts against?",
+      "answer": "Our checklist of recommended practices."
+    },
+    {
+      "question": "What type of practices should companies have in place as a general rule?",
+      "answer": "All Common Practices."
+    },
+    {
+      "question": "What is the definition of a Common Practice?",
+      "answer": "Adopted by 70% or more of companies."
+    },
+    {
+      "question": "What is the definition of an Emerging Practice?",
+      "answer": "Adopted by 30% or less of companies."
+    },
+    {
+      "question": "What should company and HR leaders evaluate their current efforts against to advance women and improve equity and inclusion?",
+      "answer": "The checklist of recommended practices."
+    },
+    {
+      "question": "What type of practices are widely adopted and prevalent in top-performing companies?",
+      "answer": "Common Practices."
+    },
+    {
+      "question": "What is the recommended action for organizations regarding Emerging Practices?",
+      "answer": "Integrate them into their playbook."
+    },
+    {
+      "question": "What is considered a strategic priority according to the text?",
+      "answer": "Gender diversity and Racial diversity."
+    },
+    {
+      "question": "What is the role of leadership in shaping DEI strategy?",
+      "answer": "Leadership plays an active role."
+    },
+    {
+      "question": "What metrics should companies track to advance women and women of color?",
+      "answer": "Representation, external-hire candidates, promotion rates, and attrition rates."
+    },
+    {
+      "question": "What type of programs are considered Emerging Practices for women's career development?",
+      "answer": "Sponsorship programs and Career development programs with content for women and women of color, and Recruiting and internship programs that support women of color."
+    },
+    {
+      "question": "What training should managers receive according to the text?",
+      "answer": "Training to recognize and address disrespectful behavior, support employee well-being, and support employees' career advancement."
+    },
+    {
+      "question": "What is the purpose of bias training offered to evaluators?",
+      "answer": "To ensure hiring and performance reviews are fair."
+    },
+    {
+      "question": "According to Dr. Alison Wynn, what is the effect of bias on employee ratings?",
+      "answer": "Bias erodes the link between what employees do and the ratings they receive."
+    },
+    {
+      "question": "What erodes the link between what employees do and the ratings they receive?",
+      "answer": "Bias."
+    },
+    {
+      "question": "What is one way to prevent bias from creeping into the evaluation process?",
+      "answer": "Establishing evaluation criteria up front and aligning on metrics before considering candidates."
+    },
+    {
+      "question": "How can companies reduce bias in hiring?",
+      "answer": "By anonymizing personal information, such as removing names from r\u00e9sum\u00e9s and work samples."
+    },
+    {
+      "question": "What is the role of a bias monitor in the hiring process?",
+      "answer": "To redirect conversations about candidates back to the job criteria and call out potential bias."
+    },
+    {
+      "question": "Why is it important to give employees the 'why' behind changing employee behavior?",
+      "answer": "Because when employees see that change is urgently needed, they're more likely to act."
+    },
+    {
+      "question": "What type of comments should employees watch for to identify potential bias?",
+      "answer": "Subjective comments, such as 'She doesn\u2019t seem like a leader' or 'She\u2019s not a good cultural fit.'"
+    },
+    {
+      "question": "What is required to achieve broad change in employee behavior?",
+      "answer": "Changing employees' hearts and minds, and giving them the wherewithal to show up di\ufb00erently in their day-to-day actions."
+    },
+    {
+      "question": "Why should companies convey the 'why' behind change to employees?",
+      "answer": "When employees see that change is urgently needed\u2014not just broadly, but at their own organizations\u2014they're more likely to act."
+    },
+    {
+      "question": "How can companies make diversity and inclusion e\ufb00orts more relatable to employees?",
+      "answer": "By sharing speci\ufb01c examples of how diversity and inclusion e\ufb00orts bene\ufb01t everyone."
+    },
+    {
+      "question": "What is an e\ufb00ective way to rally employees behind diversity e\ufb00orts?",
+      "answer": "Connecting diversity e\ufb00orts to shared company values."
+    },
+    {
+      "question": "Why should companies be transparent about the challenges of change?",
+      "answer": "To create more realistic expectations and minimize morale issues that lead to lost momentum."
+    },
+    {
+      "question": "What type of storytelling is a powerful way to shift employees' perspectives and inspire change?",
+      "answer": "Real-life storytelling."
+    },
+    {
+      "question": "Why is real-life storytelling considered a powerful way to shift employees' perspectives and inspire change?",
+      "answer": "Because it can bring the importance of practicing inclusion to life and underscore the importance of manager support."
+    },
+    {
+      "question": "What can companies do to avoid putting the onus on employees to share their experiences?",
+      "answer": "Companies should consider investing in guest speakers and storytellers."
+    },
+    {
+      "question": "Why is it beneficial for companies to be transparent about the challenges of large-scale change?",
+      "answer": "It creates more realistic expectations and helps minimize morale issues that lead to lost momentum."
+    },
+    {
+      "question": "What is the effect of celebrating small wins on large-scale change?",
+      "answer": "Research shows that large-scale change is more likely to succeed when organizations celebrate small wins."
+    },
+    {
+      "question": "How does T-Mobile foster empathy among its employees?",
+      "answer": "T-Mobile hosts 'immersive experiences' to help employees gain deeper insights into experiences beyond their own."
+    },
+    {
+      "question": "Why is it important for both leaders and managers to deliver the equity and inclusion message?",
+      "answer": "Backing from senior leaders is crucial to ensure meaningful change, and managers play a role in allowing employees to offer input and be heard."
+    },
+    {
+      "question": "How can companies effectively communicate their equity and inclusion message to employees?",
+      "answer": "By communicating frequently and through a variety of channels, such as regular emails and town halls with leaders."
+    },
+    {
+      "question": "What is the third best practice for delivering the equity and inclusion message?",
+      "answer": "Create a feedback loop with employees."
+    },
+    {
+      "question": "What is the top driver of successful diversity efforts according to HR leaders?",
+      "answer": "Communication and commitment from senior leaders."
+    },
+    {
+      "question": "Why is it important for managers to communicate with employees about diversity efforts?",
+      "answer": "When employees only hear from leadership, it can feel disempowering, whereas hearing from managers allows employees more room to offer input and be heard."
+    },
+    {
+      "question": "How can companies effectively communicate changes to employees?",
+      "answer": "By communicating frequently and through a variety of channels, such as regular emails and town halls with leaders."
+    },
+    {
+      "question": "What is the benefit of creating a feedback loop with employees during organizational changes?",
+      "answer": "Employees are more willing to accept and participate in change when they've had a chance to influence what's happening."
+    },
+    {
+      "question": "What percentage of companies now offer bias and allyship trainings?",
+      "answer": "9 in 10 companies."
+    },
+    {
+      "question": "What are the characteristics of effective bias and allyship trainings?",
+      "answer": "They consist mostly of live sessions, provide authentic ways for employees to interact and brainstorm, include engaging facts and data, focus on concrete steps employees can take, and treat participants as well-intentioned."
+    },
+    {
+      "question": "Why is it important to engage men in advancing women and fostering inclusion?",
+      "answer": "Men make up over half the workforce and hold a majority of leadership roles, making their active participation essential for cultural transformation."
+    },
+    {
+      "question": "Why is it important to convey to men how women's advancement benefits them?",
+      "answer": "Because many diversity efforts focus on how women benefit, and men may not see what they stand to gain."
+    },
+    {
+      "question": "What is one way companies can signal that men's wellbeing is being prioritized along with women's?",
+      "answer": "By pointing to the benefits for men of programs supporting work-life balance, such as offering equal parental leave to men and normalizing its use."
+    },
+    {
+      "question": "Why is it vital to activate senior-level men in advancing gender equality?",
+      "answer": "Because they are uniquely positioned to advance gender equality, and early career men are more likely to act on inclusion if they see and hear senior-level men doing the same."
+    },
+    {
+      "question": "What is the purpose of allyship groups sponsored by companies?",
+      "answer": "To provide camaraderie and a structured way for men and other allies to participate in advancing inclusion, and to signal that allyship is aligned with company priorities."
+    },
+    {
+      "question": "Why do senior-level men need to be educated on sponsorship?",
+      "answer": "Because they tend to sponsor others like themselves due to 'affinity bias', and need guidance on how to support women effectively by learning about the unique challenges women face at work."
+    },
+    {
+      "question": "Why is it essential to have men in leadership participate in driving progress for women in the workplace?",
+      "answer": "Their active participation and support are essential for driving real progress."
+    },
+    {
+      "question": "What is the current state of formal sponsorship programs in companies?",
+      "answer": "Less than 1 in 4 companies has a formal sponsorship program."
+    },
+    {
+      "question": "Why do women often miss out on informal sponsorship?",
+      "answer": "Due to 'affinity bias,' which leads senior-level men to sponsor others like themselves."
+    },
+    {
+      "question": "What is one way companies can educate men to be effective sponsors?",
+      "answer": "By guiding them on how to support women effectively, for example, by learning about the unique challenges women face at work."
+    },
+    {
+      "question": "How can companies convey the benefits of diversity efforts to men?",
+      "answer": "By finding opportunities to convey how these efforts link to issues that matter to men."
+    },
+    {
+      "question": "Why is it important to normalize men taking parental leave?",
+      "answer": "To show that men's well-being is being prioritized along with women's and to address work-life conflict, which affects both men and women."
+    },
+    {
+      "question": "What role do senior-level men play in advancing gender equality?",
+      "answer": "They are uniquely positioned to advance gender equality and their support is linked to the success of organizational change."
+    },
+    {
+      "question": "Why are allyship groups important for men?",
+      "answer": "They provide camaraderie and a structured way for men and other allies to participate in diversity efforts."
+    },
+    {
+      "question": "What are the three reasons managers fail to take action on diversity efforts?",
+      "answer": "Their priorities and performance metrics are misaligned, they lack the time and resources to be successful, and leadership has not included them in the conversation."
+    },
+    {
+      "question": "Why do managers often fail to take action according to the research?",
+      "answer": "For three reasons that are outside their control: their priorities and performance metrics are misaligned, they lack the time and resources to be successful, and leadership has not included them in the conversation."
+    },
+    {
+      "question": "What are the three research-based tips for activating managers?",
+      "answer": "1. Align managers' priorities and rewards, 2. Ensure managers have the time and resources they need, 3. Invite managers into a dialogue."
+    },
+    {
+      "question": "How has Pfizer changed its manager evaluation process?",
+      "answer": "Pfizer now evaluates managers not just on business outcomes, but also on how they achieve those results by measuring their positive impact on their teams, such as implementing company values based on direct feedback from their teams."
+    },
+    {
+      "question": "What percentage of managers often or always feel burned out?",
+      "answer": "42 percent."
+    },
+    {
+      "question": "How many companies and employees participated in the study?",
+      "answer": "281 companies and more than 15,000 employees."
+    },
+    {
+      "question": "What is the new focus of performance ratings for managers?",
+      "answer": "Performance ratings now focus on how managers achieve results by measuring their positive impact on their teams."
+    },
+    {
+      "question": "How does Pfizer assess its managers?",
+      "answer": "Pfizer assesses how well managers implement company values, such as excellence and equity, based on direct feedback from their teams."
+    },
+    {
+      "question": "What is the role of middle managers according to Emily Field?",
+      "answer": "Middle managers manage both up and down, and serve as translators in both directions."
+    },
+    {
+      "question": "How many companies and employees participated in the study?",
+      "answer": "281 companies and more than 15,000 employees participated in the study."
+    },
+    {
+      "question": "What is the purpose of Lean In Circles?",
+      "answer": "Lean In Circles combines a world-class leadership curriculum with the power of women coming together to learn new skills and support one another."
+    },
+    {
+      "question": "What is McKinsey's commitment regarding diverse leadership?",
+      "answer": "McKinsey has made a commitment to researching and building diverse leadership, as well as inclusive and equitable work environments."
+    },
+    {
+      "question": "Who cofounded the Women in the Workplace study?",
+      "answer": "Rachel Thomas, Alexis Krivkovich, and Lareina Yee."
+    },
+    {
+      "question": "What is Rachel Thomas's role at LeanIn.Org?",
+      "answer": "CEO and cofounder."
+    },
+    {
+      "question": "What is the focus of Priya Fielding-Singh's previous work?",
+      "answer": "Gender and health equity."
+    },
+    {
+      "question": "What is Alexis Krivkovich's role at McKinsey?",
+      "answer": "Global co-lead of McKinsey\u2019s People and Organizational Performance Practice."
+    },
+    {
+      "question": "Who is the chair of McKinsey\u2019s Technology Council?",
+      "answer": "Lareina Yee."
+    },
+    {
+      "question": "What is the area of specialization for Gina Cardazone, Ph.D.?",
+      "answer": "Community and cultural psychology, specializing in mixed-methods research."
+    },
+    {
+      "question": "Where does Marianne Cooper, Ph.D. conduct her research?",
+      "answer": "At the VMware Women\u2019s Leadership Innovation Lab at Stanford University."
+    },
+    {
+      "question": "Who is the chair of McKinsey's Technology Council?",
+      "answer": "Lareina."
+    },
+    {
+      "question": "What is Emily Field's role at McKinsey?",
+      "answer": "Emily Field is a partner in McKinsey's Seattle office in the People and Organizational Performance practice."
+    },
+    {
+      "question": "What is the title of Emily Field's book?",
+      "answer": "Power to the Middle: Why Managers Hold the Keys to the Future of Work."
+    },
+    {
+      "question": "What does Megan McConnell advise executives on?",
+      "answer": "Megan McConnell advises executives and government leaders across sectors on complex issues involving human capital, organizational change, and operational performance."
+    },
+    {
+      "question": "What is Hannah Smith's focus in her work at McKinsey?",
+      "answer": "Hannah Smith focuses on helping clients undergoing large-scale transformations, particularly related to organizational design, culture, and workforce development."
+    },
+    {
+      "question": "Who cofounded the Women in the Workplace study?",
+      "answer": "Lareina cofounded the Women in the Workplace study."
+    },
+    {
+      "question": "How many years of contributors are being thanked in the text?",
+      "answer": "10 years' of contributors are being thanked."
+    },
+    {
+      "question": "What percentage of entry-level positions are held by women in the Banking and consumer finance industry?",
+      "answer": "56%"
+    },
+    {
+      "question": "Which industry has the lowest percentage of women in entry-level positions?",
+      "answer": "Energy, utilities, and basic materials with 32%"
+    },
+    {
+      "question": "What is the percentage of women in C-Suite positions in the Consumer packaged goods industry?",
+      "answer": "42%"
+    },
+    {
+      "question": "Which industry struggles to attract entry-level women?",
+      "answer": "Technology: Hardware; IT and Telecom; Engineering and Industrial Manufacturing"
+    },
+    {
+      "question": "What percentage of women are in senior management positions in the Oil & Gas industry?",
+      "answer": "30%"
+    },
+    {
+      "question": "In which industry do women have a relatively high representation at the entry level?",
+      "answer": "Consumer packaged goods with 63%"
+    },
+    {
+      "question": "What percentage of women are in C-Suite positions in the Banking and Consumer Finance industry?",
+      "answer": "27%"
+    },
+    {
+      "question": "Which industry has the highest percentage of women in Entry-Level positions?",
+      "answer": "Healthcare Systems and Services with 75%"
+    },
+    {
+      "question": "How many companies participated in the 2024 Women in the Workplace study?",
+      "answer": "281 companies across the United States and Canada"
+    },
+    {
+      "question": "What is the percentage of women in Senior Manager positions in the Oil and Gas industry?",
+      "answer": "29%"
+    },
+    {
+      "question": "How many employees were surveyed on their workplace experiences in the 2024 study?",
+      "answer": "More than 15,000 employees from 27 companies"
+    },
+    {
+      "question": "Which industry has the lowest percentage of women in C-Suite positions?",
+      "answer": "IT Services and Telecom with 18%"
+    },
+    {
+      "question": "How many companies from the Energy, Utilities, and Basic Materials industry participated in the study?",
+      "answer": "12 companies"
+    },
+    {
+      "question": "What is the percentage of women in Manager positions in the Technology: Hardware industry?",
+      "answer": "26%"
+    },
+    {
+      "question": "How many companies participated in the 2024 study?",
+      "answer": "281 companies across the United States and Canada."
+    },
+    {
+      "question": "What was the source of the data for the report?",
+      "answer": "Pipeline data, Employee Experience surveys, and HR Program and Policies from participating companies."
+    },
+    {
+      "question": "How many employees were surveyed on their workplace experiences?",
+      "answer": "More than 15,000 employees from 27 companies."
+    },
+    {
+      "question": "How were companies grouped for the study?",
+      "answer": "Companies were grouped by industry to create benchmarks that provide peer comparisons."
+    },
+    {
+      "question": "What was the time period for collecting talent pipeline data?",
+      "answer": "Between March and May 2024, reflecting representation as of December 31, 2023."
+    },
+    {
+      "question": "How were pipeline metrics calculated?",
+      "answer": "Pipeline metrics were calculated for each participating company, then averaged for each industry and weighted by the composition of the Fortune 500 in 2023."
+    },
+    {
+      "question": "How many women and non-binary individuals were interviewed for the study?",
+      "answer": "27 women and non-binary individuals."
+    },
+    {
+      "question": "What was the industry breakdown of the Fortune 500 used for weighting?",
+      "answer": "Energy and Basic Materials\u201418.6%, Engineering and Automotive and Industrial Manufacturing\u201410.0%, Finance\u201418.8%, Food and Restaurants\u20146.6%, Healthcare\u20148.2%, Media and Entertainment\u20141.6%, Professional and Information Services\u20143.6%, Retail\u201417.8%, Tech\u201411.4%, Transportation, Logistics, and Infrastructure\u20143.4%."
+    },
+    {
+      "question": "How many companies were from the Wealth & Asset Management and Institutional Investors industry?",
+      "answer": "40 companies."
+    },
+    {
+      "question": "What was the percentage of Finance companies in the Fortune 500 industry breakdown used for weighting?",
+      "answer": "18.8%"
+    },
+    {
+      "question": "How were job levels categorized by companies?",
+      "answer": "Companies categorized their employees into six levels based on standard definitions, considering reporting structure and salaries."
+    },
+    {
+      "question": "What was the definition of L1\u2014Executives?",
+      "answer": "CEO and direct reports to the CEO, responsible for company operations and profitability (board members are not included in primary analyses unless they are also employees)"
+    },
+    {
+      "question": "What was the basis for determining the parity thresholds?",
+      "answer": "Workforce representation trends in U.S. Census (~18-20% population of women of color), current representation of women at entry levels in Talent Pipeline (20% for women of color; 28% for white women), and assumption that pipeline and growing population of diverse women will attribute to greater representation of women at senior levels in future years."
+    },
+    {
+      "question": "What data was included in the Talent Pipeline metrics?",
+      "answer": "Representation of men and women (overall, in line versus staff roles, by race/ethnicity, and optionally for functional roles like marketing, sales, and engineering), number of men and women who were hired, promoted, and who left the company (overall, by race/ethnicity, and optionally for functional roles)."
+    },
+    {
+      "question": "How were promotion rates calculated?",
+      "answer": "By dividing the number of promotions of that gender into a level by the number of employees of that gender in the level below at the start of the year."
+    },
+    {
+      "question": "How were promotion rates calculated?",
+      "answer": "Promotion rates were calculated by dividing the number of promotions of that gender into a level by the number of employees of that gender in the level below at the start of the year."
+    },
+    {
+      "question": "What was the method used to project representation changes over time?",
+      "answer": "Projected representation changes were determined by applying Geometric Brownian Motion to capture the stochastic nature of population change."
+    },
+    {
+      "question": "What is the parity threshold for women of color?",
+      "answer": "25% of total population."
+    },
+    {
+      "question": "How many iterations were run in the Monte Carlo Simulation for each industry?",
+      "answer": "1,000 iterations."
+    },
+    {
+      "question": "What is the assumed value used when an estimate is not reached within the 100-year time bound?",
+      "answer": "100 years."
+    },
+    {
+      "question": "How many industry/level combinations were not able to reach an estimated time to parity?",
+      "answer": "2 out of 198."
+    },
+    {
+      "question": "Over what time period were the years to parity estimates modeled?",
+      "answer": "Between 2022 \u2013 2024."
+    },
+    {
+      "question": "What levels were analyzed in the YEARS TO PARITY ESTIMATE AND ANALYTICS?",
+      "answer": "C-Suite to SVP (L1-L2)."
+    },
+    {
+      "question": "Why were iterations chosen in the model?",
+      "answer": "To create a large sample of possible estimates and ensure an accurate estimate."
+    },
+    {
+      "question": "What is the projection time bound used in the model?",
+      "answer": "100 years to provide a runway to reach convergence into an estimate."
+    },
+    {
+      "question": "What value is used when an estimate is not reached within the model?",
+      "answer": "An assumed value of 100 years is used for that industry/level combination."
+    },
+    {
+      "question": "How many industry/level combinations were not able to reach an estimated time to parity?",
+      "answer": "Only 2 out of 198 industry/level combinations."
+    },
+    {
+      "question": "How are industries weighted when computing aggregate estimates?",
+      "answer": "The industries are averaged using the F500 weights."
+    },
+    {
+      "question": "How many employees participated in the Employee Experience Survey?",
+      "answer": "More than 15,000 employees from 27 organizations."
+    },
+    {
+      "question": "How were survey results reported?",
+      "answer": "As an unweighted polled average of responses across companies."
+    },
+    {
+      "question": "What is the minimum difference required for differences between groups to be highlighted?",
+      "answer": "At least five percentage points between two groups."
+    },
+    {
+      "question": "What is the confidence level used for statistical significance?",
+      "answer": "95 percent."
+    },
+    {
+      "question": "How many organizations provided information on HR programs and policies?",
+      "answer": "291 organizations."
+    },
+    {
+      "question": "How many organizations provided information on gender diversity policies and programs?",
+      "answer": "291 organizations provided information on gender diversity policies and programs."
+    },
+    {
+      "question": "How many companies participated in both the Talent Pipeline and HR Surveys in 2024?",
+      "answer": "271 companies participated in both the Talent Pipeline and HR Surveys in 2024."
+    },
+    {
+      "question": "How were DEI best practices determined?",
+      "answer": "DEI best practices were based on a top performer analysis conducted with pipeline data and HR survey data, supplemented by external research, past Women in the Workplace studies, and responses from subject-matter experts."
+    },
+    {
+      "question": "How many women and nonbinary employees were interviewed for the qualitative interviews?",
+      "answer": "27 women and nonbinary employees were interviewed for the qualitative interviews."
+    },
+    {
+      "question": "How many HR executives were interviewed?",
+      "answer": "Nine HR executives were interviewed."
+    },
+    {
+      "question": "Why were roles in L1 excluded from the analysis?",
+      "answer": "Roles in L1 were intentionally excluded from the analysis due to the variability in representation across companies and nuance noted at the C-suite level."
+    },
+    {
+      "question": "How were top-performing organizations identified?",
+      "answer": "Top-performing organizations were identified by comparing their total women and women of color representation for L2 to L6 to their industry's average and ranking them by the extent to which they outperformed the industry benchmarks."
+    },
+    {
+      "question": "What was the focus of the interviews conducted for the report?",
+      "answer": "The interviews focused on workplace themes such as increasing representation of women in senior leadership, increasing company commitment to gender and racial diversity, and the importance of flexibility to all and especially women."
+    },
+    {
+      "question": "How was the term 'women' defined in the study?",
+      "answer": "In this study, 'women' includes cisgender and transgender women."
+    },
+    {
+      "question": "What is meant by 'senior leadership' in the report?",
+      "answer": "Except where otherwise noted, 'senior leadership' refers to individuals at the vice president level or above (L1 to L3 in Methodology)."
+    },
+    {
+      "question": "What is the basis for the pipeline data in the reports?",
+      "answer": "Pipeline data for all reports are based on data from the end of the previous year to the beginning of the year of publication and do not reflect changes through the year of publication."
+    },
+    {
+      "question": "Why do percentage-point changes for white women and women of color not sum to percentage-point changes for women overall?",
+      "answer": "Since they cover different time frames, percentage-point changes for white women and women of color will not sum to percentage-point changes for women overall."
+    },
+    {
+      "question": "What year are the pipeline data in the report based on?",
+      "answer": "2023"
+    },
+    {
+      "question": "Why may the total percent of women and men per level in the race and gender pipeline not sum to overall corporate pipeline totals?",
+      "answer": "The race pipeline does not include employees with unreported race data."
+    },
+    {
+      "question": "What percentage of line roles at the SVP level were held by men in 2024?",
+      "answer": "76%"
+    },
+    {
+      "question": "What is meant by 'flexible work' or 'flexibility' in the report?",
+      "answer": "Remote or hybrid work, as well as flexible work options such as the ability to set your own hours."
+    },
+    {
+      "question": "What percentage of entry-level workers are Latinas?",
+      "answer": "Just under 5 percent"
+    },
+    {
+      "question": "How are years to parity estimates modeled in the report?",
+      "answer": "At the industry level using data from companies that participated in any of the last three years of the study."
+    },
+    {
+      "question": "What is the significance of line roles in a company?",
+      "answer": "Line roles often have deep influence on company strategy and decision-making, and research suggests they may be clearer stepping stones to CEO positions."
+    },
+    {
+      "question": "What is the definition of 'flexible work' or 'flexibility' in the given context?",
+      "answer": "Remote or hybrid work, as well as flexible work options such as the ability to set your own hours."
+    },
+    {
+      "question": "What percentage of the population are Latinas, and what percentage are they of entry-level workers?",
+      "answer": "Latinas make up over 9 percent of the population but just under 5 percent of entry-level workers."
+    },
+    {
+      "question": "What is the source of the data regarding the population and entry-level workers?",
+      "answer": "The data is from the U.S. Census Bureau, '2023 Annual Estimates of the Resident Population by Sex, Race, and Hispanic Origin for the United States: April 1, 2020, to July 1, 2022 (NC-EST2022-SR11H)'."
+    },
+    {
+      "question": "What do arrows pointing up or down indicate in the data?",
+      "answer": "A difference of at least +/-5% between the first time point and the last time point (in this case, between 2018 and 2024)."
+    },
+    {
+      "question": "What percentage of companies offer allyship and/or anti-bias training?",
+      "answer": "Eighty-eight percent."
+    },
+    {
+      "question": "What training topics were respondents asked to select from in 2024 for their organization's training for all people managers?",
+      "answer": "Creating a respectful and inclusive environment, Reducing biases in the workplace, Evaluating employee performance based on results, Ensuring all employees have a clear path toward advancement, and Effectively supporting employee well-being."
+    },
+    {
+      "question": "How have the expectations of people managers changed over the past two to five years according to the respondents?",
+      "answer": "Respondents selected from 'Managers are expected to do more', 'Managers are expected to do about the same as they were two to five years ago', 'Managers are expected to do less', and 'Not sure'."
+    },
+    {
+      "question": "What does the question about ensuring fairness in hiring in 2021 and 2024 include?",
+      "answer": "Respondents selected from 'Offering bias training for evaluators', 'Requiring diverse slates of similarly qualified candidates to be considered for open positions', and 'Establishing clear and specific evaluation criteria before any candidates are considered'."
+    },
+    {
+      "question": "In 2021 and 2024, what did respondents do to ensure fairness in hiring?",
+      "answer": "Respondents selected from 'O\ufb00ering bias training for evaluators,' 'Requiring diverse slates of similarly quali\ufb01ed candidates to be considered for open positions,' and 'Establishing clear and speci\ufb01c evaluation criteria before any candidates are considered.'"
+    },
+    {
+      "question": "What was asked in the 2018 survey related to hiring?",
+      "answer": "The 2018 survey asked 'What policies and programs does your company o\ufb00er related to hiring?' with options including 'Unconscious bias training for employees who screen or interview candidates,' 'Required diverse sets of candidates to be considered for open positions,' and 'Clear and consistently applied criteria for evaluating all candidates for each job.'"
+    },
+    {
+      "question": "In 2020 and 2024, what did respondents say about being an ally to women of color at work?",
+      "answer": "In 2020 and 2024, respondents selected 'Yes' when asked if they considered themselves an ally to women of color at work."
+    },
+    {
+      "question": "What actions did respondents say they took on a consistent basis to support women of color in 2021 and 2024?",
+      "answer": "Respondents selected from 'I take a public stand to support racial equality,' 'I mentor or sponsor one or more women of color,' and 'If I see discrimination against women of color, I actively work to confront it.'"
+    },
+    {
+      "question": "What was the focus of the question restricted to employees in the workforce for at least 10 years?",
+      "answer": "The question focused on whether certain aspects of workplace culture, such as 'Emphasis on building respectful and inclusive workplaces' and 'Handling of microaggressions in the workplace,' had 'Gotten better,' 'Stayed the same,' 'Gotten worse,' or were 'Not sure.'"
+    },
+    {
+      "question": "What groups were compared in the data?",
+      "answer": "The data compared women of color, men of color, white women, and white men."
+    },
+    {
+      "question": "What was the result of the 2022 survey regarding 'Support for adoption, surrogacy, and/or IVF/fertility treatment'?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "What was the result of the 2022 survey regarding 'Emergency backup childcare services'?",
+      "answer": "50 percent."
+    },
+    {
+      "question": "What percentage of companies offered support for adoption and/or surrogacy or support for IVF/fertility treatment in 2024?",
+      "answer": "87 percent."
+    },
+    {
+      "question": "What is considered a benefit beyond paid leave according to endnote 44?",
+      "answer": "Support for caregivers of sick or elderly adults, such as caregiver reimbursements."
+    },
+    {
+      "question": "What is the definition of 'younger women' and 'older women' in the study?",
+      "answer": "'Younger women' refers to women under 30 and 'older women' refers to women 50 and over."
+    },
+    {
+      "question": "Why could changes in survey results be due to differences in the survey sample?",
+      "answer": "Surveys are not conducted on the same sample year to year."
+    },
+    {
+      "question": "What age group is considered 'younger women' in this study?",
+      "answer": "Women under 30."
+    },
+    {
+      "question": "What age group is considered 'older women' in this study?",
+      "answer": "Women 50 and over."
+    },
+    {
+      "question": "Which organizations collaborated on the 'Women in the Workplace' study in 2023?",
+      "answer": "LeanIn.Org and McKinsey & Company."
+    },
+    {
+      "question": "What was the question asked to respondents regarding personal characteristics that played a role in missing out on a raise, promotion, or chance to get ahead?",
+      "answer": "Have you ever felt that any of the following other personal characteristics have played a role in missing out on a raise, promotion, or chance to get ahead?\u201d\n  },\n  {\n    "
+    },
+    {
+      "question": "What percentage of employees were considered when analyzing how opportunities to work flexibly have changed in the last 10 years?",
+      "answer": "The total percentage of employees, excluding respondents who selected 'Not sure.'"
+    },
+    {
+      "question": "How did respondents prioritize racial diversity for themselves in 2019?",
+      "answer": "Respondents selected: 'A high priority.'"
+    },
+    {
+      "question": "What percentage of Women of Color (WOC) desired more mentorship, sponsorship, and/or professional development?",
+      "answer": "50%"
+    },
+    {
+      "question": "What actions did managers take consistently in the past year according to the 2024 survey?",
+      "answer": "Show interest in your career advancement (e.g., ask about your career goals), Promote your contributions to others, Help you navigate organizational politics, Help you balance work and personal demands."
+    },
+    {
+      "question": "What does 'respondents who experience \u201ccompetence-based microaggressions\u2019\u201d refer to?",
+      "answer": "Those who selected: Having their judgment questioned in their area of expertise, Being mistaken for someone at a much lower level than they are at, Being interrupted or spoken over more than others."
+    },
+    {
+      "question": "What was not collected in the 2019 data regarding LGBTQ+ identity?",
+      "answer": "Data on transgender identity."
+    },
+    {
+      "question": "What does 'competence-based microaggressions' refer to in the study?",
+      "answer": "Having your judgment questioned in your area of expertise, being mistaken for someone at a much lower level than you are at, or being interrupted or spoken over more than others."
+    },
+    {
+      "question": "What age groups are referred to as 'younger women' and 'older women' in the study?",
+      "answer": "Younger women refers to women under 30 and older women refers to women over 50."
+    },
+    {
+      "question": "What does 'othering microaggressions' refer to in the study?",
+      "answer": "Feeling you can't talk about yourself or your life outside of work, or hearing others express surprise at your language skills or other abilities."
+    },
+    {
+      "question": "What was the criteria for respondents in the 2024 data?",
+      "answer": "Women who experienced three or more microaggressions."
+    },
+    {
+      "question": "What is the definition of 'Gender or race Onlys' in the study?",
+      "answer": "Often or almost always being the only, or often one of the only, people of their gender or race in the room at work."
+    },
+    {
+      "question": "Who are the authors of the article 'Reconceptualizing Organizational Change Implementation as a Communication Problem'?",
+      "answer": "Lewis and Seibold."
+    },
+    {
+      "question": "What is the title of the article written by Anselm A. Beach and Albert H. Segars?",
+      "answer": "How a Values-Based Approach Advances DEI."
+    },
+    {
+      "question": "According to the text, what should be the eligibility criteria for program participation across practices?",
+      "answer": "Program eligibility should be open to individuals from all backgrounds."
+    },
+    {
+      "question": "Who wrote the article 'Happy Talk: Is Common Diversity Rhetoric Effective Diversity Rhetoric'?",
+      "answer": "Lisa M. Leslie et al."
+    },
+    {
+      "question": "What is the main finding of the research by Stefanie K. Johnson, David R. Hekman, and Elsa T. Chan?",
+      "answer": "If there's only one woman in your candidate pool, there's statistically no chance she'll be hired."
+    },
+    {
+      "question": "What is the title of the article written by Lori Nishiura Mackenzie, JoAnne Wehner, and Sof\u00eda Kennedy?",
+      "answer": "How to Evaluate Performance During a Pandemic."
+    },
+    {
+      "question": "Who wrote 'Why Most Performance Evaluations Are Biased, and How to Fix Them'?",
+      "answer": "Mackenzie, Wehner, and Correll."
+    },
+    {
+      "question": "What is the title of the book written by Teresa Amabile and Steven Kramer?",
+      "answer": "The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work."
+    },
+    {
+      "question": "What is the name of the report published by LeanIn.Org and McKinsey & Company in 2021?",
+      "answer": "Women in the Workplace 2021."
+    },
+    {
+      "question": "Who authored 'Getting to Diversity: What Works and What Doesn\u2019t'?",
+      "answer": "Frank Dobbin and Alexandra Kalev."
+    },
+    {
+      "question": "What was the publication title and date for the article 'Research: Vague Feedback Is Holding Women Back'?",
+      "answer": "Harvard Business Review, April 29, 2016."
+    },
+    {
+      "question": "Who wrote 'Communicating Change: Winning Employee Support for New Business Goals'?",
+      "answer": "T. J. Larkin and Sandar Larkin."
+    },
+    {
+      "question": "What journal published the article 'A meta-analytical integration of over 40 years of research on diversity training evaluation'?",
+      "answer": "Psychological Bulletin."
+    },
+    {
+      "question": "What percentage of respondents reported that their organization offers a formal sponsorship program to all employees?",
+      "answer": "23%."
+    },
+    {
+      "question": "Who wrote the book 'Good Guys: How Men Can Be Better Allies for Women in the Workplace'?",
+      "answer": "Dave Smith and W. Brad Johnson."
+    },
+    {
+      "question": "What is the title of the white paper published by BTS Insights in 2017?",
+      "answer": "Thawing the Frozen Middle."
+    },
+    {
+      "question": "How are employees classified in the survey based on their management status?",
+      "answer": "Employees who selected 'No, I don\u2019t manage a team' are classified as non-managers, and employees who selected any other option are classified as managers."
+    },
+    {
+      "question": "What is the name of the research study that analyzed over 40 years of research on diversity training evaluation?",
+      "answer": "A meta-analytical integration of over 40 years of research on diversity training evaluation by Bezrukova et al."
+    }
+  ]
+}

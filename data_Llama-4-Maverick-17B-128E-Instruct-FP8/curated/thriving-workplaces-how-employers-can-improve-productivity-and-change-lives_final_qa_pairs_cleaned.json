@@ -1,0 +1,5124 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe World Economic Forum and McKinsey Health Institute have collaborated on a report, \"Thriving Workplaces: How Employers can Improve Productivity and Change Lives,\" which highlights the importance of investing in employee health and well-being. The report argues that prioritizing employee health can generate up to $11.7 trillion in global economic value and improve productivity, reduce healthcare costs, and foster a resilient workforce. The current state of workforce health is concerning, with only 57% of employees reporting good holistic health, and certain demographics facing poorer health outcomes. The report suggests that organizations can address workforce health by adopting six evidence-based principles, including understanding employee health status, developing sustainable initiatives, and embedding health into organizational culture.",
+  "qa_pairs": [
+    {
+      "question": "Who published the report 'Thriving Workplaces: How Employers can Improve Productivity and Change Lives'?",
+      "answer": "World Economic Forum",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated global economic value of investing in holistic employee health?",
+      "answer": "Almost $12 trillion",
+      "rating": 8
+    },
+    {
+      "question": "Who collaborated with the World Economic Forum on this report?",
+      "answer": "McKinsey Health Institute",
+      "rating": 9
+    },
+    {
+      "question": "According to the report, what is required for a radical health transformation?",
+      "answer": "Collaborative effort across the public and private sectors",
+      "rating": 9
+    },
+    {
+      "question": "Who are the authors of the foreword in the report?",
+      "answer": "Shyam Bishen and Lucy P\u00e9rez",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential global economic value of investing in holistic employee health?",
+      "answer": "Almost $12 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "Why should organizations prioritize workforce health?",
+      "answer": "Investing in employee health can substantially increase economic returns, improve productivity, reduce absenteeism, lower healthcare costs, and heighten employee engagement and retention.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of employees reported good holistic health in a McKinsey Health Institute survey?",
+      "answer": "57%.",
+      "rating": 7
+    },
+    {
+      "question": "What are the six 'evergreen' principles for employers to make a positive impact on workforce health?",
+      "answer": "Understand the baseline health status of employees and the value at stake, develop initiatives for a sustainable healthy workforce, pilot interventions to test and learn, track three to five metrics to measure success, ensure leadership commitment and sponsorship, and embed employee health into organizational culture.",
+      "rating": 9
+    },
+    {
+      "question": "What is the suggested approach to developing a healthy workforce?",
+      "answer": "A portfolio approach \u2013 addressing ill health and promoting good health; supporting individuals; and creating healthier teams, jobs and organizational environments.",
+      "rating": 8
+    },
+    {
+      "question": "What is the World Health Organization's definition of health?",
+      "answer": "Health is 'more than the absence of disease or infirmity', including mental, physical, spiritual and social function.",
+      "rating": 9
+    },
+    {
+      "question": "How many hours do working adults spend at work over their lifetime?",
+      "answer": "Roughly 90,000 hours (or about 45 years).",
+      "rating": 8
+    },
+    {
+      "question": "Why is investing in employee health considered a strategic necessity?",
+      "answer": "Because a healthy workforce is crucial for avoiding a potential crisis for health and business due to trends like an ageing population and escalating levels of burn-out.",
+      "rating": 9
+    },
+    {
+      "question": "What are the benefits of prioritizing employee health?",
+      "answer": "A healthier workforce can yield substantial returns, including more robust organizations, vibrant communities, and a healthier society.",
+      "rating": 9
+    },
+    {
+      "question": "What approach should organizations take to develop a healthy workforce?",
+      "answer": "A portfolio approach \u2013 addressing ill health and promoting good health; supporting individuals; and creating healthier teams, jobs and organizational environments.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main goal of the report 'Thriving Workplaces: How Employers can Improve Productivity and Change Lives'?",
+      "answer": "To guide stakeholders on how to develop a healthy workforce and provide leaders with the tools and strategies necessary to implement effective health initiatives.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main argument presented in the briefing for investing in employee health?",
+      "answer": "Investing in a healthy workforce delivers measurable performance gains and benefits for organizations and communities.",
+      "rating": 9
+    },
+    {
+      "question": "How many people globally will spend approximately 45 years of their lives at work?",
+      "answer": "More than 3.5 billion people.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated global economic value of investing in holistic employee health according to the McKinsey Health Institute?",
+      "answer": "Between $3.7 trillion and $11.7 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of today's global disease burden is attributed to non-communicable diseases (NCDs)?",
+      "answer": "69%.",
+      "rating": 8
+    },
+    {
+      "question": "What was one of the effects of the COVID-19 pandemic on employee health and well-being?",
+      "answer": "It accelerated and exacerbated long-standing corporate challenges to employee health and well-being, particularly employee mental health, with reports of burn-out rising to almost one in four.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated return on investment per person for investing in holistic employee health?",
+      "answer": "$1,100 to $3,500 per person, or 17% to 55% of average annual pay.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of today's global disease burden is accounted for by non-communicable diseases (NCDs)?",
+      "answer": "69%",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated total opportunity value of enhancing productivity and reducing presenteeism?",
+      "answer": "$2 trillion to $9 trillion",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the total opportunity identified is attributed to enhancing productivity and reducing presenteeism?",
+      "answer": "Between 54% and 77%",
+      "rating": 8
+    },
+    {
+      "question": "By what percentage could investing in employee health boost global GDP?",
+      "answer": "Between 4% and 12%",
+      "rating": 9
+    },
+    {
+      "question": "How many employees in middle-income countries are estimated to benefit from workplace investment in health?",
+      "answer": "2.5 billion",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of deaths in low- and middle-income countries (LMICs) are due to premature deaths from non-communicable diseases?",
+      "answer": "80%",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated total opportunity value created by initiatives that improve employee health and well-being?",
+      "answer": "The estimated total opportunity value is shown in Figure 1, with various aspects such as attrition (~$300-$600 billion), absenteeism (~$300 billion), presenteeism and productivity (~$2,100 billion), retention (~$900 billion), and attraction (~$300-$600 billion).",
+      "rating": 7
+    },
+    {
+      "question": "By how much could investing in employee health boost global GDP?",
+      "answer": "Investing in employee health could boost global GDP by between 4% and 12%.",
+      "rating": 10
+    },
+    {
+      "question": "What is the estimated number of employees who would benefit from workplace health investments in middle-income countries compared to high-income countries?",
+      "answer": "Middle-income countries have up to four times as many employees who would benefit, with an estimated 2.5 billion employees compared to 636 million employees in high-income countries.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of deaths in low- and middle-income countries (LMICs) are due to non-communicable diseases?",
+      "answer": "Premature deaths due to non-communicable diseases account for 80% of deaths in LMICs.",
+      "rating": 8
+    },
+    {
+      "question": "What is the total economic value opportunity of investing in healthy workforces in high-, middle-, and low-income countries?",
+      "answer": "The total economic value opportunity is shown in Figure 2, with a range of 4-12% of global GDP, which translates to $3.7-$11.7 trillion.",
+      "rating": 7
+    },
+    {
+      "question": "What is the estimated annual cost of absenteeism to employers in the United States?",
+      "answer": "$226 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated additional annual cost per employee with untreated insomnia compared to those without insomnia?",
+      "answer": "$2,280.",
+      "rating": 8
+    },
+    {
+      "question": "How are healthcare costs expected to grow globally?",
+      "answer": "Total healthcare costs are expected to continue growing because of cost pressures such as those related to an ageing population.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated economic opportunity of investing in healthy workforces for Company A?",
+      "answer": "~$114-365 million.",
+      "rating": 7
+    },
+    {
+      "question": "What factors contribute to the estimated $2,280 additional annual cost per employee with untreated insomnia?",
+      "answer": "Factors such as absenteeism, presenteeism, diminished performance, and higher rates of accidents and injuries.",
+      "rating": 9
+    },
+    {
+      "question": "Why are direct healthcare costs excluded from the analysis?",
+      "answer": "Direct healthcare costs are excluded as these are only relevant to employment in select countries (e.g. USA), and costs vary widely country to country.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal for countries with increasing pressure on healthcare budgets?",
+      "answer": "The goal will likely be to maintain quality and accessibility across health systems while controlling costs.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a government-mandated program to tackle work-related mental health disorders?",
+      "answer": "Japan introduced the Stress Check Programme in 2015, which requires workplaces with more than 50 employees to offer an annual stress survey and to facilitate consultations with a physician for those with high stress levels.",
+      "rating": 9
+    },
+    {
+      "question": "How can employers support employee health without shouldering the burden alone?",
+      "answer": "Employers can benefit from the expertise, infrastructure and goals of public health stakeholders through partnerships, especially as these stakeholders may offer referral pathways.",
+      "rating": 8
+    },
+    {
+      "question": "What is the correlation between employee well-being interventions and productivity improvements?",
+      "answer": "The literature demonstrates a correlation between employee well-being interventions and productivity improvements of between 10% and 21%.",
+      "rating": 9
+    },
+    {
+      "question": "What did a University of Oxford study find regarding the productivity of happier employees in a call centre?",
+      "answer": "Happier employees in a call centre were 13% more productive.",
+      "rating": 8
+    },
+    {
+      "question": "What is the correlation between employee well-being interventions and productivity improvements?",
+      "answer": "Between 10% and 21%.",
+      "rating": 9
+    },
+    {
+      "question": "How much lower are employee turnover rates in companies that foster a 'culture of health'?",
+      "answer": "11 percentage points lower.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the global workforce is expected to be over 50 years old by 2050?",
+      "answer": "About 30%.",
+      "rating": 8
+    },
+    {
+      "question": "What factors do employees, especially younger generations, consider when choosing an employer?",
+      "answer": "Factors contributing to their well-being, such as mental and physical health, work-life balance, and job satisfaction.",
+      "rating": 9
+    },
+    {
+      "question": "What was identified as a meaningful factor in employee resignations in a recent MIT study?",
+      "answer": "Toxic culture at the top of a workplace.",
+      "rating": 8
+    },
+    {
+      "question": "What is the goal of the Chilean Safety Association (ACHS) in deploying mental health initiatives?",
+      "answer": "To create healthier communities with healthier families and ultimately, healthier workers, improving companies' climate and productivity.",
+      "rating": 9
+    },
+    {
+      "question": "How many workers are covered by the mental health initiatives deployed by the Chilean Safety Association (ACHS)?",
+      "answer": "3 million workers.",
+      "rating": 8
+    },
+    {
+      "question": "What is the relationship between employee well-being and an organization's financial success according to research from the University of Oxford?",
+      "answer": "Companies with higher well-being scores consistently achieve greater valuations, higher profits and superior returns on assets.",
+      "rating": 9
+    },
+    {
+      "question": "What was the increase in annual profits associated with a one-point increase in employee happiness scores?",
+      "answer": "$1.39 billion to $2.29 billion.",
+      "rating": 8
+    },
+    {
+      "question": "How has the 'Well-being 100' stock portfolio performed compared to major stock market indices since the start of 2021?",
+      "answer": "The 'Well-being 100' stock portfolio has significantly outperformed major stock market indices.",
+      "rating": 8
+    },
+    {
+      "question": "Why is a healthier workforce considered more resilient and adaptive?",
+      "answer": "Because it is better capable of navigating the uncertainties and challenges of a rapidly changing world, adjusting to new roles and technologies, and continuously upskilling and adapting.",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of ESG criteria in delivering business value?",
+      "answer": "ESG criteria help to enhance revenue growth, reduce risks, minimize regulatory intervention and increase loyalty and productivity among employees.",
+      "rating": 9
+    },
+    {
+      "question": "What are the benefits of Environmental, Social, and Governance (ESG) criteria in business?",
+      "answer": "ESG criteria help to enhance revenue growth, reduce risks, minimize regulatory intervention, and increase loyalty and productivity among employees.",
+      "rating": 9
+    },
+    {
+      "question": "What is gaining consideration within the ESG agenda?",
+      "answer": "The social pillar, which guides how companies manage relationships with customers, suppliers, communities, and employees, is gaining consideration.",
+      "rating": 8
+    },
+    {
+      "question": "How are companies listed on the S&P 500 Index assessed?",
+      "answer": "Companies listed on the S&P 500 Index are assessed not only on financial metrics but also on employee factors, such as job satisfaction, happiness, stress, and purpose at work.",
+      "rating": 7
+    },
+    {
+      "question": "What is the trend in regulatory pressures regarding employee health and well-being?",
+      "answer": "Regulatory pressures are mounting as governing bodies increasingly recognize the importance of employee health and well-being.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence of non-compliance with workplace health and safety regulations in the US?",
+      "answer": "Non-compliance can lead to hefty fines, lawsuits, and reputational damage, with penalties increased to $15,624 per violation in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What is the benefit of prioritizing employee health and well-being?",
+      "answer": "Prioritizing employee health and well-being can unlock substantial performance gains, achieve a healthier, more adaptable, and more resilient workforce, and drive positive change in organizations and communities.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expectation from consumers, employees, and communities regarding labour practices and well-being?",
+      "answer": "There is an increasing expectation that organizations should be transparent about labour practices, diversity and inclusion, mental health support, and work-life balance.",
+      "rating": 8
+    },
+    {
+      "question": "What is the consequence for companies that fail to meet employee and customer expectations?",
+      "answer": "They risk losing their reputation and trust among employees and customers alike.",
+      "rating": 8
+    },
+    {
+      "question": "What can employers achieve by prioritizing employee and health well-being?",
+      "answer": "They can unlock substantial performance gains, achieve a healthier, more adaptable and more resilient workforce, and drive positive change in their organizations and communities.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of employees globally reported good holistic health according to the 2023 McKinsey Health Institute survey?",
+      "answer": "57%.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of employees were 'faring well' according to the 2023 McKinsey Health Institute survey?",
+      "answer": "49%.",
+      "rating": 8
+    },
+    {
+      "question": "In what percentage of industries surveyed did more than a third of employees report burn-out symptoms?",
+      "answer": "10%.",
+      "rating": 8
+    },
+    {
+      "question": "What is described as the ultimate productivity multiplier?",
+      "answer": "Well-being.",
+      "rating": 8
+    },
+    {
+      "question": "In how many industries did more than 20% of employees report being burned out?",
+      "answer": "Two-thirds of the industries.",
+      "rating": 8
+    },
+    {
+      "question": "Which industries reported higher rates of burn-out symptoms and lower rates of holistic health?",
+      "answer": "Accounting, retail, agriculture/forestry/fishing/livestock, shipping/distribution, and arts/media/entertainment/recreation.",
+      "rating": 9
+    },
+    {
+      "question": "Which industries reported good holistic health and low burn-out symptoms?",
+      "answer": "Human resources, construction, administrative and support services, education, and engineering/architecture.",
+      "rating": 9
+    },
+    {
+      "question": "What was the global average percentage of employees faring well across all industries?",
+      "answer": "49%",
+      "rating": 9
+    },
+    {
+      "question": "What was the global average percentage of employees reporting high holistic health across all industries?",
+      "answer": "57%",
+      "rating": 9
+    },
+    {
+      "question": "What was the global average percentage of employees reporting high burn-out symptoms across all industries?",
+      "answer": "22%",
+      "rating": 9
+    },
+    {
+      "question": "What is the global average percentage of respondents faring well across all industries?",
+      "answer": "49%",
+      "rating": 9
+    },
+    {
+      "question": "What is the global average percentage of respondents reporting high holistic health across all industries?",
+      "answer": "57%",
+      "rating": 9
+    },
+    {
+      "question": "What is the global average percentage of respondents reporting high burn-out symptoms across all industries?",
+      "answer": "22%",
+      "rating": 8
+    },
+    {
+      "question": "Which industry has the highest percentage of respondents reporting high holistic health?",
+      "answer": "Military with 76%",
+      "rating": 7
+    },
+    {
+      "question": "Which industry has the lowest percentage of respondents faring well?",
+      "answer": "Waste management with 17%",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of respondents in the Agriculture/forestry/fishing/livestock industry reported high burn-out symptoms?",
+      "answer": "27%",
+      "rating": 8
+    },
+    {
+      "question": "How many employees were surveyed by the McKinsey Health Institute in 2023?",
+      "answer": "More than 30,000 employees.",
+      "rating": 9
+    },
+    {
+      "question": "In how many countries was the survey conducted?",
+      "answer": "30 countries.",
+      "rating": 9
+    },
+    {
+      "question": "What was the finding regarding the health of front-line workers compared to managers?",
+      "answer": "The health of front-line workers is generally worse than that of managers.",
+      "rating": 9
+    },
+    {
+      "question": "Which demographic groups reported lower holistic health and higher burn-out symptoms?",
+      "answer": "Respondents who self-identified as women, LGBTQI+, lacking a high school diploma, neurodivergent or low-income.",
+      "rating": 9
+    },
+    {
+      "question": "How much more likely were women to report exhaustion symptoms compared to men?",
+      "answer": "8 percentage points more likely.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of the data analysis regarding global trends explaining industry performance?",
+      "answer": "The data analysis did not reveal clear global trends explaining why certain industries outperform others.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated annual boost to the global economy by 2040 if access to treatments and care for endometriosis and menopause is improved?",
+      "answer": "$130 billion",
+      "rating": 8
+    },
+    {
+      "question": "How do women and men compare in terms of overall health outcomes according to the report?",
+      "answer": "Men and women report overall similar health outcomes.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of LGBTQI+ individuals reported high holistic health compared to heterosexuals?",
+      "answer": "46% of LGBTQI+ individuals reported high holistic health compared to 55% of heterosexuals.",
+      "rating": 10
+    },
+    {
+      "question": "How do neurodivergent employees compare to neurotypical peers in terms of faring well scores in holistic health and burn-out symptoms?",
+      "answer": "Neurodivergent employees were 24 percentage points less likely to report faring well scores (27% versus 51% for neurotypical).",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of neurodivergent employees reported faring well in terms of holistic health and burn-out symptoms?",
+      "answer": "27%",
+      "rating": 10
+    },
+    {
+      "question": "How much less likely were neurodivergent employees to report faring well compared to neurotypical peers?",
+      "answer": "24 percentage points",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of the youngest workers (aged 18 to 28) reported burn-out symptoms?",
+      "answer": "27%",
+      "rating": 7
+    },
+    {
+      "question": "What were the top two predictors for holistic health for both the oldest and youngest working generations?",
+      "answer": "Self-efficacy and meaning",
+      "rating": 9
+    },
+    {
+      "question": "What affects younger employees most strongly in terms of burn-out?",
+      "answer": "A toxic workplace environment",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the global population is estimated to be neurodivergent?",
+      "answer": "~5%",
+      "rating": 7
+    },
+    {
+      "question": "What are the top two predictors for holistic health for both Gen Z and Boomers?",
+      "answer": "Self-efficacy and meaning.",
+      "rating": 9
+    },
+    {
+      "question": "What affects older workers most strongly in terms of burn-out?",
+      "answer": "Role ambiguity.",
+      "rating": 9
+    },
+    {
+      "question": "What affects younger employees and the overall global cohort most strongly in terms of burn-out?",
+      "answer": "Toxic workplace environment.",
+      "rating": 8
+    },
+    {
+      "question": "What is the correlation between educational level and reported holistic health?",
+      "answer": "College- or graduate-level education correlates with reported higher holistic health.",
+      "rating": 9
+    },
+    {
+      "question": "How does the likelihood of reporting good holistic health compare between individuals without a high school diploma and those with graduate degrees?",
+      "answer": "Individuals without a high school diploma were 20 percentage points less likely to report good holistic health compared to those with graduate degrees (50% versus 70%).",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of employers in helping employees adapt to longer lifespans?",
+      "answer": "Employers play a crucial role in helping employees adapt to longer lifespans by fostering age-diverse workplaces and developing products that meet the needs of younger and older employees.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of individuals with poor financial status reported good holistic health?",
+      "answer": "41%",
+      "rating": 7
+    },
+    {
+      "question": "How does job insecurity affect mental health?",
+      "answer": "Job insecurity leads to adverse effects in mental health, including depression, anxiety, and burn-out.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between remuneration and holistic health?",
+      "answer": "Remuneration is positively correlated with holistic health. People reporting positively on remuneration were 30 percentage points more likely to report higher holistic health.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of caregivers reported higher burn-out symptoms compared to non-caregivers?",
+      "answer": "37% of caregivers reported higher burn-out symptoms compared to 20% of non-caregivers, a difference of 17 percentage points.",
+      "rating": 10
+    },
+    {
+      "question": "What are the top three factors associated with positive holistic health for managers?",
+      "answer": "The top three factors associated with positive holistic health for managers are self-efficacy, meaning, and belonging.",
+      "rating": 9
+    },
+    {
+      "question": "How does education level affect holistic health?",
+      "answer": "Individuals without a high school diploma were 20 percentage points less likely to report good holistic health compared to those with graduate degrees (50% versus 70%).",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of upper management reported good holistic health?",
+      "answer": "80% of upper management reported good holistic health.",
+      "rating": 8
+    },
+    {
+      "question": "What is the global average for high burn-out symptoms reports?",
+      "answer": "The global average for high burn-out symptoms reports is 22%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of caregivers reported higher holistic health compared to the global average?",
+      "answer": "61% of caregivers reported higher holistic health compared to the global average of 57%.",
+      "rating": 9
+    },
+    {
+      "question": "Are caregivers more likely to report higher burn-out symptoms?",
+      "answer": "Yes, caregivers were 17 percentage points more likely to report higher burn-out symptoms (37% versus 20% for non-caregivers).",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of surveyed employees were caregivers of children?",
+      "answer": "Approximately 50% of the surveyed employees were caregivers of children.",
+      "rating": 8
+    },
+    {
+      "question": "Do men and women who take care of children report different burn-out symptoms?",
+      "answer": "Yes, men who take care of children reported slightly lower burn-out symptoms compared to non-child caregivers, while women who take care of children experience higher exhaustion than their male counterparts (43% versus 35% for male caregivers).",
+      "rating": 9
+    },
+    {
+      "question": "What is the main reason women stop working despite wanting to continue, according to a Harvard Business School report?",
+      "answer": "Half of women who stopped working, despite wanting to continue, did so because they could not combine their career with their caregiving responsibilities for their children.",
+      "rating": 9
+    },
+    {
+      "question": "What approach do leaders need to take to enhance holistic health and reduce burn-out among employees?",
+      "answer": "Leaders must recognize and address the varying needs of different groups and develop targeted interventions, possibly involving greater autonomy and empowerment for teams and individuals to manage their work and resources effectively.",
+      "rating": 9
+    },
+    {
+      "question": "Why is it important for employers and employees to work in partnership to improve health?",
+      "answer": "Because neither can realize the full benefits on their own.",
+      "rating": 7
+    },
+    {
+      "question": "What is the risk for employers who are not helping every member of their workforce achieve their full potential?",
+      "answer": "Affecting the health and well-being of their employees, limiting their societal and economic contributions and missing substantial value creation for their organization.",
+      "rating": 9
+    },
+    {
+      "question": "How can the return on investment in employee health be measured?",
+      "answer": "With tailored metrics that go beyond traditional sickness absence, safety and injury statistics.",
+      "rating": 8
+    },
+    {
+      "question": "Why is there no single KPI for measuring the impact of employee health and well-being investment?",
+      "answer": "Because every industry or organization has its own unique characteristics, meaning metrics should be tailored to each organization\u2019s specific needs.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of assessed companies conduct employee surveys with a core focus on health and well-being, according to an S&P Global Corporate Sustainability Assessment?",
+      "answer": "2.2%.",
+      "rating": 7
+    },
+    {
+      "question": "What are the four drivers that can be used by any organization to calculate their investment case opportunity for employee health and well-being?",
+      "answer": "Employee output, talent management optimization, healthcare cost savings and ability to attract investment.",
+      "rating": 9
+    },
+    {
+      "question": "What are the four value drivers that organizations can use to calculate their investment case opportunity for employee health and well-being?",
+      "answer": "Employee output, talent management optimization, healthcare cost savings, and ability to attract investment.",
+      "rating": 9
+    },
+    {
+      "question": "How can employee output be calculated?",
+      "answer": "As a combination of productivity, absenteeism, and presenteeism.",
+      "rating": 8
+    },
+    {
+      "question": "What are some example metrics for measuring employee output?",
+      "answer": "Efficiency of completing tasks, innovation rates, sales increase, customer service sentiment, number of workdays lost to sickness, and lost time caused by physically present employees working at reduced levels.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential benefit of offering free flu shots to employees?",
+      "answer": "Lower absentee rates, with a potential saving of $10.82 per vaccinated employee per year.",
+      "rating": 7
+    },
+    {
+      "question": "How can developing a strong employee value proposition impact business performance?",
+      "answer": "By enhancing talent attraction and retention, minimizing employee turnover, and resulting in employees with longer tenure having between 12% and 30% higher output than newer employees.",
+      "rating": 9
+    },
+    {
+      "question": "What are some example metrics for measuring talent management optimization?",
+      "answer": "Average tenure (retention), days required from job posting to hire (attraction), and involuntary attrition (turnover).",
+      "rating": 9
+    },
+    {
+      "question": "What are direct healthcare costs?",
+      "answer": "Costs that include what an employee pays when seeking healthcare, what the employer covers under any employer-sponsored insurance, and any costs associated with work-related injuries.",
+      "rating": 9
+    },
+    {
+      "question": "What are direct healthcare costs?",
+      "answer": "These include what an employee pays when seeking healthcare, what the employer covers under any employer-sponsored insurance and any costs associated with work-related injuries.",
+      "rating": 9
+    },
+    {
+      "question": "Why might an organization highlight good employee health and well-being?",
+      "answer": "An organization that highlights good employee health and well-being as part of its culture and value proposition may make itself more attractive to investors, customers and partners, referred to as an ESG premium.",
+      "rating": 9
+    },
+    {
+      "question": "Can organizations include contractors and suppliers in their investment cases?",
+      "answer": "Yes, some organizations may also choose to include the impact on contractors and suppliers within their investment cases.",
+      "rating": 8
+    },
+    {
+      "question": "How can executives in global organizations expand interventions?",
+      "answer": "Employers can consider how to expand interventions in ways that benefit employees both within their organizations and within the broader local community, such as investing in widescale health education outreach.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a company that supports health education outreach?",
+      "answer": "Bayer is introducing access to health and nutrition education for members of their value chain (including farmers) in India, Indonesia and Mexico.",
+      "rating": 9
+    },
+    {
+      "question": "What is required to build an effective investment case?",
+      "answer": "Estimates need to assess the value of making the investment (costs avoided and benefits gained) versus the cost of the intervention required to address the issue.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of company-specific KPIs for measuring productivity?",
+      "answer": "Examples include increase in number of hours worked/total revenue or profit, increase in total revenue or profit/FTE, and increase in percentage of employees achieving targets.",
+      "rating": 8
+    },
+    {
+      "question": "What is the definition of absenteeism?",
+      "answer": "Any failure to report for or remain at work as scheduled, regardless of the reason.",
+      "rating": 10
+    },
+    {
+      "question": "What is unwanted attrition?",
+      "answer": "An organization's inability to prevent employee turnover, measured by percentage rate of unwanted turnover due to being unhealthy.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of Novo Nordisk's employees reported symptoms of stress in the 2023 survey?",
+      "answer": "About 14% of the company's 64,000 employees reported symptoms of stress.",
+      "rating": 9
+    },
+    {
+      "question": "What was the outcome of stronger support interventions at Novo Nordisk?",
+      "answer": "A 20% to 30% decline in the number of employees reporting symptoms of stress one to two years after the intervention.",
+      "rating": 9
+    },
+    {
+      "question": "What was the ROI achieved by On through their employee health intervention?",
+      "answer": "11.6x ROI annually ($2.9 million)",
+      "rating": 8
+    },
+    {
+      "question": "What were the components of On's employee health intervention?",
+      "answer": "A self-care library (including mediation, relaxation and breathing practices), 12 coaching sessions and internal well-being workshops.",
+      "rating": 9
+    },
+    {
+      "question": "How many employees at On created accounts for the health intervention?",
+      "answer": "1,240 employees, representing an approximate 50% uptake.",
+      "rating": 9
+    },
+    {
+      "question": "What were the productivity gains achieved by On due to the intervention?",
+      "answer": "$1.3 million productivity gains due to 5% improvement in presenteeism related productivity loss.",
+      "rating": 9
+    },
+    {
+      "question": "What was the approximate uptake of the intervention launched in 2022 among employees?",
+      "answer": "50%.",
+      "rating": 8
+    },
+    {
+      "question": "How much did the company gain annually due to the intervention launched in 2022?",
+      "answer": "$2.9 million.",
+      "rating": 9
+    },
+    {
+      "question": "What were the components of the $2.9 million annual gain?",
+      "answer": "$1.3 million productivity gains, $1.1 million driven by reduction in voluntary attrition, and $0.5 million reduction in HR costs.",
+      "rating": 10
+    },
+    {
+      "question": "What was the ROI of the intervention launched in 2022?",
+      "answer": "11.6x.",
+      "rating": 8
+    },
+    {
+      "question": "What was the focus of Swiss Re's metabolic health programme?",
+      "answer": "Optimizing the metabolic health of their 1,100 UK employees.",
+      "rating": 9
+    },
+    {
+      "question": "What were the outcomes of Swiss Re's metabolic health programme for high-risk participants?",
+      "answer": "6% body weight loss, 20% improvement in blood fat profile, and 50% improvement in well-being, sleep and diet quality.",
+      "rating": 9
+    },
+    {
+      "question": "What was the initiative funded by Novartis Foundation in Dakar, Senegal?",
+      "answer": "Better Hearts Better Cities initiative to improve cardiovascular health.",
+      "rating": 9
+    },
+    {
+      "question": "How many employees were reached by the Novartis Foundation's initiative in Dakar, Senegal?",
+      "answer": "36,000 employees.",
+      "rating": 8
+    },
+    {
+      "question": "What was the outcome of the Novartis Foundation's initiative in terms of hypertension screening?",
+      "answer": "21,000 employees were screened.",
+      "rating": 9
+    },
+    {
+      "question": "What was the outcome of hypertension screening for 21,000 employees?",
+      "answer": "Improved blood pressure for 34% to 39% of employees in six months.",
+      "rating": 8
+    },
+    {
+      "question": "Why do organizations use pilots to test interventions?",
+      "answer": "To test interventions on a small scale before full implementation, helping to justify investments and refine interventions.",
+      "rating": 9
+    },
+    {
+      "question": "What metrics can be used to measure the success of an intervention?",
+      "answer": "Metrics such as adoption rate, direct impact on employee health and well-being, distress levels and burn-out symptoms, cost analysis, and ROI.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of ASICS' Movement for Mind intervention pilot?",
+      "answer": "Clinically significant improvements in mental well-being, low mood, and anxiety, with 71% of participants feeling happier and 70% reporting being more active.",
+      "rating": 9
+    },
+    {
+      "question": "What happens when adoption rates of employee health and well-being interventions exceed 20% to 25%?",
+      "answer": "Interventions tend to be self-reinforcing, with a microsociety of participants forming and changing the organization to become healthier.",
+      "rating": 8
+    },
+    {
+      "question": "How did Wellhub's study suggest fostering a healthy workforce culture could impact adoption rates?",
+      "answer": "By up to 12 times compared to simply offering the intervention.",
+      "rating": 9
+    },
+    {
+      "question": "At what adoption rate do interventions tend to be self-reinforcing?",
+      "answer": "20% to 25%",
+      "rating": 9
+    },
+    {
+      "question": "What happens when at least one in five employees participate in an intervention?",
+      "answer": "A microsociety of participants forms, which starts changing the organization to become healthier.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the programme introduced by Audi in 2006?",
+      "answer": "Audi Checkup programme",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of Audi employees opt-in to the voluntary examination and preventive programme?",
+      "answer": "More than 90%",
+      "rating": 8
+    },
+    {
+      "question": "How many employees have taken part in Audi's Checkup programme since 2006?",
+      "answer": "More than 10,000",
+      "rating": 8
+    },
+    {
+      "question": "What is crucial for integrating employee health and well-being into core organizational strategies?",
+      "answer": "Robust information management and people and organization analytics approaches",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of respondents in a McKinsey global survey are regularly using generative AI in HR?",
+      "answer": "12%",
+      "rating": 8
+    },
+    {
+      "question": "What can be used to guide decision-making on effective interventions?",
+      "answer": "Predictive analysis using 'Big data'",
+      "rating": 8
+    },
+    {
+      "question": "How much did Experian save by using predictive workforce analytics over two years?",
+      "answer": "$14 million",
+      "rating": 8
+    },
+    {
+      "question": "Why did Experian initially struggle with high resignation rates?",
+      "answer": "Because they focused on recruitment and managing high resignation rates, resulting in decreased attention to workplace initiatives for the existing workforce.",
+      "rating": 7
+    },
+    {
+      "question": "What was the initial approach taken by Experian to tackle high resignation rates?",
+      "answer": "Experian initially focused on recruitment and simply managing the high resignation rates, resulting in decreased attention to workplace initiatives for the existing workforce.",
+      "rating": 9
+    },
+    {
+      "question": "How much did Experian save by reducing global attrition using predictive workforce analytics?",
+      "answer": "$14 million over two years.",
+      "rating": 9
+    },
+    {
+      "question": "What was used by Experian to develop a solution to reduce employee attrition?",
+      "answer": "HR data and in-house analytics capabilities.",
+      "rating": 8
+    },
+    {
+      "question": "How many employee attributes were analyzed by Experian's platform to assess the risk of employees leaving?",
+      "answer": "Up to 200 employee attributes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first principle suggested in the report to address employee health and well-being?",
+      "answer": "Understand the baseline and value at stake.",
+      "rating": 9
+    },
+    {
+      "question": "Why did Experian turn to data analytics?",
+      "answer": "Experian turned to data analytics to tackle high resignation rates.",
+      "rating": 8
+    },
+    {
+      "question": "What was the result of Experian using predictive workforce analytics?",
+      "answer": "Reducing global attrition by 4% and saving $14 million over two years.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first principle for creating a successful employee health and well-being intervention portfolio?",
+      "answer": "Understand the baseline and value at stake: start by assessing the baseline health status of employees through surveys and understand the potential value of revising a workforce strategy and the risks associated with doing nothing.",
+      "rating": 10
+    },
+    {
+      "question": "Why is a long-term approach necessary for achieving a sustainable healthy workforce?",
+      "answer": "One-off efforts will not build a healthy workforce; achieving sustainable results requires a long-term, systemic approach with high-quality, evidence-based interventions.",
+      "rating": 10
+    },
+    {
+      "question": "What is the purpose of piloting interventions?",
+      "answer": "To test and learn; set up pilot programmes to try out and refine strategies, allowing for targeted testing, continuous improvement, and learning from failures.",
+      "rating": 9
+    },
+    {
+      "question": "How many KPIs should be tracked to measure the success of employee health and well-being interventions?",
+      "answer": "Three to five KPIs that drive workforce health and organizational performance.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for real change to occur in employee health and well-being?",
+      "answer": "Leadership commitment and sponsorship; executives making employee health and well-being a strategic priority, setting the vision, holding themselves accountable, and integrating health and well-being into the core organizational strategy.",
+      "rating": 9
+    },
+    {
+      "question": "Who can be the sponsor of a well-being agenda in an organization?",
+      "answer": "The sponsor does not need to be the chief HR, people or medical officer; it can be another executive.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for executives to effectively sponsor a well-being agenda?",
+      "answer": "Executives need to be transparent in their communication, authentic in how they role model, and participate in health initiatives.",
+      "rating": 9
+    },
+    {
+      "question": "Why is having an executive sponsor outside of the traditional HR setting beneficial?",
+      "answer": "It demonstrates that well-being is for everyone and it's a shared responsibility.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of Ikea Canada's introduction of Wellness Days?",
+      "answer": "Employee turnover dropped from 35% to 24.5%.",
+      "rating": 10
+    },
+    {
+      "question": "What is necessary to create a sustainable and healthy workforce?",
+      "answer": "A systemic shift in organizational mindset and culture is required, embedding employee health into everyday work life.",
+      "rating": 9
+    },
+    {
+      "question": "Why are individual interventions like mental health apps and gym access not enough?",
+      "answer": "Systemic problems need to be addressed for interventions to be effective.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for employers to make interventions effective?",
+      "answer": "Employers must understand and proactively address employees\u2019 needs at the individual, team and organizational level.",
+      "rating": 9
+    },
+    {
+      "question": "What is the ideal portfolio of employee health and well-being interventions composed of?",
+      "answer": "The ideal portfolio aims to address both immediate needs (reactive) and root causes (proactive) and is made up of a complementary variety of interventions.",
+      "rating": 9
+    },
+    {
+      "question": "What are the two main factors that influence work and health-related outcomes?",
+      "answer": "Enablers and demands.",
+      "rating": 8
+    },
+    {
+      "question": "What are enablers in the context of employee health and well-being?",
+      "answer": "Aspects that can provide positive energy, such as meaningful work and psychological safety.",
+      "rating": 9
+    },
+    {
+      "question": "What type of interventions are associated with addressing burn-out symptoms?",
+      "answer": "Interventions that focus on eliminating toxic behaviours, making roles clearer and helping teams and team leaders reduce confusion and role conflict.",
+      "rating": 9
+    },
+    {
+      "question": "What are some examples of interventions that support holistic health?",
+      "answer": "Self-efficacy and adaptability training, purpose workshops, psychological-safety leadership and team training, workplace nutrition programmes, peer mentoring, job crafting and physical-activity nudges.",
+      "rating": 9
+    },
+    {
+      "question": "According to Figure 11, what is the proposed weighting of well-being interventions targeting the organizational level?",
+      "answer": "The proposed weighting is around 30% for organization-wide, 20% for team, 40% for job, and 10% for individual levels, although the exact distribution between 'Address effects \u201cReactive\u201d' and 'Address drivers \u201cProactive\u201d' is not specified in the question, the figure suggests a shift towards proactive measures at different organizational levels.",
+      "rating": 8
+    },
+    {
+      "question": "What are burn-out symptoms more strongly associated with?",
+      "answer": "Demands such as the employee experience of toxic workplace behaviour, role ambiguity and role conflict.",
+      "rating": 9
+    },
+    {
+      "question": "What is the best place for an organization to start addressing demands and building enablers for employees?",
+      "answer": "At the team and job levels.",
+      "rating": 7
+    },
+    {
+      "question": "Why are middle managers crucial to team health and well-being?",
+      "answer": "They serve as the link between leadership and employees.",
+      "rating": 9
+    },
+    {
+      "question": "What is the benefit of empowering and training middle managers to prioritize the health and well-being of their teams?",
+      "answer": "It can unlock employee growth and productivity.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of organizations with top-performing middle managers?",
+      "answer": "They generate 3 to 21 times more in total shareholder returns.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Vitality Programme's approach to employee well-being?",
+      "answer": "It comprises five pillars \u2013 physical, mental, social, financial and lifestyle \u2013 and features on-site health checks, mental health counselling, and incentives for healthier living.",
+      "rating": 9
+    },
+    {
+      "question": "What were the results of employees who were highly engaged with the Vitality Programme?",
+      "answer": "They lost 50% fewer days to presenteeism, recorded 28% fewer absences and took 46% less time to recover from sickness.",
+      "rating": 9
+    },
+    {
+      "question": "What is crucial for improving overall employee well-being?",
+      "answer": "Tailoring interventions according to the organization's uniqueness.",
+      "rating": 8
+    },
+    {
+      "question": "What is required to realize the full potential of their workforce?",
+      "answer": "Developing a strategic portfolio of health investments that address poor health and promote well-being.",
+      "rating": 8
+    },
+    {
+      "question": "What is the global economic value opportunity worth when investing in employee health?",
+      "answer": "17% to 55% of average annual pay per employee.",
+      "rating": 8
+    },
+    {
+      "question": "Why is investing in employee health and well-being considered an organizational imperative?",
+      "answer": "It is both an ethical obligation and a strategic organizational imperative with tangible returns.",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of the workplace in fostering holistic health?",
+      "answer": "The workplace plays a crucial role in fostering holistic health as more than 3.5 billion people dedicate a substantial portion of their lives to work.",
+      "rating": 9
+    },
+    {
+      "question": "What are the benefits for organizations that invest in employee health?",
+      "answer": "They are likely to reduce healthcare costs, enhance productivity, improve talent management, boost company performance and strengthen organizational resilience.",
+      "rating": 9
+    },
+    {
+      "question": "Why is a one-size-fits-all approach not effective in improving employee health?",
+      "answer": "Because disparities in holistic health and burn-out symptoms across various industries and demographics underscore the need for tailored interventions.",
+      "rating": 9
+    },
+    {
+      "question": "Who should work in partnership to improve employee health?",
+      "answer": "Employers and employees must work in partnership to improve health, as neither can achieve the best results on their own.",
+      "rating": 9
+    },
+    {
+      "question": "What is the recommended approach for leaders to address workforce health?",
+      "answer": "Leaders should take a strategic approach, committing to making smart investments that tackle both symptoms and root causes and measuring the impact of those investments over time.",
+      "rating": 9
+    },
+    {
+      "question": "What is required to improve health in the workplace?",
+      "answer": "Employers and employees must work in partnership to improve health, as neither can achieve the best results on their own.",
+      "rating": 9
+    },
+    {
+      "question": "What is the risk if employers do not help all employees achieve their full potential?",
+      "answer": "They risk limiting the health and well-being of their workforce, restricting their societal and economic contributions, and missing out on substantial value creation for their organization.",
+      "rating": 9
+    },
+    {
+      "question": "How can returns on investment in workforce health be evaluated?",
+      "answer": "Using customized metrics that extend beyond the traditional markers of sickness, absence, disease, safety and injury.",
+      "rating": 8
+    },
+    {
+      "question": "What is the four-step approach to building an investment case for workforce health?",
+      "answer": "Understanding the status of employee health and well-being within the organization, calculating the investment case opportunity, using pilot programmes to measure intervention effectiveness, and monitoring improvements over time.",
+      "rating": 9
+    },
+    {
+      "question": "How can advances in data analytics and artificial intelligence (AI) be used to improve workforce health?",
+      "answer": "To integrate health metrics into core organizational strategies, such as translating specific workplace safety information, customizing health-emergency protocols, or aggregating health tips and links into an employee newsletter.",
+      "rating": 8
+    },
+    {
+      "question": "What is the overall goal of prioritizing employee health according to the report?",
+      "answer": "To transform work into a source of life enhancement, unlock human potential and reap financial benefits, as creating a healthier workforce is a foundation of organizational performance and resilience.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main conclusion of the report regarding creating a healthier workforce?",
+      "answer": "Leaders should recognize that creating a healthier workforce is not an isolated goal but a foundation of organizational performance and resilience.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the contributors to the report 'Thriving Workplaces: How Employers can Improve Productivity and Change Lives'?",
+      "answer": "The contributors include World Economic Forum and McKinsey Health Institute, along with several individuals from McKinsey & Company and other organizations.",
+      "rating": 8
+    },
+    {
+      "question": "What is holistic health defined as?",
+      "answer": "Holistic health encompasses physical, mental, social and spiritual health.",
+      "rating": 9
+    },
+    {
+      "question": "What organizations are acknowledged for their valuable contributions to the development of the report?",
+      "answer": "The World Economic Forum and McKinsey & Company acknowledged the contributions of various experts from organizations such as On, Novo Nordisk, Asics, Wellhub, KU Leuven, Utrecht University, Kyan Health, Vitality, Bayer, and Swiss Re.",
+      "rating": 9
+    },
+    {
+      "question": "What is the basis of the calculation mentioned in endnote 3?",
+      "answer": "The calculation assumes an eight-hour day for 250 working days a year over 45 years.",
+      "rating": 10
+    },
+    {
+      "question": "What is the assumption used for calculating the total working hours in a year?",
+      "answer": "An eight-hour day for 250 working days a year over 45 years.",
+      "rating": 10
+    },
+    {
+      "question": "How is attrition defined according to Gartner?",
+      "answer": "The departure of employees from the organization for any reason (voluntary or involuntary), including resignation, termination, death or retirement.",
+      "rating": 10
+    },
+    {
+      "question": "What is absenteeism in the workplace?",
+      "answer": "Any failure to report for or remain at work as scheduled, regardless of the reason.",
+      "rating": 9
+    },
+    {
+      "question": "What is presenteeism according to the Cambridge Dictionary?",
+      "answer": "The act of staying at work longer than usual, or going to work when you are ill, to show that you work hard and are important to your employer.",
+      "rating": 9
+    },
+    {
+      "question": "How is productivity in the workplace defined?",
+      "answer": "The efficiency with which tasks and goals are accomplished at an organization, fostered through creativity and innovation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated annual cost of worker illness and injury to U.S. employers?",
+      "answer": "$225.8 Billion Annually.",
+      "rating": 8
+    },
+    {
+      "question": "What is the birth year range for Gen Z?",
+      "answer": "1996 and 2010.",
+      "rating": 7
+    },
+    {
+      "question": "What is the birth year range for Millennials?",
+      "answer": "1981 and 1995.",
+      "rating": 7
+    },
+    {
+      "question": "What is the birth year range for Gen X?",
+      "answer": "1965 and 1980.",
+      "rating": 8
+    },
+    {
+      "question": "What is the birth year range for Boomers?",
+      "answer": "1946 and 1964.",
+      "rating": 8
+    },
+    {
+      "question": "Why are generations referred to in the report?",
+      "answer": "For ease of reporting and pragmatism given that they are well-known with the audience of this report.",
+      "rating": 8
+    },
+    {
+      "question": "How is data on mental, physical, social, and spiritual health measured?",
+      "answer": "Data on mental, physical, social, and spiritual health represents the percentage of respondents scoring an average of four or more on a five-point scale (strongly disagree, disagree, neutral, agree, strongly agree) on items for each dimension.",
+      "rating": 9
+    },
+    {
+      "question": "What does the data on holistic health represent?",
+      "answer": "Data on holistic health represents the percentage of respondents scoring an average of four or more across all dimensions.",
+      "rating": 9
+    },
+    {
+      "question": "Why may responses to the self-assessment survey vary?",
+      "answer": "Responses may vary because the survey is based on self-assessment by individual employees and because individuals can, for example, be more likely to report symptoms of exhaustion rather than other aspects of burn-out symptoms, as the former may be more socially acceptable.",
+      "rating": 8
+    },
+    {
+      "question": "How is total holistic health data defined according to the World Health Organization (WHO)?",
+      "answer": "Total holistic health data represents the percentage of respondents who reported an average of four or more per sub-dimension or an average of four or more across the four dimensions of health.",
+      "rating": 8
+    },
+    {
+      "question": "What does data on burn-out symptoms represent?",
+      "answer": "Data on burn-out symptoms represent the percentage of respondents scoring an average of three or more across all four dimensions (12 items of the short-BAT).",
+      "rating": 9
+    },
+    {
+      "question": "How is burn-out defined in the context of employee health?",
+      "answer": "Burn-out refers to employees reporting burn-out symptoms, including the following: exhaustion, mental distance, cognitive impairment and emotional impairment, as measured by the Burn-out Assessment Tool (BAT).",
+      "rating": 10
+    },
+    {
+      "question": "Why may not all industries be included in the analysis?",
+      "answer": "Not all industries could be included in the analysis due to insufficient data points caused by, for example, low sample size.",
+      "rating": 8
+    },
+    {
+      "question": "What is the recommendation for organizations regarding their own data analysis?",
+      "answer": "It is recommended that organizations establish their own baseline measurements in context to identify potential opportunities for improvement.",
+      "rating": 9
+    },
+    {
+      "question": "Why may specific mental health issues not be immediately evident in the global data?",
+      "answer": "Since the focus here is on holistic health functioning and burn-out symptoms, specific mental health issues may not be immediately evident in the global data because outcomes and context can vary between groups and situations.",
+      "rating": 9
+    },
+    {
+      "question": "How many countries were surveyed in the analysis?",
+      "answer": "30 countries.",
+      "rating": 9
+    },
+    {
+      "question": "What were the six quota variables used to collect population-representative samples?",
+      "answer": "Age, gender, tertiary education, industry, position (blue collar versus white collar versus manager) and employer size (number of employees).",
+      "rating": 10
+    },
+    {
+      "question": "How was 'Lower education' defined in the survey?",
+      "answer": "No high school degree.",
+      "rating": 9
+    },
+    {
+      "question": "How was the 'Remuneration score' calculated?",
+      "answer": "Based on combined scoring of three statements, such as 'The pay I receive at my job is enough to cover my basic needs (e.g. housing, food, utilities, transport)'.",
+      "rating": 8
+    },
+    {
+      "question": "Were non-cisgender individuals analyzed separately in the survey?",
+      "answer": "No, the sample size was too small for a separate analysis.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of comparing overall health between cisgender men and non-cisgender individuals?",
+      "answer": "Cisgender men reported better overall health compared to non-cisgender individuals.",
+      "rating": 9
+    },
+    {
+      "question": "From which countries could data not be collected due to country restrictions?",
+      "answer": "Egypt, Indonesia, India, Nigeria, Saudi Arabia, South Africa, and the United Arab Emirates.",
+      "rating": 8
+    },
+    {
+      "question": "How was neurodivergent status determined in the survey?",
+      "answer": "Neurodivergent respondents self-identified as having a neurodevelopmental condition via the question \u201cHave you been diagnosed with a neurodevelopmental condition such as ASD, ADHD, dyslexia, dyspraxia, Tourette syndrome or any other neurodevelopmental condition?\u201d",
+      "rating": 9
+    },
+    {
+      "question": "What scale was used to measure self-efficacy?",
+      "answer": "The Schwarzer Generalized Self-Efficacy Scale was used to measure self-efficacy.",
+      "rating": 8
+    },
+    {
+      "question": "What does 'Drivers' mean in the context of the regression model?",
+      "answer": "'Drivers' means predictive correlations as tested in an extensive regression model, not causal relationships.",
+      "rating": 9
+    },
+    {
+      "question": "How was financial status measured?",
+      "answer": "Financial status was measured by the question: \u201cWhat best describes your financial situation?\u201d with possible answers including \u201cI face serious hardship\u201d, \u201cI can get by with current resources\u201d, \u201cI live comfortably but cannot afford to indulge\u201d, \u201cI can live comfortably and indulge in activities I like\u201d and \u201cPrefer not to answer\u201d.",
+      "rating": 9
+    },
+    {
+      "question": "What was the sample size for the age group 61 and older?",
+      "answer": "The sample size for the age group 61 and older was 1,068.",
+      "rating": 8
+    },
+    {
+      "question": "How was financial status measured in the McKinsey Health Institute study?",
+      "answer": "Financial status was measured by the question: 'What best describes your financial situation?' with possible answers being 'I face serious hardship', 'I can get by with current resources', 'I live comfortably but cannot afford to indulge', 'I can live comfortably and indulge in activities I like' and 'Prefer not to answer'.",
+      "rating": 9
+    },
+    {
+      "question": "What was considered low financial stability in the study?",
+      "answer": "Low financial stability is represented by a consistent combined agree/strongly agree score on five negatively framed items.",
+      "rating": 7
+    },
+    {
+      "question": "How was remuneration measured in the study?",
+      "answer": "Remuneration was measured with the combined scoring of three items: 'The pay I receive at my job is enough to cover my basic needs', 'My company pays me enough to feel financially secure' and 'My pay is sufficient to support myself and/or my family'.",
+      "rating": 9
+    },
+    {
+      "question": "What was considered poor financial status in the study?",
+      "answer": "Poor financial status were those respondents that chose: 'I face serious hardship'.",
+      "rating": 8
+    },
+    {
+      "question": "How was job insecurity measured in the study by Brassey, J. et al. (2023)?",
+      "answer": "Job insecurity was measured by respondents' responses to the question, 'I feel like there is a good chance I could lose my job'.",
+      "rating": 9
+    },
+    {
+      "question": "What role did respondents have to answer to describe their current role at their employer?",
+      "answer": "Respondents had to answer the question 'Which of the following best describes your current role at your employer?' with possible answers being front-line worker, individual contributor, frontline manager, middle management or upper management.",
+      "rating": 9
+    },
+    {
+      "question": "How was self-efficacy measured in the survey?",
+      "answer": "Self-efficacy was measured using three items of the Schwarzer Generalized Self-Efficacy Scale.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three components of adaptability?",
+      "answer": "Adaptability comprises three components: cognitive, affective, and behavioural.",
+      "rating": 9
+    },
+    {
+      "question": "How was the current role of employees measured?",
+      "answer": "Measured with the question 'Which of the following best describes your current role at your employer?' with possible answers being front-line worker, individual contributor, frontline manager, middle management, or upper management.",
+      "rating": 9
+    },
+    {
+      "question": "What does 'belonging' mean in the context of the workplace?",
+      "answer": "Belonging means that individuals report feeling connected with others at work and that they feel like they belong at their company.",
+      "rating": 8
+    },
+    {
+      "question": "What is the importance of the surveys used by companies?",
+      "answer": "What is important is that they are validated and based on high-quality evidence.",
+      "rating": 7
+    },
+    {
+      "question": "What type of leaders does the World Economic Forum engage?",
+      "answer": "The foremost political, business and other leaders of society.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of the World Economic Forum engaging leaders?",
+      "answer": "To shape global, regional and industry agendas.",
+      "rating": 8
+    },
+    {
+      "question": "Where is the World Economic Forum located?",
+      "answer": "91\u201393 route de la Capite, CH-1223 Cologny/Geneva, Switzerland.",
+      "rating": 9
+    },
+    {
+      "question": "How can one contact the World Economic Forum?",
+      "answer": "By calling +41 (0) 22 869 1212, faxing +41 (0) 22 786 2744, or emailing contact@weforum.org.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who published the report 'Thriving Workplaces: How Employers can Improve Productivity and Change Lives'?"
+      },
+      {
+        "role": "assistant",
+        "content": "World Economic Forum"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated global economic value of investing in holistic employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Almost $12 trillion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who collaborated with the World Economic Forum on this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey Health Institute"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the report, what is required for a radical health transformation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Collaborative effort across the public and private sectors"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the authors of the foreword in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shyam Bishen and Lucy P\u00e9rez"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential global economic value of investing in holistic employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Almost $12 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should organizations prioritize workforce health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investing in employee health can substantially increase economic returns, improve productivity, reduce absenteeism, lower healthcare costs, and heighten employee engagement and retention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees reported good holistic health in a McKinsey Health Institute survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "57%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the six 'evergreen' principles for employers to make a positive impact on workforce health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understand the baseline health status of employees and the value at stake, develop initiatives for a sustainable healthy workforce, pilot interventions to test and learn, track three to five metrics to measure success, ensure leadership commitment and sponsorship, and embed employee health into organizational culture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the suggested approach to developing a healthy workforce?"
+      },
+      {
+        "role": "assistant",
+        "content": "A portfolio approach \u2013 addressing ill health and promoting good health; supporting individuals; and creating healthier teams, jobs and organizational environments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the World Health Organization's definition of health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Health is 'more than the absence of disease or infirmity', including mental, physical, spiritual and social function."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many hours do working adults spend at work over their lifetime?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 90,000 hours (or about 45 years)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is investing in employee health considered a strategic necessity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because a healthy workforce is crucial for avoiding a potential crisis for health and business due to trends like an ageing population and escalating levels of burn-out."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the benefits of prioritizing employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "A healthier workforce can yield substantial returns, including more robust organizations, vibrant communities, and a healthier society."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What approach should organizations take to develop a healthy workforce?"
+      },
+      {
+        "role": "assistant",
+        "content": "A portfolio approach \u2013 addressing ill health and promoting good health; supporting individuals; and creating healthier teams, jobs and organizational environments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal of the report 'Thriving Workplaces: How Employers can Improve Productivity and Change Lives'?"
+      },
+      {
+        "role": "assistant",
+        "content": "To guide stakeholders on how to develop a healthy workforce and provide leaders with the tools and strategies necessary to implement effective health initiatives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main argument presented in the briefing for investing in employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investing in a healthy workforce delivers measurable performance gains and benefits for organizations and communities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many people globally will spend approximately 45 years of their lives at work?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 3.5 billion people."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated global economic value of investing in holistic employee health according to the McKinsey Health Institute?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between $3.7 trillion and $11.7 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of today's global disease burden is attributed to non-communicable diseases (NCDs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "69%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was one of the effects of the COVID-19 pandemic on employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "It accelerated and exacerbated long-standing corporate challenges to employee health and well-being, particularly employee mental health, with reports of burn-out rising to almost one in four."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated return on investment per person for investing in holistic employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,100 to $3,500 per person, or 17% to 55% of average annual pay."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of today's global disease burden is accounted for by non-communicable diseases (NCDs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "69%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated total opportunity value of enhancing productivity and reducing presenteeism?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2 trillion to $9 trillion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the total opportunity identified is attributed to enhancing productivity and reducing presenteeism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 54% and 77%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage could investing in employee health boost global GDP?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 4% and 12%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees in middle-income countries are estimated to benefit from workplace investment in health?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.5 billion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of deaths in low- and middle-income countries (LMICs) are due to premature deaths from non-communicable diseases?"
+      },
+      {
+        "role": "assistant",
+        "content": "80%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated total opportunity value created by initiatives that improve employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "The estimated total opportunity value is shown in Figure 1, with various aspects such as attrition (~$300-$600 billion), absenteeism (~$300 billion), presenteeism and productivity (~$2,100 billion), retention (~$900 billion), and attraction (~$300-$600 billion)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much could investing in employee health boost global GDP?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investing in employee health could boost global GDP by between 4% and 12%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated number of employees who would benefit from workplace health investments in middle-income countries compared to high-income countries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Middle-income countries have up to four times as many employees who would benefit, with an estimated 2.5 billion employees compared to 636 million employees in high-income countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of deaths in low- and middle-income countries (LMICs) are due to non-communicable diseases?"
+      },
+      {
+        "role": "assistant",
+        "content": "Premature deaths due to non-communicable diseases account for 80% of deaths in LMICs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total economic value opportunity of investing in healthy workforces in high-, middle-, and low-income countries?"
+      },
+      {
+        "role": "assistant",
+        "content": "The total economic value opportunity is shown in Figure 2, with a range of 4-12% of global GDP, which translates to $3.7-$11.7 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated annual cost of absenteeism to employers in the United States?"
+      },
+      {
+        "role": "assistant",
+        "content": "$226 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated additional annual cost per employee with untreated insomnia compared to those without insomnia?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2,280."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are healthcare costs expected to grow globally?"
+      },
+      {
+        "role": "assistant",
+        "content": "Total healthcare costs are expected to continue growing because of cost pressures such as those related to an ageing population."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated economic opportunity of investing in healthy workforces for Company A?"
+      },
+      {
+        "role": "assistant",
+        "content": "~$114-365 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors contribute to the estimated $2,280 additional annual cost per employee with untreated insomnia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Factors such as absenteeism, presenteeism, diminished performance, and higher rates of accidents and injuries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are direct healthcare costs excluded from the analysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Direct healthcare costs are excluded as these are only relevant to employment in select countries (e.g. USA), and costs vary widely country to country."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal for countries with increasing pressure on healthcare budgets?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal will likely be to maintain quality and accessibility across health systems while controlling costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a government-mandated program to tackle work-related mental health disorders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Japan introduced the Stress Check Programme in 2015, which requires workplaces with more than 50 employees to offer an annual stress survey and to facilitate consultations with a physician for those with high stress levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can employers support employee health without shouldering the burden alone?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employers can benefit from the expertise, infrastructure and goals of public health stakeholders through partnerships, especially as these stakeholders may offer referral pathways."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the correlation between employee well-being interventions and productivity improvements?"
+      },
+      {
+        "role": "assistant",
+        "content": "The literature demonstrates a correlation between employee well-being interventions and productivity improvements of between 10% and 21%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did a University of Oxford study find regarding the productivity of happier employees in a call centre?"
+      },
+      {
+        "role": "assistant",
+        "content": "Happier employees in a call centre were 13% more productive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the correlation between employee well-being interventions and productivity improvements?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 10% and 21%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much lower are employee turnover rates in companies that foster a 'culture of health'?"
+      },
+      {
+        "role": "assistant",
+        "content": "11 percentage points lower."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the global workforce is expected to be over 50 years old by 2050?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 30%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors do employees, especially younger generations, consider when choosing an employer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Factors contributing to their well-being, such as mental and physical health, work-life balance, and job satisfaction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was identified as a meaningful factor in employee resignations in a recent MIT study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Toxic culture at the top of a workplace."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Chilean Safety Association (ACHS) in deploying mental health initiatives?"
+      },
+      {
+        "role": "assistant",
+        "content": "To create healthier communities with healthier families and ultimately, healthier workers, improving companies' climate and productivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many workers are covered by the mental health initiatives deployed by the Chilean Safety Association (ACHS)?"
+      },
+      {
+        "role": "assistant",
+        "content": "3 million workers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between employee well-being and an organization's financial success according to research from the University of Oxford?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies with higher well-being scores consistently achieve greater valuations, higher profits and superior returns on assets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the increase in annual profits associated with a one-point increase in employee happiness scores?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.39 billion to $2.29 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the 'Well-being 100' stock portfolio performed compared to major stock market indices since the start of 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'Well-being 100' stock portfolio has significantly outperformed major stock market indices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a healthier workforce considered more resilient and adaptive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it is better capable of navigating the uncertainties and challenges of a rapidly changing world, adjusting to new roles and technologies, and continuously upskilling and adapting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of ESG criteria in delivering business value?"
+      },
+      {
+        "role": "assistant",
+        "content": "ESG criteria help to enhance revenue growth, reduce risks, minimize regulatory intervention and increase loyalty and productivity among employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the benefits of Environmental, Social, and Governance (ESG) criteria in business?"
+      },
+      {
+        "role": "assistant",
+        "content": "ESG criteria help to enhance revenue growth, reduce risks, minimize regulatory intervention, and increase loyalty and productivity among employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is gaining consideration within the ESG agenda?"
+      },
+      {
+        "role": "assistant",
+        "content": "The social pillar, which guides how companies manage relationships with customers, suppliers, communities, and employees, is gaining consideration."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are companies listed on the S&P 500 Index assessed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies listed on the S&P 500 Index are assessed not only on financial metrics but also on employee factors, such as job satisfaction, happiness, stress, and purpose at work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the trend in regulatory pressures regarding employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regulatory pressures are mounting as governing bodies increasingly recognize the importance of employee health and well-being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of non-compliance with workplace health and safety regulations in the US?"
+      },
+      {
+        "role": "assistant",
+        "content": "Non-compliance can lead to hefty fines, lawsuits, and reputational damage, with penalties increased to $15,624 per violation in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of prioritizing employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Prioritizing employee health and well-being can unlock substantial performance gains, achieve a healthier, more adaptable, and more resilient workforce, and drive positive change in organizations and communities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expectation from consumers, employees, and communities regarding labour practices and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is an increasing expectation that organizations should be transparent about labour practices, diversity and inclusion, mental health support, and work-life balance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence for companies that fail to meet employee and customer expectations?"
+      },
+      {
+        "role": "assistant",
+        "content": "They risk losing their reputation and trust among employees and customers alike."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can employers achieve by prioritizing employee and health well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can unlock substantial performance gains, achieve a healthier, more adaptable and more resilient workforce, and drive positive change in their organizations and communities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees globally reported good holistic health according to the 2023 McKinsey Health Institute survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "57%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees were 'faring well' according to the 2023 McKinsey Health Institute survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "49%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In what percentage of industries surveyed did more than a third of employees report burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "10%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is described as the ultimate productivity multiplier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Well-being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In how many industries did more than 20% of employees report being burned out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two-thirds of the industries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which industries reported higher rates of burn-out symptoms and lower rates of holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Accounting, retail, agriculture/forestry/fishing/livestock, shipping/distribution, and arts/media/entertainment/recreation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which industries reported good holistic health and low burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Human resources, construction, administrative and support services, education, and engineering/architecture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the global average percentage of employees faring well across all industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "49%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the global average percentage of employees reporting high holistic health across all industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "57%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the global average percentage of employees reporting high burn-out symptoms across all industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "22%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the global average percentage of respondents faring well across all industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "49%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the global average percentage of respondents reporting high holistic health across all industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "57%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the global average percentage of respondents reporting high burn-out symptoms across all industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "22%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which industry has the highest percentage of respondents reporting high holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Military with 76%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which industry has the lowest percentage of respondents faring well?"
+      },
+      {
+        "role": "assistant",
+        "content": "Waste management with 17%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents in the Agriculture/forestry/fishing/livestock industry reported high burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "27%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees were surveyed by the McKinsey Health Institute in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 30,000 employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In how many countries was the survey conducted?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the finding regarding the health of front-line workers compared to managers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The health of front-line workers is generally worse than that of managers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which demographic groups reported lower holistic health and higher burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Respondents who self-identified as women, LGBTQI+, lacking a high school diploma, neurodivergent or low-income."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much more likely were women to report exhaustion symptoms compared to men?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 percentage points more likely."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of the data analysis regarding global trends explaining industry performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data analysis did not reveal clear global trends explaining why certain industries outperform others."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated annual boost to the global economy by 2040 if access to treatments and care for endometriosis and menopause is improved?"
+      },
+      {
+        "role": "assistant",
+        "content": "$130 billion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do women and men compare in terms of overall health outcomes according to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Men and women report overall similar health outcomes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of LGBTQI+ individuals reported high holistic health compared to heterosexuals?"
+      },
+      {
+        "role": "assistant",
+        "content": "46% of LGBTQI+ individuals reported high holistic health compared to 55% of heterosexuals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do neurodivergent employees compare to neurotypical peers in terms of faring well scores in holistic health and burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neurodivergent employees were 24 percentage points less likely to report faring well scores (27% versus 51% for neurotypical)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of neurodivergent employees reported faring well in terms of holistic health and burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "27%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much less likely were neurodivergent employees to report faring well compared to neurotypical peers?"
+      },
+      {
+        "role": "assistant",
+        "content": "24 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the youngest workers (aged 18 to 28) reported burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "27%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the top two predictors for holistic health for both the oldest and youngest working generations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Self-efficacy and meaning"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects younger employees most strongly in terms of burn-out?"
+      },
+      {
+        "role": "assistant",
+        "content": "A toxic workplace environment"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the global population is estimated to be neurodivergent?"
+      },
+      {
+        "role": "assistant",
+        "content": "~5%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the top two predictors for holistic health for both Gen Z and Boomers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Self-efficacy and meaning."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects older workers most strongly in terms of burn-out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Role ambiguity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What affects younger employees and the overall global cohort most strongly in terms of burn-out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Toxic workplace environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the correlation between educational level and reported holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "College- or graduate-level education correlates with reported higher holistic health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the likelihood of reporting good holistic health compare between individuals without a high school diploma and those with graduate degrees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Individuals without a high school diploma were 20 percentage points less likely to report good holistic health compared to those with graduate degrees (50% versus 70%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of employers in helping employees adapt to longer lifespans?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employers play a crucial role in helping employees adapt to longer lifespans by fostering age-diverse workplaces and developing products that meet the needs of younger and older employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of individuals with poor financial status reported good holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "41%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does job insecurity affect mental health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Job insecurity leads to adverse effects in mental health, including depression, anxiety, and burn-out."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between remuneration and holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Remuneration is positively correlated with holistic health. People reporting positively on remuneration were 30 percentage points more likely to report higher holistic health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of caregivers reported higher burn-out symptoms compared to non-caregivers?"
+      },
+      {
+        "role": "assistant",
+        "content": "37% of caregivers reported higher burn-out symptoms compared to 20% of non-caregivers, a difference of 17 percentage points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the top three factors associated with positive holistic health for managers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The top three factors associated with positive holistic health for managers are self-efficacy, meaning, and belonging."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does education level affect holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Individuals without a high school diploma were 20 percentage points less likely to report good holistic health compared to those with graduate degrees (50% versus 70%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of upper management reported good holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "80% of upper management reported good holistic health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the global average for high burn-out symptoms reports?"
+      },
+      {
+        "role": "assistant",
+        "content": "The global average for high burn-out symptoms reports is 22%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of caregivers reported higher holistic health compared to the global average?"
+      },
+      {
+        "role": "assistant",
+        "content": "61% of caregivers reported higher holistic health compared to the global average of 57%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are caregivers more likely to report higher burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, caregivers were 17 percentage points more likely to report higher burn-out symptoms (37% versus 20% for non-caregivers)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of surveyed employees were caregivers of children?"
+      },
+      {
+        "role": "assistant",
+        "content": "Approximately 50% of the surveyed employees were caregivers of children."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do men and women who take care of children report different burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, men who take care of children reported slightly lower burn-out symptoms compared to non-child caregivers, while women who take care of children experience higher exhaustion than their male counterparts (43% versus 35% for male caregivers)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason women stop working despite wanting to continue, according to a Harvard Business School report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half of women who stopped working, despite wanting to continue, did so because they could not combine their career with their caregiving responsibilities for their children."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What approach do leaders need to take to enhance holistic health and reduce burn-out among employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leaders must recognize and address the varying needs of different groups and develop targeted interventions, possibly involving greater autonomy and empowerment for teams and individuals to manage their work and resources effectively."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it important for employers and employees to work in partnership to improve health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because neither can realize the full benefits on their own."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk for employers who are not helping every member of their workforce achieve their full potential?"
+      },
+      {
+        "role": "assistant",
+        "content": "Affecting the health and well-being of their employees, limiting their societal and economic contributions and missing substantial value creation for their organization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the return on investment in employee health be measured?"
+      },
+      {
+        "role": "assistant",
+        "content": "With tailored metrics that go beyond traditional sickness absence, safety and injury statistics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is there no single KPI for measuring the impact of employee health and well-being investment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because every industry or organization has its own unique characteristics, meaning metrics should be tailored to each organization\u2019s specific needs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of assessed companies conduct employee surveys with a core focus on health and well-being, according to an S&P Global Corporate Sustainability Assessment?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.2%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four drivers that can be used by any organization to calculate their investment case opportunity for employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employee output, talent management optimization, healthcare cost savings and ability to attract investment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four value drivers that organizations can use to calculate their investment case opportunity for employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employee output, talent management optimization, healthcare cost savings, and ability to attract investment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can employee output be calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "As a combination of productivity, absenteeism, and presenteeism."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some example metrics for measuring employee output?"
+      },
+      {
+        "role": "assistant",
+        "content": "Efficiency of completing tasks, innovation rates, sales increase, customer service sentiment, number of workdays lost to sickness, and lost time caused by physically present employees working at reduced levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential benefit of offering free flu shots to employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lower absentee rates, with a potential saving of $10.82 per vaccinated employee per year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can developing a strong employee value proposition impact business performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "By enhancing talent attraction and retention, minimizing employee turnover, and resulting in employees with longer tenure having between 12% and 30% higher output than newer employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some example metrics for measuring talent management optimization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Average tenure (retention), days required from job posting to hire (attraction), and involuntary attrition (turnover)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are direct healthcare costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Costs that include what an employee pays when seeking healthcare, what the employer covers under any employer-sponsored insurance, and any costs associated with work-related injuries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are direct healthcare costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "These include what an employee pays when seeking healthcare, what the employer covers under any employer-sponsored insurance and any costs associated with work-related injuries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why might an organization highlight good employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "An organization that highlights good employee health and well-being as part of its culture and value proposition may make itself more attractive to investors, customers and partners, referred to as an ESG premium."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Can organizations include contractors and suppliers in their investment cases?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, some organizations may also choose to include the impact on contractors and suppliers within their investment cases."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can executives in global organizations expand interventions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employers can consider how to expand interventions in ways that benefit employees both within their organizations and within the broader local community, such as investing in widescale health education outreach."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a company that supports health education outreach?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bayer is introducing access to health and nutrition education for members of their value chain (including farmers) in India, Indonesia and Mexico."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to build an effective investment case?"
+      },
+      {
+        "role": "assistant",
+        "content": "Estimates need to assess the value of making the investment (costs avoided and benefits gained) versus the cost of the intervention required to address the issue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of company-specific KPIs for measuring productivity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples include increase in number of hours worked/total revenue or profit, increase in total revenue or profit/FTE, and increase in percentage of employees achieving targets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of absenteeism?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any failure to report for or remain at work as scheduled, regardless of the reason."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is unwanted attrition?"
+      },
+      {
+        "role": "assistant",
+        "content": "An organization's inability to prevent employee turnover, measured by percentage rate of unwanted turnover due to being unhealthy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Novo Nordisk's employees reported symptoms of stress in the 2023 survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 14% of the company's 64,000 employees reported symptoms of stress."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of stronger support interventions at Novo Nordisk?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 20% to 30% decline in the number of employees reporting symptoms of stress one to two years after the intervention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the ROI achieved by On through their employee health intervention?"
+      },
+      {
+        "role": "assistant",
+        "content": "11.6x ROI annually ($2.9 million)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the components of On's employee health intervention?"
+      },
+      {
+        "role": "assistant",
+        "content": "A self-care library (including mediation, relaxation and breathing practices), 12 coaching sessions and internal well-being workshops."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees at On created accounts for the health intervention?"
+      },
+      {
+        "role": "assistant",
+        "content": "1,240 employees, representing an approximate 50% uptake."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the productivity gains achieved by On due to the intervention?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.3 million productivity gains due to 5% improvement in presenteeism related productivity loss."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the approximate uptake of the intervention launched in 2022 among employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "50%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did the company gain annually due to the intervention launched in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2.9 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the components of the $2.9 million annual gain?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.3 million productivity gains, $1.1 million driven by reduction in voluntary attrition, and $0.5 million reduction in HR costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the ROI of the intervention launched in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "11.6x."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the focus of Swiss Re's metabolic health programme?"
+      },
+      {
+        "role": "assistant",
+        "content": "Optimizing the metabolic health of their 1,100 UK employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the outcomes of Swiss Re's metabolic health programme for high-risk participants?"
+      },
+      {
+        "role": "assistant",
+        "content": "6% body weight loss, 20% improvement in blood fat profile, and 50% improvement in well-being, sleep and diet quality."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the initiative funded by Novartis Foundation in Dakar, Senegal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Better Hearts Better Cities initiative to improve cardiovascular health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees were reached by the Novartis Foundation's initiative in Dakar, Senegal?"
+      },
+      {
+        "role": "assistant",
+        "content": "36,000 employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of the Novartis Foundation's initiative in terms of hypertension screening?"
+      },
+      {
+        "role": "assistant",
+        "content": "21,000 employees were screened."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the outcome of hypertension screening for 21,000 employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Improved blood pressure for 34% to 39% of employees in six months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do organizations use pilots to test interventions?"
+      },
+      {
+        "role": "assistant",
+        "content": "To test interventions on a small scale before full implementation, helping to justify investments and refine interventions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What metrics can be used to measure the success of an intervention?"
+      },
+      {
+        "role": "assistant",
+        "content": "Metrics such as adoption rate, direct impact on employee health and well-being, distress levels and burn-out symptoms, cost analysis, and ROI."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of ASICS' Movement for Mind intervention pilot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Clinically significant improvements in mental well-being, low mood, and anxiety, with 71% of participants feeling happier and 70% reporting being more active."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when adoption rates of employee health and well-being interventions exceed 20% to 25%?"
+      },
+      {
+        "role": "assistant",
+        "content": "Interventions tend to be self-reinforcing, with a microsociety of participants forming and changing the organization to become healthier."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Wellhub's study suggest fostering a healthy workforce culture could impact adoption rates?"
+      },
+      {
+        "role": "assistant",
+        "content": "By up to 12 times compared to simply offering the intervention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what adoption rate do interventions tend to be self-reinforcing?"
+      },
+      {
+        "role": "assistant",
+        "content": "20% to 25%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when at least one in five employees participate in an intervention?"
+      },
+      {
+        "role": "assistant",
+        "content": "A microsociety of participants forms, which starts changing the organization to become healthier."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the programme introduced by Audi in 2006?"
+      },
+      {
+        "role": "assistant",
+        "content": "Audi Checkup programme"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Audi employees opt-in to the voluntary examination and preventive programme?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 90%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees have taken part in Audi's Checkup programme since 2006?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 10,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is crucial for integrating employee health and well-being into core organizational strategies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Robust information management and people and organization analytics approaches"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents in a McKinsey global survey are regularly using generative AI in HR?"
+      },
+      {
+        "role": "assistant",
+        "content": "12%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What can be used to guide decision-making on effective interventions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Predictive analysis using 'Big data'"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did Experian save by using predictive workforce analytics over two years?"
+      },
+      {
+        "role": "assistant",
+        "content": "$14 million"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Experian initially struggle with high resignation rates?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because they focused on recruitment and managing high resignation rates, resulting in decreased attention to workplace initiatives for the existing workforce."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the initial approach taken by Experian to tackle high resignation rates?"
+      },
+      {
+        "role": "assistant",
+        "content": "Experian initially focused on recruitment and simply managing the high resignation rates, resulting in decreased attention to workplace initiatives for the existing workforce."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did Experian save by reducing global attrition using predictive workforce analytics?"
+      },
+      {
+        "role": "assistant",
+        "content": "$14 million over two years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was used by Experian to develop a solution to reduce employee attrition?"
+      },
+      {
+        "role": "assistant",
+        "content": "HR data and in-house analytics capabilities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employee attributes were analyzed by Experian's platform to assess the risk of employees leaving?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 200 employee attributes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first principle suggested in the report to address employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understand the baseline and value at stake."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Experian turn to data analytics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Experian turned to data analytics to tackle high resignation rates."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of Experian using predictive workforce analytics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reducing global attrition by 4% and saving $14 million over two years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first principle for creating a successful employee health and well-being intervention portfolio?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understand the baseline and value at stake: start by assessing the baseline health status of employees through surveys and understand the potential value of revising a workforce strategy and the risks associated with doing nothing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a long-term approach necessary for achieving a sustainable healthy workforce?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-off efforts will not build a healthy workforce; achieving sustainable results requires a long-term, systemic approach with high-quality, evidence-based interventions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of piloting interventions?"
+      },
+      {
+        "role": "assistant",
+        "content": "To test and learn; set up pilot programmes to try out and refine strategies, allowing for targeted testing, continuous improvement, and learning from failures."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many KPIs should be tracked to measure the success of employee health and well-being interventions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three to five KPIs that drive workforce health and organizational performance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for real change to occur in employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leadership commitment and sponsorship; executives making employee health and well-being a strategic priority, setting the vision, holding themselves accountable, and integrating health and well-being into the core organizational strategy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who can be the sponsor of a well-being agenda in an organization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sponsor does not need to be the chief HR, people or medical officer; it can be another executive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for executives to effectively sponsor a well-being agenda?"
+      },
+      {
+        "role": "assistant",
+        "content": "Executives need to be transparent in their communication, authentic in how they role model, and participate in health initiatives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is having an executive sponsor outside of the traditional HR setting beneficial?"
+      },
+      {
+        "role": "assistant",
+        "content": "It demonstrates that well-being is for everyone and it's a shared responsibility."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of Ikea Canada's introduction of Wellness Days?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employee turnover dropped from 35% to 24.5%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is necessary to create a sustainable and healthy workforce?"
+      },
+      {
+        "role": "assistant",
+        "content": "A systemic shift in organizational mindset and culture is required, embedding employee health into everyday work life."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are individual interventions like mental health apps and gym access not enough?"
+      },
+      {
+        "role": "assistant",
+        "content": "Systemic problems need to be addressed for interventions to be effective."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for employers to make interventions effective?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employers must understand and proactively address employees\u2019 needs at the individual, team and organizational level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ideal portfolio of employee health and well-being interventions composed of?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ideal portfolio aims to address both immediate needs (reactive) and root causes (proactive) and is made up of a complementary variety of interventions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two main factors that influence work and health-related outcomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Enablers and demands."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are enablers in the context of employee health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aspects that can provide positive energy, such as meaningful work and psychological safety."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of interventions are associated with addressing burn-out symptoms?"
+      },
+      {
+        "role": "assistant",
+        "content": "Interventions that focus on eliminating toxic behaviours, making roles clearer and helping teams and team leaders reduce confusion and role conflict."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some examples of interventions that support holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Self-efficacy and adaptability training, purpose workshops, psychological-safety leadership and team training, workplace nutrition programmes, peer mentoring, job crafting and physical-activity nudges."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to Figure 11, what is the proposed weighting of well-being interventions targeting the organizational level?"
+      },
+      {
+        "role": "assistant",
+        "content": "The proposed weighting is around 30% for organization-wide, 20% for team, 40% for job, and 10% for individual levels, although the exact distribution between 'Address effects \u201cReactive\u201d' and 'Address drivers \u201cProactive\u201d' is not specified in the question, the figure suggests a shift towards proactive measures at different organizational levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are burn-out symptoms more strongly associated with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Demands such as the employee experience of toxic workplace behaviour, role ambiguity and role conflict."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the best place for an organization to start addressing demands and building enablers for employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the team and job levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are middle managers crucial to team health and well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "They serve as the link between leadership and employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of empowering and training middle managers to prioritize the health and well-being of their teams?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can unlock employee growth and productivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of organizations with top-performing middle managers?"
+      },
+      {
+        "role": "assistant",
+        "content": "They generate 3 to 21 times more in total shareholder returns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Vitality Programme's approach to employee well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "It comprises five pillars \u2013 physical, mental, social, financial and lifestyle \u2013 and features on-site health checks, mental health counselling, and incentives for healthier living."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the results of employees who were highly engaged with the Vitality Programme?"
+      },
+      {
+        "role": "assistant",
+        "content": "They lost 50% fewer days to presenteeism, recorded 28% fewer absences and took 46% less time to recover from sickness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is crucial for improving overall employee well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tailoring interventions according to the organization's uniqueness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to realize the full potential of their workforce?"
+      },
+      {
+        "role": "assistant",
+        "content": "Developing a strategic portfolio of health investments that address poor health and promote well-being."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the global economic value opportunity worth when investing in employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "17% to 55% of average annual pay per employee."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is investing in employee health and well-being considered an organizational imperative?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is both an ethical obligation and a strategic organizational imperative with tangible returns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of the workplace in fostering holistic health?"
+      },
+      {
+        "role": "assistant",
+        "content": "The workplace plays a crucial role in fostering holistic health as more than 3.5 billion people dedicate a substantial portion of their lives to work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the benefits for organizations that invest in employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are likely to reduce healthcare costs, enhance productivity, improve talent management, boost company performance and strengthen organizational resilience."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a one-size-fits-all approach not effective in improving employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because disparities in holistic health and burn-out symptoms across various industries and demographics underscore the need for tailored interventions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who should work in partnership to improve employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employers and employees must work in partnership to improve health, as neither can achieve the best results on their own."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach for leaders to address workforce health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leaders should take a strategic approach, committing to making smart investments that tackle both symptoms and root causes and measuring the impact of those investments over time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to improve health in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employers and employees must work in partnership to improve health, as neither can achieve the best results on their own."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the risk if employers do not help all employees achieve their full potential?"
+      },
+      {
+        "role": "assistant",
+        "content": "They risk limiting the health and well-being of their workforce, restricting their societal and economic contributions, and missing out on substantial value creation for their organization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can returns on investment in workforce health be evaluated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using customized metrics that extend beyond the traditional markers of sickness, absence, disease, safety and injury."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the four-step approach to building an investment case for workforce health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Understanding the status of employee health and well-being within the organization, calculating the investment case opportunity, using pilot programmes to measure intervention effectiveness, and monitoring improvements over time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can advances in data analytics and artificial intelligence (AI) be used to improve workforce health?"
+      },
+      {
+        "role": "assistant",
+        "content": "To integrate health metrics into core organizational strategies, such as translating specific workplace safety information, customizing health-emergency protocols, or aggregating health tips and links into an employee newsletter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the overall goal of prioritizing employee health according to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "To transform work into a source of life enhancement, unlock human potential and reap financial benefits, as creating a healthier workforce is a foundation of organizational performance and resilience."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main conclusion of the report regarding creating a healthier workforce?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leaders should recognize that creating a healthier workforce is not an isolated goal but a foundation of organizational performance and resilience."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the contributors to the report 'Thriving Workplaces: How Employers can Improve Productivity and Change Lives'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The contributors include World Economic Forum and McKinsey Health Institute, along with several individuals from McKinsey & Company and other organizations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is holistic health defined as?"
+      },
+      {
+        "role": "assistant",
+        "content": "Holistic health encompasses physical, mental, social and spiritual health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What organizations are acknowledged for their valuable contributions to the development of the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The World Economic Forum and McKinsey & Company acknowledged the contributions of various experts from organizations such as On, Novo Nordisk, Asics, Wellhub, KU Leuven, Utrecht University, Kyan Health, Vitality, Bayer, and Swiss Re."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the basis of the calculation mentioned in endnote 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "The calculation assumes an eight-hour day for 250 working days a year over 45 years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumption used for calculating the total working hours in a year?"
+      },
+      {
+        "role": "assistant",
+        "content": "An eight-hour day for 250 working days a year over 45 years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is attrition defined according to Gartner?"
+      },
+      {
+        "role": "assistant",
+        "content": "The departure of employees from the organization for any reason (voluntary or involuntary), including resignation, termination, death or retirement."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is absenteeism in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Any failure to report for or remain at work as scheduled, regardless of the reason."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is presenteeism according to the Cambridge Dictionary?"
+      },
+      {
+        "role": "assistant",
+        "content": "The act of staying at work longer than usual, or going to work when you are ill, to show that you work hard and are important to your employer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is productivity in the workplace defined?"
+      },
+      {
+        "role": "assistant",
+        "content": "The efficiency with which tasks and goals are accomplished at an organization, fostered through creativity and innovation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated annual cost of worker illness and injury to U.S. employers?"
+      },
+      {
+        "role": "assistant",
+        "content": "$225.8 Billion Annually."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the birth year range for Gen Z?"
+      },
+      {
+        "role": "assistant",
+        "content": "1996 and 2010."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the birth year range for Millennials?"
+      },
+      {
+        "role": "assistant",
+        "content": "1981 and 1995."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the birth year range for Gen X?"
+      },
+      {
+        "role": "assistant",
+        "content": "1965 and 1980."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the birth year range for Boomers?"
+      },
+      {
+        "role": "assistant",
+        "content": "1946 and 1964."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are generations referred to in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "For ease of reporting and pragmatism given that they are well-known with the audience of this report."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is data on mental, physical, social, and spiritual health measured?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data on mental, physical, social, and spiritual health represents the percentage of respondents scoring an average of four or more on a five-point scale (strongly disagree, disagree, neutral, agree, strongly agree) on items for each dimension."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the data on holistic health represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data on holistic health represents the percentage of respondents scoring an average of four or more across all dimensions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why may responses to the self-assessment survey vary?"
+      },
+      {
+        "role": "assistant",
+        "content": "Responses may vary because the survey is based on self-assessment by individual employees and because individuals can, for example, be more likely to report symptoms of exhaustion rather than other aspects of burn-out symptoms, as the former may be more socially acceptable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is total holistic health data defined according to the World Health Organization (WHO)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Total holistic health data represents the percentage of respondents who reported an average of four or more per sub-dimension or an average of four or more across the four dimensions of health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does data on burn-out symptoms represent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data on burn-out symptoms represent the percentage of respondents scoring an average of three or more across all four dimensions (12 items of the short-BAT)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is burn-out defined in the context of employee health?"
+      },
+      {
+        "role": "assistant",
+        "content": "Burn-out refers to employees reporting burn-out symptoms, including the following: exhaustion, mental distance, cognitive impairment and emotional impairment, as measured by the Burn-out Assessment Tool (BAT)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why may not all industries be included in the analysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not all industries could be included in the analysis due to insufficient data points caused by, for example, low sample size."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommendation for organizations regarding their own data analysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is recommended that organizations establish their own baseline measurements in context to identify potential opportunities for improvement."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why may specific mental health issues not be immediately evident in the global data?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since the focus here is on holistic health functioning and burn-out symptoms, specific mental health issues may not be immediately evident in the global data because outcomes and context can vary between groups and situations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many countries were surveyed in the analysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the six quota variables used to collect population-representative samples?"
+      },
+      {
+        "role": "assistant",
+        "content": "Age, gender, tertiary education, industry, position (blue collar versus white collar versus manager) and employer size (number of employees)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was 'Lower education' defined in the survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "No high school degree."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was the 'Remuneration score' calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Based on combined scoring of three statements, such as 'The pay I receive at my job is enough to cover my basic needs (e.g. housing, food, utilities, transport)'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Were non-cisgender individuals analyzed separately in the survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, the sample size was too small for a separate analysis."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of comparing overall health between cisgender men and non-cisgender individuals?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cisgender men reported better overall health compared to non-cisgender individuals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "From which countries could data not be collected due to country restrictions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Egypt, Indonesia, India, Nigeria, Saudi Arabia, South Africa, and the United Arab Emirates."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was neurodivergent status determined in the survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neurodivergent respondents self-identified as having a neurodevelopmental condition via the question \u201cHave you been diagnosed with a neurodevelopmental condition such as ASD, ADHD, dyslexia, dyspraxia, Tourette syndrome or any other neurodevelopmental condition?\u201d"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What scale was used to measure self-efficacy?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Schwarzer Generalized Self-Efficacy Scale was used to measure self-efficacy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Drivers' mean in the context of the regression model?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Drivers' means predictive correlations as tested in an extensive regression model, not causal relationships."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was financial status measured?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial status was measured by the question: \u201cWhat best describes your financial situation?\u201d with possible answers including \u201cI face serious hardship\u201d, \u201cI can get by with current resources\u201d, \u201cI live comfortably but cannot afford to indulge\u201d, \u201cI can live comfortably and indulge in activities I like\u201d and \u201cPrefer not to answer\u201d."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the sample size for the age group 61 and older?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sample size for the age group 61 and older was 1,068."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was financial status measured in the McKinsey Health Institute study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial status was measured by the question: 'What best describes your financial situation?' with possible answers being 'I face serious hardship', 'I can get by with current resources', 'I live comfortably but cannot afford to indulge', 'I can live comfortably and indulge in activities I like' and 'Prefer not to answer'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was considered low financial stability in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Low financial stability is represented by a consistent combined agree/strongly agree score on five negatively framed items."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was remuneration measured in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Remuneration was measured with the combined scoring of three items: 'The pay I receive at my job is enough to cover my basic needs', 'My company pays me enough to feel financially secure' and 'My pay is sufficient to support myself and/or my family'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was considered poor financial status in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Poor financial status were those respondents that chose: 'I face serious hardship'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was job insecurity measured in the study by Brassey, J. et al. (2023)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Job insecurity was measured by respondents' responses to the question, 'I feel like there is a good chance I could lose my job'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role did respondents have to answer to describe their current role at their employer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Respondents had to answer the question 'Which of the following best describes your current role at your employer?' with possible answers being front-line worker, individual contributor, frontline manager, middle management or upper management."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was self-efficacy measured in the survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Self-efficacy was measured using three items of the Schwarzer Generalized Self-Efficacy Scale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three components of adaptability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adaptability comprises three components: cognitive, affective, and behavioural."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was the current role of employees measured?"
+      },
+      {
+        "role": "assistant",
+        "content": "Measured with the question 'Which of the following best describes your current role at your employer?' with possible answers being front-line worker, individual contributor, frontline manager, middle management, or upper management."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'belonging' mean in the context of the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Belonging means that individuals report feeling connected with others at work and that they feel like they belong at their company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the importance of the surveys used by companies?"
+      },
+      {
+        "role": "assistant",
+        "content": "What is important is that they are validated and based on high-quality evidence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of leaders does the World Economic Forum engage?"
+      },
+      {
+        "role": "assistant",
+        "content": "The foremost political, business and other leaders of society."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the World Economic Forum engaging leaders?"
+      },
+      {
+        "role": "assistant",
+        "content": "To shape global, regional and industry agendas."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is the World Economic Forum located?"
+      },
+      {
+        "role": "assistant",
+        "content": "91\u201393 route de la Capite, CH-1223 Cologny/Geneva, Switzerland."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can one contact the World Economic Forum?"
+      },
+      {
+        "role": "assistant",
+        "content": "By calling +41 (0) 22 869 1212, faxing +41 (0) 22 786 2744, or emailing contact@weforum.org."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 278,
+    "filtered": 269,
+    "retention_rate": 0.97,
+    "avg_score": 8.5
+  }
+}

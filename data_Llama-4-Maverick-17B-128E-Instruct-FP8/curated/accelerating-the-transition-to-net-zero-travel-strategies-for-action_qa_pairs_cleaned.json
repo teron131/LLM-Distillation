@@ -1,0 +1,3471 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe travel industry, which accounts for 8-11% of global emissions, is under pressure to reduce its carbon footprint as climate change worsens. To achieve net-zero emissions, travel companies can take practical steps now, such as identifying and sequencing decarbonization initiatives, partnering with corporate clients to accelerate decarbonization of business travel, and closing the \"say-do\" gap among leisure travelers. The report by McKinsey & Company and Skift Research outlines four high-priority areas for travel companies to focus their decarbonization efforts, including developing sustainable travel businesses for the future. By taking these steps, travel companies can potentially create value while reducing their environmental impact.",
+  "qa_pairs": [
+    {
+      "question": "What is the main priority for many industries due to the worsening effects of climate change?",
+      "answer": "Decarbonization.",
+      "rating": 8
+    },
+    {
+      "question": "Who carried out the joint research for the report?",
+      "answer": "McKinsey & Company and Skift Research.",
+      "rating": 9
+    },
+    {
+      "question": "What type of services does Skift provide to the travel industry?",
+      "answer": "Media, insights, and marketing services.",
+      "rating": 9
+    },
+    {
+      "question": "What is McKinsey's commitment as a global management consulting firm?",
+      "answer": "Helping organizations accelerate sustainable and inclusive growth.",
+      "rating": 9
+    },
+    {
+      "question": "How many strategies are outlined in the report for accelerating the transition to net-zero travel?",
+      "answer": "4 strategies are outlined: Identify and Sequence Decarbonization Initiatives, Partner to Accelerate Decarbonization of Business Travel, Close the \u201cSay-do\u201d Gap Among Leisure Travelers, and Build New Sustainable Travel Businesses for the Future.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of the world's emissions is attributed to the global travel and tourism industry?",
+      "answer": "Between 8 and 11 percent.",
+      "rating": 9
+    },
+    {
+      "question": "By what percentage is travel activity expected to increase from 2016 to 2030?",
+      "answer": "85 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of all travel spend is represented by business travel?",
+      "answer": "30 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How much did the top 100 highest-spending organizations of business air travel spend on US booked domestic and international bookings in 2019?",
+      "answer": "Around $12 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the target year by which 45 organizations accounting for around half of the business air travel spend have committed to achieving their decarbonization goals?",
+      "answer": "2030 or before.",
+      "rating": 9
+    },
+    {
+      "question": "What framework provides a cost-benefit analysis of individual decarbonization levers and phasing plans?",
+      "answer": "The marginal abatement cost curve (MACC) pathway framework.",
+      "rating": 9
+    },
+    {
+      "question": "How much did the top 100 highest-spending organizations on business air travel spend on US booked domestic and international bookings in 2019?",
+      "answer": "Around $12 billion.",
+      "rating": 8
+    },
+    {
+      "question": "How many organizations among the top 100 highest-spending on business air travel have made public decarbonization commitments with a target year of 2030 or before?",
+      "answer": "Forty-five organizations, accounting for around half of the business air travel spend.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of travelers globally are willing to pay at least 2% more for carbon-neutral flight tickets?",
+      "answer": "40 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of travelers actually paid more for sustainable options when they travel?",
+      "answer": "14 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What are some reasons for the 'say-do' gap among leisure travelers regarding sustainable travel options?",
+      "answer": "A lack of clear sustainability-related information, a scarcity of sustainable booking options, and high cost barriers.",
+      "rating": 9
+    },
+    {
+      "question": "What is one way travel companies could support organizations in their transition toward greater sustainability?",
+      "answer": "Expanding their range of sustainability-focused product and service offerings.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a sustainable product or service that car rental companies could offer?",
+      "answer": "Encouraging clients to pay for electric vehicles.",
+      "rating": 7
+    },
+    {
+      "question": "What is an example of a sustainable business opportunity for airlines?",
+      "answer": "Investing in sustainable aviation fuel (SAF) production plants or launching a green airline that deploys smaller alternative propulsion aircraft.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three levers that travel companies can focus on to help consumers choose more sustainable actions?",
+      "answer": "Offering more sustainability-focused travel products and services visibly within the booking journey, presenting decarbonization information in compelling ways to engage and resonate with customers, and using behavioral science techniques to encourage leisure travelers to make sustainable purchase decisions.",
+      "rating": 10
+    },
+    {
+      "question": "What is necessary to execute the initiatives to make travel companies more sustainable?",
+      "answer": "A methodical approach is necessary to execute these initiatives while keeping the booking journey seamless for the customer.",
+      "rating": 8
+    },
+    {
+      "question": "What is the focus of the report in terms of environmental sustainability?",
+      "answer": "The report focuses only on the carbon-emissions component of environmental sustainability.",
+      "rating": 9
+    },
+    {
+      "question": "What is a 'carbon budget' as defined in the report?",
+      "answer": "The cumulative amount of carbon emissions permitted, as defined by academic institutions (e.g., IPCC), within a time period (e.g., through 2050) to remain within defined temperature-rise thresholds.",
+      "rating": 10
+    },
+    {
+      "question": "What could happen to companies that do not act now to become more sustainable?",
+      "answer": "Companies that stand by and wait may find their value proposition erode as they get left behind.",
+      "rating": 8
+    },
+    {
+      "question": "What is the definition of carbon budget?",
+      "answer": "The cumulative amount of carbon emissions permitted, as defined by academic institutions (e.g., IPCC), within a time period (e.g., through 2050) to remain within defined temperature-rise thresholds.",
+      "rating": 10
+    },
+    {
+      "question": "What is carbon intensity?",
+      "answer": "The volume of emissions relative to a metric of physical or economic activity that\u2019s reflective of an industry, for example, kilogram of CO2e per passenger kilometer.",
+      "rating": 9
+    },
+    {
+      "question": "What is carbon neutrality?",
+      "answer": "The balance between a company\u2019s emissions footprint and voluntary compensation (offsetting) with avoidance carbon offsets to achieve an emission equilibrium.",
+      "rating": 8
+    },
+    {
+      "question": "What do carbon offsets involve?",
+      "answer": "Investing in activities that avoid carbon emissions, which is represented by a carbon credit that can be traded on the voluntary or regulatory carbon markets.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first action companies should take in relation to carbon emissions according to mitigation hierarchies?",
+      "answer": "Carbon reduction, which is the direct reduction of a company\u2019s emissions footprint over time.",
+      "rating": 9
+    },
+    {
+      "question": "What is the requirement of Science Based Targets initiative (SBTi) regarding carbon reductions?",
+      "answer": "Companies are required to enact carbon reductions prior to any offsets or removals \u201ccounting\u201d towards climate-action strategies.",
+      "rating": 9
+    },
+    {
+      "question": "What is decarbonization?",
+      "answer": "The reduction of all GHG emissions, including CO2.",
+      "rating": 8
+    },
+    {
+      "question": "What are Greenhouse gases (GHGs)?",
+      "answer": "Gases that trap heat in the atmosphere, with key contributors including Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), and fluorinated gases.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Greenhouse Gas Protocol?",
+      "answer": "A partnership between the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) that provides standards, guidance, tools, and training for business and government to measure and manage climate-warming emissions.",
+      "rating": 9
+    },
+    {
+      "question": "What does Scope 1 cover in terms of GHG emissions?",
+      "answer": "Direct emissions from controlled business operations such as fuel combustion, operation of vehicles, and fugitive emissions.",
+      "rating": 9
+    },
+    {
+      "question": "What is included in Scope 3 emissions?",
+      "answer": "All other indirect emissions that occur in a company\u2019s value chain such as purchased goods and services, business travel, waste disposal, investments, leased assets, and franchise activities.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difference between carbon neutrality and net-zero emissions?",
+      "answer": "Net-zero emissions is a step beyond carbon neutrality, as the term applies to the full scope 1, 2, and 3 emissions.",
+      "rating": 8
+    },
+    {
+      "question": "What is the goal for reducing emissions according to the Science Based Targets initiative (SBTi)?",
+      "answer": "To achieve a maximum feasible reduction of emissions (90 percent physical absolute reduction across all scopes by 2050 at the latest for cross-sector pathway), with goals aligned to a 1.5\u00b0C science-based target.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of global GHG emissions did the travel and tourism sector account for in 2019?",
+      "answer": "Between 8 to 11 percent.",
+      "rating": 8
+    },
+    {
+      "question": "When did global record keeping for temperatures begin?",
+      "answer": "1880.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of global GHG emissions did the travel and tourism sector account for in 2019?",
+      "answer": "Between 8 to 11 percent.",
+      "rating": 9
+    },
+    {
+      "question": "By when does the SBTi assert that cross-sector GHG emissions need to drop to net zero?",
+      "answer": "2050.",
+      "rating": 9
+    },
+    {
+      "question": "What is the predicted percentage of global emissions that air travel alone is expected to account for by 2050?",
+      "answer": "12 to 27 percent.",
+      "rating": 9
+    },
+    {
+      "question": "By what percentage does SBTi require companies across industries to reduce their emissions annually?",
+      "answer": "4.2 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is required for companies to achieve a science-based, long-term, net-zero target according to SBTi's Net-Zero Standard?",
+      "answer": "A 90 percent absolute reduction across all emissions scopes.",
+      "rating": 9
+    },
+    {
+      "question": "What is expected to happen to US domestic and international travel activity between 2016 and 2030?",
+      "answer": "It is expected to grow by around 85 percent cumulatively.",
+      "rating": 8
+    },
+    {
+      "question": "How many organizations across all industries have set emission-reduction targets globally?",
+      "answer": "More than 3,500 organizations.",
+      "rating": 8
+    },
+    {
+      "question": "What may external stakeholders increasingly require from companies in terms of their sustainability efforts?",
+      "answer": "Full transition plans, including the expected physical reductions they\u2019ll commit to.",
+      "rating": 9
+    },
+    {
+      "question": "What is a potential benefit for companies that set and commit to sustainability targets?",
+      "answer": "It may be a path to growth when a company is able to link decarbonization to its customer-value proposition.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the total typical carbon footprint does a typical passenger trip account for in the US?",
+      "answer": "~5% of the total typical carbon footprint, or ~17% of total transport emissions.",
+      "rating": 8
+    },
+    {
+      "question": "What is becoming a top priority for the travel sector by 2050?",
+      "answer": "Reaching net-zero.",
+      "rating": 9
+    },
+    {
+      "question": "Why may companies that are not prepared to act on sustainable actions be viewed as higher-risk investments?",
+      "answer": "If companies are not prepared to act on sustainable actions\u2014or if the 1.5\u00b0C budget is breached\u2014they may be viewed as higher-risk investments.",
+      "rating": 9
+    },
+    {
+      "question": "What are the four practical strategies travel and tourism companies can employ to define and prioritize decarbonization initiatives?",
+      "answer": "1. Identify and sequence decarbonization initiatives, 2. Partner to accelerate decarbonization of business travel, 3. Close the \u201csay-do\u201d gap among leisure travelers, 4. Build new sustainable travel businesses for the future.",
+      "rating": 9
+    },
+    {
+      "question": "What may be the consequence for companies seen as decarbonization risks?",
+      "answer": "They may be treated similarly to those with poor credit ratings today.",
+      "rating": 9
+    },
+    {
+      "question": "Why is decarbonizing the travel sector difficult?",
+      "answer": "The travel industry faces a variety of challenges, from the need to drive change across highly diverse actors globally to a lack of market-ready, zero-carbon technologies for certain key sectors like aviation, to traveler confusion around what \u2018sustainability\u2019 really means.",
+      "rating": 9
+    },
+    {
+      "question": "What is the focus shifting from, according to the report?",
+      "answer": "Purely financial risk to a focus on operations and long-term sustainability.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the top 50 US organizational travel spenders have set, or committed to set, science-based targets?",
+      "answer": "48 percent.",
+      "rating": 9
+    },
+    {
+      "question": "In how many countries were emissions the top concern of respondents in McKinsey's consumer sentiment survey?",
+      "answer": "11 out of 13 countries polled.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of employees are more likely to work for a company with a strong environmental policy?",
+      "answer": "65 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How many nations have introduced a carbon tax globally as of 2019?",
+      "answer": "57 nations.",
+      "rating": 8
+    },
+    {
+      "question": "What was the EU's new 2030 emissions-reduction target as mentioned in the text?",
+      "answer": "55 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of respondents in McKinsey's survey plan to fly less to reduce their climate impact?",
+      "answer": "36 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of employees are more likely to work for a company with a strong environmental policy?",
+      "answer": "65 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How much higher is morale in companies with strong environmental programs compared to those without?",
+      "answer": "55 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the EU's 2030 emissions-reduction target?",
+      "answer": "55 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of managed assets are currently sustainable?",
+      "answer": "36 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many companies have signed the UN Carbon Neutral Now Pledge?",
+      "answer": "More than 600.",
+      "rating": 7
+    },
+    {
+      "question": "What is the projected size of the ESG debt market by 2025?",
+      "answer": "$11 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the EU's new emissions-reduction target for 2030?",
+      "answer": "55 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Which African country was the first to introduce a carbon tax in 2019?",
+      "answer": "South Africa.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of managed assets are currently considered sustainable?",
+      "answer": "36 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the predicted size of the ESG debt market by 2025?",
+      "answer": "$11 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "How many global investors are pushing for carbon neutrality by 2050 as part of Climate Action 100+?",
+      "answer": "More than 700.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the world's largest corporations used Global Reporting Initiative Standards in their 2018 reports?",
+      "answer": "Around 80 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What is the primary challenge companies face when developing a plan to meet near-term and long-term science-based emissions targets?",
+      "answer": "Developing a plan to meet near-term and long-term science-based emissions targets can be daunting due to limited resources available and the need to prioritize initiatives.",
+      "rating": 9
+    },
+    {
+      "question": "What framework can help companies allocate limited resources effectively in their decarbonization efforts?",
+      "answer": "Utilizing the marginal abatement cost curve (MACC) pathway framework can help companies allocate limited resources effectively.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three core challenges travel companies face when planning decarbonization journeys?",
+      "answer": "The three core challenges are: 1) Understanding the costs and abatement potential of initiatives in different pathways, 2) Determining the optimal sequencing of initiatives based on cost and abatement, and 3) Analyzing strategic tradeoffs of different implementation pathways.",
+      "rating": 10
+    },
+    {
+      "question": "Why is the hospitality industry a unique example for exploring decarbonization challenges?",
+      "answer": "The hospitality industry faces unique challenges around decarbonization because of the large volume of businesses that produce scope 3 emissions, or emissions resulting from activities not within a company\u2019s direct control.",
+      "rating": 9
+    },
+    {
+      "question": "What is a pathway or scenario in the context of decarbonization?",
+      "answer": "A pathway, or scenario, is a single, hypothetical route that a company could take to implement initiatives and can result in differing cost and abatement profiles.",
+      "rating": 9
+    },
+    {
+      "question": "How can a MACC chart be used?",
+      "answer": "A MACC chart can be used to understand the costs and abatement potential of various pathways by comparing individual initiatives based on their height and width.",
+      "rating": 8
+    },
+    {
+      "question": "What do the y-axis and x-axis represent in a MACC chart?",
+      "answer": "The y-axis represents the cumulative abatement cost per lever per tonne of carbon abated, and the x-axis represents the cumulative abatement potential of each lever.",
+      "rating": 9
+    },
+    {
+      "question": "What is the MACC chart used for?",
+      "answer": "The MACC chart is used to compare individual initiatives based on their height and width, representing abatement cost and potential.",
+      "rating": 7
+    },
+    {
+      "question": "What does the y-axis represent in a MACC chart?",
+      "answer": "The y-axis represents the cumulative abatement cost per tonne of carbon abated in a defined pathway, measured in $/tCO2e.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of a hotel company's GHG emissions are typically scope 3?",
+      "answer": "~76% of hotel and lodging players' emissions are concentrated in scope 3.",
+      "rating": 8
+    },
+    {
+      "question": "What are some primary initiatives to decarbonize a hotel's emissions?",
+      "answer": "Primary initiatives include managing energy intelligently, designing new infrastructure to be more energy efficient, procuring renewable energy, and electrifying systems.",
+      "rating": 9
+    },
+    {
+      "question": "Why is developing a decarbonization plan considered an iterative process?",
+      "answer": "Developing a decarbonization plan is an iterative process grounded in the sizing of initiatives, which can be refined over time by exploring different potential implementation routes.",
+      "rating": 8
+    },
+    {
+      "question": "How can different pathways affect the cost and abatement potential of decarbonization initiatives?",
+      "answer": "Cost and abatement may vary by pathway, with different pathways resulting in different net costs and cumulative emissions over time.",
+      "rating": 9
+    },
+    {
+      "question": "What is one way for hotel properties to achieve scope 2 decarbonization?",
+      "answer": "Procuring renewable electricity certificates (RECs) could be a part of a scope 2 decarbonization initiative plan.",
+      "rating": 9
+    },
+    {
+      "question": "What are the two pathways (A and B) for purchasing RECs compared in Exhibit 8?",
+      "answer": "In pathway A, companies start purchasing RECs earlier, while in pathway B, companies start purchasing RECs later for a lower net cost but achieve much higher net emissions.",
+      "rating": 8
+    },
+    {
+      "question": "What is the benefit of analyzing different pathways for decarbonization initiatives?",
+      "answer": "Analyzing different pathways enables the hotel to assess the strategic tradeoffs, such as cost and emissions abatement, and make informed decisions.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a sequencing decision that hotels may face when implementing decarbonization initiatives?",
+      "answer": "A key decision may be whether to retrofit deep building infrastructure before or after electrification efforts.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential benefit of undertaking a deep retrofit at the same time as building electrification?",
+      "answer": "It could result in greater savings from a lifetime cost perspective, although it may cost more upfront.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of creating MACC pathway charts?",
+      "answer": "These charts can help start conversations on the strategic implications of potential pathways and enable companies to combine analyses into a comprehensive framework.",
+      "rating": 9
+    },
+    {
+      "question": "What was the total US-booked business travel spend in 2019?",
+      "answer": "$334.2 billion.",
+      "rating": 10
+    },
+    {
+      "question": "How many organizations have publicly set a target on or before 2030 for reducing their emissions?",
+      "answer": "45.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of total US-booked business air travel spend in 2019 was accounted for by the top 100 organizations?",
+      "answer": "30 percent.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of passengers are business travelers, and what percentage of airline earnings do they drive?",
+      "answer": "As few as 10 percent of passengers are business travelers, but they can drive up to 75 percent of airline earnings.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of emissions from travel in Europe are attributed to business travelers?",
+      "answer": "30 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many of the top 100 organizations spending on US-booked business air travel in 2019 have made public SBTi or net zero commitments?",
+      "answer": "75.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of spend from the top 100 highest spending organizations of business air travel is associated with a public decarbonization commitment on or before 2030?",
+      "answer": "50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many organizations out of the top 100 spending on US-booked business air travel in 2019 have made public SBTi or net zero commitments?",
+      "answer": "75.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of airline earnings can be driven by business travelers despite accounting for as few as 10 percent of passengers?",
+      "answer": "Up to 75 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of emissions from travel in Europe are attributed to business travelers?",
+      "answer": "30 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated emissions from all US-booked business air travel in 2019?",
+      "answer": "Around 50 million metric tons of CO2e.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of total US-booked business air travel emissions is attributed to the top 100 organizations based on air travel spending?",
+      "answer": "17 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How much would demand for sustainable aviation fuel (SAF) increase if the top 100 organizations based on business travel air spend were to utilize it to abate their full air travel emissions?",
+      "answer": "18 to 20 times the annual 2018 US production of 4.5 million gallons.",
+      "rating": 9
+    },
+    {
+      "question": "What is one way travel companies can encourage collaboration with organizations to reduce emissions from business travel?",
+      "answer": "By creating opportunities for corporations to support travel organizations\u2019 use of renewable energy or sustainable fuels for business travel hotels and transportation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of JetBlue's program that helps corporations reduce their business travel emissions?",
+      "answer": "Sustainable Travel Partners program.",
+      "rating": 9
+    },
+    {
+      "question": "What is the role of corporate customers in JetBlue's usage of sustainable aviation fuel (SAF)?",
+      "answer": "Corporate customers enable JetBlue to expand its usage of SAF by helping cover the price premium between conventional and sustainable aviation fuel through the purchase of JetBlue SAF certificates.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of emissions from travel in Europe are attributed to business travelers?",
+      "answer": "30 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of US-booked domestic and international travel spending in 2019 was attributed to leisure travel?",
+      "answer": "About 70 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of travelers surveyed by Booking.com in 2021 planned to fly less to reduce their climate impact?",
+      "answer": "36 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of travelers were willing to pay slightly more for carbon-neutral flight tickets according to a McKinsey survey?",
+      "answer": "Up to 40 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of travelers expressed a desire to stay in sustainable accommodation in the upcoming year compared to 2020 and 2016?",
+      "answer": "81 percent compared to 74 percent in 2020 and 62 percent in 2016.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of leisure travelers were willing to pay slightly more for carbon-neutral flight tickets?",
+      "answer": "Up to 40 percent",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of travelers have willingly paid more for a sustainable travel option?",
+      "answer": "14 percent",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of consumers bought carbon offsets for flights in a 2022 Swiss study?",
+      "answer": "Around 5 percent",
+      "rating": 9
+    },
+    {
+      "question": "Why do some travelers not trust travel service providers who claim they are committed to sustainable practices?",
+      "answer": "29% believe most of them are just greenwashing, while 47% only trust them if they are certified by an independent third-party organization.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of consumers report feeling overwhelmed when exploring sustainable travel options?",
+      "answer": "Seven in ten consumers",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of travelers say sustainable travel services and products cost too much?",
+      "answer": "74 percent",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of consumers report feeling overwhelmed when exploring sustainable travel options?",
+      "answer": "Seven in ten consumers.",
+      "rating": 7
+    },
+    {
+      "question": "Why do some travelers distrust sustainability claims made by travel companies?",
+      "answer": "Due to confusion around 'greenwashing' and the impact of different options.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of travelers trust sustainability claims only if they are certified by an independent third-party organization?",
+      "answer": "47%.",
+      "rating": 9
+    },
+    {
+      "question": "Where do travelers rank sustainability when booking air travel?",
+      "answer": "In sixth place, after price, connection quality, airplane seat comfort, cabin crew and service, and minimizing plastic waste.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of travelers believe there aren't enough sustainable options?",
+      "answer": "49%.",
+      "rating": 8
+    },
+    {
+      "question": "How do car rental companies like Hertz make progress in sustainable travel?",
+      "answer": "By offering electric vehicles (EVs) or hybrid cars, such as Hertz partnering with Tesla to purchase 100,000 EV sedans.",
+      "rating": 9
+    },
+    {
+      "question": "How many major hotel brands offered sustainable booking options according to the review?",
+      "answer": "Only one.",
+      "rating": 7
+    },
+    {
+      "question": "How many major hotel brands offered sustainable booking options in the review?",
+      "answer": "Only one.",
+      "rating": 7
+    },
+    {
+      "question": "What is one of the biggest hurdles in promoting sustainable travel?",
+      "answer": "Developing a consistent approach to measuring the environmental impact of someone's travel choices.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of G Adventures in providing transparency on sustainability?",
+      "answer": "To put a program in place that involves customers in the whole process, so they understand what they're doing and how they're involved in it and make it part of the customer journey.",
+      "rating": 8
+    },
+    {
+      "question": "According to Google vice-president of travel Richard Holden, what is necessary to build trust with consumers regarding sustainable travel information?",
+      "answer": "Consistency across platforms.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current state of most travel booking journeys according to Exhibit 16?",
+      "answer": "Lacking options and information for consumers booking in the US.",
+      "rating": 7
+    },
+    {
+      "question": "What is the target state for travel booking journeys to nudge decarbonized decisions according to Exhibit 16?",
+      "answer": "Clearly provide options for less carbon intense travel services or products within the booking journey.",
+      "rating": 9
+    },
+    {
+      "question": "What is Everlane doing to show its commitment to fair labor and sustainable supply practices?",
+      "answer": "Everlane breaks down the cost of goods to show the premium included for fair labor and sustainable supply practices.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of G Adventures' transparency program according to its founder, Bruce Poon Tip?",
+      "answer": "The goal is to put a program in place that involves customers in the whole process, so they understand what they're doing and how they're involved in it and make it part of the customer journey.",
+      "rating": 8
+    },
+    {
+      "question": "What is one way companies can make sustainable travel products and services appealing to consumers?",
+      "answer": "One way is by offering variable pricing based on a traveler's stated preferences so they decide how much to pay.",
+      "rating": 8
+    },
+    {
+      "question": "How many travel company booking journeys in the US provided carbon-emissions context and information out of the 40 reviewed?",
+      "answer": "Just four provided carbon-emissions context and information.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of Skyscanner displaying the CO2 emissions of flights with Travalyst in 2019?",
+      "answer": "Roughly 10 million travelers chose lower-emission flights.",
+      "rating": 9
+    },
+    {
+      "question": "What is the target state for travel booking journeys to nudge decarbonized decisions?",
+      "answer": "The target state includes clearly providing options for less carbon intense travel services or products within the booking journey, contextualizing and informing on carbon footprint and emissions, and prompting consumers through behavioral science.",
+      "rating": 9
+    },
+    {
+      "question": "By how much did carbon emissions fall in Japan after companies shared information about carbon emissions and health effects?",
+      "answer": "19 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the aim of IATA CO2 Connect?",
+      "answer": "To harmonize aviation sector emissions reporting.",
+      "rating": 9
+    },
+    {
+      "question": "What is the WBCSD Pathfinder Initiative trying to support?",
+      "answer": "Greater emissions data transparency for scope 3 emissions.",
+      "rating": 9
+    },
+    {
+      "question": "How can companies incentivize consumers to make sustainable travel choices?",
+      "answer": "With direct and immediate benefits, such as social recognition and loyalty perks.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current state of the carbon accounting standard landscape?",
+      "answer": "Fragmented and unclear.",
+      "rating": 7
+    },
+    {
+      "question": "How can travel companies help consumers make sustainable travel choices?",
+      "answer": "By using nudge theory to break down behavioral barriers, such as demoting less sustainable options and making carbon offsetting the default option.",
+      "rating": 9
+    },
+    {
+      "question": "By how much did carbon emissions fall after commuters were provided with goal-setting techniques and personalized travel information?",
+      "answer": "19 percent.",
+      "rating": 8
+    },
+    {
+      "question": "According to a Booking.com 2021 survey, what percentage of travelers expressed a desire to stay in sustainable accommodation in the upcoming year?",
+      "answer": "81 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated amount of global capital spending on physical assets for energy and land-use systems in the net-zero transition between 2021 and 2050?",
+      "answer": "About $275 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of business leaders surveyed see new-business building as an opportunity to address climate change?",
+      "answer": "92 percent.",
+      "rating": 9
+    },
+    {
+      "question": "According to the McKinsey Global Institute, what proportion of companies' revenue is expected to come from products, services, or businesses that do not yet exist five years from now?",
+      "answer": "Half.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of business leaders surveyed see new-business building as an opportunity?",
+      "answer": "92 percent.",
+      "rating": 8
+    },
+    {
+      "question": "In which sectors are the largest opportunities for green business solutions?",
+      "answer": "Transport and buildings.",
+      "rating": 8
+    },
+    {
+      "question": "How can airlines contribute to the development of sustainable aviation fuel (SAF)?",
+      "answer": "Airlines could take an active part in the SAF value chain by directly supporting the scaling of production facilities and technologies with producers, such as co-investing with guaranteed offtake volumes of SAF at defined rates or with pre-orders for new zero-emission aircraft programs.",
+      "rating": 9
+    },
+    {
+      "question": "What is the hospitality sector doing to provide green offerings and decarbonize construction?",
+      "answer": "The hospitality sector is transitioning to new and partnership-based design, utilizing new technology, eco-design, and innovative partnerships to provide green offerings and decarbonize construction.",
+      "rating": 8
+    },
+    {
+      "question": "How is Hilton contributing to decarbonization in the hospitality industry?",
+      "answer": "Hilton is investing in IoT and other decarbonization capabilities and partnerships to better manage building energy usage and sequester carbon.",
+      "rating": 8
+    },
+    {
+      "question": "How is Accor expanding its use of green technologies in its hotels?",
+      "answer": "Accor is expanding the use of design standards, performance tools, and the latest green technologies for new hotels while supporting the transition of the existing hotel network to low-carbon infrastructure with green finance options.",
+      "rating": 9
+    },
+    {
+      "question": "What is Ronald Akili's view on low-carbon construction in the hospitality industry?",
+      "answer": "Ronald Akili, CEO of Potato Head, believes that cross-sector collaboration in low-carbon construction is critical and wants to lead the way in low-carbon constructional hospitality through using recycled materials and low embodied energy materials.",
+      "rating": 8
+    },
+    {
+      "question": "How can hotels manage their energy usage and sequester carbon?",
+      "answer": "Hotels can invest in IoT and other decarbonization capabilities and partnerships to better manage building energy usage and sequester carbon.",
+      "rating": 8
+    },
+    {
+      "question": "What is Southwest Airlines' commitment to Yale University's Center for Natural Carbon Capture?",
+      "answer": "Southwest Airlines has committed $10 million to Yale University's Center for Natural Carbon Capture.",
+      "rating": 9
+    },
+    {
+      "question": "What is Hilton's commitment to decarbonizing the real estate industry?",
+      "answer": "Hilton has committed to investing in software, hardware, renewable energy, energy storage, smart buildings, and carbon sequestration technologies to decarbonize the $10.5 trillion real estate industry through Fifth Wall's Climate Tech Fund.",
+      "rating": 9
+    },
+    {
+      "question": "What is the World Travel & Tourism Council (WTTC) working on to validate hotel properties as sustainable?",
+      "answer": "WTTC is working on developing a verification system to validate hotel properties as sustainable together with partners.",
+      "rating": 8
+    },
+    {
+      "question": "How can booking platforms promote sustainable travel?",
+      "answer": "Booking platforms can specialize in green offerings or position themselves as sustainable travel specialists, and offer certification services or proprietary sustainability certification like Booking.com's Sustainable Travel Badge.",
+      "rating": 8
+    },
+    {
+      "question": "What challenge do destinations face in measuring and monitoring their environmental performance?",
+      "answer": "Destinations lack reliable and relevant benchmarking tools that encompass various industry verticals and many independent businesses and venues, making it challenging to measure and monitor performance in this area.",
+      "rating": 9
+    },
+    {
+      "question": "How many properties have been recognized by the proprietary sustainability certification?",
+      "answer": "Over 130,000 properties.",
+      "rating": 8
+    },
+    {
+      "question": "What is one challenge faced by destination leaders in measuring and monitoring performance in sustainability?",
+      "answer": "The lack of reliable, relevant benchmarking tools that encompass various industry verticals and many independent businesses and venues.",
+      "rating": 9
+    },
+    {
+      "question": "How can loyalty and credit-card programs support sustainable travel?",
+      "answer": "By offering customers a consolidated view of their emissions across travel providers, developing sustainable offerings along the travel customer journey, and rewarding customers for choosing sustainable options.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for companies to launch new sustainable businesses?",
+      "answer": "Companies need to launch special initiatives outside of their current core businesses and empower these teams to experiment and learn without the pressure to be immediately profitable.",
+      "rating": 8
+    },
+    {
+      "question": "What are the general enablers for building sustainable travel businesses according to Exhibit 18?",
+      "answer": "Developing advanced carbon-emission data and measurement capabilities, supporting and advocating for consistent industry standards, and integrating sustainability goals across the organization.",
+      "rating": 9
+    },
+    {
+      "question": "What is one step companies can take under Strategy 1 to identify and sequence decarbonization?",
+      "answer": "Benchmarking ESG strategies or plans against other relevant companies to identify decarbonization levers.",
+      "rating": 8
+    },
+    {
+      "question": "How can companies partner to accelerate decarbonization of business travel according to Strategy 2?",
+      "answer": "By identifying largest business travel customers and embedding their sustainability targets into internal planning, engaging corporate relationship managers on sustainable product or service offerings, and engaging corporate customers on potential travel policy changes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first strategy mentioned for travel companies to be on track?",
+      "answer": "Identify and Sequence Decarbonization.",
+      "rating": 8
+    },
+    {
+      "question": "What is one of the actions under Strategy 1: Identify and Sequence Decarbonization?",
+      "answer": "Develop continuous carbon-measurement capabilities, including a clear view of scope 3 emissions across the value chain.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of using the MACC framework under Strategy 1?",
+      "answer": "To create a plan to decarbonize your own operations.",
+      "rating": 7
+    },
+    {
+      "question": "Under Strategy 3, how should CO2 emission and sustainability information be presented to leisure travelers?",
+      "answer": "At the same level as the price.",
+      "rating": 8
+    },
+    {
+      "question": "What is Danielle Bozarth's role at McKinsey & Company?",
+      "answer": "A senior partner and global co-leader for McKinsey\u2019s Travel, Logistics & Infrastructure (TLI) Practice.",
+      "rating": 10
+    },
+    {
+      "question": "How many years has Danielle been working with McKinsey?",
+      "answer": "More than 20 years.",
+      "rating": 8
+    },
+    {
+      "question": "What does Jules Seeley lead in North America?",
+      "answer": "QuantumBlack North America.",
+      "rating": 9
+    },
+    {
+      "question": "What is Vik Krishnan's role in McKinsey's North America Travel practice?",
+      "answer": "He leads it.",
+      "rating": 7
+    },
+    {
+      "question": "What is Olivier Ch\u00e9ret's area of focus?",
+      "answer": "Sustainable aviation and advanced air mobility.",
+      "rating": 9
+    },
+    {
+      "question": "What is Mackenzie Murphy's specialty?",
+      "answer": "Sustainability and decarbonization strategy.",
+      "rating": 9
+    },
+    {
+      "question": "What is Haixia Wang's role at Skift?",
+      "answer": "Vice President of Research.",
+      "rating": 9
+    },
+    {
+      "question": "What is the focus of Seth Borko's research at Skift?",
+      "answer": "Online travel, travel economics, and company financials and investments.",
+      "rating": 9
+    },
+    {
+      "question": "Where is Wouter Geerts based?",
+      "answer": "The Netherlands.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main priority for many industries due to the worsening effects of climate change?"
+      },
+      {
+        "role": "assistant",
+        "content": "Decarbonization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who carried out the joint research for the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey & Company and Skift Research."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of services does Skift provide to the travel industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Media, insights, and marketing services."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is McKinsey's commitment as a global management consulting firm?"
+      },
+      {
+        "role": "assistant",
+        "content": "Helping organizations accelerate sustainable and inclusive growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many strategies are outlined in the report for accelerating the transition to net-zero travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "4 strategies are outlined: Identify and Sequence Decarbonization Initiatives, Partner to Accelerate Decarbonization of Business Travel, Close the \u201cSay-do\u201d Gap Among Leisure Travelers, and Build New Sustainable Travel Businesses for the Future."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the world's emissions is attributed to the global travel and tourism industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 8 and 11 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage is travel activity expected to increase from 2016 to 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "85 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of all travel spend is represented by business travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did the top 100 highest-spending organizations of business air travel spend on US booked domestic and international bookings in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around $12 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target year by which 45 organizations accounting for around half of the business air travel spend have committed to achieving their decarbonization goals?"
+      },
+      {
+        "role": "assistant",
+        "content": "2030 or before."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What framework provides a cost-benefit analysis of individual decarbonization levers and phasing plans?"
+      },
+      {
+        "role": "assistant",
+        "content": "The marginal abatement cost curve (MACC) pathway framework."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did the top 100 highest-spending organizations on business air travel spend on US booked domestic and international bookings in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around $12 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many organizations among the top 100 highest-spending on business air travel have made public decarbonization commitments with a target year of 2030 or before?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forty-five organizations, accounting for around half of the business air travel spend."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers globally are willing to pay at least 2% more for carbon-neutral flight tickets?"
+      },
+      {
+        "role": "assistant",
+        "content": "40 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers actually paid more for sustainable options when they travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "14 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some reasons for the 'say-do' gap among leisure travelers regarding sustainable travel options?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lack of clear sustainability-related information, a scarcity of sustainable booking options, and high cost barriers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way travel companies could support organizations in their transition toward greater sustainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Expanding their range of sustainability-focused product and service offerings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a sustainable product or service that car rental companies could offer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Encouraging clients to pay for electric vehicles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a sustainable business opportunity for airlines?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investing in sustainable aviation fuel (SAF) production plants or launching a green airline that deploys smaller alternative propulsion aircraft."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three levers that travel companies can focus on to help consumers choose more sustainable actions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Offering more sustainability-focused travel products and services visibly within the booking journey, presenting decarbonization information in compelling ways to engage and resonate with customers, and using behavioral science techniques to encourage leisure travelers to make sustainable purchase decisions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is necessary to execute the initiatives to make travel companies more sustainable?"
+      },
+      {
+        "role": "assistant",
+        "content": "A methodical approach is necessary to execute these initiatives while keeping the booking journey seamless for the customer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the focus of the report in terms of environmental sustainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "The report focuses only on the carbon-emissions component of environmental sustainability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a 'carbon budget' as defined in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cumulative amount of carbon emissions permitted, as defined by academic institutions (e.g., IPCC), within a time period (e.g., through 2050) to remain within defined temperature-rise thresholds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could happen to companies that do not act now to become more sustainable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies that stand by and wait may find their value proposition erode as they get left behind."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of carbon budget?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cumulative amount of carbon emissions permitted, as defined by academic institutions (e.g., IPCC), within a time period (e.g., through 2050) to remain within defined temperature-rise thresholds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is carbon intensity?"
+      },
+      {
+        "role": "assistant",
+        "content": "The volume of emissions relative to a metric of physical or economic activity that\u2019s reflective of an industry, for example, kilogram of CO2e per passenger kilometer."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is carbon neutrality?"
+      },
+      {
+        "role": "assistant",
+        "content": "The balance between a company\u2019s emissions footprint and voluntary compensation (offsetting) with avoidance carbon offsets to achieve an emission equilibrium."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do carbon offsets involve?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investing in activities that avoid carbon emissions, which is represented by a carbon credit that can be traded on the voluntary or regulatory carbon markets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first action companies should take in relation to carbon emissions according to mitigation hierarchies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carbon reduction, which is the direct reduction of a company\u2019s emissions footprint over time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the requirement of Science Based Targets initiative (SBTi) regarding carbon reductions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies are required to enact carbon reductions prior to any offsets or removals \u201ccounting\u201d towards climate-action strategies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The reduction of all GHG emissions, including CO2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are Greenhouse gases (GHGs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gases that trap heat in the atmosphere, with key contributors including Carbon Dioxide (CO2), Methane (CH4), Nitrous Oxide (N2O), and fluorinated gases."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Greenhouse Gas Protocol?"
+      },
+      {
+        "role": "assistant",
+        "content": "A partnership between the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) that provides standards, guidance, tools, and training for business and government to measure and manage climate-warming emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Scope 1 cover in terms of GHG emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Direct emissions from controlled business operations such as fuel combustion, operation of vehicles, and fugitive emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is included in Scope 3 emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "All other indirect emissions that occur in a company\u2019s value chain such as purchased goods and services, business travel, waste disposal, investments, leased assets, and franchise activities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference between carbon neutrality and net-zero emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Net-zero emissions is a step beyond carbon neutrality, as the term applies to the full scope 1, 2, and 3 emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal for reducing emissions according to the Science Based Targets initiative (SBTi)?"
+      },
+      {
+        "role": "assistant",
+        "content": "To achieve a maximum feasible reduction of emissions (90 percent physical absolute reduction across all scopes by 2050 at the latest for cross-sector pathway), with goals aligned to a 1.5\u00b0C science-based target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of global GHG emissions did the travel and tourism sector account for in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 8 to 11 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did global record keeping for temperatures begin?"
+      },
+      {
+        "role": "assistant",
+        "content": "1880."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of global GHG emissions did the travel and tourism sector account for in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 8 to 11 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By when does the SBTi assert that cross-sector GHG emissions need to drop to net zero?"
+      },
+      {
+        "role": "assistant",
+        "content": "2050."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the predicted percentage of global emissions that air travel alone is expected to account for by 2050?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 to 27 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage does SBTi require companies across industries to reduce their emissions annually?"
+      },
+      {
+        "role": "assistant",
+        "content": "4.2 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for companies to achieve a science-based, long-term, net-zero target according to SBTi's Net-Zero Standard?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 90 percent absolute reduction across all emissions scopes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to happen to US domestic and international travel activity between 2016 and 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is expected to grow by around 85 percent cumulatively."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many organizations across all industries have set emission-reduction targets globally?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 3,500 organizations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What may external stakeholders increasingly require from companies in terms of their sustainability efforts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Full transition plans, including the expected physical reductions they\u2019ll commit to."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a potential benefit for companies that set and commit to sustainability targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may be a path to growth when a company is able to link decarbonization to its customer-value proposition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the total typical carbon footprint does a typical passenger trip account for in the US?"
+      },
+      {
+        "role": "assistant",
+        "content": "~5% of the total typical carbon footprint, or ~17% of total transport emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is becoming a top priority for the travel sector by 2050?"
+      },
+      {
+        "role": "assistant",
+        "content": "Reaching net-zero."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why may companies that are not prepared to act on sustainable actions be viewed as higher-risk investments?"
+      },
+      {
+        "role": "assistant",
+        "content": "If companies are not prepared to act on sustainable actions\u2014or if the 1.5\u00b0C budget is breached\u2014they may be viewed as higher-risk investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four practical strategies travel and tourism companies can employ to define and prioritize decarbonization initiatives?"
+      },
+      {
+        "role": "assistant",
+        "content": "1. Identify and sequence decarbonization initiatives, 2. Partner to accelerate decarbonization of business travel, 3. Close the \u201csay-do\u201d gap among leisure travelers, 4. Build new sustainable travel businesses for the future."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What may be the consequence for companies seen as decarbonization risks?"
+      },
+      {
+        "role": "assistant",
+        "content": "They may be treated similarly to those with poor credit ratings today."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is decarbonizing the travel sector difficult?"
+      },
+      {
+        "role": "assistant",
+        "content": "The travel industry faces a variety of challenges, from the need to drive change across highly diverse actors globally to a lack of market-ready, zero-carbon technologies for certain key sectors like aviation, to traveler confusion around what \u2018sustainability\u2019 really means."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the focus shifting from, according to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Purely financial risk to a focus on operations and long-term sustainability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the top 50 US organizational travel spenders have set, or committed to set, science-based targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "48 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In how many countries were emissions the top concern of respondents in McKinsey's consumer sentiment survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "11 out of 13 countries polled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees are more likely to work for a company with a strong environmental policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "65 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many nations have introduced a carbon tax globally as of 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "57 nations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the EU's new 2030 emissions-reduction target as mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "55 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents in McKinsey's survey plan to fly less to reduce their climate impact?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees are more likely to work for a company with a strong environmental policy?"
+      },
+      {
+        "role": "assistant",
+        "content": "65 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much higher is morale in companies with strong environmental programs compared to those without?"
+      },
+      {
+        "role": "assistant",
+        "content": "55 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the EU's 2030 emissions-reduction target?"
+      },
+      {
+        "role": "assistant",
+        "content": "55 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of managed assets are currently sustainable?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies have signed the UN Carbon Neutral Now Pledge?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 600."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the projected size of the ESG debt market by 2025?"
+      },
+      {
+        "role": "assistant",
+        "content": "$11 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the EU's new emissions-reduction target for 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "55 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which African country was the first to introduce a carbon tax in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "South Africa."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of managed assets are currently considered sustainable?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the predicted size of the ESG debt market by 2025?"
+      },
+      {
+        "role": "assistant",
+        "content": "$11 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many global investors are pushing for carbon neutrality by 2050 as part of Climate Action 100+?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 700."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the world's largest corporations used Global Reporting Initiative Standards in their 2018 reports?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 80 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary challenge companies face when developing a plan to meet near-term and long-term science-based emissions targets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Developing a plan to meet near-term and long-term science-based emissions targets can be daunting due to limited resources available and the need to prioritize initiatives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What framework can help companies allocate limited resources effectively in their decarbonization efforts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Utilizing the marginal abatement cost curve (MACC) pathway framework can help companies allocate limited resources effectively."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three core challenges travel companies face when planning decarbonization journeys?"
+      },
+      {
+        "role": "assistant",
+        "content": "The three core challenges are: 1) Understanding the costs and abatement potential of initiatives in different pathways, 2) Determining the optimal sequencing of initiatives based on cost and abatement, and 3) Analyzing strategic tradeoffs of different implementation pathways."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is the hospitality industry a unique example for exploring decarbonization challenges?"
+      },
+      {
+        "role": "assistant",
+        "content": "The hospitality industry faces unique challenges around decarbonization because of the large volume of businesses that produce scope 3 emissions, or emissions resulting from activities not within a company\u2019s direct control."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a pathway or scenario in the context of decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pathway, or scenario, is a single, hypothetical route that a company could take to implement initiatives and can result in differing cost and abatement profiles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can a MACC chart be used?"
+      },
+      {
+        "role": "assistant",
+        "content": "A MACC chart can be used to understand the costs and abatement potential of various pathways by comparing individual initiatives based on their height and width."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do the y-axis and x-axis represent in a MACC chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "The y-axis represents the cumulative abatement cost per lever per tonne of carbon abated, and the x-axis represents the cumulative abatement potential of each lever."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the MACC chart used for?"
+      },
+      {
+        "role": "assistant",
+        "content": "The MACC chart is used to compare individual initiatives based on their height and width, representing abatement cost and potential."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the y-axis represent in a MACC chart?"
+      },
+      {
+        "role": "assistant",
+        "content": "The y-axis represents the cumulative abatement cost per tonne of carbon abated in a defined pathway, measured in $/tCO2e."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of a hotel company's GHG emissions are typically scope 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "~76% of hotel and lodging players' emissions are concentrated in scope 3."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some primary initiatives to decarbonize a hotel's emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Primary initiatives include managing energy intelligently, designing new infrastructure to be more energy efficient, procuring renewable energy, and electrifying systems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is developing a decarbonization plan considered an iterative process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Developing a decarbonization plan is an iterative process grounded in the sizing of initiatives, which can be refined over time by exploring different potential implementation routes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can different pathways affect the cost and abatement potential of decarbonization initiatives?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cost and abatement may vary by pathway, with different pathways resulting in different net costs and cumulative emissions over time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way for hotel properties to achieve scope 2 decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Procuring renewable electricity certificates (RECs) could be a part of a scope 2 decarbonization initiative plan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two pathways (A and B) for purchasing RECs compared in Exhibit 8?"
+      },
+      {
+        "role": "assistant",
+        "content": "In pathway A, companies start purchasing RECs earlier, while in pathway B, companies start purchasing RECs later for a lower net cost but achieve much higher net emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of analyzing different pathways for decarbonization initiatives?"
+      },
+      {
+        "role": "assistant",
+        "content": "Analyzing different pathways enables the hotel to assess the strategic tradeoffs, such as cost and emissions abatement, and make informed decisions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a sequencing decision that hotels may face when implementing decarbonization initiatives?"
+      },
+      {
+        "role": "assistant",
+        "content": "A key decision may be whether to retrofit deep building infrastructure before or after electrification efforts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential benefit of undertaking a deep retrofit at the same time as building electrification?"
+      },
+      {
+        "role": "assistant",
+        "content": "It could result in greater savings from a lifetime cost perspective, although it may cost more upfront."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of creating MACC pathway charts?"
+      },
+      {
+        "role": "assistant",
+        "content": "These charts can help start conversations on the strategic implications of potential pathways and enable companies to combine analyses into a comprehensive framework."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total US-booked business travel spend in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "$334.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many organizations have publicly set a target on or before 2030 for reducing their emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "45."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of total US-booked business air travel spend in 2019 was accounted for by the top 100 organizations?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of passengers are business travelers, and what percentage of airline earnings do they drive?"
+      },
+      {
+        "role": "assistant",
+        "content": "As few as 10 percent of passengers are business travelers, but they can drive up to 75 percent of airline earnings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of emissions from travel in Europe are attributed to business travelers?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many of the top 100 organizations spending on US-booked business air travel in 2019 have made public SBTi or net zero commitments?"
+      },
+      {
+        "role": "assistant",
+        "content": "75."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of spend from the top 100 highest spending organizations of business air travel is associated with a public decarbonization commitment on or before 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many organizations out of the top 100 spending on US-booked business air travel in 2019 have made public SBTi or net zero commitments?"
+      },
+      {
+        "role": "assistant",
+        "content": "75."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of airline earnings can be driven by business travelers despite accounting for as few as 10 percent of passengers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 75 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of emissions from travel in Europe are attributed to business travelers?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated emissions from all US-booked business air travel in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 50 million metric tons of CO2e."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of total US-booked business air travel emissions is attributed to the top 100 organizations based on air travel spending?"
+      },
+      {
+        "role": "assistant",
+        "content": "17 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much would demand for sustainable aviation fuel (SAF) increase if the top 100 organizations based on business travel air spend were to utilize it to abate their full air travel emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "18 to 20 times the annual 2018 US production of 4.5 million gallons."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way travel companies can encourage collaboration with organizations to reduce emissions from business travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "By creating opportunities for corporations to support travel organizations\u2019 use of renewable energy or sustainable fuels for business travel hotels and transportation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of JetBlue's program that helps corporations reduce their business travel emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustainable Travel Partners program."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the role of corporate customers in JetBlue's usage of sustainable aviation fuel (SAF)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Corporate customers enable JetBlue to expand its usage of SAF by helping cover the price premium between conventional and sustainable aviation fuel through the purchase of JetBlue SAF certificates."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of emissions from travel in Europe are attributed to business travelers?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of US-booked domestic and international travel spending in 2019 was attributed to leisure travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 70 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers surveyed by Booking.com in 2021 planned to fly less to reduce their climate impact?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers were willing to pay slightly more for carbon-neutral flight tickets according to a McKinsey survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 40 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers expressed a desire to stay in sustainable accommodation in the upcoming year compared to 2020 and 2016?"
+      },
+      {
+        "role": "assistant",
+        "content": "81 percent compared to 74 percent in 2020 and 62 percent in 2016."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of leisure travelers were willing to pay slightly more for carbon-neutral flight tickets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 40 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers have willingly paid more for a sustainable travel option?"
+      },
+      {
+        "role": "assistant",
+        "content": "14 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers bought carbon offsets for flights in a 2022 Swiss study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 5 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do some travelers not trust travel service providers who claim they are committed to sustainable practices?"
+      },
+      {
+        "role": "assistant",
+        "content": "29% believe most of them are just greenwashing, while 47% only trust them if they are certified by an independent third-party organization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers report feeling overwhelmed when exploring sustainable travel options?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seven in ten consumers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers say sustainable travel services and products cost too much?"
+      },
+      {
+        "role": "assistant",
+        "content": "74 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers report feeling overwhelmed when exploring sustainable travel options?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seven in ten consumers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do some travelers distrust sustainability claims made by travel companies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Due to confusion around 'greenwashing' and the impact of different options."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers trust sustainability claims only if they are certified by an independent third-party organization?"
+      },
+      {
+        "role": "assistant",
+        "content": "47%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where do travelers rank sustainability when booking air travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "In sixth place, after price, connection quality, airplane seat comfort, cabin crew and service, and minimizing plastic waste."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of travelers believe there aren't enough sustainable options?"
+      },
+      {
+        "role": "assistant",
+        "content": "49%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do car rental companies like Hertz make progress in sustainable travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "By offering electric vehicles (EVs) or hybrid cars, such as Hertz partnering with Tesla to purchase 100,000 EV sedans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many major hotel brands offered sustainable booking options according to the review?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many major hotel brands offered sustainable booking options in the review?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only one."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the biggest hurdles in promoting sustainable travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Developing a consistent approach to measuring the environmental impact of someone's travel choices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of G Adventures in providing transparency on sustainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "To put a program in place that involves customers in the whole process, so they understand what they're doing and how they're involved in it and make it part of the customer journey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to Google vice-president of travel Richard Holden, what is necessary to build trust with consumers regarding sustainable travel information?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consistency across platforms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of most travel booking journeys according to Exhibit 16?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lacking options and information for consumers booking in the US."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target state for travel booking journeys to nudge decarbonized decisions according to Exhibit 16?"
+      },
+      {
+        "role": "assistant",
+        "content": "Clearly provide options for less carbon intense travel services or products within the booking journey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Everlane doing to show its commitment to fair labor and sustainable supply practices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Everlane breaks down the cost of goods to show the premium included for fair labor and sustainable supply practices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of G Adventures' transparency program according to its founder, Bruce Poon Tip?"
+      },
+      {
+        "role": "assistant",
+        "content": "The goal is to put a program in place that involves customers in the whole process, so they understand what they're doing and how they're involved in it and make it part of the customer journey."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way companies can make sustainable travel products and services appealing to consumers?"
+      },
+      {
+        "role": "assistant",
+        "content": "One way is by offering variable pricing based on a traveler's stated preferences so they decide how much to pay."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many travel company booking journeys in the US provided carbon-emissions context and information out of the 40 reviewed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Just four provided carbon-emissions context and information."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of Skyscanner displaying the CO2 emissions of flights with Travalyst in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 10 million travelers chose lower-emission flights."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target state for travel booking journeys to nudge decarbonized decisions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The target state includes clearly providing options for less carbon intense travel services or products within the booking journey, contextualizing and informing on carbon footprint and emissions, and prompting consumers through behavioral science."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much did carbon emissions fall in Japan after companies shared information about carbon emissions and health effects?"
+      },
+      {
+        "role": "assistant",
+        "content": "19 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the aim of IATA CO2 Connect?"
+      },
+      {
+        "role": "assistant",
+        "content": "To harmonize aviation sector emissions reporting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the WBCSD Pathfinder Initiative trying to support?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater emissions data transparency for scope 3 emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can companies incentivize consumers to make sustainable travel choices?"
+      },
+      {
+        "role": "assistant",
+        "content": "With direct and immediate benefits, such as social recognition and loyalty perks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of the carbon accounting standard landscape?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fragmented and unclear."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can travel companies help consumers make sustainable travel choices?"
+      },
+      {
+        "role": "assistant",
+        "content": "By using nudge theory to break down behavioral barriers, such as demoting less sustainable options and making carbon offsetting the default option."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much did carbon emissions fall after commuters were provided with goal-setting techniques and personalized travel information?"
+      },
+      {
+        "role": "assistant",
+        "content": "19 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to a Booking.com 2021 survey, what percentage of travelers expressed a desire to stay in sustainable accommodation in the upcoming year?"
+      },
+      {
+        "role": "assistant",
+        "content": "81 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated amount of global capital spending on physical assets for energy and land-use systems in the net-zero transition between 2021 and 2050?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $275 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of business leaders surveyed see new-business building as an opportunity to address climate change?"
+      },
+      {
+        "role": "assistant",
+        "content": "92 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the McKinsey Global Institute, what proportion of companies' revenue is expected to come from products, services, or businesses that do not yet exist five years from now?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of business leaders surveyed see new-business building as an opportunity?"
+      },
+      {
+        "role": "assistant",
+        "content": "92 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which sectors are the largest opportunities for green business solutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Transport and buildings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can airlines contribute to the development of sustainable aviation fuel (SAF)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Airlines could take an active part in the SAF value chain by directly supporting the scaling of production facilities and technologies with producers, such as co-investing with guaranteed offtake volumes of SAF at defined rates or with pre-orders for new zero-emission aircraft programs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hospitality sector doing to provide green offerings and decarbonize construction?"
+      },
+      {
+        "role": "assistant",
+        "content": "The hospitality sector is transitioning to new and partnership-based design, utilizing new technology, eco-design, and innovative partnerships to provide green offerings and decarbonize construction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Hilton contributing to decarbonization in the hospitality industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hilton is investing in IoT and other decarbonization capabilities and partnerships to better manage building energy usage and sequester carbon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Accor expanding its use of green technologies in its hotels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Accor is expanding the use of design standards, performance tools, and the latest green technologies for new hotels while supporting the transition of the existing hotel network to low-carbon infrastructure with green finance options."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Ronald Akili's view on low-carbon construction in the hospitality industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ronald Akili, CEO of Potato Head, believes that cross-sector collaboration in low-carbon construction is critical and wants to lead the way in low-carbon constructional hospitality through using recycled materials and low embodied energy materials."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can hotels manage their energy usage and sequester carbon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hotels can invest in IoT and other decarbonization capabilities and partnerships to better manage building energy usage and sequester carbon."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Southwest Airlines' commitment to Yale University's Center for Natural Carbon Capture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Southwest Airlines has committed $10 million to Yale University's Center for Natural Carbon Capture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Hilton's commitment to decarbonizing the real estate industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hilton has committed to investing in software, hardware, renewable energy, energy storage, smart buildings, and carbon sequestration technologies to decarbonize the $10.5 trillion real estate industry through Fifth Wall's Climate Tech Fund."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the World Travel & Tourism Council (WTTC) working on to validate hotel properties as sustainable?"
+      },
+      {
+        "role": "assistant",
+        "content": "WTTC is working on developing a verification system to validate hotel properties as sustainable together with partners."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can booking platforms promote sustainable travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Booking platforms can specialize in green offerings or position themselves as sustainable travel specialists, and offer certification services or proprietary sustainability certification like Booking.com's Sustainable Travel Badge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What challenge do destinations face in measuring and monitoring their environmental performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Destinations lack reliable and relevant benchmarking tools that encompass various industry verticals and many independent businesses and venues, making it challenging to measure and monitor performance in this area."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many properties have been recognized by the proprietary sustainability certification?"
+      },
+      {
+        "role": "assistant",
+        "content": "Over 130,000 properties."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one challenge faced by destination leaders in measuring and monitoring performance in sustainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "The lack of reliable, relevant benchmarking tools that encompass various industry verticals and many independent businesses and venues."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can loyalty and credit-card programs support sustainable travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "By offering customers a consolidated view of their emissions across travel providers, developing sustainable offerings along the travel customer journey, and rewarding customers for choosing sustainable options."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for companies to launch new sustainable businesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies need to launch special initiatives outside of their current core businesses and empower these teams to experiment and learn without the pressure to be immediately profitable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the general enablers for building sustainable travel businesses according to Exhibit 18?"
+      },
+      {
+        "role": "assistant",
+        "content": "Developing advanced carbon-emission data and measurement capabilities, supporting and advocating for consistent industry standards, and integrating sustainability goals across the organization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one step companies can take under Strategy 1 to identify and sequence decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Benchmarking ESG strategies or plans against other relevant companies to identify decarbonization levers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can companies partner to accelerate decarbonization of business travel according to Strategy 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "By identifying largest business travel customers and embedding their sustainability targets into internal planning, engaging corporate relationship managers on sustainable product or service offerings, and engaging corporate customers on potential travel policy changes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first strategy mentioned for travel companies to be on track?"
+      },
+      {
+        "role": "assistant",
+        "content": "Identify and Sequence Decarbonization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the actions under Strategy 1: Identify and Sequence Decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Develop continuous carbon-measurement capabilities, including a clear view of scope 3 emissions across the value chain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using the MACC framework under Strategy 1?"
+      },
+      {
+        "role": "assistant",
+        "content": "To create a plan to decarbonize your own operations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under Strategy 3, how should CO2 emission and sustainability information be presented to leisure travelers?"
+      },
+      {
+        "role": "assistant",
+        "content": "At the same level as the price."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Danielle Bozarth's role at McKinsey & Company?"
+      },
+      {
+        "role": "assistant",
+        "content": "A senior partner and global co-leader for McKinsey\u2019s Travel, Logistics & Infrastructure (TLI) Practice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many years has Danielle been working with McKinsey?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 20 years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does Jules Seeley lead in North America?"
+      },
+      {
+        "role": "assistant",
+        "content": "QuantumBlack North America."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Vik Krishnan's role in McKinsey's North America Travel practice?"
+      },
+      {
+        "role": "assistant",
+        "content": "He leads it."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Olivier Ch\u00e9ret's area of focus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustainable aviation and advanced air mobility."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Mackenzie Murphy's specialty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustainability and decarbonization strategy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Haixia Wang's role at Skift?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vice President of Research."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the focus of Seth Borko's research at Skift?"
+      },
+      {
+        "role": "assistant",
+        "content": "Online travel, travel economics, and company financials and investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Wouter Geerts based?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Netherlands."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 193,
+    "filtered": 182,
+    "retention_rate": 0.94,
+    "avg_score": 8.4
+  }
+}

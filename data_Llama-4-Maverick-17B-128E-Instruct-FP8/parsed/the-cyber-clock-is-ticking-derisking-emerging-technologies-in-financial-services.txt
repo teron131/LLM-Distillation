@@ -1,0 +1,2931 @@
+The cyber clock is ticking: 
+Derisking emerging technologies 
+in financial services 
+
+The Institute of International Finance 
+The Institute of International Finance (IIF) is the global 
+association of the financial industry, with about 400 
+members from more than 60 countries. The IIF provides 
+its members with innovative research, unparalleled 
+global advocacy, and access to leading industry 
+events that leverage its influential network. Its mission 
+is to support the financial industry in the prudent 
+management of risks; to develop sound industry 
+practices; and to advocate for regulatory, financial, 
+and economic policies that are in the broad interests 
+of its members and foster global financial stability and 
+sustainable economic growth.
+
+McKinsey & Company
+McKinsey & Company is a global management consulting 
+firm deeply committed to helping institutions in the 
+private, public, and social sectors achieve lasting 
+success. For more than 90 years, our primary objective 
+has been to serve as our clients’ most trusted external 
+adviser. With consultants in more than 100 cities and 
+in over 60 markets across industries and functions, we 
+bring unparalleled expertise to clients all over the world. 
+We work closely with teams at all levels of an organization 
+to shape winning strategies, mobilize for change, build 
+capabilities, and drive successful execution.
+
+Cover image © RICHARD JONES/SCIENCE PHOTO 
+LIBRARY/Getty Images.
+
+The cyber clock is ticking: Derisking emerging technologies in financial services 
+
+As financial institutions 
+actively adopt emerging 
+technologies, they should 
+act now to future-proof 
+themselves against 
+growing cyber risks.
+
+About the authors
+
+Lamont Atkins (lamont_atkins@mckinsey.com)  
+is a senior adviser in McKinsey’s Houston office,  
+Soumya Banerjee (soumya_banerjee@mckinsey.com)  
+is an associate partner in the New Jersey office,  
+Lauren Craig (lauren_craig@mckinsey.com)  
+and Grace Hao (grace_hao@mckinsey.com) are  
+
+experts in the New York office, and Justin Greis 
+(justin_greis@mckinsey.com) is a partner in the Chicago 
+office. Martin Boer (mboer@iif.com) is a senior director 
+for regulatory affairs for the Institute of International 
+Finance (IIF) in Washington, DC, where Melanie Idler 
+(midler@iif.com) is an associate policy adviser for IIF.
+
+The cyber clock is ticking: Derisking emerging technologies in financial services 
+
+Contents
+
+15How are companies 
+
+prioritizing and investing  
+in cybersecurity?
+
+21Call to action: Future-proof  
+
+the environment
+
+Appendix: Approach 
+and methodology  22
+
+1Executive summary
+3Financial institutions have 
+
+emerging technologies in  
+their sights
+
+7Emerging technologies 
+
+amplify existing risks and  
+add new ones
+
+11Companies need strong 
+
+foundational cybersecurity 
+capabilities to counter  
+cyber risks
+
+Executive summary
+
+As financial-services companies around 
+
+investment in four of them: cloud and 
+
+As the technology landscape in the 
+
+the world race to keep pace with a rapidly 
+
+edge computing, applied AI, next-gen 
+
+financial-services industry continues to 
+
+evolving technology landscape, they 
+
+software development, and digital 
+
+evolve rapidly over the next three to five 
+
+should consider not only what benefits 
+
+identity and trust architecture (Exhibit 1). 
+
+years and as the associated risks mount, 
+
+new emerging technologies offer but 
+
+All four technologies are likely to see 
+
+now is the time to future-proof the 
+
+also what risks they introduce.
+
+quicker adoption than advanced 
+
+environment. Financial institutions can 
+
+To understand how companies are 
+
+grappling with the best ways to use and 
+
+protect the technologies of today and 
+
+tomorrow, McKinsey partnered with the 
+
+Institute of International Finance (IIF) 
+
+to survey financial institutions around 
+
+connectivity, future mobility, immersive 
+
+lay the foundations for action by asking 
+
+reality, quantum, machine learning, and 
+
+themselves four questions about their 
+
+Web3. This is perhaps because of their 
+
+pursuit of emerging technologies:
+
+widespread applicability and maturity, 
+
+as well as their proven, value-based use 
+
+cases for financial-services companies. 
+
+—  Are we prioritizing the right 
+
+technologies and cybersecurity 
+
+capabilities? Are our technology 
+
+the world regarding their current and 
+
+While these technologies can provide 
+
+priorities aligned with our  
+
+planned usage of ten key emerging 
+
+exponential benefits, they can also 
+
+security capabilities?
+
+technologies. (For details on research 
+
+bring cyber risks that companies 
+
+methodology, including the short-listing 
+
+must mitigate using their existing 
+
+of top technology trends, based on global 
+
+cybersecurity capabilities. The research 
+
+industry trends, see “Appendix: Approach 
+
+shows that current capabilities are 
+
+—  Are we investing in the right 
+
+technologies and cybersecurity 
+
+capabilities? 
+
+and methodology.”) How are companies 
+
+falling short of addressing these 
+
+—  Do we have the right metrics and 
+
+approaching emerging technologies? 
+
+risks. Most survey respondents also 
+
+What emerging technologies are they 
+
+recognize the need to strengthen critical 
+
+adopting? How do they plan to secure 
+
+cybersecurity capabilities, including 
+
+and mitigate the associated cyber risks? 
+
+third-party or supply chain management 
+
+What cybersecurity capabilities will be 
+
+and privileged access management 
+
+reporting? Can we, and do we, 
+
+accurately and confidently measure 
+
+against our risk appetite, provide 
+
+transparency to regulators and 
+
+executives, and identify strengths 
+
+needed to successfully adopt and secure 
+
+(PAM). As companies continue to 
+
+and weaknesses?
+
+new technologies? 
+
+Of the emerging technologies included 
+
+in the survey (see sidebar “Ten emerging 
+
+technologies”), a majority of financial-
+
+services companies indicated that 
+
+they are prioritizing adoption of and 
+
+increase their reliance on newer 
+
+technologies, they must ensure they 
+
+have thought through and implemented 
+
+the necessary risk management 
+
+capabilities. Otherwise, they may find 
+
+the risks outweigh the benefits. 
+
+—  Do we have the right talent to 
+
+close capability gaps? Do we have 
+
+sufficient and appropriate talent not 
+
+just to maintain existing capabilities 
+
+now but to support future maturity 
+
+and technology expansions?
+
+Ten emerging technologies
+
+Cloud and edge computing. In cloud and 
+
+Applied AI (inclusive to generative AI).  
+
+(the next generation of applied AI, which 
+
+edge computing, workloads are distributed 
+
+Models trained in machine learning can 
+
+can automate, augment, and accelerate 
+
+across locations, such as hyperscale 
+
+be used to solve classification, prediction, 
+
+work by tapping into unstructured mixed-
+
+remote data centers, regional centers, 
+
+and control problems to automate 
+
+modality data sets to enable the creation 
+
+and local nodes, to improve latency, 
+
+activities, add or augment capabilities 
+
+of new content in various forms, such 
+
+data-transfer costs, adherence to data 
+
+and offerings, and make better decisions. 
+
+as text, video, code, and even protein 
+
+sovereignty regulations, autonomy over 
+
+Note that at the time of the development 
+
+sequence) was included as subset of the 
+
+data, and security.
+
+and issuing of the survey, generative AI 
+
+applied AI technology category.  
+
+1
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Ten emerging  
+technologies (continued)
+
+enabling practices that accelerate  
+
+and productivity across industries today 
+
+and derisk the development,  
+
+and tomorrow.
+
+deployment, and maintenance of  
+
+machine learning solutions.
+
+Quantum technologies. Quantum-based 
+
+technologies could provide an exponential 
+
+Next-generation software development. 
+
+Web3. Web3 includes platforms and 
+
+increase in computational performance 
+
+New software tools, including those  
+
+applications that aim to enable shifts 
+
+for certain problems and transform 
+
+that enable modern code deployment 
+
+toward a future, decentralized internet  
+
+communications networks by making  
+
+pipelines and automated code generation, 
+
+with open standards and protocols  
+
+them more secure.
+
+testing, refactoring, and translation, 
+
+while protecting digital-ownership  
+
+can improve application quality and 
+
+rights. It’s not simply cryptocurrency 
+
+development processes.
+
+investments, but rather a transformative 
+
+Trust architectures and digital identity. 
+
+Digital-trust technologies enable 
+
+organizations to build, scale, and maintain 
+
+the trust of stakeholders in the use of  
+
+way to design software for specific 
+
+purposes. This shift potentially provides 
+
+users with greater ownership of their data 
+
+and catalyzes new business models.
+
+their data and digital-enabled products 
+
+Advanced connectivity. Wireless low-
+
+and services.
+
+Industrialized machine learning.  
+
+A rapidly evolving ecosystem of  
+
+software and hardware solutions is 
+
+power networks, 5G/6G cellular, Wi-Fi 6 
+
+and 7, low-Earth-orbit satellites, and  
+
+other technologies support a host of  
+
+digital solutions that can drive growth  
+
+Future of mobility. Mobility technologies 
+
+aim to improve the efficiency and 
+
+sustainability of land and air transportation 
+
+of people and goods using autonomous, 
+
+connected, electric, and shared solutions.
+
+Immersive-reality technologies. 
+
+Immersive-reality technologies use 
+
+sensing technologies and spatial 
+
+computing to help users “see the world 
+
+differently” through mixed or augmented 
+
+reality or “see a different world” through 
+
+virtual reality.
+
+Web <2024>
+<CyberClock>
+Exhibit <1> of <12>
+
+Exhibit 1. Among technology trends, cloud and edge computing are applicable 
+to most financial-services organizations, followed by applied AI.
+
+Technology trends being considered by organizations,1 % of respondents (n = 37)
+
+Top 4 trends
+
+Cloud and edge computing
+
+Applied AI
+
+Next-generation software development
+
+Trust architectures and digital identity (ie, digital trust)
+
+84
+
+78
+
+73
+
+70
+
+Industrialized machine learning
+
+Web3
+
+Advanced connectivity
+
+Quantum technologies
+
+49
+
+46
+
+38
+
+32
+
+Future of mobility
+
+22
+
+Immersive-reality technologies (eg, metaverse)
+
+Other
+
+14
+
+11
+
+1Question: Which technology trends are applicable (ie, have already been considered or discussed) to your organization?
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+100
+
+McKinsey & Company
+
+2
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Financial institutions have 
+emerging technologies 
+in their sights
+
+WITH AN INCREASINGLY 
+CROWDED AND FAST-MOVING 
+TECHNOLOGY LANDSCAPE, 
+COMPANIES ARE FACING 
+PRESSURE TO KEEP UP. 
+
+Financial institutions must not only grapple with 
+
+how to best employ and protect their current 
+
+technologies but also pay more and more attention 
+
+to the growing field of emerging technologies that 
+
+prioritizing investments in scaling technology 
+
+development, such as DevOps (software 
+
+development and IT operations), and industrializing 
+
+machine learning and AI.
+
+Institutions are also weighing the current level 
+
+of maturity of each technology in their plans, 
+
+considering the proven (and unproven) use cases 
+
+that could add value to their businesses. The most 
+
+applicable technologies were further along in their 
+
+maturity journeys than some of those that were 
+
+deemed less relevant.
+
+promise to strengthen their businesses—offering 
+
+Cloud and edge computing lead the list, with 
+
+benefits such as increased automation, scalability, 
+
+84 percent of respondents recognizing their 
+
+and cost savings.
+
+To better understand how institutions are 
+
+approaching and prioritizing new technologies,  
+
+we surveyed companies around the world about 
+
+the applicability of ten emerging technologies to 
+
+their businesses. 
+
+The survey results reveal that financial-
+
+services companies are not exploring all the 
+
+relevance to their businesses. Among those 
+
+respondents, six in ten reported that more than 
+
+25 percent of their workload now resides in the 
+
+cloud. This share will undoubtedly rise as cloud 
+
+capabilities continue to evolve and as companies 
+
+continue to transform their IT infrastructure through 
+
+cloud migration and investment into cloud-native 
+
+infrastructure—enticed by benefits such as 
+
+flexibility, scalability, and cost efficiencies that are 
+
+emerging technologies equally. Instead, they are 
+
+otherwise not offered by traditional, on-premise 
+
+concentrating on those they perceive as most 
+
+data centers.
+
+applicable to their organizations and likely to 
+
+bring the most value, all while factoring in their 
+
+current technological capabilities, their long-term 
+
+business and tech strategies, and the potential 
+
+regulatory impacts.
+
+In recent years, financial-services companies 
+
+have evolved into technology-driven companies. 
+
+This tech-centric approach is visible in the ways 
+
+Maturity and proven use cases undoubtedly help 
+
+propel widespread adoption, and indeed survey 
+
+respondents confirmed that cloud computing is 
+
+already the most mature emerging technology 
+
+used across financial-services companies. 
+
+Over 70 percent of companies see their cloud 
+
+adoption in the post-pilot stage, and 42 percent 
+
+consider their capabilities fully adopted and in the 
+
+they are prioritizing their investments; in addition 
+
+maintenance stage. 
+
+to embracing software technologies, they are 
+
+3
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Applied AI gets nearly as much attention, with 
+
+and fraud. These efforts offer companies the 
+
+almost 80 percent of respondents calling it relevant 
+
+opportunity to gain a competitive advantage in the 
+
+to their businesses. AI and machine learning have 
+
+applied AI space before the technology is ready 
+
+a long history in financial services. Corporate and 
+
+to be deployed. They can implement, for instance, 
+
+investment banks, as well as insurers, were early 
+
+proper oversight and responsible guardrails and 
+
+adopters of AI and machine learning, decades 
+
+controls for AI technology, thereby hastening its 
+
+before other financial institutions. The rest of the 
+
+adoption for when it has sufficiently matured. 
+
+financial-services industry has caught up in recent 
+
+years, and adoption has only continued to grow. 
+
+Almost 75 percent recognize the applicability 
+
+of next-gen software development to their 
+
+This aligns with broader technology trends in 
+
+businesses, enticed by the ability to transform 
+
+financial services, as applied AI technologies 
+
+their software development life cycle and simplify 
+
+continue to evolve and offer the potential for 
+
+previously complicated custom development tasks. 
+
+increasing value to companies. The next stage 
+
+AI-enabled development and testing, low-code and 
+
+of AI—generative AI—promises unprecedented 
+
+no-code tools, and other advances can improve 
+
+disruption of the industry (see sidebar “The 
+
+processes and software quality in each stage of the 
+
+promises—and risks—of generative AI”).
+
+development life cycle. 
+
+Unlike with cloud adoption, however, the maturity 
+
+Next-gen software development is largely in the 
+
+level of applied AI is still evolving. While many 
+
+pilot stage across many companies. They stand to 
+
+financial-services companies recognize the 
+
+transform their software development life cycle, 
+
+relevance of applied AI, most of their use cases 
+
+reaping the rewards of simplifying complicated 
+
+remain in the early stages of development. Seventy 
+
+tasks in custom application development. While 
+
+percent of the survey respondents reported being 
+
+only 11 percent of the survey respondents have fully 
+
+in the pilot stage or earlier. Some use cases such as 
+
+adopted this technology, more than 50 percent are 
+
+financial-crime, financial-risk, and asset modeling 
+
+in the pilot or post-pilot expansion stage, indicating 
+
+are quite mature. Those that are in the early stages 
+
+they have had time to consider the benefits and use 
+
+include gen AI and large language models. Many 
+
+cases of the technology.
+
+institutions are still exploring their use in customer 
+
+interaction support, personalized marketing, 
+
+Trust architecture and digital identity are also 
+
+advanced across many companies. Almost 
+
+The promises—and risks—of generative AI
+
+Generative AI (gen AI) has become a 
+
+$200 billion to $340 billion in value across 
+
+protect their data, intellectual property, 
+
+leader in emerging technology in 2024, 
+
+banking, wholesale, and retail, and add 
+
+and reputation. Gen AI, for example, could 
+
+creating widespread buzz across industry 
+
+$4.4 trillion in overall economic value.1
+
+certainly help banks, insurers, and money 
+
+and media. In response, organizations 
+
+are quickly finding ways for gen AI to 
+
+propel sustainable, inclusive growth by 
+
+solving problems efficiently. Our research 
+
+estimates that gen AI could add 
+
+But gen AI introduces risks, including 
+
+some we may not foresee today. Financial-
+
+services firms should prepare to recognize 
+
+and mitigate those risks, applying the right 
+
+resources, tools, and controls to 
+
+managers meet customers’ needs, such as 
+
+tailored advisory services, but raises new 
+
+risks in terms of fairness and bias, as well 
+
+as data ownership and governance.
+
+1  For more, see Michael Chui, Mena Issler, Roger Roberts, and Lareina Yee, McKinsey Technology Trends Outlook 2023, McKinsey, July 20, 2023; and  
+
+The economic potential of generative AI: The next productivity frontier, McKinsey, June 14, 2023.
+
+4
+
+The cyber clock is ticking: Derisking emerging technologies in financial services 50 percent of the survey respondents put 
+
+the following emerging technologies that stand to 
+
+themselves in the post-pilot or maintenance 
+
+benefit financial-services companies applicable to 
+
+stage of digital identity, and 70 percent call trust 
+
+their companies today: quantum, future of mobility, 
+
+architecture applicable to their businesses, with 
+
+and immersive reality. Many institutions may not 
+
+use cases regarding digital banking, omnichannel 
+
+see adoption of these technologies happening 
+
+customer experience, a 360-degree view of 
+
+soon and therefore are not prioritizing them today, 
+
+customers, and digital-wallet offerings. These 
+
+because of the longer runway for adoption. It could 
+
+efforts have demonstrated such benefits as 
+
+well be that advances in quantum computing over 
+
+faster innovation, stronger asset protection, and 
+
+the next few years may result in quantum quickly 
+
+better customer experience, further persuading 
+
+rising to a top concern, given its potential for 
+
+institutions to invest in underlying technologies, 
+
+materially affecting areas like password breaches 
+
+including zero-trust architecture, digital-identity 
+
+and encryption breaking. 
+
+systems, and privacy engineering. 
+
+While this perspective is appropriate when 
+
+Digital-trust efforts will most certainly increase as 
+
+considering the current maturity of these 
+
+identity-related breaches, especially cyberattacks 
+
+technologies, especially compared with more 
+
+on identity systems, continue to grow. Eighty-
+
+advanced and widely adopted technologies such 
+
+four percent of companies participating in a 2022 
+
+as cloud and edge computing, financial-services 
+
+Identity Defined Security Alliance survey reported 
+
+companies should not be so quick to dismiss them. 
+
+suffering an identity-related breach during that 
+
+Quantum computing, for example, is estimated 
+
+year.1 As organizations continue expanding their 
+
+to bring over $600 billion in value to finance, with 
+
+digital footprints, they must securely build and 
+
+potential benefits such as real-time automated 
+
+closely monitor their identity-related capabilities. 
+
+decision making and support activities such as 
+
+At the other end of the spectrum, less than one-
+
+third of the survey respondents are considering 
+
+holistic stimulations of liquidity or risk stimulations 
+
+as part of large-scale, high-margin deals.
+
+1  “New study reveals 84% of organizations experienced an identity-related breach in the last year,” Identity Defined Security 
+
+Alliance press release, June 22, 2022.
+
+5
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Adoption and maturity of these technologies, 
+
+need to spend more to continue building their 
+
+and undoubtedly others, is only expected to 
+
+capabilities in industrializing machine learning, 
+
+expand, as companies believe they should be 
+
+next-gen software development, applied AI, future 
+
+spending more on those perceived as most 
+
+mobility, and trust architecture and digital identity 
+
+applicable to their organizations. Many noted 
+
+(Exhibit 2). This spending imperative will only 
+
+that they do not believe they are spending 
+
+accelerate as the technologies ripe for investment 
+
+enough on applicable technologies. More than 
+
+continue to mature and proliferate.
+
+half of the survey respondents recognize the 
+
+Web <2024>
+<CyberClock>
+Exhibit <2> of <12>
+
+Exhibit 2. Financial-services organizations are spending the most on cloud and 
+edge computing technologies.
+
+Spending on technologies,1 % of respondents who say they should spend more (n = 34)
+
+Top 4 trends
+
+Industrialized machine learning
+
+Next-generation software development
+
+Applied AI
+
+Future of mobility
+
+Trust architectures and digital identity (ie, digital trust)
+
+Quantum technologies
+
+Cloud and edge computing
+
+Immersive-reality technologies (eg, metaverse)
+
+Advanced connectivity
+
+Web3
+
+31
+
+31
+
+65
+
+65
+
+64
+
+63
+
+52
+
+45
+
+43
+
+40
+
+100
+
+1Question: What percentage of the IT budget does your organization currently spend on tech trends?
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+6
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Emerging technologies 
+amplify existing risks 
+and add new ones
+
+EMERGING TECHNOLOGIES 
+CAN OFFER SIGNIFICANT 
+BENEFITS, BUT THEY CAN 
+ALSO EX ACERBATE EXISTING 
+RISKS AND INTRODUCE 
+NEW CYBER RISKS.
+
+Cyber risk management is nothing new to 
+
+financial-services companies, but the importance 
+
+of a robust, comprehensive strategy has never 
+
+been more critical and will only increase as 
+
+institutions expand their technological footprint. 
+
+Cyberattacks continue to increase, and financial-
+
+services companies face well-funded, highly 
+
+organized, and well-trained cyber criminals.  
+
+These criminals are also adopting emerging 
+
+technologies to aid in their attacks, including recent 
+
+attacks utilizing gen AI as part of sophisticated 
+
+phishing campaigns. 
+
+Cyber incidents are increasing in both frequency 
+
+and severity year over year, and institutions 
+
+must stay vigilant in their capabilities to defend 
+
+themselves and protect their assets and finances 
+
+against electronic crime (Exhibit 3). Cyber 
+
+incidents are increasing in both frequency and 
+
+severity year over year, and institutions should 
+
+stay vigilant in their capabilities to defend 
+
+themselves and protect their assets and finances. 
+
+According to the 2024 CrowdStrike global threat 
+
+report, Electronic Crime (eCrime) continues 
+
+to rise and led as the most pervasive threat in 
+
+2023. Data-theft extortion also continues to rise, 
+
+and 2023 saw a 76 percent increase in victims 
+
+named on eCrime dedicated leak sites compared 
+
+with 2022.2 As companies increase their use of 
+
+technology, they are also increasing the number 
+
+of avenues for a potential cyberattack by mature 
+
+threat actors.
+
+We further surveyed financial institutions to better 
+
+understand what cyber risks were top of mind. The 
+
+biggest risks they reported that their organizations 
+
+face include cyberattacks, AI, talent management, 
+
+third-party and supply chain management, and 
+
+data security (Exhibit 4). While this proves that 
+
+companies are aware and considering the risks they 
+
+face, it also raises a couple of questions: Do they 
+
+2  2024 global threat report, CrowdStrike, February 2024.
+
+7
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Web <2024>
+<CyberClock>
+Exhibit <3> of <12>
+
+Exhibit 3. As financial-services organizations continue to transform and 
+modernize, the frequency and severity of cyberattacks are increasing.
+
+Major cyberincidents, 2007–23 
+
+2010
+Stuxnet worm
+
+2007 
+DDoS¹ on 
+government 
+sites
+
+2012
+File share 
+tech breach 
+(68 million 
+records)
+
+2014
+E-commerce 
+(145 million 
+records)
+
+Global
+media hack
+
+2020
+High tech
+
+2022
+Microchip 
+manufacturing
+
+Fintech data 
+breach
+
+Rideshare data 
+breach
+
+2016
+South Asia 
+SWIFT banking 
+attack
+(estimated
+$81 million 
+stolen)
+
+Global tech/
+email (500 
+million records)
+
+Professional 
+network plat-
+form (112
+million records)
+
+2018
+Social network 
+(90 million 
+records)
+
+Global tech
+(52 million 
+records)
+
+Social network 
+(330 million 
+records)
+
+Hotel chain 
+(500 million 
+records)
+
+2009
+DDoS on
+government/
+financial 
+websites
+
+2011
+Secure
+multifactor 
+authentication
+infiltration
+
+2013
+Global
+tech/email
+(3 billion
+records)
+
+2015
+US federal 
+government² 
+(21 million 
+records)
+
+2021
+Critical
+infrastructure
+
+2019
+Financial 
+corporation 
+(885 million 
+records)
+
+2023
+DDoS
+on hyper-
+scalers
+
+2017
+WannaCry
+attack
+
+Rideshare 
+(112 million 
+records)
+
+Global
+shipping 
+($1.3–1.9 
+billion 
+damage)
+
+Note: Organizations’ names redacted.
+1Distributed denial of service.
+²Sensitive personnel data stolen from US government employees who underwent security clearance background checks.
+Source: Munich Re; McKinsey Global Institute analysis on the Future of Work after COVID-19
+
+NotPetya
+attack
+
+McKinsey & Company
+
+have the right capabilities to mitigate risks? Are 
+
+and as network boundaries disappear, there’s an 
+
+they considering the potential for increased risks 
+
+increased risk of exposure to threat actors and of 
+
+as they expand their adoption of new technologies? 
+
+nation-states gaining access to networks. Without 
+
+While they overwhelmingly recognize that they 
+
+proper management anchored in a robust cloud 
+
+are under attack and that emerging technologies 
+
+security strategy and strong security capabilities, 
+
+introduce risk, they still lack the appropriately 
+
+companies face a multitude of cyber risks, 
+
+skilled talent to address these risks. 
+
+including misconfigurations, data privacy breaches, 
+
+As companies expand their technology adoption, 
+
+cyber risks are likely to grow. Specifically, each of 
+
+the four technologies that received the greatest 
+
+attention from survey respondents introduces its 
+
+own risks. 
+
+and data loss. Strong access controls, vulnerability 
+
+management programs, data protection, and 
+
+third-party management capabilities are critical 
+
+to mitigating these risks; otherwise, organizations 
+
+may find themselves susceptible to risks such as 
+
+data loss through weak internal connections and 
+
+Take cloud migration, for example. As financial 
+
+service disruptions because of a heavy reliance on 
+
+institutions move their workloads to the cloud 
+
+third-party exposure. 
+
+8
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Web <2024>
+<CyberClock>
+Exhibit <4> of <12>
+
+Exhibit 4. Cyberattacks, AI misuse, and talent management are key risks for 
+financial-services organizations.
+
+Top three cyber risks in next 3–5 years,1 % of respondents (n = 37)
+
+32 of 37 respondents highlighted cyber 
+
+attacks (eg, ransomware, fraud, social engineer-
+ing, phishing, advanced persistent threat) as a 
+top risk priority for their organizations. Attacks 
+that exploit third parties and supply chains were 
+singled out due to the difficulty in maintaining 
+governance and visibility.
+
+22 of 37 respondents high-
+
+lighted emerging technology 
+and their potential misuse (eg, 
+AI risk, digital trust, cloud) as a 
+key concern.
+
+7 of 37 respondents highlight-
+
+ed cyber talent management 
+as a concern, particularly with 
+regard to upskilling, retention, 
+hiring, and churn rate.
+
+1Question: What do you see as the top three cyber risks your organization will face over the next 3–5 years?
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+Applied AI and gen AI usage introduces significant 
+
+Financial-services companies must rely upon their 
+
+regulatory risks for companies. Regulators are 
+
+foundational cybersecurity capabilities to secure 
+
+increasingly eyeing the risks associated with AI 
+
+their technologies and protect their environments. 
+
+and are developing requirements, such as those 
+
+Cybersecurity capabilities should be prioritized 
+
+set forth in the EU AI Act, that are likely to see 
+
+within the business as institutions continue to 
+
+enforcement in the coming years. Financial-
+
+undergo technology transformations and recognize 
+
+services companies should build their security 
+
+the benefits they bring with them. Without strong 
+
+capabilities—including reporting, governance, and 
+
+foundational security capabilities and controls 
+
+data privacy—in line with emerging regulations 
+
+within their cybersecurity programs, organizations 
+
+before they take force. 
+
+will be exposed to risks brought on by their 
+
+Next-gen software development and trust 
+
+technology investments.
+
+architecture can also subject companies to 
+
+With this risk in mind, it is critical that 
+
+risks if they are not securely developed and 
+
+organizations understand not only the benefits 
+
+implemented. Both technologies can provide 
+
+that new technologies may bring but also the 
+
+increased efficiencies and increase security within 
+
+accompanying risks. For institutions to truly 
+
+an organization’s technology environment, but 
+
+harness their benefits, they must first coordinate 
+
+with them comes the risk of failure in involving the 
+
+their current capabilities by strategically 
+
+right skills in development and implementation or 
+
+investing in and maturing those that support the 
+
+of failure to integrate the technologies fully and 
+
+new technologies. While financial companies 
+
+securely into the environment.
+
+undoubtedly recognize the importance of cyber 
+
+Consider the implementation of zero-trust 
+
+architecture. Security misconfiguration and 
+
+integration issues associated with legacy tools may 
+
+increase the risks of data loss, reputational harm, 
+
+and insider threats. 
+
+risks and the actions they should take to manage 
+
+them, the question is, are they fully aware of the 
+
+added risks these new technologies bring?
+
+9
+
+The cyber clock is ticking: Derisking emerging technologies in financial services “Digital transformation is at the heart of 
+our strategy. We recognize the importance 
+of adopting and investing in emerging 
+technologies, such as cloud and AI. At the 
+same time, managing the associated cyber 
+and technology risks is of utmost importance 
+to ensure overall resilience of our vital 
+services. This helps enhance the digital 
+trust of our customers while protecting 
+the safety and soundness of the bank.”
+
+—Jay Puthanveedu; global head of resilience, 
+cyber and digital fraud; BNP Paribas
+
+10
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Companies need 
+strong foundational 
+cybersecurity capabilities 
+to counter cyber risks
+
+FINANCIAL INSTITUTIONS 
+FEEL PRESSURE TO KEEP PACE 
+WITH OTHER ORGANIZATIONS 
+AND WORRY THEY ARE NOT 
+INVESTING THE RIGHT 
+LEVEL OF RESOURCES 
+IN THE ADOPTION OF 
+NEW TECHNOLOGIES. 
+
+Fifty-seven percent of surveyed respondents 
+
+admitted they were concerned with keeping pace 
+
+with emerging technologies, specifically with 
+
+respect to their cybersecurity expenditures. 
+
+While they recognize the importance of having 
+
+strong cybersecurity capabilities to mitigate cyber 
+
+risks, 31 percent of companies are not confident 
+
+that their capabilities can do so. To understand 
+
+how companies are prioritizing and managing 
+
+risks, we asked them to select their top strengths 
+
+and weaknesses in their security capabilities 
+
+across eight domains and numerous subdomains 
+
+(Exhibit 5).3
+
+The weakest capabilities they identified require 
+
+immediate attention, as many of them are essential 
+
+to successfully developing and deploying the five 
+
+technologies of greatest interest to the survey 
+
+respondents (Exhibit 6):
+
+—  Third-party and supply chain management. By 
+
+far the greatest capability weakness—topping 
+
+the list for 65 percent of survey respondents—
+
+third-party management is critical as 
+
+companies continue to expand emerging-
+
+technology use in cloud computing and applied 
+
+AI, which rely heavily on third-party services for 
+
+such critical components as computing, data 
+
+usage, model bias, model usage, and security. 
+
+  As financial-services companies rely more 
+
+and more on third-party services, they must 
+
+enhance their own security capabilities to avoid 
+
+exceeding their risk appetites and making their 
+
+environments vulnerable to risks. 
+
+—  Metrics and reporting. Despite compliance 
+
+being an important factor for investment into 
+
+cybersecurity, a significant portion of the survey 
+
+respondents (41 percent) called their metrics 
+
+and reporting capabilities a core weakness. 
+
+Companies need reliable, insightful metrics 
+
+3  Given the large number of sub-capability options, we focused our analysis on the top ten capabilities that received the largest 
+number of respondent selections. We acknowledge that every cybersecurity organization is different, has varying remits and 
+scope, and delivers different services depending on how the cybersecurity organization is defined for that company. While 
+the capabilities and sub-capabilities in the model may change and evolve over time, we used this framework as a point-in-
+time standard to analyze the population of respondents in a consistent manner.
+
+11
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Web <2024>
+<CyberClock>
+Exhibit <5> of <12>
+
+Exhibit 5. There are eight domains and numerous sub-domains in McKinsey’s 
+cybersecurity capability model.
+
+McKinsey cybersecurity capability model
+
+Strategy, program manage-
+ment, and performance
+
+Governance, risk,
+and compliance
+
+Architecture
+and engineering
+
+n Security strategy
+n Financial management
+n Security vendor
+management
+
+n Metrics and reporting
+n Security project and
+
+program management
+
+n Talent management
+n Business relationship 
+
+management
+
+n Security service and
+
+product management
+n Security team learning
+and development
+n Communications
+management
+
+n Security governance
+n Third-party security
+risk management
+n Digital transformation
+
+and integration
+
+n M&A security
+n Policies and standards
+n Supply chain security
+n Security assurance
+n Cyber insurance
+n Training, education, 
+and awareness
+
+n Security risk
+management
+
+n Security compliance 
+n Insider threat program
+
+n Security architecture
+n Operational technology 
+
+security 
+
+n Secure software and
+product development
+n Edge and IoT security
+n Security engineering
+
+and integration
+n Cloud security
+n IT asset management
+n Emerging technologies 
+
+and innovation
+
+n Security infrastructure
+
+and tooling
+
+n Network and comm-
+unication security
+
+n Security consulting and 
+
+advisory
+
+n Threat modeling
+
+Security operations
+and response
+
+n Threat and vulnerability 
+
+management
+n Security incident
+
+response
+
+n Security automation
+and orchestration
+
+n Forensics and 
+investigations
+n Threat intelligence
+n Application security
+
+testing
+
+n Patch management
+    and remediation
+n Security logging and
+
+monitoring
+
+n Endpoint security
+n Threat hunting and
+active defense
+
+n 
+
+Identity and access 
+management
+
+Cyber resilience and
+recovery
+
+Data privacy
+and protection
+
+n Identity management
+n Privileged access
+management
+
+n Access management
+n Cryptography and key 
+
+management
+
+n Identity and access
+
+governance
+n Fraud protection
+
+McKinsey & Company
+
+n Cyber crisis readiness
+n Business continuity
+
+management
+
+n Cyber crisis response
+n Disaster recovery
+n Cyber recovery and
+
+restoration
+
+n Data loss protection
+n Privacy operations
+n Data life cycle
+management
+n Encryption and
+tokenization
+
+n Privacy compliance
+
+Physical security
+and safety
+
+n Facility security and
+
+physical access control
+n Physical asset security
+n Surveillance and
+
+monitoring
+n Personnel and
+
+workforce security
+n Executive protection
+
+12
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Physical security
+
+and safety
+
+n Facility security and
+
+physical access control
+
+n Physical asset security
+
+n Surveillance and
+
+monitoring
+
+n Personnel and
+
+workforce security
+
+n Executive protection
+
+Web <2024>
+<CyberClock>
+Exhibit <6> of <12>
+
+Exhibit 6. Financial-services organizations are often strong in overarching security 
+governance and strategy but feel they could improve technical capabilities.
+
+Areas where improvements are required,1 % of respondents (n = 37)
+
+Top 4 weaknesses
+
+Third-party security, risk/supply chain security management
+
+65
+
+Metrics and reporting
+
+Privileged access management
+
+Data life cycle management
+
+Talent management
+
+Cryptography and key management
+
+Cloud security
+
+IT asset management
+
+Patch management and remediation
+
+41
+
+38
+
+30
+
+27
+
+27
+
+27
+
+27
+
+27
+
+Encryption and tokenization
+
+24
+
+100
+
+1Question: My organization needs improvements in which areas (select up to 10 capabilities).
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+and reporting (such as security compliance, 
+
+  Without a robust process for measuring, 
+
+risk metrics, and vulnerability tracking) to 
+
+reporting, and governing the risks associated 
+
+prove to regulators the health of their security 
+
+with capabilities, organizations are flying 
+
+capabilities and to manage those capabilities. 
+
+blind, not knowing how much risk emerging 
+
+New regulations such as the US SEC Cyber 
+
+technologies will pose. Companies, for example, 
+
+Disclosure Rule4 and the Cyber Incident 
+
+will need evolved controls to measure model 
+
+Reporting for Critical Infrastructure Act of 2022 
+
+bias and risk, average time spent responding 
+
+(CIRCIA) and similar regulations around the 
+
+to incidents in the cloud environment, and 
+
+world have underscored the importance of 
+
+the severity of vulnerabilities. These controls 
+
+better reporting, transparency, and governance 
+
+enable companies to identify their strengths 
+
+of cybersecurity risk.5 Additionally, with an 
+
+and weaknesses and address those gaps before 
+
+increased focus around the world on regulatory 
+
+an issue materializes. 
+
+compliance, operational resilience, as well as 
+
+third-party risk management, more and more 
+
+financial institutions are being challenged 
+
+to prove the resilience of their vendors and 
+
+their reliability in times of extreme stress. It is 
+
+therefore more critical than ever that companies 
+
+can measure their risks properly.
+
+—  Identity and access management (IAM) 
+
+capabilities. The survey respondents passed 
+
+similar judgment on their IAM capabilities, 
+
+specifically the higher-risk PAM capability. 
+
+Despite investment in digital identity and 
+
+an increased technology domain to protect, 
+
+companies are still struggling to protect 
+
+4  US Securities and Exchange Commission, Release Nos. 33-11216; 34-97989: Cybersecurity Risk Management, Strategy, 
+
+Governance, and Incident Disclosure, Final Rule, September 5, 2023.
+
+5  “Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA),” Cybersecurity & Infrastructure Reporting Agency, 
+
+accessed March 2024.
+
+13
+
+The cyber clock is ticking: Derisking emerging technologies in financial services accounts with high-risk access. Without 
+
+major foundational capability of data life  
+
+proper PAM, emerging-tech capabilities remain 
+
+cycle management, as 30 percent of the survey 
+
+vulnerable to backdoor compromise by threat 
+
+respondents admitted. Without secure, reliable 
+
+actors. In addition, as financial institutions 
+
+data management in following best practices 
+
+increasingly depend on automated software 
+
+from creation to destruction, companies will 
+
+development (like the next-gen software 
+
+have difficulty optimizing the benefits of 
+
+development that 74 percent of respondents are 
+
+technologies that require reliable data sources. 
+
+funding), they need to implement safe IAM and 
+
+PAM practices. 
+
+Think about applied AI. Securing the model training 
+
+data to prevent tampering and the introduction 
+
+—  The cloud. The cloud expands the digital 
+
+of bias is essential. As AI models are applied to 
+
+environment and overall attack vector that 
+
+data sets and as data passes through the models, 
+
+companies must secure. While they embrace 
+
+understanding the full life cycle of data security 
+
+digital trust, organizations struggle to manage 
+
+from discovery to classification, monitoring, 
+
+digital identities. The automated deployment 
+
+compliance, and protection is equally essential. 
+
+and easily scalable infrastructure in the 
+
+The top technologies in which institutions are 
+
+cloud can increase the risk of data exposure. 
+
+investing also have the highest correlation with 
+
+Unfortunately, developers often use domain 
+
+weaker capabilities. There is also a disconnect 
+
+administrator or master privileged accounts and 
+
+between the top-of-mind risks reported and 
+
+default credentials in the cloud environment. 
+
+the capability weaknesses companies are 
+
+Without proper PAM, they are practically inviting 
+
+facing. These disconnects pose huge risks for 
+
+bad actors to grab the keys to the kingdom.
+
+organizations, especially as they continue to rapidly 
+
+—  Data life cycle management. While many 
+
+financial-services companies are using 
+
+next-gen software development and applied 
+
+AI to pursue efficiencies and automation 
+
+opportunities, they often fall short on the  
+
+invest, pilot, and deploy these technologies in their 
+
+environments. Organizations should strengthen 
+
+these capabilities now to protect themselves in the 
+
+future against the growing level of risk associated 
+
+with these technologies. 
+
+14
+
+The cyber clock is ticking: Derisking emerging technologies in financial services How are companies 
+prioritizing and investing 
+in cybersecurity?
+
+FINANCIAL-SERVICES 
+ORGANIZATIONS’ 
+CYBERSECURITY 
+CAPABILITIES ARE 
+STRUGGLING TO KEEP 
+UP WITH THE R APID 
+PACE OF ADOPTION. 
+
+To better understand how companies 
+
+are approaching cybersecurity, we asked 
+
+three important questions: What is causing 
+
+organizations to mature their cybersecurity 
+
+capabilities? How are they prioritizing spending  
+
+on cybersecurity? Do they have the right talent  
+
+to address their capabilities and gaps? (See  
+
+sidebar “Cloud and edge computing—investments 
+
+planned in tech but not security.”)
+
+Compliance advances 
+cybersecurity maturity
+
+As to what causes financial institutions to mature 
+
+their cybersecurity capabilities, our survey found 
+
+that there were two common factors across 
+
+financial-services organizations: increased 
+
+compliance with regulations and increased 
+
+defense against outside threats. Seventy percent 
+
+of companies said that increased compliance with 
+
+regulations causes their organizations to mature 
+
+their cybersecurity capabilities (Exhibit 7).
+
+The desire for increased protection against 
+
+security breaches comes as no surprise; it is the 
+
+secondary top factor for maturity. Similarly, given 
+
+increasing regulation of financial services, it is 
+
+understandable that increased compliance with 
+
+regulations would drive capability maturity, likely 
+
+in areas with known gaps. 
+
+Companies should approach compliance as 
+
+the minimum baseline of expectations rather 
+
+than the aspirational goal. Likewise, regulatory 
+
+compliance should be baked in proactively rather 
+
+than a reaction or an afterthought, especially as 
+
+rule makers delve into emerging technologies. 
+
+For many technologies, regulations are still under 
+
+development (most notably in the AI space). As 
+
+regulations catch up with the level of adoption 
+
+across organizations, companies need to be 
+
+prepared to comply. By using compliance as an 
+
+essential aspect of adoption, organizations can 
+
+future-proof their technologies by getting ahead of 
+
+emerging regulations before their implementation.
+
+Spending habits: Companies recognize 
+critical underinvestment in cybersecurity
+
+Acknowledgment of underspending in capabilities 
+
+has grown in the last three years. Seventy 
+
+percent of the survey respondents believe they 
+
+are underspending and should spend more. Not 
+
+one organization reported overspending. This 
+
+marks a shift from prior surveys: in the 2020 
+
+IIF and McKinsey Cyber Resilience Survey, 
+
+only 58 percent of respondents acknowledged 
+
+underspending. In 2023, a majority of companies 
+
+15
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Web <2024>
+<CyberClock>
+Exhibit <7> of <12>
+
+Exhibit 7. Financial-services organizations value compliance and security 
+against threats as top drivers for cybersecurity capabilities.
+
+Factors driving organizations in maturing cybersecurity,1 % of respondents (n = 37)
+
+70
+
+70
+
+49
+
+32
+
+32
+
+27
+
+Increased
+compliance with 
+regulations
+
+Increased security 
+protection/defense 
+against outside 
+threats
+
+Business/strategic 
+drivers or
+customer-driven 
+demand
+
+Competitive
+differentiator/
+leader in industry
+
+Response to 
+internal or external 
+audits
+
+Response to past 
+security issues or 
+incidents
+
+1Question: What are the primary factors driving your organization in maturing its cybersecurity capabilities?
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+said that they should increase cybersecurity 
+
+A portion of the expected increased funding is 
+
+spending more than 20 percent to build the 
+
+likely to go toward special initiatives to address 
+
+requisite capabilities (Exhibit 8).
+
+growing cyber risk. Many companies also 
+
+Today, financial-services companies devote 
+
+13 percent of their overall IT budget, on average, 
+
+to cybersecurity. As they continue investing 
+
+heavily in technologies, they should consider 
+
+the short- and long-term implications of these 
+
+technologies for cybersecurity to maintain 
+
+protection of their environments. 
+
+Fortunately, cybersecurity spend is expected to 
+
+increase over the next two to three years, with 
+
+regional banks (Tier 2) expected to see the largest 
+
+growth. Tier 2 banks’ anticipated cybersecurity 
+
+spend likely comes as they near the Tier 1 capital 
+
+threshold and anticipate increased scrutiny from 
+
+regulators (Exhibit 9).
+
+acknowledge that they are not currently prepared 
+
+to mitigate risks associated with emerging 
+
+technologies and that they must implement 
+
+special initiatives and controls to secure their 
+
+environments. But with the ever-increasing need 
+
+for additional funding, special initiatives will only 
+
+add to existing budget strains.
+
+More than 40 percent of the survey respondents 
+
+have launched special initiatives to address the 
+
+security control gaps related to the adoption of 
+
+emerging technologies (Exhibit 10). Fewer than 
+
+10 percent lack plans to invest in protecting the 
+
+top four technologies. 
+
+16
+
+The cyber clock is ticking: Derisking emerging technologies in financial services “A key to enhanced security for emerging and 
+critical technologies is to develop standards 
+on how current cybersecurity and information 
+security measures are integrated into the 
+use of these technologies. Tighter integration 
+between these standards and current cyber 
+frameworks, such as ISO and the National 
+Institute of Standards and Technology’s 
+CSF, will create uniformity in how these 
+technologies are implemented between 
+financial institutions and the agreed security 
+measures for these technology usages.”
+
+—Jason Harrell; head of external engagements, 
+operational and technology risk, Depository 
+Trust and Clearing Corporation
+
+17
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Web <2024>
+<CyberClock>
+Exhibit <8> of <12>
+
+Exhibit 8. The lack of investment in capabilities has grown in the last three years 
+as financial firms continue to acknowledge underspending in cybersecurity.
+
+Spending on
+cybersecurity1
+% of respondents 
+(n = 37)
+
+42
+
+Cybersecurity 
+confidence2
+% of respondents 
+(n = 37)
+
+30
+
+We are
+spending
+the right
+amount
+
++12
+percentage
+points
+
+58
+
+70
+
+We should
+be spending
+more
+
+2020
+
+2023
+
+1Question: I believe we should be spending (more/less/the same) on our cybersecurity program.
+²Question: Do you currently feel you have the appropriate level of full-time cybersecurity employees?
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+We are
+confident in
+our abilities
+to address
+cyber risk
+
+31
+
+2023
+
+Cloud and edge computing—investments planned in tech  
+but not security
+
+While more and more financial institutions 
+
+or reduce costs, even as they invest  
+
+Third-party security risk and supply chain 
+
+are moving to the cloud, not enough 
+
+more in cloud technology. 
+
+security management was the number-
+
+are paying sufficient attention to the 
+
+security risks associated with the cloud 
+
+environment. Although 84 percent of 
+
+the survey respondents consider cloud 
+
+and edge computing applicable to their 
+
+businesses and about 70 percent have 
+
+entered the post-pilot phase of cloud 
+
+implementation (reflecting heavy reliance 
+
+on cloud technology), few are planning  
+
+to invest in robust cloud security.  
+
+Almost 30 percent plan to maintain  
+
+This may stem from the belief that cloud 
+
+service providers will manage all security 
+
+capabilities for firms. While they certainly 
+
+manage some security, it is not a one-sided 
+
+equation; organizations must prioritize 
+
+protecting themselves and implement 
+
+secure controls and practices for the 
+
+security of their cloud environments under 
+
+their purview.
+
+one cybersecurity capability weakness 
+
+reported by survey respondents. Given 
+
+that cloud computing and cloud security 
+
+rely heavily on third parties, firms 
+
+should think twice about reducing their 
+
+investment in cloud security and continue 
+
+to upskill their talent to ensure they are 
+
+building secure practices “by design” into 
+
+their cloud environments.
+
+18
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Web <2024>
+<CyberClock>
+Exhibit <9> of <12>
+
+Had to clip this sentence to get it onto two lines
+
+Exhibit 9. In the US, Tier 2 regional banks are increasing their spend on 
+cybersecurity relative to IT.
+
+Planned cybersecurity spend as a share 
+of IT budget, by type of bank,1 % (n = 26)
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+2019
+
+Mega
+
+Super regional
+
+Regional
+
+Midcap and
+credit unions
+
+Tier 0
+
+Tier 1
+
+Tier 2
+
+Tier 3
+
+Tier 4
+
+Tier 5
+
+Tier 6
+
+Assets under
+management
+
+>$1 trillion
+
+>$0.1 trillion–$1.0 trillion
+
+>$50 billion–$100 billion
+
+>$5 billion–$50 billion
+
+>$1 billion–$5 billion
+
+>$0.5 billion–$1.0 billion
+
+≤$0.5 billion
+
+Number
+in 2022
+
+4
+
+30
+
+16
+
+223
+
+707
+
+771
+
+2,952
+
+4,866
+
+2022
+
+2025
+
+Credit unions
+
+–
+
+1Banks assigned to capital tiers using self-reported revenue ranges, based on an assumed profit margin of ~15% and presumed return on assets of 1.18%.
+Source: SNL Financial; McKinsey Cyber Market Map
+
+McKinsey & Company
+
+Financial-services companies may encounter 
+
+obstacles in finding and retaining the right talent 
+
+to handle their particular security risks, as talent 
+
+attraction and retention is an ever-growing 
+
+concern for cybersecurity more broadly. They 
+
+should consider other options, including the use 
+
+of technology to augment talent—making gen AI a 
+
+copilot in security operations, for example. 
+
+Companies rely on talent to address  
+capability gaps
+
+Efforts to close security capability gaps typically 
+
+revolve around recruiting new talent and upskilling 
+
+existing talent. All respondents reported relying 
+
+on existing talent, as well as new talent, to 
+
+secure their technologies. However, 65 percent 
+
+noted concerns about gaining and retaining 
+
+appropriately skilled cybersecurity talent. While 
+
+companies can outsource some cybersecurity 
+
+work, more than half of the respondents plan to 
+
+rely on internal resources to close the capability 
+
+gaps related to their emerging technologies 
+
+(Exhibit 11). 
+
+19
+
+The cyber clock is ticking: Derisking emerging technologies in financial services  
+Web <2024>
+<CyberClock>
+Exhibit <10> of <12>
+
+Exhibit 10. More than 40 percent of respondents are utilizing special initiatives 
+to secure each of the top four tech trends.
+
+Planned cybersecurity control measures of 
+top tech trends,1 % of respondents (n = 30)
+
+Rely on existing controls
+Use special initiatives to implement additional security controls
+
+48
+
+35
+
+28
+
+55
+
+58
+
+48
+
+41
+
+19
+
+Cloud and edge
+computing
+
+Applied AI
+
+Next-generation
+software development
+
+Trust architectures and 
+digital identity
+
+1Question: Describe the cybersecurity control measures you are planning on implementing to secure the top tech trends.
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+Web <2024>
+<CyberClock>
+Exhibit <11> of <12>
+
+Exhibit 11. More than 50 percent of respondents are planning to address 
+security gaps for each of the top four tech trends with internal resources.
+
+Plan to address current security gaps facing 
+tech trends,1 % of respondents (n = 30)
+
+Rely on vendor
+Upskill or acquire additional talent
+
+71
+
+73
+
+63
+
+56
+
+17
+
+Cloud and edge
+computing
+
+11
+
+Applied AI
+
+16
+
+4
+
+Next-generation
+software development
+
+Trust architectures and 
+digital identity
+
+1Question: How are you planning on addressing the current security gaps your organization is facing on the top tech trends?
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+20
+
+The cyber clock is ticking: Derisking emerging technologies in financial services  
+Call to action: 
+Future-proof the 
+environment
+
+THE TECHNOLOGY 
+LANDSCAPE IN THE 
+FINANCIAL-SERVICES 
+INDUSTRY WILL EVOLVE 
+R APIDLY OVER THE 
+NEXT THREE TO FIVE 
+YEARS, ACCOMPANIED 
+BY MOUNTING RISKS. 
+
+Technologies that are popular today may change 
+
+tomorrow, and as use cases develop and mature, 
+
+companies are likely to continually reassess their 
+
+applicability and investment priorities. The time 
+
+for action to future-proof the environment is now. 
+
+Our survey found that even leading institutions 
+
+are falling short and that smaller companies with 
+
+significantly less budget or ability to attract top 
+
+security talent face even greater challenges. 
+
+Financial institutions should lay the foundation  
+
+for action by asking themselves the following  
+
+four questions about their pursuit of  
+
+emerging technologies:
+
+—  Do we have the right technology priorities, and 
+
+are they aligned with our security capabilities? 
+
+Expansion into newer technologies, such as 
+
+—  Do we have the right metrics and reporting? 
+
+Whether to satisfy regulators or to hold teams 
+
+accountable, financial-services companies 
+
+need transparent, value-based metrics for 
+
+managing cyber risks. They can aid in monitoring 
+
+performance, informing decisions, and 
+
+identifying emerging issues for quick action. 
+
+These metrics should measure cyber risk from 
+
+an emerging-technology perspective and be 
+
+reported appropriately to the right stakeholders, 
+
+including board members and executives, lines 
+
+of defense, and the risk management team.
+
+—  Are we investing in the right things? Decisions 
+
+on technology investments should take security 
+
+capabilities, especially IAM capabilities, into 
+
+account. The growing risk of security breaches 
+
+and the looming need for regulatory compliance 
+
+shine a spotlight on these capabilities. 
+
+—  Do we have the right talent and technology 
+
+to close capability gaps? Every organization 
+
+needs to invest in talent, but hiring and retaining 
+
+the right talent is a challenge and calls for 
+
+exploring other ways to fill the talent gap, such 
+
+as utilizing emerging technologies themselves, 
+
+including AI. 
+
+the cloud and applied AI, usually means greater 
+
+Emerging technologies are grabbing lots of attention 
+
+reliance on third-party services. Companies 
+
+in the financial-services industry. Each brings cyber 
+
+should reflect on their capabilities and the 
+
+opportunities and risks. Most companies will have 
+
+maturity of their security before introducing any 
+
+to build their cybersecurity capabilities to handle 
+
+technology. The third-party risk management 
+
+the risks. Today is the time to future-proof the 
+
+capability warrants special attention.
+
+environment, ensuring success for tomorrow. 
+
+21
+
+The cyber clock is ticking: Derisking emerging technologies in financial services Appendix: Approach and methodology
+
+The insights in this report were derived 
+
+houses; capital markets; insurers; and 
+
+Institute of Standards and Technology’s 
+
+from a 2023 survey of 37 financial-
+
+a major data provider. Twenty-six of 
+
+Cybersecurity Framework, industry 
+
+services companies around the world. 
+
+the institutions reported less than $30 
+
+technology trends, and previous 
+
+The institutions surveyed included asset 
+
+managers and private equity companies; 
+
+billion in annual revenues, and five 
+
+McKinsey and Institute of International 
+
+reported at least $60 billion (exhibit).
+
+Finance (IIF) survey questions.
+
+retail, corporate, and investment banks; 
+
+To help structure and streamline our 
+
+payment companies and clearing 
+
+survey, we referred to the National 
+
+Web <2024>
+<CyberClock>
+Addendum exhibit <12> of <12>
+
+Exhibit. A total of 37 financial-services firms participated in the survey, broken 
+down by principal market, revenue, and supervisory class and geography.
+
+Statistics on the 37 respondents
+
+Geographical location of firms,  number
+
+10
+
+3
+
+10
+
+9
+
+1
+
+4
+
+North  America
+
+South America
+
+Middle East
+
+Europe
+
+Africa
+
+Asia
+
+Respondents’ principal markets, %
+
+Respondents’ size by revenue, number
+
+26
+
+Payments and clearing
+
+Asset management
+
+Corporate banking
+
+Retail banking
+
+Investment banking
+
+Capital markets
+
+89
+
+81
+
+81
+
+81
+
+63
+
+56
+
+Insurance
+
+48
+
+Private equity
+
+15
+
+Data provider
+
+4
+
+100%
+
+6
+
+3
+
+2
+
+>$90
+billion
+
+>$60–$90
+billion
+
+$30–$60
+billion
+
+<$30
+billion
+
+Respondents’ supervisory class and geography, % of respondents
+
+3
+
+Europe 
+(G-SIB)
+
+43
+
+5
+
+19
+
+5
+
+22
+
+3
+
+Rest of World 
+(D-SIB)
+
+Rest of World 
+(G-SIB)
+
+Europe
+(D-SIB)
+
+Nonbank
+
+North
+America
+(D-SIB)
+
+North
+America
+(G-SIB)
+
+Source: IIF; McKinsey Future of Cybersecurity Survey 2023
+
+McKinsey & Company
+
+22
+
+The cyber clock is ticking: Derisking emerging technologies in financial services March 2024 
+Copyright © Institute of International 
+Finance and McKinsey & Company 
+
+

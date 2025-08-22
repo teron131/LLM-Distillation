@@ -1,0 +1,5947 @@
+Medtech Pulse: 
+Thriving in  
+the next decade
+
+September 2023
+
+Medtech Pulse: 
+Thriving in  
+the next decade
+
+Letter to medtech leaders 
+
+The medtech industry has had a tremendous impact on society and has improved quality of life for billions. Innovations 
+have changed treatment paradigms for complex conditions, expanded access to care, and provided more options to 
+healthcare providers and patients for improved disease management. 
+
+The past few years have challenged the medtech industry in unprecedented ways. The lasting impact of the COVID-19 
+pandemic has led to permanent shifts across the healthcare landscape. Macroeconomic and geopolitical uncertainties 
+continue to loom. Shareholder returns have started to stagnate. Resilience has become increasingly important.
+
+This is the time for leaders to act boldly in anticipation of the next wave of value creation. As you embark on this journey, 
+consider these questions: 
+
+• What strategic shifts could position your organization to capture the next wave of growth? 
+
+• Against a backdrop of persistent market uncertainties, where can you invest to capitalize on new value pools?
+
+•  What new capabilities will your organization need in order to deliver on the industry’s potential?
+
+•  What actions are you taking personally to effectively lead and bolster the resilience of your organization?
+
+With this report, we seek to provide insights and perspectives to inform the journey ahead, starting with a look at 
+shifting the value creation equation and how it influences medtech’s next act. We follow with an examination of topics 
+that are of paramount importance to medtech leaders and that, we believe, will propel the next decade of value creation.
+
+Karsten Dalgaard
+Stockholm
+
+Gerti Pellumbi
+Washington, DC
+
+Peter Pfeiffer
+New Jersey
+
+Florian Then
+Vancouver
+
+Kevin Wu 
+Beijing
+
+Delphine Nain Zurkiya
+Boston 
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+ 
+ 
+ 
+ 
+Contents
+
+C H A P T E R   1
+
+C H A P T E R   2
+
+C H A P T E R   3
+
+C H A P T E R   4
+
+C H A P T E R   5
+
+C H A P T E R   6
+
+C H A P T E R   7
+
+C H A P T E R   8
+
+C H A P T E R   9
+
+4
+
+Introduction: Medtech’s value-creation imperative
+Patients in need and uncertain shareholders have  
+medtech leaders plotting their strategies for a new wave  
+of value creation.
+
+12
+
+Reimagining R&D to drive sustainable growth
+To unlock sustainable long-term growth, medtech 
+companies should aim for significant improvements to  
+R&D and product development.
+
+20
+
+Cracking the code of software innovation
+Software development calls for an entirely different 
+approach from traditional product development methods. 
+Medtech companies can borrow a page from leading 
+software firms. 
+
+28
+
+Bringing hardware and software together into 
+digital health ecosystems
+Medtech companies can expand their role in digital 
+healthcare ecosystems by combining devices and data to 
+improve care outcomes.
+
+36
+
+Building a next-generation medtech commercial model  
+Commercial models must evolve to support new types of 
+offerings, adapt to changing customer expectations, and 
+position companies to succeed in the decade ahead.
+
+46
+
+54
+
+Reimagining operations for the challenges of the 
+next decade
+As medtech companies emerge from the COVID-19 
+pandemic, leaders are scrutinizing operations to find ways 
+to better serve patients and bolster competitiveness.
+
+Committing to ESG as a differentiator
+An environmental, social, and governance (ESG) strategy 
+is not merely a compliance checklist item; it is an untapped 
+opportunity for medtech companies to differentiate  
+their devices. 
+
+62
+
+Updating the post-COVID-19 playbook for M&A
+M&A could help the medtech industry boost value 
+creation, but only if companies can adapt their dealmaking 
+approaches to changing macroeconomic conditions.
+
+70
+
+Competing in China: Medtech multinational 
+companies’ way forward 
+China will continue to be a critical market for medtech 
+multinational companies despite market uncertainties.  
+Big moves are in order.
+
+1
+
+Introduction: 
+Medtech’s 
+value-creation 
+imperative
+
+Patients in need and 
+uncertain shareholders 
+have medtech leaders 
+plotting their strategies  
+for a new wave of  
+value creation.  
+
+by Richard Bartlett, Colin Field-Eaton,  
+Gerti Pellumbi, and Tommy Reid
+
+4
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+1
+6
+d
+n
+e
+t
+s
+e
+W
+©
+
+5
+
+Medtech Pulse: Thriving in the next decade 
+ 
+Billions of patients, families, and healthcare workers 
+around the world rely on the medtech industry every 
+year. Medtech plays a major role in their lives, from an 
+ultrasound’s detection of a baby’s first heartbeat to 
+an electrocardiogram’s record of a person’s last. In 
+between, Band-Aids cover scrapes, stents reopen 
+vessels, and robots resect tumors. For decades, 
+medtech innovations have helped people live longer, 
+healthier, and happier lives: 
+
+ — Since 1980, medtech advancements have  
+added five years to US life expectancy.1   
+
+ — An estimated 10 percent of the US population will 
+have medical devices implanted in their bodies.2  
+
+ — Medtech companies employ more than two 
+
+million people around the world.3   
+
+ — Medtech’s value is cost-effective: since 2009, 
+
+prices for medical devices have increased at 
+one-seventh the rate of the broader medical 
+consumer price index.4   
+
+ — In 2023, the medtech industry is estimated to 
+
+grow to nearly $600 billion,5 with rising access to 
+care and new innovations positioning the market 
+for 5 to 6 percent annual growth through 2026.6  
+
+The industry continues to expand its impact. 
+Consider the mother of two who avoided a stroke 
+thanks to innovations in atrial fibrillation, the 
+diabetic who replaced daily finger pricks with 
+continuous glucose monitors, and the overworked 
+nurse who saved a patient’s life with the help 
+of digitally enabled remote monitoring. All told, 
+medtech companies have created more than two 
+million types of medical devices for patients and 
+caregivers around the world.7 With a focus on 
+patient impact, medtech companies have largely 
+
+aligned their innovation priorities with areas of 
+highest unmet need (Exhibit 1).
+
+Companies have an opportunity— 
+and responsibility—to transform  
+the industry
+Despite the value created for patients in the past 
+decade, many are still waiting. Across therapeutic 
+areas and geographies, patients remain unserved 
+and are still coping with conditions that medtech 
+could potentially ameliorate or cure. In the United 
+States, more than 50 percent of 2021 deaths 
+were preventable,8 patient experience remains 
+highly variable, and the financial burden of 
+cardiovascular conditions alone is projected to 
+grow rapidly, doubling between 2017 and 2035.9 
+Medtech leaders have the opportunity and the 
+responsibility to continue to grow, innovate, and 
+create value for patients and caregivers around 
+the world.
+
+Additionally, companies should consider how to 
+unlock the next era of value creation for shareholders. 
+Fifteen years ago, the medtech industry faced a wave 
+of disruptions resulting from the Great Recession and 
+other events. In response, the industry reinvented 
+itself, accelerating innovation on its way to top-tier 
+shareholder returns. Medtech posted a stellar run of 
+value creation for much of the 2010s, outperforming 
+the S&P 500 by nearly twofold in the 2012–19 period.  
+Since 2019, however, investor skepticism has returned;  
+the S&P 500 has beaten medtech every year, and 
+valuation multiples for the highest-growth companies 
+have been more than halved since (Exhibit 2).
+
+Creating value for patients and shareholders over 
+the next decade will require another industry 
+reinvention, with a bias toward transformation, not 
+incremental improvement.
+
+1  Health, United States, 2014: With special feature on adults aged 55–64, National Center for Health Statistics, May 2015.
+2 “Implantable material and device regulation,” American Medical Association, September 2021.
+3 McKinsey analysis of 2021 company annual reports of top 20 medtech companies by revenue.
+4 Gerald F. Donahoe, “Estimates of medical device spending in the United States,” AdvaMed, June 2021.
+5 McKinsey analysis of growth estimates accessed via S&P Global Market Intelligence, May 20, 2023.
+6 Ibid.
+7 “Medical devices,” World Health Organization, accessed May 26, 2023.
+8 Excluding COVID-19-related deaths; “Age and cause,” National Safety Council Injury Facts, accessed May 20, 2023.
+9 “Cardiovascular disease: A costly burden for America—projections through 2035,” American Heart Association, 2017.
+
+6
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012A Medtech Ch1 Value Creation>
+Exhibit 1
+Exhibit <1> of <4>
+Medtech innovation pipelines mostly align with patient needs.
+
+Cardiovascular and cerebrovascular diseases
+Oncology
+Nervous system diseases
+
+Orthopedic diseases
+Respiratory tract diseases
+Nutritional and metabolic diseases
+
+Wounds and injuries
+Urologic diseases
+Dental diseases
+
+Unmet need, %¹ 2019 average of disability-adjusted life years and deaths, % 
+
+34
+
+24
+
+14
+
+13
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Top medtech focus of innovation, % of pipeline products²
+
+31
+
+16
+
+19
+
+11
+
+7
+
+7
+
+4
+
+3
+
+1
+
+Note: Figures may not sum to 100%, because of rounding.
+1Average percentage of each condition’s contributed proportion of all disability-adjusted life years and deaths. 
+2Including all global medtech pipeline products, per GlobalData, excluding those in early development (largely academic). Excluding in vitro diagnostics and 
+hospital supplies. 
+Source: GlobalData Medical Device Intelligence Center; Institute for Health Metrics and Evaluation (IHME), accessed May 20, 2023
+
+McKinsey & Company
+
+Medtech leaders have multiple 
+transformation strategies to consider
+Against this backdrop, leaders could consider 
+pursuing one or more transformation strategies to 
+lead value creation in the future:
+
+Create the next frontier of innovation. With 
+millions of patients still unserved and the rising 
+cost of care a chronic concern, demand for 
+medtech innovation remains high. Thanks to 
+advances in miniaturization, new materials, and 
+digitalization, companies are increasingly able 
+to focus on “premium innovation” to meet this 
+demand. For example, new, minimally invasive 
+treatments such as transcatheter technologies are 
+improving outcomes and expanding access for the 
+sickest patients. Remote-monitoring solutions that 
+shift patients out of intensive care units (ICUs) and 
+into more comfortable care settings are bending 
+the cost curve and improving patient experience. 
+
+Leading innovators in these and other categories 
+will continue to capture the hearts and minds of 
+patients, healthcare workers, and shareholders. 
+From 2017 through May 2023, companies in 
+the top quartile of novel product approvals saw 
+shareholder returns almost twice as high as those 
+in the second and third quartiles (and four times 
+higher than those in the bottom quartile).10 As 
+rewards for innovation have risen, so have market 
+expectations for what constitutes innovation. R&D 
+spending has accelerated, growing at twice the 
+rate of industry sales since 2019 (up from being on 
+par with sales in the 2010s).11 Clinical-trial volumes, 
+which remained flat from 2015 to 2019, are now 
+growing at 11 percent annually,12 and customer 
+expectations for clinical data (safety, efficacy, and, 
+often, cost-efficiency) are rising.
+
+As medtech moves into this next generation of 
+innovation, companies will need to consider how best 
+
+10 McKinsey analysis of S&P Global Market Intelligence financial data and Food and Drug Administration approvals data, May 20, 2023.
+11  Financial data accessed via S&P Global Market Intelligence, May 20, 2023.
+12  McKinsey analysis of Clinicaltrials.gov.
+
+7
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012A Medtech Ch1 Value Creation_Exs>
+Exhibit 2
+Exhibit <2> of <4>
+Medtech outpaced the S&P 500 in the 2010s, but value creation has 
+since slowed.
+
+Annualized total shareholder returns CAGR, 2012–23, %
+
+2012–19
+
+2019–23¹
+
+All medtechs2
+
+21
+
+Small-cap
+and midcap,
+high-growth
+medtechs3
+
+Large-cap
+diversified
+medtechs4
+
+32
+
+−10
+
+15
+
+2
+
+3
+
+S&P 500 = 11
+
+S&P 500 = 6
+
+¹As of May 2023.
+²The 100 largest publicly traded medtech companies by market cap as of May 20, 2023.
+3All publicly traded medtech companies with a market cap between $0.1 billion and $10.0 billion and with growth expectations in excess of 10% CAGR.
+4The 30 largest publicly traded medtech companies by market cap with multiple franchises contributing at least 20% of sales, as of May 20, 2023.
+Source: S&P Global Market Intelligence
+
+McKinsey & Company
+
+to participate (organically or inorganically) in premium 
+areas of innovation and generate clinical evidence to 
+better serve patients and outperform competitors.
+
+Reassess approaches to incremental innovation. 
+Although premium technologies garner headlines, 
+incremental innovation remains critical in 
+responding to user feedback and improving 
+shortcomings in established products. However, 
+incremental innovation has recently had an outsize 
+presence in companies’ pipelines, with limited 
+end-user benefit. In portfolio reviews across the 
+industry, managers justify incremental programs 
+as significant upgrades critical to retaining share, 
+only to be met with skepticism from physicians and 
+price pressure from purchasers. As a result, the 
+slow-growth portion of the market has doubled 
+since 2012.13 With buyer scrutiny heightening, 
+companies will have to be more efficient and 
+creative with their resource allocation.  
+
+For established products, companies should 
+evaluate digital solutions and services as a new 
+source of value. If the opportunity for adding 
+meaningful value is low, leaders will need to 
+consider shifting resources elsewhere. 
+
+Going forward, companies should apply more scrutiny 
+to resources dedicated to incremental innovation and 
+consider if a business without “premium” innovation 
+has a role in the portfolio of the future.  
+
+Enable the shift to new care sites. Provider 
+systems are racing to treat patients in new 
+settings to improve outcomes and reduce the 
+cost of care. Medtech innovations could support 
+this shift. Devices that are less invasive result in 
+lower-risk procedures and quicker postoperation 
+recoveries. Connected-care ecosystems allow 
+caregivers to monitor and communicate with 
+patients outside of ICUs. According to McKinsey 
+
+13  Lower than 3.5 percent annual growth; Health Resources International 2013 medical devices and diagnostics report.
+
+8
+
+Medtech Pulse: Thriving in the next decadeanalysis, general acute-care facilities, medtech’s 
+largest customer segment, are projected to see 
+slower growth than almost all other healthcare 
+provider types (Exhibit 3).14
+
+To date, medtech companies, especially non-
+large-cap companies, have struggled to engage 
+newer sites of care. As these sites continue to 
+account for a larger proportion of profitable care, 
+medtech companies should work to refine their 
+value propositions and commercial operations to 
+effectively compete in these segments.
+
+Rethink global growth strategies. Geographic 
+strategies have risen to the top of many medtech 
+CEO agendas. Many companies that pursued 
+global expansion now find themselves with 
+unwieldy commercial organizations, complex 
+regulatory challenges, and innovation road maps 
+with competing regional priorities. Although 
+
+Europe remains the source of innovation for many 
+segments, the European Union Medical Device 
+Regulation (EU MDR) has introduced new costs, 
+such as postlaunch surveillance requirements, 
+for companies operating in the region.15 Likewise, 
+hospital-level tendering and contracting policies 
+are increasing the commercial investment needed 
+to serve European healthcare providers. The United 
+States and Japan, with expertly trained surgeons 
+and care teams on the cutting edge of technology 
+adoption, continue to be priority markets, but 
+competition is intensifying, requiring new levels of 
+innovation and service to effectively compete. China, 
+which grew at double the rate of the rest of the 
+market before the COVID-19 pandemic,16 offers an 
+underpenetrated market of patients and providers. 
+However, it also offers unprecedented short-term 
+challenges for multinational companies, such as 
+increases in volume-based procurement and viable 
+local competition.
+
+14   For more on US healthcare profit pools, see Neha Patel and Shubham Singhal, “What to expect in US healthcare in 2023 and beyond,” 
+
+McKinsey, January 9, 2023.
+
+15  “Regulation (EU) 2017/745 of the European Parliament and of the Council,” European Union, April 5, 2017. 
+16  Health Resources International 2012 and 2019 medical devices and diagnostics reports.
+
+Web <2023>
+<6012A Medtech Ch1 Value Creation_Exs>
+Exhibit <3> of <4>
+Exhibit 3
+Hospital profits are shifting to alternate care settings, challenging medtechs 
+to find growth by serving new customer types.
+
+Share of overall US healthcare 
+provider profit pool, % 
+
+4
+
+15
+
+42
+
+39
+
+5
+
+18
+
+38
+
+38
+
+Virtual-care and 
+home-care providers
+
+Specialist offices and 
+ambulatory-care centers
+
+General acute-care 
+facilities
+
+Other (eg, dentists and 
+primary-care physicians)
+
+2017
+
+2027
+
+Note: Figures may not sum to 100%, because of rounding.
+
+McKinsey & Company
+
+9
+
+Medtech Pulse: Thriving in the next decadeCompany leaders should take action to clarify 
+their global intentions and tailor their strategies 
+to specific geographic regions. This includes 
+reassessing commercial models, increasing 
+or reducing investment, and considering local 
+acquisitions to foster profitable growth. 
+
+Compete intelligently in digital ecosystems. 
+Medtech companies have been experimenting 
+with digital solutions for more than a decade. In 
+many cases, these R&D programs and customer 
+pilots have not materialized, leaving executives and 
+boardrooms skeptical about the so-called digital 
+revolution in medtech. Conversely, companies 
+that have cracked the code are changing the care 
+paradigm and realizing better outcomes for patients, 
+providers, and companies. Digital ecosystems 
+that marry capital products with technology are 
+reshaping how companies create products, go to 
+market, and engage with stakeholders.
+
+Consider the digitalization of the operating 
+room. AI-based clinical decision making, fueled 
+by device data, has become an integral part of 
+many spine and general surgery procedures, and 
+patient-monitoring solutions are helping critical-
+care caregivers wean patients off life-sustaining 
+devices more safely. Some imaging companies are 
+generating up to $1 billion a year from data-related 
+solutions that improve patient care.17
+
+As the next decade progresses, some executives 
+may be tempted to ignore digital opportunities 
+because of a history of failed internal attempts. 
+Those companies might reconsider, take note of 
+other companies’ successes, and collaborate with 
+their customers to build winning solutions based 
+on lessons from the 2010s.
+
+Commit to investments in execution excellence. 
+COVID-19-related supply shortages, drops in the 
+number of health system procedures, and hospital 
+staffing challenges have introduced uncertainty to 
+medtech company operations. Following a decade 
+of steady economic growth, one implication of 
+this newfound uncertainty is increased scrutiny of 
+
+pilot programs and initiatives. Companies that had 
+been experimenting with new commercial models, 
+supply chain investments, or digital offerings are 
+now facing calls to cut funding to reduce costs. 
+Although some medtech companies are reducing 
+resources evenly across programs, we are seeing 
+that firms have more success when they make 
+trade-offs and commit at scale. For instance, 
+one company recently considered two ongoing 
+investments: one in a new digital offering and one 
+in a new, digitally enabled commercial model that 
+allows clinical consultants to spend more time with 
+care teams. The company made the bold choice 
+to shut down the new offering while committing 
+to commercial innovation. In addition to providing 
+immediate cost savings and accelerating growth, 
+the choice has delivered the benefit of clarity, 
+aligning the organization’s employees in their 
+execution priorities. 
+
+Companies should perform a detailed review 
+of ongoing investments and use this period of 
+uncertainty to commit to the handful that will drive 
+performance in the long term.
+
+Take note of investors’ increased attention to 
+margins. Medtech companies created significant 
+shareholder value during the 2010s. The industry 
+accelerated growth and innovation, propelling 
+share price appreciation. As performance 
+improved, investors began to “price in” future 
+growth improvements, which created additional 
+share price gains. The result is a new value-
+creation paradigm: in investors’ eyes, companies’ 
+chances to beat current growth expectations are 
+low, given that the industry has already doubled 
+its growth rate in the past ten years. Meanwhile, as 
+of the first quarter of 2023, the operating margins 
+for medtech companies are 200 to 400 basis 
+points lower than they were in 2021, returning to 
+mid-2010s levels.18 As a result, although revenue 
+growth remains the primary driver of value creation, 
+investors are also increasingly paying attention to 
+profit margin. Since 2019, the correlation between 
+profit margin and medtech valuations has more 
+than doubled (Exhibit 4).19
+
+17  McKinsey analysis.
+18  McKinsey analysis of S&P Global Market Intelligence financial data of top 40 companies by market cap, as of May 20, 2023.
+19  Ibid.
+
+10
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012A Medtech Ch1 Value Creation_Exs>
+Exhibit 4
+Exhibit <4> of <4>
+Profit margins are increasingly important to company valuations.
+
+Correlation between performance metrics and enterprise-value-to-revenue ratio (R2 value)¹ 
+
+Growth²
+
+Margin³
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+>2×
+
+0
+
+2016
+
+2023
+
+0
+
+2016
+
+2023
+
+1R2 represents the correlation between two numbers. The closer the R2 is to 1, the higher the correlation.
+23-year future sales CAGR expectations.
+33-year future EBITDA change expectations.
+Source: S&P Global Market Intelligence 
+
+McKinsey & Company
+
+Along with investing in growth, companies should 
+also consider profitability programs as ways to 
+boost long-term value creation.
+
+to find new ways to create value. Companies 
+that transform their innovation, operations, and 
+strategies could successfully reaccelerate 
+profitable growth and meet the next generation  
+of healthcare needs. 
+
+In the next decade, patients, caregivers, and 
+shareholders are counting on the medtech industry 
+
+Richard Bartlett is a partner in McKinsey’s London office; Colin Field-Eaton is a partner in the Washington, DC, office, where 
+Gerti Pellumbi is a senior partner; and Tommy Reid is an associate partner in the Austin office.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+11
+
+Medtech Pulse: Thriving in the next decade2
+
+Reimagining 
+R&D to drive 
+sustainable 
+growth 
+
+To unlock sustainable  
+long-term growth, medtech 
+companies should aim for 
+significant improvements 
+to R&D and product 
+development.
+
+This article is a collaborative effort by  
+Josh Copp, Jack Donohew, Stefan 
+Frank, Zherui Huang, and André Rocha, 
+representing views from McKinsey’s  
+Life Sciences Practice.
+
+12
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+n
+a
+d
+r
+e
+M
+n
+m
+s
+a
+J
+
+i
+
+©
+
+13
+
+Medtech Pulse: Thriving in the next decade 
+ 
+ 
+R&D and product development excellence are 
+foundational for sustainable business growth 
+in medtech. Accordingly, the industry invests 
+substantially in innovation. At the same time, 
+medtech profits are under pressure and demand 
+higher productivity and returns from R&D. In this 
+environment, R&D excellence is a top priority for 
+company leaders. 
+
+In medtech, R&D spending alone is not strongly 
+correlated with growth. Instead, our research and 
+experience suggest four areas of focus. First, a 
+systematic approach to portfolio management 
+is prerequisite for any R&D organization to stay 
+focused on value-creating innovation. Second, a 
+subset of enablers is associated with delivering 
+world-class products—namely, empowered 
+product managers, deeply embedded design 
+thinking, and strong system-engineering 
+capabilities. Third, leading R&D organizations 
+have effectively adopted agile principles and are 
+harnessing next-generation digital and analytical 
+tools. Finally, R&D organizations’ outward 
+orientation (for example, working with open 
+development networks) helps boost their pipelines 
+and productivity.
+
+To be sure, acting on and excelling in all these areas 
+amounts to a transformational change compared 
+to how medtech R&D organizations typically 
+operate, but the prize could be a boost in value 
+creation and a sustainable competitive advantage.
+
+An innovative industry with 
+opportunities to optimize R&D
+Prolific innovation occurs in the medtech industry. 
+For instance, about 15,000 patent applications 
+were filed at the European Patent Office by 
+medtech companies in 2021, significantly more 
+than by pharmaceutical or biotech companies.
+
+This level of activity comes at a cost: the largest 
+global medtech companies invest an average of  
+8 percent of their revenue on R&D.1 Other capital-
+
+intense, innovative industries spend much less; 
+for example, in the automotive industry, the figure 
+stands at just 4 percent of revenues.
+
+But R&D spending and patents alone don’t 
+guarantee proportional value creation. Our analysis 
+of the 70 largest global medtech companies 
+reveals that average R&D spending in the previous 
+three years accounted for only about 1.6 percent 
+of the variation in companies’ growth rates. In 
+fact, the average number of US Food and Drug 
+Administration (FDA) approvals per billion dollars 
+spent has declined by an average of 9 percent per 
+year since 2011 (exhibit).2
+
+Some medtech companies are falling behind in 
+R&D productivity and returns, as measured by 
+new product approvals. Our survey of 220 industry 
+leaders in medtech, advanced electronics, and 
+high-tech sheds some light on the challenges.3
+
+First, there are gaps in basic R&D execution. Our 
+experience shows that only about 35 percent 
+of medtech projects are developed on time and 
+on budget. The number sinks further within 
+organizations that fail to counter increasing R&D 
+complexity by improving R&D maturity and efficiency.
+
+We also find that medtech companies are more likely 
+than their counterparts in other industries to lack 
+foundational elements, such as adequate staffing 
+and proper definitions of project goals. Moreover, 
+nearly two-thirds of medtech respondents in this 
+survey reported as common occurrences unrealistic 
+project timelines and a lack of specific expertise in 
+product development teams.
+
+At the same time, the stakes for timely delivery of 
+innovation are getting higher: competition is intense 
+in many attractive segments, and the order of 
+product launches can have considerable impact on 
+market shares. Commoditized products are facing 
+intensifying price pressure in many markets. Finally, 
+patients and physicians are urgently awaiting new 
+solutions to diagnose and treat diseases.
+
+1  Based on McKinsey analysis of 106 medtech players worldwide.
+2 The data set includes data from the 18 largest medtech companies by market cap for which data on R&D spending was available in the  
+
+1990–2018 time frame, per S&P Global. 510(k) data was retrieved from the FDA. For more on 510(k)s, see “501(k) clearances,” FDA, updated 
+August 31, 2021.
+
+3 McKinsey R&D Benchmarking Survey, n = 220, completed January 2022.
+
+14
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012B Medtech Ch2 R&D Hardware>
+Exhibit
+Exhibit <1> of <1>
+The average medtech company has achieved fewer device approvals relative to 
+R&D spending over time. 
+
+Number of US Food and Drug 
+Administration (FDA) approvals per 
+$ billion of R&D spending¹
+
+182
+
+174
+
+163
+
+156
+
+152
+
+196
+
+195
+
+189
+
+175
+
+176
+
+–9% per annum
+
+148
+
+143
+
+143
+
+124
+
+110
+
+102
+
+74
+
+74
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+1Includes supplementary premarket approvals, original premarket approvals, 510(k) approvals, and 510(k) de novo approvals.
+Source: Evaluate MedTech, R&D spending and FDA approvals, 30 largest medtech companies by sales volume, 2005–2022, data accessed March 20, 2023
+
+McKinsey & Company
+
+The stakes for timely delivery  
+of innovation are getting higher:  
+competition is intense in many  
+attractive segments, and the order  
+of product launches can have 
+considerable impact on market shares.
+
+15
+
+Medtech Pulse: Thriving in the next decadeReimagining medtech R&D for growth
+In our experience, medtech companies that 
+outperform their counterparts take a holistic 
+approach to R&D transformation. This means 
+tackling in parallel five areas that are critical for 
+R&D excellence.
+
+A systematic approach to portfolio management
+An effective approach to developing and 
+managing an R&D portfolio builds a compelling 
+road map to growth and bolsters commercial 
+performance. Companies with effective R&D 
+portfolio management systems share certain 
+characteristics. First, they have formalized R&D 
+portfolio management processes and a strong 
+decision-making culture in which top management 
+is deeply committed and engaged. Practically, 
+this can mean that global business-unit heads 
+and R&D teams review pipelines on a quarterly 
+basis. Importantly, determining what not to do is as 
+crucial as deciding what to pursue. According to 
+our research, the organizations that are the most 
+successful in their R&D portfolio management are 
+unafraid to terminate projects that fail or struggle 
+to advance or those whose business cases have 
+weakened due to changes in the market. 
+
+Another marker of best-in-class R&D portfolio 
+management is a single centralized and frequently 
+updated source of truth for all R&D project data, 
+particularly data that feeds into each project’s 
+
+business case and enables the informed and timely 
+decision-making described above.
+
+Importantly, R&D performance management does 
+not end with the commercialization of a new asset: 
+leading R&D teams closely monitor their portfolios 
+throughout the life cycle and continuously learn 
+from their real-world performance. For example, 
+organizations could monitor how a newly launched 
+product performs against the expectations that 
+were built into its initial business case. This kind 
+of feedback can help R&D—and commercial—
+organizations to continuously improve the quality 
+of their predictions and decision making.
+
+Medtech leaders know these efforts matter to 
+investors. A senior executive at one large global 
+medtech company told industry analysts that their 
+organization doubled the value of the company’s 
+pipeline R&D projects and multiplied the number 
+of high-value R&D projects (as measured by net 
+present values) in three years, clearly displaying 
+value creation potential to the public markets.
+
+Three “power capabilities” to define world- 
+class products
+Delivering world-class products, technologies, 
+and services to healthcare providers and patients 
+is every R&D organization’s ultimate purpose. To 
+achieve this, R&D organizations need to excel in 
+three areas.
+
+Medtech companies that outperform 
+their counterparts take a holistic 
+approach to R&D transformation. This 
+means tackling in parallel five areas  
+that are critical for R&D excellence.
+
+16
+
+Medtech Pulse: Thriving in the next decadeProduct management. In practice, this means 
+empowering product managers to act as 
+business owners for their respective products. 
+To fulfill this mission, product managers need to 
+have a comprehensive set of skills, particularly 
+in leadership and influencing, and a strong 
+understanding of unmet customer needs. Ideally, 
+they also have sufficient technical knowledge 
+to manage product requirements and engage 
+effectively with R&D engineers. 
+
+Because such talent is rare, organizations should 
+invest in building these skills through in-house 
+capability-building programs; strategic hiring 
+of experienced product managers from outside, 
+including from other industries; and a leadership 
+development model that incorporates product 
+management into an attractive career path.
+
+Design thinking. Design thinking should be 
+systematically applied to every R&D project.4 
+Design-thinking methods include closely observing 
+healthcare providers and patients, mapping end- 
+to-end journeys from the perspective of user 
+personas, and rapidly prototyping and iterating 
+product concepts in partnership with users. 
+
+In a world in which consumer products set the 
+bar for simplicity, performance, and ease of use, 
+design thinking is key to developing distinctive 
+medtech solutions. It leads to products that 
+engage patients and healthcare providers through 
+intuitive user interfaces and that offer a seamless 
+experience across the user journey—attributes 
+that can provide a decisive competitive edge.
+
+Excellence in design correlates strongly with  
+value creation: medtech companies that led the 
+industry in adopting best design practices had  
+42 percent higher revenue growth and 108 percent 
+higher shareholder returns compared with the 
+average competitor.5 The impact can also be seen 
+on an individual product level: Distalmotion, a 
+
+manufacturer of surgical robots, adopted design-
+thinking best practices when developing its next-
+generation system and achieved a significant 
+reduction in development time.6
+
+Systems engineering. Systems engineering 
+is an R&D function composed of engineers 
+with extensive experience and deep technical 
+capabilities. This group is usually responsible 
+for new-product concepts, architecture, and 
+specifications. A strong system-engineering 
+function effectively translates users’ unmet 
+needs and requirements into actionable product 
+architectures and technical specifications for 
+entire systems and their components. Input from 
+systems engineers is vital for engineers—including 
+mechanical, electrical and electronics, and 
+software—who design, verify, validate, produce, 
+and launch products.
+
+Agility and speed in product development 
+execution
+Speeding up product development is paramount 
+for most medtech R&D leaders. Agile development 
+practices, such as continuous decision making, 
+can help increase speed and effectiveness.7 In 
+our experience, agile development practices 
+are especially influential in the R&D of complex 
+systems, where they can reduce time to market by 
+more than 30 percent and increased productivity 
+by about 20 percent. They generally help 
+organizations respond more flexibly to changes 
+or new information and reduce risk by providing 
+transparency into the status of projects. 
+
+Of note, agile development needs to be applied in 
+the unique context of medtech R&D. For example, 
+agile processes will need to be tailored to work in 
+between the typical stage gates of R&D necessary 
+for quality assurance and regulatory compliance. 
+Still, they can significantly improve collaboration 
+among R&D engineers and between R&D and 
+other functions. 
+
+4 For more on design thinking, see John Edson, Garen Kouyoumjian, and Benedict Sheppard, “More than a feeling: Ten design practices to deliver 
+
+business value,” McKinsey, December 8, 2017.
+
+5 For more on the link between design practices and business outcomes, see Fabricio Dore, Garen Kouyoumjian, Hugo Sarrazin, and Benedict 
+
+Sheppard, “The business value of design,” McKinsey Quarterly, October 25, 2018.
+
+6 For more on design thinking in medtech, see Jack Donohew, Matthew Durack, Maiko Hirai, and Thomas Nilsson, “Accelerating customer-centric 
+
+innovation in medtech,” McKinsey, March 7, 2023.
+
+7 “The five trademarks of agile organizations,” McKinsey, January 22, 2018.
+
+17
+
+Medtech Pulse: Thriving in the next decadeMedtech companies draw the most  
+benefit from agile practices when  
+used in concert with other core  
+agile principles.
+
+The medtech quality process can likewise be 
+adapted to agile frameworks. Currently, many 
+design control deliverables are still developed 
+and documented manually and retroactively, with 
+the documents approved in batches in quality-
+management systems. Instead, quality could be 
+embedded in the development process from the 
+outset and tested at each development stage, 
+aided by digital tools. These best practices 
+have streamlined design controls, allowing 
+organizations to cut in half the time it takes to 
+generate design history files (DHF), a requirement 
+for regulatory approval.
+
+In our experience, medtech companies draw the 
+most benefit from agile practices when used in 
+concert with other core agile principles, such as 
+small cross-functional teams and daily rituals.8 
+Finally, basic principles of R&D effectiveness—
+for example, allowing a critical number of 
+engineers to fully focus on one project at a time 
+and investing in project management capability 
+building—remain important. 
+
+Next-generation digital and analytical tools
+Next-generation digital and analytical tools can 
+help R&D functions increase productivity and 
+speed in product development and enhance 
+the performance and quality of products. These 
+technologies have already helped reduce 
+development cycle times by more than 50 percent 
+and have reduced costs by 30 percent in other 
+industries, according to our analysis. 
+
+Medtech companies have begun to adopt these 
+tools to boost efficiency. One medical equipment 
+R&D organization used to rely primarily on paper, 
+needed to be co-located, and took 12 to 18 months  
+to develop new products. New software now 
+allows the team to create digitized design-
+history files that support collaboration on three 
+continents, and the team cut its development 
+timeline to six months. Another company reduced 
+its R&D costs by 10 percent and increased 
+throughput by 15 percent by using advanced 
+analytics to identify and respond to opportunities 
+to improve R&D productivity. For instance, the 
+company discovered that it could dramatically 
+improve collaboration between functions by 
+altering the composition of product development 
+teams, with more frequent and direct contact 
+between engineering, upstream marketing, and 
+supply chain during stage gate handovers.
+
+Digital tools can also enhance the performance and 
+quality of medical devices and avoid costly reworks. 
+For example, a severe adverse event in a human 
+implant was discovered during animal testing. 
+The traditional approach to design and validation 
+would have delayed the launch by many months. 
+But the R&D team used a digital twin (a virtual 
+representation of the physical medical device) 
+and a deep-learning model to rapidly simulate and 
+validate hundreds of potential alternate designs.9 
+This approach helped the team quickly converge on 
+an improved design that addressed the issue and 
+kept the launch on schedule.
+
+8 For more on agile, see Wouter Aghina, Christopher Handscomb, Olli Salo, and Shail Thaker, “The impact of agility: How to shape your 
+
+organization to compete,” McKinsey, May 25, 2021.
+
+9 For more on digital twins, see Kimberly Borden and Anna Herlt, “Digital twins: What could they do for your business?,” McKinsey, October 3, 2022. 
+
+18
+
+Medtech Pulse: Thriving in the next decadeExternal development 
+Unlike their pharmaceutical counterparts, which 
+may derive up to 50 percent of their product 
+development pipeline from external partners such 
+as contract research organizations, medtech 
+companies have traditionally focused on in-house 
+innovation. But with disruption from fast-moving 
+digital players and pressure from low-cost 
+providers in commoditized areas, medtech 
+companies could consider accessing ideas, talent, 
+and technologies from external sources. 
+
+This broad category includes original development 
+manufacturers and joint development 
+manufacturers. It also includes joint ventures and 
+strategic alliances for new businesses, as well as 
+corporate venture funds, through which companies 
+take equity positions in promising start-ups.
+
+For development efforts that fall outside the 
+company’s core businesses and competencies, 
+one approach is to spin off the venture, find 
+co-investors to scale it, and reintegrate it into the 
+parent company later. Among the benefits, the new 
+venture—freed from corporate decision making—
+can move more quickly, has access to a larger 
+pool of capital from investors with a higher-risk 
+appetite, and can maintain a strong strategic and 
+operational focus (as can the core business).
+
+Medtech companies can get more out of their 
+substantial investments in R&D. Rewiring the 
+function could help make it not only a source of 
+innovation but also an engine for commercial growth. 
+
+Josh Copp is a partner in McKinsey’s Bay Area office, where Jack Donohew is a senior partner; Stefan Frank is an  
+associate partner in the Hamburg office; Zherui Huang is a consultant in the Tokyo office; and André Rocha is a partner in  
+the Madrid office.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+19
+
+Medtech Pulse: Thriving in the next decade3
+
+Cracking 
+the code of 
+software 
+innovation
+
+Software development 
+calls for an entirely 
+different approach from 
+traditional product 
+development methods. 
+Medtech companies  
+can borrow a page from 
+leading software firms. 
+
+by Venky Anant, Shih-Yung Huang, 
+Sreeharsha Konga, and Delphine  
+Nain Zurkiya 
+
+20
+
+21
+
+Medtech Pulse: Thriving in the next decadeSoftware is taking on a new, expanded role in 
+medtech. Traditionally, it has performed a basic 
+function within a medical device, such as the 
+reader of an in vitro diagnostic assay. However, 
+more companies are discovering that software 
+can be a value-adding differentiator. Consider a 
+spinal cord stimulator, which uses personalized 
+algorithms to enhance the value of the physical 
+device itself. Going even further, some companies 
+are proving that software can be the device itself, 
+as in the case of Click Therapeutics, whose digital 
+therapeutics products treat patients directly. 
+
+As software becomes a more significant source 
+of differentiation in medtech, organizations see 
+a need to reimagine their product development 
+processes. Software development has shorter 
+cycles than hardware, necessitating end-to-end 
+collaboration across a range of functions. The 
+best software products are developed through 
+continual interactions with users, allowing 
+companies to learn as they go and incorporate 
+feedback—a practice not available for hardware 
+products. In fact, according to our recent medtech 
+R&D roundtable survey, the top constraints for 
+software development in medtech are related 
+to operating models—team capacity, skills, and 
+talent—not technology or demand (Exhibit 1).
+
+In this article, we highlight how medtech companies 
+can integrate lessons from leading software 
+companies to excel in software development. 
+
+Adapting software R&D operating 
+models for success
+For medtech incumbents seeking to shift to value-
+added software or software as a device itself, we 
+suggest three actions to improve their operating 
+model: build a robust tech stack, adopt software 
+development best practices, and strategically 
+source intellectual property and talent. 
+
+Build a robust tech stack
+Patients’ very lives may depend on their medical 
+devices. Unlike in social media or other digital-first 
+industries, end-product failures cannot be tolerated. 
+Healthy functionality begins with a robust tech stack 
+that enables elasticity (to grow), agility (to innovate 
+rapidly), and reliability (to reduce risk).
+
+At a high level, the stack has three layers1: 
+
+The engagement layer is the software’s connection 
+to the outside world (other devices and data 
+sources). Because medtech software will likely 
+need to work with many counterparties, medtech 
+companies should focus on building a flexible 
+engagement layer that ensures the ability to 
+integrate reliably and securely with partners 
+through APIs.
+
+A distinctive intelligence layer harnesses 
+algorithms (a key source of differentiation) and 
+seamlessly aggregates data from proprietary and 
+publicly available sources. 
+
+1  In our chapter on ecosystems, we discuss how each layer can add value to patients and clinicians. In this chapter, we highlight where medtech 
+
+companies need to focus to build strong and functional layers.
+
+‘ We’ve been using software for over three decades, but its function was to make 
+our instruments run. Now we’re in the business of using software to deliver  
+actionable insights, using digital tools and data science in the service of patients  
+to drive outcomes. These tools support our core strategy of delivering personalized  
+healthcare as well as our next step: adding insights to that combination of 
+pharma and diagnostics.’
+
+—  Global head of information solutions,  
+global pharmaceutical and diagnostics 
+company
+
+22
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012C Medtech Ch3 R&S Software>
+Exhibit 1
+Exhibit <1> of <3>
+Medtech companies face several constraints in developing software as a 
+medical device.
+
+Constraints in software development, % of respondents, n = 192
+
+Top constraints
+
+Capacity of 
+R&D team
+
+Skills or 
+talents needed
+
+Profitability costs 
+and profitability
+
+25
+
+23
+
+19
+
+14
+
+12
+
+7
+
+Unclear or 
+complicated and 
+long regulatory 
+process
+
+Lack of 
+management 
+decisions
+
+Technology 
+constraints
+
+Source: McKinsey Medtech R&D Roundtable
+
+McKinsey & Company
+
+In many industries, proprietary data can be the 
+most critical differentiator, while algorithms can be 
+seen as more commoditized. In medtech, data is 
+similarly important, but the thinking on algorithms 
+differs. Given that algorithms make decisions that 
+influence patient care and outcomes, effective 
+algorithms can quickly differentiate companies 
+from one another. In our experience, medtech 
+companies that prioritize algorithms alongside 
+data are most likely to achieve better outcomes.
+
+The infrastructure layer has been the focus of 
+much innovation over the past ten years, thanks 
+to the advent of cloud. The traditional model, 
+which required large, onetime investments in data 
+centers, has been replaced by consumption-driven 
+pricing models that lower barriers to entry.
+
+Although companies often focus on cloud’s 
+potential to lower infrastructure costs, the 
+true benefits extend further. Global cloud-
+services providers (CSPs) have made significant 
+investments to develop industry-specific offerings 
+and innovate in the engagement and intelligence 
+layers. To get the most benefit, medtech 
+companies should build a new tech stack tailored 
+for the cloud rather than simply retrofit their 
+existing tech stack. 
+
+Adopt software development best practices
+The good news is that leading software companies 
+have established a tried-and-true method for 
+developing products in a consistent, efficient 
+manner. For medtech companies to adopt this 
+method, which differs substantially from their 
+standard hardware development processes, 
+following several best practices will be crucial.
+
+Rethink product management. Innovative start-
+ups excel at responding precisely to the most 
+critical unmet needs of customers. They start 
+with an idea but then use their product leadership 
+muscles to rapidly iterate (with customers, product 
+managers, and product developers) to develop and 
+deliver the most desired features.
+
+By comparison, product managers within medtech 
+organizations often report to regional marketing 
+teams and focus largely on gathering requirements. 
+Their interactions with R&D often involve rigid, legacy 
+documentation of market and product requirements 
+rather than more collaborative problem-solving 
+sessions. This disconnected structure leads to 
+elongated development loops, quality issues, and 
+multiple postrelease refinement cycles, which 
+increase overall R&D costs and erode value. 
+
+23
+
+Medtech Pulse: Thriving in the next decadeThe role of product manager at medtech 
+companies is often conflated with those of project 
+and program managers. Medtech leaders point 
+to two characteristics of great product managers. 
+First, they carefully track usage data (for example, 
+from product telemetry) and draw on it to know 
+their customers, shape the product road map, 
+determine when to retire products, and enable 
+users to capture value more quickly. Active field 
+testing and experimentation enable product 
+managers to aggregate data that supports the 
+product’s continuous improvement. 
+
+Second, great product managers have an 
+impeccable “product sense.” Drawing on years of 
+experience and a mindset unfettered by norms, 
+they have an intuitive ability to understand how 
+technology can address an issue in a new way. The 
+best product managers tap designers, engineers, 
+and data scientists early in the ideation phase to 
+benefit from their unconventional thinking.
+
+Promote engineering excellence. Software 
+engineering excellence can unlock significant 
+value across multiple dimensions. In our 
+experience, companies that increase the 
+productivity of engineers, teams, and the whole 
+organization can save 15 to 30 percent in IT 
+operating expenditures, accelerate time to market 
+tenfold, and achieve 55 percent higher innovation 
+from self-organizing, agile teams. 
+
+For most software-driven companies, engineers 
+are the most expensive resource. Therefore, 
+development velocity—the ability to achieve 
+transformative business performance through 
+software development—is critical. A McKinsey 
+
+survey of more than 400 companies found that 
+product management, culture, talent management, 
+and development tools have the highest impact on 
+developer velocity (Exhibit 2).2 However, identifying 
+and executing these levers is a difficult challenge. 
+
+To fully unlock velocity and deliver innovation to the 
+front lines quickly, companies can act in four phases. 
+In the diagnostic phase, companies assess their 
+current development velocity using machine learning–
+based analysis and benchmarking. In the blueprint 
+phase, companies redesign their organizational 
+structure and product development life cycle. In the 
+frontrunner phase, companies implement a new 
+product and engineering model with one to two 
+teams and an embedded coach. Finally, during the 
+scaling phase, companies systematically scale this 
+new way of working to the broader team.
+
+Lead in cybersecurity. Quality and safety 
+requirements already play an important role in 
+medical devices. For software-based solutions, 
+cybersecurity enters the equation. For patients, 
+providers, payers, and other ecosystem partners, 
+the concept of medtech manufacturers handling 
+sensitive patient data is relatively new. Companies 
+that develop leading cybersecurity practices and 
+prove themselves to be trusted partners could 
+therefore gain a competitive advantage.  
+
+Tailor development processes based on 
+regulatory needs. In conversations with medtech 
+executives, we frequently hear concerns about 
+whether their organizations can harness the 
+benefits of software product development—
+including agility and rapid iterative cycles—in a 
+highly regulated industry. 
+
+2 For more on developer velocity, please see Chandra Gnanasambandam, Neha Jindal, Shivam Srivastava, and Dilip Wagle, “Developer Velocity 
+at work: Key lessons from industry digital leaders,” McKinsey, February 22, 2021; and Shivam Srivastava, Kartik Trehan, Dilip Wagle, and Jane 
+Wang, “Developer Velocity: How software excellence fuels business performance,” McKinsey, April 20, 2020.
+
+‘ Most of our compliance and quality issues emanate from our inability to gather 
+nonfunctional requirements. Our [product] teams have never done it. That will not 
+work in a software product. Product managers need to know what, when, how, 
+where, and everything around it.’
+
+—  VP of product development,  
+
+top five global medtech company
+
+24
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012C Medtech Ch3 R&S Software>
+Exhibit 2
+Exhibit <2> of <3>
+Four software development drivers have the greatest impact on overall 
+business performance.
+
+The relative importance of software development drivers on overall business performance,1  %, n = 440
+
+Culture
+
+Talent
+management
+
+Security and
+compliance
+
+Team
+characteristics
+
+Testing
+
+Architecture
+
+Open
+source/inner
+source
+
+Agile team
+practices
+
+0.9
+
+0.9
+
+0.8
+
+0.6
+
+0.5
+
+2.3
+
+1.7
+
+1.0
+
+1.0
+
+6.4
+
+4.3
+
+Product
+management
+
+Infrastructure
+and platform
+
+3.0
+
+Engineering
+practices
+
+Organizational
+agility
+
+4.0
+
+2.4
+
+Tools
+
+7.5
+
+6.2
+
+5.4 5.3
+
+4.6
+
+4.4
+
+3.8 3.7
+
+1.9
+
+4.3
+
+3.3
+
+3.0 2.9
+
+2.4 2.2
+
+2.8
+
+1.3
+
+1.0
+
+1.2
+
+1.2
+
+0.6
+
+A
+
+B
+
+C
+
+D
+
+E
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Culture
+A. Psychological safety
+B. Collaboration and 
+knowlege sharing
+
+C. Continuous 
+
+improvement culture
+
+D. Servant leadership
+E. Culture of customer 
+
+obsession
+
+Tools
+A. Planning tools
+B. Collaboration tools
+C. Development tools
+D. DevOps2 tools
+E. Low-code or no-code 
+
+tools
+
+F. AI assistance in 
+development
+
+Talent management
+A. Incentives
+B. Capability building
+C. Recruiting
+D. Team health management
+E. Well-defined 
+
+employee value 
+proposition
+
+F. Well-defined engineering 
+
+career paths
+
+Product management
+A. Project management 
+
+capabilities
+
+B. Product telemetry
+C. Clarity on product 
+
+vision
+
+D. Linkage between 
+strategy and team 
+metrics
+
+E. Rapid prototyping
+
+1 Calculated using Johnson’s relative weights: % importance is relative importance of driver on business outcomes. Total sums to 100%. Higher % indicates 
+stronger impact on business performance. Overall business performance measured as average score for innovation, customer satisfaction, brand, and talent.
+2Software development and IT operations.
+Source: McKinsey Developer Velocity Survey
+
+25
+
+Medtech Pulse: Thriving in the next decade‘ Not all software needs to follow the same standards. In a single meeting, we  
+were able to carve out 20 percent of our software code that could be released 
+using a [continuous integration and continuous delivery] pipeline, which we  
+never thought was possible.’
+
+— Program manager, medtech  
+services and product company
+
+The companies that have done so most 
+successfully have recognized the benefit of 
+“branching”: tiering software features within a 
+given product and tailoring their development 
+accordingly. Highly regulated features follow one 
+branch of the development pathway, while less-
+regulated features follow another branch. 
+
+the talent gap. This strategy can be effective to a 
+point, but it can also cause issues: as contractors 
+become a larger portion of the software team, 
+companies may experience a shortage of in-house 
+strategic capabilities, the loss of a long-term 
+product pipeline, higher operational costs, and 
+quality issues. 
+
+One large medtech company dedicated three 
+months to an “all hands on deck” effort to 
+categorize its software products and develop 
+tailored branches for each category. Some of the 
+most interactive software elements (for example, 
+a phone app that shows status and schedule) 
+were identified as being subject to less-stringent 
+standards. As a result, the company can frequently 
+update the user interface based on user feedback 
+and still maintain compliance.
+
+Source talent strategically
+Medtech companies use advanced recruiting 
+capabilities to attract world-class hardware and 
+engineering talent. However, companies have 
+yet to prove their value proposition and recruiting 
+prowess when it comes to software candidates. 
+
+Recently, a council of leading medtech chief 
+information officers (CIOs) and chief technology 
+officers (CTOs) identified the shortage of 
+good technical software talent as the most 
+significant inhibitor of growth and innovation for 
+their organizations. Successful companies can 
+capture substantial benefits, have higher growth 
+potential (Exhibit 3), and ultimately deliver better 
+patient outcomes.
+
+A company pivoting to a software-focused 
+strategy will likely find value in restructuring the 
+organization toward a team of in-house talent 
+that will enable long-term productivity and 
+performance enhancements. Not every company 
+will be able to prioritize a wholesale transformation: 
+talent is scarce, and speed to market should 
+remain a priority over waiting until the organization 
+has a fully equipped team in-house. However, 
+companies should be aware of these potential risks 
+when hiring contingent labor. Companies can map 
+their end-state organization and identify which 
+roles will be most strategic (more appropriate for 
+in-house) and which will be primarily execution 
+oriented (more appropriate for contingent). 
+Medtech executives can also build relationships 
+with staffing companies and other ecosystem 
+players to establish a more reliable source for 
+contingent team members.
+
+These talent considerations apply not only to 
+sofware developers but also to roles in the 
+product management, quality, compliance, and 
+legal departments. 
+
+Today, medtech companies routinely fill open 
+software positions with contingent labor to close 
+
+In the next era of medtech innovation, value will 
+be disproportionately skewed toward software. 
+Medtech companies have an in-depth understanding 
+
+26
+
+Medtech Pulse: Thriving in the next decade‘  A local university conducted a survey of the most desired employers in tech; 
+the first life sciences or medtech company was listed at number 14. When we 
+engaged one-on-one and shared the mission and our role in reshaping the 
+pandemic, we had a majority of the graduating class apply. We’ve got to use our 
+beliefs a bit more to get the best of this generation.’
+
+— Chief technology officer,  
+global medtech company
+
+Web <2023>
+<6012C Medtech Ch3 R&S Software>
+Exhibit 3
+Exhibit <3> of <3>
+Companies with a higher percentage of digital and analytics employees have 
+higher growth potential.
+
+Median sales growth projection (CAGR, 2022–25) of the top 25 medtech companies¹ by quintile, %
+
+12.5
+
+9.5
+
+5.5
+
+3.7
+
+3.8
+
+Average digital and 
+analytics employees 
+as % of total
+
+Top quintile
+
+Second quintile
+
+Third quintile
+
+Fourth quintile
+
+Bottom quintile
+
+12.2
+
+8.2
+
+4.7
+
+3.6
+
+3.0
+
+¹Top 25 pureplay medtech companies by market cap where data was available. Average market cap in each quintile is inline.
+Source: LinkedIn data, S&P Global
+
+McKinsey & Company
+
+of products, markets, patient needs, and regulations, 
+but their R&D will need to be overhauled to support 
+software development at scale. The three levers 
+for transformation will be key. By pursuing this path, 
+
+medtech companies could also be positioned to 
+expand patient access to higher-quality healthcare 
+services in the years ahead.
+
+Venky Anant is a partner in McKinsey’s Bay Area office, Shih-Yung Huang is an associate partner in the Southern  
+California office, Sreeharsha Konga is a consultant in the New York office, and Delphine Nain Zurkiya is a senior partner  
+in the Boston office. 
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+27
+
+Medtech Pulse: Thriving in the next decade4
+
+Bringing 
+hardware 
+and software 
+together into 
+digital health 
+ecosystems 
+
+Medtech companies can 
+expand their role in digital 
+healthcare ecosystems 
+by combining devices 
+and data to improve care 
+outcomes.
+
+This article is a collaborative effort by Jason 
+Bello, Josh Copp, Mike Ennen, Ari Perl, and 
+Delphine Nain Zurkiya, representing views 
+from McKinsey’s Life Sciences Practice.
+
+28
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+n
+e
+g
+y
+x
+o
+©
+
+29
+
+Medtech Pulse: Thriving in the next decade 
+ 
+Medical devices have become smaller, lighter, 
+safer, and sturdier. Following the lead of other 
+technologies—from computers and cell phones 
+to cars—the next frontier is to make devices 
+smarter. Smart devices form ecosystems, which 
+aggregate data, derive insights to improve 
+experiences, and create loyalty (to that ecosystem 
+over others). In healthcare, ecosystems have 
+advanced significantly in recent years,1 thanks 
+to improved access to health data (for example, 
+through improved electronic-health-record [EHR] 
+data interoperability) and an increase in funding in 
+healthcare technology.2
+
+To date, large medtech companies have not 
+participated at scale in digital health ecosystems. 
+Medtech companies’ absence in ecosystems 
+comes despite the companies’ two valuable, 
+relevant assets: medical devices and the data 
+they generate. The previous two chapters explore 
+innovation in each asset—devices and software—
+on its own. This chapter explores what’s possible 
+when companies bring devices and data together 
+into device-driven ecosystems.
+
+McKinsey estimates that the total addressable 
+market for medtech companies in digital health 
+ecosystems will reach $140 billion by 2025, with 
+double-digit CAGR. This opportunity is spread 
+across five areas: clinical-decision enablement, 
+workflow improvement, population health 
+monitoring, chronic-condition management, and 
+patient engagement. 
+
+The basics of a device-driven digital 
+health ecosystem
+A device-driven digital health ecosystem is a 
+gateway, providing users (patients, clinicians, 
+health systems, care coordinators, and payers) 
+with access to software-based products and 
+services through a single digital platform, 
+connected to a device. We define ecosystems 
+based on their technology components, the 
+companies involved in a variety of roles, and 
+whether they are “open” or “closed.” 
+
+Technology components 
+As discussed in chapter 3, “Cracking the code of 
+software innovation,” ecosystems comprise three 
+technology layers: engagement, intelligence, and 
+infrastructure (Exhibit 1). Each layer plays a role in 
+every ecosystem.
+
+The engagement layer supports flexible 
+collaboration with the other devices and sources in 
+an ecosystem to curate an end-to-end experience 
+for users. The intelligence layer, in which 
+companies can develop distinctive algorithms, 
+consists of an analytics platform used to extract 
+and deploy actionable insights from the data. 
+The infrastructure layer, built on a cloud-native 
+tech stack and housed in the cloud, includes a 
+data platform where data is captured, curated, 
+managed, stored, and exchanged. 
+
+Ecosystems frequently involve multiple 
+stakeholders. Medtech and health technology 
+companies often contribute digital solutions and 
+software to the engagement layer (for example, 
+patient engagement apps and wearables) and to 
+the intelligence layer (such as AI and algorithms 
+tied to healthcare data). Technology companies 
+often contribute to the infrastructure layer (for 
+example, cloud and edge computing), and patients 
+and providers are often the primary users who 
+contribute to and access the data.
+
+Roles in ecosystems 
+Given the complexity of ecosystems and the range 
+of available opportunities, medtech leaders will 
+need to decide what role their company will play3:
+
+ — Builder. A builder typically plans to construct a 
+new ecosystem business to provide diversified 
+offerings that constitute a break with tradition. 
+Generally, builders have their own strong core 
+technology, customers, and data. 
+
+ — Orchestrator. An orchestrator helps connect 
+companies in an ecosystem by developing a 
+series of strategic partnerships and alliances 
+and using digital technology to link them 
+
+1  Stefan Biesdorf, Ulrike Deetjen, and Basel Kayyali, “Digital health ecosystems: Voices of key healthcare leaders,” McKinsey, October 12, 2021.
+2 Rock Health Venture Funding Database, 2021, accessed May 31, 2023; McKinsey analysis.
+3 The ecosystem playbook: Winning in a world of ecosystems, McKinsey, April 2019.
+
+30
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012D Medtech Ch4 Healthcare Ecosystems_Exs>
+Exhibit 1
+Exhibit <1> of <4>
+An ecosystem built around a medical device comprises three layers.
+
+Engagement 
+layer
+
+Software 
+and apps
+
+Wearables
+
+AR/VR¹
+
+Systems of engagement such as apps and 
+stand-alone software that allow users (eg, 
+patients and healthcare providers) to engage 
+with others in the ecosystem, consume 
+insights, and take actions to improve care
+
+Intelligence 
+layer
+
+Descriptive 
+analytics
+
+Predictive 
+analytics
+
+Algorithms and analytics used to 
+extract actionable insights for users in 
+the ecosystem
+
+Infrastructure 
+layer
+
+Secure
+cloud
+
+Interoper-
+ability
+
+Data platform backbone in which data is 
+captured, curated, managed, analyzed, 
+and shared 
+
+Medical 
+device
+data
+
+Consumer 
+wearable
+data
+
+Sensor
+data
+
+Other
+data
+
+Data extracted from medical devices, 
+wearables, sensors, or other healthcare 
+data sets
+
+1Augmented reality and virtual reality.
+
+McKinsey & Company
+
+together, provide products and services, and 
+share customers and data. 
+
+ — Participant. Participants provide products and 
+
+services in an ecosystem, acting as a link in a 
+value chain connected through alliances and 
+partnerships and using partners’ resources and 
+capabilities to enhance their business, upgrade 
+their products to adapt to ecosystems, and 
+better meet user needs.
+
+The choice of what role to play depends on the 
+company’s capabilities, ambition, and risk appetite, 
+among other considerations. Most medtech 
+companies today do not play a role in ecosystems. 
+Those that do generally act as participants, such 
+as imaging companies whose scans (for example, 
+MRIs4) are sent to EHRs and stored digitally for 
+easy, compliant access by healthcare providers. 
+
+Playing the participant role can be immensely 
+valuable to a company, creating loyalty to that 
+company’s device beyond a discrete use and 
+offering the opportunity to collect additional data 
+and glean new insights. Each step up can multiply 
+the value at stake. Two examples show the roles 
+medtech companies can play:
+
+ — ResMed. ResMed orchestrates its ecosystem, 
+which has helped the company build a leading 
+position in sleep apnea. ResMed’s AirSense 
+machine connects to its myAir app and provides 
+milestone accomplishments and motivation to 
+patients, increasing therapy adherence by 17 
+percent. AirSense also connects to AirView, a 
+provider-facing platform that improves patient 
+monitoring through remote diagnostic tools and 
+feeds data back to ResMed to better personalize 
+care and inform product development.5 
+
+5  “40th annual J.P. Morgan Health Conference,” ResMed, January 10, 2022.
+
+31
+
+Medtech Pulse: Thriving in the next decade — Johnson & Johnson’s Abiomed. Abiomed 
+plays the builder role with Impella Connect, 
+a smartphone app that allows healthcare 
+professionals and Abiomed’s clinical support 
+team to monitor a patient’s status without having 
+to sit at their bedside. The ecosystem improves 
+patient care by sending notifications when urgent 
+care is needed. It also enables collaborative 
+patient management between the Abiomed 
+support team and clinicians, fostering streamlined 
+communication based on real-time data.6
+
+Open and closed ecosystems 
+Beyond a company’s role in an ecosystem, the 
+value of an ecosystem will also depend on whether 
+it is open or closed (see sidebar, “Considerations 
+for open and closed ecosystems”).
+
+Open ecosystems. Open ecosystems use 
+proprietary data from medtech devices as a source 
+of insights, and they integrate and share data and 
+insights to and from other devices and systems. 
+This multifaceted lens can generate a more 
+
+6  “Impella Connect,” Abiomed, accessed May 31, 2023.
+
+Considerations for open and closed ecosystems
+
+Medtech companies can assess 
+their open and closed ecosystem 
+opportunities with their device 
+portfolios and data types, as well 
+as the ecosystem’s raison d’être, in 
+mind. For instance, a monitoring 
+device may lend itself to an open 
+ecosystem when several products 
+and data components are required 
+Web <2023>
+to get a holistic view of the patient’s 
+<6012D Medtech Ch4 Healthcare Ecosystems_Exs>
+Exhibit <2> of <4>
+
+condition and because it would be 
+easier to partner than to build out 
+each ecosystem component. By 
+comparison, when the device and 
+data are more self-contained and 
+readily accessible from a single 
+medtech company, such as in 
+cardiac-rhythm management, a 
+medtech company could more easily 
+build a closed system (see table). 
+
+Each type has challenges. An open 
+ecosystem relies on collaboration 
+from different partners. Closed 
+ecosystems can be difficult to 
+maintain because competitors are 
+often offered incentives to interject 
+their products and services. 
+
+Based on recent ecosystem 
+successes, it has become clear 
+
+Open and closed ecosystems vary based on device type and reliance on data.
+
+Basis for ecosystems of monitoring 
+and therapeutic devices
+
+Basis for ecosystems of 
+interventional devices
+
+Basis for ecosystems of monitoring 
+and therapeutic devices
+
+Ecosystem 
+platform
+
+Open
+
+Devices with complex 
+adherence patterns, requiring 
+physician monitoring and 
+output to other devices or 
+systems of record
+
+Examples
+
+Sleep apnea and continuous 
+glucose monitoring
+
+Closed
+
+Devices in a self-contained 
+care pathway that require 
+limited input and output to 
+other devices or systems
+
+Examples
+
+Cardiac-rhythm management
+
+Interventional devices and 
+equipment with complex 
+pre- and postoperation 
+clinical workflow (eg, 
+imaging, PROs,¹ treatment 
+planning, and EHR² data)
+
+Radiotherapy treatment
+
+Interventional devices and 
+equipment that operate in a 
+closed-loop system and 
+require limited input and 
+output to other systems for 
+the care pathway
+
+Robotic systems, 
+energy-based devices, and 
+smart instruments
+
+Diagnostic devices with data 
+interpreted in core systems of 
+records (eg, PACS and LIS³) or 
+other systems of intelligence or 
+engagement
+
+Diagnostic imaging and in 
+vitro diagnostics
+
+Diagnostic and screening 
+devices through which data is 
+mostly interpreted in a 
+closed-loop system, with limited 
+external input and output
+
+Endoscopy
+
+¹Patient-reported outcomes.
+2Electronic health record.
+3Picture archiving and communication system and laboratory information management system.
+
+McKinsey & Company
+
+32
+
+Medtech Pulse: Thriving in the next decadeConsiderations for open and closed ecosystems (continued)
+
+that the notion of open versus 
+closed is not always binary; this 
+decision might vary across the 
+three technical layers to create 
+an optimal structure. This could 
+be the case, for example, in an 
+open system used to treat sleep 
+apnea or radiotherapy (exhibit). In 
+the sleep apnea ecosystem, the 
+engagement and infrastructure 
+layers are open to incorporate the 
+required data and insights about 
+the patient’s chronic-disease state 
+(which requires output from and 
+to other devices and systems of 
+record, such as an electronic health 
+Web <2023>
+<6012D Medtech Ch4 Healthcare Ecosystems_Exs>
+Exhibit <3> of <4>
+
+record [EHR]), but the analytics, 
+which dictate how the patient 
+could most benefit from their 
+continuous positive airway pressure 
+(CPAP) device and associated 
+services, could be closed in order 
+to generate targeted pull-through 
+for the medtech company. In the 
+radiotherapy ecosystem, the 
+infrastructure layer had to be even 
+more open, given the need for third-
+party imaging and broader oncology 
+system data, but the radiotherapy 
+treatment planning and reported 
+patient outcomes could be closed to 
+enhance both patient value (enabling 
+
+smarter treatment) and the device’s 
+real-world evidence generation (more 
+comprehensive data). 
+
+The choice between open and closed, 
+overall and within each ecosystem 
+layer, is the critical design principle 
+that medtech companies will need 
+to evaluate, depending on their 
+product and technological capabilities, 
+strategic vision, and the broader group 
+of participants. 
+
+Ecosystems can have a varied set of open and closed decisions.
+
+Engagement
+
+Intelligence
+
+Infrastructure
+
+Closed portion of ecosystem
+
+Open portion of ecosystem
+
+Sleep care ecosystem
+
+Radiotherapy ecosystem
+
+HCP¹ app 
+for patient 
+insights and 
+billing
+
+Patient app 
+for tracking, 
+education, 
+and HCP¹ 
+support
+
+Integration 
+into EHR,² 
+claims, 
+and order 
+systems
+
+HCP¹ 
+application 
+for treatment 
+planning 
+and quality 
+assurance
+
+Patient app 
+for symptom 
+reporting and 
+education
+
+Oncology 
+EHR² and 
+information 
+systems
+
+Analytics to identify data usage events, 
+alerts, and when to resupply
+
+Treatment planning analytics (multimodal analysis)
+Quality assurance analytics 
+Practice management and population health analytics
+
+OEM 
+cloud-based 
+secure 
+platform  
+
+CPAP³ 
+device, mask 
+sensors, and 
+other devices
+
+OEM 
+cloud-based 
+data platform
+
+Common data model for 
+interoperability with oncology 
+systems and diagnostic 
+imaging
+
+Radiotherapy 
+device
+
+Patient-
+reported 
+outcomes
+
+Diagnostic 
+imaging
+
+Oncology 
+system data
+
+¹Healthcare provider.
+2Electronic health record.
+3Continuous positive airway pressure.
+
+McKinsey & Company
+
+33
+
+Medtech Pulse: Thriving in the next decade 
+comprehensive view of the patient and the ability 
+to grow distinct value for users. A company may 
+choose to be a builder, orchestrator, or participant 
+in an open ecosystem.
+
+Closed ecosystems. A closed ecosystem is one in 
+which users rely exclusively on data and services 
+from a company’s device or devices. In certain 
+scenarios, this option can deliver unique benefits 
+to users (for example, a closed-loop system could 
+generate data that is more accurate and insightful) 
+and to the medtech company (for example, 
+creating a higher likeliness that patients will use 
+the company’s device and serving as a source of 
+additional data to improve algorithms).
+
+How multiple business models can 
+create value
+Building ecosystems is an intensive process, and 
+they require substantial capital, technology, and 
+expertise. As such, getting the business model 
+right is critical to ensure medtech companies can 
+earn a commensurate return on their investments. 
+
+Companies can typically monetize ecosystems in 
+two ways (Exhibit 2):
+
+Stand-alone revenue. This entails charging for a 
+portfolio of products separate from the device, 
+typically through a subscription-based software 
+offering or charging other manufacturers and 
+participants for use of the platform to enable  
+their solutions.
+
+Pull-through device value. Companies capture 
+additional device revenue because the ecosystem 
+offers more benefits to users and patients who 
+use the device more often and in combination with 
+more of a company’s products. 
+
+Whether or not companies can generate stand-
+alone software or software-as-a-service (SaaS) 
+revenue tied to the ecosystem offering depends 
+on the additional value they bring to the ecosystem 
+(and care pathway), beyond what is already 
+delivered by the primary device. As such, we 
+typically see more stand-alone value captured 
+when companies expand the services and data 
+
+Web <2023>
+<6012D Medtech Ch4 Healthcare Ecosystems_Exs>
+Exhibit <4> of <4>
+Exhibit 2
+Two primary revenue streams drive ecosystem business models and the total 
+addressable market.
+
+Ecosystem use cases
+
+Target customer
+
+Clinical-
+decision 
+enablement
+
+Administrative- 
+and operational-
+workflow 
+improvement
+
+Population 
+health 
+monitoring
+
+Chronic-
+condition 
+management
+
+Patient or 
+consumer 
+engagement
+
+Patient or consumer
+
+Provider
+
+Payer
+
+Revenue streams, 
+ecosystem total addressable 
+market (TAM), 2025, 
+$140–$150 billion total
+
+• Stand-alone revenue 
+
+(software and SaaS¹) = 
+$90 billion
+
+• Device pull-through = 
+
+$50–$60 billion
+
+$30
+
+$5
+
+$10
+
+$40
+
+$5
+
+$50–60
+
+Medical device TAM that can be pulled through when the 
+device is digitally enabled and participates in the ecosystem
+
+¹Software as a service.
+Source: Health Resources International; Markets & Markets; McKinsey analysis
+
+McKinsey & Company
+
+34
+
+Medtech Pulse: Thriving in the next decade 
+they offer through the ecosystem. Furthermore, 
+companies that produce and capture large volumes 
+of high-quality data have the best chance to 
+monetize their ecosystems. For example, a medtech 
+company that built an operating room (OR)–focused 
+ecosystem around its devices could have third-
+party developers create tools and applications 
+to enhance the OR experience and, in turn, could 
+receive subscription revenues from developers for 
+this access. This type of stand-alone revenue will 
+continue to rise in importance as ecosystems and 
+their value become further solidified.
+
+How medtech companies can launch or 
+advance ecosystem initiatives
+Many medtech companies have already built or are 
+currently building digital point solutions (to serve a 
+discrete purpose) around their devices. To extend 
+into full ecosystems, leaders should focus on several 
+strategy and operating model considerations:
+
+Define value concretely and connect it to the user’s 
+economic model. Understanding the user’s need 
+is at the heart of an ecosystem’s value. Aligning the 
+digital ecosystem’s economics to user economics 
+can drive adoption, and increased use of ecosystem 
+devices could generate better patient outcomes 
+and lower cost of care. For instance, ecosystem 
+users such as healthcare providers could have 
+value-based-care models with payers in which they 
+earn a portion of cost savings tied to the overall care 
+provided or earn higher reimbursement as patient 
+outcomes improve. Where possible, companies 
+could seek to quantify ecosystem ROI (for example, 
+substantiated through peer-reviewed research and 
+
+testimonials from key opinion leaders) and use this 
+as the basis for their ecosystem commercial models.
+
+Clarify your company’s role in the ecosystem. 
+Builders derive more value in ecosystems than 
+orchestrators, who in turn derive more value than 
+participants. However, participants still derive 
+significantly more value than nonparticipants. 
+To capture the opportunity in a timely manner, 
+medtech companies need to be realistic about 
+their potential. Most medtech companies could 
+not act as builders in the near term, but they could 
+readily become active participants and gain a 
+competitive advantage over nonparticipants.
+
+Create network effects and reinforce value. 
+Successful ecosystems generate positive 
+reinforcement, both for the users they engage and 
+in the value they create. Consider an ecosystem that 
+uses patient-reported outcomes to inform clinical-
+decision-making tools. As more users engage with 
+the ecosystem, more data is generated, which can 
+lead to better clinical decisions. This, in turn, entices 
+more users into the ecosystem. 
+
+Although the level of transformation required 
+by medtech companies to deliver ecosystem 
+offerings may seem beyond reach for many, this 
+is a new frontier of value worthy of consideration. 
+Companies that choose to build, orchestrate, or 
+participate actively in these device-driven digital 
+ecosystems are well positioned to deliver distinct 
+impact to patients and providers and to create new 
+value for shareholders. 
+
+Jason Bello is a partner in McKinsey’s Washington, DC, office; Josh Copp is a partner in the Bay Area office; Mike Ennen is a 
+partner in the Silicon Valley office; Ari Perl is a partner in the New Jersey office; and Delphine Nain Zurkiya is a senior partner 
+in the Boston office.
+
+The authors wish to thank Benji Lin, Elea Medina, and Divya Srinivasan for their contributions to this article
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+35
+
+Medtech Pulse: Thriving in the next decade5
+
+Building 
+a next-
+generation 
+medtech 
+commercial 
+model 
+
+Commercial models must 
+evolve to support new 
+types of offerings, adapt 
+to changing customer 
+expectations, and position 
+companies to succeed in  
+the decade ahead.
+
+This article is a collaborative effort by Ralph 
+Breuer, Marcel Meuer, Abhi Patangay, Julia 
+Samorezov, Maria Strom, and Delphine 
+Nain Zurkiya, representing views from 
+McKinsey’s Life Sciences Practice.
+
+36
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+n
+e
+r
+e
+n
+o
+E
+©
+
+37
+
+Medtech Pulse: Thriving in the next decade 
+ 
+In earnings calls and conference halls, medtech 
+companies are being asked—and are asking 
+themselves—the same question: When will the 
+industry return to prepandemic “normal”? For 
+commercial leaders, the answer is likely “never.” 
+In the near term, labor shortages, high inflation, 
+and unpredictable procedure volumes are 
+putting pressure on health systems’ financial 
+positions.1 More structurally, after three years 
+of digital communication, medtech customers—
+including healthcare professionals (HCPs), 
+health system procurement departments, and 
+health system administrators2—have higher 
+expectations of their engagements with 
+medtech companies.
+
+Innovating engagement models and offerings is 
+decidedly difficult for medtech leaders, especially 
+in the face of mounting cost containment 
+pressures. With R&D often highly protected and 
+gross profit difficult to move, SG&A has been the 
+target of many CFO reviews. From 2012 to 2019, 
+SG&A spend grew slightly faster than sales at 
+major medtech companies, but from 2019 to 2022, 
+spend shrank as a percentage of sales for the first 
+time since the Great Recession.3
+
+Commercial executives are marshaling their 
+resources to increase efficiency, but most have 
+not pursued a next-generation transformation of 
+the commercial model. In a survey of nearly 1,900 
+medtech leaders representing a cross-section 
+of business functions, half reported that their 
+companies have articulated an intent to invest in 
+a new commercial model. Two-thirds said they 
+had not laid out a customer-centric vision. Eighty 
+percent said they have not yet meaningfully 
+provided incentives to leaders to execute on the 
+people, processes, and technology required 
+to achieve that vision.4 Although the traditional 
+commercial model still has a place in many 
+product categories, medtech leaders increasingly 
+acknowledge that, for most categories, a new 
+approach is needed.
+
+Rising medtech customer expectations  
+Medtech customers expect new forms of 
+engagement and new products from medtech 
+companies.
+
+Digital engagement. The consumerization trend 
+that has permeated nearly every aspect of daily life 
+has extended into B2B healthcare settings. HCPs 
+have high expectations for digital, omnichannel 
+engagement with medtech companies—a trend 
+that began well before the pandemic, intensified 
+during it, and is likely to become permanent. 
+
+Medtech leaders have started to respond to this 
+trend by augmenting the traditional commercial 
+model, which has relied primarily on field 
+representatives to sell products and solutions, with 
+additional roles and channels to provide seamless, 
+convenient, personalized, and on-demand 
+engagement. These channels include self-service 
+portals, webinars, and social media content.
+
+HCPs’ preference for digital and remote 
+interactions with companies has continued to 
+grow: more than two-thirds prefer email interaction 
+with medtech sales reps today, compared with 
+less than half in 2019.5 Severe staff shortages, 
+which leave HCPs with even less time for in-person 
+interactions with medtech representatives, are 
+accelerating this trend.
+
+To be sure, in-person interactions are still required 
+(for example, when demonstrating products or 
+supporting physicians in using a new device). But 
+omnichannel engagement—creating a unified 
+customer experience across multiple channels with 
+the requisite investments in people, processes, 
+and technology—is quickly becoming a necessity 
+for medtech companies and is associated with 
+improved business performance (Exhibit 1). 
+
+Indeed, HCPs say the experience of interacting 
+with sales and customer service is on a par with 
+price as a reason to switch suppliers.6 In short, 
+
+1  For more, see “The gathering storm in US healthcare,” McKinsey, accessed May 20, 2023.
+2 As used throughout this article, “customers” refers to HCPs, health system procurement departments, and health system administrators.
+3 S&P Global Market Intelligence analysis of top 40 healthcare equipment companies by market cap as of April 4, 2023.
+4 Ralph Breuer, Karen Passmore, Maria Strom, and Delphine Nain Zurkiya, “How medtechs can meet industry demand for omnichannel 
+
+engagement,” McKinsey, March 28, 2023.
+
+5 Ibid.
+6 Ibid. 
+
+38
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012E Medtech Ch5 Commercial Model>
+Exhibit 1
+Exhibit <1> of <4>
+Omnichannel maturity is associated with stronger business performance 
+and faster postpandemic recovery. 
+
+Revenue growth, 2021 to 2022,¹ %
+
+Industry²
+
+Surveyed companies
+
+12
+
+5
+
+3
+
++11 p.p.3
+
+1
+
+−1
+
+−2
+
+Bottom 3rd in
+omnichannel maturity
+
+Middle
+
+Top 3rd in
+omnichannel maturity
+
+¹From the 1st half of 2021 to the 1st half of 2022.
+²Industries of participating companies included endoscopy, dialysis, drug delivery, imaging, general surgery, orthopedics, and orthotics.
+³Percentage points.
+Source: McKinsey Omnichannel Maturity Survey, 2022 (n = 1,900); McKinsey analysis of company filings
+
+McKinsey & Company
+
+research shows that medtech customers are 
+demanding a modern engagement model.7
+
+Subscription-based offerings. HCPs and 
+procurement leaders also have higher 
+expectations of digital products and solutions 
+from medtech companies. Facing financial 
+pressures, health systems are increasingly 
+expressing a desire to shift their spending 
+away from large capital purchases and toward 
+subscription-based, as-a-service (XaaS) 
+offerings. One director of pharmacy recently 
+stated, “For my next purchase, I am going to do 
+everything in my power to not buy any hardware in 
+favor of an XaaS contract.” 
+
+Tech companies consistently double to triple their 
+valuation multiples by shifting to XaaS products 
+and solutions with recurring revenue streams 
+via licensing or subscriptions.8 Companies that 
+have adopted XaaS models have seen improved 
+shareholder value, and capital markets tend to 
+reward medtech companies that show strong 
+growth of new business models and services.9 As 
+a result, more medtech companies are harnessing 
+the power of ecosystem selling and capturing 
+value beyond core medical products by bringing 
+solutions and services to market with XaaS 
+models. Radiology companies are leading the 
+shift to software solutions, but companies in other 
+medtech categories are also making this transition. 
+
+7 Ibid.
+8 S&P Global Market Intelligence data of ten information technology companies as of March 25, 2023.
+9 Ibid.
+
+39
+
+Medtech Pulse: Thriving in the next decade 
+Building a new commercial model
+Meeting HCPs’ rising expectations by providing 
+differentiated experiences that improve 
+engagement has been demonstrated to be an 
+effective commercial strategy. Medtech companies 
+that invested in omnichannel capabilities 
+experienced two to three times higher revenue 
+growth than their less-advanced industry peers.10 
+Beyond revenue growth, medtech companies that 
+deliver omnichannel personalized engagement 
+could increase their customer satisfaction metrics 
+and improve selling efficiency. 
+
+When revamping their commercial models, 
+medtech leaders can also keep several 
+considerations in mind (Exhibit 2): 
+
+Master the basics
+A strong set of foundational capabilities could 
+be viewed as a self-funding insurance plan for 
+the future. Medtech commercial leaders can 
+start by identifying the most strategic customer 
+stakeholder groups and their beliefs, motivations, 
+unmet needs, and desired buying processes.11 
+They can augment this research with data-
+backed insights including, for example, claims 
+data analysis to estimate procedure volumes at 
+different hospitals. 
+
+Based on this analysis, medtech commercial 
+leaders could identify their highest-potential 
+market opportunities and develop their customer 
+segmentation strategies accordingly. This step 
+
+10 “How medtechs can meet industry demand,” March 28, 2023.
+11  Hayden Lindskog, Maria Strom, and Christian Zerbi, “Using ethnography to translate behavior to value in medical devices,” McKinsey,  
+
+January 4, 2021.
+
+Web <2023>
+<6012E Medtech Ch5 Commercial Model>
+Exhibit 2
+Exhibit <2> of <4>
+
+A next-generation commercial model includes three layers of capabilities.
+
+1
+
+Master the basics
+
+• deploying digital and inside 
+
+sales channels in the right parts 
+of the portfolio
+
+• adopting and creating routines 
+for customer segmentation, 
+account planning, and the 
+use of customer-relationship-
+management systems
+
+• pricing processes followed and 
+pricing performance measured 
+on ongoing basis
+
+2
+
+Personalize omnichannel 
+engagement
+
+• improved customer journeys 
+designed and deployed in 
+areas where there is outsize 
+business opportunity 
+
+• automated recommendation 
+
+engine for outreach and sales 
+prioritization
+
+• commercial functions 
+
+collaborating through agile 
+ways of working
+
+3
+
+Harness the power of 
+ecosystem selling
+
+• new business and pricing 
+
+models to capture value of 
+ecosystem (eg, as a service 
+[XaaS])
+
+• selling model distributed 
+
+through network of partners 
+• best-in-class software sales 
+force and customer success 
+organization 
+
+McKinsey & Company
+
+40
+
+Medtech Pulse: Thriving in the next decade 
+A strong set of foundational  
+capabilities could be viewed  
+as a self-funding insurance plan  
+for the future.
+
+includes deciding which parts of the portfolio to 
+pursue with in-person (versus inside or digital) 
+sales and supporting it with effective account 
+planning and executive oversight. 
+
+Additional steps toward foundational capabilities 
+include the following: 
+
+ — Widely adopt a customer-relationship-
+
+management (CRM) system for daily use  
+by in-person and inside-sales teams to 
+holistically understand and address account  
+and customer needs.
+
+ — Follow a pricing discipline to ensure that none 
+of the hard-earned value identified during 
+product and market development leaks during 
+commercialization. Implementing tools and 
+processes such as dynamic deal scoring12 and 
+pricing councils could help companies maintain 
+this value-based approach to pricing.  
+
+ — Create a measurement system to monitor 
+
+performance down to the territory and account 
+level and identify coaching opportunities. 
+Dashboards using real-time data feeds could be 
+
+designed with relevant metrics for different groups, 
+from individual sales reps to senior leaders.
+
+Personalize omnichannel engagement
+Once a medtech company has laid a stable, 
+reliable foundation, leaders can layer on additional 
+capabilities to create a true omnichannel 
+experience.13 With multiple engagement channels in 
+place (inside sales, digital, and in person), it becomes 
+important for a medtech company to seamlessly 
+put them together and deliver a meaningful 
+customer experience (Exhibit 3). This starts 
+with a deep understanding of the customer and 
+designing journeys that not only align with customer 
+preferences but can also be adapted in an agile 
+manner based on customer actions and behaviors.
+
+Medtech leaders who have built omnichannel 
+models agree that several actions are important: 
+
+Lead from the top, and engage change agents. All the 
+transformative technologies and processes that go 
+into omnichannel primarily support sales reps and the 
+new experiences they help create for their customers. 
+Therefore, sales leaders and their teams have an 
+integral role to play in leading the transformation.
+
+12  Dynamic deal scoring uses advanced analytics to assess deal quality in real time. When combined with incentives and governance, it could 
+
+empower sales teams and increase deal values. 
+
+13  “Omnichannel engagement in medtech: The time is now,” McKinsey, May 19, 2021.
+
+41
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012E Medtech Ch5 Commercial Model>
+Exhibit 3
+Exhibit <3> of <4>
+
+Omnichannel engagement orchestrates touchpoints and assets to create a 
+seamless experience in line with customers’ needs.
+
+Create integrated 
+view of customer 
+needs and past 
+interactions 
+
+• Past product research history 
+
+informs recommendations
+
+• On-demand demos and 
+
+education build on already 
+shared information
+
+• RFP¹ needs and customer 
+specifications loaded into 
+web portal 
+
+• Follow-up services based on 
+
+product usage patterns
+
+Present unified 
+experience tailored to 
+customer needs
+
+‘Human’ sales
+• Field sales rep
+• Inside-sales rep
+• Field service engineer
+• Customer service
+
+Digital assets
+
+• Web portal
+• Digital marketing 
+(eg, email and 
+social media)
+
+Reach customers 
+through diverse set 
+of touchpoints
+
+¹Request for proposal.
+
+McKinsey & Company
+
+Strategically choose the starting point and maintain 
+focus on it. Work from this point to test and iterate 
+new methods of engagement. In a McKinsey-led 
+panel discussion at the 2022 AdvaMed Conference, 
+commercial leaders identified several moments 
+that can act as an impetus to redesign customer 
+journeys with omnichannel and that can be tied 
+to quantifiable business opportunities. These 
+moments include launching a first-in-class product, 
+launching a second-to-market product with room 
+for growth, enabling procedure innovation (new 
+standards of care), and entering a new care setting 
+or customer segment.
+
+Assemble a dedicated customer experience group. 
+This group can study and identify the optimal 
+ways to engage with customers based on their 
+day-to-day activities and behaviors (ethnographic 
+research) and can measure customer responses 
+
+to various efforts through behavior analysis and by 
+eliciting feedback (customer satisfaction surveys).
+
+Shift ways of working. Break down commercial 
+silos to design campaigns across brands, 
+coordinate channels, and learn along the 
+way. A cross-functional campaign team can 
+include representatives from digital marketing, 
+product marketing, in-person and remote sales, 
+commercial operations, and the communications 
+and legal departments. Agile sprints could 
+be viewed as a forcing mechanism to test and 
+iterate tactics in early pilots; next, as journeys are 
+validated, they may be scaled to the rest of the 
+organization in a way that does not require the 
+same agile iteration.  
+
+Build data science capabilities. This is a 
+prerequisite for addressing the right customers at 
+
+42
+
+Medtech Pulse: Thriving in the next decadeCreating and capturing value beyond 
+core medical products allows executives 
+to further evolve their commercial 
+models for a digital-first future.
+
+the right time with the right personalized message 
+and offering a relevant, tailored product or solution 
+on all channels. Initially, an omnichannel approach 
+might be manually operated or rules-based, but over 
+time, companies could adopt more sophisticated 
+AI and machine-learning models—including digital 
+twins14—to glean more predictive and automated 
+insights into customer engagement. Data insights 
+and model outputs can inform marketing campaigns 
+that fill the top of the sales funnel (such as through 
+common marketing automation tools). The same 
+insights can feed into a user-friendly alert or 
+recommendation system, such as a pop-up function 
+in the CRM system, that alerts sales reps to a recent 
+customer engagement in digital channels and 
+prompts an in-person follow up.
+
+Harness the power of ecosystem selling
+Creating and capturing value beyond core medical 
+products allows executives to further evolve their 
+commercial models for a digital-first future. Doing 
+so requires advanced commercial capabilities. 
+First, pricing capabilities should evolve to support 
+XaaS models. This requires pricing XaaS to the 
+value it delivers and developing differentiated 
+subscription offerings to match varying customer 
+needs. Second, the commercial organization needs 
+to evolve to include new roles (such as digital talent 
+
+and reps skilled in XaaS selling) supported by new 
+structures to motivate contract selling. Last, the 
+ecosystem must be underpinned by an expanded 
+customer success function to support solution 
+adoption and drive stickiness. 
+
+One company recently harnessed the power of 
+ecosystem selling by revamping its commercial 
+organization and processes. Because the decision 
+makers for the company’s XaaS products and 
+solutions are fundamentally different from those 
+who make decisions for legacy products, the 
+company created an overlay sales structure 
+and hired teams with experience selling digital 
+products and solutions. It then documented new 
+processes to clarify internal roles at each stage 
+of the customer journey, from lead generation to 
+the first demo to implementation. It also created 
+a RACI matrix mapped to the entire customer 
+journey,15 enabling legacy product and digital 
+solution sellers to work collaboratively. As a result 
+of these efforts, combined deals tripled in value, 
+compared with a legacy product deal or purely 
+digital deal. 
+
+In another example, a global leader in specialized 
+in vitro diagnostics recently started to develop 
+and bring to market digital data, analytics, and 
+
+14  Digital twins are models that help estimate ROI of engagement tactics by simulating customer behaviors.
+15  A RACI matrix is a diagram that identifies the roles and responsibilities of individuals at each point along the customer journey.
+
+43
+
+Medtech Pulse: Thriving in the next decadesoftware solutions augmenting its core portfolio. 
+By offering, for instance, algorithmic decision-
+support solutions using a machine’s test results in 
+an “installation fee plus subscription” model, the 
+company can drive commercial growth directly 
+through its new digital solution. Moreover, it can 
+drive instrument and reagent sales because the 
+new solution gives it an edge over competitor 
+
+instruments. In addition, physicians—especially 
+those who are less experienced—can use the 
+instruments more frequently because the solution 
+substantially improves the user experience and 
+makes complex results easier to interpret (see 
+sidebar, “A checklist for building a next-generation 
+commercial model”).
+
+A checklist for building a next-generation commercial model
+
+Web <2023>
+Leaders can keep this checklist in mind as they embark on a commercial-model transformation (see table). 
+<6012E Medtech Ch5 Commercial Model>
+Exhibit <4> of <4>
+
+Considerations for building a winning medtech commercial model span 
+people, process, and technology.
+
+People
+
+Process
+
+Technology
+
+Ecosystem
+
+• software-selling talent
+• customer success organization
+
+• as-a-service pricing 
+• customer lifetime value 
+
+measurement 
+
+Omnichannel
+
+• data scientists
+• data engineers
+• customer experience group
+
+• linked actions across 
+
+channels (agile)
+
+• customer experience 
+
+measurement (customer 
+satisfaction score)
+
+• real-time data collection 
+
+technology for customer usage
+
+• next-gen recommendation 
+engine based on real-time 
+customer usage
+
+• data lake or cloud repository
+• recommendation engine in CRM 
+
+(based on AI analytics)
+
+• marketing automation tools
+
+Basics
+
+• remote sales force (captive or 
+
+through partnership)
+
+• digital marketers
+• data-driven sales operations
+
+• regular customer research
+• pricing council
+• disciplined use of customer 
+
+relationship management (CRM)
+
+• CRM system
+• configuring pricing and 
+
+quote tools 
+
+McKinsey & Company
+
+Building commercial capabilities at  
+the foundational, omnichannel,  
+and ecosystem levels will take time and 
+organizational conviction.
+
+44
+
+Medtech Pulse: Thriving in the next decadeConclusion
+Building commercial capabilities at the 
+foundational, omnichannel, and ecosystem levels 
+will take time and organizational conviction. 
+Propelling this evolution will require commercial 
+leaders to articulate a compelling vision that 
+employees throughout the enterprise can 
+rally around, find champions who can use their 
+influence to continually reinforce the vision, and 
+
+publicly celebrate even small successes to help 
+create buy-in and support adoption.  
+
+The three layers offer a commercial model for 
+the medtech industry’s next act: foundational 
+practices propel resilience, omnichannel keeps 
+the customer experience at the center, and 
+ecosystem selling is the force multiplier in a 
+digitally powered future. 
+
+Ralph Breuer is a partner is McKinsey’s Cologne office; Marcel Meuer is a partner in the Düsseldorf office; Abhi Patangay is 
+a partner in the Minneapolis office; Julia Samorezov is a partner in the Boston office, where Delphine Nain Zurkiya is a senior 
+partner; and Maria Strom is an associate partner in the Cleveland office.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+45
+
+Medtech Pulse: Thriving in the next decade6
+
+Reimagining 
+operations for 
+the challenges 
+of the next 
+decade 
+
+As medtech companies 
+emerge from the COVID-19 
+pandemic, leaders are 
+scrutinizing operations to find 
+ways to better serve patients 
+and bolster competitiveness.
+
+by Mohammad Behnam, Tony Gambell,  
+and Orlando Ramirez Cardenas 
+
+46
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+y
+n
+n
+h
+o
+J
+e
+n
+i
+t
+n
+a
+t
+s
+n
+o
+C
+©
+
+47
+
+Medtech Pulse: Thriving in the next decade 
+ 
+ 
+This chapter is a distillation of the 2023 compendium Reimagining medtech operations: Bridging 
+medical innovation to better patient care.1
+
+Without operations groups, the medtech industry 
+would consist of thousands of prototypes and 
+zero patients treated. Operations functions—from 
+procurement of raw materials to final delivery of 
+products to end customers—allow an idea in an 
+R&D lab to translate to patient impact, at scale.
+
+Medtech operations have recently moved into 
+the spotlight. When the COVID-19 pandemic 
+suddenly disrupted the global healthcare delivery 
+system, manufacturing organizations mobilized 
+to more than quintuple the US national stockpile 
+of ventilators.2 During raw-material shortages 
+in the second half of 2022, medtech companies 
+continued to supply healthcare providers with the 
+devices they needed to save lives, demonstrating 
+their supply chain resilience.3
+
+As medtech companies grow and devices become 
+more complex, operations could be a source of 
+differentiation. Top companies will scale their 
+innovations quickly and supply their products 
+and services reliably. Those that struggle will find 
+themselves mired in increasing complexity.
+
+Medtech companies can rethink their operations 
+in targeted ways to become more reliable, robust, 
+and profitable and to deliver better patient care. 
+This includes a balanced portfolio of initiatives 
+across the operations value chain.
+
+Rebuilding supply chains  
+with resilience
+To prepare for the future, medtech companies 
+can rebuild their supply chains with resilience 
+as a new priority. Research from the McKinsey 
+
+Global Institute (MGI) suggests that while supply 
+disruptions vary in terms of severity and lead time, 
+a shock lasting more than two months occurs 
+on average every 3.7 years; within a ten-year 
+period, such shocks could cause some medtech 
+companies to lose approximately 38 percent of one 
+year’s earnings (Exhibit 1).4
+
+Medtech leaders can take a structured approach 
+to building supply chain resilience. They can start 
+by gaining real-time, end-to-end visibility into the 
+supply chain (to the extent possible), including 
+suppliers across tiers one, two, and three. They 
+can then identify potential vulnerabilities and 
+establish mitigation plans. Finally, they can create a 
+resilience council to provide governance, regularly 
+reassessing risks and stepping in quickly to make 
+decisions when the need arises. 
+
+Capturing the full value of 
+digitalization and Industry 4.0
+Although medtech companies acknowledge the 
+value of digital and Industry 4.0, capturing that 
+value enterprise-wide remains a challenge. In 
+boardrooms throughout the industry, discussions 
+about digital solutions often focus on increasing 
+commercial efficiency and improving R&D 
+productivity (see chapters 2, 4, and 5 of this report). 
+In our experience, though, digitalization use cases 
+are also plentiful in operations, and the value can 
+be substantial even with targeted initiatives that 
+don’t require a wholesale transformation. 
+
+A leading medical-device company recently 
+digitalized its planning function, investing in real-
+time dashboards and building a fresh tech stack 
+
+1  Mohammad Behnam, Tony Gambell, and Orlando Ramirez Cardenas, Reimagining medtech operations: Bridging medical innovation to better 
+
+patient care, McKinsey, 2023. To request a copy, please email medtech_ops@McKinsey.com.
+
+2 Marie Baldisseri et al., “The US strategic national stockpile ventilators in coronavirus disease 2019: A comparison of functionality and analysis 
+
+regarding the emergency purchase of 200,000 devices,” CHEST, February 2021, Volume 159, Number 2.
+
+3 For more on how to increase supply chain resilience, see Mohammad Behnam, Tacy Foster, Tony Gambell, and Shyam Karunakaran, “The 
+
+resilience imperative for medtech supply chains,” McKinsey, December 18, 2020.
+
+4 Ibid; McKinsey Global Institute analysis. 
+
+48
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012F Medtech Ch6 Operations>
+Exhibit 1
+Exhibit <1> of <3>
+Over a ten-year period, supply shocks could cost the average medtech 
+company 38 percent of one year’s earnings.
+
+Net present value (NPV) of potential losses from supply shocks 
+over a 10-year period, annual EBITDA, % 
+
+Typical inventory 
+on hand, days
+
+Aerospace (commercial)
+
+Auto
+
+Mining
+
+Petroleum products
+
+Electrical equipment
+
+Glass and cement
+
+Machinery and equipment
+
+Computers and electronics
+
+Textiles and apparel
+
+Medtech
+
+Chemicals
+
+Food and beverages
+
+Pharmaceuticals
+
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+67
+
+56
+
+60
+
+43
+
+15
+
+8
+
+30
+
+11
+
+17
+
+4
+
+22
+
+59
+
+18
+
+11
+
+75
+
+47
+
+46
+
+42
+
+41
+
+40
+
+39
+
+39
+
+38
+
+35
+
+30
+
+24
+
+to improve both forecast accuracy and product 
+and material visibility. As a result, the company 
+realized a 15 percent increase in forecast accuracy 
+and recaptured $60 million from inventory 
+improvement. Companies with specific challenges 
+such as lack of supply chain visibility, excessive 
+back-order-supply delays, and inefficient inventory 
+management should build targeted, user-friendly 
+solutions to address them.
+
+Driving innovation with a design-to-
+value approach
+Medtech companies should seek to advance 
+innovation—and unlock substantial top-line 
+and bottom-line value—with a cross-functional, 
+
+customer-centric design-to-value (DtV) approach. 
+DtV uses fact-based insights—into what end users and 
+patients value in products and how other companies 
+design offerings—to inform product design decisions. 
+It also uses supplier insights to reduce costs in areas 
+including packaging and raw materials.
+
+Although medtech companies have long relied on 
+design excellence to meet ever-evolving patient 
+needs, the industry has been less mature in using 
+design to manage products through their life 
+cycle to help ensure supply continuity, maintain 
+quality, control cost, reduce portfolio complexity, 
+and respond to changing market needs. Our 
+experience suggests that applying a structured 
+DtV approach could increase margins by 15 to 40 
+
+49
+
+Medtech Pulse: Thriving in the next decadepercent, improve user satisfaction, increase market 
+share, and, ultimately, deliver better patient care.
+
+Adopting a value-based approach to 
+procurement excellence
+Even before the recent spike in inflation, 
+procurement had become increasingly important 
+for leaders, and more chief procurement officers 
+are adopting a value-based approach. Direct 
+
+material costs typically represent about 50 to 70 
+percent of total cost of goods sold for medical-
+device products, yet procurement maturity varies 
+widely. Whereas industries such as consumer 
+products and automotive are accustomed to 
+intense cost pressures, medtech companies 
+have not previously needed to invest in building 
+effective procurement processes and capabilities. 
+As a result, many companies are still in the early 
+phases of procurement maturity (Exhibit 2).5 
+
+5 Analysis based on McKinsey’s Global Procurement Excellence Survey, November 2020, which included more than 1,100 procurement 
+
+organizations across industries.
+
+Web <2023>
+<6012F Medtech Ch6 Operations>
+Exhibit 2
+Exhibit <2> of <3>
+Procurement maturity varies widely, with medtech lagging behind 
+other industries.
+
+Average purchasing practice score,¹ 
+scale: 1 = low to 5 = high
+
+Average scores; size of the bubble 
+represents share within group, %
+
+Procurement 
+followers²
+
+Middle of 
+the pack³
+
+Procurement 
+leaders⁴
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Consumer products
+
+Automotive
+
+Telecommunications
+
+Industrial equipment
+and components
+
+Aerospace and defense
+
+Computer and
+electronics
+
+Pharma
+
+Medtech
+
+Telcom
+
+Purchasing followers
+
+Purchasing leaders
+
+¹Scores based on McKinsey’s Global Procurement Excellence (GPE) Survey.
+²GPE3601 score < 2.
+³GPE3601 score 2–3.
+⁴GPE3601 score > 3.
+Source: Analysis based on McKinsey’s Global Procurement Excellence Survey, November 2020, which included 1,100+ procurement organizations across 
+industries
+
+McKinsey & Company
+
+50
+
+Medtech Pulse: Thriving in the next decadeGiven the scale of the complexity, a 
+manufacturing network transformation 
+can be the ‘bold move’ that drives  
+a step change in gross-profit performance.
+
+However, medtech companies that invest in 
+procurement excellence have been able to achieve 
+a 10 to 15 percent reduction in external spending 
+within 18 to 24 months, with sustained 4 to 5 percent  
+year-over-year savings.6
+
+Redesigning the manufacturing and 
+distribution network 
+Manufacturing networks have become increasingly 
+complex. M&A activity, new market access 
+requirements (such as those included in the 
+European Union Medical Device Regulation), and 
+fast-changing global trade dynamics, especially 
+between China (as a manufacturing hub) and 
+Western nations, have combined with broad 
+industry growth to put new pressure on networks. 
+Given the scale of the complexity, a manufacturing 
+network transformation can be the “bold move” that 
+drives a step change in gross-profit performance.
+
+Based on McKinsey experience, successful 
+network transformations share a few 
+characteristics. First, leaders are highly involved in 
+network design to ensure a link to overall business 
+strategy. Second, the design and execution teams 
+are cross-functional, including manufacturing, 
+supply chain, distribution, quality, regulatory, 
+R&D, and commercial. Third, the team deploys 
+
+a fact-based but rapid approach to activities 
+including aligning on the current state, building 
+future scenarios, assessing each one using a 
+holistic (not just cost-focused) set of quantitative 
+and qualitative selection criteria, and developing 
+a detailed implementation plan that highlights 
+interdependencies between moves. Last, the team 
+is championed by the most senior leaders with 
+the authority to make the adjustments that will be 
+needed during execution phases. Transformations 
+that follow these guidelines have yielded cost 
+reductions of 15 to 25 percent while also improving 
+service levels and resilience.
+
+Embedding quality into business 
+processes
+Technological advances have enabled a 
+fundamentally new way to ensure quality by 
+embedding it into virtually all business processes. 
+A “smart quality” framework encompasses 
+advanced technologies, modern process design 
+techniques, and flexible ways of working (Exhibit 3).  
+The framework includes five building blocks, 
+each with its own application areas to generate 
+value. This smart quality lens has the potential to 
+dramatically improve quality assurance processes. 
+And new digital and analytics technologies make 
+it easier for quality teams to access data from 
+
+6 Ibid.
+
+51
+
+Medtech Pulse: Thriving in the next decade 
+Web <2023>
+<6012F Medtech Ch6 Operations>
+Exhibit 3
+Exhibit <3> of <3>
+
+Smart quality drives measurable impact across all building blocks.
+
+Direct sources of value
+
+Enablers
+
+Smart quality 
+controls
+
+Smart quality 
+assurance
+
+Process and 
+product mastery 
+
+Smart quality 
+ways of working
+
+Smart compliance 
+foundation
+
+• 50–100% increase 
+in productivity and 
+speed with 
+optimized testing, 
+paperless labs, 
+process automation, 
+and a shift to the 
+shop floor
+
+• 25–40% increase in 
+
+• 30% increase 
+
+productivity and 
+speed for key quality 
+assurance processes 
+• 25–35% increase in 
+
+in yield 
+
+• 80% decrease in 
+deviations and 
+nonconformances  
+
+development 
+efficiency and speed 
+to launch 
+
+• 25% decrease in 
+cost in services 
+and repair 
+
+• Higher employee 
+satisfaction from 
+user-friendly 
+processes and tools 
+
+• Better quality through 
+collaborative redesign 
+of quality management 
+systems
+
+• 25% increase in 
+
+• Faster new-product 
+
+impact from quality 
+improvement 
+initiatives
+
+and change approvals 
+with broader access to 
+data and records 
+
+McKinsey & Company
+
+different sources and in various formats and glean 
+insights from it, without replacing existing systems. 
+
+more than 30 percent, and increase the capacity 
+and responsiveness of manufacturing and supply 
+chain by 20 to 30 percent.7
+
+This shift requires the entire organization to 
+embrace a quality culture (through both mindsets 
+and behaviors), build requisite capabilities, and 
+impose structural quality interventions. In our 
+experience, a smart quality system could tangibly 
+influence EBITDA, accelerate time to market by 
+
+Doubling down on people 
+A medtech company’s talent strategy is its most 
+important enabler to achieve the next level of 
+operational excellence. A 2020 survey of 50 
+
+7 Álvaro Carpintero, Tacy Foster, Evgeniya Makarova, and Vanya Telpis, “Smart quality: Reimagining the way quality works,” McKinsey,  
+
+January 25, 2021.
+
+A medtech company’s talent strategy is 
+its most important enabler to achieve 
+the next level of operational excellence
+
+52
+
+Medtech Pulse: Thriving in the next decade 
+operations executives from 21 of the world’s top 
+medtech companies revealed that 28 percent 
+believed there was a skills gap in the workforce, 
+and an additional 58 percent believed they 
+would see a gap within one to three years.8 Yet 
+despite recognizing the skills gap, fewer than 
+half of respondents said they had plans in place 
+to address it. A well-designed and thoughtfully 
+implemented talent strategy is critical to realizing 
+sustainable impact from all other initiatives. 
+
+Medtech companies are at a pivotal moment 
+and have a distinct opportunity to reimagine 
+their operations. Leaders’ efforts to achieve 
+end-to-end supply chain visibility and smartly 
+invest in people and digital tools could improve 
+access to more affordable healthcare worldwide 
+and continue to support healthcare providers in 
+saving lives.
+
+Mohammad Behnam is a partner in McKinsey’s Vancouver office, Tony Gambell is a partner in the Chicago office, and 
+Orlando Ramirez Cardenas is a partner in the Tokyo office.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+8 McKinsey Future of Work Survey, 2020.  
+
+53
+
+Medtech Pulse: Thriving in the next decade7
+
+Committing 
+to ESG as a 
+differentiator
+
+An environmental, social, 
+and governance (ESG) 
+strategy is not merely a 
+compliance checklist item; it 
+is an untapped opportunity 
+for medtech companies to 
+differentiate their devices. 
+
+by Maria Fernandez, Anjali Menon,  
+Lucy Pérez, and Laura Poloni
+
+54
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+D
+V
+n
+e
+E
+©
+
+l
+
+55
+
+ 
+ 
+The medtech industry has long delivered a 
+positive impact to patients, communities, and the 
+world at large through innovative devices. Now, 
+environmental, social, and governance (ESG) 
+considerations offer medtech companies the 
+opportunity to expand their salutary influence 
+beyond the scope of devices. Over the past few 
+years, ESG has meaningfully affected medtech 
+stakeholders and business outcomes: 
+
+ — Investors. ESG funds own anywhere from 1 to 
+12 percent of outstanding shares of the top 30 
+medtech companies by market cap.1 Multiple 
+equity analysts now quantify ESG performance 
+in their price targets: for example, Societe 
+Generale rewards top-tier ESG performers with 
+a weighted average cost of capital that is up to 
+0.6 percentage points better than that offered to 
+bottom-tier performers (using their definitions).2 
+
+ — Customers. At hospitals such as the Karolinska 
+
+environmental commitments when deciding 
+where to work.9 Likewise, promoting equity in 
+the workplace—for example, with clear value 
+propositions for different employee cohorts—
+could help stem attrition (which is rising, 
+especially among women and people of color) 
+and improve corporate performance.10
+
+Despite this evidence of ESG’s expanded influence 
+on financial performance, its scope is still limited. 
+For instance, ESG funds still account for a minority 
+of investments, and ESG scores remain a minority 
+decision factor in most hospital tenders, especially 
+in the United States. As interest rates have risen 
+and medtech valuation multiples have declined, 
+many executives are considering two questions: 
+Will ESG’s influence in stakeholder decision 
+making continue to increase? And where should 
+we focus our ESG efforts to maximize our impact 
+on humanity and business outcomes? 
+
+University Hospital in Stockholm, Sweden, tenders 
+have assigned as much as 35 percent of the 
+purchasing decision to ESG criteria.3 In England, 
+the National Health Service (NHS) committed to 
+net-zero emissions by 2045 with respect to goods 
+and services from suppliers.4 And in Germany,  
+ESG criteria have been present on as many as  
+55 percent of tenders in the last five years.5 
+
+Stakeholders overwhelmingly answer the first 
+question affirmatively, though medtech leaders 
+will still need to closely monitor ESG targets, paths, 
+and progress. For instance, although the NHS net-
+zero target date isn’t until 2045, companies should 
+track how the NHS plans to sequence its journey—
+including, for example, when buying requirements 
+will become more stringent. 
+
+ — Regulators. The European Union has enacted 
+regulations mandating corporate reporting on 
+climate and environmental risk.6 The US Food 
+and Drug Administration (FDA) is considering 
+updating its guidance for the Breakthrough 
+Devices Program to reduce disparities in health 
+and healthcare.7 And the US Securities and 
+Exchange Commission (SEC) has proposed 
+climate disclosure rules.8 
+
+ — Employees. In the United States, 58 percent 
+
+of employees consider a company’s social and 
+
+In response to the second question, companies 
+should consider ESG as a new vector for 
+differentiation in commoditized device categories. 
+Hospital buyers and device manufacturers 
+attribute ESG’s limited influence thus far in tender 
+processes to a lack of differentiation among 
+medtech devices. Consider a medtech or hospital 
+supplies category in which clinical outcomes 
+among devices are similar. To differentiate 
+themselves in an otherwise crowded tender 
+process, companies could invest in product 
+teardowns and ESG-friendly rebuilds or generate 
+
+1  Based on McKinsey analysis of data on the largest 30 healthcare equipment and supplies companies with data available on Refinitiv, accessed 
+
+April 25, 2023.
+
+2 Based on McKinsey analysis of reports published by Societe Generale on medtech companies, accessed through Refinitiv on April 25, 2023.
+3 Based on McKinsey analysis of three tenders with data available at “KAROLINSKA INSTITUTET - Tenders,” Mercell, accessed April 25, 2023.
+4 “NHS England and NHS Improvement Board meetings in common—agenda and papers—30 September 2021,” NHS, updated April 28, 2023.
+5 “ESG criteria in tendering landscape shows wide variation between top-5 European countries,” Pharmaceutical Technology, December 9, 2020.
+6 Based on McKinsey analysis of the UN Principles for Responsible Investment’s ESG Regulation Database, as of first quarter 2022.
+7 “Select updates for the breakthrough devices program guidance: Reducing disparities in health and health care,” FDA, October 21, 2022.
+8 Hester M. Peirce, “It’s not just Scope 3: Remarks at the American Enterprise Institute,” SEC, December 7, 2022.
+9 “2016 Cone Communications employee engagement study,” Cone Communications, April 2016.
+10 “Women in the Workplace 2022,” McKinsey, October 18, 2022.
+
+56
+
+Medtech Pulse: Thriving in the next decadeevidence to demonstrate the ESG superiority of 
+their products (see table).
+
+quantitative approach to achieve the targets, and 
+many face execution challenges. 
+
+ESG performance starts with clear 
+objectives
+For companies to achieve business impact with ESG, 
+investments must start soon. ESG initiatives can 
+take many years to implement and deliver results, 
+especially considering lead times in manufacturing, 
+cross-industry competition for green materials, 
+and the challenge of capability building. Given this, 
+medtechs should choose ESG areas in which they 
+can have the most impact. Our research suggests 
+focusing on three objectives in the near term:
+
+Achieve net-zero greenhouse-gas emissions  
+and reduce waste along the value chain
+For most industrialized nations, healthcare 
+systems account for close to 10 percent of national 
+greenhouse-gas (GHG) emissions—a higher 
+proportion than either the aviation or shipping 
+industry.11 If the global healthcare sector were a 
+country, it would be the fifth-largest GHG emitter 
+on the planet.12
+
+From 2020 to 2022, the number of medtech 
+companies that set science-based targets for 
+emissions reductions (a best-practice step) rose 
+sharply (Exhibit 1). Despite more organizations 
+setting targets, however, few companies have 
+identified a clearly defined, qualitative and 
+
+A first step for companies is creating a marginal 
+abatement cost curve (MACC) (Exhibit 2). The 
+MACC provides a top-down view of potential 
+investments in decarbonization levers (for example, 
+product packaging redesign, use of clean transport, 
+and use of renewable power) that could reduce 
+an organization’s emissions. The MACC ranks 
+decarbonization levers in ascending order of 
+cost per metric ton of abated carbon to enable 
+companies to prioritize the levers to be implemented. 
+The MACC also quantifies unabated emissions that 
+will need to be addressed through new technical, 
+strategic, and market opportunities. 
+
+The next step is to address the biggest 
+opportunities identified in the abatement 
+curve. Many companies pursue environmental 
+improvements in three areas:
+
+Design products and packaging for sustainability. 
+Up to 80 percent of a product’s resource footprint 
+is established in the R&D phase. The industry is 
+exploring numerous compelling ideas to improve 
+sustainability. For example, companies are seeking 
+to increase use of postconsumer resin (also called 
+postconsumer recycled) plastics and to evaluate 
+alternative materials for Class I and Class II13 medical 
+devices. They are also expanding efforts to 
+reduce weight (so-called lightweighting), eliminate 
+
+11 “Here’s how healthcare can reduce its carbon footprint,” World Economic Forum, October 24, 2022.
+12  Health care’s climate footprint: How the health sector contributes to the global climate crisis and opportunities for action, Health Care Without 
+
+Web <2023>
+<6012G Medtech Ch7 Sustainability>
+Harm and Arup, September 2019.
+Exhibit <table> of <4>
+
+13 “Regulatory controls,” FDA, updated March 27, 2018.
+
+There are numerous opportunities for differentiation across the environmental, social, and governance spectrum.
+
+Environmental
+
+Social
+
+Governance
+
+• Achieve net-zero greenhouse-gas 
+emissions along the value chain
+
+• Reduce material use and waste, and 
+achieve minimum hazardous waste 
+across product life cycle
+
+• Minimize water consumption, 
+contamination, and waste
+• Protect biodiversity, and limit 
+consumption of rare resources
+
+• Maximize access to medicines to 
+
+• Promote diversity and inclusion in 
+
+reduce disease burden
+
+the workplace
+
+• Invest and innovate to address true 
+unmet needs to reduce disease 
+burden 
+
+• Make a difference in relevant social 
+communities along the value chain
+• Conduct business responsibly, from 
+
+drug development to usage  
+
+• Improve long-term business 
+
+resilience and (climate change and 
+epidemic) risk mitigation
+• Protect data and privacy
+• Foster environmental, social, and 
+
+governance transparency and clear 
+communication
+
+57
+
+Medtech Pulse: Thriving in the next decadematerials of concern, and design for repair and 
+disassembly (to facilitate the recycling of parts), 
+thereby simultaneously reducing cost and carbon.
+
+Decarbonize Scope 3 emissions through supplier 
+collaboration and development of new materials. 
+Scopes 1, 2, and 3 are categories of carbon emissions 
+that a company creates.14 Scope 3 emissions are 
+not directly in medtech companies’ control, yet 
+they account for 60 to 70 percent of total industry 
+emissions.15 Achieving targets for reducing Scope 
+3 GHG emissions will necessitate engaging with 
+upstream suppliers (and their tier-n suppliers).
+
+The value, however, comes not only in reducing 
+emissions but also in adopting circular business 
+models. Based on McKinsey analysis, about 15 to  
+25 percent of emissions could be abated with 
+
+actions that have a positive net present value. These 
+actions include addressing product packaging, 
+reducing use of plastics containing acrylonitrile 
+butadiene styrene, buying zero-carbon aluminum, 
+instituting closed-loop recycling, switching to  
+100 percent recycled cardboard, and using battery-
+powered electric vehicles (BEVs) for transport.
+
+Build capabilities in marketing and sales. Steps 
+to achieve this objective include implementing a  
+data collection, management, and reporting 
+system to readily access sustainability data for 
+use in responding to tenders; helping marketers 
+incorporate the environmental impact of products 
+into customer value propositions; and upskilling sales 
+teams to facilitate sustainability discussions while 
+building relationships and introducing new products. 
+
+14  “What is the difference between Scope 1, 2 and 3 emissions, and what are companies doing to cut all three?,” World Economic Forum, 
+
+September 20, 2022.
+
+15  Based on CDP 2022 data for all medical-equipment companies reporting Scope 3 emissions (n = 35). Scope 3 emissions are considered to 
+
+stem from upstream suppliers and their tier-n suppliers, which are purchased goods and services, capital goods, upstream transportation and 
+distribution, and downstream transportation and distribution.
+Web <2023>
+<6012G Medtech Ch7 Sustainability>
+Exhibit <1> of <4>
+Exhibit 1
+An increasing number of medtech companies are setting emissions targets.
+
+Number¹ of medtech companies that have committed to or set science-based targets,² 
+new sign-ups each year 
+
++95% p.a.³
+
+19
+
+35 medtech companies have 
+committed to or set science-
+based targets in last three years
+
+11
+
+5
+
+14 of those 
+companies have 
+committed to or set 
+net-zero targets⁴
+
+2020
+
+2021
+
+2022
+
+Note: There were no companies with Science-Based Targets initiative (SBTi) targets (committed or set) prior to 2020. 
+¹Indicates number of new targets set per year from medtech companies, including companies that have made a commitment to set a science-based target, as 
+well as those that have set targets with temperature alignment (ie, the degree of global temperature increase compared to preindustrial levels that targets are 
+aligned to). 
+²A company is committed to setting science-based targets if they have submitted a commitment letter to the SBTi. A company is considered to have targets set 
+once the targets have been validated by the SBTi. 
+³Per annum.
+⁴Net-zero targets require validation of both near- and long-term targets. 
+Source: “Companies taking action,” Science Based Targets initiative, accessed December 5, 2022
+
+McKinsey & Company
+
+58
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<6012G Medtech Ch7 Sustainability>
+Exhibit 2
+Exhibit <2> of <4>
+Marginal abatement cost curves are critical to establishing a pathway to 
+net-zero emissions.
+
+Illustrative marginal abatement cost curve (MACC)
+
+Scope 1
+
+Scope 2
+
+Scope 3
+
+Unabated
+
+Levers with negative 
+values have a positive 
+net present value
+
+Each bar represents 
+a lever to abate 
+CO₂e emissions
+
+Abatement cost,  
+$ per metric ton 
+of CO₂ equivalent
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+–100
+
+–200
+
+–300
+
+Abatement potential, 
+millions of metric tons of CO₂ 
+equivalent per year
+
+McKinsey & Company
+
+Address health inequities by maximizing device 
+access to reduce disease burden
+Despite continued advancements in healthcare, 
+health inequities exist and can manifest in a variety of 
+ways: limited access to care for patients; innovation 
+efforts insufficiently aligned with the global burden 
+of disease; and underserved communities in which 
+health systems fail to engage subpopulations 
+commensurate with need, to name a few.
+
+For example, there is a significant mismatch 
+between commercially available devices and 
+disease burden in low- and middle-income 
+
+countries (LMICs). By 2030, noncommunicable 
+diseases (NCDs) may be responsible for five times 
+more deaths than infectious diseases in LMICs, 
+yet less than 15 percent of commercially available 
+devices address NCDs in these regions.16
+
+The problem is not only geographical; it can also 
+be reflected in our devices. For example, a study 
+of racial bias in pulse oximetry in the United States 
+found that pulse oximetry devices failed to detect 
+occult hypoxemia in Black patients three times more 
+frequently than in White patients, therefore putting 
+Black patients at greater risk of misdiagnosis.17
+
+16  Amir Sabet Sarvestani and Kathleen H. Sienko, “Medical device landscape for communicable and noncommunicable diseases in low-income 
+
+countries,” Globalization and Health, July 2018, Volume 14, Number 65.
+
+17 Robert P. Dickson et al., “Racial bias in pulse oximetry measurement,” New England Journal of Medicine, updated February 2021, Volume 383.
+
+59
+
+Medtech Pulse: Thriving in the next decadeLeading medtech companies are making public 
+commitments that reflect their social-impact 
+aspirations and are implementing health equity 
+strategies primarily in two areas:
+
+Democratizing access and affordability of 
+products to reach new and diverse markets. 
+Medtech leaders are taking proactive steps to 
+ensure their devices are accessible to end users 
+across diverse geographies and demographics in 
+developed and developing markets. This begins with 
+developing a holistic, data-driven understanding of 
+care delivery globally and within specific markets 
+and improving parity at each step of the care 
+journey—from closing the gap in misdiagnosis 
+and late diagnosis to designing novel solutions to 
+improve affordability and expand access.
+
+Embedding health equity into pipeline development. 
+Unmet needs can differ at the subpopulation level. 
+Leading medtech companies are factoring these 
+unmet needs into pipeline development strategies 
+and designing and testing products in a manner that 
+addresses the diverse needs and preferences of the 
+patients and healthcare personnel that use them. 
+These considerations typically include ethnicity,  
+
+age, gender, height, weight, pathological background, 
+socioeconomics, geography, language, and 
+accessibility. Additionally, companies should consider 
+tailoring product development to conditions in 
+markets with more fragile or incomplete supply chains.
+
+Promote diversity, equity, and inclusion in  
+the workplace
+Increasingly, we find that the most diverse 
+companies recognize diversity, equity, and inclusion 
+(DEI) as more than a social-justice imperative; they 
+also see it as a core enabler of growth and value 
+creation. These diversity leaders are pulling ahead 
+of the rest, and they are more likely to financially 
+outperform their peers (that is, companies in the 
+top quartile for gender diversity on executive teams 
+were 25 percent more likely to have above-average 
+profitability than companies in the bottom quartile).18
+
+Medtech companies have made improvements 
+in DEI, but women and minorities are still 
+underrepresented compared with other industries. 
+Although the life sciences industry has been 
+successful in attracting women at the entry level, 
+representation drops off sharply in the pipeline to 
+senior leadership (Exhibit 3). Women in medtech 
+
+18 Sundiatu Dixon-Fyle, Kevin Dolan, Dame Vivian Hunt, and Sara Prince, “Diversity wins: How inclusion matters,” McKinsey, May 19, 2020. 
+Web <2023>
+<6012G Medtech Ch7 Sustainability>
+Exhibit <3> of <4>
+Exhibit 3
+Representation of women in medtech is slowly improving but remains low.
+
+Women employees overall, %
+
+Women in management positions, %
+
++1% p.a.¹
+
+42
+
+43
+
+43
+
+44
+
++3% p.a.¹
+
+33
+
+34
+
+35
+
+36
+
+2019
+
+2020
+
+2021
+
+2022
+
+2019
+
+2020
+
+2021
+
+2022
+
+Note: Includes 47 medtech companies that report across both metrics. Data retrieved May 20, 2023.
+¹Per annum. 
+Source: Refinitiv
+
+McKinsey & Company
+
+60
+
+Medtech Pulse: Thriving in the next decadeaccount for 56 percent of entry-level employees but 
+only 28 percent of C-suite leaders.19 The medtech 
+industry also faces a lack of racial diversity: Black 
+people account for just 3 percent of those in medtech 
+leadership roles in the United States20 despite 
+making up more than 13 percent of the population.21
+
+Progress toward achieving diversity goals requires 
+a systematic business-led approach and bold, 
+concerted action toward inclusion.22
+
+from ESG. Companies should use a four-step 
+approach to guide their ESG journey:
+
+Understand the relevant ESG context. This entails 
+achieving a thorough understanding of the full scope 
+of the company’s (positive and negative) ESG-relevant 
+activities, the material sustainability topics in the sector, 
+what competitors are doing, and what matters to 
+stakeholders. This analysis can help the company 
+identify its “superpowers” and vulnerabilities.
+
+A business-led approach to DEI. Leading 
+companies are taking a systematic approach to 
+DEI, including setting quantitative goals to diversify 
+their workforces and ensure their organizations 
+reflect the diversity of the communities in which they 
+operate. Best-in-class medtech diversity leaders, for 
+example, have committed to placing women in 45 
+percent or more—and people from ethnically diverse 
+groups in the United States in 30 percent or more—
+management positions globally within five years. 
+
+Taking bold steps to strengthen inclusion. 
+Addressing inclusion requires an organization to 
+enable equity of opportunity through fairness and 
+transparency; promote openness by tackling bias 
+and discrimination; and foster belonging through 
+support for all kinds of diversity. Sponsors and 
+allies play a critical role alongside policies and 
+programs in advancing and retaining diverse 
+talent. This will be important for a company’s value 
+proposition to prospective and current employees.
+
+An ESG plan helps bring the  
+ambition to life
+Delivering on ESG ambitions can be challenging, 
+but first movers could be rewarded.23 Although 
+many leaders consider ESG a priority, most 
+organizations face risks from poor execution or 
+don’t have a robust plan to enable value creation 
+
+Define the company’s contribution. Set 
+sustainability goals and prioritize sources of 
+differentiation from competitors. Develop a 
+go-forward sustainability strategy, including 
+themes and priority initiatives. Determine KPIs, 
+and set quantifiable targets.
+
+Engage broadly. Develop stakeholder engagement 
+and communications plans; integrate ESG into 
+the investor relations strategy; and establish a 
+reporting strategy and cadence.
+
+Sustain the ESG commitment. Implement an ESG 
+program broadly by rolling out ESG initiatives tied 
+to themes. Ensure the organization, incentives, and 
+operating model are set up to deliver on the ESG 
+ambition, and continually track progress and impact.
+
+Moving forward, medtech leaders will likely view 
+ESG in one of two ways: either as a set of far-off 
+compliance regulations that their companies 
+will need to follow one day or as an opportunity 
+to create new positive impact for companies, 
+communities, and shareholders and as a source 
+of differentiation. Only by taking a systematic 
+approach and adopting a clear path forward can 
+medtech companies ensure that they maximize the 
+value creation opportunity with ESG.
+
+Maria Fernandez is a partner in McKinsey’s New Jersey office, where Anjali Menon is an associate partner; Lucy Pérez is a 
+senior partner in the Boston office; and Laura Poloni is a consultant in the Toronto office. 
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+19 “Women in the Workplace 2022,” October 18, 2022.
+20 Greg Slabodkin, “Medtech industry starts to face lack of diversity, execs of color,” MedTech Dive, August 12, 2021.
+21 “Population estimates, July 1, 2022 (V2022),” US Census Bureau, accessed February 13, 2023.
+22 “What is diversity, equity, and inclusion?,” McKinsey, August 17, 2022.
+23  For instance, green leaders among EU chemical companies have seen their enterprise multiples increase by a factor of two to five, while laggards’ 
+
+multiples have remained flat. For more, see “Playing offense to create value in the net-zero transition,” McKinsey Quarterly, April 13, 2022.
+
+61
+
+Medtech Pulse: Thriving in the next decade8
+
+Updating 
+the post-
+COVID-19 
+playbook  
+for M&A 
+
+M&A could help the medtech 
+industry boost value creation, 
+but only if companies  
+can adapt their dealmaking 
+approaches to changing 
+macroeconomic conditions.
+
+by Gerti Pellumbi, Peter Pfeiffer, Tommy 
+Reid, and Carolina Trombetta 
+
+62
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+o
+k
+n
+e
+y
+i
+r
+f
+u
+n
+O
+y
+i
+r
+d
+n
+A
+©
+
+63
+
+Medtech Pulse: Thriving in the next decade 
+ 
+ 
+A decade of growth acceleration has paradoxically 
+left medtech companies in a difficult position. The 
+industry has grown by 50 percent since 2012,1 
+making it harder for companies—particularly larger 
+ones—to organically improve their performance. 
+This presents a challenge for companies eager 
+to create value in an industry that has not 
+outperformed the public market since 2019.
+
+M&A—mergers, acquisitions, and divestitures—can 
+reliably and rapidly improve a company’s performance 
+outlook. M&A can help organizations serve more 
+patients in more ways, enabling them to access 
+new patient pools, scale for better commercial 
+operations, divest distracting and underfunded 
+businesses, and add new capabilities in digital or R&D.
+
+But reconfiguring a corporate portfolio is a 
+daunting task. Companies eyeing M&A will 
+have to negotiate overarching macroeconomic 
+uncertainties and tightening capital markets. 
+Notably, earnings growth—rather than simply 
+top-line growth—is increasingly important to 
+
+company valuations.2 (See chapter 1, “Medtech’s 
+value-creation imperative.”) This shrinks the pool of 
+attractive potential targets to companies that have 
+the right combination of growth and profitability.
+
+In this context, medtech companies can adjust their 
+approach to M&A. They can reconsider the value of 
+large deals, adjust their priorities in programmatic M&A, 
+increase investments in early-stage companies, and 
+proactively pursue divestitures. Medtech companies 
+that do these things well could fast-track value creation.
+
+A promising environment for M&A 
+Despite macroeconomic volatility, market 
+conditions for medtech M&A are positive. First, 
+prospective acquisitions are getting cheaper after 
+years of ballooning valuations. Valuations for the 
+highest-growth targets have retreated to their 
+lowest point since 2018 (Exhibit 1).
+
+Conversely, divesting companies are likely to attract 
+many willing buyers in both private and public equity 
+
+1  Health Resources International 2012 and 2021 medical devices and diagnostics reports.
+2 For more on valuations in medtech, see “Accelerating growth in medtech: The next surge in portfolio,” McKinsey, May 10, 2022; and Sue Huey 
+Chuah, Ralf Dreischmeier, Gayane Gyurjyan, and Alex Monnard, “How medtech companies can create value with new-business building,” 
+McKinsey, January 7, 2022.
+
+Web <2023>
+<Medtech Ch.8 M&A>
+Exhibit <1> of <3>
+Exhibit 1
+High-growth medtech companies have quickly become more affordable.
+
+1-year forward revenue multiple for high-growth small-cap and midcap medtechs1
+
+11.7×
+
+7.4×
+
+7.9×
+
+5.3×
+
+5.5×
+
+6.3×
+Average multiple 
+paid in medtech 
+M&A, 2014–19 
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+1All medtech companies with a market cap between $0.1 billion and $10.0 billion and with growth expectations exceeding 10% CAGR (22 in data set), as of 
+May 20, 2023.
+Source: S&P Global
+
+McKinsey & Company
+
+64
+
+Medtech Pulse: Thriving in the next decadeMedtech companies can continue to use 
+M&A as a tool to create value; however, 
+decision makers should adjust their  
+approaches to potential transactions.
+
+markets because of a sedate IPO market. Only five 
+medtech companies debuted in the public markets 
+in 2022, compared with 23 per year, on average, in 
+each of the five previous years.3
+
+profitability (or the ability to increase it) has 
+risen in importance to prospective buyers. (For 
+more, see chapter 1, “Medtech’s value-creation 
+imperative.)
+
+To be sure, the specter of a recession may 
+dampen M&A activity: medtech M&A dropped 
+by 20 percent during the recessions of 2001 
+and 2008,4 and US interest rates now sit at 
+their highest level in 15 years.5 However, these 
+factors are not the same barriers they may have 
+been in the past. Recent McKinsey research 
+shows that fewer than 10 percent of medtech 
+CEO respondents would defer M&A because of 
+a recession. In addition, the 30 largest medtech 
+companies currently hold more than $200 billion 
+of dry powder in cash or cash equivalents.6
+
+McKinsey analysis of the 125 largest US- and 
+EU-based medtech companies by market 
+capitalization shows that weighing profitability 
+more heavily culls the number of viable targets 
+(Exhibit 2).
+
+More than half of the companies (65) boast high 
+growth rates in addition to significant revenue 
+bases, but less than a quarter (27) are high growth 
+and offer potentially accretive margins. Capping 
+the size of the target at $20 billion shrinks the 
+hypothetical target list to 20.8
+
+Despite the likely high demand for M&A activity, 
+willing buyers may discover that the supply of 
+attractive assets is lower than they had imagined. 
+This is a recent change and is driven by a new 
+equation for value creation; margin expansion is 
+now more than twice as important to company 
+valuations as it was in 2019.7 As a result, 
+
+A shift toward profitability and 
+selectivity in medtech M&A
+Medtech companies can continue to use M&A as a 
+tool to create value; however, decision makers should 
+adjust their approaches to potential transactions.
+
+3 Elizabeth Cairns and Lisa Urquhart, “An annus horribilis for medtech flotations,” Evaluate, January 13, 2023.
+4 McKinsey analysis of S&P Global Market Intelligence medtech M&A activity data, 2001 and 2008, accessed May 20, 2023.
+5  As of May 20, 2023, per the Federal Reserve. 
+6 McKinsey analysis of S&P Global Market Intelligence data, accessed May 20, 2023.
+7 Based on McKinsey analysis of S&P Global Market Intelligence data of top 40 companies by market cap, as of May 20, 2023.
+8 McKinsey analysis of S&P Global Market Intelligence data, accessed May 20, 2023.
+
+65
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<Medtech Ch.8 M&A>
+Exhibit <2> of <3>
+Exhibit 2
+Only 20 medtech companies under $20 billion qualify as high-growth, 
+profitable targets.
+
+Number of companies passing each filter1
+
+125
+
+90
+
+65
+
+27
+
+20
+
+Medtechs with 
+market cap of 
+> $0.1 billion1
+
+High-growth
++6% CAGR2 
+
+Material
++$25 million 
+annual growth3 
+
+Accretive
+> 20% EBITDA4 
+
+Actionable
+< $20 billion 
+market cap5 
+
+1S&P Global as of May 20, 2023. All companies with “Healthcare Equipment” classification. Others may be available and not included in this analysis.
+2Projected CAGR from 2022 to 2025.
+3From 2022 to 2023 (estimated).
+4For 2022.
+5As of May 20, 2023.
+Source: S&P Global 
+
+McKinsey & Company
+
+Reconsidering the value of large deals
+McKinsey research has shown that big deals 
+have also historically involved big bets and big 
+risks. They offer significant upside potential but 
+with a risk of distraction, customer confusion, and 
+slowing revenue growth.9 In an environment that 
+rewarded organic growth more, large transactions 
+seemed less appealing than simply growing the 
+existing business. 
+
+But two factors may change the importance and 
+role of large deals. First is the rising importance 
+of margin improvement relative to valuations. 
+Large deals can provide scale, which can improve 
+companies’ cost positions: the 20 largest medtech 
+companies by revenue boast a median EBITDA 
+margin of nearly 11 points more than the next 
+largest 20.10 Companies can especially benefit 
+when a particular geography or business unit 
+is underperforming on profits, with the merged 
+business offering an opportunity for new scale, 
+capabilities, and cost synergies.
+
+The second factor is the evolving relationship 
+between medtech companies and their customers. 
+Because of the increasing adoption of value-
+based care and the rise of new digital ecosystems 
+(see chapter 4, “Bringing hardware and software 
+together into digital health ecosystems”), health 
+systems consider medtech companies to be end-
+to-end partners rather than simply providers of 
+devices. Large deals can help medtech companies 
+integrate offerings across portfolios, making it 
+more likely that a health system will designate a 
+medtech company as a partner of choice. 
+
+Although the higher cost of debt may hamper bigger 
+deals in the near term, more companies should 
+consider these opportunities as a way to respond 
+to new conditions in the industry. Indeed, some 
+medtechs have already taken action. Two midsize 
+orthopedics companies recently merged, in part to 
+use their newfound scale to provide higher service 
+levels to customers. Done right, such M&A deals 
+could transform companies, improve their ability to 
+
+9 “How one approach to M&A is more likely to create value than all others,” McKinsey Quarterly, October 13, 2022. 
+10 McKinsey analysis of S&P Global Market Intelligence data, accessed May 20, 2023.
+
+66
+
+Medtech Pulse: Thriving in the next decadepartner with customers, and create cost efficiencies 
+that facilitate value creation.
+
+More-selective targeting in programmatic M&A
+Programmatic M&A—to achieve specific corporate 
+objectives through a strategic series of deals—is 
+evergreen.11 As approaches to value creation shift, 
+prospective buyers should be more selective.
+
+ecosystems. M&A can help companies transform 
+their digital innovation prospects and “short-
+circuit” yearslong development cycles. Consider 
+Stryker’s acquisition of Vocera in 2022 and GE 
+HealthCare’s 2023 announcement to acquire 
+Caption Health; both deals will help the acquiring 
+companies expand their value propositions beyond 
+the benefits of their physical products.
+
+Of course, though margins have become more 
+important, innovation will continue to be paramount 
+for value creation. In acquisitions that target 
+specific innovations or new capabilities, acquiring 
+companies will likely want to prepare strategies 
+that mitigate potential margin dilution. Growth-
+focused acquisitions that expand the core might 
+also be more valuable than those that help the 
+parent company access adjacencies. Consider how 
+the public markets reacted favorably to a 2023 
+programmatic acquisition in AI imaging equipment 
+and software that boosted the combined entity’s 
+growth trajectory and its ability to use its scale to 
+forge and maintain customer relationships.
+
+More capital dedicated to digital offerings 
+In earlier chapters, we discuss the momentum of 
+software innovation and the value of digital health 
+
+More-creative transaction structures 
+As profitability and cash management continue 
+to gain importance, companies will likely explore 
+transaction types outside of traditional M&A or 
+divestitures—including co-acquiring companies 
+alongside private equity firms or raising external 
+capital to fund R&D programs—in exchange for 
+product royalties. These deal structures offer a 
+lower-risk way for companies to participate in M&A 
+or innovation, reducing their own profit-and-loss or 
+capital constraints by sharing costs with or shifting 
+them to outside partners. For M&A, companies 
+can increasingly select this option if the cost of 
+debt proves to be too much of an impediment. For 
+R&D, companies should consider external capital 
+as a way to fund programs or studies that would 
+otherwise not receive sufficient funding from 
+internal sources. These types of deal structures 
+
+11 McKinsey analysis of S&P Global Market Intelligence data, accessed May 20, 2023.
+
+Though margins have become more  
+important, innovation will continue to 
+be paramount for value creation.
+
+67
+
+Medtech Pulse: Thriving in the next decadeCompared with the assets of a smaller 
+company, a large portfolio size makes it 
+more difficult for these companies  
+to find strategic moves that materially 
+alter their trajectories.
+
+are increasingly common in the pharmaceutical 
+sector. For example, Royalty Pharma has made 
+15 investments since the beginning of 2021.12 In 
+medtech, Blackstone Life Sciences announced a 
+$337 million product investment in Medtronic to 
+expand development of diabetes technologies.13
+
+More divestitures
+As the medtech industry has grown over the past 
+decade, many companies now find their portfolios 
+large, diverse, and unwieldy. Compared with the 
+assets of a smaller company, a large portfolio 
+size makes it more difficult for these companies 
+
+to find strategic moves that materially alter their 
+trajectories. A company with $10 billion in annual 
+sales would need to generate $500 million to 
+$600 million of new revenue and $100 million to 
+$180 million of new profit—equivalent to creating a 
+new midsize medtech business every year—just to 
+keep pace with market growth. 
+
+Divestitures allow companies to adjust their 
+portfolios and reset the valuation trajectory for 
+the remaining company and the divested business 
+unit, which may have received insufficient funding 
+and attention under its former parent. Divestitures 
+
+12  “Portfolio,” Royalty Pharma, accessed May 20, 2023.
+13 “Medtronic announces a $337 million product investment from Blackstone Life Sciences to expand development of future diabetes 
+
+technologies,” Blackstone, June 12, 2020.
+
+Web <2023>
+<Medtech Ch.8 M&A>
+Exhibit <3> of <3>
+Exhibit 3
+Divestitures have nearly tripled since 2019.
+
+Medtech divestiture value, $ billion
+
+5.5
+
+3.7
+
+0.9
+
+2020
+
+2021
+
+2022
+
+1.9
+
+2019
+
+Source: S&P Global
+
+McKinsey & Company
+
+68
+
+Medtech Pulse: Thriving in the next decadecan relieve companies of segments with lower 
+strategic or financial value, freeing management 
+to concentrate on the core business. Meanwhile, 
+divested businesses are better positioned to 
+dedicate leadership attention and resources 
+to their own performance. The proceeds from 
+divestitures can also fund potential acquisitions 
+or growth initiatives, allowing the company to 
+forgo the need to raise the now more-expensive 
+debt. Divestitures are already on the rise. In 2022, 
+medtech companies sold off almost three times 
+as much business (as measured by value) as they 
+had in 2019 (Exhibit 3). The trend does not show 
+
+signs of slowing: three of the top 15 medtechs have 
+announced plans to divest businesses worth more 
+than $9 billion in revenue as of May 2023.
+
+Medtechs’ challenges with value creation amid 
+current economic conditions suggest that an 
+acceleration in M&A could be beneficial. Leaders 
+should explore possibilities—and act—while the 
+pool of growing and profitable assets and keen 
+buyers is still relatively plentiful.
+
+Gerti Pellumbi is a senior partner in McKinsey’s Washington, DC, office; Peter Pfeiffer is a senior partner in the New Jersey 
+office, where Carolina Trombetta is a consultant; and Tommy Reid is an associate partner in the Austin office.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+69
+
+Medtech Pulse: Thriving in the next decade9
+
+Competing 
+in China: 
+Medtech 
+multinational 
+companies’ 
+way forward 
+
+China will continue to be a 
+critical market for medtech 
+multinational companies 
+despite market uncertainties. 
+Big moves are in order.
+
+This article is a collaborative effort by Kiki 
+Han, Franck Le Deu, Jody Tian, Wei Wei, 
+and Kevin Wu, representing views from 
+McKinsey’s Life Sciences Practice.
+
+70
+
+s
+e
+g
+a
+m
+
+I
+y
+t
+t
+e
+G
+/
+n
+i
+r
+
+m
+y
+M
+e
+n
+e
+g
+u
+E
+©
+
+71
+
+Medtech Pulse: Thriving in the next decade 
+ 
+ 
+Many medtech multinational companies (MNCs) 
+have established leading positions China—the 
+second-largest and fastest-growing medtech market 
+globally—by introducing a steady stream of new 
+products and continually raising clinical standards. 
+For some MNCs, China has become a top contributor 
+to their overall growth. Today, the five largest medtech 
+MNCs generate an aggregate 10 to 15 percent  
+of their global revenue from China.1 Leaders have 
+also invested heavily in localized operations and 
+supply chains. For instance, one large global medical-
+imaging company’s four factories in China produce 
+40 percent of its global ultrasound units and more 
+than half of its CT and MRI equipment.2
+
+The stakes in China are high for medtech MNCs, 
+and the market demands leadership attention; 
+however, the growth path has become more 
+complex and challenging. First, an increasingly 
+multipolar world requires companies to reconfigure 
+their global business footprints.3 Second, in China 
+specifically, companies are facing escalating 
+pressure in pricing and reimbursement, pressure 
+to localize sourcing and production, and an 
+increasingly competitive local medtech industry.
+
+These considerations are daunting for medtech 
+MNC senior leaders, but China is still a market 
+with sizable opportunities. It will not only 
+continue to contribute to global growth but also 
+remain a critical point of access to innovation, 
+manufacturing capabilities, and local capital, all 
+of which can help fuel the continued growth of 
+medtech MNCs.
+
+MNCs should develop new value chain capabilities 
+to explore new business models, advance 
+commercial and operational excellence, and boost 
+resilience. These actions will take substantial effort 
+for medtech companies, but they are nonetheless 
+essential to address current challenges and 
+capture future opportunities.
+
+An increasingly fraught path for 
+medtech companies
+Commercial pressures are mounting for medtech 
+MNCs operating in China because of a variety  
+of factors. 
+
+Volume-based procurement (VBP). VBP, aimed at 
+lowering unit prices through centralized tendering,4 
+is becoming common for medical consumables and 
+in vitro diagnosis (IVD) products.5
+
+Although VBP had previously been focused on 
+high-spend, reimbursable categories, it has now 
+expanded into noncritical care products such as 
+dental implants.6 VBP tenders based on provincial 
+alliances are further boosting purchasers’ efficiency 
+and bargaining power in parallel with national VBP.7
+
+These tenders pose a threat to MNCs’ traditional 
+business models and growth strategies. A review 
+of past VBP tenders at the province, multiprovince, 
+and national levels shows that they have reduced 
+prices in hospitals by 50 to 90 percent.8 Accurately 
+anticipating the rollout of VBP has been difficult, 
+and informed business planning has accordingly 
+been more challenging since the inception of VBP.
+
+New reimbursement schemes. These schemes—for 
+diagnosis-related groups (DRGs) and diagnosis 
+intervention packages (DIPs) for inpatient services, for 
+example—are likely to result in additional changes in 
+hospital spending behavior. According to government 
+plans, DRGs and DIPs will be implemented in all 
+hospitals and cover 70 percent of basic medical 
+insurance spending by 2025.9 Under these schemes, 
+hospitals are more likely to choose lower-priced 
+products to control costs.
+
+Localization pressure. Pressure from Chinese 
+government authorities to localize in China 
+threatens MNCs’ positions. The Made in China 
+2025 industrial policy and the dual-circulation 
+
+1  McKinsey analysis of annual reports of five largest multinational medtech companies by market capitalization, with data available.
+2 Computerized tomography (CT) and magnetic resonance imaging (MRI).
+3 For more, see The China imperative for multinational companies, McKinsey Global Institute, January 2023.
+4 “Volume-based procurement is shaking up high-value medical devices market in China,” Medical Device Network, January 28, 2022.
+5 “Volume-based procurement has become institutionalized,” State Council of the People’s Republic of China, February 12, 2022.
+6 “Interprovincial alliance of oral implants procurement proposal results,” State Council of the People’s Republic of China, January 11, 2023.
+7 “Volume-based procurement,” February 12, 2022.
+8 McKinsey analysis of results from provincial and national medical device proposals.
+9 “Notice of the National Healthcare Security Administration on printing and distributing the three-year action plan for DRG/DIP payment method 
+
+reform,” State Council of the People’s Republic of China, November 2021.
+
+72
+
+Medtech Pulse: Thriving in the next decadeMany general managers of medtech 
+MNCs’ China businesses remain  
+confident about the opportunities  
+in China.
+
+strategy are both aimed at advancing domestic 
+manufacturing capabilities in high-tech, high-value 
+industries, including medtech.10 A growing number 
+of government entities of different levels have 
+heeded guidance encouraging the purchase of 
+locally made equipment and consumables.
+
+Local competition. Competition from China-based 
+medtech companies continues to intensify. With 
+their entrepreneurial energy, funding, agility, 
+and knowledge of the local market, China’s 
+domestic medtech companies are accelerating 
+launches, expanding and upgrading their portfolios, 
+and issuing fast-follower products to MNCs’ 
+offerings. For instance, several categories, such 
+as transcatheter aortic valve replacements, were 
+launched first in China by local companies.11 More 
+than 20 local IVD players are currently introducing 
+laboratory automation systems to the market.12 
+Local purchasing priorities give local companies 
+opportunities in categories in which MNCs lack 
+local manufacturing. As a result, local companies 
+have gradually developed brand recognition and 
+captured market share across categories. Chinese 
+medtech companies’ market share has surpassed 
+50 percent for products in categories such as 
+medical imaging and many types of orthopedic and 
+cardiovascular devices.13 Moreover, having gained 
+scale and experience in their home market, these 
+
+companies are now looking to expand beyond China, 
+bringing more competition to global markets.
+
+China remains an attractive market 
+and is critical for global success
+Many general managers (GMs) of medtech MNCs’ 
+China businesses remain confident about the 
+opportunities in China. A recent McKinsey survey 
+of 20 medtech GMs revealed that these in-country 
+medtech leaders expect quick postpandemic recovery 
+and solid growth in the high single digits for their China 
+businesses in the next few years. Fourteen of the  
+20 also expect continued investments into China 
+from their parent company. None reported plans to 
+scale back their China businesses.
+
+To senior executives based out of their companies’ 
+global headquarters, these China GMs’ predictions 
+of growth and investments may seem optimistic. 
+In reality, some parts of the market may no longer 
+be commercially sustainable for all participants. 
+On the other hand, China will continue to be a 
+major source of global growth. It remains the 
+second-largest and fastest-growing market for 
+medtech, and the central government has a strong 
+imperative to support the healthcare industry. 
+Planned healthcare expenditures are projected 
+to grow from $1 trillion in 2020 to a “Healthy 
+
+10  For Made in China 2025, see Douglas Irwin, “The return of industrial policy,” International Monetary Fund, June 2023; for dual circulation, see 
+
+Hung Tran, “Dual circulation in China: A progress report,” Atlantic Council, October 24, 2022.
+11  Cai Wenjun, “Shanghai medics develop innovative synthetic heart valve,” SHINE, July 12, 2022.
+12  “More than 20+ local IVD companies have the ability to research and develop fully automatic laboratory assembly lines,” National In Vitro 
+
+Diagnostic Network, October 9, 2022.
+
+13  For more about orthopedics implants, see Orthopedics devices market report, Sina, June 23, 2021; and “Orthopedics devices competitive 
+
+overview,” Sina, July 8, 2021; for medical imaging, see Medical imaging devices market report, Sina, November 4, 2022.
+
+73
+
+Medtech Pulse: Thriving in the next decadeChina 2030” goal of $2.4 trillion.14 Based on 
+underlying factors such as demographic shifts and 
+urbanization, China’s medtech market will likely 
+grow at a 5 to 10 percent CAGR and double from 
+about $70 billion in 2021 to $110 billion to $165 
+billion by 2030 (Exhibit 1). 
+
+An ongoing presence in China will also be essential 
+for MNCs to secure access to innovation and 
+manufacturing capabilities. Local companies are 
+not only launching fast-follower products but 
+also producing and commercializing research 
+breakthroughs, sometimes on a global stage. 
+For instance, one Chinese medtech company’s 
+noninvasive bladder cancer test gained a 
+breakthrough device designation from the US 
+Food and Drug Administration (FDA) in 2021.15 In 
+manufacturing, a mature and deep local supply 
+chain—from raw materials to complex components 
+and skilled labor—provides a robust ecosystem for 
+medical device development.
+
+And then there is capital. Capital in China can 
+cofund growth. Consider that the number of 
+private equity and venture capital investments in 
+medtech in Greater China grew from about 200 in 
+
+2017 to 330 in 2021.16 Cumulative deal value more 
+than quadrupled, from about $772.0 million in 2017 
+to about $3.4 billion in 2021 (Exhibit 2).17 The total 
+market capitalization of publicly listed Chinese 
+medtech companies reached $355 billion in 2022. 
+At the same time, transaction volume dipped in 
+2022 because of COVID-19, leaving more dry 
+powder to spend in 2023.
+
+Succeeding as an MNC in China  
+in the future
+Many medtech MNCs are in the process of 
+reviewing their strategic options in China. They 
+should start by asking two questions: What are 
+the stakes in China for the global business? And 
+how well is the business positioned to succeed in 
+China in the future?
+
+Explicitly or implicitly, the answers to these 
+questions have guided MNCs’ distinct strategic 
+approaches in the Chinese medtech market. Now, 
+they can inform MNCs’ future choices. (For an 
+overview of possible approaches, see sidebar, 
+“Four courses of action for MNCs to define their 
+strategic posture in China.”)
+
+14  “‘Healthy China 2030’ planning outline issued,” State Council of the People’s Republic of China, October 25, 2016.
+15  For more on breakthrough devices, see “Breakthrough Devices Program,” FDA, last updated March 28, 2023.
+16  “Private equity and venture capital closed deals, medtech, Greater China,” IT Juzi, accessed April 28, 2023.
+17  Ibid.
+Web <2023>
+<Medtech Ch.9 China>
+Exhibit <1> of <3>
+Exhibit 1
+The medtech market in China is projected to double from 2021 to 2030.
+
+China healthcare expenditures, $ trillion
+
+China medtech market, $ billion
+
+2.4
+
+110–165
+
+1.0
+
+5–10% 
+CAGR
+
+“Health 
+China 
+2030” 
+aspiration
+
+~70
+
+2020
+
+2030
+
+2021
+
+2030
+
+Source: State Council of the People’s Republic of China; McKinsey analysis
+
+McKinsey & Company
+
+74
+
+Medtech Pulse: Thriving in the next decade 
+Four courses of action for MNCs to define their strategic posture in China
+
+Multinational companies (MNCs) 
+can evaluate their current value 
+at stake in China and how their 
+strengths stack up against the 
+competitive environment—their 
+right to win in the market. 
+Companies can expect to fall into 
+one of four archetypes, each with a 
+distinct set of options (exhibit).
+
+Selectively accelerating—such 
+as adopting an asset-light model 
+to expand business in China in 
+attractive segments or focusing on 
+a part of the global portfolio that 
+is competitive in China, potentially 
+including developing China-specific 
+Web <2023>
+<Medtech Ch.9 China>
+Exhibit <3> of <3>
+
+offerings. One consumer-facing 
+MNC focuses its investments 
+in China on flagship locations 
+and e-commerce while using 
+distributors to expand the rest of  
+its footprint.
+
+Renewing commitments—such 
+as expanding the value of the 
+company’s global business model 
+in China, with local adaptations. For 
+instance, some MNCs localize their 
+production in China and may even 
+localize the majority of their value 
+chains to compete the way Chinese 
+companies do. A large high-value 
+consumables company is investing 
+
+tens of millions of dollars in a fourth 
+manufacturing base in China to 
+produce its core portfolio. 
+
+Reducing stakes—such as selling 
+parts (often a large part) of a 
+company’s China business to local 
+companies or investors.
+
+Diversifying—such as hedging 
+supply chain risks to build resilience 
+outside China. For instance, some 
+companies manufacture in an 
+alternate locale in addition to China. 
+Others may shift their operations to 
+focus on high-value segments.
+
+Multinational companies in China can evaluate themselves along two 
+dimensions.
+
+High
+
+Selectively accelerating
+Ramp up selectively in 
+niche segments with a 
+structural advantage 
+
+Renewing commitments
+Stay heavily invested in 
+China and double down on 
+capital investments as 
+necessary
+
+Future right to 
+win in China1
+
+Reducing stakes
+Limit stake in China 
+through local partnership, 
+or exit
+
+Diversifying
+Refocus presence or 
+streamline China 
+operations by reallocating 
+resources
+
+Limited
+
+Low to moderate
+
+High to critical 
+
+Current value at stake in China2
+
+1Including market share, product differentiation, cost competitiveness, government relations, etc.
+2Including China revenue, profit, and growth contribution to global figures, multinational companies’ value chain in China, etc.
+
+McKinsey & Company
+
+75
+
+Medtech Pulse: Thriving in the next decadeWeb <2023>
+<Medtech Ch.9 China>
+Exhibit <2> of <3>
+Exhibit 2
+Medtech deal volume and deal values have grown in China. 
+
+Private equity and venture capital transactions in medtech in Greater China, 2017–221  
+
+Transaction amount,2 $ million
+
+3,705
+
+3,370
+
+1,709
+
+772
+
+577
+
+Number of transactions
+
+330
+
+208
+
+245
+
+207
+
+216
+
+1,452
+
+246
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Market value of listed Chinese medtech companies3 
+
+Newly listed companies of the year
+
+Previously listed companies
+
+15
+
+90
+
+75
+
+2017
+
+13
+
+21
+
+86
+
+65
+
+2018
+
+6
+
+Number of newly 
+listed companies 
+of the year
+
+363
+
+85
+
+20
+
+278
+
+2020
+
+22
+
+145
+
+125
+
+2019
+
+14
+
+417
+
+75
+
+341
+
+2021
+
+43
+
+49
+
+355
+
+306
+
+20223
+
+28
+
+Note: Figures may not sum, because of rounding.
+1Includes transactions in mainland China, Hong Kong SAR, and Taiwan China captured in IT Juzi database; $1 = 6.72 renminbi. 
+2Calculated only if precise deal size is enclosed within IT Juzi.
+3Including medtech raw-material suppliers; reagent, device, and consumable manufacturers; and service providers listed on the Beijing, Hong Kong, Shanghai 
+(STAR included), and Shenzhen stock exchanges, as well as Nasdaq; market value as of end of each year 2017–22.
+Source: IT Juzi; S&P Global; Wind; McKinsey analysis
+
+McKinsey & Company
+
+Companies that have built sizable businesses in 
+China in line with its market potential will likely 
+choose to renew their commitments. Doing so 
+involves strengthening and expanding local 
+value-chain capabilities, exploring new business 
+models for China, and pursuing commercial and 
+operational efficiencies. 
+
+However, many companies—for at least portions 
+of their portfolios and operations—may need more 
+nuanced strategies. These companies would need 
+to evaluate the viability of their product offerings 
+
+and the related commercial models and make 
+deliberate choices about where to allocate or 
+withdraw their finite resources.
+
+To be sure, this kind of strategic decision making is 
+difficult, partly because of the fast-moving market 
+context. It’s also difficult because many leaders 
+have had decades of experience with China as a 
+reliable all-around growth market. Adjusting to and 
+communicating objectively about each business’s 
+updated strategy in China and the rationale behind 
+it will likely take time and require thoughtful  
+
+76
+
+Medtech Pulse: Thriving in the next decadefact-based and trusting conversations between 
+global and local leadership.
+
+A fresh look at value creation  
+in China
+As medtech MNCs revisit their China strategies, 
+they are striving to achieve a balance that allows 
+them to tap into current and future opportunities 
+while managing uncertainties that are hard to 
+quantify. Often, this boils down to the questions 
+of how local the organization needs to become 
+across the value chain to succeed and whether 
+that degree of localization is feasible and desirable 
+from the parent company’s overall viewpoint. 
+
+Five questions can help leaders frame a holistic 
+discussion on China while opening the aperture 
+beyond traditional strategic moves.
+
+How interdependent is China and the  
+global business?
+China’s contributions to a medtech MNC’s 
+revenues and profits can be readily quantified. 
+However, deeper analyses often reveal less 
+obvious interdependencies. For instance, one 
+medtech company analyzed the effect of product 
+volumes destined for the China market on cost 
+of goods sold (COGS). It found that without the 
+China volumes, COGS of some products would 
+increase by as much as one-third, adversely 
+affecting competitiveness and profitability far 
+beyond China. Many companies will find their 
+supply chains deeply intertwined with China-
+based manufacturing sites—and even more so 
+with Chinese suppliers of intermediate goods and 
+products. Mapping out the streams of value and 
+goods is a prerequisite to an informed strategic 
+discussion on China, and it demands dedicated 
+analytical effort for most medtech companies.
+
+Which portfolios actually create value in China?
+VBP has catapulted some product categories into 
+commoditization; the attractiveness of others has 
+been steadily eroded by local competition. Sharp 
+reprioritization of portfolios is likely in order, but 
+deciding what to let go is often a difficult decision. 
+Local organizations may feel the need to maintain 
+complete product lines in certain therapeutic 
+areas to serve their customers and sustain their 
+
+commercial organizations. At the same time, 
+innovative pipelines are often lagging behind 
+from a China perspective: new products may not 
+be earmarked for an early launch in China, and 
+regulatory processes may also not fully tap into 
+the options of accelerated approvals that exist for 
+innovative products. At both ends, bold decisions 
+are required to reshape portfolios for profitable 
+growth in China.
+
+Who is the optimal owner of portfolio assets?
+For several decades, as MNCs shaped China’s 
+medtech sector, leaders believed it necessary 
+to maintain full ownership of portfolio assets. 
+Today, upon closer analysis, many companies 
+might find that for some parts of their business—a 
+certain product category, geography, or customer 
+segment—different ownership may make the 
+most sense and create more value. For example, 
+commoditized products may be margin dilutive 
+from an MNC’s point of view; however, a local 
+distributor with a different commercial model 
+and different cost and overhead structure might 
+well generate economic value from them. A 
+medtech company could, therefore, license parts 
+of its portfolio to create incremental value for 
+itself and keep products available for patients 
+and healthcare professionals. To be sure, this 
+discussion gets more fraught when considering 
+larger parts of portfolios or entire business units. 
+In some other industries, entire China businesses 
+have been carved out, enabling them to operate 
+under different ownership and in line with local 
+market requirements. Although such moves have 
+yet to take place in medtech, an open discussion 
+on ownership and entity structure in China should 
+be part of any strategic discussion. 
+
+Which partners can best help the company 
+compete and succeed in China?
+Many MNC medtechs have relied on their 
+own resources and capabilities to build their 
+businesses in China. Today, trying to do things 
+alone may be unnecessarily limiting. Medtech 
+companies need to serve a broader market than 
+in the past, including county-level hospitals. A 
+vibrant local industry has sprung up; China’s digital 
+ecosystem is rapidly evolving; and local investors 
+are looking for attractive business ideas to fund. In 
+this environment, medtech leaders should routinely 
+
+77
+
+Medtech Pulse: Thriving in the next decadebe asking this question: Which local partner (or 
+partners) could help us achieve our business 
+objectives? Companies that apply this principle 
+sometimes find attractive solutions, ranging 
+from asset-level licensing and complementary 
+portfolios to joint ventures that provide funding 
+and market access. These partnerships also 
+create a shared interest in business success with 
+a local entity whose secondary effect is welcome 
+and appreciated.
+
+How can China’s innovation potential be 
+harnessed?
+China is still a net recipient of medtech innovation: 
+MNCs often create innovative products elsewhere 
+and then bring them to market in China. This 
+is gradually changing, however, as China is 
+increasingly becoming a center of medtech 
+innovation. Medtech MNCs can tap into this 
+innovation in many ways. For instance, products 
+invented in China might be licensed to complement 
+product portfolios. Chinese medtech companies 
+are also potential M&A candidates. For instance, 
+Boston Scientific acquired a majority stake in 
+Acotec in 2022, incorporating a locally made 
+portfolio of cardiovascular intervention devices.18 
+Additionally, China’s digital ecosystem abounds 
+with innovation. Consider the large consumer 
+health platforms operated by China digital giants 
+and the advances China is making in the field of 
+remote healthcare. These are but a few examples 
+of product and business model innovation playing 
+out in China’s medtech and healthcare industries 
+that can be harnessed by MNCs to set themselves 
+up for success in China and beyond.
+
+Mind the basics: Elevating commercial 
+and operational efficiencies and 
+compliance
+Beyond these strategic considerations, best practices 
+in commercial and operations will remain a source of 
+competitive advantage for leading companies. 
+
+The market context in China requires many 
+medtech MNCs to operate with lower prices, higher 
+volumes, and broader footprints. Companies that 
+respond well to these conditions are those that 
+quickly transform the traditional high-touch model 
+into one that emphasizes efficiency and agility and 
+leverages omnichannel engagement.
+
+Last, it is important for companies to stay up to 
+date on evolving policy frameworks. For instance, 
+China’s evolving data privacy and data security 
+laws mean many MNCs need to adjust the ways 
+they collect, store, and process data originating in 
+China to ensure regulatory compliance. Likewise, 
+the regulatory framework for local manufacturing, 
+local procurement guidelines, and pricing and 
+reimbursement policies continues to evolve, calling for 
+MNCs to strategize and operate in China with agility.
+
+Despite structural uncertainty, China will continue 
+to be the second-largest medtech market in the 
+world. Serving this market and tapping its vast 
+potential will remain squarely at the top of many 
+medtech senior leaders’ global agendas. Although 
+there are many ways to succeed, success is more 
+likely to come to those that act quickly.
+
+Kiki Han is a consultant in McKinsey’s Shanghai office, where Wei Wei is a senior expert; Franck Le Deu is a senior partner in 
+the Hong Kong office, where Jody Tian is a partner; and Kevin Wu is a partner in the Beijing office.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+18  “Boston Scientific announces strategic investment to acquire majority stake of Acotec Scientific Holdings Limited,” Boston Scientific, 
+
+December 11, 2022.
+
+78
+
+Medtech Pulse: Thriving in the next decadeCONFIDENTIAL AND PROPRIETARY 
+Any use of this material without 
+specific permission of McKinsey & 
+Company is strictly prohibited.
+
+Medtech Pulse: Thriving in the next decade 
+September 2023
+
+Cover image:  
+© vladystock/Getty Images
+
+Designed by Leff
+
+Copyright © 2023 McKinsey & Company.  
+All rights reserved.
+
+www.McKinsey.com
+
+  @McKinsey 
+  @McKinsey
+
+ 
+

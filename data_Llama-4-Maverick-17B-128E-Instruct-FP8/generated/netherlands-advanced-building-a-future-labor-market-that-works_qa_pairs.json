@@ -1,0 +1,1337 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Netherlands is facing challenges in its labor market due to an aging population, low productivity growth, and increasing inequality, which threaten its high living standards and social goals. To address these issues, the report \"Netherlands advanced: Building a future labor market that works\" projects that the country will face a labor shortage of 1.4 million people by 2030, with significant shortages in skilled manual labor, digital and tech jobs, and health and social care. To mitigate this, the report recommends increasing productivity through technological innovation and creating a \"train of job transitions\" through reskilling and upward development to move people to higher-productivity jobs. This will require a significant increase in the annual number of people being reskilled and a rise in the average number of professions per career.",
+  "qa_pairs": [
+    {
+      "question": "What is required for the Netherlands to achieve its high ambitions for living standards, housing, healthcare, education, and the environment?",
+      "answer": "Higher productivity growth through technology and a 'train of job transitions'."
+    },
+    {
+      "question": "How many people are in the Netherlands' active workforce?",
+      "answer": "9.6 million people out of a population of 17.6 million."
+    },
+    {
+      "question": "What are the two essential levers to realize a 2030 labor market that works for the future of the Netherlands?",
+      "answer": "Increasing productivity by investing in technological innovation, and realizing a 'train of job transitions' through reskilling and upward development."
+    },
+    {
+      "question": "What is the current state of the labor market in the Netherlands in terms of job openings and unemployed persons?",
+      "answer": "As of the first quarter of 2024, there were 110 vacancies per 100 unemployed people."
+    },
+    {
+      "question": "What trends are putting pressure on the Netherlands' labor market?",
+      "answer": "An aging population due to low birth rates, declining productivity growth, increasing inequality in terms of income and labor conditions, signs of declining quality in education, and increasing prevalence of mental and physical health issues."
+    },
+    {
+      "question": "What is the projected labor shortage in the Netherlands by 2030?",
+      "answer": "1.4 million people."
+    },
+    {
+      "question": "What are the three critical areas of work facing shortages in the Netherlands?",
+      "answer": "Skilled manual labor, digital and tech jobs, and health and social care."
+    },
+    {
+      "question": "What is the expected labor shortage in the three critical areas of work?",
+      "answer": "100,000 in skilled manual labor, 105,000 in digital and tech jobs, and 245,000 in health and social care."
+    },
+    {
+      "question": "What is the projected change in the labor market from 2022 to 2030?",
+      "answer": "The labor market is projected to change dramatically in terms of both skill level and type of work."
+    },
+    {
+      "question": "What is the expected impact of technological innovations on the labor market?",
+      "answer": "Technological innovations could shift demand toward jobs that require more-advanced skills, with 150,000 jobs expected to disappear and 400,000 expected to be gained between 2022 and 2030."
+    },
+    {
+      "question": "What is the ratio of job openings to unemployed people as of the first quarter of 2024?",
+      "answer": "110 vacancies per 100 unemployed people."
+    },
+    {
+      "question": "What is projected to happen to the labor market from 2022 to 2030?",
+      "answer": "The labor market is projected to change dramatically in terms of both skill level and type of work."
+    },
+    {
+      "question": "What are the three critical areas of work where existing shortages are likely to increase?",
+      "answer": "Skilled manual labor, digital and tech jobs, and health and social care."
+    },
+    {
+      "question": "What is required to create a labor market that works for the future in the Netherlands?",
+      "answer": "A 'train of job transitions' in which multiple people learn new skills and shift roles to fill open needs."
+    },
+    {
+      "question": "By how much is the annual number of people who need to be reskilled projected to multiply compared to the period from 2010 to 2020?",
+      "answer": "1.4"
+    },
+    {
+      "question": "What are the four essential elements to uphold the Netherlands' societal ambitions?",
+      "answer": "Increasing productivity, further optimizing participation, increasing labor market mobility, and enhancing people's fitness to work."
+    },
+    {
+      "question": "By what percentage could increasing productivity reduce the labor shortage?",
+      "answer": "85 to 90 percent"
+    },
+    {
+      "question": "What would be the reduced projected labor shortage in 2030 after implementing the necessary measures?",
+      "answer": "100,000 to 200,000"
+    },
+    {
+      "question": "What are the four essential elements to uphold the Netherlands' societal ambitions?",
+      "answer": "Increasing productivity, further optimizing participation, increasing labor market mobility, and enhancing people's fitness to work."
+    },
+    {
+      "question": "By how much could increasing productivity reduce the labor shortage in the Netherlands by 2030?",
+      "answer": "85 to 90 percent."
+    },
+    {
+      "question": "What is the estimated reduction in labor shortage if productivity is increased and workforce participation is optimized?",
+      "answer": "From approximately 1.4 million people to 100,000 to 200,000."
+    },
+    {
+      "question": "How can productivity growth be quadrupled according to the text?",
+      "answer": "By accelerating the adoption of technological innovations\u2014that is, automation, digitalization, and traditional and generative AI."
+    },
+    {
+      "question": "What is the required annual increase in R&D investments for the Netherlands to reach the EU ambition of 3 percent of GDP?",
+      "answer": "More than \u20ac6.7 billion."
+    },
+    {
+      "question": "What percentage of activities across sectors in the Netherlands could be automated from 2022 to 2030?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "How much would the Netherlands need to increase its investments in R&D annually to reach the EU ambition of 3 percent of GDP?",
+      "answer": "More than \u20ac6.7 billion."
+    },
+    {
+      "question": "What could help reduce labor shortages by about 100,000 to 200,000 people by 2030 in the Netherlands?",
+      "answer": "Optimizing workforce participation, mainly by enabling people to continue working past retirement age and supporting part-time workers in working more hours."
+    },
+    {
+      "question": "What is essential to realize ambitions for productivity and participation and to match supply and demand at a granular level?",
+      "answer": "Increased labor market mobility."
+    },
+    {
+      "question": "What three pairs of structural changes could help increase labor market mobility?",
+      "answer": "Establishing infrastructure to guide people in career changes and reskilling, adopting skills-based recruitment practices, apprenticeship-based learning approaches, financial support for reskilling, improving integration of reskilled individuals into new roles, and embracing continuous development in organizations."
+    },
+    {
+      "question": "What is required in practices and thinking about work and learning to adapt to the new reality of people switching professions?",
+      "answer": "Cultural changes."
+    },
+    {
+      "question": "What is the projected labor shortage development in the Netherlands by 2030?",
+      "answer": "The labor shortage is projected to be around 440 thousand people if productivity and participation increase, compared to 1,100 thousand on the current trajectory."
+    },
+    {
+      "question": "What percentage of working time should be dedicated to learning to maintain and enhance fitness to work?",
+      "answer": "About 5 percent\u2014or on average two hours per full-time week."
+    },
+    {
+      "question": "Why is increasing productivity and participation in the workforce critical?",
+      "answer": "To resolving labor market tightness."
+    },
+    {
+      "question": "What is meant by 'fitness to work'?",
+      "answer": "The ability to show up for work in good physical and mental shape with the appropriate skill set for the job."
+    },
+    {
+      "question": "What are the three areas of work that are critical to the Netherlands reaching its ambitions?",
+      "answer": "Skilled manual labor (especially for housing and the energy transition), digital and tech, and health and social care (especially in nursing and elderly care)."
+    },
+    {
+      "question": "What is expected to happen to the majority of people in their working lives?",
+      "answer": "They will switch professions at some point, perhaps more than once."
+    },
+    {
+      "question": "What are the three areas of work that are critical to the Netherlands reaching its ambitions?",
+      "answer": "Skilled manual labor, digital and tech, and health and social care."
+    },
+    {
+      "question": "What is proposed as a solution to address labor shortages in the Netherlands?",
+      "answer": "An orchestrated action plan that includes directing students toward pre-occupational education, reskilling, improving worker retention, and developing the existing workforce."
+    },
+    {
+      "question": "What is the timeframe proposed for the comprehensive action plan to address labor shortages?",
+      "answer": "The next five years and beyond, with a goal to catalyze labor market transformation toward 2030 and beyond."
+    },
+    {
+      "question": "Who are the stakeholders that need to collaborate to solve the pressing shortages in the Netherlands?",
+      "answer": "Government, employers, employee organizations, educational institutions, and nongovernmental organizations."
+    },
+    {
+      "question": "What are some of the actions suggested to lower the barrier to transition into high-demand professions?",
+      "answer": "Creating regional collaborations between organizations, scaling up public, private, and in-company education, and fostering collaboration between larger companies and small and medium-size enterprises."
+    },
+    {
+      "question": "What is the role of work in people's everyday lives according to the introduction?",
+      "answer": "Work can be a source of meaning, give structure to life, provide a path to personal growth and development, and provide income to shape life and support family, friends, and passions."
+    },
+    {
+      "question": "Who are the authors of the text mentioned as being associated with McKinsey?",
+      "answer": "Dieuwert Inia, Marc de Jong, Reinout Goedvolk, Hagar Heijmans, Alexander Veldhuijzen, Martijn Repko, Wouter van Aanholt, and Sven Smit are associated with McKinsey."
+    },
+    {
+      "question": "What is the source of the statistic 'Beroepsbevolking' (Working population)?",
+      "answer": "Centraal Bureau voor de Statistiek (CBS), May 15, 2024."
+    },
+    {
+      "question": "What report is cited as discussing the 'Happiness of the younger, the older, and those in between'?",
+      "answer": "World Happiness Report 2024 by John F. Helliwell et al."
+    },
+    {
+      "question": "What was the total population of the Netherlands as of 2022?",
+      "answer": "17.6 million."
+    },
+    {
+      "question": "How many people were working in the Netherlands as of 2022?",
+      "answer": "9.6 million."
+    },
+    {
+      "question": "What percentage of the employed working-age population worked part-time in the Netherlands in 2022?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "What percentage of the employed working-age population worked independently in the Netherlands in 2023?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "How does the Netherlands rank globally for competitiveness?",
+      "answer": "Fifth."
+    },
+    {
+      "question": "What is the labor force participation rate of the Netherlands in comparison to other European Union countries?",
+      "answer": "One of the highest, behind only Iceland and Switzerland."
+    },
+    {
+      "question": "What is the total population of the Netherlands as of 2022?",
+      "answer": "17.6 million."
+    },
+    {
+      "question": "What percentage of the employed working-age population worked part-time in the Netherlands in 2022?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "How many people worked independently in the Netherlands in 2023?",
+      "answer": "1.2 million."
+    },
+    {
+      "question": "What is the Netherlands' global ranking for competitiveness?",
+      "answer": "Fifth."
+    },
+    {
+      "question": "What is a potential problem that the Netherlands might face if no action is taken regarding its workforce?",
+      "answer": "A lack of people with the correct skills to fulfill all tasks and be more productive."
+    },
+    {
+      "question": "What percentage of the total population of the Netherlands is employed or self-employed?",
+      "answer": "65 percent (or 52% when considering full-time equivalents and other factors)."
+    },
+    {
+      "question": "What is the size of the Netherlands' working population as of 2022?",
+      "answer": "9.6 million people."
+    },
+    {
+      "question": "What might be the problem in the Dutch labor market without action?",
+      "answer": "A lack of people with the correct skills to fulfill all tasks and be more productive."
+    },
+    {
+      "question": "What are the two essential levers to realize a 2030 labor market that works for the future of the Netherlands?",
+      "answer": "Increasing productivity by investing in technological innovation, and realizing a 'train of job transitions' through reskilling and upward development."
+    },
+    {
+      "question": "What could be at risk if there is no action taken to address the labor market issues?",
+      "answer": "Public services such as maintaining the standards of care, societal ambitions like the construction of sufficient housing and the green transition, and the country's leading position in high-tech industries."
+    },
+    {
+      "question": "What report is this text building upon?",
+      "answer": "A new future of work: The race to deploy AI and raise skills in Europe and beyond, a McKinsey report."
+    },
+    {
+      "question": "What is proposed as a solution to address the Dutch labor tightness?",
+      "answer": "An orchestrated action plan for three critical shortage areas to get the 'train of job transitions' moving."
+    },
+    {
+      "question": "What has the Dutch labor market experienced over the past several decades?",
+      "answer": "The Dutch labor market has experienced some concerning developments."
+    },
+    {
+      "question": "What are some of the concerning developments in the Dutch labor market?",
+      "answer": "The aging population, declining productivity growth, rising income inequality, signs of declining quality of education, and the increasing prevalence of mental and physical health issues."
+    },
+    {
+      "question": "What has led to a tight labor market in the Netherlands?",
+      "answer": "The aging population and declining productivity growth."
+    },
+    {
+      "question": "What is happening to the population of the Netherlands?",
+      "answer": "The population of the Netherlands is rapidly getting older."
+    },
+    {
+      "question": "What was the average age in the Netherlands in 2010 and 2022?",
+      "answer": "In 2010, the average age was 40.1; by 2022, it had reached 42.4."
+    },
+    {
+      "question": "What are some of the factors contributing to the aging population in the Netherlands?",
+      "answer": "High life expectancy and low birth rates."
+    },
+    {
+      "question": "What was the average age in the Netherlands in 2010 and 2022?",
+      "answer": "In 2010, the average age was 40.1; by 2022, it had reached 42.4."
+    },
+    {
+      "question": "What is driving the aging population trend in the Netherlands?",
+      "answer": "The trend is driven by high birth rates in the 1950s and 1960s, followed by persistently low birth rates since the 1970s, as well as a higher life expectancy."
+    },
+    {
+      "question": "What percentage of tax and social security contributions was paid by the private sector in 2023?",
+      "answer": "The private sector was responsible for paying and collecting 76 percent of all tax and social security contributions received by the Dutch government."
+    },
+    {
+      "question": "What was the total amount of tax and social security contributions collected by the Dutch government in 2023?",
+      "answer": "The total amount collected was \u20ac386 billion."
+    },
+    {
+      "question": "How much did the private sector contribute to the total tax and social security contributions in 2023?",
+      "answer": "The private sector contributed \u20ac293 billion."
+    },
+    {
+      "question": "What was the average labor productivity growth rate in the Netherlands from 2010-22?",
+      "answer": "Average labor productivity growth was 0.4 percent per year."
+    },
+    {
+      "question": "How did the average labor productivity growth rate change from 1995-2010 to 2010-22?",
+      "answer": "The average labor productivity growth rate dropped from 1.3 percent per year to 0.4 percent per year."
+    },
+    {
+      "question": "What has happened to public sector productivity since 2010?",
+      "answer": "Public sector productivity has been stagnant since 2010."
+    },
+    {
+      "question": "What has happened to private sector productivity growth since 2010?",
+      "answer": "Private sector productivity growth declined to 0.5 percent per year since 2010 from 1.6 percent per year from 1995 to 2010."
+    },
+    {
+      "question": "What was the average labor productivity growth in the Netherlands from 2010 to 2022?",
+      "answer": "0.4 percent per year."
+    },
+    {
+      "question": "Why has labor productivity growth declined in the Netherlands?",
+      "answer": "In part due to lower R&D investments and the shift of jobs from higher-productivity sectors to lower-productivity sectors."
+    },
+    {
+      "question": "What has happened to public sector productivity since 2010?",
+      "answer": "It has been stagnant."
+    },
+    {
+      "question": "What percentage of working people in the Netherlands have burnout symptoms?",
+      "answer": "Around one in five."
+    },
+    {
+      "question": "How many sick days did employees in the Netherlands take on average in 2023?",
+      "answer": "Eight."
+    },
+    {
+      "question": "By how much did Dutch PISA scores drop from 2009 to 2022?",
+      "answer": "6 to 10 percent."
+    },
+    {
+      "question": "What has happened to the rigor of the Netherlands' central exams in math and science over the past 30 years?",
+      "answer": "It has declined: 40 to 50 percent less content is covered in the math exams, and the questions on the exams are easier."
+    },
+    {
+      "question": "How has the use of zzp'ers by organizations in the Netherlands changed over the past 11 years?",
+      "answer": "It has increased by about seven percentage points."
+    },
+    {
+      "question": "How many sick days did employees in the Netherlands take on average in 2023?",
+      "answer": "Eight sick days."
+    },
+    {
+      "question": "Which sectors had the highest average number of sick days per year?",
+      "answer": "Healthcare, administration, and education, averaging nine to 11 days per year."
+    },
+    {
+      "question": "What percentage of students reported depression or anxiety symptoms?",
+      "answer": "44 percent."
+    },
+    {
+      "question": "How many hours per day do 26 percent of Dutch workers sit?",
+      "answer": "More than 8.5 hours per day."
+    },
+    {
+      "question": "What is the predicted ratio of working people with burnout symptoms by 2030?",
+      "answer": "One in three."
+    },
+    {
+      "question": "What is the current number of vacancies per 100 unemployed people in the Netherlands as of the first quarter of 2024?",
+      "answer": "110 vacancies per 100 unemployed people."
+    },
+    {
+      "question": "What is the predicted labor shortage in the Netherlands?",
+      "answer": "1.4 million people."
+    },
+    {
+      "question": "How does sitting more than 8.5 hours per day affect the chance of cardiovascular disease?",
+      "answer": "It increases the chance by 74 percent."
+    },
+    {
+      "question": "What is contributing to the perception of a tight labor market in the Netherlands?",
+      "answer": "A mismatch of capabilities and skill requirements."
+    },
+    {
+      "question": "What percentage of chief human resource officers (CHROs) at large Netherlands employers are facing a labor shortage?",
+      "answer": "About half."
+    },
+    {
+      "question": "What is the current situation in the Netherlands regarding job openings and unemployed people?",
+      "answer": "There are currently more job openings than unemployed people."
+    },
+    {
+      "question": "What was the labor market tightness in Q1 2024, measured by the number of open vacancies per 100 unemployed people?",
+      "answer": "142."
+    },
+    {
+      "question": "What could be the labor shortage in the Netherlands by 2030 if productivity growth does not increase?",
+      "answer": "1.4 million people."
+    },
+    {
+      "question": "By how much could labor market tightness more than triple by 2030, measured by the demand for people per 100 unemployed?",
+      "answer": "To a demand for 390 people per 100 unemployed."
+    },
+    {
+      "question": "What is the potential impact of socioeconomic choices on the labor shortage in the Netherlands by 2030?",
+      "answer": "The socioeconomic decisions made by governments and organizations could affect about one million jobs, or 10 percent of the 2030 workforce, resulting in a labor shortage anywhere from 0.9 to 1.8 million people."
+    },
+    {
+      "question": "How could limiting investments in high-tech industries and advanced manufacturing affect labor demand?",
+      "answer": "Limiting investments in high-tech industries and advanced manufacturing can decrease demand by about 100,000 people."
+    },
+    {
+      "question": "What is the projected labor market tightness in the Netherlands by 2030?",
+      "answer": "Labor market tightness is expected to increase by 2030, with the number of open vacancies per 100 unemployed people potentially rising."
+    },
+    {
+      "question": "Is the challenge of labor market tightness unique to the Netherlands?",
+      "answer": "No, the challenge of labor market tightness is not unique to the Netherlands; multiple advanced economies, including Canada and the United States, have experienced increasing rates of unfilled vacancies, especially since the COVID-19 pandemic."
+    },
+    {
+      "question": "How could increasing investments in high-tech industries and advanced manufacturing affect labor demand?",
+      "answer": "If investments were to be increased, labor demand could be raised by approximately 75,000 people, relative to the 2030 baseline projection."
+    },
+    {
+      "question": "What could be the effect of improving productivity in the healthcare sector on labor demand?",
+      "answer": "Improving productivity through technological innovations or lowering the levels of care could decrease labor demand by about 250,000 people."
+    },
+    {
+      "question": "What percentage of the workforce is potentially affected by socioeconomic discussions?",
+      "answer": "10 percent of the workforce."
+    },
+    {
+      "question": "How many jobs are at stake in high-tech and advanced manufacturing?",
+      "answer": "~400,000 jobs."
+    },
+    {
+      "question": "What is the projected change in labor demand from 2022 to 2030?",
+      "answer": "150,000 jobs to disappear and 400,000 jobs to be gained."
+    },
+    {
+      "question": "Which sector is expected to see the most increased demand?",
+      "answer": "Healthcare and social work, with an increase of approximately 182,000 jobs."
+    },
+    {
+      "question": "What is the assumed productivity growth per year for the labor demand projection?",
+      "answer": "1.8 percent."
+    },
+    {
+      "question": "How many jobs are at stake in the energy transition?",
+      "answer": "~225,000 jobs."
+    },
+    {
+      "question": "Which sector is expected to see the largest increase in job demand?",
+      "answer": "Healthcare and social work."
+    },
+    {
+      "question": "What is driving the increased demand for jobs in healthcare and social work?",
+      "answer": "The aging population."
+    },
+    {
+      "question": "Which sector is expected to see a significant decline in job demand?",
+      "answer": "Wholesale and retail."
+    },
+    {
+      "question": "What is driving the decline in job demand in the wholesale and retail sector?",
+      "answer": "Technological innovations and the sustained e-commerce evolution."
+    },
+    {
+      "question": "What is the trend in demand for advanced-skill jobs within knowledge work?",
+      "answer": "A very large increase."
+    },
+    {
+      "question": "How many jobs is healthcare and social work expected to increase by?",
+      "answer": "Approximately 182,000 jobs."
+    },
+    {
+      "question": "How many jobs is the wholesale and retail sector expected to decrease by?",
+      "answer": "Approximately 51,000 jobs."
+    },
+    {
+      "question": "How many practical jobs are projected to shift out of the intermediate-skill category from 2022 to 2030?",
+      "answer": "Only 2,000 practical jobs shift out of the intermediate-skill category."
+    },
+    {
+      "question": "What type of occupations are gaining jobs according to the text?",
+      "answer": "Occupations that require basic- and advanced-skill work gain jobs."
+    },
+    {
+      "question": "What is the trend in demand for advanced-skill jobs in knowledge work?",
+      "answer": "Knowledge work shows a very large increase in demand for advanced-skill jobs."
+    },
+    {
+      "question": "Are healthcare workers an exception to the trend in demand for jobs across different skill levels?",
+      "answer": "Yes, healthcare workers are an exception to this trend, with demand set to increase across skill levels."
+    },
+    {
+      "question": "How are occupations categorized in the text?",
+      "answer": "Occupations are divided into two categories: predominantly practical work and knowledge work."
+    },
+    {
+      "question": "How are occupations classified by skill level?",
+      "answer": "Each occupation is classified by skill level (basic, intermediate, or advanced) based on workers' level of education, experience needed, and risk involved."
+    },
+    {
+      "question": "How will net shifts in practical jobs be from 2022 to 2030 compared to knowledge jobs?",
+      "answer": "From 2022 to 2030, net shifts in practical jobs will be relatively low, while knowledge jobs will move toward advanced-skilled work."
+    },
+    {
+      "question": "What is the projected shortage of skilled manual laborers by 2030?",
+      "answer": "By 2030, skilled manual labor is projected to experience a shortage of 100,000 people, which is 16 percent of 2030 demand in this area of work."
+    },
+    {
+      "question": "What is causing the projected shortage of skilled manual laborers?",
+      "answer": "The projected shortage is caused by an increase in demand (partly because of the green transition) combined with an expected net outflow caused by (early) retirements because of the physical strain of the work and the relatively advanced age of the working population."
+    },
+    {
+      "question": "What is the projected shortage of digital and tech workers by 2030?",
+      "answer": "By 2030, digital and tech workers are projected to face a shortage of about 105,000 people, which is 10 percent of 2030 demand in this area of work."
+    },
+    {
+      "question": "Why will digital and tech workers face a shortage despite a net inflow of people?",
+      "answer": "Digital and tech workers will face a shortage because demand is expected to rise more rapidly than the inflow, resulting in future shortages being about four times higher than current vacancies."
+    },
+    {
+      "question": "What is the projected shortage of workers in the field of data science and related areas by 2030?",
+      "answer": "A shortage of about 105,000 people, which is 10 percent of 2030 demand in this area of work."
+    },
+    {
+      "question": "What is the expected shortage of health and social care workers by 2030?",
+      "answer": "A shortage of about 245,000 people\u201416 percent of 2030 demand in this area of work."
+    },
+    {
+      "question": "Why is there a projected shortage of health and social care workers?",
+      "answer": "The shortage is caused by an increase in demand due to the aging population, combined with an expected net outflow caused by high attrition partly because of high work pressure."
+    },
+    {
+      "question": "How many jobs could be displaced by 2030 due to automation in a scenario of increased productivity growth?",
+      "answer": "The equivalent of roughly 1.5 million jobs."
+    },
+    {
+      "question": "What is the projected number of annual switches in the labor market by 2030 due to automation?",
+      "answer": "300,000 per year (3.1 percent of the workforce)."
+    },
+    {
+      "question": "How many professions can a worker expect to have during their career by 2030?",
+      "answer": "2.4 professions during their career, switching professions 1.4 times per career."
+    },
+    {
+      "question": "By what factor is annual reskilling projected to increase by 2030?",
+      "answer": "1.4 times."
+    },
+    {
+      "question": "How many professions is a worker expected to have during their career by 2030?",
+      "answer": "2.4 professions."
+    },
+    {
+      "question": "What percentage of CHROs expect skills mismatches to worsen in the future?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "What is the average time a worker is expected to spend in a profession by 2030?",
+      "answer": "24 years."
+    },
+    {
+      "question": "Why can't people whose jobs disappear move directly into new jobs?",
+      "answer": "Because the new jobs will require different skills or skill levels."
+    },
+    {
+      "question": "What is the projected number of annual switches in the labor market by 2030?",
+      "answer": "300,000 per year."
+    },
+    {
+      "question": "What is a risk factor for employee health due to tightness in the labor market?",
+      "answer": "Increased workload."
+    },
+    {
+      "question": "What happens when people are overworked in a tight labor market?",
+      "answer": "They are more likely to miss days or leave their work, leading to increased workloads for the remaining people."
+    },
+    {
+      "question": "Why might workers not feel the need to re- or upskill in a tight labor market?",
+      "answer": "Because a tight labor market provides at least the perception of enough job opportunities."
+    },
+    {
+      "question": "What is required to keep the train of job transitions moving?",
+      "answer": "The rate of up- and reskilling should actually increase."
+    },
+    {
+      "question": "What is a challenge in relieving labor market pressure?",
+      "answer": "The paradox of worker shortages and the lack of incentives for workers to re- or upskill."
+    },
+    {
+      "question": "What is needed to address the paradoxes in the labor market?",
+      "answer": "Clear prioritization, alignment, and vision."
+    },
+    {
+      "question": "What is PISA, and what does it measure?",
+      "answer": "PISA (Programme for International Student Assessment) is an internationally standardized assessment that measures the reading, mathematics, and science knowledge and skills of 15-year-olds."
+    },
+    {
+      "question": "Which countries are considered peer countries to the Netherlands in the context of PISA?",
+      "answer": "Belgium, Denmark, France, Germany, and the United Kingdom are considered peer countries."
+    },
+    {
+      "question": "What was the result of the NEA 2023 according to the CBS?",
+      "answer": "The text does not specify the result, but it mentions that the CBS published 'NEA 2023 Resultaten in vogelvlucht' (NEA results at a glance) on May 14, 2024."
+    },
+    {
+      "question": "What is the number of employees with burnout complaints in the Netherlands according to OVAL?",
+      "answer": "According to OVAL, 1.6 million employees have burnout complaints."
+    },
+    {
+      "question": "What is the main topic of the 'Factsheet Fysieke arbeidsbelasting 2023' by TNO?",
+      "answer": "The main topic is 'Physical labor load'."
+    },
+    {
+      "question": "How many CHROs were surveyed in April 2024, and from which type of employers?",
+      "answer": "12 CHROs from the largest nonpublic employers in the Netherlands were surveyed."
+    },
+    {
+      "question": "What was the change in industry turnover in the Netherlands in the first quarter, according to the CBS?",
+      "answer": "The industry turnover was more than 5 percent lower."
+    },
+    {
+      "question": "What is the basis of the scenario described in the text related to demographic developments in 2050?",
+      "answer": "The scenario is based on assumptions, not future projections, as mentioned in the Rapport Staatscommissie Demografische Ontwikkelingen 2050, January 2024."
+    },
+    {
+      "question": "What is the potential impact of moderate adoption of automation, AI, and gen AI on the Netherlands' annual productivity growth?",
+      "answer": "It could boost the country's annual productivity growth to 1.8 percent (compared with 0.4 percent recently)."
+    },
+    {
+      "question": "What does 'labor market tightness' approximate, and what are its limitations as a metric?",
+      "answer": "Labor market tightness is approximated by the number of vacancies, but it is not an absolute measure as it can both underrepresent tightness (e.g., one vacancy posted for multiple positions) and overrepresent it (e.g., working processes adapted to labor market tightness)."
+    },
+    {
+      "question": "When did the HR Praktijk report that employers find it difficult to find candidates with the right experience?",
+      "answer": "August 25, 2022."
+    },
+    {
+      "question": "How many CHROs from the largest nonpublic employers in the Netherlands were surveyed in April 2024?",
+      "answer": "12."
+    },
+    {
+      "question": "What was the percentage decrease in industry turnover in the first quarter according to the CBS report on May 24, 2024?",
+      "answer": "More than 5 percent."
+    },
+    {
+      "question": "When was the Rapport Staatscommissie Demografische Ontwikkelingen 2050 published?",
+      "answer": "January 2024."
+    },
+    {
+      "question": "What is the expected annual productivity growth rate if the Netherlands achieves moderate adoption of automation, AI, and gen AI?",
+      "answer": "1.8 percent."
+    },
+    {
+      "question": "What is the definition of the term 'Professional class' as used by Netherlands Statistics (CBS)?",
+      "answer": "The first two digits of the ROA-CBS 2014 (BRC 2014) classification."
+    },
+    {
+      "question": "According to the CNV research, what proportion of workers are on the verge of burnout?",
+      "answer": "Almost 1 in 5."
+    },
+    {
+      "question": "When was the 'A new future of work' report published?",
+      "answer": "May 21, 2024."
+    },
+    {
+      "question": "What data sets were used for the McKinsey analysis mentioned in the text?",
+      "answer": "UWV data sets (UWV Vacaturemarkt, UWV Geregisteerde Werkzoekenden)."
+    },
+    {
+      "question": "What is required to build a future labor market in the Netherlands that can realize all societal ambitions?",
+      "answer": "Deliberate choices and coordinated initiatives are required."
+    },
+    {
+      "question": "What are the four elements that must be addressed to relieve labor market tightness in the Netherlands?",
+      "answer": "Increasing productivity, further optimizing participation, increasing labor market mobility, and enhancing people's fitness to work."
+    },
+    {
+      "question": "What would be the likely effect on GDP growth if the Netherlands were to curb demand to solve labor market tightness?",
+      "answer": "GDP growth would likely drop to 0.7 percent per year from 1.6 percent."
+    },
+    {
+      "question": "What is the current productivity growth rate of the Netherlands per year?",
+      "answer": "0.4 percent."
+    },
+    {
+      "question": "What could boost the Netherlands' annual productivity growth to 1.8 percent?",
+      "answer": "Moderate adoption of automation, AI, and gen AI."
+    },
+    {
+      "question": "What are the four critical areas to help the Netherlands shape a productive, mobile, healthy, and inclusive labor market?",
+      "answer": "Increasing labor productivity through technology, further optimizing labor participation, increasing labor market mobility, and enhancing people's fitness to work."
+    },
+    {
+      "question": "What would be the effect on GDP growth if the Netherlands were to sustain its current productivity growth rate and projected labor force growth rate?",
+      "answer": "GDP growth would likely drop to 0.7 percent per year from 1.6 percent per year over the past ten years."
+    },
+    {
+      "question": "How many additional workers would be required by 2030 to resolve labor market tightness through optimized labor market participation?",
+      "answer": "The equivalent of 1.4 million additional workers."
+    },
+    {
+      "question": "What percentage of the country's ability to reduce labor shortage can be accounted for by increasing productivity through technological innovations?",
+      "answer": "85 to 90 percent."
+    },
+    {
+      "question": "By how much can accelerating the adoption of technological innovations quadruple productivity growth?",
+      "answer": "To 1.8 percent from 0.4 percent per year."
+    },
+    {
+      "question": "How many people can be reduced from labor shortages by 2030 by increasing productivity through technological innovations?",
+      "answer": "About 1.1 million people at an aggregate level."
+    },
+    {
+      "question": "How can productivity be increased in today's tight labor market?",
+      "answer": "Through technological innovations, both within jobs (through automation) and by people moving into more productive jobs."
+    },
+    {
+      "question": "What are the advantages of increasing productivity through technological innovations?",
+      "answer": "It helps create economic growth, makes industry more competitive, and relieves the tightness in the market, thereby reducing pressure on the workforce."
+    },
+    {
+      "question": "What is the key differentiator in the four scenarios for productivity growth in Europe modeled by the McKinsey Global Institute?",
+      "answer": "The speed at which technological innovations are adopted in the labor market."
+    },
+    {
+      "question": "What is the assumed productivity growth per year in the report?",
+      "answer": "1.8 percent per year, which is in line with MGI's slower Europe scenario."
+    },
+    {
+      "question": "What percentage of activities across sectors in the Netherlands could be automated in the slower Europe scenario?",
+      "answer": "An average of 15 percent."
+    },
+    {
+      "question": "Which sectors have the highest automation potential?",
+      "answer": "Financial services, insurance, and real estate, as well as manufacturing, energy, materials, and utilities, with an expected automation potential of 18 percent."
+    },
+    {
+      "question": "How much work in the Netherlands could be displaced by 2030 due to increased automation adoption?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "What percentage of activities across sectors in the Netherlands could be automated in the slower Europe scenario?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "Which sectors have the highest automation potential?",
+      "answer": "Financial services, insurance, and real estate, as well as manufacturing, energy, materials, and utilities, with 18 percent automation potential."
+    },
+    {
+      "question": "What is the estimated automation potential in healthcare?",
+      "answer": "11 percent."
+    },
+    {
+      "question": "By how much could increased automation adoption displace work in the Netherlands by 2030?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "What was the percentage of GDP invested in R&D in the Netherlands in 2022?",
+      "answer": "2.3 percent."
+    },
+    {
+      "question": "How much more would the Netherlands need to invest in R&D annually to reach the EU ambition of 3 percent of GDP?",
+      "answer": "More than \u20ac6.7 billion."
+    },
+    {
+      "question": "How much more would the Netherlands need to invest in R&D annually to reach the EU's 3 percent of GDP ambition?",
+      "answer": "More than \u20ac6.7 billion."
+    },
+    {
+      "question": "Why is the public sector's productivity critical, and what has been its trend for decades?",
+      "answer": "The public sector's productivity is critical because it is not driven by the same market forces as the private sector, and its productivity has been stagnant for decades."
+    },
+    {
+      "question": "How could the government potentially accelerate technological innovation?",
+      "answer": "The government could accelerate technological innovation through regulatory action, by creating incentives for investments and implementing measures to improve (cyber)security and safety."
+    },
+    {
+      "question": "What is the aim of the National Growth Fund (Nationale Groeifonds) project AiNed?",
+      "answer": "To grow a strong AI ecosystem in the Netherlands by 2027 to make the country more competitive with international peers."
+    },
+    {
+      "question": "By how much could optimizing workforce participation help reduce labor shortages by 2030?",
+      "answer": "By about 100,000 to 200,000 people."
+    },
+    {
+      "question": "What is required for organizations to successfully execute technological innovation?",
+      "answer": "Careful and coordinated execution across all focus areas in an organization, including a business-led digital road map, the right talent and capabilities, and an effective operating model."
+    },
+    {
+      "question": "By how much could optimizing workforce participation reduce labor shortages in the Netherlands by 2030?",
+      "answer": "Optimizing workforce participation could help reduce labor shortages by about 100,000 to 200,000 people by 2030."
+    },
+    {
+      "question": "What was the percentage of New Zealanders aged 65 and older participating in the workforce in 2022?",
+      "answer": "25 percent of New Zealanders 65 and older were participating in the workforce in 2022."
+    },
+    {
+      "question": "What measure did New Zealand implement to encourage older people to continue working?",
+      "answer": "New Zealand eliminated a mandatory retirement age to encourage older people to continue working."
+    },
+    {
+      "question": "By how many workers could the Netherlands increase its workforce by 2030 if it sustains the growth of people working beyond retirement age?",
+      "answer": "Sustaining the growth of people working beyond retirement age could result in approximately 60,000 to 110,000 more workers by 2030."
+    },
+    {
+      "question": "What was the result of Het Potentieel Pakken's projects in terms of increasing work hours for employees?",
+      "answer": "About 10 percent of employees increased their contracts with an average of five hours per week."
+    },
+    {
+      "question": "How many additional full-time equivalent employees could the Netherlands have by 2030 if it extrapolates the results of Het Potentieel Pakken's projects to all part-time workers?",
+      "answer": "Extrapolating the results could add the equivalent of 50,000 to 80,000 people by 2030."
+    },
+    {
+      "question": "By how much could labor shortages be reduced by 2030 if more part-time workers were employed?",
+      "answer": "The equivalent of 50,000 to 80,000 people."
+    },
+    {
+      "question": "What is the potential increase in labor force participation by people who are currently not looking for work?",
+      "answer": "At most 1 to 2 percent."
+    },
+    {
+      "question": "What is the unemployment rate for non-western ethnocultural minority individuals (EMIs) in the Netherlands?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "What is the labor market participation rate for native citizens in the Netherlands?",
+      "answer": "75 percent."
+    },
+    {
+      "question": "By how many people could labor shortages be reduced by 2030 if people who are not looking for work were motivated to enter or reenter the labor force?",
+      "answer": "15,000 to 30,000 people."
+    },
+    {
+      "question": "Why is the potential labor force participation increase of 1 to 2 percent considered relatively small?",
+      "answer": "Because optimizing the participation of nonworkers remains challenging."
+    },
+    {
+      "question": "What is required to increase labor market mobility?",
+      "answer": "Structural changes to increase market mobility and help people stay fit for work\u2014in terms of both skills and mental and physical health."
+    },
+    {
+      "question": "How often will people need to reskill according to the report?",
+      "answer": "1.4 times more often."
+    },
+    {
+      "question": "How often will people need to reskill according to the report?",
+      "answer": "1.4 times more often."
+    },
+    {
+      "question": "What is the average net migration per year between 2022 and 2050 according to the State Committee on Demographic Developments 2050?",
+      "answer": "68,000 people."
+    },
+    {
+      "question": "What are the two pathways to address labor market mismatches through higher mobility?",
+      "answer": "\"Lateral entrants\" from adjacent job categories and relevant industries switching jobs to fill open positions, and \"upward development\" involving preparing people to fulfill more advanced-skilled jobs within their occupation."
+    },
+    {
+      "question": "Why can't labor migration be the sole solution for labor market tightness caused by the aging population?",
+      "answer": "Because it could increase societal pressures, such as on the housing market, if employers do not provide necessary services, especially in sectors that exist primarily because of the availability of people working in low-paid occupations."
+    },
+    {
+      "question": "What percentage of people in the Dutch working population would be willing to work more if the rewards were higher?",
+      "answer": "One in three."
+    },
+    {
+      "question": "What is 'upward development' in the context of workforce development?",
+      "answer": "Upward development involves preparing people to fulfill more advanced-skilled jobs within their occupation."
+    },
+    {
+      "question": "Why is continuous development of workers necessary?",
+      "answer": "Continuous development of workers is necessary to fill gaps at higher skill levels due to the increasing demand for advanced-skilled work."
+    },
+    {
+      "question": "What can alleviate financial hurdles preventing people from moving from one job to the next?",
+      "answer": "Support for reskilling during training could alleviate the financial hurdles preventing people from moving from one job to the next."
+    },
+    {
+      "question": "What type of recruitment practices can help attract talent to the right opportunities?",
+      "answer": "Adopting skills-based recruitment practices can help attract talent to the right opportunities."
+    },
+    {
+      "question": "What is the purpose of regional work centers (RWC) in supporting career changes?",
+      "answer": "Regional work centers bring together national agencies, local government, and private labor market players to provide guidance and support for career changes."
+    },
+    {
+      "question": "Why should employers adopt skills-based hiring practices?",
+      "answer": "Hiring based on skills assessment is twice as predictive of job performance than hiring based on work experience in the same field."
+    },
+    {
+      "question": "What is an example of a company initiative that uses skills-based hiring?",
+      "answer": "Arbeidsmatchplatform, a collaborative effort by seven large companies in the energy sector, selects people primarily on their skills and less on their prior education to fill jobs in skilled manual labor."
+    },
+    {
+      "question": "Why do lateral entrants face difficulties finding employment?",
+      "answer": "Established hiring practices often favor experience in the field of work."
+    },
+    {
+      "question": "What is more predictive of job performance according to evidence?",
+      "answer": "Hiring based on skills assessment is twice as predictive of job performance than hiring based on work experience in the same field."
+    },
+    {
+      "question": "What is the main barrier for people reskilling mid-career?",
+      "answer": "The lack of funding for work-to-work transitions and concerns about a temporary loss of income."
+    },
+    {
+      "question": "What approach to learning did interviewees prefer?",
+      "answer": "A more apprenticeship-based learning approach, in which new entrants learn a basic set of skills on a narrow set of tasks and then expand their skills while progressing on the job."
+    },
+    {
+      "question": "Why did only about 1,000 out of the 6,500 temporary workers contacted by Randstad accept the offer to reskill?",
+      "answer": "Concerns about a temporary loss of income were reported as one of the main reasons for not accepting the offer."
+    },
+    {
+      "question": "What should employers do to support lateral entrants in their new roles?",
+      "answer": "Adapt their organizational infrastructure to smoothly integrate reskilled people in their new occupation and prioritize tailored learning and development plans for lateral entrants."
+    },
+    {
+      "question": "What is the effect of embedding learning and development into the work rhythm of all employees?",
+      "answer": "It improves mobility and enables the train of job transitions, improves the adaptability of employees and organizations, and helps realize the required productivity improvement."
+    },
+    {
+      "question": "What is required to embed learning and development into the work rhythm of all employees?",
+      "answer": "Structural changes."
+    },
+    {
+      "question": "What are the three effects of embedding learning and development into the work rhythm of all employees?",
+      "answer": "It improves mobility and enables job transitions, improves the adaptability of employees and organizations, and helps realize productivity improvement."
+    },
+    {
+      "question": "What is meant by 'fitness to work'?",
+      "answer": "The ability to go to work in good physical and mental health with the appropriate skills to do the job."
+    },
+    {
+      "question": "Why is ensuring 'fitness to work' important?",
+      "answer": "To reduce labor force dropouts and increase productivity and adaptability, which decreases pressure on the labor market."
+    },
+    {
+      "question": "What is 'skill fitness'?",
+      "answer": "The alignment of workers' skills with skills that are in demand and their ability to learn new skills."
+    },
+    {
+      "question": "How will technological innovations such as automation, digitalization, and AI change the demand for certain skill sets in the coming decade?",
+      "answer": "They will increase the total number of work hours spent on technological and social and emotional skills while reducing the hours of work on basic cognitive skills."
+    },
+    {
+      "question": "What percentage of working time should be dedicated to learning to maintain and enhance skill fitness?",
+      "answer": "About 5 percent, or on average two hours per full-time week."
+    },
+    {
+      "question": "How effective are current employee training efforts according to CHROs of large Dutch companies?",
+      "answer": "Only 33 percent said their trainings are having the intended effect, and 64 percent indicated that their efforts could be ten times more effective."
+    },
+    {
+      "question": "What percentage of working time should be dedicated to learning to maintain and enhance skill fitness?",
+      "answer": "About 5 percent\u2014or on average two hours per full-time week."
+    },
+    {
+      "question": "What are the four elements that help improve the effectiveness of learning?",
+      "answer": "First, organizations need to embed learning in their DNA; second, employers should provide direction on what their employees should learn; third, employers should create learning pathways for different employee segments; and finally, they should ensure that learning is directly embedded into daily tasks."
+    },
+    {
+      "question": "Why is it important to safeguard the physical health of workers?",
+      "answer": "To ensure that work does not harm their health\u2014whether from hard physical labor and repeated movements or from excessive time spent sitting."
+    },
+    {
+      "question": "What is expected to happen to stress on working people in the coming 20 years?",
+      "answer": "TNO expects stress on working people to increase."
+    },
+    {
+      "question": "How did firefighters' employers and unions in the Netherlands recently change their retirement policy?",
+      "answer": "They agreed to change a forced 20-year retirement policy to be voluntary."
+    },
+    {
+      "question": "What is expected to happen to stress on working people in the coming 20 years?",
+      "answer": "TNO expects stress on working people to increase."
+    },
+    {
+      "question": "Who is expected to play a role in improving employee mental health?",
+      "answer": "Employers and the government."
+    },
+    {
+      "question": "How can employers improve employee mental health according to the McKinsey Health Institute?",
+      "answer": "By creating a positive and meaningful (social) environment at work, reducing and managing stress, and supporting employees to uphold a healthy and financially secure lifestyle through six modifiable drivers."
+    },
+    {
+      "question": "What initiative has the Dutch government outlined to improve mental health?",
+      "answer": "The Dutch government's 'Approach to mental health for all of us' initiative."
+    },
+    {
+      "question": "What is required to solve the issue of declining mental health?",
+      "answer": "An integrated approach by the government, healthcare systems, educational systems, and employers."
+    },
+    {
+      "question": "By when do 980,000 new houses need to be built?",
+      "answer": "By 2030."
+    },
+    {
+      "question": "What is the target reduction in CO2 emissions compared to 1990 levels?",
+      "answer": "At least 55 percent."
+    },
+    {
+      "question": "Why is the government unable to execute its own policy?",
+      "answer": "Because of labor shortages."
+    },
+    {
+      "question": "What is limiting the ability of companies to grow their business?",
+      "answer": "A lack of skilled IT professionals."
+    },
+    {
+      "question": "What is not keeping up with increasing demand?",
+      "answer": "The expansion of the electricity grid."
+    },
+    {
+      "question": "By 2030, how many new houses need to be built?",
+      "answer": "980,000."
+    },
+    {
+      "question": "What is the target reduction in CO2 emissions by 2030 compared to 1990 levels?",
+      "answer": "At least 55 percent."
+    },
+    {
+      "question": "What are the three areas of work that require targeted action to address labor shortages?",
+      "answer": "Skilled manual labor, digital and tech jobs, and health and social care."
+    },
+    {
+      "question": "What are the projected shortages in the three areas of work in 2030?",
+      "answer": "100,000 in skilled manual labor, 105,000 in digital and tech jobs, and 245,000 in health and social care."
+    },
+    {
+      "question": "What is the trend in the inflow of MBO and HBO students in nursing from 2021 to 2023?",
+      "answer": "The inflow dropped by about 25 percent."
+    },
+    {
+      "question": "Who should work together to solve the pressing shortages in the three areas of work?",
+      "answer": "Government, employers, employee organizations, educational institutions, and NGOs."
+    },
+    {
+      "question": "What are the four most critical solution levers to address labor shortages in the three areas of work?",
+      "answer": "Pre-occupational skilling, reskilling, retention, and upward development."
+    },
+    {
+      "question": "What was the percentage drop in the inflow of MBO and HBO students in nursing from 2021 to 2023?",
+      "answer": "25 percent."
+    },
+    {
+      "question": "Who needs to work together to solve the pressing shortages in the three areas of work?",
+      "answer": "Government, employers, employee organizations, educational institutions, and NGOs."
+    },
+    {
+      "question": "What are the four most critical levers to address shortages in the three areas of work?",
+      "answer": "Pre-occupational skilling, reskilling, retention, and upward development."
+    },
+    {
+      "question": "Why is pre-occupational skilling considered a promising solution for advanced digital and tech jobs?",
+      "answer": "By addressing a younger generation that has grown up with digital and tech."
+    },
+    {
+      "question": "What is suggested to rebalance the inflow of people to the labor market?",
+      "answer": "Further orchestration among industry groups, employers, and educational institutions."
+    },
+    {
+      "question": "What measures could be considered to limit enrollment in areas of study with lower market demand?",
+      "answer": "Mechanisms such as a 'numerus fixus'."
+    },
+    {
+      "question": "What is a promising solution to address shortages in advanced digital and tech jobs?",
+      "answer": "Pre-occupational skilling is a particularly promising solution."
+    },
+    {
+      "question": "How can government and employers address labor shortages in certain sectors?",
+      "answer": "They could consider expediting the process by offering incentives such as scholarships, grants, or housing support."
+    },
+    {
+      "question": "What is an example of an alternative educational method that could increase inflow into digital and tech jobs?",
+      "answer": "Codam Coding College in Amsterdam offers an accessible software development program."
+    },
+    {
+      "question": "Why is reskilling the existing labor force necessary?",
+      "answer": "To address labor shortages by enabling workers to move to shortage areas from other areas."
+    },
+    {
+      "question": "What is an example of a collaboration between companies to address labor shortages?",
+      "answer": "Techniek Coalitie Limburg supports skilled manual laborers who were let go by VDL Nedcar in finding new jobs at partner companies."
+    },
+    {
+      "question": "What can government do to accelerate the transition of workers to shortage areas?",
+      "answer": "Government could consider orchestrating, promoting, and providing incentives for collaborations between companies."
+    },
+    {
+      "question": "What can help workers move to shortage areas from other areas?",
+      "answer": "Appropriate reskilling."
+    },
+    {
+      "question": "How can major companies in areas of labor abundance help workers transition to shortage areas?",
+      "answer": "By making agreements with companies that have shortages, making it easy for workers to find new opportunities in adjacent work areas."
+    },
+    {
+      "question": "What is an example of a company that supports skilled manual laborers in finding new jobs?",
+      "answer": "Techniek Coalitie Limburg, which supports skilled manual laborers who were let go by VDL Nedcar in finding new jobs at partner companies."
+    },
+    {
+      "question": "What can government do to accelerate the transition of workers to shortage areas?",
+      "answer": "Orchestrating, promoting, and providing incentives for collaborations between companies."
+    },
+    {
+      "question": "What is FastSwitch, and what does it provide?",
+      "answer": "FastSwitch provides shortened reskilling trajectories at universities of applied sciences (HBO) for in-demand jobs, and helps people find jobs with partner employers."
+    },
+    {
+      "question": "Why is retaining the existing labor force in shortage areas critical?",
+      "answer": "Because outflow to other areas of work is high, and hard-fought gains in attracting new workers will go to waste if existing workers are not retained."
+    },
+    {
+      "question": "What solutions can help retain workers in health and social care?",
+      "answer": "Relieving high pressure at work and ensuring appropriate onboarding programs."
+    },
+    {
+      "question": "What was the result of the Practice Transition Accreditation Program created by the American Nurses Credentialing Center (ANCC)?",
+      "answer": "An 85 percent retention rate over 12 months, compared with the industry average of 71 percent."
+    },
+    {
+      "question": "Why is retaining the existing labor force in shortage areas critical?",
+      "answer": "Because hard-fought gains in attracting new workers will go to waste."
+    },
+    {
+      "question": "What is one solution to relieve high pressure at work in the health and social care industry?",
+      "answer": "Ensuring appropriate onboarding programs."
+    },
+    {
+      "question": "What was the retention rate demonstrated by the Practice Transition Accreditation Program over 12 months?",
+      "answer": "85 percent."
+    },
+    {
+      "question": "How does Alliander, an energy grid operator, relieve labor shortages?",
+      "answer": "By training employees in specific required skills instead of training them to do everything the job entails at once, and then employing them to perform those specific skills and building on their skill set via on-the-job training."
+    },
+    {
+      "question": "What is one way to achieve retention of workers in shortage areas?",
+      "answer": "By ensuring that workers switch to other organizations in the same area of work instead of to completely different areas."
+    },
+    {
+      "question": "What is the role of upward development in addressing labor shortages?",
+      "answer": "Companies will have to fill some of the vacancies by upskilling existing employees for such roles."
+    },
+    {
+      "question": "What is an example of a sector-specific solution to labor shortages?",
+      "answer": "Labor migration may be effective at partially solving the shortage in digital and technical skills."
+    },
+    {
+      "question": "What areas of work are experiencing shortages that labor migration and optimizing participation could help alleviate?",
+      "answer": "Digital and technical skills, and nursing."
+    },
+    {
+      "question": "How can government and key employers address the shortage areas of work?",
+      "answer": "By jointly defining standard trajectories, upskilling needs, and specific job transitions, and supporting upward development."
+    },
+    {
+      "question": "What is the potential outcome of setting the train of job transitions into motion for the three areas of work with shortages?",
+      "answer": "It can serve as a catalyst for broader cultural and practical changes in terms of mobility, reskilling, continuous development, and productivity across the labor market."
+    },
+    {
+      "question": "What is a characteristic of the labor force in nursing?",
+      "answer": "A relatively high share of part-time labor."
+    },
+    {
+      "question": "What is the main issue the Netherlands is facing in its labor market?",
+      "answer": "The Netherlands is facing a tight labor market."
+    },
+    {
+      "question": "How can productivity growth be quadrupled?",
+      "answer": "By accelerating the adoption of technological innovations."
+    },
+    {
+      "question": "What is required to support people in becoming increasingly mobile in the labor market?",
+      "answer": "A shift in culture and mindsets about the labor market is necessary."
+    },
+    {
+      "question": "What are the three critical areas of work with the highest shortages?",
+      "answer": "Skilled manual labor, advanced digital and tech jobs, and nursing and elderly care."
+    },
+    {
+      "question": "Who needs to work together to build a 2030 labor market that works for the future of the Netherlands?",
+      "answer": "Government, employers, employee organizations, educational institutions, and NGOs."
+    },
+    {
+      "question": "What is the proposed average number of professions a person should have in their life by 2030?",
+      "answer": "2.4 professions."
+    },
+    {
+      "question": "What is necessary to ensure sufficient mobility and job transitions?",
+      "answer": "Structural and cultural changes are critical."
+    },
+    {
+      "question": "What are the three critical areas of work with the highest shortages?",
+      "answer": "Skilled manual labor, especially for housing and the energy transition; advanced digital and tech jobs; and nursing and elderly care."
+    },
+    {
+      "question": "Who should work together to build a 2030 labor market that works for the future of the Netherlands?",
+      "answer": "Government, employers, employee organizations, educational institutions, and NGOs."
+    },
+    {
+      "question": "Who led the research for the report?",
+      "answer": "Dieuwert Inia, Marc de Jong, and Reinout Goedvolk, senior partners in McKinsey\u2019s Amsterdam office; Hagar Heijmans, a partner in the Amsterdam office; Alexander Veldhuijzen, an associate partner in the Amsterdam office; and Martijn Repko and Wouter van Aanholt, consultants in the Amsterdam office."
+    },
+    {
+      "question": "What is the timeframe for the comprehensive action plan outlined in the report?",
+      "answer": "The next five years and beyond."
+    },
+    {
+      "question": "Who is the chair of the McKinsey Global Institute?",
+      "answer": "Sven Smit, a McKinsey senior partner based in Amsterdam."
+    },
+    {
+      "question": "Who is the chair of the McKinsey Global Institute?",
+      "answer": "Sven Smit."
+    },
+    {
+      "question": "How is labor market tightness calculated?",
+      "answer": "Labor market tightness is calculated based on developments in the number of vacancies and the level of unemployment."
+    },
+    {
+      "question": "What is the formula for labor market tightness?",
+      "answer": "Labor market tightness = Vacancies / Unemployment = (Labor demand - Supplied labor) / Unemployment."
+    },
+    {
+      "question": "Was the report commissioned or sponsored by any institution?",
+      "answer": "No, the work is independent and has not been commissioned or sponsored in any way by any business, government, or other institution."
+    },
+    {
+      "question": "Who edited and produced the report?",
+      "answer": "Annie Mullowney and the LEFF team of designers."
+    },
+    {
+      "question": "Is the work commissioned or sponsored by any institution?",
+      "answer": "No, the work is independent and has not been commissioned or sponsored by any business, government, or other institution."
+    },
+    {
+      "question": "How is labor market tightness calculated?",
+      "answer": "Labor market tightness is calculated as the ratio of vacancies to unemployment, or (Labor demand - Supplied labor) / Unemployment."
+    },
+    {
+      "question": "What is the source of the 2022 unemployment level?",
+      "answer": "The 2022 unemployment level is taken from CBS."
+    },
+    {
+      "question": "What is the assumption about the future unemployment rate?",
+      "answer": "The assumption is that the unemployment rate will not drop below the 2022 level (approximately 350,000) and will grow at the same rate as the working population (0.3 percent per year)."
+    },
+    {
+      "question": "How is labor demand projected towards 2030?",
+      "answer": "Labor demand is projected using GDP growth and labor productivity growth."
+    },
+    {
+      "question": "What are the GDP growth and labor productivity growth rates used in the base scenario?",
+      "answer": "The base scenario uses GDP growth of 1.6 percent per year and labor productivity growth of 0.4 percent per year from 2010 to 2022."
+    },
+    {
+      "question": "What is the productivity growth rate used in the increased-productivity scenario?",
+      "answer": "The increased-productivity scenario uses productivity growth of 1.8 percent per year."
+    },
+    {
+      "question": "What was the GDP growth rate used for the base scenario from 2010 to 2022?",
+      "answer": "1.6 percent per year."
+    },
+    {
+      "question": "What productivity growth rate was used for the increased-productivity scenario?",
+      "answer": "1.8 percent per year."
+    },
+    {
+      "question": "What is the formula for calculating Labor demand in 2030?",
+      "answer": "Labor demand 2030 = Supplied labor 2022 * (1 + Labor demand growth 2022\u201330) / (1 + Productivity growth 2022\u201330) + Societal ambitions 2022\u201330 / (1 + Productivity growth 2022\u201330) + Vacancies 2022."
+    },
+    {
+      "question": "What is the basis for the supplied labor data?",
+      "answer": "CBS data on the 2022 employed working population (15- to 75-year-olds, 9.5 million)."
+    },
+    {
+      "question": "How many occupations were broken down into constituent activities in the MGI model?",
+      "answer": "About 850 occupations into about 2,100 constituent activities."
+    },
+    {
+      "question": "What is the expected growth rate of the working population?",
+      "answer": "0.3 percent per year."
+    },
+    {
+      "question": "How many topics were focused on in the socioeconomic discussions?",
+      "answer": "11 topics."
+    },
+    {
+      "question": "What is the primary focus of the analysis in the report?",
+      "answer": "The analysis models various factors driving labor demand to understand how occupational composition may change."
+    },
+    {
+      "question": "How many occupations were broken down into constituent activities in the MGI model?",
+      "answer": "About 850 occupations were broken down into about 2,100 constituent activities."
+    },
+    {
+      "question": "What is the Bass diffusion model used for in the report?",
+      "answer": "The Bass diffusion model is used to incorporate factors that affect the timing and pace of automation adoption."
+    },
+    {
+      "question": "How long does it take to reach 50 percent adoption in the earliest and latest automation adoption scenarios?",
+      "answer": "It takes about five years to reach 50 percent adoption in the earliest scenario and approximately 16 years in the latest scenario."
+    },
+    {
+      "question": "How is productivity measured in the report?",
+      "answer": "Productivity is measured as GDP per full-time-equivalent employee (FTE)."
+    },
+    {
+      "question": "What assumption is made about the effect of automation on labor?",
+      "answer": "It is assumed that automation has a labor substitution effect but no other performance gains."
+    },
+    {
+      "question": "What reports did the methodology and findings of this report draw upon?",
+      "answer": "Three recent McKinsey Global Institute reports."
+    },
+    {
+      "question": "How was the additional GDP from displaced FTEs rejoining the economy calculated?",
+      "answer": "FTE impact of automation adoption * productivity of 2022."
+    },
+    {
+      "question": "What was assumed about the current supply chain composition until 2030 in the net-zero analysis?",
+      "answer": "It remains the same."
+    },
+    {
+      "question": "How many macroeconomic catalysts were factored into estimating labor demand?",
+      "answer": "Six."
+    },
+    {
+      "question": "What trends accelerated by COVID-19 were incorporated into the analysis?",
+      "answer": "Increased remote work and virtual meetings and the shift to e-commerce and other virtual transactions."
+    },
+    {
+      "question": "What is the target year for the European Union to reduce greenhouse gas emissions to net zero?",
+      "answer": "2050."
+    }
+  ]
+}

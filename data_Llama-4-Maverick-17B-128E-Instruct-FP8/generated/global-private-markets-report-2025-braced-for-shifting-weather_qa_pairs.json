@@ -1,0 +1,1773 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe McKinsey Global Private Markets Report 2025 analyzes the state of private markets in 2024, finding mixed conditions with tepid dealmaking and declining fundraising, but strong investor interest and confidence. Despite geopolitical instability and changing trade policies, private market stakeholders showed resilience, with fundraisers exploring new capital-raising vehicles and dealmakers focusing on operational transformation. The report highlights the rebound in private equity dealmaking and distributions, driven by a more benign financing environment, and notes that investors plan to increase their private equity allocations. The report also explores pressing issues across asset classes, including the exit backlog in private equity and the rise of alternative sources of capital. Overall, the report suggests that private markets are adapting to a new environment with higher interest rates and evolving investor needs.",
+  "qa_pairs": [
+    {
+      "question": "What was the trend in fundraising across all asset classes in 2024?",
+      "answer": "Fundraising across all asset classes fell to its lowest level since 2016."
+    },
+    {
+      "question": "How did capital deployment change across asset classes in 2024?",
+      "answer": "Capital deployment increased by double digits across asset classes."
+    },
+    {
+      "question": "What do investors say they will do with their allocation to private markets over the coming year?",
+      "answer": "Investors say that they will allocate more capital, not less, to private markets."
+    },
+    {
+      "question": "What are some of the critical challenges facing managers and investors in private markets?",
+      "answer": "Geopolitical instability and changes in trade policy are emerging as critical challenges."
+    },
+    {
+      "question": "How are fundraisers adapting to the changing private markets landscape?",
+      "answer": "Fundraisers are looking beyond closed-end channels to raise capital in new vehicles, such as evergreen funds."
+    },
+    {
+      "question": "What are the three pressing issues that the report addresses across asset classes?",
+      "answer": "The three pressing issues are: the exit backlog in PE, the rise of alternative sources of capital, and the increasingly attractive world of secondaries and GP stakes."
+    },
+    {
+      "question": "How did fundraising for traditional commingled private equity vehicles perform in 2024 compared to the previous year?",
+      "answer": "Fundraising remained tough, down 24 percent year over year, marking the third consecutive year of decline."
+    },
+    {
+      "question": "What was notable about private equity distributions to LPs in 2024?",
+      "answer": "For the first time since 2015, sponsors' distributions to LPs exceeded capital contributions, and were the third highest on record."
+    },
+    {
+      "question": "How did dealmaking in private equity perform in 2024 after two years of decline?",
+      "answer": "There was a rebound in dealmaking, with a notable increase in the value and number of large PE deals (above $500 million in enterprise value)."
+    },
+    {
+      "question": "What was the trend in exit activity in private equity in 2024?",
+      "answer": "Exit activity, in terms of value, started to increase again, especially sponsor-to-sponsor exits."
+    },
+    {
+      "question": "What metric did LPs rank as 'most critical' for performance in the 2025 proprietary survey compared to three years ago?",
+      "answer": "Distributions to paid-in capital (DPI) was ranked as 'most critical' by 2.5 times as many LPs compared to three years ago."
+    },
+    {
+      "question": "How many times more LPs ranked DPI as a 'most critical' performance metric in the 2025 survey compared to three years ago?",
+      "answer": "2.5 times."
+    },
+    {
+      "question": "What was the trend in dealmaking after two years of decline?",
+      "answer": "There was a rebound in dealmaking."
+    },
+    {
+      "question": "What happened to the cost of financing a buyout?",
+      "answer": "The cost of financing a buyout declined."
+    },
+    {
+      "question": "Why did sponsors' confidence improve amid improving financing conditions?",
+      "answer": "Because of monetary easing."
+    },
+    {
+      "question": "What percentage of LP respondents plan to increase their PE allocations in the next 12 months?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "How has PE performed compared to the S&P 500 since the turn of the millennium?",
+      "answer": "PE has outpaced the S&P 500."
+    },
+    {
+      "question": "By how much did total global PE assets under management (AUM) decline in 2024 by the traditional measure?",
+      "answer": "1.4 percent."
+    },
+    {
+      "question": "How are GPs sourcing new funds from noninstitutional investors?",
+      "answer": "Through multiple channels (such as aggregators and wealth managers) and with multiple vehicles (such as open-end and semi-open-end funds)."
+    },
+    {
+      "question": "What was the change in the total value of public-to-private (P2P) transactions in Europe in 2024?",
+      "answer": "The total value was up 65 percent."
+    },
+    {
+      "question": "How did the total value of public-to-private (P2P) transactions change in Europe in 2024?",
+      "answer": "The total value of P2Ps was up 65 percent in 2024."
+    },
+    {
+      "question": "What was the trend in the top 100 GPs' acquisitions of competing GPs over the past five years compared to the previous five years?",
+      "answer": "The top 100 GPs made approximately three times more acquisitions of competing GPs over the past five years than they did in the previous five years."
+    },
+    {
+      "question": "Which region lagged behind North America and Europe year over year in fundraising, performance, and deal activity?",
+      "answer": "Asia lagged behind North America and Europe year over year in fundraising, performance, and deal activity."
+    },
+    {
+      "question": "What is a challenge that some funds are facing due to elevated marks and the inability to sell their portfolio companies?",
+      "answer": "Some funds are facing twin pressures of elevated marks and the inability to sell their portfolio companies."
+    },
+    {
+      "question": "What is a key consideration for investors and operators as they underwrite and drive value creation initiatives?",
+      "answer": "Investors and operators need to consider increasing geopolitical uncertainty\u2014for example, the threat of tariffs."
+    },
+    {
+      "question": "What is a top priority for investors and operators in terms of AI?",
+      "answer": "Building best-in-class data science teams within fund operations, developing AI-enabled value creation initiatives, and scaling external AI partnerships."
+    },
+    {
+      "question": "What was the percentage change in global private equity deal value in 2024 compared to the previous year?",
+      "answer": "14 percent."
+    },
+    {
+      "question": "What was the total global private equity deal value in 2024?",
+      "answer": "$2 trillion."
+    },
+    {
+      "question": "How did private equity deal value in Asia change in 2024?",
+      "answer": "It declined steeply."
+    },
+    {
+      "question": "What was the trend in global PE dealmaking from 2022 to 2024?",
+      "answer": "It declined for two years and then rebounded significantly in 2024."
+    },
+    {
+      "question": "What was the ranking of 2024 in terms of global private equity deal value?",
+      "answer": "The third-most-active year on record."
+    },
+    {
+      "question": "What was the percentage change in global private equity deal value in 2024 compared to the previous year?",
+      "answer": "14 percent"
+    },
+    {
+      "question": "Which region saw a decline in private equity assets under management (AUM) in 2024?",
+      "answer": "Asia"
+    },
+    {
+      "question": "By how much did Asia's private equity assets under management (AUM) decline in 2024?",
+      "answer": "5.5 percent to $2.7 trillion"
+    },
+    {
+      "question": "What was the change in the number of private equity deals across subasset classes in 2024?",
+      "answer": "Dropped for a third consecutive year"
+    },
+    {
+      "question": "What was the year-over-year change in venture capital's dealmaking velocity in 2024?",
+      "answer": "16.9 percent drop in count"
+    },
+    {
+      "question": "How did North America and Europe's private equity AUM change from H1 2023 to H1 2024?",
+      "answer": "Increased at 4.4 percent and 3.0 percent, respectively"
+    },
+    {
+      "question": "What was the change in global private equity deal count for buyouts in 2024?",
+      "answer": "Decreased marginally by 1.7 percent"
+    },
+    {
+      "question": "What was the percentage change in North America's PE NAV in the given period?",
+      "answer": "8.8 percent."
+    },
+    {
+      "question": "Which region recorded a decline in assets under management for closed-end, commingled private equity funds?",
+      "answer": "Asia."
+    },
+    {
+      "question": "What was the 4.5-year CAGR for total private equity assets under management from 2019 to H1 2024?",
+      "answer": "13.6 percent."
+    },
+    {
+      "question": "By what percentage did venture capital deal count drop year-over-year?",
+      "answer": "16.9 percent."
+    },
+    {
+      "question": "What was the percentage change in fundraising for venture capital in 2023 compared to the previous year?",
+      "answer": "Nearly 58 percent decline."
+    },
+    {
+      "question": "How did the deal value for buyouts change in 2024 compared to the previous year?",
+      "answer": "Rebounded by 15.5 percent."
+    },
+    {
+      "question": "What was the percentage change in buyout deal count in 2024 compared to the previous year?",
+      "answer": "Decreased marginally by 1.7 percent."
+    },
+    {
+      "question": "What percentage of venture capital's total assets under management is comprised of Asia?",
+      "answer": "More than half."
+    },
+    {
+      "question": "How did buyout deal value change in 2024 compared to venture capital deal value?",
+      "answer": "Buyout deal value rebounded by 15.5 percent in 2024, while venture capital deal value was only 6.7 percent higher."
+    },
+    {
+      "question": "What was the change in deal count for buyout and venture capital in 2024?",
+      "answer": "Buyout deal count fell by 1.7 percent, while venture capital deal count dropped by 16.9 percent."
+    },
+    {
+      "question": "What was the IRR performance of venture capital through September 30, 2024?",
+      "answer": "Venture capital's IRR was 1.9 percent through September 30, 2024, compared to a negative IRR of 2.5 percent in the preceding 12 months."
+    },
+    {
+      "question": "How did buyout strategy's IRR compare to venture capital's IRR in 2024?",
+      "answer": "Buyout strategy outperformed venture capital with an IRR of 4.5 percent compared to venture capital's IRR of 1.9 percent."
+    },
+    {
+      "question": "What was the median global buyout entry multiple in 2024?",
+      "answer": "The median global buyout entry multiple in 2024 was the second highest on record."
+    },
+    {
+      "question": "How did PE financing costs change in mid-to-late 2024?",
+      "answer": "PE financing costs eased as lender spreads and Secured Overnight Financing Rates (SOFR) declined in mid-to-late 2024."
+    },
+    {
+      "question": "What was the net debt to EBITDA ratio for buyout deals in 2024?",
+      "answer": "The net debt to EBITDA ratio for buyout deals was roughly 4.1 times in 2024, up from 4.0 times in 2023."
+    },
+    {
+      "question": "What happened to PE financing costs in mid-to-late 2024?",
+      "answer": "PE financing costs eased as lender spreads and Secured Overnight Financing Rates (SOFR) declined."
+    },
+    {
+      "question": "How did GPs lever their deals in 2024 compared to 2023?",
+      "answer": "GPs levered their deals marginally more in 2024, at roughly 4.1 times net debt to EBITDA, versus 4.0 times in 2023."
+    },
+    {
+      "question": "What was the change in global PE dry powder between the first half of 2023 and the first half of 2024?",
+      "answer": "Global PE dry powder decreased 11 percent to $2.1 trillion."
+    },
+    {
+      "question": "What was the trend in large buyout transactions in North America and Europe in 2024?",
+      "answer": "Deals above $500 million in enterprise value rose in both value (37 percent) and count (3 percent)."
+    },
+    {
+      "question": "How did the dry powder inventory change in 2024 compared to the prior year?",
+      "answer": "Dry powder inventory fell to 1.89 years in 2024, from 2.02 in the prior year."
+    },
+    {
+      "question": "What was the ten-year average of buyout leverage?",
+      "answer": "The ten-year average of buyout leverage was 4.2 times."
+    },
+    {
+      "question": "Which sector outperformed in terms of deal value in 2024?",
+      "answer": "The technology sector outperformed in 2024, being the third highest on record in terms of deal value."
+    },
+    {
+      "question": "What led the rebound in private equity dealmaking in 2024?",
+      "answer": "An increase in buyout transactions over $500 million."
+    },
+    {
+      "question": "Which sectors drove the recovery in large private equity deals?",
+      "answer": "Technology, consumer, and financial-services sectors."
+    },
+    {
+      "question": "What is the trend in sector allocation among PE investors?",
+      "answer": "Long-term trends in sector allocation persist, with sectors like technology outperforming and healthcare continuing its post-COVID-19 retreat."
+    },
+    {
+      "question": "What type of transactions picked up in 2024, especially in Europe?",
+      "answer": "P2P (public-to-private) transactions."
+    },
+    {
+      "question": "Why might sponsors be attracted to taking undervalued companies private?",
+      "answer": "Sponsors likely see merit in taking undervalued companies private rather than picking over the portfolios of their peers."
+    },
+    {
+      "question": "What is the growth outlook for the private equity industry according to sponsors?",
+      "answer": "Sponsors have renewed confidence in the industry's growth outlook."
+    },
+    {
+      "question": "What was the trend in private equity dealmaking in 2024?",
+      "answer": "The rebound in private equity dealmaking was led by an increase in buyout transactions over $500 million."
+    },
+    {
+      "question": "Which sectors drove the recovery in large private equity deals?",
+      "answer": "Technology, consumer, and financial-services sectors drove the recovery in large private equity deals."
+    },
+    {
+      "question": "What was the percentage of total global PE deal value accounted for by P2P deals in 2024?",
+      "answer": "11 percent"
+    },
+    {
+      "question": "How did the value of P2P deals in Europe change in 2024 compared to the previous year?",
+      "answer": "Europe recorded a 65 percent year-over-year increase in the value of P2P deals."
+    },
+    {
+      "question": "What was the trend in the technology sector in terms of deal value in 2024?",
+      "answer": "2024 was the third highest on record in terms of deal value for the technology sector."
+    },
+    {
+      "question": "What was the CAGR for the technology sector from 2019 to 2024?",
+      "answer": "9.9 percent"
+    },
+    {
+      "question": "What percentage of total global PE deal value did P2P deals account for in 2024?",
+      "answer": "11 percent."
+    },
+    {
+      "question": "How did the value of P2P deals in Europe change year-over-year in 2024?",
+      "answer": "Europe recorded a 65 percent year-over-year increase in the value of such deals."
+    },
+    {
+      "question": "What was the change in PE-backed exit value in 2024 compared to the previous year?",
+      "answer": "PE-backed exit value increased by 7.6 percent to $813 billion in 2024."
+    },
+    {
+      "question": "How did the average holding period for buyout deals change in 2024?",
+      "answer": "The average holding period for buyout deals decreased for the first time since 2020."
+    },
+    {
+      "question": "What percentage of buyout-backed assets were held in PE ownership for more than four years in 2024?",
+      "answer": "61 percent."
+    },
+    {
+      "question": "What is the current average buyout hold time compared to the long-term average?",
+      "answer": "Average buyout hold times remain above the long-term average (6.7 years versus the average of 5.7 years over the past 20 years)."
+    },
+    {
+      "question": "What is the trend in the importance of MOIC as a performance metric among LPs?",
+      "answer": "21 percent of LPs now rank multiple of invested capital (MOIC) as critical (up from 15 percent three years ago)."
+    },
+    {
+      "question": "What was the trend in private equity fundraising in 2024?",
+      "answer": "Private equity fundraising declined for the third consecutive year in 2024, decreasing by 24 percent year over year to $589 billion."
+    },
+    {
+      "question": "How did fundraising perform across different regions in 2024?",
+      "answer": "Fundraising declined in North America, Europe, and Asia, although the decline was comparatively smaller in Europe (falling by 11 percent)."
+    },
+    {
+      "question": "What was the change in sponsor-to-sponsor exits in 2024?",
+      "answer": "Sponsor-to-sponsor transactions as a share of total private-equity-backed exit count reached a ten-year high in 2024, with a 16 percent increase by value and 10 percent by share of deal count."
+    },
+    {
+      "question": "What was the trend in PE-backed IPOs in 2024?",
+      "answer": "PE-backed IPOs (including reverse mergers) fell 7 percent, to $154 billion, in value and 20 percent in count."
+    },
+    {
+      "question": "Why are IPOs critical for larger sponsors?",
+      "answer": "IPOs are especially critical for larger sponsors because they comprised nearly 22 percent of PE-backed exits greater than $500 million, and larger companies face more constrained exit options."
+    },
+    {
+      "question": "What may happen to sponsors if IPOs continue to decline as a share of exits?",
+      "answer": "They may need to shift their focus more to finding long-term corporate acquirers for their assets."
+    },
+    {
+      "question": "What was the trend in sponsor-to-sponsor transactions as a share of total private-equity-backed exit count in 2024?",
+      "answer": "It reached a ten-year high."
+    },
+    {
+      "question": "By how much did fundraising decline in 2024 for the typical PE GP?",
+      "answer": "24 percent year over year to $589 billion."
+    },
+    {
+      "question": "How did fundraising decline in different regions in 2024?",
+      "answer": "Fundraising declined in North America, Europe, and Asia, with the decline being comparatively smaller in Europe (falling by 11 percent)."
+    },
+    {
+      "question": "What was the decline in fundraising for buyout, growth equity, and venture capital in 2024?",
+      "answer": "Between 23 to 25 percent each."
+    },
+    {
+      "question": "What was the 2019-2024 CAGR for total private equity fundraising?",
+      "answer": "-5.5 percent."
+    },
+    {
+      "question": "What was the total private equity fundraising in 2024?",
+      "answer": "$589 billion."
+    },
+    {
+      "question": "How many consecutive years did private equity fundraising decline as of 2024?",
+      "answer": "Three consecutive years."
+    },
+    {
+      "question": "Which region had the smallest decline in private equity fundraising in 2024?",
+      "answer": "Europe, with a decline of 11 percent."
+    },
+    {
+      "question": "What was the year-over-year decline in fundraising for buyout, growth equity, and venture capital in 2024?",
+      "answer": "Between 23 to 25 percent each."
+    },
+    {
+      "question": "How long were funds open for fundraising on average in 2024?",
+      "answer": "A record-high 21.9 months."
+    },
+    {
+      "question": "How many buyout funds closed in 2024?",
+      "answer": "Roughly 420."
+    },
+    {
+      "question": "Which category of funds was approximately flat year over year in terms of fundraising in 2024?",
+      "answer": "Midmarket funds (ranging from $1 billion to $5 billion in size)."
+    },
+    {
+      "question": "How much did first-time funds raise in 2024?",
+      "answer": "$34 billion, the lowest total since 2013."
+    },
+    {
+      "question": "How many buyout funds closed in 2024?",
+      "answer": "Roughly 420 buyout funds closed in 2024."
+    },
+    {
+      "question": "What was the performance of midmarket funds in 2024 compared to the overall trend?",
+      "answer": "Midmarket funds (ranging from $1 billion to $5 billion in size) bucked the overall trend, with fundraising being approximately flat year over year."
+    },
+    {
+      "question": "How did the fundraising performance of funds smaller than $1 billion change in 2024?",
+      "answer": "Funds smaller than $1 billion in size were in market for five months longer than in prior years."
+    },
+    {
+      "question": "What was the total amount raised by first-time funds in 2024?",
+      "answer": "First-time funds managed to raise $34 billion in 2024, the lowest total since 2013."
+    },
+    {
+      "question": "What was the trend in the share of fundraising captured by the top 25 private equity fundraisers in 2024?",
+      "answer": "The top 25 private equity fundraisers captured a smaller share of fundraising in 2024 than that category did in 2023."
+    },
+    {
+      "question": "How did LPs' target allocation to private equity change from 2020 to 2024?",
+      "answer": "LPs' target allocation to private equity rose from 6.3 percent at the beginning of 2020 to 8.3 percent at the start of 2024."
+    },
+    {
+      "question": "What were LPs' plans regarding their allocations to private equity at the beginning of 2024?",
+      "answer": "Despite being overallocated by approximately 175 basis points, a greater proportion of LPs planned to increase their allocations to PE (30 percent), compared with those that wanted to reduce them (16 percent)."
+    },
+    {
+      "question": "What was the trend in LP target allocation to private equity from 2020 to 2024?",
+      "answer": "LPs have consistently increased their target allocation to PE, rising from 6.3 percent at the beginning of 2020 to 8.3 percent at the start of 2024."
+    },
+    {
+      "question": "What proportion of LPs plan to increase or decrease their allocations to PE in the next 12 months, according to the survey?",
+      "answer": "30 percent of LPs plan to increase their allocations to PE, compared with 16 percent that want to reduce them."
+    },
+    {
+      "question": "Why might fundraising be getting harder even as LPs are increasing allocations to private equity?",
+      "answer": "Although distributions are up, they remain lumpy, many LPs prefer to wait for some distributions before recommitting or subscribing to a new fund, more vehicles are competing for LPs' funds, and most GPs look for multiyear commitments, which can complicate annual fundraising."
+    },
+    {
+      "question": "What was the change in global private equity fundraising for midmarket funds between $1 billion and $5 billion from 2023 to 2024?",
+      "answer": "Midmarket funds between $1 billion and $5 billion saw a 0.5% growth in fundraising from 2023 to 2024."
+    },
+    {
+      "question": "What are the top reasons LPs expect to increase their PE allocation over the next 12 months?",
+      "answer": "The top reasons are: PE performing better than other asset classes in risk-adjusted returns, expected increases in rate of return, and diversity of portfolio."
+    },
+    {
+      "question": "What has driven limited partners to increase their private equity allocations?",
+      "answer": "Higher relative performance compared with other asset classes."
+    },
+    {
+      "question": "What was the industry-wide IRR for private equity for the nine months ending September 30, 2024?",
+      "answer": "Roughly 3.8 percent."
+    },
+    {
+      "question": "How did private equity distributions compare to capital calls in the first half of 2024?",
+      "answer": "Distributions exceeded capital calls."
+    },
+    {
+      "question": "What was the historical average IRR for private equity since 2010?",
+      "answer": "Roughly 14.5 percent."
+    },
+    {
+      "question": "What was the IRR for buyout, growth equity, and venture capital through the first three quarters of 2024?",
+      "answer": "Buyouts: 4.5 percent, Growth equity: 4.2 percent, Venture capital: 1.9 percent."
+    },
+    {
+      "question": "What percentage of respondents expected to increase their PE allocation over the next 12 months in 2025?",
+      "answer": "63 percent."
+    },
+    {
+      "question": "What was the top reason given by respondents for expecting to increase their PE allocation over the next 12 months?",
+      "answer": "PE performing better than other asset classes in risk-adjusted returns."
+    },
+    {
+      "question": "How has LPs' target allocation to private equity changed since 2019?",
+      "answer": "LPs have increased their target allocation to private equity since 2019."
+    },
+    {
+      "question": "What was the trend in private equity distributions versus capital calls in the first half of 2024?",
+      "answer": "Distributions exceeded capital calls for the first half of the year."
+    },
+    {
+      "question": "What is the expected outcome for 2024 in terms of net cash flows for PE LPs?",
+      "answer": "2024 is on track to be the first full year since 2015 where PE LPs saw net positive cash flows."
+    },
+    {
+      "question": "What was the industry-wide IRR for private equity for the nine months ending September 30, 2024?",
+      "answer": "The industry-wide IRR for the nine months ending September 30, 2024, decreased to roughly 3.8 percent."
+    },
+    {
+      "question": "How did the IRR for different private equity subasset classes compare through the first three quarters of 2024?",
+      "answer": "Buyouts were the strongest performer with a 4.5 percent IRR, followed by growth equity (4.2 percent IRR), and then venture capital (1.9 percent IRR)."
+    },
+    {
+      "question": "How did public markets perform in comparison to overall private equity in 2024?",
+      "answer": "2024 marked the third time in the past four years that public markets outperformed overall private equity."
+    },
+    {
+      "question": "What was the return on the S&P 500 (excluding the Magnificent Seven) through the first three quarters of 2024?",
+      "answer": "The benchmark S&P 500 returned over 17 percent."
+    },
+    {
+      "question": "How have buyout multiples compared to public multiples historically?",
+      "answer": "Buyout multiples have continued to remain lower than public multiples, reflecting the illiquidity penalty of investing in longer-life, more illiquid private markets."
+    },
+    {
+      "question": "What was the return of the S&P 500 through the first and third quarters of 2024 after excluding the Magnificent Seven?",
+      "answer": "Over 17 percent."
+    },
+    {
+      "question": "Which private equity subasset class has historically outperformed public equities over a longer period of ten or 25 years?",
+      "answer": "The buyout subasset class."
+    },
+    {
+      "question": "What are the seven companies referred to as the 'Magnificent Seven' in the US stock market in 2024?",
+      "answer": "Apple, Alphabet, Amazon, Meta, Microsoft, Nvidia, and Tesla."
+    },
+    {
+      "question": "How have buyout multiples compared to public multiples over the past 15 years?",
+      "answer": "Buyout multiples have remained lower than public multiples."
+    },
+    {
+      "question": "What was the trend in the delta between public and buyout multiples in 2024?",
+      "answer": "The delta between public and buyout multiples grew further."
+    },
+    {
+      "question": "What was the total transaction value of secondaries in the previous year?",
+      "answer": "$162 billion."
+    },
+    {
+      "question": "What percentage of NAV could LPs expect when trading their fund stakes in 2024?",
+      "answer": "89 percent."
+    },
+    {
+      "question": "What was the value of GP-led secondaries in 2024?",
+      "answer": "$75 billion."
+    },
+    {
+      "question": "What was the total value of secondaries' transactions in 2024?",
+      "answer": "$162 billion."
+    },
+    {
+      "question": "What percentage of the total secondaries' transaction value comprised LP-led deals?",
+      "answer": "More than half."
+    },
+    {
+      "question": "What was the percentage of NAV that LPs could expect when trading their fund stakes in 2024?",
+      "answer": "89 percent."
+    },
+    {
+      "question": "What was the total value of GP-led secondaries in 2024?",
+      "answer": "$75 billion."
+    },
+    {
+      "question": "What percentage of LPs invest in GP stakes funds today?",
+      "answer": "Roughly 43 percent."
+    },
+    {
+      "question": "What percentage of investment returns for buyout deals from 2010 to 2022 was driven by leverage and multiple expansion?",
+      "answer": "61 percent."
+    },
+    {
+      "question": "What were the main drivers of the remaining 39 percent of investment returns for buyout deals from 2010 to 2022?",
+      "answer": "Revenue growth and EBITDA margin expansion."
+    },
+    {
+      "question": "How has the average operating group size across funds of all sizes changed in the past three years?",
+      "answer": "It has more than doubled."
+    },
+    {
+      "question": "What drove 61 percent of investment returns for buyout deals from 2010 to 2022?",
+      "answer": "Leverage and market multiple expansion."
+    },
+    {
+      "question": "What percentage of total PE deal value in 2024 was from add-on deals?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "How has the average operating group size across funds of all sizes changed in the past three years?",
+      "answer": "It has more than doubled."
+    },
+    {
+      "question": "Why is organic cash generation key to managing leverage?",
+      "answer": "Given higher financing costs, companies have less headroom for mistakes than before, and rising interest rates and profitability challenges can be a toxic mix for companies."
+    },
+    {
+      "question": "What is the trend observed in add-on M&A deals?",
+      "answer": "Add-on acquisitions are gaining popularity and accelerating."
+    },
+    {
+      "question": "What percentage of total PE deal value in 2024 was from add-on acquisitions?",
+      "answer": "Roughly 40 percent."
+    },
+    {
+      "question": "What was the global real estate deal value in 2024?",
+      "answer": "$707 billion."
+    },
+    {
+      "question": "How did global real estate deal value change in 2024 compared to 2023?",
+      "answer": "It grew 11 percent."
+    },
+    {
+      "question": "What drove the partial rebound in global real estate deal value in 2024?",
+      "answer": "Rate cuts that created a less unfavorable financing environment, compression in capitalization (cap) rates, and reduced supply in sectors such as multifamily and industrial."
+    },
+    {
+      "question": "Why is organic cash generation key to managing leverage in private equity?",
+      "answer": "Given higher financing costs, companies have less headroom for mistakes than before, and rising interest rates and profitability challenges can be a toxic mix for companies."
+    },
+    {
+      "question": "How are portfolio companies preparing for exits?",
+      "answer": "By investing more in exit preparation, including growth and operational improvement initiatives ahead of the sale process, and conducting market studies to boost buyers' conviction on growth and value creation potential."
+    },
+    {
+      "question": "What was the global real estate deal value in 2024?",
+      "answer": "$707 billion."
+    },
+    {
+      "question": "What was the percentage change in global real estate deal value from 2023 to 2024?",
+      "answer": "11 percent."
+    },
+    {
+      "question": "What was the global closed-end fundraising total in 2024?",
+      "answer": "$104 billion."
+    },
+    {
+      "question": "By how much did global closed-end fundraising decline in 2024 compared to the previous year?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What was the return for closed-end real estate funds through the third quarter of 2024?",
+      "answer": "\u20131.1 percent."
+    },
+    {
+      "question": "What was the total return for data centers in 2024?",
+      "answer": "11.2 percent."
+    },
+    {
+      "question": "Which region recorded the highest year-over-year growth in transaction value in 2024?",
+      "answer": "Asia\u2013Pacific."
+    },
+    {
+      "question": "By how much did deal value increase in the multifamily sector in 2024?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What percentage of real estate assets under management were accounted for by GPs with operational capabilities in 2023?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "Which region recorded the highest year-over-year growth in transaction value for real estate dealmakers?",
+      "answer": "Asia\u2013Pacific"
+    },
+    {
+      "question": "What was the year-over-year growth in deal value for the Asia\u2013Pacific region?",
+      "answer": "13.7 percent"
+    },
+    {
+      "question": "What was the global real estate deal value growth from 2023 to 2024?",
+      "answer": "+11%"
+    },
+    {
+      "question": "Which sector in Asia\u2013Pacific saw a 60 percent growth in deal value?",
+      "answer": "Industrial real estate"
+    },
+    {
+      "question": "What drove the growth in industrial real estate deal value in Asia\u2013Pacific?",
+      "answer": "Supply chain reconfiguration and nearshoring strategies amid geopolitical shifts"
+    },
+    {
+      "question": "What were the factors that drove the partial recovery in global deal value?",
+      "answer": "Interest rate cuts, increase in the issuance of commercial mortgage-backed securities, reduction in borrowing costs, decline in supply, and cap rate compression"
+    },
+    {
+      "question": "By how much did construction starts in the United States' industrial sector decline in 2024?",
+      "answer": "32 percent"
+    },
+    {
+      "question": "What happened to the net asset value (NAV) of open-end funds in the United States in 2024?",
+      "answer": "It decreased by 14 percent"
+    },
+    {
+      "question": "By how much did the value decrease in 2024?",
+      "answer": "14 percent."
+    },
+    {
+      "question": "What was the decline in the previous year?",
+      "answer": "6 percent."
+    },
+    {
+      "question": "What drove the partial recovery in global deal value?",
+      "answer": "An increase in the issuance of commercial mortgage-backed securities and reduction in borrowing costs."
+    },
+    {
+      "question": "What was the growth in rent for multifamily properties by the close of the fourth quarter of 2024?",
+      "answer": "1.1 percent."
+    },
+    {
+      "question": "How much did rents grow for data centers in the United States in 2024?",
+      "answer": "12.7 percent."
+    },
+    {
+      "question": "What was the occupancy level of data centers in major markets?",
+      "answer": "More than 95 percent."
+    },
+    {
+      "question": "How much new leasing did hyperscalers drive in 2024?",
+      "answer": "More than 4,000 megawatts."
+    },
+    {
+      "question": "What percentage of the data center construction pipeline was preleased?",
+      "answer": "75 percent."
+    },
+    {
+      "question": "What was the occupancy rate for office spaces?",
+      "answer": "86 percent."
+    },
+    {
+      "question": "What is the stabilized yield-on-cost for data center development?",
+      "answer": "Exceeds 10 percent."
+    },
+    {
+      "question": "How much new leasing was driven by hyperscalers in 2024?",
+      "answer": "More than 4,000 megawatts."
+    },
+    {
+      "question": "What percentage of the data center construction pipeline was preleased?",
+      "answer": "75 percent."
+    },
+    {
+      "question": "What was the total data-center-critical IT demand in 2024?",
+      "answer": "60 gigawatts."
+    },
+    {
+      "question": "What is the projected annual data-center-critical IT demand by the end of the decade?",
+      "answer": "Around 171 to 219 gigawatts."
+    },
+    {
+      "question": "What is the unconstrained data center demand projected to be?",
+      "answer": "Well north of 250 gigawatts."
+    },
+    {
+      "question": "What is critical for GPs to capitalize on the demand for data centers?",
+      "answer": "Securing sites with reliable and cost-effective access to power."
+    },
+    {
+      "question": "What kind of relationships do GPs need to build to achieve competitive differentiation?",
+      "answer": "Deep, trusted relationships with hyperscaler tenants."
+    },
+    {
+      "question": "What is critical for GPs to achieve competitive differentiation in the market?",
+      "answer": "Building deep, trusted relationships with hyperscaler tenants."
+    },
+    {
+      "question": "Why are investors with operational capabilities gaining market share?",
+      "answer": "They are prioritizing strategies to grow net operating income at a time when GPs can no longer rely on just cap rate compression to create returns."
+    },
+    {
+      "question": "How have investors with operational capabilities grown over the past ten years?",
+      "answer": "Their share has grown by around 11 percentage points."
+    },
+    {
+      "question": "What is the total value of commercial real estate loans in the United States set to mature within the next three years?",
+      "answer": "Nearly $2.1 trillion out of $4.8 trillion."
+    },
+    {
+      "question": "What opportunities does the looming wall of maturities present for debt fund managers?",
+      "answer": "Meeting owners' capital needs, acquiring distressed assets at discounts, and offering creative financing solutions."
+    },
+    {
+      "question": "How can sophisticated capital allocators now create value through operations?",
+      "answer": "Using data and technology to embed their expertise more efficiently in the day-to-day management of a property."
+    },
+    {
+      "question": "How much commercial real estate loans in the United States are set to mature within the next three years?",
+      "answer": "Nearly $2.1 trillion of $4.8 trillion."
+    },
+    {
+      "question": "What was the decline in global closed-end fundraising in 2024?",
+      "answer": "Global closed-end fundraising declined by 28 percent to $104 billion."
+    },
+    {
+      "question": "How did opportunistic fundraising change in 2024?",
+      "answer": "Opportunistic fundraising declined by 31.5 percent to $37 billion."
+    },
+    {
+      "question": "What was the change in real estate debt fundraising in 2024?",
+      "answer": "Real estate debt fundraising declined by 44 percent."
+    },
+    {
+      "question": "What was the trend in closed-end core and core plus fundraising in 2024?",
+      "answer": "Closed-end core and core plus continued their descent to decade lows, declining by an aggregate of 27 percent year over year."
+    },
+    {
+      "question": "What was the total amount of closed-end real estate fundraising in 2024?",
+      "answer": "$104 billion."
+    },
+    {
+      "question": "By what percentage did real estate debt fundraising decline in 2024?",
+      "answer": "44 percent."
+    },
+    {
+      "question": "What percentage of respondents to the 2025 McKinsey LP Survey expressed an interest in investing in real estate debt in 2025?",
+      "answer": "63 percent."
+    },
+    {
+      "question": "How did the interest in investing in real estate debt change from the prior year to 2025 according to the McKinsey LP Survey?",
+      "answer": "It increased from 56 percent to 63 percent."
+    },
+    {
+      "question": "Why may investors find real estate debt appealing in a volatile market?",
+      "answer": "Because credit strategies have historically offered more stable returns and lower risk compared with equity investments."
+    },
+    {
+      "question": "What has amplified demand for alternative financing structures such as mezzanine debt and preferred equity?",
+      "answer": "The recent surge in loan maturities and the tightening of traditional bank lending."
+    },
+    {
+      "question": "Why hasn't overall fund formation occurred in the real estate debt segment despite several large funds closing?",
+      "answer": "Because many credit-oriented deals are being executed through broader special-situation or opportunistic vehicles rather than within real-estate-only strategies."
+    },
+    {
+      "question": "Where does responsibility for real estate credit allocations vary across LP organizations?",
+      "answer": "Within a credit team and other times within the real estate team."
+    },
+    {
+      "question": "What may be slowing capital formation in real estate credit?",
+      "answer": "A lack of standardized ownership of real estate credit within LP organizations."
+    },
+    {
+      "question": "Why may some institutional investors be allocating to real estate debt through direct investments rather than pooled vehicles?",
+      "answer": "The text does not directly state the reason, but it mentions that some institutional investors, such as life insurers and pension funds, are doing so."
+    },
+    {
+      "question": "What has happened to the spreads between mortgage rates and corporate credit yields?",
+      "answer": "They have compressed, potentially reducing the relative attractiveness of the substrategy for some investors."
+    },
+    {
+      "question": "What was the total net investor cash flow for open-end core funds in the United States in 2024?",
+      "answer": "$\u201312.0 billion."
+    },
+    {
+      "question": "How did net investor cash flows for open-end core funds in 2024 compare to 2023?",
+      "answer": "Net investor cash flows improved marginally in 2024, totaling \u2013$12.0 billion compared with the all-time low of \u2013$12.6 billion in 2023."
+    },
+    {
+      "question": "What is the trend in investor sentiment towards real estate investing?",
+      "answer": "Although investor sentiment remains cautious, confidence in real estate investing is beginning to improve relative to the prior year."
+    },
+    {
+      "question": "Where may some of the capital flowing out of open-end funds be making its way to?",
+      "answer": "Other commercial real estate strategies, such as opportunistic and value-add vehicles."
+    },
+    {
+      "question": "What was the total net outflow for US open-end funds in 2024?",
+      "answer": "$12 billion."
+    },
+    {
+      "question": "How did investor sentiment towards real estate investing change in 2024 relative to the prior year?",
+      "answer": "Confidence in real estate investing is beginning to improve relative to the prior year, although investor sentiment remains cautious."
+    },
+    {
+      "question": "What was the pooled IRR for real estate returns for the nine months ending September 30, 2024?",
+      "answer": "-1.1 percent."
+    },
+    {
+      "question": "How did the performance of the NCREIF Property Index in the United States change in 2024 compared to 2023?",
+      "answer": "The NCREIF Property Index posted positive total returns of 0.6 percent in 2024, compared with -7.6 percent in 2023."
+    },
+    {
+      "question": "What was the gross return for NCREIF's NFI-OE funds in 2024?",
+      "answer": "-1.6 percent."
+    },
+    {
+      "question": "Which alternative real estate sectors outperformed traditional sectors in 2024?",
+      "answer": "Data centers, manufactured housing, and senior housing."
+    },
+    {
+      "question": "What were the returns for data centers, manufactured housing, and senior housing in 2024?",
+      "answer": "Data centers posted an 11.2 percent return, manufactured housing achieved 11.7 percent, and senior housing achieved 5.6 percent returns."
+    },
+    {
+      "question": "Why are General Partners (GPs) expanding their real estate fundraising strategies?",
+      "answer": "To diversify their LP base, unlock new sources of scale, and extend their fundraising runway by tapping high-net-worth investors and insurance capital."
+    },
+    {
+      "question": "What was the gross return for NFI-OE funds in 2024?",
+      "answer": "\u20131.6 percent."
+    },
+    {
+      "question": "How many years have alternative sectors outperformed traditional sectors in total returns over the past decade?",
+      "answer": "Nine."
+    },
+    {
+      "question": "What were the returns for data centers, manufactured housing, and senior housing in 2024?",
+      "answer": "11.2 percent, 11.7 percent, and 5.6 percent, respectively."
+    },
+    {
+      "question": "Why have managers succeeded in alternative sectors like data centers and senior housing?",
+      "answer": "By building dedicated platforms and recognizing that the operational complexity of these assets demands specialized capabilities."
+    },
+    {
+      "question": "What is the trend among LPs in terms of deploying capital?",
+      "answer": "LPs are putting capital behind bold, conviction-driven thematic ideas such as decarbonization of the built environment, digital infrastructure, and demographic shifts."
+    },
+    {
+      "question": "What do LPs expect from GPs in terms of co-investment?",
+      "answer": "LPs expect GPs to co-invest meaningful capital from their balance sheet to assess manager conviction and long-term commitment."
+    },
+    {
+      "question": "What are LPs increasingly favoring in terms of manager capabilities?",
+      "answer": "LPs are increasingly favoring managers that can bridge the full breadth of their platforms, integrating capabilities across real estate, infrastructure, and credit."
+    },
+    {
+      "question": "What is the trend in LPs' relationships with GPs?",
+      "answer": "LPs continue to consolidate their relationships and work with fewer, more strategic partners."
+    },
+    {
+      "question": "How did private debt perform in 2024?",
+      "answer": "Private debt proved to be a resilient asset class in 2024."
+    },
+    {
+      "question": "What happened to global private debt fundraising in 2024?",
+      "answer": "Global private debt fundraising decreased by 22 percent to $166 billion."
+    },
+    {
+      "question": "What is driving investor interest in private debt?",
+      "answer": "The security derived from debt's privileged position in the capital structure has appealed to institutional investors, as well as retail and insurance capital pools."
+    },
+    {
+      "question": "What opportunities are emerging for private debt managers?",
+      "answer": "Over $620 billion in high-yield bonds and leveraged loans are set to approach maturity in 2026 to 2027, which could create refinancing opportunities and spur greater demand for private credit solutions."
+    },
+    {
+      "question": "What strategies should private debt managers adopt to position themselves well for the future?",
+      "answer": "Managers should remain disciplined in their underwriting, build capabilities in new asset classes, tap alternative capital sources, and translate geopolitical risks into credit opportunities."
+    },
+    {
+      "question": "What type of investors were attracted to private debt strategies in 2024?",
+      "answer": "Institutional investors, as well as retail and insurance capital pools."
+    },
+    {
+      "question": "How much in high-yield bonds and leveraged loans are set to approach maturity in 2026 to 2027?",
+      "answer": "Over $620 billion."
+    },
+    {
+      "question": "What was the year-over-year increase in new private debt issuance for LBOs in the United States and Europe combined?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What was the result of the increase in LBO transactions in 2024?",
+      "answer": "The global buyout deal value was up 16 percent."
+    },
+    {
+      "question": "By how many basis points did direct lending spreads compress in 2024?",
+      "answer": "120 basis points, to 550 basis points."
+    },
+    {
+      "question": "What was the difference between syndicated and direct lending spreads in 2024?",
+      "answer": "Around 180 basis points."
+    },
+    {
+      "question": "What was the change in the difference between syndicated and direct lending spreads from its 2022 peak?",
+      "answer": "Down 19 percent from its 2022 peak of 221 basis points."
+    },
+    {
+      "question": "What was the trend in direct lending's share of new-issue LBO financings in 2024?",
+      "answer": "Direct lending's share of new-issue LBO financings decreased from 88 percent to 84 percent in deal count and from 64 percent to 54 percent in deal value."
+    },
+    {
+      "question": "Why did syndicated lenders gain market share in LBO financing in 2024?",
+      "answer": "Syndicated lenders gained market share because larger LBO deals grew in value faster than smaller LBO deals, and syndicated lenders have a greater capacity to make large investments by syndicating risk across multiple parties."
+    },
+    {
+      "question": "What type of investments are private debt managers tapping more of?",
+      "answer": "Private debt managers are tapping more insurance and other permanent capital sources, such as business development companies (BDCs) and interval funds."
+    },
+    {
+      "question": "Why is private debt particularly well suited to insurers?",
+      "answer": "Private debt is well suited to insurers due to its predictable cash flows, long duration, and risk-adjusted returns, while allowing insurers to remain within regulatory guidelines."
+    },
+    {
+      "question": "What was the trend in unsecured debt issuances by BDCs tracked by Fitch from 2023 to 2024?",
+      "answer": "Unsecured debt issuances by BDCs tracked by Fitch nearly tripled from 2023 to 2024, reaching an all-time high."
+    },
+    {
+      "question": "Why is private debt well suited to insurers?",
+      "answer": "Private debt is particularly well suited to insurers due to its predictable cash flows, long duration, and risk-adjusted returns, all while allowing insurers to remain within regulatory guidelines."
+    },
+    {
+      "question": "What happened to unsecured debt issuances for BDCs tracked by Fitch from 2023 to 2024?",
+      "answer": "Unsecured debt issuances nearly tripled from 2023 to 2024, reaching an all-time high."
+    },
+    {
+      "question": "What is the impact of Basel IV on banks' lending practices?",
+      "answer": "Basel IV will require banks to increase capital reserves in a range of lending areas and may include new rules focused on liquidity, which could reduce banks' appetite for longer-duration loans."
+    },
+    {
+      "question": "Why are banks increasingly partnering with private debt GPs?",
+      "answer": "Banks are partnering with private debt GPs to gain exposure to economic activities that they hope to finance by becoming originators and distributors rather than end owners of risk."
+    },
+    {
+      "question": "What asset classes could increasingly shift to nonbank lenders?",
+      "answer": "Four asset classes that could increasingly shift to nonbank lenders are asset-backed finance segments, long-duration infrastructure and project finance assets, residential mortgages classified as 'nonconforming' under bank regulations, and high-risk commercial real estate."
+    },
+    {
+      "question": "What was the trend in financing for leveraged buyouts in 2024?",
+      "answer": "Financing for leveraged buyouts tilted toward syndicated lenders in 2024."
+    },
+    {
+      "question": "What will shape the future landscape of nonbank lending?",
+      "answer": "Evolving regulations will shape the future landscape of nonbank lending."
+    },
+    {
+      "question": "In 2024, where did private debt managers deploy capital beyond midsize and highly leveraged businesses?",
+      "answer": "Private debt managers deployed capital into a broader range of asset types."
+    },
+    {
+      "question": "What are the four asset classes that could increasingly shift to nonbank lenders?",
+      "answer": "The four asset classes are: asset-backed finance segments with higher-risk-adjusted yields, long-duration infrastructure and project finance assets, residential mortgages classified as 'nonconforming' under bank regulations, and high-risk commercial real estate."
+    },
+    {
+      "question": "How are banks increasingly partnering with private debt GPs?",
+      "answer": "Banks are partnering with private debt GPs to gain exposure to economic activities by becoming originators and distributors rather than end owners of risk."
+    },
+    {
+      "question": "What can GPs do to remain competitive in the new ecosystem of private credit?",
+      "answer": "GPs can establish or acquire origination and underwriting capabilities specific to new asset classes and diversify capital bases to include longer-duration or lower-return-threshold capital pools."
+    },
+    {
+      "question": "What was the trend in global private debt fundraising in 2024?",
+      "answer": "Global private debt fundraising decreased by 22 percent to $166 billion."
+    },
+    {
+      "question": "How did fundraising for direct lending perform in 2024?",
+      "answer": "Fundraising for direct lending grew by 2 percent year over year to $122 billion."
+    },
+    {
+      "question": "What was the percentage decline in global private debt fundraising in 2024?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "How much did mezzanine fundraising fall by in 2024?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What was the total global private debt fundraising in 2024?",
+      "answer": "$166 billion."
+    },
+    {
+      "question": "What percentage of private debt funds were raised by the top five managers in 2024?",
+      "answer": "38 percent."
+    },
+    {
+      "question": "How did North America's private debt fundraising change in 2024 compared to the previous year?",
+      "answer": "It fell by 18 percent."
+    },
+    {
+      "question": "What was the five-year CAGR of private debt fundraising in North America?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "Did 2024 mark a significant fundraising year for private debt despite the decline?",
+      "answer": "Yes, it was the fifth-largest fundraising year ever for the asset class."
+    },
+    {
+      "question": "What percentage of LPs expect to increase private debt target allocations over the next 12 months?",
+      "answer": "Forty-three percent."
+    },
+    {
+      "question": "What was the pooled net IRR for private debt in 2024?",
+      "answer": "6.6 percent."
+    },
+    {
+      "question": "How did private debt perform compared to private equity and real estate in 2024?",
+      "answer": "Private debt outperformed private equity and real estate."
+    },
+    {
+      "question": "What was the difference between top- and bottom-quartile private debt performance?",
+      "answer": "4.7 percent."
+    },
+    {
+      "question": "How did the dispersion of returns for private debt compare to other asset classes?",
+      "answer": "Private debt managers continued to provide investors with a narrower spread of returns relative to other asset classes."
+    },
+    {
+      "question": "What was the total annual private debt fundraising in 2024?",
+      "answer": "The exact figure is not mentioned, but it is shown in the chart that total annual fundraising fell in 2024."
+    },
+    {
+      "question": "What drove investors' interest in private debt?",
+      "answer": "Private debt's perceived superior risk-adjusted returns and investors' desire for portfolio diversification."
+    },
+    {
+      "question": "What was the trend in private debt default rates in 2024?",
+      "answer": "The default rate increased marginally in 2024."
+    },
+    {
+      "question": "What was the default rate for private debt in the fourth quarter of 2024?",
+      "answer": "Approximately 2.7 percent."
+    },
+    {
+      "question": "How did the default rate for private debt change from the first quarter to the fourth quarter of 2024?",
+      "answer": "The default rate rose from 1.8 percent in the first quarter to approximately 2.7 percent in the fourth quarter."
+    },
+    {
+      "question": "What was the default rate for broadly syndicated loans as of year-end 2024?",
+      "answer": "4.7 percent."
+    },
+    {
+      "question": "How did fundraising for infrastructure funds change in 2024 compared to 2023?",
+      "answer": "Fundraising was down 15 percent year over year."
+    },
+    {
+      "question": "What happened to deal value in infrastructure in 2024 compared to 2023?",
+      "answer": "Deal value increased by 18 percent over the prior year."
+    },
+    {
+      "question": "What was the level of dry powder for infrastructure as of the first half of 2024?",
+      "answer": "$418 billion."
+    },
+    {
+      "question": "What was the percentage increase in deal value in 2024 compared to the prior year?",
+      "answer": "18 percent."
+    },
+    {
+      "question": "What was the percentage increase in deal count in 2024 compared to 2023?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "What was the dry powder amount as of the first half of 2024?",
+      "answer": "$418 billion."
+    },
+    {
+      "question": "Which asset class did the greatest number of investors want to increase allocations in over the next 12 months, according to the McKinsey LP Survey?",
+      "answer": "Infrastructure."
+    },
+    {
+      "question": "What was the global trade value in 2024?",
+      "answer": "Nearly $33 trillion."
+    },
+    {
+      "question": "How much is the total of new physical assets for clean energy and enabling infrastructure expected to reach per year by 2050?",
+      "answer": "Approximately $6.5 trillion."
+    },
+    {
+      "question": "What was the percentage increase in retail sale of electricity in the United States in 2024 from a year prior?",
+      "answer": "2 percent."
+    },
+    {
+      "question": "What percentage of aggregate infrastructure deals by value in 2024 were telecom sector deals?",
+      "answer": "16 percent."
+    },
+    {
+      "question": "What percentage of telecom deals were data centers in 2024?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "What primarily drove the growth in telecom deals in 2024?",
+      "answer": "Rising demand for fiber networks and data centers."
+    },
+    {
+      "question": "What percentage of telecom deals were composed of data centers in 2024?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "What was the percentage of telecom deals that were data centers in 2015?",
+      "answer": "2 percent."
+    },
+    {
+      "question": "What percentage of infrastructure deal value was represented by renewable energy in 2024?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "What was the projected demand for data center power by 2030 according to McKinsey's demand model in 2024?",
+      "answer": "219 gigawatts."
+    },
+    {
+      "question": "What was the demand for data center power in 2024?",
+      "answer": "66 gigawatts."
+    },
+    {
+      "question": "What was the annual growth rate of demand for data center power projected by McKinsey's demand model?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "What percentage of infrastructure deal value was accounted for by the transport sector in 2015?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "What are the three main trends for infrastructure dealmakers and operators to consider according to the analysis?",
+      "answer": "Convergence of energy and digital, emphasis on value creation, and increase in investment in services."
+    },
+    {
+      "question": "How much was globally raised for infrastructure and natural resources in 2024?",
+      "answer": "$106 billion."
+    },
+    {
+      "question": "What was the percentage decline in global infrastructure fundraising from 2023 to 2024?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "How many infrastructure and natural resources funds were raised in 2024 compared to the prior year?",
+      "answer": "115 funds were raised in 2024, down from 147 in the prior year."
+    },
+    {
+      "question": "How long were funds in the market in 2024, on average?",
+      "answer": "A record high of 26 months."
+    },
+    {
+      "question": "What proportion of dollars raised in 2024 came from first-time funds?",
+      "answer": "1 percent."
+    },
+    {
+      "question": "Why might the decline in fundraising be attributed to?",
+      "answer": "Scale, as larger funds tend to influence fundraising to a great extent in infrastructure."
+    },
+    {
+      "question": "What was the percentage of total infrastructure fundraising that value-added vehicles accounted for in 2024?",
+      "answer": "34 percent."
+    },
+    {
+      "question": "What was the change in fundraising in Europe in 2024 compared to the previous year?",
+      "answer": "Europe experienced a 40 percent year-over-year increase in fundraising."
+    },
+    {
+      "question": "How did North America's fundraising change in 2024 compared to the previous year?",
+      "answer": "North America experienced a 57 percent year-over-year decline in fundraising."
+    },
+    {
+      "question": "What was the one-year pooled net IRR of infrastructure in 2024?",
+      "answer": "6.1 percent."
+    },
+    {
+      "question": "How many of the largest historical fundraisers did not close a fund in 2024?",
+      "answer": "Two."
+    },
+    {
+      "question": "What was the ten-year trailing average percentage of total infrastructure fundraising for value-added vehicles before 2024?",
+      "answer": "19 percent."
+    },
+    {
+      "question": "What percentage of total infrastructure fundraising was accounted for by core-plus vehicles in 2024?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "What was the average annual return for infrastructure since 2000?",
+      "answer": "Approximately 9 percent."
+    },
+    {
+      "question": "What was the growth of fundraising that used the value-added strategy for infrastructure in 2024 compared to other strategies?",
+      "answer": "The growth of fundraising that used the value-added strategy for infrastructure was higher than the growth of other strategies."
+    },
+    {
+      "question": "What was the one-year pooled net IRR of infrastructure as a private asset class in 2024?",
+      "answer": "6.1 percent."
+    },
+    {
+      "question": "What proportion of infrastructure deals were brownfield and greenfield projects in 2024?",
+      "answer": "52 percent, the highest proportion on record."
+    },
+    {
+      "question": "What percentage of respondents in the McKinsey LP Survey indicated a desire to increase allocation to infrastructure over the next 12 months?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "Which infrastructure strategy was most favored by survey respondents in the McKinsey LP Survey?",
+      "answer": "The value-added strategy."
+    },
+    {
+      "question": "What was the average annual return of infrastructure since 2000?",
+      "answer": "Approximately 9 percent."
+    },
+    {
+      "question": "What percentage of respondents in the McKinsey LP Survey plan to increase their allocation to infrastructure over the next 12 months?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "Which infrastructure strategy is most favored by survey respondents?",
+      "answer": "The value-added strategy."
+    },
+    {
+      "question": "What percentage of respondents plan to increase their allocations to the infrastructure value-added strategy?",
+      "answer": "44 percent."
+    },
+    {
+      "question": "Which group of investors has the highest targeted allocation to infrastructure?",
+      "answer": "Pension funds."
+    },
+    {
+      "question": "Which group of investors shows the greatest desire to increase target allocations to infrastructure over the next 12 months?",
+      "answer": "Family offices."
+    },
+    {
+      "question": "Why are family offices likely driven to increase their target allocations to infrastructure?",
+      "answer": "They are willing to accept longer hold periods and have a lower need for short-term liquidity."
+    },
+    {
+      "question": "What are the secular drivers of infrastructure investment opportunities?",
+      "answer": "More people, more activity, and limited government balance sheets."
+    },
+    {
+      "question": "What was the growth rate of total AUM across private market asset classes between 2000 and 2023?",
+      "answer": "The total AUM across private market asset classes increased almost 20-fold, reflecting a CAGR of 13 percent between 2000 and 2023."
+    },
+    {
+      "question": "What was the growth rate of AUM for private markets between year-end 2023 and the first three-quarters of 2024?",
+      "answer": "AUM for private markets grew by just 1 percent between year-end 2023 and the first three-quarters of 2024."
+    },
+    {
+      "question": "What are the three types of nontraditional capital considered in the article?",
+      "answer": "The three types of nontraditional capital are: higher-liquidity products, such as open-end funds; LP demand-driven products, such as separately managed accounts (SMAs) and co-investments; and permanent capital, such as insurance capital."
+    },
+    {
+      "question": "How much did the three sources of nontraditional capital contribute to AUM in 2024?",
+      "answer": "The three sources of capital contributed approximately $7 trillion to $8 trillion in AUM in 2024."
+    },
+    {
+      "question": "Why are alternative sources of capital proliferating?",
+      "answer": "Alternative capital pools are gaining traction for three main reasons: GPs and regulators are democratizing access to private markets for retail investors, developing more customized investment solutions for institutional investors, and the private market universe is expanding with a greater number of new managers and active firms."
+    },
+    {
+      "question": "What regulatory changes were introduced in the United States in 2020 regarding private capital investment?",
+      "answer": "Regulatory changes allowing 401(k) plans to invest in alternative investment funds were introduced in the United States in 2020."
+    },
+    {
+      "question": "When did the update to the European Long-Term Investment Fund regulation take effect?",
+      "answer": "2024."
+    },
+    {
+      "question": "What has helped some retail investors overcome regulatory and logistical obstacles to investing in alternative investments?",
+      "answer": "Supply-side innovation, including aggregators and fund administration services."
+    },
+    {
+      "question": "How many private market firms are active globally, according to the text?",
+      "answer": "More than 17,000."
+    },
+    {
+      "question": "By how much has the number of active private market firms increased over the past decade?",
+      "answer": "2.4 times."
+    },
+    {
+      "question": "What is the estimated amount added to global private capital AUM by alternative sources of capital in 2024?",
+      "answer": "$7 trillion to $8 trillion."
+    },
+    {
+      "question": "What percentage of total private market assets under management did alternative forms of capital represent in 2024?",
+      "answer": "Nearly 33 percent."
+    },
+    {
+      "question": "What was the approximate total global private capital AUM in 2024?",
+      "answer": "$22 trillion."
+    },
+    {
+      "question": "What is the estimated amount added to global private capital AUM by alternative sources of capital in 2024?",
+      "answer": "$7 trillion to $8 trillion."
+    },
+    {
+      "question": "What percentage of total private market assets under management did alternative forms of capital represent in 2024?",
+      "answer": "Nearly 33 percent."
+    },
+    {
+      "question": "What was the estimated growth rate of alternative capital sources from 2020 to 2024?",
+      "answer": "16 to 18 percent annually."
+    },
+    {
+      "question": "How much AUM do primary or secondary funds of funds represent?",
+      "answer": "An estimated additional $2 trillion."
+    },
+    {
+      "question": "What is the approximate AUM of liquid-alternative funds?",
+      "answer": "$1 trillion."
+    },
+    {
+      "question": "What was the growth rate of traditional AUM in 2024?",
+      "answer": "1 percent."
+    },
+    {
+      "question": "What type of investors ideally want private market returns with public-market liquidity?",
+      "answer": "Retail investors."
+    },
+    {
+      "question": "What type of investors typically want private market returns with public-market liquidity?",
+      "answer": "Retail investors."
+    },
+    {
+      "question": "What are the different types of higher-liquidity vehicles mentioned in the text?",
+      "answer": "Evergreen funds, real estate investment trusts that aren\u2019t traded on an exchange, interval funds, tender offer funds, and BDCs that aren\u2019t traded on any exchange."
+    },
+    {
+      "question": "What is the estimated AUM of higher-liquidity vehicles?",
+      "answer": "$1 trillion to $1.5 trillion."
+    },
+    {
+      "question": "What is the growth rate of AUM dedicated to SMAs since 2020?",
+      "answer": "16 to 18 percent per year."
+    },
+    {
+      "question": "Why are LPs interested in co-investment opportunities?",
+      "answer": "They can double down on their exposure to particular investments and reduce their fee payments."
+    },
+    {
+      "question": "What is the estimated AUM driven by co-investment in 2024?",
+      "answer": "More than $2.5 trillion."
+    },
+    {
+      "question": "Where is permanent capital largely sourced from?",
+      "answer": "Insurance companies."
+    },
+    {
+      "question": "What is the estimated size of private capital AUM from insurance capital pools?",
+      "answer": "$1.5 trillion to $2 trillion."
+    },
+    {
+      "question": "What is the estimated size of private capital AUM from insurance capital pools?",
+      "answer": "$1.5 trillion to $2 trillion."
+    },
+    {
+      "question": "How has the size of private capital AUM from insurance capital pools changed since 2020?",
+      "answer": "It has grown by nearly 10 percent annually."
+    },
+    {
+      "question": "What are the two ways GPs can set themselves up for success in fundraising?",
+      "answer": "By restructuring and growing their fundraising team and by switching to a solution mindset."
+    },
+    {
+      "question": "What is the current state of the global backlog of sponsor-owned assets in their divestment period?",
+      "answer": "It is bigger than at any point in the past two decades\u2014in terms of value, count, and as a share of total portfolio companies."
+    },
+    {
+      "question": "How many companies had been under PE ownership for more than four years in 2024?",
+      "answer": "More than 18,000."
+    },
+    {
+      "question": "What was the average hold time for buyout assets in 2024?",
+      "answer": "6.7 years."
+    },
+    {
+      "question": "How many companies had been under PE ownership for more than four years in 2024?",
+      "answer": "More than 18,000 companies."
+    },
+    {
+      "question": "What was the average hold time for buyout assets in 2024?",
+      "answer": "6.7 years."
+    },
+    {
+      "question": "Why are PE sponsors anxious to sell their assets?",
+      "answer": "For several reasons, including the need to make fundraising easier for GPs by enabling distributions to LPs, and to avoid jeopardizing returns due to extended holding periods."
+    },
+    {
+      "question": "What is distributed to paid-in capital (DPI), and why is it important to LPs?",
+      "answer": "DPI is a measure of the total capital returned by a private equity fund to its investors. It has become a key performance metric for LPs, tied with MOIC as the second-most-important performance metric after IRR."
+    },
+    {
+      "question": "Why is the increase in buyout entry multiples a challenge for GPs?",
+      "answer": "Because investors are paying more to buy assets, they need to sell them at higher prices to deliver the same returns, placing a greater value creation burden on operators."
+    },
+    {
+      "question": "What has become a key performance metric for limited partners?",
+      "answer": "Distributed to paid-in capital."
+    },
+    {
+      "question": "By how much were the marks of maturing assets above market-clearing prices in 2024?",
+      "answer": "17 percent."
+    },
+    {
+      "question": "What is one factor explaining the exit challenges in the current market environment?",
+      "answer": "A mismatch between buyer and seller price expectations."
+    },
+    {
+      "question": "What was the change in the percentage of respondents who considered DPI as the most critical metric three years ago versus today?",
+      "answer": "+13 percentage points."
+    },
+    {
+      "question": "How have buyout entry multiples changed in the past 15 years?",
+      "answer": "They have nearly doubled."
+    },
+    {
+      "question": "What was the percentage of marks of maturing assets above clearing prices in 2020 and 2018?",
+      "answer": "4 percent and 3 percent, respectively."
+    },
+    {
+      "question": "Which PE subsectors showed the highest pricing mismatches in 2024?",
+      "answer": "Consumer discretionary and technology assets, with average holding valuations at 129 percent and 126 percent of market purchase prices, respectively."
+    },
+    {
+      "question": "Why is selling assets especially difficult for large sponsors?",
+      "answer": "Because they tend to buy bigger companies with more constrained exit options, and there are fewer sponsors or corporates that can purchase larger companies."
+    },
+    {
+      "question": "At what stage do leading GPs start thinking about the exit?",
+      "answer": "Even before acquiring an asset, during the diligence process."
+    },
+    {
+      "question": "What is the main factor that determines the approaches to exit preparation?",
+      "answer": "The stage of the asset life cycle and the likely exit pathways."
+    },
+    {
+      "question": "Were all PE subsectors consistent in their elevated marks in 2024?",
+      "answer": "Yes, all PE subsectors tracked by Hamilton Lane showed uniform consistency in elevated marks in 2024."
+    },
+    {
+      "question": "When do leading GPs typically start thinking about exiting an asset?",
+      "answer": "Even before acquiring an asset."
+    },
+    {
+      "question": "What are the stages of the investment life cycle where GPs can build exit preparation?",
+      "answer": "The diligence process, the holding period, and the divestment stage."
+    },
+    {
+      "question": "What is the purpose of a midcycle Value Creation Plan (VCP) in PE?",
+      "answer": "To unlock a second S-curve of performance improvement after the impact of the post-close VCP has plateaued."
+    },
+    {
+      "question": "How can GPs prepare an equity story at exit?",
+      "answer": "By reflecting all the value creation efforts done to improve the asset's performance, highlighting the asset's performance, and showing the groundwork laid for the next one to two horizons of value creation."
+    },
+    {
+      "question": "What percentage of global PE-backed exits were IPOs for assets valued at or above $500 million in 2024?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "Why are larger assets more suited for public flotation than smaller ones?",
+      "answer": "Because the bigger the company, the fewer the sponsors or companies able to purchase it."
+    },
+    {
+      "question": "What percentage of global PE-backed exits were IPOs for assets valued at or above $500 million in 2024?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "What is one way GPs can prepare for a sponsor-to-sponsor exit?",
+      "answer": "By communicating the uncaptured value creation potential of an asset."
+    },
+    {
+      "question": "What type of growth strategy may be more suitable for a lower-middle-market asset compared to a large-cap asset?",
+      "answer": "A buy-and-build strategy."
+    },
+    {
+      "question": "What is required for a successful IPO exit?",
+      "answer": "A consistent track record of organic growth for the asset and a clear and simple equity story."
+    },
+    {
+      "question": "Why should GPs be flexible in planning their exit strategy?",
+      "answer": "To not preclude assets from unanticipated exit avenues that could provide greater value."
+    },
+    {
+      "question": "What is a key factor for GPs to reap the highest rewards from exits?",
+      "answer": "Mastering the exit playbook through all stages of the asset life cycle and positioning the asset for exit from the beginning."
+    },
+    {
+      "question": "What have investors historically done to allocate capital in the private market industry?",
+      "answer": "Investors have historically allocated capital alongside GPs either through commingled funds or co-invest structures."
+    },
+    {
+      "question": "What are the limitations of the traditional commingled-fund approach?",
+      "answer": "The traditional commingled-fund approach has limitations, including difficulty gaining exposure to trends that private market firms capitalize on, illiquidity of private capital investments, and challenges for investors to remain allocated to an investment beyond the fund's maturity limit."
+    },
+    {
+      "question": "What two investment strategies have emerged to resolve the challenges of traditional private market investments?",
+      "answer": "The two investment strategies that have emerged are secondaries and GP stakes."
+    },
+    {
+      "question": "Why have GPs and LPs embraced secondaries as a liquidity channel?",
+      "answer": "GPs and LPs have embraced secondaries as a liquidity channel due to a challenging exit environment and many managers sitting on a vast number of unsold assets."
+    },
+    {
+      "question": "What is the benefit of the GP stakes strategy for LPs?",
+      "answer": "The GP stakes strategy provides LPs with exposure to the long-term economics of the private market industry, including management fees, fund performance, and growing assets under management."
+    },
+    {
+      "question": "How do secondaries allow investors to access older vintage investments?",
+      "answer": "Secondaries allow investors to access older vintage investments by typically purchasing at a discount to the net asset value (NAV) of the stake purchased."
+    },
+    {
+      "question": "What are the benefits of secondaries for LPs?",
+      "answer": "Secondaries empower LPs to fulfill their liquidity requirements, rebalance their portfolios, invest in diversified sets of private capital funds, and adjust their allocations when needed."
+    },
+    {
+      "question": "What was the total secondaries deal volume in 2024?",
+      "answer": "$162 billion."
+    },
+    {
+      "question": "How much did LP-led secondaries rise to in 2024?",
+      "answer": "$87 billion."
+    },
+    {
+      "question": "What was the percentage increase in LP-led secondaries in 2024?",
+      "answer": "45 percent."
+    },
+    {
+      "question": "How much did GP-led secondaries rise to in 2024?",
+      "answer": "$75 billion."
+    },
+    {
+      "question": "What percentage of GP-led deals were continuation vehicles?",
+      "answer": "Nearly 84 percent."
+    },
+    {
+      "question": "What was the total fundraising for secondaries in 2024?",
+      "answer": "$65 billion."
+    },
+    {
+      "question": "What is the average percentage of aggregate fundraising accounted for by the top ten GPs over the past decade?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What were the top three assessment criteria for potential secondaries investments according to the McKinsey LP survey?",
+      "answer": "The discount to NAV, the track record and reputation of the GP, and the potential value creation in the remaining portfolio companies."
+    },
+    {
+      "question": "What are the top three assessment criteria for potential secondaries investments according to the McKinsey LP survey?",
+      "answer": "The discount to NAV, the track record and reputation of the GP, and the potential value creation in the remaining portfolio companies."
+    },
+    {
+      "question": "How did global secondaries fundraising perform in 2024?",
+      "answer": "Secondaries fundraising reached its third-highest fundraising peak in 2024."
+    },
+    {
+      "question": "What was the overall secondaries pricing as a percentage of NAV across all private market asset classes in 2024?",
+      "answer": "Secondaries pricing as a percentage of NAV across all private market asset classes rose to 89 percent in 2024."
+    },
+    {
+      "question": "Which private market asset class traded at the highest percentage of NAV in 2024?",
+      "answer": "Buyout secondaries traded at the highest percentage of NAV at 94 percent."
+    },
+    {
+      "question": "How have returns of secondaries funds compared to those of private equity over the past three vintages?",
+      "answer": "Returns of secondaries funds have been higher than those of private equity on average over the past three vintages."
+    },
+    {
+      "question": "Why do secondaries funds offer a hedge to the industry?",
+      "answer": "During bear years, the discount at which you can make secondaries trades rises, driving up returns; during stronger years, the discount reduces, leading to fewer opportunities for multiple expansion."
+    },
+    {
+      "question": "How have the returns of secondaries funds compared to those of private equity over the past three vintages?",
+      "answer": "Returns of secondaries funds have been higher than those of private equity on average over the past three vintages."
+    },
+    {
+      "question": "What is the correlation between the pricing of secondary stakes and the fund's performance?",
+      "answer": "There is a correlation between the pricing of secondary stakes and the fund's performance, as shown in Exhibit 4."
+    },
+    {
+      "question": "How do secondaries funds perform in terms of median return compared to other private capital asset classes?",
+      "answer": "Secondaries funds posted the highest median return among private capital asset classes."
+    },
+    {
+      "question": "What is the relative risk/return profile for secondaries funds compared to other asset classes?",
+      "answer": "Secondaries funds have a strong relative risk/return profile, with a median return more than five percentage points higher than for private debt and infrastructure, which have lower return dispersions."
+    },
+    {
+      "question": "How does the liquidity profile of secondaries funds compare to other private capital funds?",
+      "answer": "Secondaries funds offer a stronger liquidity profile than most other private capital funds, with net cash flow for the median secondaries fund turning positive in year eight."
+    },
+    {
+      "question": "What is the typical nature of GP stakes investments?",
+      "answer": "GP stakes investments typically involve acquiring minority equity stakes, but in rare cases, buyers can acquire controlling stakes in GPs as well."
+    },
+    {
+      "question": "What benefits can a GP gain from selling stakes in their entity?",
+      "answer": "By selling stakes in their entity, a GP can secure capital for strategic uses, such as investing in infrastructure for scaling the business or building new products."
+    },
+    {
+      "question": "What role can an entity investing in GP stakes play in the staked firm?",
+      "answer": "The entity investing in GP stakes can serve as a strategic partner that provides the staked firm with distinct perspectives and capabilities, and can even assist with succession planning at the GP."
+    },
+    {
+      "question": "What is the benefit for LPs investing in GP stakes?",
+      "answer": "Investing in GP stakes can open new investment opportunities for LPs, particularly given the significant tailwinds powering growth in the private capital industry."
+    },
+    {
+      "question": "What percentage of respondents in the McKinsey LP survey invest in GP stakes funds?",
+      "answer": "43 percent of the respondents said they invest in GP stakes funds."
+    },
+    {
+      "question": "How much was raised in 2024 for GP stakes fundraising?",
+      "answer": "In 2024, fundraising for the GP stakes strategy reached $4.4 billion."
+    },
+    {
+      "question": "How does the performance of GP stakes funds compare to buyout funds?",
+      "answer": "The median performance of GP stakes funds is consistent with buyouts, but the difference between the top and bottom quartiles is far more modest for GP stakes funds (IRR of 7.9) compared with buyout funds (IRR of 13.1)."
+    },
+    {
+      "question": "What was the number of GP stakes funds being raised in 2024?",
+      "answer": "The number of GP stakes funds being raised reached its highest number ever in 2024, with 11 fund closings."
+    },
+    {
+      "question": "What is the median performance of GP stakes funds for the 2012\u201321 vintage funds?",
+      "answer": "The median performance of GP stakes funds is consistent with buyouts."
+    },
+    {
+      "question": "How does the return dispersion of GP stakes funds compare to buyout funds?",
+      "answer": "GP stakes funds exhibit a lower return dispersion compared with buyout funds."
+    },
+    {
+      "question": "What is the IRR spread between the top and bottom quartiles for GP stakes funds and buyout funds?",
+      "answer": "For GP stakes funds, the IRR spread is 7.9, compared with 13.1 for buyout funds."
+    },
+    {
+      "question": "What is the median IRR for GP stakes funds and buyout funds for the 2012\u201321 vintage funds?",
+      "answer": "The median IRR for GP stakes funds is around 16.8%, and for buyout funds, it is around 17.5%."
+    },
+    {
+      "question": "What new capabilities may LPs and GPs need to build to invest effectively in secondaries and GP stakes?",
+      "answer": "LPs and GPs may need to build new capabilities such as effective due diligence of the manager, data strategy to benchmark manager performance, and sourcing strategies to identify emerging GPs."
+    },
+    {
+      "question": "What do GPs need to do to effectively evaluate managers?",
+      "answer": "They need to engage in effective due diligence, including appropriate valuation, and estimate the long-term strategic positioning of managers."
+    },
+    {
+      "question": "What is one way GPs can gain knowledge and capabilities from new investment partners?",
+      "answer": "By embracing the idea of partnership with other managers through GP stakes transactions."
+    },
+    {
+      "question": "Who are the lead authors of the report?",
+      "answer": "Alexander Edlich, Aditya Sanghvi, and Joseba Eceiza."
+    },
+    {
+      "question": "What is the name of the practice that published the report?",
+      "answer": "McKinsey\u2019s Private Capital Practice."
+    },
+    {
+      "question": "How can one subscribe to McKinsey's Private Capital Practice publications?",
+      "answer": "By writing to Investing@McKinsey.com."
+    },
+    {
+      "question": "What is the title of one of the recent articles published by McKinsey's Private Capital Practice in April 2025?",
+      "answer": "\u201cThematic investing: A win\u2013win for private equity and the planet\u201d."
+    },
+    {
+      "question": "What is suggested for GPs to gain knowledge and capabilities?",
+      "answer": "Embracing the idea of partnership with other managers through GP stakes transactions to gain knowledge and capabilities from new investment partners."
+    },
+    {
+      "question": "Who are the lead authors of the report?",
+      "answer": "Alexander Edlich, Aditya Sanghvi, and Joseba Eceiza are among the lead authors."
+    },
+    {
+      "question": "What is the name of the practice that published the report?",
+      "answer": "McKinsey's Private Capital Practice."
+    },
+    {
+      "question": "How can one subscribe to McKinsey's Private Capital Practice publications?",
+      "answer": "By writing to Investing@McKinsey.com."
+    },
+    {
+      "question": "Who contributed to the research and analysis of the report?",
+      "answer": "Andrea Cappo, Anna Glasgow, Charlie Regan, Francisca Sanhudo, Gonzalo de C\u00e1rdenas, Martyna Kus, Samuel Musmanno, Surya Tahliani, and Yash Kejriwal (project lead) contributed to the research and analysis."
+    },
+    {
+      "question": "What are some of the sources used for the report's data?",
+      "answer": "Sources include Bloomberg, Cerulli, CoStar, Fitch Ratings, Green Street, Infralogic, Jefferies Financial, Mortgage Bankers Association, MSCI Private Capital Solution, NCREIF, PitchBook, Preqin, Proskauer Rose, Real Capital Analytics, and Sovereign Wealth Fund Institute."
+    },
+    {
+      "question": "What type of firm is McKinsey & Company?",
+      "answer": "McKinsey is a global management-consulting firm."
+    },
+    {
+      "question": "What is McKinsey\u2019s Private Capital Practice?",
+      "answer": "McKinsey\u2019s Private Capital Practice is the leading management-consulting partner to investors, managers, and other stakeholders across private markets."
+    },
+    {
+      "question": "What is the scope of work for McKinsey\u2019s Private Capital Practice?",
+      "answer": "Their work spans the full fund cycle, including prefinancing, sourcing strategies, commercial and operational due diligence, post-investment performance transformation, digital business building, portfolio review, buyout and exit strategies, and firm-level strategy and organization."
+    },
+    {
+      "question": "Who does McKinsey\u2019s Private Capital Practice serve?",
+      "answer": "They serve GPs in infrastructure, PE, real estate credit, and beyond, as well as institutional investors, including endowments, family offices, pensions, and sovereign-wealth funds."
+    },
+    {
+      "question": "When was the publication 'Braced for shifting weather' copyrighted?",
+      "answer": "The publication was copyrighted in May 2025."
+    }
+  ]
+}

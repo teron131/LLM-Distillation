@@ -1,0 +1,2729 @@
+Global Materials 
+Perspective 2024
+
+September 2024
+
+About this report
+
+The Global Materials Perspective 2024 is produced by McKinsey’s Global Energy & 
+Materials Practice. Building on McKinsey’s 2023 report on the materials transition, The 
+net-zero materials transition: Implications for global supply chains, this report explores 
+materials demand across three energy transition scenarios (differentiated by the speed of 
+the transition) as well as two supply scenarios (based on asset level insights) modeled by 
+McKinsey Metal&MineSpans, and aims to provide insights into the changing availability, 
+affordability, and sustainability of materials critical to the energy transition.
+
+While the materials industry spans a broad range of subindustries—including metals and 
+mining, building materials (concrete and cement, glass, and others), plastics, and pulp 
+and paper—this report primarily focuses on metals and mining, a subindustry that can be 
+categorized loosely along the following long-term demand trends driven by the energy 
+transition: 
+
+1.  Materials for which demand is only to a small extent driven by the speed of the energy 
+transition and which are consequently trending more or less in line with the growth of 
+global GDP and the middle class (for example, steel and aluminum)
+
+2.  Materials for which demand is largely and positively impacted by the energy transition 
+
+because they are embedded to a greater extent in one or several low-carbon 
+technologies compared with conventional technologies, and are therefore frequently 
+growing faster than in the previous decade (for example, copper, lithium, and rare earth 
+elements [REEs])
+
+3.  Materials for which demand is largely and negatively impacted by the energy transition 
+because they are fundamental to conventional technologies, which are gradually being 
+phased out (the prime example here is thermal coal)
+
+The Global Materials Perspective 2024 encompasses all these categories but primarily 
+illustrates trends for those materials, such as battery materials, that are critical for the at-
+scale deployment of low-carbon technologies, and that are collectively referred to as “energy 
+transition materials” throughout this report. 
+
+2          Global Materials Perspective 2024
+
+About Metal&MineSpans: Metal&MineSpans is the Metals & Mining market intelligence 
+solution of McKinsey, combining expertise with proprietary data. Metal&MineSpans provides 
+information on mining and metals production costs and cost curves, CO₂ emissions, and 
+supply and demand for 15 materials, based on a bottom-up analytical approach that focuses 
+on asset level data and analytics. The solution aggregates detailed data for more than 11,000 
+assets from the mine or asset level up to the global market level to provide insights on the 
+fundamental market drivers. Our insights are based on a comprehensive database built 
+bottom up from referenced public data, proprietary information, and advanced analytics 
+models, backed by McKinsey’s more than 85 years of global Metals & Mining expertise.
+
+About the Global Energy & Materials Practice: McKinsey’s Global Energy & Materials 
+Practice deploys its deep insights, functional capabilities, and proprietary benchmark and 
+data solutions across the converging energy, materials, and natural resources supply chains 
+to help create substantial and long-lasting value for stakeholders. Guided by advanced 
+analytics and the power of a global team, it brings distinctive industry perspectives across 
+sectors that support today’s critical infrastructure ecosystems. The practice is proud to have 
+partnered with hundreds of major industry players as the leading and most integrated advisor 
+on strategic and functional transformations, enabling clients to accelerate decarbonization 
+and realize the energy, materials, and food transitions.
+
+About McKinsey & Company: McKinsey is a global management consulting firm committed 
+to helping organizations accelerate sustainable and inclusive growth. We work with 
+clients across the private, public, and social sectors to solve complex problems and create 
+positive change for all their stakeholders. We combine bold strategies and transformative 
+technologies to help organizations innovate more sustainably, achieve lasting gains in 
+performance, and build workforces that will thrive for this generation and the next.
+
+About the supply scenarios
+McKinsey Metal&MineSpans’ supply scenarios are based on our research on 
+the maturity and likelihood of individual projects in materials.
+
+Research
+components
+
+11,000+
+assets
+
+130+
+countries
+
+13
+cost and CO₂ factors
+
+10+
+year outlook
+
+Supply scenarios 
+
+Included in scenario
+
+Not included
+
+Project status
+
+Status description
+
+Base case
+
+High case
+
+Full pipeline
+
+In operation
+
+Projects currently operating,
+corrected for depleting assets
+
+Certain
+
+Probable
+
+Possible¹
+
+Unlikely
+
+Projects currently under construction
+or with feasibility study completed
+and financing secured
+
+Projects with feasibility study under
+development; start-up date adjusted
+for likelihood of execution
+
+Projects with prefeasibility study
+completed; start-up date adjusted
+for likelihood of execution
+
+Projects with prefeasibility study
+completed, yet clear roadblocks
+identified
+
+1.5 million+
+data points
+
+Unrealistic/
+in exploration
+
+Any project that has been
+announced
+
+1Some prefeasibility study projects may also be included in “Probable” category in case the project’s characteristics and expectations are robust.
+Source: McKinsey Metal&MineSpans
+
+Scenario used throughout
+publication unless explicitly stated
+
+McKinsey & Company
+
+3        Global Materials Perspective 2024
+
+The supply scenarios explored in this publication 
+are based on our research on the maturity and 
+likelihood of individual projects in the metals and 
+mining industry. The research is anchored in our 
+Metal&MineSpans database, which contains more 
+than 11,000 assets across more than 130 countries. 
+Recycled materials are included in the supply 
+scenarios, based on assumptions about average 
+end product lifetimes and collection and recovery 
+rates. Concretely, the findings in this report are 
+based on the following two scenarios: 
+
+• 
+
+• 
+
+The base-case scenario includes all operating 
+assets (corrected for depletion where relevant) 
+and projects currently under construction. It 
+also includes projects for which a feasibility 
+study has been conducted and financing 
+secured as well as projects for which a 
+feasibility study is currently being conducted.
+The high-case scenario includes the 
+previous cases as well as projects for which a 
+prefeasibility study has been initiated. Projects 
+that have been announced but have not yet 
+initiated a prefeasibility study are not included 
+in the forecasts.
+
+Supply scenarios are based only on announced 
+projects to the extent they are available in the public 
+domain, and do not include theoretical capacity 
+increases.
+
+About the demand scenarios
+McKinsey’s Global Energy Perspective 2024 explores a 1.5° pathway and 
+three bottom-up energy transition scenarios.
+
+Global greenhouse gas emissions,¹ GtCO₂ equivalent per annum
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Slow
+Evolution
+
+Continued
+Momentum
+
+Sustainable
+Transformation
+
+1.5º pathway
+
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Projected global temperature increase by 2050, ºC
+
+<1.5
+1.5° pathway
+
+~1.8
+Sustainable Transformation
+
+~2.2
+Continued Momentum
+
+~2.6
+Slow Evolution
+
+Faster
+
+Speed of energy transition
+
+Slower
+
+Note: 1.5° pathway modeled as part of McKinsey’s Climate Math effort; other scenarios modeled bottom-up as part of McKinsey’s Global Energy Perspective 
+2024.
+1Includes process emissions from cement production, chemicals production and refining, and negative emissions from applying carbon capture, utilization, and 
+storage (CCUS).
+Source: McKinsey, September, 2024
+
+McKinsey & Company
+
+4          Global Materials Perspective 2024
+
+McKinsey’s Global Energy Perspective 2024, which 
+was released alongside this report, offers a detailed 
+demand outlook for 68 sectors and 78 fuels across 
+a 1.5° pathway, as set out in the Paris Agreement, as 
+well as three bottom-up energy transition scenarios. 
+
+The scenarios have been redesigned this year to 
+better reflect changing global conditions, including 
+geopolitical challenges, increasingly complex 
+supply chains, and higher inflation. Together 
+they explore potential outcomes, ranging from a 
+sustainable transformation—a plausible scenario 
+in which sustainability becomes a global priority 
+and nations coordinate toward decarbonization, 
+despite the challenges—through a continuation of 
+the current energy transition momentum, to slower 
+evolution characterized by a fragmented response 
+to decarbonization. Data for these scenarios come 
+from a variety of sources, including the International 
+Energy Agency (IEA), the Energy Institute, Eurostat, 
+the Intergovernmental Panel on Climate Change 
+(IPCC), Oxford Economics, the United Nations, the 
+US Department of Agriculture (USDA), and the US 
+Energy Information Administration, among others. 
+
+These bottom-up energy transition scenarios, and 
+the underlying assumptions for the deployment of 
+low-carbon technologies and broader economic 
+development, have been employed along with 
+McKinsey’s latest perspective on technology 
+choices (for example, battery chemistry in electric 
+vehicles) to determine the associated materials 
+demand.
+
+Continued Momentum is the reference case for our Global 
+Materials Perspective 2024
+McKinsey’s Global Energy Perspective 2024 explores a 1.5° pathway and 
+three bottom-up energy transition scenarios.
+
+Global greenhouse gas emissions,¹ GtCO₂ equivalent per annum
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+In the Continued Momentum scenario, nations’ 
+focus on sustainability is balanced by other factors, 
+including affordability and security of energy 
+supply, with some emerging economies mostly 
+prioritizing affordability and security of supply over 
+sustainability. 
+
+Technology and efficiency improvements largely 
+follow current trends, driven by economics where 
+practical constraints persist in the widespread 
+adoption of low-carbon technologies. This scenario 
+largely mirrors current trends and assumes they will 
+continue, resulting in uneven deployment of low-
+carbon technologies across technology type and 
+regions. 
+
+This scenario would fail to meet key goals of the 
+Paris Agreement, creating a range of negative 
+social, environmental, and economic effects.
+
+Slow
+Evolution
+
+Continued
+Momentum
+
+Sustainable
+Transformation
+
+1.5º pathway
+
+1990
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+Projected global temperature increase by 2050, ºC
+
+Scenario used throughout publication unless explicitly stated
+
+<1.5
+1.5° pathway
+
+~1.8
+Sustainable Transformation
+
+~2.2
+Continued Momentum
+
+~2.6
+Slow Evolution
+
+Faster
+
+Speed of energy transition
+
+Slower
+
+Note: 1.5° pathway modeled as part of McKinsey’s Climate Math effort; other scenarios modeled bottom-up as part of McKinsey’s Global Energy Perspective 
+2024.
+1Includes process emissions from cement production, chemicals production and refining, and negative emissions from applying carbon capture, utilization, and 
+storage (CCUS).
+Source: McKinsey, September, 2024
+
+5        Global Materials Perspective 2024
+McKinsey & Company
+
+Global Materials Perspective 2024: Foreword
+
+The global metals and mining industry is entering a new era. Historically, the industry has 
+been driven by economic growth and the development of the middle class, resulting in major 
+demand for materials such as steel, aluminum, and coal. While 80 percent of the industry 
+today primarily consists of five materials—steel, coal, gold, copper, and aluminum—the 
+landscape is rapidly changing as a result of the energy transition. 
+
+Indeed, the energy transition is first and foremost a physical transformation and the key 
+challenges are therefore primarily physical, including the timely availability of materials 
+embedded in low-carbon technologies (as detailed in McKinsey Global Institute's 2024 
+report, The hard stuff: Navigating the physical realities of the energy transition). The energy 
+transition is changing the materials landscape in three main ways:
+
+• 
+
+• 
+
+• 
+
+It accelerates demand growth for materials that are embedded in low-carbon 
+technologies as these technologies typically require more embedded materials than their 
+conventional counterparts. For example, battery electric vehicles (BEVs) are typically 15 
+to 20 percent heavier than comparable internal combustion engine (ICE) vehicles.
+It triggers a long-term shift of the materials demand profile as low-carbon technologies 
+require a different set of energy transition materials, which is gradually increasing the 
+relative importance of these materials in the overall metals and mining portfolio.
+It drives a long-term reduction of thermal coal in the energy system, currently the second 
+largest material in metals and mining measured by revenue (2023).
+
+Key materials for the energy transition are crucial to achieve decarbonization in the global 
+energy system—and a lack of sufficient and affordable supply would therefore risk hindering 
+the at-speed deployment of crucial low-carbon technologies. This report aims to provide a 
+fact base and perspective on the need to scale these materials sustainably and affordably. 
+We present a view of the possible road ahead, based on data from approved, publicly 
+available sources, checking this view against three energy transition scenarios differentiated 
+by the speed of the transition as well as two supply scenarios modeled by McKinsey 
+Metal&MineSpans and based on asset level insights.
+
+The road ahead will inevitably bring challenges, including how to accelerate the scaling 
+of supply to meet new demand patterns, how to keep materials affordable so they can 
+continue to support the energy transition and fuel economic growth, and how to improve the 
+sustainability of the industry. This is not simple, especially in the context of an evolving global 
+policy landscape that further increases uncertainty for investors.
+
+However, we are hopeful that the industry’s response to the energy transition also presents 
+substantial business opportunities for incumbents and new entrants alike, whether from 
+conscious portfolio shifts, disruptive innovation, new business models, or the next wave of 
+operational and capital expenditure (capex) advances, in some cases enabled by AI.
+
+6          Global Materials Perspective 2024
+
+Key insights from our analysis
+Ten important insights flow from our analysis in the Global Materials Perspective 2024
+
+State of the industry 
+
+1
+
+2
+
+3
+
+4
+
+Despite continued turbulence, finances were 
+healthy in 2023, although the outlook for 
+2024 is gloomier 
+
+Supply is scaling faster than expected, while 
+accelerated technological innovation is creating 
+increasing uncertainty for demand outlooks  
+
+Concentration of supply is increasingly 
+resulting in disruptive policies to protect 
+local industries
+
+Chinese investors have actively 
+ramped up their ownership of 
+global mining assets
+
+The materials industry has experienced 
+strong growth since the beginning of the 
+millennium, reaching approximately $8 trillion 
+in revenue in 2023. EBITDA has been strong 
+too, growing to $1.7 trillion in 2023—of which 
+$900 billion is from the metals and mining 
+industry.  Furthermore, balance sheets were 
+healthy in 2023, with net debt over EBITDA 
+ratios of 1.3 times—well below the through cycle 
+average of 1.8 times—providing companies 
+with more investment capacity. However, 2024 
+has already proven  to be a more challenging 
+year for the industry as overall economic 
+growth slows down and the shift toward low-
+carbon technologies unfolds more slowly than 
+expected, both of which are putting downward 
+pressure on price levels, especially for battery 
+materials, such as nickel and lithium.     
+
+Supply is scaling faster than expected for several energy 
+transition materials. Comparing Metal&MineSpans' 2020 
+projections of announced supply with actual production 
+in 2023 shows that production for lithium and nickel 
+was underestimated by nearly 20 percent. At the same 
+time, demand patterns are rapidly adjusting in response 
+to anticipated supply shortages. The market has seen 
+increased changes from technological innovation—for 
+instance, the battery chemistry mix is shifting toward 
+lithium-iron-phosphate (LFP), which has grown its market 
+share from 25 percent in 2021 to 40 percent in 2023. 
+In addition, an increasing number of automotive OEMs 
+(40 percent of the top 25 globally)1 are announcing a 
+move toward electric motors less reliant on, or entirely 
+free of, rare earth elements (REEs). These fast-paced 
+technological developments and shifts are creating 
+uncertainty for long-term demand outlooks, especially 
+for those materials that are strongly dependent on the 
+development of a small number of sectors, such as 
+battery and magnet materials. 
+
+The supply of ore is commonly concentrated 
+in a handful of countries and largely driven by 
+natural endowments. Next to that, China has 
+built a global leadership position over the last 
+few decades in the refining of a broad series 
+of materials, often with a volume share of more 
+than 50 percent. This regional concentration 
+creates both risks in terms of supply chain 
+disruptions and changes in competitive 
+landscapes, as well as opportunities, as 
+many countries enact a range of incentives 
+to promote domestic supply and safeguard 
+industry competitiveness. For example, Europe 
+set absolute targets on self-sufficiency and 
+single-country dependency on a list of more 
+than 15 strategic raw materials as part of its 
+Critical Raw Materials Act, while China put in 
+place export controls on gallium, germanium, 
+antimony, and rare earth separation and 
+processing technologies, which resulted in a 
+significant decrease in export volumes.2
+
+1  By number of electric vehicles sold in 2023.
+2  “Germanium and gallium: US trade and Chinese export controls,” US International Trade Commission, March 2024; “Critical raw materials,” European Commission. 
+
+7        Global Materials Perspective 2024
+
+China has long been the global leader 
+in refining and is now stepping up 
+its ownership in mining through 
+investments in other countries. By 
+capacity, Chinese investors increased 
+their ownership in copper mines from 
+approximately 10 percent in 2012 to 
+20 percent in 2023, in part driven by 
+expansion in the Democratic Republic 
+of the Congo; from 10 to 30 percent 
+in lithium, in part driven by build-out 
+of domestic lepidolite projects; and 
+from 5 to 20 percent in nickel, largely 
+driven by expansion in Indonesia. 
+
+Key insights from our analysis
+Ten important insights flow from our analysis in the Global Materials Perspective 2024
+
+Looking ahead
+
+5
+
+6
+
+7
+
+Although expected supply deficits remain for several key 
+materials, the gaps are closing 
+
+Price increases would be required to incentivize sufficient 
+supply to come online
+
+Fast supply scale-up and shifting demand patterns resulted in 
+smaller than expected supply shortages for several materials 
+compared to our 2023 perspective.3 However, our analysis 
+shows that supply shortages are still expected for several 
+materials by 2035—or even earlier—most notably for copper, 
+uranium, lithium, REEs, iridium, and sulfur. For materials with 
+shorter project development timelines and abundant known 
+resources (such as uranium and lithium), this gap is likely to be 
+closed by scaling supply once the demand signal is sufficiently 
+strong. For those with longer development timelines (such as 
+copper and iridium), the gap may need to be closed by demand 
+reduction or continued substitution toward other materials. 
+And while there are increasingly strong financial and regulatory 
+incentives for supply chains to increase materials circularity, 
+increased circularity alone will not close the gap for energy 
+transition materials.
+
+Theoretically, there would be sufficient financing capacity in 
+the industry to scale up production to meet demand, with an 
+estimated $5.9 trillion in financing capacity until 2035 versus an 
+expected investment need of $5.4 trillion. However, the business 
+case is not always attractive enough to incentivize investment. 
+As an example, based on the current project pipeline, copper 
+prices would have to increase to approximately $12,000 per ton 
+(an increase of 20 percent from May 2024), lithium to $19,000 
+per ton (30 percent increase), and nickel to $21,000 per ton 
+(5 percent increase) to incentivize sufficient supply to come 
+online by 2035 (assuming a minimum internal rate of return [IRR] 
+threshold of 15 percent, no disruptions to demand patterns, 
+a stable project pipeline, and timely scaling of all projects). 
+Scaling supply to meet demand would also require the build-out 
+of around 250 to 300 gigawatts (GW) of renewable energy to 
+power new refineries and mines, filling approximately 340,000 
+new jobs in the industry (albeit largely offset by an expected loss 
+of roughly 1.25 million jobs in thermal coal), as well as building 
+out logistics and freshwater infrastructure and scaling up 
+equipment supply chains.
+
+The pace of decarbonization is unfolding slower than 
+required to support the goals of the Paris Agreement, given a 
+disconnect between decarbonization costs and willingness-
+to-pay for low-carbon materials
+
+The materials sector is a significant contributor to global 
+greenhouse gas (GHG) emissions, accounting for around 15 
+percent of global emissions (equivalent to 7 gigatons of CO2 
+[GtCO₂]). Assuming business as usual, and accounting for 
+large-scale decarbonization announcements (especially in the 
+steel industry in Europe where it is incentivized by increasing 
+carbon tax), total emissions are projected to decrease by 
+close to 15 percent, reaching 6 GtCO₂ by 2035. This modest 
+reduction is partially explained by the fact that the cost of “deep 
+decarbonization” remains high—often entailing an increase of 
+more than 30 percent in operational costs for some materials, 
+especially for brown-to-green transitions. Our analysis suggests 
+this cost is fundamentally disconnected from consumer 
+willingness-to-pay. In fact, fewer than 15 percent of surveyed 
+decision makers indicate a willingness to pay a premium of 
+around 10 percent if there is a scarcity of green materials by 
+2030.4  
+
+3  The net-zero materials transition: Implications for global supply chains, McKinsey, July 5, 2023.
+4 
+
+Includes 36 respondents in steel, 27 in aluminum, and 15 in copper.
+
+8          Global Materials Perspective 2024
+
+Key insights from our analysis
+Ten important insights flow from our analysis in the Global Materials Perspective 2024
+
+The way forward
+
+8
+
+9
+
+10
+
+Accelerating scale-up of supply in a sustainable manner 
+requires increased collaboration and efforts to derisk 
+investments
+
+Cost and capital expenditure efficiency will become 
+increasingly pivotal in securing long-term affordability and 
+competitiveness 
+
+Incremental decarbonization, wholescale innovation, 
+and regulatory clarity will all be critical for accelerating 
+emissions reduction
+
+In an environment of increasing uncertainty on long-term 
+demand patterns and policy shifts, various forms of collaboration 
+and derisking efforts are needed to support long-term project 
+competitiveness. Such efforts could include offtake agreements 
+and supply contracts between customers and producers, 
+increased infrastructure support and collaboration between 
+peers scaling production in the same region, more efficient 
+administrative processes from policymakers, and increased 
+exploration programs to secure high-quality projects, thereby 
+enabling continued supply growth toward 2050 as demand 
+continues to grow. 
+
+The increasing level of competitiveness and worsening quality 
+of ore deposits, combined with uncertainty around long-term 
+demand patterns (and therefore price levels), will require strong 
+and continued focus on cost and capex efficiency, for projects to 
+be economically viable in the long run. For example, the average 
+project cost overshoot during the past decade was more than 30 
+percent, which means getting closer to initial budget estimates 
+could already create significant value and strengthen the 
+business case for investors, as such, incentivizing continued 
+supply scale-up. 
+
+For brown-to-green transitions, stakeholders can consider 
+stepwise, focusing on cost-effective levers, possibly combined 
+with mass balancing of products focusing on those subsectors 
+with the highest willingness-to-pay, and dedicating part of 
+the receipts to larger-scale decarbonization programs. For 
+greenfield investments, stakeholders can increase innovation 
+efforts, often with support from public innovation funding such 
+as the EU Innovation Fund under the EU Emissions Trading 
+System (ETS), and build partnerships to derisk the business case 
+such as coinvestment with customers and equipment providers. 
+Finally, regulators can define clear definitions for the emissions 
+threshold of low-carbon materials—given there is currently 
+no standardized framework and customers have different 
+expectations—while harmonizing carbon tax regulations to 
+create a level playing field, such as the EU’s Carbon Border 
+Adjustment Mechanism.
+
+9        Global Materials Perspective 2024
+
+Despite a turbulent environment, finances were healthy until 
+2023—yet 2024 has a gloomier outlook  
+The materials industry has grown by six percent per annum since 2000, 
+The materials industry has grown revenue by 6 percent per annum since 2000
+toward an industry of about $8 trillion in 2023.
+
+Revenues of the materials industry,¹ nominal $ trillion
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
++6%
+
+per annum
+
+CAGR, 2000–23, %
+
+Plastics²
+
+Pulp and
+paper³
+
+Building
+materials⁴
+
+Metals
+and mining⁵
+
+6
+
+4
+
+5
+
+8
+
+EBITDA,⁶ $ trillion
+
+Share of
+global GDP,
+%
+
+2000
+
+5
+
+2005
+
+6
+
+2010
+
+7
+
+2015
+
+6
+
+2020
+
+2023
+
+6
+
+7⁷
+
+1Sum of revenues per material, using average yearly refined material market prices and demand volumes. ²Material plastics, engineering plastics, and high-
+performance thermoplastics. ³Pulp, paper, cartonboard. ⁴Wood, cement, glass, sand, and gravel. ⁵Steel, thermal coal, base metals (aluminum, copper, lead, tin, 
+zinc), battery metals (cobalt, nickel, lithium, graphite, manganese), precious metals (gold, silver, diamonds, platinum group metals), and others (industrial miner-
+als, rare earth elements, minor metals, fertilizers, uranium). ⁶Revenue-weighted EBITDA based on metals and mining (including coal companies, excluding 
+Glencore), construction materials and chemicals (material, diversified, specialty) companies out of top global 3,000. ⁷Forecast 2023 GDP of $104.8 trillion.
+Source: American Chemistry Council; Eurostat; Fastmarkets; IHS Markit; ITC Trade Map; Statista; World Bank; McKinsey Metal&MineSpans
+
+10          Global Materials Perspective 2024
+McKinsey & Company
+
+The past two to three years have posed some 
+challenges for the materials industry, with high 
+price volatility driven by increased supply chain 
+disruptions and volatility in energy prices, among 
+other factors. While the industry has experienced 
+cycles of boom and bust before, these recent 
+fluctuations are unprecedented in scale.  
+
+Despite the challenges, the materials industry 
+shows strong financial results over the past few 
+years when compared with historical averages. 
+Revenues grew by approximately $2.4 trillion (more 
+than 40 percent) from 2020 to 2023, primarily 
+driven by metals and mining, which grew by $1.7 
+trillion (an increase of approximately 75 percent). 
+During the same period, EBITDA in metals and 
+mining nearly doubled, increasing from $500 billion 
+to $900 billion.
+
+Overall, balance sheets are healthy, with net debt 
+over EBITDA ratios of 1.3 times—well below the 
+through-cycle average of 1.8 times—providing 
+companies with more investment capacity.
+
+However, 2024 has already proven to be a more 
+challenging year for the industry as overall 
+economic growth slows down and the shift toward 
+low-carbon technologies unfolds more slowly than 
+expected, both of which are putting downward 
+pressure on price levels, especially for battery 
+materials, such as nickel and lithium.
+
+In metals and mining, around 80 percent of revenues stem 
+from just five materials
+The top five material value chains make up approximately 80 percent of 
+Steel, thermal coal, gold, copper, and aluminum dominate the sector
+metals and mining revenues.
+
+Metals and mining revenue by material, 2023, % of total revenue
+
+~35%
+
+~30%
+
+~15% ~5% ~15%
+
+Steel¹
+
+Thermal coal
+
+Gold
+
+Metals and mining
+total revenue:
+$4 trillion
+
+Copper
+
+Aluminum
+
+Iron ore
+
+Metallurgical coal
+
+Nickel
+Lithium
+Manganese
+Cobalt
+Graphite
+
+The $4 trillion metals and mining industry is largely 
+composed of just five materials: steel (including 
+iron ore and metallurgical coal), thermal coal, gold, 
+copper, and aluminum. Of these, thermal coal and 
+steel account for approximately 60 to 70 percent 
+of revenues, with production volumes more than 
+30 times higher than all other materials combined.5 
+Gold, copper, and aluminum make up another 15 to 
+20 percent.
+
+Other materials often associated with the energy 
+transition, such as battery and magnet materials, 
+remain small in terms of revenue but are growing in 
+sync with the shift toward low-carbon technologies.
+
+Steel
+
+Thermal coal
+
+Battery
+materials
+
+Other²
+
+1Total value of steel excluding iron ore and metallurgical coal.
+²Largest materials in the group include ferrochrome and potash; includes all other metals and mining materials, eg, rare earth elements (REEs), minor metals, etc. 
+Source: American Chemistry Council; Eurostat; Fastmarkets; IHS Markit; ITC Trade Map; World Bank; McKinsey Metal&MineSpans
+
+5  Thermal coal (approximately 7,000 megatons [Mt]) and steel (appromixately 2,000 Mt) and remaining materials are in the order of magnitude of 200 to 300 Mt, with aluminum 
+
+being the third largest by volume at around 100 Mt. 
+
+McKinsey & Company
+
+11        Global Materials Perspective 2024
+
+Supply is scaling faster than expected for several materials key 
+to the transition 
+Mined lithium and nickel supply over the past years has seen a
+Lithium and nickel are ramping up faster, while copper lags behind  
+higher-than-expected growth, while copper is falling short.
+
+Announced capacity as of Q1 2020 vs actual production, kt
+
+Projected supply as of Q1 2020 —High case
+
+Actual realization
+
+Projected supply as of Q1 2020—Base case
+
+Nickel
+
+Lithium (LCE)¹
+
+Copper²
+
+3,500
+
+1,200
+
+24,000
+
+3,000
+
+2,500
+
+2,000
+
++18%
+
+1,000
+
++18%
+
+23,000
+
+800
+
+600
+
+400
+
+200
+
+–3%
+
+22,000
+
+21,000
+
+20,000
+
+2017
+
+2020
+
+2023
+
+2017
+
+2020
+
+2023
+
+2017
+
+2020
+
+2023
+
+Comparing the Metal&MineSpans' first quarter 
+2020 projection for announced supply with actual 
+production in 2023 shows that production for 
+lithium and nickel was underestimated by nearly 20 
+percent.
+
+For lithium, the difference is driven by assets funded 
+by Australian and US investors coming online 
+faster than expected, as well as an unanticipated 
+scale-up of lepidolite assets in China in response to 
+elevated lithium prices. And for nickel, the ramp-up 
+stems almost solely from integrated high-pressure 
+acid leach (HPAL) laterite assets in Indonesia. This 
+accelerated supply buildup—in combination with 
+a slowdown in electric vehicle (EV) sales—partly 
+explains recent downward price corrections and 
+why some projects have been called back. 
+
+By contrast, copper supply lags projections not only 
+because of expected projects not coming online but 
+also because several assets decreased production 
+faster than anticipated.
+
+Note: Projections are as per McKinsey Metal&MineSpans.
+1Lithium measured in lithium carbonate equivalent (LCE).
+2Copper measured as refined metal.
+Source: McKinsey Metal&MineSpans
+
+McKinsey & Company
+
+12          Global Materials Perspective 2024
+
+Accelerated technological innovation is creating increasing 
+uncertainty for demand outlooks
+OEMs in automotive are rapidly shifting toward alternative technologies 
+Demand patterns are adjusting given anticipated supply shortages.
+
+Selected case examples
+
+EV battery chemistries shifting
+from NMC¹ to LFP²
+
+EV electric motors shifting away
+from REE³
+
+Iridium electrolyzers expected to
+continue to increase
+
+Share of cathode production by
+chemistry, % of total kWh battery
+capacity
+
+Leading OEMs⁴ stating they will
+build REE-free motors, % of cars
+sold by brand
+
+Projected electrolyzer production by
+type, % of announced capacity (GW)
+
+~55
+
+~55
+
+High-nickel
+NMC⁵
+
+~65
+
+~60
+
+No REE-free
+announcement⁷
+
+~55
+
+~70
+
+~50
+
+~48
+
+Non-iridium
+electrolyzers⁸
+
+~10
+
+~5
+
+Low-nickel 
+NMC⁶
+
+~10
+
+~25
+
+~40
+
+LFP²
+
+~35
+
+~40
+
+REE-free
+announcement⁷
+
+~30
+
+~45
+
+~50
+
+~52
+
+Electrolyzers
+with iridium⁹
+
+2021
+
+2022 2023
+
+2022 2023
+
+2022
+
+2030 2035
+
+Summary, change in demand
+
+Nickel
+
+Lithium
+
+REEs
+
+Copper
+
+Iridium
+
+As supply has scaled up faster than expected for 
+some materials, demand patterns have adjusted in 
+response to anticipated supply shortages. 
+
+For example, the chemistry mix for batteries used 
+in EVs is increasingly moving away from nickel-
+manganese-cobalt (NMC) to lithium-iron-phosphate 
+(LFP). As another example, the share of leading 
+OEMs stating they would shift toward electric 
+motors that are less reliant on REEs increased from 
+30 percent in 2022 to 40 percent in 2023.
+
+These trends, however, are not consistent across 
+materials. For example, the move from iridium-
+intensive electrolyzers in anticipation of a potential 
+iridium shortage is not yet apparent. This could 
+be partially explained by the fact that hydrogen 
+developers may still have flexibility to change 
+electrolyzer designs at a later stage in the project 
+development cycle. 
+
+1Nickel manganese cobalt. 2Lithium iron phosphate, also includes lithium manganese iron phosphate (LMFP). 3Rare earth elements. ⁴Considering 23 largest 
+OEMs by current EV market share. ⁵Includes NMC622, NMC721, NMC811, NCA, and NMCA. ⁶Includes NMC333, NMC532. ⁷Announcements mentioning efforts 
+(eg, partnerships, scientific innovations, etc) to move away from REE in motors. ⁸AWE and SOEC electrolyzers. ⁹PEM electrolyzers.
+Source: Hydrogen Insights; IEA
+
+McKinsey & Company
+13        Global Materials Perspective 2024
+
+Supply chains continue to be geographically concentrated
+The supply of materials is commonly highly regionally concentrated, with 
+A handful of regions dominate mining, while China is the leader in refining
+top-three regions often controlling more than 60 percent of supply.
+
+Supply of ore is commonly concentrated in a 
+handful of countries, largely driven by natural 
+endowment. In fact, the volume share of the top 
+one to three producers for several materials is well 
+above 60 percent of supply. In some cases, the 
+largest country has an even higher volume share: 
+approximately 75 percent of cobalt is mined in the 
+Democratic Republic of the Congo and close to 70 
+percent of REEs are extracted in China. 
+
+For both refined supply and refining capacity, China 
+has built a global leadership position over the past 
+few decades and is the main refiner for almost all 
+materials considered in this report.6  
+
+Mining and processing share, top country
+and top 3 countries, %
+
+Top 2 countries (total)
+
+Top 3 countries (total)
+
+China
+
+Other Asia
+
+Oceania
+
+North America
+
+Latin America
+
+Sub-Saharan Africa
+
+Mining
+
+Largest miner
+
+Processing¹
+
+Largest refiner
+
+98
+
+~100
+
+China
+
+98
+
+99
+
+China
+
+Gallium
+
+REEs²
+
+Platinum
+
+Lithium³
+
+45
+
+N graphite⁴
+
+Cobalt
+
+69
+
+67
+
+77
+
+74
+
+92
+
+90
+
+90
+
+89
+
+85
+
+Manganese
+
+36
+
+Nickel
+
+50
+
+Iron ore
+
+39
+
+Aluminium³,⁶
+
+26
+
+Tin
+
+23
+
+Titanium³
+
+Zinc
+
+33
+
+33
+
+Silver
+
+25
+
+Copper
+
+23
+
+74
+
+72
+
+69
+
+67
+
+60
+
+56
+
+54
+
+50
+
+46
+
+China
+
+South Africa
+
+85
+
+76
+
+100
+
+China
+
+93
+
+South Africa
+
+Australia
+
+45
+
+90
+
+China
+
+100
+
+100
+
+China
+
+68
+
+64
+
+82
+
+80
+
+China
+
+DRC⁵
+
+South Africa
+
+Indonesia
+
+30
+
+Australia
+
+Australia
+
+China
+
+China
+
+China
+
+Mexico
+
+Chile
+
+53
+
+57
+
+46
+
+48
+
+36
+
+36
+
+43
+
+59
+
+64
+
+69
+
+70
+
+69
+
+48
+
+66
+
+58
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+1Based on 2021 data excluding manganese, nickel, iron ore, aluminum, tin, zinc, and copper, which are from 2023. 2Rare earth elements. 32021 figures. ⁴Natural 
+graphite. ⁵Democratic Republic of the Congo. ⁶For mining, based on bauxite mining; for processing, based on primary aluminium smelting.
+Source: UN Comtrade; US Geological Survey; Worldsteel; McKinsey Metal&MineSpans
+
+McKinsey & Company
+6  Not limited to the materials mentioned on this page.
+
+14          Global Materials Perspective 2024
+
+Mine ownership has drastically changed in the past decade, 
+with Chinese investors increasing their market share
+Mined supply ownership has changed over the past decade with a trend of 
+Copper, lithium, and nickel have all seen increased Chinese ownership
+Chinese companies gaining market share.
+
+Share of ownership of mine production by origin region of owner, %
+
+Nickel¹
+
+Lithium (LCE)²
+
+Copper³
+
+100
+
+75
+
+50
+
+25
+
+0
+
+2012
+
+2023
+
+2012
+
+2023
+
+2012
+
+2023
+
+Rest of world⁴
+
+CIS⁵
+
+Europe
+
+Latin America
+
+North America
+
+Oceania
+
+Asia excluding China⁶
+
+China
+
+Alongside the geographical concentration of 
+supply, there is also a trend of shifting ownership 
+across materials. Our research shows that Chinese 
+investors increased their asset ownership in mining 
+of copper, lithium, and nickel over the past decade. 
+No other region has consistently increased its share 
+of ownership across these materials over the same 
+period. 
+
+From 2012 to 2023, Chinese ownership in copper 
+nearly doubled, driven in part by expansion in 
+the Democratic Republic of the Congo, while 
+European and Latin American investors saw a 
+decrease in market share. In lithium, Chinese 
+investors increased their market share in part by 
+the development of domestic lepidolite projects. 
+Finally, in nickel, the majority of Chinese investors’ 
+ownership was gained over Latin America and the 
+Commonwealth of Independent States (CIS), with 
+expansion mainly seen in Indonesia. 
+
+1~20% of ownership of Indonesian production is unknown; this is allocated based on the same share of ownership as the other 80%. 2Lithium measured in 
+lithium carbonate equivalent (LCE). 3Copper measured as metal contained. ⁴Includes MENA and Sub-Saharan Africa. ⁵Commonwealth of Independent States.
+⁵Includes developed Asia, India, and Southeast Asia.
+Source: McKinsey Metal&MineSpans
+
+McKinsey & Company
+15        Global Materials Perspective 2024
+
+Countries are putting policies in place to promote domestic 
+supply and safeguard industry competitiveness  
+Policies will impact the global materials landscape
+
+Highly concentrated supply has caused supply disruptions over the past few years. For 
+example, nickel prices soared when Indonesia restricted exports of nickel ore in 2020, 
+partially explaining why the market has started shifting away from nickel-intense batteries.7 
+
+robustness of supply chains but also to help safeguard the competitiveness of their domestic 
+industries in the years to come. 
+
+Due to the criticality of these materials in strategically important applications, many regions 
+and countries are enacting new policies—not only to increase self-sufficiency and improve the 
+
+The following examples represent a small number of such policies. Many other countries are 
+taking similar actions, and while smaller in scale, these initiatives collectively will have an 
+impact on the global materials landscape. 
+
+The US Inflation Reduction Act 
+
+Critical minerals strategy for 
+Canada
+
+The EU Critical Raw Materials 
+Act 
+
+Export restrictions in China 
+
+Critical minerals strategy for 
+Australia 
+
+The Inflation Reduction Act 
+(IRA) includes subsidies for EVs 
+if a certain share of battery raw 
+materials is sourced in the United 
+States or a country with which 
+the United States has a free 
+trade agreement.  In addition, 
+the IRA includes a potential 10 
+percent production cost credit 
+and a potential 30 percent capex 
+tax credit for novel materials 
+projects.8
+
+Canada’s strategy targets 31 
+critical minerals and supports 
+them with a 30 percent Critical 
+Mineral Exploration Tax Credit 
+as well as $1.5 billion to support 
+the supply chain infrastructure 
+build-out and $1.5 billion to 
+support recycling and advanced 
+manufacturing.
+
+The EU Critical Raw Materials 
+Act (CRMA) aims to regionalize 
+extraction, processing, and 
+recycling for more than 15 
+strategic raw materials by setting 
+targets on local production 
+and limiting single-country 
+dependency to 65 percent for 
+imports of each strategic raw 
+material.
+
+In the past year alone, export 
+controls and restrictions in 
+China were applied to gallium, 
+germanium, graphite, antimony, 
+and rare earth separation and 
+processing technologies, all of 
+which are critical materials for 
+low-carbon technologies.
+
+Australia’s strategy targets more 
+than 30 materials, supporting 
+them with loans, guarantees, and 
+equity for strategically important 
+projects.9 For example, the 
+country has committed more than 
+AU $1 billion (US $670 million) to a 
+first-of-its-kind rare earth refinery 
+in Eneabba.
+
+7  David Guberman, “Nickel in Indonesia: A story of restraints and emerging technologies,” US International Trade Commission, May 2021. 
+8  The details regarding precise qualification criteria for materials and mining projects are still under discussion at the time of this report’s writing. 
+9  Funds committed via Clean Energy Finance Corporation, Export Finance Australia, and Northern Australia Infrastructure Facility. As of June 2023, loans approved of AU $2.3 billion, with another AU $4.0 billion earmarked via the National Reconstruction 
+
+Fund.
+
+16          Global Materials Perspective 2024
+
+Demand projections remain strong, with the majority of 
+materials outpacing absolute historical growth
+Demand outlook in 2023 remains strong, outpacing historical pace, notably 
+The highest relative growth will come from copper and lithium
+for lithium (+475 percent), nickel (+60 percent), and copper (+30 percent).
+
+Demand projections remain strong from now until 
+2035. In fact, except for steel and thermal coal, 
+demand is expected to outpace absolute historical 
+growth in the coming decade compared with the 
+previous decade for all materials considered in 
+this report, with lithium and copper in particular 
+standing out. 
+
+Nickel and REEs are also projected to grow faster 
+than in the previous decade, yet outlooks for 
+both have been adjusted downward compared to 
+estimates from our 2023 publication as demand 
+from the automotive sector is shifting away from 
+high-nickel batteries and REE-intensive EV motors. 
+
+Material demand growth
+
+Lithium, kt LCE¹
+5,000
+
+4,000
+
+3,000
+
+2,000
+
+1,000
+
+0
+
++475%
+
+2012
+
+2023
+
+2035
+
+Sulfur, Mt sulfuric acid equivalents
+
+450
+
+300
+
+150
+
+0
+
++35%
+
+2012
+
+2023
+
+2035
+
+Uranium, kt
+
+100
+
+75
+
+50
+
+25
+
+0
+
++25%
+
+2012
+
+2023
+
+2035
+
+Higher absolute growth
+than previous decade
+
+Lower absolute growth
+than previous decade
+
+Nickel, kt
+6,000
+
++125%
+
+2012
+
+2023
+
+2035
+
+4,000
+
+2,000
+
+0
+
++60%
+
+2012
+
+2023
+
+2035
+
+REE,² kt
+200
+
+150
+
+100
+
+50
+
+0
+
+Copper, Mt
+40
+
+30
+
+20
+
+10
+
+0
+
+Steel, Mt
+
+2,250
+
+1,500
+
+750
+
+0
+
++30%
+
+2012
+
+2023
+
+2035
+
+Aluminium, Mt
+
+150
+
+100
+
+50
+
+0
+
++30%
+
+2012
+
+2023
+
+2035
+
++10%
+
+Thermal coal, Mt
+8,000
+
+6,000
+
+4,000
+
+2,000
+
+0
+
+–40%
+
+2012
+
+2023
+
+2035
+
+2012
+
+2023
+
+2035
+
+1Lithium carbonate equivalent.
+2Rare earth elements; includes dysprosium, neodymium, praseodymium, and terbium.
+Source: McKinsey Global Materials Insights; McKinsey Metal&MineSpans
+
+McKinsey & Company
+17        Global Materials Perspective 2024
+
+Expected supply–demand in 2035 is more balanced compared 
+with our 2023 perspective, but shortages are still anticipated 
+for several materials 
+Changes in supply and demand have led to a more balanced outlook, but 
+REEs, lithium, sulfur, uranium, iridium, and copper may face shortages
+supply shortage is still anticipated for several materials.
+
+Supply-demand balance 2035 forecast¹
+
+Supply vs demand gap, %
+
+2024 perspective
+
+–40 –30 –20
+
+–10
+
+0
+
+>0
+
+Materials
+
+Change in anticipated gap
+vs 2023 perspective
+
+Base case
+supply
+
+High case
+supply
+
+Capex needed to scale up
+supply, 2024–35,³ $ billion
+
+Recent changes in supply and demand have altered 
+the projected supply–demand gap, especially 
+after 2030. In the past 24 months, both nickel and 
+cobalt have moved from expected undersupply to 
+oversupply, as an example. 
+
+REEs2
+
+Lithium
+
+Sulfur⁴
+
+Slight closing of gap
+
+Slight closing of gap
+
+Unchanged
+
+Uranium
+
+Unchanged
+
+Iridium
+
+Copper
+
+Zinc
+
+Nickel
+
+Slight closing of gap
+
+Slight closing of gap
+
+Slight closing of gap
+
+Gap closed
+
+Cobalt⁵
+
+Gap closed
+
+~70
+
+~270
+
+That said, shortages are still anticipated for several 
+materials key to the energy transition, in particular 
+REEs, lithium, sulfur, uranium, iridium, and copper.
+
+<10
+
+<10
+
+~70
+
+~400
+
+~320
+
+For materials where timelines for project 
+development are fairly limited (in some cases less 
+than five years), the supply–demand gap is likely to 
+be closed by further scaling up supply once demand 
+signals become strong enough. This is the case 
+for uranium, for which scaling challenges depend 
+mainly on the uncertain future of nuclear power as 
+opposed to the scarcity of reserves or a sufficient 
+number of potential projects. A similar example is 
+seen in lithium, where reserves are abundant and 
+mines have relatively short development timelines. 
+
+For other materials, the supply–demand gap is less 
+likely to close through the accelerated scale-up of 
+supply because of long project timelines or limited 
+high-quality reserves and projects. In such cases, 
+given that supply and demand must match, demand 
+adaptation or reduction is expected to take place to 
+balance the market. The most notable example in 
+this category is copper.
+
+1Considering mined supply in final product equivalents. Only depicting select metals and minerals that are critical to the energy transition. 2Rare earth elements.
+3Total mining and processing project capex need. ⁴Capex not assessed due to uncertainties in supply development, as sulfur production is primarily a byproduct 
+from oil and gas production rather than a mined product. 5Cobalt mining and processing capex included in copper and nickel deposits as it is mined and refined 
+as a secondary material.
+Source: Bloomberg; CNBC; McKinsey Global Materials Insights; McKinsey Metal&MineSpans; MITMcKinsey
+
+18          Global Materials Perspective 2024
+
+McKinsey & Company
+
+As much as $5.4 trillion in capex and 270 GW of power is 
+needed by 2035 to scale up supply to meet expected demand
+As much as $5.4 trillion in capex and 270 gigawatts of power is needed by 
+A third of a million new jobs may also be needed, as well as infrastructure build-out
+2035 to scale up supply to meet expected demand.
+
+Investment, power, and people needed to meet projected 2035 demand
+
+~$5.4 trillion
+capex
+
+~270 GW1
+power
+
+~340,000
+new jobs²
+
+including exploration,
+sustaining, and project
+capex, for both mining
+and processing,⁴ a ~10%
+increase compared to
+previous decade⁵
+
+in addition to the 1,100³ GW
+that would be needed to
+decarbonize current industry
+power supply
+
+globally in the metals and
+mining industry—excluding
+coal, where employment risks
+decreasing by 1,250,000 jobs
+
+Other enablers
+
+• Timely build-out of infrastructure (logistics, freshwater supply, etc)
+• Timely supply of rolling and fixed equipment
+• Streamlined permitting procedures while retaining highest ESG standards
+
+1Gigawatts; assuming renewable power at 90% utilization and 25% capacity factor. ²Measured as full-time equivalents (FTEs). 3Assuming renewable energy to 
+fuel operations, requiring higher capacity than fossil due to lower capacity factor. 4Includes both refinery and smelting in steel and aluminum, as well as blast 
+furnaces in steel. Considers smelters, refinery plants, chemicals plants, and recycling plants for other materials. 5Comparing 2012–23 with 2024–35, adjusting 
+for inflation.
+Source: McKinsey Metal&MineSpans
+
+10  Capex covers exploration, sustaining existing projects, and new projects for both mining and refining.
+McKinsey & Company
+19        Global Materials Perspective 2024
+
+Scaling up will be challenging. Meeting projected 
+demand will require an efficient and timely 
+deployment of investments, energy, and logistics 
+infrastructure and equipment, as well as the proper 
+capabilities and steady freshwater availability. 
+
+• 
+
+• 
+
+• 
+
+Capex: On a global level, $5.4 trillion is needed 
+for supply to match current demand outlooks 
+by 2035, an approximate 10 percent increase 
+compared with the previous decade.10 
+Energy: As much as 270 GW power is needed 
+(with another 1,100 GW needed to decarbonize) 
+by 2035. That said, the power required, 
+although significant, does not constitute 
+more than 3 percent of projected demand for 
+renewables in 2035.
+Labor: 340,000 new jobs globally could be 
+needed in the industry to scale supply, while 
+1.25 million jobs are at risk in the thermal coal 
+industry.
+
+Local challenges regarding skilled labor, steady 
+energy supply, water availability, logistics 
+infrastructure, and equipment supply may hinder 
+deployment, alongside project affordability. 
+
+ 
+ 
+The majority of investments will still be deployed to sustain 
+existing assets
+The top five materials account for 80 percent of investment need
+
+The scale-up will require investments in refineries 
+and mines, though the majority of capex will be 
+deployed in sustaining existing assets, particularly 
+for the five primary materials: steel, thermal coal, 
+gold, copper, and aluminum. The total investment 
+need is estimated at a $5.4 trillion split between 
+sustaining current projects (around 60 percent), 
+new project development (35 percent), and 
+exploration (5 percent). Out of that, the five largest 
+materials account for 80 percent.
+
+Capex requirements for projects will likely be most 
+dominant in copper, nickel, and lithium (notably 
+Indonesian nickel assets), which will trigger a ramp-
+up of capex deployment across Asia, Latin America, 
+and Sub-Saharan Africa.11
+
+Capex need per material,¹ 2024–35, $ billion
+
+Sustaining
+
+Project
+
+Exploration
+
+~1,920
+
+Total:
+
+$5.4 trillion
+
+~780
+
+~770
+
+~550
+
+~430
+
+~390
+
+~340
+
+~120
+
+~90
+
+~30
+
+~10
+
+<100
+
+Steel²
+
+Copper
+
+Thermal
+coal
+
+Gold
+
+Nickel
+
+Aluminum
+
+Lithium
+
+Zinc
+
+REEs³
+
+Tin
+
+Cobalt
+
+Other4
+
+¹Only sustaining capex for cobalt. Cobalt mining and processing capex included in copper and nickel deposits as it is mined and refined as a secondary material. 
+Inflation adjusted with historical 2015–23 average global PPI, HCPI, and CCPI, with additional +1.5 per annum accounting for additional cost increases in sector 
+for project and exploration capex; considering last 5-year average exploration capex intensity for gold, inflation adjusted for 2023. ²Including capex need for 
+iron ore, metallurgical coal, and H-DRI expansion. ³Rare earth elements. 4Considering other materials such as uranium, platinum group metals (PGMs),
+graphite, silicon, and manganese.
+Source: S&P Global Market Intelligence; McKinsey Metal&MineSpans; McKinsey Value Intelligence Platform
+
+11  Asia, excluding India, Japan, Korea, Mainland China, or Taiwan.
+McKinsey & Company
+20          Global Materials Perspective 2024
+
+The metals and mining industry's financing capacity could 
+theoretically finance the scale-up 
+Financing capacity in the industry is theoretically sufficient to meet
+Strong financial performance in 2023 puts the industry in a solid position to invest
+scale up.
+
+Given the strong financial performance of the 
+mining sector in 2023, the materials industry’s 
+overall financing capacity (net of dividends), 
+estimated at $5.9 trillion, should theoretically be 
+sufficient to meet future projected demand. 
+
+The financing capacity considers cash generation in 
+the coming decade net of dividends (approximately 
+$900 billion), debt financing on existing assets 
+up to an investment grade threshold of 2.0 times 
+net debt over EBITDA—from the current 1.3 times 
+(approximately $750 billion)—and debt financing 
+of new assets up to 2.0 times (an additional $900 
+billion).
+
+Financing capacity,¹ 2024–35, $ billion
+
+Steel²
+
+Aluminum
+
+Coal
+
+Copper
+
+Gold
+
+Other
+
+Estimated
+capex need
+
+Financing capacity
+
+~5,400
+
+~5,900
+
+Cash net of dividents
+from new assets
+
+~40
+
+Debt financing³
+from new assets
+
+~910
+
+Cash net of dividends⁴
+from existing assets
+
+~910
+
+Debt capacity⁵
+from existing assets
+
+~750
+
+Run-rate capex⁶
+from existing assets
+
+~3,300
+
+Note: Base-case scenario. Assuming long-term supply equaling demand.
+1Based on 2012–23 uses of cash and performances of metals and mining companies out of the top 3,000 largest global companies (n = 120), subsequently apply-
+ing forecasted demand and forward-looking inflation. 2Including financing capacity of iron ore and metallurgical coal. 3Project capex. ⁴Net dividends and buy-
+backs; copper and gold have negative values. ⁵Increase from historical net debt/EBITDA to 2.0× when possible, excluding increased debt leverage to coal and 
+steel assets. ⁶Represents total historical capex levels including sustaining, exploration, and project capex, industry average excluding coal and steel for “Other.”
+Source: S&P Global Market Intelligence; McKinsey Metal&MineSpans; McKinsey Value Intelligence Platform
+
+21        Global Materials Perspective 2024
+McKinsey & Company
+
+Price increases will likely be required to incentivize sufficient 
+supply to come online
+Prices would have to further increase across materials to incentivize 
+Current copper prices would need to increase by 20 percent to drive sufficient supply
+sufficient supply to come online to meet demand.
+
+Incentive price of announced copper, nickel, and lithium projects with 15% IRR,¹ High-case scenario,
+$/ton²
+
+Copper
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+Nickel
+50,000
+
+40,000
+
+30,000
+
+20,000
+
+10,000
+
+0
+
+8
+
+10
+
+Minimum price if only 80% of projects are realized
+
+~15,000
+
+~12,000
+~10,000
+
+Minimum price to meet 2035 demand if all projects
+are realized
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+Supply, Mt
+
+0.80
+
+0.85
+
+Current price (as of May 24, 2024)
+
+Lithium (LCE³)
+35,000
+
+1.9
+
+2.5
+
+~24,000
+~21,000
+~20,000
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+>30,000
+
+~19,000
+~14,500
+
+0.0
+
+0.5
+
+1.0
+1.5
+Supply, Mt
+
+2.0
+
+2.5
+
+0.0
+
+0.5
+
+1.0
+
+2.0
+
+1.5
+Supply, Mt
+
+2.5
+
+3.0
+
+3.5
+
+Note: Each project’s incentive price is an estimate of the average benchmark price, throughout the life of the mine, that sets the net-present value of the 
+investment to zero using a discount rate of 15%.
+1Internal rate of return. Projects with an incentive price above $20,000/ton copper, $45,000/ton lithium, and $35,000/ton nickel are removed from the charts.
+2Metal contained.
+3Lithium carbonate equivalent.
+Source: McKinsey Metal&MineSpans
+
+12  LCE is a measurement used to convert lithium quantities into a standard unit for comparison; comparing annual average price of 2022 with year-to-date prices in May 2024.
+McKinsey & Company
+
+22          Global Materials Perspective 2024
+
+Since 2022, prices for lithium have dropped by 
+approximately 80 percent to $14,500 per ton lithium 
+carbonate equivalent (LCE) and prices for nickel have 
+dropped by approximately 20 percent to $20,000 per 
+ton.12 These decreases represent a “normalization” 
+rather than a drastic shift in industry dynamics, as prices 
+moved closer to typical production costs.
+
+To incentivize sufficient supply, nickel prices would 
+need to increase by around $1,000 per ton, a 5 
+percent increase from current levels, assuming that 
+the most economical projects would be prioritized and 
+delivered on time. For lithium and copper, the pipeline of 
+announced projects is smaller and the demand increase 
+is higher. Therefore, a higher price increase would be 
+needed to incentivize sufficient supply to meet demand. 
+For copper, an approximate 20 percent increase from 
+current prices would be needed, and for lithium, the 
+approximate required price increase is 30 percent, 
+provided all announced projects come online.
+
+However, history has shown that the most economical 
+projects are not always the first to be realized, given the 
+range of barriers aside from profitability that can impact 
+project execution, such as permitting delays. Moreover, 
+individual projects may also have different required rates 
+of return to be approved by owners and investors, which 
+would in turn mean different levels of required incentive 
+prices. All in all, if some of the more profitable projects 
+were not to advance—whether due to barriers or higher 
+return rates required—a further price increase would be 
+needed to bring new supply online. 
+
+ 
+Over the next decade, total metals and mining emissions are 
+estimated to decrease by a modest 15 percent  
+Total CO₂ emissions of the metals and minerals sector is projected to 
+The metals and mining industry could contribute 13 percent of global emissions in 2035
+decline by approximately 15 percent by 2035.
+
+Emissions from metals and minerals production, MtCO₂ equivalents per annum
+
+–220
+
+~7,200
+
+–410
+
+–15%
+
+–290
+
+Net change
+in demand
+
+Decarbon-
+ization
+of grid
+
+Improved
+circularity
+
+–300
+
+–60
+
+~6,000
+
+Efficiency
+improve-
+ment
+
+Announced
+net-zero
+production¹
+
+88%
+
+Others²
+
+Semiconductor
+materials³
+Copper
+
+Precious
+metals⁴
+Battery
+materials⁵
+Aluminum
+
+Thermal coal
+
+Steel
+
+80%
+
+2023 emissions
+
+2035 emissions
+
+1Could significantly increase with uptake in projects. ²Zinc, sulfur, uranium. 3Tin and silicon. 4Gold and platinum group metals (PGMs). ⁵Lithium, nickel, cobalt,
+manganese, graphite.
+Source: IEA; International Aluminum Institute; International Copper association; Industrial Transformation 2050 (Material Economics, 2019); Statista; Transition 
+Pathway Initiative; World Steel Association; McKinsey Metal&MineSpans
+
+13  Global Energy Perspective 2024, McKinsey, September 17, 2024.
+McKinsey & Company
+
+23        Global Materials Perspective 2024
+
+In 2023, total production emissions from the metals 
+and mining industry accounted for approximately 
+15 percent of global emissions. Assuming no 
+external shifts, the share is estimated to decrease 
+to approximately 13 percent by 2035—a 15 percent 
+decline. This decrease in emissions is driven by five 
+factors:
+
+•  Changes in demand: Net impact from decreasing 
+emissions from thermal coal production, offset by 
+increasing emissions from other materials that will 
+see demand growth.
+
+•  Grid decarbonization: The global grid is 
+
+• 
+
+• 
+
+• 
+
+projected to decarbonize by close to 50 percent 
+as the share of renewable energy increases, 
+reducing emissions for those assets that are 
+reliant on grid power for their operations.13
+Improved circularity: The share of recycled 
+materials, which have a lower carbon footprint, will 
+increase, driven by higher availability of scrap and 
+improved collection and recovery rates.
+Efficiency improvements: Continued efficiency 
+improvements estimated at 0.5 percentage point 
+per annum.
+Announced net-zero production: In addition to 
+incremental decarbonization, there have been 
+several announcements of asset-level transitions 
+toward new technologies. In steel alone, 
+approximately 40 Mt capacity of such transitions 
+have already been announced by 2035, which 
+would lower global emissions by as much as 60 
+MtCO2.
+
+Electricity-related emissions are the largest contributor of 
+emissions for most materials in the metals and mining industry 
+The majority of emissions stem from processing, with electricity-related 
+Renewable energy could abate a significant proportion of emissions
+emissions being the largest source for most materials.
+
+Primary emission intensity,¹ 2023,
+ton of CO₂ per ton of material (total)
+
+Primary emission intensity,¹
+2023, share of CO₂ by category
+
+Electricity—Scope 2³
+
+Process emissions—Scope 13
+
+Fuel—Scope 1³
+
+100
+
+75
+
+50
+
+25
+
+0
+
+Refining vs mining share, %
+
+100
+
+Mining
+
+Refining
+
+75
+
+50
+
+25
+
+0
+
+~2
+
+Steel
+
+~15
+
+~15
+
+~4
+
+Copper
+
+Aluminum
+
+Lithium (LCE)²
+
+Nickel
+
+Steel
+
+Copper
+
+Aluminum
+
+Lithium (LCE)²
+
+Nickel
+
+Steel
+
+Copper
+
+Aluminum
+
+Lithium (LCE)²
+
+Nickel
+
+Note: Based on reported performance of operational assets.
+1Considering 2023 weighted average emissions intensity with production volumes. ² Lithium measured in lithium carbonate equivalent (LCE). ³The Scopes 1 and 2 
+here denote the accounting scope for a player that is producing the emissions, ie, for the player performing the mining or processing. While fuel and process 
+emissions are always accounted as Scope 1, electricity that is generated by the player itself would be accounted for as Scope 1, while purchased electricity is 
+Scope 2.
+Source: IEA, International Aluminum Institute; International Copper association, Industrial Transformation 2050 (Material Economics, 2019); Statista; Transition 
+Pathway Initiative; World Steel Association; McKinsey Metal&MineSpans
+
+McKinsey & Company
+
+24          Global Materials Perspective 2024
+
+~50
+
+Steel contributes approximately 45 percent of the 
+industry’s overall CO2 emissions. However, there are 
+several materials that report higher CO2 intensities 
+(the CO2 generated per ton of material produced). 
+
+Electricity is often the primary contributor to 
+emissions intensity, meaning that renewable 
+energy could already abate a significant portion of 
+emissions at reasonable cost. Although fuel-related 
+emissions can also in principle be abated, costs for 
+low-carbon heating fuels, such as biofuels or green 
+hydrogen, are significantly higher than natural gas.
+
+The chemical processes for producing steel, 
+aluminum, and nickel yield CO2 as a by-product. 
+These emissions cannot be abated with green 
+electricity or alternative fuels but instead require 
+alternative production technologies or carbon 
+capture.
+
+Although technologies for “deep decarbonization” 
+are available for several materials, production costs 
+are expected to increase with the implementation 
+of these technologies, making the implementation 
+economically challenging in many cases. For 
+example, to reach close to full decarbonization in 
+steelmaking with hydrogen reduced iron (H-DRI) 
+and renewable energy, production costs could 
+increase by 30 to 40 percent, and in copper and 
+lithium, production costs could increase by 10 to 20 
+percent. 
+
+ 
+Research shows less than 15 percent of customers indicate a 
+willingness to pay premiums of around 10 percent for low-
+carbon materials
+Less than 15 percent of customers indicate a willingness-to-pay of about
+However, regulatory measures could change the outlook  
+10 percent for low-carbon materials.
+
+Willingness-to-pay (“WtP”) additional premium if green materials are in deficit by 2030,¹
+% of respondents²
+
+Steel
+~$30/ton
+(<5% of price)
+
+Aluminium
+~$40/ton
+(~2% of price)
+
+Copper
+~$80/ton
+(~1% of price)
+
+Weighted average WtP³
+
+Ready to pay higher extra premium
+to secure supply
+
+Ready to pay some extra premium
+to secure supply
+
+11
+
+42
+
+Not sure
+
+3
+
+Not ready to pay extra—
+will switch to grey alternative
+
+44
+
+4
+
+37
+
+59
+
+13
+
+20
+
+7
+
+60
+
+Our recent survey of leading industry players shows 
+a limited willingness-to-pay for greener materials. 
+In fact, less than 15 percent of surveyed decision 
+makers indicate they would be willing to pay a 
+premium of around 10 percent if there was a scarcity 
+of green materials by 2030.  
+
+However, increasing publicly announced measures 
+such as the EU ETS and CBAM could significantly 
+change this outlook by imposing higher costs on 
+companies based on their carbon emissions. In 
+response, companies might seek to either switch to 
+sourcing low-carbon-footprint materials or invest in 
+innovative solutions to reduce process emissions. 
+
+Magnitude of price premiums, $/ton
+
+~50
+
+~100
+
+~100
+
+~150
+
+~200
+
+~300
+
+1Some segments such as automotive and energy equipment players stand out as having a higher willingness-to-pay than other sectors.
+236 respondents in steel, 27 in aluminum, and 15 in copper.
+3“Higher extra premium” is $100/ton for steel, $150/ton for aluminum, and $300/ton for copper. “Some extra premium” defined as $50/ton for steel, $100/ton 
+for aluminum, and $200/ton for copper.
+Source: McKinsey global survey of decision makers in materials sales and purchases, March 2024
+
+25        Global Materials Perspective 2024
+
+McKinsey & Company
+
+About the authors 
+
+Karel Eloot
+Senior Partner
+
+Michel Van Hoey
+Senior Partner
+
+Michel Foucart
+Associate Partner
+
+Marcelo Azevedo
+Expert Associate Partner
+
+Patricia Bingoto
+Senior Expert
+
+Gustav Hedengren
+Specialist
+
+Tamas Vass 
+Specialist
+
+The authors wish to thank Caroline Van den Heuvel, David Ebereonwu, Eduardo Mencarini, 
+Georges Vanden Avenne, Gregory Kudar, Humayun Tai, Jeffrey Lorch, Jukka Maksimainen, 
+Konstantina Tsouderou, Maxime Vandersmissen, Rachid Majiti, Richard Sellschop, Sigurd 
+Mareels, and Yermolai Solzhenitsyn for their contributions to this report.
+
+26          Global Materials Perspective 2024
+
+© Copyright 2024 McKinsey & Company This report contains confidential and proprietary 
+information of McKinsey & Company and is intended solely for your internal use. Do not 
+reproduce, disclose, or distribute the information contained herein without McKinsey & 
+Company’s express prior written consent. 
+
+Nothing herein is intended to serve as investment advice, or a recommendation of any 
+particular transaction or investment, the merits of purchasing or selling securities, or an 
+invitation or inducement to engage in investment activity. 
+
+This material is based on information that we believe to be reliable and adequately 
+comprehensive, but we do not represent that such information is in all respects accurate or 
+complete. McKinsey & Company does not accept any liability for any losses resulting from 
+use of the contents of this report
+
+

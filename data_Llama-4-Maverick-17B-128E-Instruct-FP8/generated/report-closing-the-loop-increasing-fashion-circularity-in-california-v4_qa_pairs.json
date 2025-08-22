@@ -1,0 +1,1785 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe report \"Closing the loop: Increasing fashion circularity in California\" explores the potential for a closed-loop recycling system in California's fashion industry, which is currently predominantly linear and wasteful. The research, conducted by McKinsey & Company in collaboration with several fashion industry players, found that Californians are willing to adopt circular fashion practices, with 54% anticipating buying more clothes made with recycled materials. A fully closed-loop apparel recycling system in California could achieve a total holistic impact of $7-9 billion a year, with a return on investment of $2.70 for every $1.00 spent. The report highlights the potential for significant economic, environmental, and social benefits from adopting circular fashion practices.",
+  "qa_pairs": [
+    {
+      "question": "Who developed the report 'Closing the loop: Increasing fashion circularity in California'?",
+      "answer": "McKinsey & Company developed this report in collaboration with Allbirds, Gap Inc., Patagonia, and WM."
+    },
+    {
+      "question": "Who are the authors of the report?",
+      "answer": "The authors of the report are Danielle Bozarth, Steve Hoffman, Giulia Siccardo, Alyssa Bryan, Nancy Jones, Melissa Mazin, Kimika Padilla, and Brennan Wong."
+    },
+    {
+      "question": "What is the role of Ciara Cates in Patagonia?",
+      "answer": "Ciara Cates is the Lead Material Developer at Patagonia."
+    },
+    {
+      "question": "Who are some of the industry experts that provided input to the report?",
+      "answer": "Some of the industry experts include Infinited Fiber Company, National Association of Uniform Manufacturers and Distributors (NAUMD), Optoro, ReCircled, Retrievr, Reverse Resources, San Francisco Department of the Environment, and Secondary Materials and Recycled Textiles (SMART)."
+    },
+    {
+      "question": "Who is responsible for the content and conclusions of the report?",
+      "answer": "McKinsey & Company takes full responsibility for the report\u2019s content and conclusions."
+    },
+    {
+      "question": "How much clothing did Californians buy and wear in 2020?",
+      "answer": "510,000-530,000 tons."
+    },
+    {
+      "question": "What percentage of textiles used in clothing are virgin materials?",
+      "answer": "More than 97 percent."
+    },
+    {
+      "question": "What percentage of materials worn today will resurface in clothing manufactured tomorrow?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "What percentage of surveyed consumers anticipate buying more clothes made with recycled materials?",
+      "answer": "54 percent."
+    },
+    {
+      "question": "How much are younger Californians (18-24-years-old) willing to pay extra for clothes made with recycled materials?",
+      "answer": "Almost 15 percent."
+    },
+    {
+      "question": "What percentage of surveyed consumers would participate in a brand-sponsored apparel recycling program?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "What percentage of surveyed California consumers anticipate buying more clothes made with recycled materials?",
+      "answer": "54 percent."
+    },
+    {
+      "question": "What is the willingness-to-pay premium for clothes made with recycled materials among younger Californians (18-24-years-old)?",
+      "answer": "Almost 15 percent."
+    },
+    {
+      "question": "What percentage of surveyed consumers would participate in a brand-sponsored apparel recycling program?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "What is the estimated total holistic impact of a fully closed-loop apparel recycling system in California per year?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What is the estimated holistic impact per dollar spent on closed-loop apparel recycling?",
+      "answer": "$2.70 for every $1.00 spent."
+    },
+    {
+      "question": "What is the estimated total holistic impact of closed-loop apparel recycling scaled up across the US?",
+      "answer": "$50-70 billion."
+    },
+    {
+      "question": "What percentage of surveyed consumers anticipate buying more clothes made with recycled materials?",
+      "answer": "54 percent."
+    },
+    {
+      "question": "What is the willingness-to-pay premium for clothes made with recycled materials among younger Californians (18-24-years-old)?",
+      "answer": "Almost 15 percent."
+    },
+    {
+      "question": "What percentage of surveyed consumers would participate in a brand-sponsored apparel recycling program?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "What could be the total holistic impact of a fully closed-loop apparel recycling system in California per year?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What is the estimated holistic impact per dollar spent on closed-loop apparel recycling?",
+      "answer": "$2.70 for every $1.00 spent."
+    },
+    {
+      "question": "What could be the total holistic impact of closed-loop apparel recycling if scaled up across the US?",
+      "answer": "$50-70 billion."
+    },
+    {
+      "question": "What is the estimated total holistic impact of creating a closed-loop apparel recycling system in California?",
+      "answer": "$7-9 billion"
+    },
+    {
+      "question": "What is the estimated total holistic impact of closed-loop recycling across the US?",
+      "answer": "$50-70 billion"
+    },
+    {
+      "question": "What is the return on investment for every $1.00 spent on closed-loop recycling of polyester?",
+      "answer": "$2.70"
+    },
+    {
+      "question": "Why is chemical recycling critical for sustaining the quality of textile fiber?",
+      "answer": "Because it allows the quality of textile fiber to be sustained over many iterations."
+    },
+    {
+      "question": "What is required to unlock the total holistic impact of closed-loop recycling?",
+      "answer": "Actions to level the playing field, such as forging public-private partnerships, enacting recycling-friendly policies, and encouraging vertical integration in the apparel industry."
+    },
+    {
+      "question": "What is the main challenge in building closed-loop recycling capacity in the apparel industry?",
+      "answer": "The disconnect between the supply of and the demand for recycled materials."
+    },
+    {
+      "question": "What are the three dimensions of circularity in the fashion industry?",
+      "answer": "Reduce, Reuse."
+    },
+    {
+      "question": "What percentage of clothing purchased today is eventually recycled back into new clothing?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "What is one of the initiatives identified to advance fashion circularity for apparel made with polyester in California?",
+      "answer": "Purchase recycled polyester to replace virgin polyester in apparel."
+    },
+    {
+      "question": "Why is sorting necessary in the recycling process?",
+      "answer": "Because the inability of recycling processes to handle more than one type of textile waste and the potential for unsorted waste to introduce contamination make sorting necessary."
+    },
+    {
+      "question": "What is the global fashion industry's contribution to greenhouse gas emissions in 2018?",
+      "answer": "About 4 percent."
+    },
+    {
+      "question": "Where is curbside textile collection likely to be most viable?",
+      "answer": "Densely populated metropolitan areas, such as Los Angeles, San Francisco, and select Bay Area counties."
+    },
+    {
+      "question": "What are the three dimensions of circularity that would reshape the typical fashion lifecycle?",
+      "answer": "Reduce, Reuse, and Recycle."
+    },
+    {
+      "question": "What does the 'Reduce' dimension in circularity focus on?",
+      "answer": "Designing and manufacturing products that use more safe, recycled, or renewable textile materials."
+    },
+    {
+      "question": "What is the focus of this report regarding building a circular economy?",
+      "answer": "The challenges and opportunities involved in recycling materials back into the apparel manufacturing process and building a closed-loop fashion lifecycle in California."
+    },
+    {
+      "question": "How many major stages are there in the closed-loop fashion lifecycle?",
+      "answer": "Eight."
+    },
+    {
+      "question": "What percentage of yarn is made in and exported by China, India, Vietnam, and the US?",
+      "answer": "Approximately 70 percent."
+    },
+    {
+      "question": "Why is a local model necessary for achieving full circularity?",
+      "answer": "Given the inherently local nature of the collection stage of the lifecycle."
+    },
+    {
+      "question": "What percentage of materials used in fashion products are virgin materials?",
+      "answer": "More than 97 percent."
+    },
+    {
+      "question": "What percentage of yarn is made in and exported by China, India, Vietnam, and the US?",
+      "answer": "Approximately 70 percent."
+    },
+    {
+      "question": "Which countries export almost two-thirds of the total finished apparel?",
+      "answer": "China, the EU, and Bangladesh."
+    },
+    {
+      "question": "What percentage of materials used in fashion products are virgin materials?",
+      "answer": "More than 97 percent."
+    },
+    {
+      "question": "What is the estimated CO2 emission from producing a t-shirt made exclusively from polyester?",
+      "answer": "~11 kilograms."
+    },
+    {
+      "question": "What percentage of the fashion industry's emissions is accounted for by raw material production, processing, and garment manufacturing?",
+      "answer": "70-75 percent."
+    },
+    {
+      "question": "What percentage of the holistic climate impact across the global apparel value chain is generated by spinning and weaving?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "What percentage of a typical garment's impact is attributed to raw material production, processing, and garment manufacturing?",
+      "answer": "70-75 percent"
+    },
+    {
+      "question": "What are the estimated environmental impacts of producing one t-shirt made from polyester?",
+      "answer": "~11 kg CO2e emitted, 2-7 m2 of land used, ~1+ lbs of chemicals used, and ~380 liters of water consumed"
+    },
+    {
+      "question": "What step in the fashion lifecycle has the greatest climate impact?",
+      "answer": "Material production"
+    },
+    {
+      "question": "What is required for full circularity in textile production?",
+      "answer": "Using only 100 percent textile-to-textile recycled materials"
+    },
+    {
+      "question": "Are recycled materials inherently carbon-neutral or chemical-free?",
+      "answer": "No"
+    },
+    {
+      "question": "What types of input materials can help reduce the carbon or water footprint associated with a particular garment?",
+      "answer": "Carbon-neutral or negative, organic or regenerative organic, FSC-certified, and responsibly/sustainably sourced materials"
+    },
+    {
+      "question": "What percentage of the holistic climate impact across the global apparel value chain is generated by spinning and weaving?",
+      "answer": "22 percent"
+    },
+    {
+      "question": "What percentage of the holistic climate impact across the global apparel value chain is generated by cut and sew/finishing?",
+      "answer": "41 percent"
+    },
+    {
+      "question": "What are the three main stages of apparel manufacturing?",
+      "answer": "Spinning to turn input materials into yarn, weaving or knitting to turn yarn into fabric, and cut and sew / finishing to turn fabric into apparel."
+    },
+    {
+      "question": "What percentage of apparel and footwear is collected for recycling in the US?",
+      "answer": "Less than 15 percent."
+    },
+    {
+      "question": "What is required to achieve full circularity in the manufacturing process?",
+      "answer": "Making infrastructure and process improvements to handle recycled textile materials and addressing all manufacturing waste."
+    },
+    {
+      "question": "What is the estimated percentage of total textiles used in the garment manufacturing process that is wasted annually?",
+      "answer": "12-30 percent."
+    },
+    {
+      "question": "What are some strategies that the fashion industry can use to increase collection of end-of-life products?",
+      "answer": "Take-back programs, mail-back programs, and curbside pickup, as well as apparel- and footwear-specific waste drop-off / pickup locations."
+    },
+    {
+      "question": "What is needed to effectively sort textile waste?",
+      "answer": "Strong sorting capabilities, ideally a fully operationalized, automatic sorting center that can handle high volumes and diverse textile materials."
+    },
+    {
+      "question": "What percentage of the world textile market is accounted for by polyester?",
+      "answer": "52 percent."
+    },
+    {
+      "question": "What is the estimated amount of apparel sold to and worn by Californians that ends up in landfills?",
+      "answer": "490,000-510,000 tons."
+    },
+    {
+      "question": "What percentage of total apparel textiles worn in California is recycled into textiles used in apparel?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "What is the total amount of material that starts the apparel value chain in California?",
+      "answer": "About 1.1 million tons."
+    },
+    {
+      "question": "What percentage of input textile material is produced in California?",
+      "answer": "About 30 percent."
+    },
+    {
+      "question": "What is required to achieve full circularity in the fashion industry?",
+      "answer": "Significant investment to scale capacity and recycling technology, especially in chemical recycling."
+    },
+    {
+      "question": "Why is chemical recycling preferred over mechanical recycling?",
+      "answer": "Chemical recycling is better suited to maintaining high quality over many iterations."
+    },
+    {
+      "question": "How many tons of apparel are sold to and worn by Californians every year?",
+      "answer": "Approximately 510,000-530,000 tons."
+    },
+    {
+      "question": "What percentage of total apparel textiles worn in California is recycled into textiles used in apparel?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "How much of the input materials used in the California apparel value chain are virgin materials?",
+      "answer": "97 percent."
+    },
+    {
+      "question": "How many tons of finished apparel were imported into California in 2020?",
+      "answer": "About 600,000-660,000 tons."
+    },
+    {
+      "question": "What percentage of finished apparel manufactured in California is sold directly to Californians?",
+      "answer": "About 20 percent."
+    },
+    {
+      "question": "How many tons of apparel sold to and worn by Californians will end up in landfills?",
+      "answer": "490,000-510,000 tons."
+    },
+    {
+      "question": "How much input textile material is produced in California?",
+      "answer": "About 30 percent of the 1.1 million tons of material that starts the apparel value chain in California."
+    },
+    {
+      "question": "How many tons of cotton and polyester were produced in California in 2020?",
+      "answer": "About 350,000 tons."
+    },
+    {
+      "question": "What percentage of finished apparel made in California is sold directly to Californians?",
+      "answer": "About 20 percent."
+    },
+    {
+      "question": "How many tons of apparel are sold to and worn by Californians every year?",
+      "answer": "Approximately 510,000-530,000 tons."
+    },
+    {
+      "question": "What percentage of apparel waste is collected through curbside solid waste collection in California?",
+      "answer": "85-90 percent."
+    },
+    {
+      "question": "How many tons of apparel initially diverted from the landfill are sold secondhand?",
+      "answer": "About 35,000 tons."
+    },
+    {
+      "question": "What is the estimated annual emissions growth rate for synthetics, including polyester and man-made cellulosic fibers, through 2030?",
+      "answer": "5 percent."
+    },
+    {
+      "question": "What is the average lifespan of an item of clothing?",
+      "answer": "Four years or less."
+    },
+    {
+      "question": "How many units of apparel were sold in California in 2020?",
+      "answer": "About 2.6 billion units."
+    },
+    {
+      "question": "How many tons of apparel end up being landfilled out of the 65,000-70,000 tons initially diverted from the landfill?",
+      "answer": "About 5,000 tons."
+    },
+    {
+      "question": "What percentage of apparel waste in California is disposed of through curbside solid waste collection?",
+      "answer": "85-90 percent."
+    },
+    {
+      "question": "How many tons of apparel waste were disposed of through curbside solid waste collection in 2020?",
+      "answer": "About 495,000 tons."
+    },
+    {
+      "question": "What are the main channels for diverting end-of-life apparel from landfills in California?",
+      "answer": "Donation centers and consignment stores, drop-off containers, mailed collection programs, curbside textile collection programs, and in-store take-back programs."
+    },
+    {
+      "question": "Which two channels handle the largest amount of end-of-life apparel in California?",
+      "answer": "Donation centers and drop-off containers."
+    },
+    {
+      "question": "How many tons of apparel are handled by donation centers and drop-off containers each year?",
+      "answer": "About 25,000 tons."
+    },
+    {
+      "question": "What percentage of textile waste is closed-loop recycled?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "How many tons of apparel used by Californians could be eventually landfilled?",
+      "answer": "490,000-510,000 tons."
+    },
+    {
+      "question": "How many tons of apparel are closed-loop recycled in California?",
+      "answer": "Only 5,000 tons."
+    },
+    {
+      "question": "What is the estimated amount of apparel used by Californians that could be eventually landfilled?",
+      "answer": "490,000-510,000 tons."
+    },
+    {
+      "question": "How much apparel is closed-loop recycled in California?",
+      "answer": "5,000 tons."
+    },
+    {
+      "question": "What percentage of finished apparel imported into or manufactured in California is assumed to be deadstock or samples?",
+      "answer": "5-15%."
+    },
+    {
+      "question": "What happens to ~75% of the ~55,000 tons of deadstock or samples?",
+      "answer": "~75% are given to employees or donated to be worn."
+    },
+    {
+      "question": "What percentage of collected apparel units are sent to landfill or incineration?",
+      "answer": "~5%."
+    },
+    {
+      "question": "What is the estimated amount of apparel landfilled through curbside solid waste collection?",
+      "answer": "~500,000 tons."
+    },
+    {
+      "question": "What is the rate of US textiles and apparel re-export in 2019?",
+      "answer": "~20%."
+    },
+    {
+      "question": "What percentage of total input materials produced in California are exported to other geographies?",
+      "answer": "~80%."
+    },
+    {
+      "question": "How much of the collected apparel units are wearable and resold as second-hand?",
+      "answer": "50-60%."
+    },
+    {
+      "question": "What percentage of completed apparel produced in California is exported to other geographies?",
+      "answer": "~80%."
+    },
+    {
+      "question": "What percentage of collected apparel units are sent to landfill or incineration?",
+      "answer": "~5%"
+    },
+    {
+      "question": "What percentage of collected apparel units are wearable and resold as secondhand?",
+      "answer": "50-60%"
+    },
+    {
+      "question": "What percentage of collected apparel units are downcycled?",
+      "answer": "40-45%"
+    },
+    {
+      "question": "What percentage of total apparel textiles worn will be recycled into textiles to be used in apparel tomorrow?",
+      "answer": "less than 1%"
+    },
+    {
+      "question": "What percentage of total textile waste comes from pre-consumer sources?",
+      "answer": "30 percent"
+    },
+    {
+      "question": "What percentage of total textile waste comes from post-consumer sources?",
+      "answer": "70 percent"
+    },
+    {
+      "question": "What is the approximate tonnage of apparel textiles that will be recycled into textiles to be used in apparel tomorrow?",
+      "answer": "about 5,000 tons"
+    },
+    {
+      "question": "What percentage of total textile waste is pre-consumer waste?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What percentage of textile waste ends up in the landfill through curbside solid waste collection?",
+      "answer": "85-90 percent."
+    },
+    {
+      "question": "What are the main sources of textile waste?",
+      "answer": "Pre-consumer and post-consumer sources."
+    },
+    {
+      "question": "Where does most apparel manufacturing take place?",
+      "answer": "Southeast Asia."
+    },
+    {
+      "question": "What happens to items deemed non-wearable during the first sort of textile waste?",
+      "answer": "They may be sorted out for lower-end uses, most often wiping rags or shredded stuffing."
+    },
+    {
+      "question": "What is the US diversion rate for aluminum cans?",
+      "answer": "About 50 percent."
+    },
+    {
+      "question": "What is the primary purpose of the first sort in the garment sorting process?",
+      "answer": "Sort based on apparel quality and season."
+    },
+    {
+      "question": "What percentage of collected clothing is deemed non-wearable and downcycled for lower-end use?",
+      "answer": "About half."
+    },
+    {
+      "question": "What is the main reason the second sort rarely happens in the US today?",
+      "answer": "High cost and lack of demand from recyclers still operating at pilot scale."
+    },
+    {
+      "question": "How much used apparel is sorted successfully for textile-to-textile recycling?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "What technology is used in an automated sorting facility to examine and sort garments?",
+      "answer": "High-powered camera technology."
+    },
+    {
+      "question": "Why is automation considered the future of textile waste sorting?",
+      "answer": "Greater capacity, efficiency, and accuracy."
+    },
+    {
+      "question": "How many pounds of clothing can an employee sort per hour in a manual sorting facility?",
+      "answer": "10-20 pounds."
+    },
+    {
+      "question": "What is the world's first fully automated sorting facility for textile waste and where is it located?",
+      "answer": "The world's first fully automated sorting facility for textile waste is located in Malm\u00f6, Sweden."
+    },
+    {
+      "question": "What is the maximum capacity of the automated sorting facility in Malm\u00f6, Sweden?",
+      "answer": "The facility has a maximum capacity of 4.5 tons per hour per line."
+    },
+    {
+      "question": "How much textile waste do Americans send to the landfill each year?",
+      "answer": "Americans send about 17 million tons of textile waste to the landfill each year."
+    },
+    {
+      "question": "How long can synthetic fibers like polyester take to decompose in a landfill?",
+      "answer": "Synthetic fibers like polyester can take at least 200 years to decompose."
+    },
+    {
+      "question": "What is the byproduct of natural fibers decomposing in a landfill?",
+      "answer": "Natural fibers like cotton or wool generate methane as they decompose."
+    },
+    {
+      "question": "How is the operation of the automated sorting facility in Malm\u00f6, Sweden managed?",
+      "answer": "A central control and dosing system manages the entire operation."
+    },
+    {
+      "question": "What is the role of employees in the day-to-day operation of the automated sorting facility?",
+      "answer": "Employees are required to start and stop the machines, feed textiles into the line, and remove the sorted bales at the end of the line."
+    },
+    {
+      "question": "How long can synthetic fibers like polyester take to decompose in a landfill?",
+      "answer": "At least 200 years."
+    },
+    {
+      "question": "What happens to natural fibers like cotton or wool as they decompose?",
+      "answer": "They generate methane, a greenhouse gas 25 times more potent than carbon dioxide at trapping heat in the atmosphere."
+    },
+    {
+      "question": "What is downcycling in the context of clothing recycling?",
+      "answer": "Downcycling refers to the process of repurposing garments as wiping rags or shredding them for lower-end uses like home insulation, carpet fiber, and stuffing for mattresses or car seats."
+    },
+    {
+      "question": "What are the two forms of textile-to-textile recycling?",
+      "answer": "Mechanical recycling and chemical recycling."
+    },
+    {
+      "question": "How does mechanical recycling work?",
+      "answer": "Mechanical recycling transforms textile waste into reusable yarn by shredding textiles and pulling the shreds apart into fibers for re-spinning."
+    },
+    {
+      "question": "What is the limitation of mechanical recycling?",
+      "answer": "The fibers get shorter in each cycle, so the process is not fully circular and can work only a finite number of times."
+    },
+    {
+      "question": "How does chemical recycling work?",
+      "answer": "Chemical recycling uses a series of chemical reactions to break down used textiles into molecular building blocks called monomers, which can be reconstructed into recycled fibers."
+    },
+    {
+      "question": "What is the advantage of chemical recycling?",
+      "answer": "The quality does not diminish with each cycle, so the process can approach full circularity and textiles can be recycled ad infinitum."
+    },
+    {
+      "question": "How much textile waste do Americans send to landfills each year?",
+      "answer": "About 17 million tons."
+    },
+    {
+      "question": "What is the equivalent of 17 million tons of textile waste in a more relatable measure?",
+      "answer": "Dumping two solid waste trucks full of textile waste every minute."
+    },
+    {
+      "question": "What percentage of cotton fabric inputs does mechanical cotton recycling require?",
+      "answer": "Almost 100 percent."
+    },
+    {
+      "question": "How many million tons of textile waste do Americans send to landfills each year?",
+      "answer": "17 million tons."
+    },
+    {
+      "question": "What is the main issue with the quality of cotton after mechanical recycling?",
+      "answer": "The process outputs a lower-quality, rougher fabric than virgin cotton due to the shortening of fibers during shredding."
+    },
+    {
+      "question": "What is the percentage of polyester yarn or fabric feedstock required for chemical polyester recycling?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What is the goal of the Textile Exchange's '2025 Recycled Polyester Challenge'?",
+      "answer": "To increase recycled polyester use from 14 percent today to 45 percent by 2025."
+    },
+    {
+      "question": "What is the issue with microplastics in the context of polyester and nylon fabrics?",
+      "answer": "The shedding of microplastics remains an issue with all polyester and nylon fabrics."
+    },
+    {
+      "question": "What is the current scale of operation for chemical cellulose recycling?",
+      "answer": "It does not operate at scale today."
+    },
+    {
+      "question": "What is the potential of chemical and mechanical recycling technologies in the textile industry?",
+      "answer": "Chemical and mechanical recycling technologies have the potential to unlock the future of textile circularity if the industry can overcome the challenges and risks of scaling."
+    },
+    {
+      "question": "What percentage of donated clothing is sold locally in the US secondhand resale market?",
+      "answer": "An estimated 10-20 percent of donated clothing is sold locally."
+    },
+    {
+      "question": "What is the main challenge facing textile-to-textile recycling of blended fabrics?",
+      "answer": "Separating fibers and impurities is difficult, and efficiency is limited, as is the ability to sell both output fibers."
+    },
+    {
+      "question": "How much of the clothing collected by secondhand retailers in the US is sent abroad or downcycled?",
+      "answer": "Approximately half of the clothing collected by secondhand retailers in the US is sent abroad or downcycled instead."
+    },
+    {
+      "question": "What type of blended fabrics do the most successful textile recycling technologies work with?",
+      "answer": "The most successful technologies appear to work with cotton-polyester blends."
+    },
+    {
+      "question": "What is the current state of textile waste management in the US?",
+      "answer": "Waste management of fashion textiles remains in its infancy, with very few textile-to-textile recyclers, all operating at pilot scale."
+    },
+    {
+      "question": "How much organic waste, recyclable materials, and solid waste does California's waste management industry manage every year?",
+      "answer": "California's waste management industry manages 40 million tons of organic waste, recyclable materials, and solid waste every year."
+    },
+    {
+      "question": "What happens to most textile waste today?",
+      "answer": "Most textile waste is simply thrown away."
+    },
+    {
+      "question": "How much waste does California's waste management industry manage every year?",
+      "answer": "California's waste management industry manages 40 million tons of organic waste, recyclable materials, and solid waste every year."
+    },
+    {
+      "question": "How many people are employed in California's waste management industry?",
+      "answer": "More than 40,000 people are employed across the collection, sorting, and recycling stages in California's waste management industry."
+    },
+    {
+      "question": "What type of recycling technology does Natural Fiber Welding use?",
+      "answer": "Natural Fiber Welding uses CLARUS technology to convert cotton into longer fibers to engineer performance recycled cotton."
+    },
+    {
+      "question": "Do California municipalities typically franchise collection of residential and commercial waste to haulers?",
+      "answer": "Yes, California municipalities typically franchise collection of residential and commercial waste to haulers in exclusive zones."
+    },
+    {
+      "question": "Are there large-scale curbside textile recycling programs in California?",
+      "answer": "No, the state has no large-scale curbside textile recycling programs."
+    },
+    {
+      "question": "How do households typically donate clothing?",
+      "answer": "Households donate most clothing through donation centers or drop-off containers concentrated in urban areas."
+    },
+    {
+      "question": "What happens to municipal solid waste (MSW) after collection?",
+      "answer": "MSW typically goes to a transfer station for consolidation into larger loads, without any sorting, before transportation to one of California's landfills or a waste-to-energy facilities."
+    },
+    {
+      "question": "Where are clothing donation centers or drop-off containers mostly concentrated?",
+      "answer": "Urban areas."
+    },
+    {
+      "question": "How do households typically donate clothing?",
+      "answer": "Through donation centers or drop-off containers."
+    },
+    {
+      "question": "What is the purpose of in-store take-back programs launched by some fashion brands?",
+      "answer": "To collect used clothing for reuse/repair or recycling."
+    },
+    {
+      "question": "How many landfills are there in California?",
+      "answer": "~175."
+    },
+    {
+      "question": "What happens to municipal solid waste (MSW) before it is transported to landfills or waste-to-energy facilities?",
+      "answer": "It typically goes to a transfer station for consolidation into larger loads."
+    },
+    {
+      "question": "How many large Materials Recovery Facilities (MRFs) are there in California?",
+      "answer": "Fewer than 100."
+    },
+    {
+      "question": "Do traditional MRFs sort textile waste?",
+      "answer": "No."
+    },
+    {
+      "question": "What is the role of the Department of Resources Recycling and Recovery (CalRecycle)?",
+      "answer": "To enact state-wide waste management policies and convene stakeholders."
+    },
+    {
+      "question": "Who is responsible for managing waste management services in individual municipalities?",
+      "answer": "Each municipality, often through contracts with private waste haulers."
+    },
+    {
+      "question": "What is one potential way to aggregate textiles for sorting?",
+      "answer": "By partnering a textile sorter with a major waste hauler at a transfer station used to manage traditional MSW and recycling waste."
+    },
+    {
+      "question": "What is the role of the Department of Resources Recycling and Recovery (CalRecycle) in California?",
+      "answer": "The Department of Resources Recycling and Recovery (CalRecycle) is responsible for enacting state-wide waste management policies and convening stakeholders, including municipalities, residents, and waste management companies."
+    },
+    {
+      "question": "What is the goal set by Statute SB1383 in California?",
+      "answer": "The goal set by Statute SB1383 is to divert 75 percent of all organic waste (including textiles) by 2025."
+    },
+    {
+      "question": "What is the Recycling Market Development Zone Loan Program in California?",
+      "answer": "The Recycling Market Development Zone Loan Program exists to help finance organizations or businesses located in California that prevent, reduce, or recycle waste through value-added processing or manufacturing."
+    },
+    {
+      "question": "What percentage of Californians who buy 11-15 items of clothing per month report buying clothing made with recycled materials?",
+      "answer": "93 percent of those who buy 11-15 items a month state that they buy clothing made with recycled materials."
+    },
+    {
+      "question": "What is the future intention of most Californians regarding buying clothing made with recycled materials?",
+      "answer": "Most anticipate buying more clothes made with recycled materials (54 percent)."
+    },
+    {
+      "question": "What percentage of Californians who buy 11-15 items a month state that they buy clothing made with recycled materials?",
+      "answer": "93 percent."
+    },
+    {
+      "question": "What percentage of consumers anticipate buying more clothes made with recycled materials?",
+      "answer": "54 percent."
+    },
+    {
+      "question": "Is there a correlation between the amount of clothing purchased per month and the intention to buy more clothes made with recycled materials?",
+      "answer": "Yes, the intention to purchase more clothes made with recycled materials grows with the amount of clothing purchased per month."
+    },
+    {
+      "question": "What percentage of respondents who buy 0-1 items per month intend to buy more clothes made with recycled materials?",
+      "answer": "43 percent."
+    },
+    {
+      "question": "What percentage of consumers who spend $401-500 per month on casual apparel anticipate buying more clothes made with recycled materials?",
+      "answer": "75 percent."
+    },
+    {
+      "question": "How important is sustainability when Californians select a fashion brand to buy?",
+      "answer": "80 percent of survey respondents call sustainability important when selecting a fashion brand to buy."
+    },
+    {
+      "question": "Is there a difference in considering sustainability important between Californians who spend more on clothes and those who spend less?",
+      "answer": "Yes, 87 percent of those who spend $301-500 a month on clothes consider sustainability important vs. 75 percent of those who spend $0-100 on clothes."
+    },
+    {
+      "question": "Do Californians who buy more clothes consider sustainability more important than those who buy fewer clothes?",
+      "answer": "Yes, 91 percent of those who buy 11-15 items a month consider sustainability important vs. 77 percent of those who buy 0-1 items a month."
+    },
+    {
+      "question": "What percentage of consumers who buy 11-15 items a month consider sustainability important?",
+      "answer": "91 percent."
+    },
+    {
+      "question": "What percentage of survey respondents report at least sometimes buying clothing made with recycled materials?",
+      "answer": "61 percent."
+    },
+    {
+      "question": "Which age group is willing to pay a premium for apparel made with recycled materials?",
+      "answer": "Younger Californians (18-34-years-old)."
+    },
+    {
+      "question": "How much more are 18-24-year-olds willing to pay for apparel made with recycled materials?",
+      "answer": "Almost 15 percent more."
+    },
+    {
+      "question": "What was the methodology used to minimize skew in willingness-to-pay analysis?",
+      "answer": "A randomized controlled trial question design, where 50 percent of respondents were asked about the price they pay for typical jeans and the other 50 percent were asked about the price they would be willing to pay for jeans made of recycled material."
+    },
+    {
+      "question": "What percentage of respondents were asked about the price they pay for typical jeans and what percentage were asked about the price they would be willing to pay for jeans made of recycled material?",
+      "answer": "50 percent were asked about the price they pay for typical jeans and 50 percent were asked about the price they would be willing to pay for jeans made of recycled material."
+    },
+    {
+      "question": "What are the three possible changes to the current business model to ensure sustainable economics for circularity?",
+      "answer": "Brands could charge a slight premium for clothing made with recycled materials, companies could invest to increase scale and reduce costs, or the government could consider policy interventions such as taxes or subsidies."
+    },
+    {
+      "question": "Which type of clothing buyers are willing to pay a premium for recycled materials?",
+      "answer": "Survey respondents who typically buy mass market clothing ($40-99) and value clothing (less than $40) are willing to pay a premium for recycled materials."
+    },
+    {
+      "question": "Why may buyers of masstige and luxury clothing not be willing to pay a premium for recycled apparel?",
+      "answer": "They may associate recycled apparel with cheaper, lower-quality, used products."
+    },
+    {
+      "question": "What is required to educate consumers who are less willing to pay for recycled materials?",
+      "answer": "Demonstrating that the positive environmental impact of recycled materials does not diminish quality and performance."
+    },
+    {
+      "question": "Which age group is most willing to pay a premium for apparel made from recycled materials?",
+      "answer": "Younger Californians, specifically those in the 18-24 age group."
+    },
+    {
+      "question": "What type of clothing buyers are willing to pay a premium for recycled materials?",
+      "answer": "Survey respondents who typically buy mass market clothing ($40-99) and value clothing (less than $40)."
+    },
+    {
+      "question": "Why may buyers of masstige and luxury clothing be less willing to pay a premium for recycled materials?",
+      "answer": "They may associate recycled apparel with cheaper, lower-quality, used products."
+    },
+    {
+      "question": "What is the top-ranked recycled material that consumers are willing to pay more for?",
+      "answer": "Recycled polyester, with 47 percent of respondents ranking it in the top three."
+    },
+    {
+      "question": "How does willingness to pay for recycled polyester differ by feedstock type?",
+      "answer": "Recycled plastic bottles rank in the top three 20 percent of the time, recycled marine plastic 16 percent of the time, and textile-to-textile recycled polyester 12 percent of the time."
+    },
+    {
+      "question": "What is the price range for 'masstige' clothing?",
+      "answer": "$100-249."
+    },
+    {
+      "question": "Which age group is most willing to pay a premium for a pair of recycled jeans?",
+      "answer": "18-24 year olds, with a premium of 14%."
+    },
+    {
+      "question": "What percentage of the time do recycled plastic bottles rank in the top three for willingness to pay for recycled polyester feedstock?",
+      "answer": "20 percent of the time."
+    },
+    {
+      "question": "What are the two sources of recycled polyester?",
+      "answer": "Non-textile materials like reclaimed plastic converted into fibers and textile materials obtained through fiber-to-fiber recycling."
+    },
+    {
+      "question": "What percentage of Californians do not participate in an apparel recycling program?",
+      "answer": "45 percent."
+    },
+    {
+      "question": "What is the primary way that 56 percent of Californians dispose of apparel?",
+      "answer": "Donation."
+    },
+    {
+      "question": "What is the current landfill rate for clothes in California?",
+      "answer": "85-90 percent."
+    },
+    {
+      "question": "How does the percentage of respondents who report throwing away end-of-life apparel compare to those who report recycling it?",
+      "answer": "About the same percentages of respondents report throwing away their end-of-life apparel and recycling it."
+    },
+    {
+      "question": "What is the ranking of recycled marine plastic in terms of willingness to pay for recycled polyester feedstock?",
+      "answer": "Recycled marine plastic ranks in the top three 16 percent of the time."
+    },
+    {
+      "question": "What percentage of respondents ranked recycled plastic bottles in the top three materials they would pay more for in apparel?",
+      "answer": "22%."
+    },
+    {
+      "question": "What percentage of respondents report throwing away their end-of-life apparel?",
+      "answer": "About the same percentage as those who report recycling it."
+    },
+    {
+      "question": "What is the current landfill rate for clothes in California?",
+      "answer": "85-90 percent."
+    },
+    {
+      "question": "What percentage of respondents who primarily send their clothing to the landfill say their discarded apparel is clean?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What percentage of respondents say they would participate in a brand-sponsored apparel recycling program if available?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "How does the willingness to participate in an apparel recycling program vary across different clothing types purchased?",
+      "answer": "It does not differ significantly."
+    },
+    {
+      "question": "What is the primary method of disposal for end-of-life apparel among respondents who buy 0-1 clothing items per month?",
+      "answer": "Donate (~40%)."
+    },
+    {
+      "question": "What percentage of respondents who primarily send their clothing to the landfill say the condition of their discarded apparel is clean?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What is the most preferred method of recycling among Californians, as indicated by being in their top three preferred methods?",
+      "answer": "Drop-off containers, cited by 63 percent of respondents."
+    },
+    {
+      "question": "What percentage of Californians consider their current apparel recycling methods very convenient?",
+      "answer": "31 percent."
+    },
+    {
+      "question": "What is the most important factor in making respondents likely to participate in an apparel recycling program?",
+      "answer": "Drop-off or shipping convenience, cited by 59 percent as a top-three factor."
+    },
+    {
+      "question": "How do consumers currently recycle or donate items, according to the survey?",
+      "answer": "70 percent take them to a donation center like Goodwill; 35 percent put them in a drop-off container; 23 percent take them to a store for a take-back program; 20 percent participate in a curbside collection program; and 14 percent mail them via a collection service."
+    },
+    {
+      "question": "What percentage of respondents are willing to always participate in a brand-driven apparel recycling program?",
+      "answer": "41 percent."
+    },
+    {
+      "question": "What percentage of Californians consider convenience as a top-three factor in participating in a recycling program?",
+      "answer": "59 percent."
+    },
+    {
+      "question": "What is the estimated total holistic impact of advancing textile circularity in California?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What percentage of Californians who primarily send their clothing to the landfill say the condition of the clothing they are disposing is 'like new'?",
+      "answer": "More than 25 percent."
+    },
+    {
+      "question": "What is the estimated total holistic impact of expanding initiatives to all other textile materials across the US fashion industry?",
+      "answer": "$50-70 billion."
+    },
+    {
+      "question": "What percentage of survey respondents find existing collection options for post-consumer waste inconvenient or only slightly convenient?",
+      "answer": "29 percent."
+    },
+    {
+      "question": "What are the major obstacles to establishing closed-loop textile recycling?",
+      "answer": "Collection, sorting, and recycling."
+    },
+    {
+      "question": "What is the estimated total holistic impact of creating a closed-loop apparel recycling system in California?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What percentage of survey respondents find existing collection options for post-consumer waste inconvenient or only slightly convenient?",
+      "answer": "29 percent."
+    },
+    {
+      "question": "What are the three major obstacles faced by sorting (including deconstruction activities) in textile recycling?",
+      "answer": "Current sorters do not segregate by textile type, the textile-to-textile recycling industry lacks standardized sorting guidelines and feedstock specifications, and deconstruction of fabrics destined for recycling rarely happens."
+    },
+    {
+      "question": "Why would apparel manufacturers likely need to pay a premium for recycling pre-consumer waste relative to landfilling or downcycling end-of-life textiles?",
+      "answer": "Due primarily to the additional sorting and deconstruction activities required."
+    },
+    {
+      "question": "What is the estimated total holistic impact of creating a closed-loop apparel recycling system if scaled up across the US?",
+      "answer": "$50-70 billion."
+    },
+    {
+      "question": "What type of recycling can achieve virgin-quality outputs?",
+      "answer": "Chemical recycling."
+    },
+    {
+      "question": "What percentage of today's fashion industry is estimated to be blended textiles?",
+      "answer": "More than 50 percent."
+    },
+    {
+      "question": "What percentage of a recycler's total operating expenses can feedstock account for?",
+      "answer": "~30 percent."
+    },
+    {
+      "question": "What are the two main risks that may discourage textile recyclers from scaling?",
+      "answer": "The risk of uncertain feedstock prices and the risk of insufficient demand."
+    },
+    {
+      "question": "How many steps are in the methodology developed to evaluate the total potential benefits from addressing obstacles to closed-loop textile recycling?",
+      "answer": "Five."
+    },
+    {
+      "question": "What are the three dimensions across which the eight holistic impact metrics are defined?",
+      "answer": "Economic, environmental, and social dimensions."
+    },
+    {
+      "question": "How is the reduction in CO2e emissions valued in the study?",
+      "answer": "At $60 per metric ton of CO2e, based on the average 2030 price for one carbon offset under California\u2019s cap-and-trade program."
+    },
+    {
+      "question": "What is used as the basis for estimating the dollar value of conserving land and water used in lower-cost operations in countries such as Bangladesh?",
+      "answer": "The market value of land and water in those countries."
+    },
+    {
+      "question": "What methodology was used to size the total environmental impact of the closed-loop system?",
+      "answer": "The methodology used is broadly consistent with the ISO 14040: 2006 methodology of the International Organization for Standardization."
+    },
+    {
+      "question": "How was the total environmental impact allocated across initiatives?",
+      "answer": "The total impact was allocated across initiatives proportionate to their total annualized costs, including run-rate operating costs and amortized capital costs."
+    },
+    {
+      "question": "What are the 12 initiatives to advance fashion circularity focused on?",
+      "answer": "The 12 initiatives are focused on interventions relevant to polyester across the fashion lifecycle, including input materials, manufacturing, retail/consumption, collection, sorting, and recycling."
+    },
+    {
+      "question": "Why was recycled polyester chosen as the use case for the initiatives?",
+      "answer": "Recycled polyester was chosen because instead of downcycling or exporting used polyester, it can be used by apparel manufacturers to produce new products, keeping the material in a closed loop."
+    },
+    {
+      "question": "How was the holistic impact of fashion circularity across California and the US estimated?",
+      "answer": "A multiplier was applied to the estimate of total holistic impact from closed-loop recycling of polyester in California to generate a rough estimate of the holistic impact across California and the US, taking all fiber types into consideration."
+    },
+    {
+      "question": "Why was recycled polyester chosen as the initial focus for scaling textile circularity in California?",
+      "answer": "The text states that polyester is the most used fiber in the world, and demand is growing. Additionally, more than 70 brands have committed to increasing their use of recycled polyester, and polyester chemical recycling is one of the most promising textile-to-textile recycling technologies with scaling potential."
+    },
+    {
+      "question": "What percentage of the global fiber market does polyester account for?",
+      "answer": "According to the text, polyester accounts for ~50 percent of the global fiber market."
+    },
+    {
+      "question": "What is the goal of the Textile Exchange's 2025 Recycled Polyester Challenge?",
+      "answer": "The goal is to increase recycled polyester use from 14 percent today to 45 percent by 2025."
+    },
+    {
+      "question": "Why is the fashion industry facing increased competition for recycled polyester made from plastic water bottles?",
+      "answer": "Beverage and bottle manufacturers have also committed to using more recycled content in their products, increasing competition for rPET material."
+    },
+    {
+      "question": "What is a key issue associated with using recycled polyester?",
+      "answer": "Both virgin and recycled polyester sheds microplastics that pollute major water bodies and interfere with organic functions."
+    },
+    {
+      "question": "How many initiatives were identified as having the greatest potential for advancing fashion circularity in California?",
+      "answer": "Eight core initiatives were identified as having the greatest potential."
+    },
+    {
+      "question": "How were the eight core initiatives identified?",
+      "answer": "The initiatives were identified in consultation with more than 30 experts in the fashion and waste management industries."
+    },
+    {
+      "question": "What is necessary for fashion circularity to happen?",
+      "answer": "Fashion circularity cannot happen without willingness to purchase recycled, instead of virgin, input materials and apparel and development of increased collection, sorting, and recycling capacity."
+    },
+    {
+      "question": "How many core initiatives were identified to advance fashion circularity in California?",
+      "answer": "Eight core initiatives were identified to advance fashion circularity in California."
+    },
+    {
+      "question": "What is the estimated percentage of input materials discarded during garment production?",
+      "answer": "An estimated 12-30 percent of input materials are discarded during the production of garments."
+    },
+    {
+      "question": "How much pre-consumer polyester waste is estimated to be generated in California?",
+      "answer": "About 20,000 tons of polyester, which is approximately 8 percent of estimated total polyester apparel waste generated in California."
+    },
+    {
+      "question": "What percentage of consumers in California might be willing to pay a premium for recycled clothing?",
+      "answer": "55-60 percent of value and mass market consumers in California might be willing to pay a premium of 2-3 percent for recycled clothing."
+    },
+    {
+      "question": "What percentage of estimated total polyester apparel waste is generated in California?",
+      "answer": "2-4 percent."
+    },
+    {
+      "question": "What happens to most end-of-life garments that are collected by donation centers and drop-off containers?",
+      "answer": "80-90 percent of these garments do not sell off the rack in local thrift shops."
+    },
+    {
+      "question": "Why is curbside textile collection considered expensive?",
+      "answer": "It is one of the most expensive methods per ton."
+    },
+    {
+      "question": "What is the purpose of a highly automated facility to sort and deconstruct polyester textiles?",
+      "answer": "To sort textiles by fiber type and color, and to deconstruct polyester materials destined for chemical recycling."
+    },
+    {
+      "question": "What is the benefit of chemical textile recycling?",
+      "answer": "It can produce virgin-quality recycled fibers over many iterations."
+    },
+    {
+      "question": "What is the estimated total holistic impact of closed-loop textile recycling in California per year?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What is the estimated impact of closed-loop recycling of pure and blended polyester apparel manufactured and/or worn in California per year?",
+      "answer": "$3.5-4.5 billion."
+    },
+    {
+      "question": "What is the estimated total holistic impact of closed-loop textile recycling in California per year?",
+      "answer": "$7-9 billion a year."
+    },
+    {
+      "question": "What percentage of the state's 2020 gross domestic product is the estimated total holistic impact of closed-loop textile recycling in California?",
+      "answer": "4-6 percent."
+    },
+    {
+      "question": "How much polyester is assumed to be recycled in California by 2030?",
+      "answer": "~225,000 tons."
+    },
+    {
+      "question": "What percentage of the total holistic impact is attributed to environmental and social benefits?",
+      "answer": "30-40 percent."
+    },
+    {
+      "question": "What is the estimated annual holistic impact from closed-loop recycling of pure and blended polyester apparel manufactured and/or worn in California?",
+      "answer": "$3.5-4.5 billion a year."
+    },
+    {
+      "question": "What percentage of pure and blended polyester apparel consumed in California is assumed to be recycled by 2030?",
+      "answer": "76 percent."
+    },
+    {
+      "question": "What is the primary source of the remaining 60-70 percent of the total holistic impact?",
+      "answer": "Economic benefits of an at-scale circular economy with cost-neutral recycled inputs."
+    },
+    {
+      "question": "What is the environmental impact of using recycled polyester instead of virgin polyester in apparel production?",
+      "answer": "Using recycled polyester reduces carbon emissions, water use, land-use, and chemicals use."
+    },
+    {
+      "question": "How many collection, sorting, and recycling jobs could be created by building an industry to produce recycled polyester in California?",
+      "answer": "An estimated 8,500-9,000 jobs."
+    },
+    {
+      "question": "What is the total potential environmental impact from closed-loop recycling of polyester?",
+      "answer": "~355K metric tons of CO2e emissions abated, ~12B m3 of water saved, ~170K hectares of land saved, and ~330K tons of chemicals saved."
+    },
+    {
+      "question": "How many jobs could be created if the industry is scaled up to produce all types of recycled apparel materials in California?",
+      "answer": "17,000-18,000 collection, sorting, and recycling jobs."
+    },
+    {
+      "question": "What is the equivalent of ~355K metric tons of CO2e emissions abated?",
+      "answer": "Emissions from 75-80K cars driven for one year."
+    },
+    {
+      "question": "What is the environmental benefit of using recycled polyester instead of virgin polyester?",
+      "answer": "Recycled polyester requires less carbon emissions, water use, land-use, and chemicals use."
+    },
+    {
+      "question": "How many jobs could be created by producing all types of recycled apparel materials in California?",
+      "answer": "17,000-18,000 collection, sorting, and recycling jobs."
+    },
+    {
+      "question": "What is the estimated total potential environmental impact from closed-loop recycling of polyester?",
+      "answer": "~355K metric tons of CO2e emissions abated, ~12B m3 of water saved, ~170K hectares of land saved, and ~330K tons of chemicals saved."
+    },
+    {
+      "question": "How much investment is required to build an at-scale circular textiles economy for polyester textiles?",
+      "answer": "$1 billion in initial capital expenditures (CapEx) and $1.5 billion annually to operating expenses (OpEx)."
+    },
+    {
+      "question": "What is the return on investment for a circular fashion ecosystem?",
+      "answer": "Every $1.00 spent could generate ~$2.70 of net holistic impact."
+    },
+    {
+      "question": "What is the estimated annual holistic impact of a circular textiles economy for polyester textiles?",
+      "answer": "$3.5-4.5 billion"
+    },
+    {
+      "question": "How much initial capital expenditures (CapEx) and annual operating expenses (OpEx) are required to build an at-scale circular textiles economy for polyester textiles?",
+      "answer": "$1 billion in initial CapEx and $1.5 billion annually in OpEx"
+    },
+    {
+      "question": "What is the return on investment for every $1.00 spent on a circular fashion ecosystem?",
+      "answer": "~$2.70 of net holistic impact"
+    },
+    {
+      "question": "Which stakeholders might not profit in a nascent circular economy?",
+      "answer": "Waste haulers, collectors, and sorters"
+    },
+    {
+      "question": "How many core initiatives are likely to be self-sustaining in the long term?",
+      "answer": "Three (#1, 2, and 8)"
+    },
+    {
+      "question": "What is the additional annual cost for fashion brands to replace ~225,000 tons of virgin polyester with recycled polyester?",
+      "answer": "$75-80 million"
+    },
+    {
+      "question": "How much incremental revenue could be generated by promoting and selling recycled apparel to shoppers?",
+      "answer": "$1.9-2.2 billion"
+    },
+    {
+      "question": "How much could marketing efforts to promote closed-loop recycling to shoppers cost per year?",
+      "answer": "~$135 million a year."
+    },
+    {
+      "question": "What is the estimated incremental revenue generated from promoting closed-loop recycling to shoppers?",
+      "answer": "$1.9-2.2 billion."
+    },
+    {
+      "question": "How much capital expenses might be required to build a large-scale chemical recycling facility in California?",
+      "answer": "$560-570 million."
+    },
+    {
+      "question": "What are the estimated annual operating expenses for a large-scale chemical recycling facility?",
+      "answer": "~$135 million a year."
+    },
+    {
+      "question": "What is the expected annual revenue from a large-scale chemical recycling facility?",
+      "answer": "~$390 million a year."
+    },
+    {
+      "question": "What is the estimated payback period for the upfront capital investment in a large-scale chemical recycling facility?",
+      "answer": "Less than three years."
+    },
+    {
+      "question": "What are the annual run-rate operating expenses for collecting pre-consumer polyester waste from apparel manufacturers and retail stores?",
+      "answer": "$6-7 million."
+    },
+    {
+      "question": "How much revenue is expected from selling collected pre-consumer polyester waste?",
+      "answer": "~$2 million."
+    },
+    {
+      "question": "What is the estimated annual operating expense for collecting pre-consumer waste?",
+      "answer": "$6-7 million"
+    },
+    {
+      "question": "How much polyester waste is expected to be collected from apparel manufacturers and retail stores?",
+      "answer": "~11,000 tons from apparel manufacturers and ~4,000 tons from retail stores"
+    },
+    {
+      "question": "Why might apparel manufacturers and retail stores require additional incentives to collect pre-consumer waste?",
+      "answer": "Because the costs of collection would exceed the expected revenues from selling collected textiles"
+    },
+    {
+      "question": "What percentage of total textile waste is pre-consumer waste?",
+      "answer": "10-12 percent"
+    },
+    {
+      "question": "What is the estimated annual operating expense required to scale post-consumer waste collection to ~135,000 tons a year?",
+      "answer": "$275 million a year"
+    },
+    {
+      "question": "What is the estimated revenue generated from selling collected post-consumer textiles at current feedstock prices?",
+      "answer": "$35-40 million"
+    },
+    {
+      "question": "What is the implied system-level revenue shortfall for post-consumer waste collection?",
+      "answer": "$240-245 million"
+    },
+    {
+      "question": "Why might curbside textile collection be most viable in densely populated urban areas?",
+      "answer": "Because it requires significant scale to justify the costs of door-to-door collection"
+    },
+    {
+      "question": "What was the outcome of New York City's curbside textile collection program as of 2018?",
+      "answer": "More than 13 million pounds of textile materials were recycled"
+    },
+    {
+      "question": "What is the estimated annual operating expense for curbside textile collection in Los Angeles, San Francisco, and select Bay Area counties?",
+      "answer": "$310 million a year."
+    },
+    {
+      "question": "How much textile materials were recycled through New York City's curbside textile collection program as of 2018?",
+      "answer": "More than 13 million pounds."
+    },
+    {
+      "question": "What is the estimated one-time cost to provide textile-specific bins for curbside textile collection in Los Angeles, San Francisco, and select Bay Area counties?",
+      "answer": "$275 million."
+    },
+    {
+      "question": "What is the estimated initial capital investment required to build an automated sorting facility in California?",
+      "answer": "~$160 million."
+    },
+    {
+      "question": "What are the three potential strategies to make the business model for closed-loop recycling work for collectors and sorters?",
+      "answer": "Consumer fees, public funding or subsidies, and business model innovation."
+    },
+    {
+      "question": "How much revenue might be generated from selling collected textiles in Los Angeles, San Francisco, and select Bay Area counties?",
+      "answer": "$30 million."
+    },
+    {
+      "question": "What is the total holistic impact at risk if the five challenged initiatives do not receive external funding or find ways to reduce costs?",
+      "answer": "$3.5-4.5 billion."
+    },
+    {
+      "question": "What is the estimated initial capital investment required to build an automated sorting facility?",
+      "answer": "~$160 million."
+    },
+    {
+      "question": "What are the estimated annual operating expenses for an automated sorting facility?",
+      "answer": "$20 million for sorting, plus $40 million for manual deconstruction."
+    },
+    {
+      "question": "What are the three potential strategies to make the business model for closed-loop recycling work for collectors and sorters?",
+      "answer": "Consumer fees, public funding or subsidies, and business model innovation."
+    },
+    {
+      "question": "How could public funding or subsidies provided to challenged initiatives change over time?",
+      "answer": "They could decline gradually, potentially without negative impact on the sector, as the market scaled and stabilized."
+    },
+    {
+      "question": "What is required to unlock the total potential holistic impact of closed-loop recycling?",
+      "answer": "Players across the apparel industry should act in tandem on three fronts: expanding textile collection, sorting textiles, and establishing internal collection channels for pre-consumer waste and encouraging the collection of post-consumer waste."
+    },
+    {
+      "question": "Who has a role to play in textile collection?",
+      "answer": "Thrift centers and consignment stores, municipalities, and California residents."
+    },
+    {
+      "question": "How could retailers expand the collection of post-consumer waste?",
+      "answer": "By encouraging and increasing the convenience of donating end-of-life garments, for example, by offering exclusive promotions or take-back programs."
+    },
+    {
+      "question": "What percentage of materials used in apparel manufacturing in California are virgin materials?",
+      "answer": "More than 97 percent."
+    },
+    {
+      "question": "How many tons of textile waste go to the landfill in California?",
+      "answer": "Some 500,000 tons."
+    },
+    {
+      "question": "What is the potential total economic, environmental, and social impact of establishing a circular apparel industry in California?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What is the return on investment for every dollar spent on building a circular apparel industry in California?",
+      "answer": "$2.70."
+    },
+    {
+      "question": "What types of fibers can current technologies chemically recycle?",
+      "answer": "Polyester, man-made cellulosic fibers, and cotton."
+    },
+    {
+      "question": "What percentage of all apparel is made up of fibers that can be chemically recycled by current technologies?",
+      "answer": "Over 80 percent."
+    },
+    {
+      "question": "What percentage of materials used in apparel manufacturing in California are virgin materials?",
+      "answer": "More than 97 percent."
+    },
+    {
+      "question": "How much textile waste goes to the landfill in California?",
+      "answer": "Some 500,000 tons."
+    },
+    {
+      "question": "What is the estimated total economic, environmental, and social impact of establishing a circular apparel industry in California?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What is the return on investment for every $1.00 spent on establishing a circular apparel industry in California?",
+      "answer": "$2.70 in holistic impact."
+    },
+    {
+      "question": "What is required to achieve a closed-loop apparel industry in California?",
+      "answer": "Developing collection, sorting, and recycling capacity to enable production of recycled input materials."
+    },
+    {
+      "question": "What is the definition of closed-loop recycling?",
+      "answer": "A process that recycles pre- and post-consumer waste to supply materials used to manufacture new versions of the original items."
+    },
+    {
+      "question": "What is chemical recycling?",
+      "answer": "A method of recycling that uses chemical processes to break down pure and blended textiles into their basic components and then repolymerizes them into virgin-quality recycled input materials."
+    },
+    {
+      "question": "What is the difference between closed-loop recycling and sustainable manufacturing?",
+      "answer": "Closed-loop recycling is a specific process, while sustainable manufacturing includes broader dimensions such as low intensity of secondary input (power, water, chemicals)."
+    },
+    {
+      "question": "What is required for success in increasing fashion circularity?",
+      "answer": "A commitment to circularity, bold action, and resolve from stakeholders across the fashion lifecycle."
+    },
+    {
+      "question": "What is chemical cotton/cellulose recycling?",
+      "answer": "Dissolving natural cotton or cellulosic textile with a solvent to break the textile down into a cellulose pulp and then regenerating the pulp into man-made cellulosic fibers via the viscose process."
+    },
+    {
+      "question": "What is the definition of circularity?",
+      "answer": "Infrastructure and processes meant to ensure that inputs are safe; products remain in use longer; products are recyclable and recycled into inputs for the value chain."
+    },
+    {
+      "question": "What is the difference between closed-loop recycling and sustainable manufacturing?",
+      "answer": "Closed-loop recycling is a process that recycles pre- and post-consumer waste to supply materials used to manufacture new versions of the original items, while sustainable manufacturing includes broader dimensions such as low intensity of secondary input."
+    },
+    {
+      "question": "What is downcycling?",
+      "answer": "A process of recycling that yields a product of lower value or functionality than the original item."
+    },
+    {
+      "question": "What is mechanical recycling?",
+      "answer": "A method of recycling that transforms end-of-life materials into secondary materials without changing their basic chemical composition."
+    },
+    {
+      "question": "What is the definition of polyester?",
+      "answer": "Fiber derived from chemical reactions with crude oil, air, and water."
+    },
+    {
+      "question": "What is polyethylene terephthalate (PET)?",
+      "answer": "The chemical name for polyester, a clear, strong, lightweight plastic used in packaging or extruded to form synthetic polyester fibers."
+    },
+    {
+      "question": "What is the chemical name for polyester?",
+      "answer": "Polyethylene terephthalate (PET)."
+    },
+    {
+      "question": "How is polyester made?",
+      "answer": "Polyester is made by melting PET pellets and forcing the melted substance through small holes (extrusion) to create fibers."
+    },
+    {
+      "question": "What is post-consumer industrial waste?",
+      "answer": "Apparel waste that has been worn by consumers but is managed by businesses like hotels and hospitals; includes uniforms."
+    },
+    {
+      "question": "What is textile-to-textile recycling?",
+      "answer": "Process of recovering materials from pre- and post-consumer textile waste and producing yarns for new fabrics."
+    },
+    {
+      "question": "What is upcycling?",
+      "answer": "Process of recycling end-of-life materials that adds value, yielding a product of equal or higher value than the original item."
+    },
+    {
+      "question": "What is virgin material?",
+      "answer": "Previously unused input materials that require extracting new resources to produce."
+    },
+    {
+      "question": "What are pure textiles?",
+      "answer": "Yarn or fabric manufactured with only one fiber type, such as 100 percent cotton or 100 percent polyester."
+    },
+    {
+      "question": "What are samples in the context of apparel?",
+      "answer": "Versions of a garment made to check fit, display in stores or photo shoots, run quality tests, etc. Garments cannot then be sold to consumers."
+    },
+    {
+      "question": "What is the chemical name for polyester?",
+      "answer": "Polyethylene terephthalate (PET)."
+    },
+    {
+      "question": "How is polyester made?",
+      "answer": "Polyester is made by melting PET pellets and forcing the melted substance through small holes (extrusion) to create fibers."
+    },
+    {
+      "question": "What is post-consumer industrial waste?",
+      "answer": "Apparel waste that has been worn by consumers but is managed by businesses like hotels and hospitals; includes uniforms."
+    },
+    {
+      "question": "What is textile-to-textile recycling?",
+      "answer": "Process of recovering materials from pre- and post-consumer textile waste and producing yarns for new fabrics."
+    },
+    {
+      "question": "What is upcycling?",
+      "answer": "Process of recycling end-of-life materials that adds value, yielding a product of equal or higher value than the original item."
+    },
+    {
+      "question": "What is virgin material?",
+      "answer": "Previously unused input materials that require extracting new resources to produce."
+    },
+    {
+      "question": "What are pure textiles?",
+      "answer": "Yarn or fabric manufactured with only one fiber type."
+    },
+    {
+      "question": "What are samples in the context of garment production?",
+      "answer": "Versions of a garment made to check fit, display in stores or photo shoots, run quality tests, etc. Garments cannot then be sold to consumers."
+    },
+    {
+      "question": "What percentage of collected apparel units is assumed to end up being landfilled?",
+      "answer": "About 5 percent."
+    },
+    {
+      "question": "What percentage of total apparel sold to and used by Californians is assumed to be closed-loop recycled?",
+      "answer": "Less than 1 percent."
+    },
+    {
+      "question": "What is the source of the assumption that less than 1 percent of total apparel sold to and used by Californians is closed-loop recycled?",
+      "answer": "\u201cA new textiles economy,\u201d 2017."
+    },
+    {
+      "question": "What is the estimated percentage of fabric materials lost during manufacturing?",
+      "answer": "12-30 percent."
+    },
+    {
+      "question": "What is the estimated percentage of deadstock?",
+      "answer": "5-15 percent."
+    },
+    {
+      "question": "What is the overall split of pre-consumer waste validated with expert interviews?",
+      "answer": "30 / 70."
+    },
+    {
+      "question": "What percentage of post-consumer aluminum cans in the US are collected and recycled?",
+      "answer": "About 50 percent."
+    },
+    {
+      "question": "What are the two major providers of automated sorting technology for textiles?",
+      "answer": "Valvan Baling Systems (Fibersort) and Tomra (Autosort)."
+    },
+    {
+      "question": "What is depolymerization in the context of plastic recycling?",
+      "answer": "Depolymerization breaks the chemical bonds in a polymer to decompose it into building-block molecules called monomers."
+    },
+    {
+      "question": "Why did some municipalities' at-home pick-up programs for used textiles fail?",
+      "answer": "Due to high costs, lack of participation, or difficulty keeping textiles clean and segregated from other waste."
+    },
+    {
+      "question": "What is the estimated percentage of total aluminum produced in the US that remains in use today?",
+      "answer": "About 75 percent."
+    },
+    {
+      "question": "Why did most textile recycling programs, such as the one in San Francisco, cease to operate?",
+      "answer": "Most of the programs no longer operate due to high costs, lack of participation, or difficulty keeping textiles clean and segregated from other waste."
+    },
+    {
+      "question": "How many collection locations are there in select Bay Area Counties for textile recycling?",
+      "answer": "There are 103 collection locations in select Bay Area Counties."
+    },
+    {
+      "question": "What percentage of private landfills in California are owned by WM and Republic Services?",
+      "answer": "WM and Republic Services own 75 percent of private landfills in California."
+    },
+    {
+      "question": "How did Alameda County collect textiles from homes?",
+      "answer": "Alameda County picked up textiles from homes twice a year."
+    },
+    {
+      "question": "What was the source of insights in the chapter on increasing fashion circularity in California?",
+      "answer": "The insights were derived from primary data gathered by the McKinsey 2021 California Fashion Circularity Survey."
+    },
+    {
+      "question": "In which years did San Benito County and the City of Napa offer curbside pick-up of used textiles?",
+      "answer": "2019 and 2020."
+    },
+    {
+      "question": "How often did Alameda County pick up textiles from homes?",
+      "answer": "Twice a year."
+    },
+    {
+      "question": "What percentage of private landfills in California are owned by WM and Republic Services?",
+      "answer": "75 percent."
+    },
+    {
+      "question": "How many respondents were surveyed in the McKinsey 2021 California Fashion Circularity Survey?",
+      "answer": "Approximately 1,000 respondents."
+    },
+    {
+      "question": "What was the age range of 112 respondents in the McKinsey 2021 California Fashion Circularity Survey?",
+      "answer": "18-24."
+    },
+    {
+      "question": "How many respondents bought 'masstige' clothing according to the McKinsey 2021 California Fashion Circularity Survey?",
+      "answer": "347 of 1,002 respondents."
+    },
+    {
+      "question": "What is the estimated total holistic impact for California of switching from virgin to recycled apparel for all fiber types?",
+      "answer": "$7-9 billion."
+    },
+    {
+      "question": "What is the estimated total holistic impact for the US of switching from virgin to recycled apparel for all fiber types?",
+      "answer": "$50-70 billion."
+    },
+    {
+      "question": "Why do the percentages in the survey add up to more than 100 percent?",
+      "answer": "The percentages add up to more than 100 percent because respondents could select multiple conditions."
+    },
+    {
+      "question": "What is included in the holistic impact?",
+      "answer": "Holistic impact includes economic, environmental, and social benefits: CO2e emissions abatement, water use reduction, land use reduction, chemical use reduction, job creation, GDP from job creation, revenue growth, and cost savings."
+    },
+    {
+      "question": "What is the estimated potential holistic impact for the US?",
+      "answer": "The estimated potential holistic impact for the US is $50-70 billion."
+    },
+    {
+      "question": "How much can the total holistic impact for California be roughly sized?",
+      "answer": "The total holistic impact for California can be roughly sized at $7-9 billion for switching from virgin to recycled apparel for all fiber types."
+    },
+    {
+      "question": "How much textile can US textile-to-textile chemical recyclers currently process per month?",
+      "answer": "US textile-to-textile chemical recyclers are only able to process <1,000 tons of textiles per month."
+    },
+    {
+      "question": "What percentage of today's fashion industry is expected to be polyester and cotton fibers used in blended fabrics?",
+      "answer": "Polyester and cotton fibers used in blended fabrics are expected to be 50-55 percent of today's fashion industry."
+    },
+    {
+      "question": "How is CO2e emissions reduction sizing based?",
+      "answer": "CO2e emissions reduction sizing is based on the average of the 2030 minimum and 2030 maximum values of a carbon offset under California's cap-and-trade program."
+    },
+    {
+      "question": "According to ISO 14040:2006, how can recycling benefits be measured?",
+      "answer": "Recycling benefits can be measured based on the reduced environmental burden of virgin raw material."
+    },
+    {
+      "question": "What percentage of US apparel and textile imports are synthetics?",
+      "answer": "50-55 percent."
+    },
+    {
+      "question": "What is the majority of synthetic fibers in US apparel and textile imports made of?",
+      "answer": "Polyester."
+    },
+    {
+      "question": "What law was passed in California in November 2020 regarding plastic beverage containers?",
+      "answer": "A law requiring plastic beverage containers to gradually increase their percent of recycled content to at least 50 percent by 2030."
+    },
+    {
+      "question": "How many local apparel manufacturers are located in Los Angeles County?",
+      "answer": "90+."
+    },
+    {
+      "question": "How many tons of polyester waste are estimated to be available in California?",
+      "answer": "20,000 tons."
+    },
+    {
+      "question": "Who are the two major providers of automated sorting technology?",
+      "answer": "Valvan Baling Systems (Fibersort) and Tomra (Autosort)."
+    },
+    {
+      "question": "How many local apparel manufacturers are located in Los Angeles County?",
+      "answer": "90+."
+    },
+    {
+      "question": "What is the estimated amount of polyester waste available in California?",
+      "answer": "20,000 tons."
+    },
+    {
+      "question": "Who are the two major providers of automated sorting technology?",
+      "answer": "Valvan Baling Systems (Fibersort) and Tomra (Autosort)."
+    },
+    {
+      "question": "What percentage of all apparel is estimated to be pure and blended polyester?",
+      "answer": "49 percent."
+    },
+    {
+      "question": "What is the estimated volume of apparel waste generated in California in 2020?",
+      "answer": "510,000-530,000 tons."
+    },
+    {
+      "question": "What percentage of donated garments are sold secondhand at local or online thrift shops today?",
+      "answer": "10-20 percent."
+    },
+    {
+      "question": "What is the estimated carbon emissions in the production of virgin polyester raw materials per kg?",
+      "answer": "2-4 kg CO2e."
+    },
+    {
+      "question": "What percentage of all apparel waste is estimated to be pure and blended polyester?",
+      "answer": "49 percent."
+    },
+    {
+      "question": "What is the estimated percentage of donated garments that are sold secondhand at local or online thrift shops?",
+      "answer": "10-20 percent."
+    },
+    {
+      "question": "What are the estimated carbon emissions in the production of virgin polyester raw materials per kg?",
+      "answer": "2-4 kg CO2e."
+    },
+    {
+      "question": "What are the estimated carbon emissions in the production of recycled polyester per kg?",
+      "answer": "0.5-2 kg CO2e."
+    },
+    {
+      "question": "What is the estimated price of carbon per metric ton of CO2e based on California's cap-and-trade program?",
+      "answer": "$62."
+    },
+    {
+      "question": "How much water is consumed in the production of 1 kg of virgin polyester raw materials versus recycled polyester?",
+      "answer": "0.06 m3 of water is consumed in the production of 1 kg of virgin polyester raw materials, versus virtually no water required to produce recycled polyester."
+    },
+    {
+      "question": "What is the estimated value of water use reduction based on the price of water in low-cost countries?",
+      "answer": "$0.17 per m3 of water in Dhaka, Bangladesh."
+    },
+    {
+      "question": "How many hectares are required to produce raw materials for virgin polyester versus recycled polyester?",
+      "answer": "0.2-1.8 hectares per ton of virgin polyester, versus 0-0.2 hectares per ton of recycled polyester."
+    },
+    {
+      "question": "What is the main source of savings in producing recycled polyester?",
+      "answer": "No longer needing to extract crude oil to produce ethylene glycol and terephthalic acid, since recycled polyester uses existing plastic waste."
+    },
+    {
+      "question": "How many incremental jobs are estimated to be required for textile recycling initiatives?",
+      "answer": "8,500-9,000 incremental jobs."
+    },
+    {
+      "question": "What percentage of total incremental jobs could post-consumer waste collection account for?",
+      "answer": "~75 percent."
+    },
+    {
+      "question": "What percentage of all apparel is pure and blended polyester?",
+      "answer": "49 percent."
+    },
+    {
+      "question": "How many incremental jobs are estimated to be created for operating pre- and post-consumer waste collection initiatives, an automated sorting facility, and a chemical textile recycling facility?",
+      "answer": "8,500-9,000 incremental jobs."
+    },
+    {
+      "question": "What percentage of total incremental jobs could be attributed to post-consumer waste collection?",
+      "answer": "~75 percent."
+    },
+    {
+      "question": "What is the estimated multiplier used to size the total number of incremental collection, sorting, and recycling jobs for all types of recycled apparel materials in California?",
+      "answer": "An estimated multiplier of two."
+    },
+    {
+      "question": "How many jobs were involved in waste collection, waste treatment and disposal, and remediation and other waste management services in California as of May 2020?",
+      "answer": "51,400 jobs."
+    },
+    {
+      "question": "What is the basis for the estimated annual cost of using recycled polyester raw materials instead of virgin polyester raw materials?",
+      "answer": "The cost difference was based on the current price of virgin polyester raw materials ($1,400 per US ton) and the expected price of recycled polyester raw materials ($1,750 per US ton, assuming a 25 percent premium over virgin polyester)."
+    },
+    {
+      "question": "What percentage premium are value and mass market consumers willing to pay for recycled clothing according to the consumer survey?",
+      "answer": "2-3 percent premium."
+    },
+    {
+      "question": "What is the estimated total volume of post-consumer polyester waste generated in California in 2030?",
+      "answer": "~295,000 tons."
+    },
+    {
+      "question": "How much post-consumer polyester waste could be collected if 76 percent of polyester waste sent to the landfill today were diverted for closed-loop recycling?",
+      "answer": "~225,000 tons."
+    },
+    {
+      "question": "What is the estimated cost per pound to transport apparel waste?",
+      "answer": "$0.20-0.40 per pound (initial estimate) and approximately $1.00 per pound (later estimate)."
+    },
+    {
+      "question": "What percentage of collected materials are assumed to be sold to textile-to-textile recyclers?",
+      "answer": "80-90 percent."
+    },
+    {
+      "question": "What is the estimated premium that value and mass market consumers may be willing to pay for recycled clothing?",
+      "answer": "2-3 percent."
+    },
+    {
+      "question": "What is the current feedstock price range for unsorted textile waste?",
+      "answer": "$0.10-0.20 per kg."
+    },
+    {
+      "question": "What price range may international clothing wholesalers be willing to pay for textile waste?",
+      "answer": "$0.25-1.50 per kg."
+    },
+    {
+      "question": "Why might collectors prefer to sell textile waste overseas rather than to closed-loop recycling?",
+      "answer": "Without additional financial incentives, it may be more profitable for collectors to sell their textile waste overseas rather than to closed-loop recycling."
+    },
+    {
+      "question": "What percentage of collected materials are assumed to be sold to textile-to-textile recyclers?",
+      "answer": "80-90 percent."
+    },
+    {
+      "question": "By when have European Union member states committed to collect textiles separately?",
+      "answer": "2025."
+    },
+    {
+      "question": "What is the estimated average price of sorted waste per ton of polyester?",
+      "answer": "$100-300."
+    },
+    {
+      "question": "Why is the price of feedstock in the future considered highly uncertain?",
+      "answer": "Because it depends on supply/demand economics that are hard to predict as the nascent industry evolves."
+    },
+    {
+      "question": "What is an example given of reducing incremental costs for collecting used garments?",
+      "answer": "Loading a supply truck that would otherwise drive back from the retail store to the distribution center nearly empty with used garments collected in-store."
+    },
+    {
+      "question": "Why is the price of feedstock highly uncertain in the future?",
+      "answer": "Because it depends on supply/demand economics that are hard to predict as the nascent industry evolves."
+    },
+    {
+      "question": "What is an example given of reducing incremental cost?",
+      "answer": "A supply truck that would otherwise drive back from the retail store to the distribution center nearly empty could be loaded with used garments collected in-store for a low incremental cost."
+    },
+    {
+      "question": "What percentage of total fiber output is used in apparel manufacturing?",
+      "answer": "65-75 percent."
+    },
+    {
+      "question": "What is the breakdown by fiber type used in apparel manufacturing?",
+      "answer": "60-70 percent of synthetics, 75-85 percent of cotton, 60-70 percent of man-made cellulosic fibers, 80-90 percent of other plant-based, silk, and wool, and 30-50 percent of down."
+    },
+    {
+      "question": "Why are some blended fiber types a problem for chemical recycling?",
+      "answer": "Other blends, such as those containing elastane, cannot be processed by current technologies."
+    },
+    {
+      "question": "What is the benefit for employees who experience purpose at work?",
+      "answer": "They are 2.8 times more likely to stay at their current employer and there is a 69 percent lower likelihood of quitting in the next six months."
+    },
+    {
+      "question": "When was the blog entry 'What is deadstock? Why it\u2019s bad and how to avoid' published?",
+      "answer": "March 12, 2021."
+    },
+    {
+      "question": "Who wrote the blog entry 'How companies can source man-made cellulosic fibers more sustainably'?",
+      "answer": "Liesl Truscott."
+    },
+    {
+      "question": "When was the blog entry '14 different types of clothing samples' published?",
+      "answer": "August 26, 2018."
+    },
+    {
+      "question": "What is the publication date of the document 'Closing the loop: Increasing fashion circularity in California'?",
+      "answer": "April 2022."
+    },
+    {
+      "question": "Who designed the document 'Closing the loop: Increasing fashion circularity in California'?",
+      "answer": "US Design Center."
+    }
+  ]
+}

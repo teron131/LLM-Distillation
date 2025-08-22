@@ -1,0 +1,2773 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences:\n\nThe eighth issue of McKinsey on Investing, a compendium of insights for the investing industry, explores the evolving landscape of private markets and investment firms. The publication features research and perspectives from McKinsey experts on topics such as diversity in private equity, infrastructure investing, and digital technologies in wealth management. The issue highlights the challenges and opportunities facing investors in a turbulent market, including the need for value creation and strategic decision-making. It also includes new research on the state of diversity in private equity and the role of institutional investors in driving change.",
+  "qa_pairs": [
+    {
+      "question": "Who is the Editor in Chief of McKinsey on Investing?",
+      "answer": "Lucia Rahilly"
+    },
+    {
+      "question": "What is the email address to send comments or request copies of McKinsey on Investing?",
+      "answer": "Investing@McKinsey.com"
+    },
+    {
+      "question": "What is the title of the article featuring Jenny Johnson, president and CEO of Franklin Templeton?",
+      "answer": "How an acquisition invigorated an asset management leader"
+    },
+    {
+      "question": "Who is the chief diversity, equity, and inclusion officer featured in the interview on page 12?",
+      "answer": "Indhira Arrington"
+    },
+    {
+      "question": "What is the topic of the research discussed on page 22?",
+      "answer": "The state of diversity in global private markets: 2022"
+    },
+    {
+      "question": "Who is the venture capitalist interviewed by the editorial director of the McKinsey Quarterly?",
+      "answer": "Bill Gurley"
+    },
+    {
+      "question": "Who is the Editor in Chief of McKinsey Practice Publications?",
+      "answer": "Lucia Rahilly."
+    },
+    {
+      "question": "What is the title of the publication released by McKinsey & Company in December 2022?",
+      "answer": "McKinsey on Investing, Number 8, December 2022."
+    },
+    {
+      "question": "Who is the president and CEO of Franklin Templeton featured in the publication?",
+      "answer": "Jenny Johnson."
+    },
+    {
+      "question": "What is the topic of the interview with Bill Gurley in the publication?",
+      "answer": "The promise and perils facing start-ups at a moment of economic uncertainty."
+    },
+    {
+      "question": "Who is the global chief diversity, equity, and inclusion officer of Ares Management featured in the publication?",
+      "answer": "Indhira Arrington."
+    },
+    {
+      "question": "What is the main theme of the article 'Infrastructure investing will never be the same'?",
+      "answer": "Reassessing the risk and return dynamics of infrastructure investing due to revolutions in energy, mobility, and digitization."
+    },
+    {
+      "question": "What is the title of the publication?",
+      "answer": "McKinsey on Investing"
+    },
+    {
+      "question": "What is the issue number and date of the publication?",
+      "answer": "Number 8, December 2022"
+    },
+    {
+      "question": "Who is the lead editor of the publication?",
+      "answer": "Duncan Kauffman"
+    },
+    {
+      "question": "Who is the editor of the publication?",
+      "answer": "Arshiya Khullar"
+    },
+    {
+      "question": "What is the topic of the article on page 22?",
+      "answer": "The state of diversity in global private markets: 2022"
+    },
+    {
+      "question": "Who is interviewed on page 12?",
+      "answer": "Indhira Arrington, Ares Management\u2019s first global chief diversity, equity, and inclusion officer"
+    },
+    {
+      "question": "Who is the president and CEO of Franklin Templeton?",
+      "answer": "Jenny Johnson"
+    },
+    {
+      "question": "What is the total capital deployed across private market asset classes in 2021?",
+      "answer": "$3.5 trillion."
+    },
+    {
+      "question": "What is the expected annual investment toward next-generation climate technologies by 2025?",
+      "answer": "$2 trillion."
+    },
+    {
+      "question": "What is happening in private acquisitions of in-force books?",
+      "answer": "Private acquisitions of in-force books are growing."
+    },
+    {
+      "question": "What is the current state of fundraising and deal making for larger transactions in private markets?",
+      "answer": "Fundraising and deal making for larger transactions are well off 2021's highs."
+    },
+    {
+      "question": "Why is value creation in a portfolio crucial for firms and funds in the current market?",
+      "answer": "Value creation in a portfolio becomes a crucial differentiator for firms and funds, focusing minds on pricing, procurement, and supply chain resilience and reconfiguration."
+    },
+    {
+      "question": "What was the total capital deployed across private market asset classes in 2021?",
+      "answer": "$3.5 trillion."
+    },
+    {
+      "question": "How much was invested in venture capital in the biotech industry from 2019 to 2021?",
+      "answer": "$2 trillion."
+    },
+    {
+      "question": "What percentage of private equity entry-level roles globally were filled by women in 2021?",
+      "answer": "48%."
+    },
+    {
+      "question": "How much private funding was invested in space-related companies in 2021?",
+      "answer": "$10 billion."
+    },
+    {
+      "question": "What is the predicted annual investment in energy supply and production by 2035 to meet emission-reduction targets?",
+      "answer": "$1.5 trillion to $1.6 trillion."
+    },
+    {
+      "question": "Who is the first global chief diversity, equity, and inclusion officer at Ares Management?",
+      "answer": "Indhira Arrington."
+    },
+    {
+      "question": "How many global investment managers and institutional investors signed the UN-supported Principles for Responsible Investment in 2021?",
+      "answer": "3,500."
+    },
+    {
+      "question": "What is the predicted annual investment toward next-generation climate technologies by 2025?",
+      "answer": "$52 billion."
+    },
+    {
+      "question": "What is Indhira Arrington's role at Ares Management?",
+      "answer": "Managing director and first global chief DEI officer (CDO)."
+    },
+    {
+      "question": "Why is DEI important to Ares Management according to Indhira Arrington?",
+      "answer": "To be a force for good for Ares, for the companies in which they invest, and in the communities in which they operate, and to drive long-term performance."
+    },
+    {
+      "question": "How is Ares Management operationalizing DEI?",
+      "answer": "Through their people and culture, as well as their business and investment process, by ensuring they have the infrastructure, strategy, plans, goals, and KPIs to hold themselves and select portfolio companies accountable."
+    },
+    {
+      "question": "What is the core of Ares Management's DEI approach?",
+      "answer": "Being data-driven, setting KPIs, and holding themselves accountable for the change they want to see."
+    },
+    {
+      "question": "Where did Indhira Arrington immigrate from?",
+      "answer": "The Dominican Republic."
+    },
+    {
+      "question": "What is Indhira Arrington's educational background?",
+      "answer": "MBA from New York University Stern School of Business and a bachelor's degree in economics from Rutgers University."
+    },
+    {
+      "question": "What is Indhira Arrington's role at Ares Management Corporation?",
+      "answer": "Managing director, global chief diversity, equity, and inclusion officer."
+    },
+    {
+      "question": "What was Indhira Arrington's approach during her first 90 days as CDO at Ares?",
+      "answer": "She took a pragmatic approach and made the first 90 days about data gathering, focusing on listening."
+    },
+    {
+      "question": "What data points does Indhira Arrington consider when assessing human capital from a diversity perspective?",
+      "answer": "Recruiting plus promotions minus departures, cut by a diversity dimension and by title."
+    },
+    {
+      "question": "How many team members did Indhira Arrington meet with one-on-one?",
+      "answer": "Over 120 team members."
+    },
+    {
+      "question": "What was the purpose of Indhira Arrington's meetings with team members?",
+      "answer": "To see how they felt about working at Ares, where they thought the company was on its DEI journey, and what they thought success should look like from a DEI perspective."
+    },
+    {
+      "question": "What is a challenge that Indhira Arrington faces as a CDO?",
+      "answer": "Not owning any of the functions where the work gets done and having to drive change through influence."
+    },
+    {
+      "question": "What is Indhira Arrington's educational background?",
+      "answer": "She holds an MBA from New York University Stern School of Business and a bachelor's degree in economics from Rutgers University."
+    },
+    {
+      "question": "How did Indhira Arrington create Ares's strategic DEI plan?",
+      "answer": "Once they understood their DEI perspective, they formed a strategic plan by conducting a pipeline assessment, infrastructure assessment, and inclusion assessment with a core set of portfolio companies."
+    },
+    {
+      "question": "What assessments were conducted to identify diversity gaps and create a strategic DEI plan?",
+      "answer": "A pipeline assessment, infrastructure assessment, and inclusion assessment that included a global inclusion survey."
+    },
+    {
+      "question": "How many DEI initiatives were planned by Ares and its portfolio companies?",
+      "answer": "More than 200 DEI initiatives were planned."
+    },
+    {
+      "question": "What was the outcome of changing Ares's recruiting process?",
+      "answer": "The change involved implementing diverse talent slates at first-round interviews, requiring a minimum of four candidates with at least half being diverse."
+    },
+    {
+      "question": "What is the AltFinance Investing in Black Futures initiative?",
+      "answer": "A nonprofit initiative launched by Ares, Apollo Global Management, and Oaktree Capital Management, committing $90 million over ten years to engage, attract, and create a pathway for HBCU students to join the asset management industry."
+    },
+    {
+      "question": "Who is partnering with AltFinance Investing?",
+      "answer": "The Wharton School of the University of Pennsylvania."
+    },
+    {
+      "question": "What is the name of the charitable foundation that committed $90 million to start a nonprofit focused on HBCU students?",
+      "answer": "Ares Charitable Foundation."
+    },
+    {
+      "question": "Which three companies jointly committed $90 million to support HBCU students?",
+      "answer": "Ares Management, Apollo Global Management, and Oaktree Capital Management."
+    },
+    {
+      "question": "What is the purpose of the nonprofit started by the Ares Charitable Foundation?",
+      "answer": "To engage, attract, and create a pathway for HBCU students to join the asset management industry and provide need-based scholarships."
+    },
+    {
+      "question": "Who is partnering with the Wharton School of the University of Pennsylvania to create a curriculum for students?",
+      "answer": "AltFinance Investing."
+    },
+    {
+      "question": "What is Indhira Arrington's role at Ares Management?",
+      "answer": "Managing director and global chief diversity, equity, and inclusion officer."
+    },
+    {
+      "question": "What is Sandra Horbach's role at Carlyle?",
+      "answer": "Managing director and cohead of US buyout and growth."
+    },
+    {
+      "question": "How has the private equity industry changed in terms of diversity over the last decade?",
+      "answer": "There is a lot more focus on diversity, although many investment firms are still not diverse enough, especially at senior levels."
+    },
+    {
+      "question": "What change has Sandra Horbach observed in recruiting for private equity roles?",
+      "answer": "Firms are now looking for more specialization, people from different backgrounds such as industry experience, and functional experts like data scientists."
+    },
+    {
+      "question": "What advice does Sandra Horbach have for women looking to advance to top levels in their firms?",
+      "answer": "She notes that it was easier for her to advance when she started because the industry was growing and she was in a relatively small team, but now the industry is more mature and it takes longer to advance."
+    },
+    {
+      "question": "How have the skills required to be a successful investor changed since Sandra Horbach started investing?",
+      "answer": "The skills are now much more sophisticated due to the complexity of the world, the value creation sponsors bring to portfolio companies, and the diligence required."
+    },
+    {
+      "question": "What is the most important advice Sandra Horbach gives for advancing a career in private equity?",
+      "answer": "To be brave, be your own advocate, and don\u2019t cower away from the challenging assignments."
+    },
+    {
+      "question": "What significant assignment did Sandra Horbach have that turned out to be one of her most successful experiences?",
+      "answer": "She was tasked with looking at a turnaround investment that had gone south, and after dedicating three or four months to understanding the problems, she made recommendations that led to one of the firm's most successful investments."
+    },
+    {
+      "question": "What has Sandra Horbach learned about implementing diversity in a firm?",
+      "answer": "It must start at the top, and the firm has to be serious and committed to it, setting policies and enforcing them, such as requiring a diverse slate for lateral hiring."
+    },
+    {
+      "question": "What has been Carlyle's approach to diversity under Sandra Horbach's team?",
+      "answer": "For the past eight years, all incoming classes on her team have been at least 50 percent diverse, and for all lateral hiring, they require a diverse slate that goes through their Diversity, Equity & Inclusion Council."
+    },
+    {
+      "question": "What does Sandra Horbach encourage people at Carlyle to do regarding their careers and presence in the firm?",
+      "answer": "She encourages them to 'use your voice and own the room,' meaning they should feel they deserve to have a seat at the table and be responsible for managing their own careers."
+    },
+    {
+      "question": "What percentage of Carlyle's incoming class is Sandra Horbach trying to ensure are women or minority candidates?",
+      "answer": "At least 50 percent."
+    },
+    {
+      "question": "What model has Carlyle adopted for returning to the office after the pandemic?",
+      "answer": "A hybrid model."
+    },
+    {
+      "question": "How many days a week are Sandra Horbach's teams required to be back in the office?",
+      "answer": "Three days a week."
+    },
+    {
+      "question": "What does Sandra Horbach think is the most important thing to give to employees, especially working moms?",
+      "answer": "Flexibility."
+    },
+    {
+      "question": "What is Sandra Horbach's concern about the increased velocity in deal timelines?",
+      "answer": "It takes a toll on the team and may hurt morale, especially for women."
+    },
+    {
+      "question": "What does Sandra Horbach think is more important than having the best policies in the world for retaining talented women?",
+      "answer": "A culture that supports diverse employees."
+    },
+    {
+      "question": "What does Carlyle do for employees who want to take an extended period of time off beyond the standard parental leave policy?",
+      "answer": "They hold the position open for them when they come back."
+    },
+    {
+      "question": "Why is it important for leaders to create a truly inclusive culture in an organization?",
+      "answer": "Because if you say one thing and you are acting differently, people see that."
+    },
+    {
+      "question": "What is the responsibility of individuals in creating an inclusive culture?",
+      "answer": "It's on all of us to speak up and use our voice so that if we have an issue, we shouldn't just hold onto it ourselves."
+    },
+    {
+      "question": "What do private equity investment professionals often not spend enough time on when looking at deals?",
+      "answer": "The people side, because they are very transactional and often don't get quality time with management teams."
+    },
+    {
+      "question": "What is the advice given by Sandra Horbach for being successful in private equity?",
+      "answer": "Continually develop your network and relationships so that you have a relationship with someone before you're talking about an investment."
+    },
+    {
+      "question": "What career advice does Sandra Horbach give to women building careers in private equity?",
+      "answer": "Keep at it, and if you don't like the culture or feel limited in your current firm, don't stay there, but don't leave the industry, go and find another firm."
+    },
+    {
+      "question": "What qualities does Sandra Horbach say pay off over a career in private equity?",
+      "answer": "Tenacity, resiliency, grit."
+    },
+    {
+      "question": "What advice did Sandra Horbach give regarding career advancement?",
+      "answer": "Do the best job you can in the current job you\u2019re in."
+    },
+    {
+      "question": "What was the result of Franklin Templeton's acquisition of Legg Mason?",
+      "answer": "The acquisition roughly doubled Franklin Templeton's assets under management (AUM) to $1.5 trillion."
+    },
+    {
+      "question": "What qualities did Sandra Horbach say pay off over a career?",
+      "answer": "Tenacity, resiliency, grit."
+    },
+    {
+      "question": "What was Jenny Johnson's role before becoming president and CEO of Franklin Templeton?",
+      "answer": "She rose through the ranks of Franklin Templeton for 32 years."
+    },
+    {
+      "question": "What was the value of Franklin Templeton's acquisition of Legg Mason?",
+      "answer": "$4.5 billion."
+    },
+    {
+      "question": "What was Jenny Johnson's experience like as the new CEO of Franklin Templeton during the acquisition of Legg Mason and the onset of the pandemic?",
+      "answer": "It was a baptism by fire, with the acquisition announcement and pandemic happening a few weeks after she took over, but she had the benefit of still having the former CEO as executive chairman and an experienced CFO."
+    },
+    {
+      "question": "How long had Franklin Templeton been working on the Legg Mason transaction before it was announced?",
+      "answer": "About eight months."
+    },
+    {
+      "question": "What was the strategic plan behind Franklin Templeton's acquisition of Legg Mason?",
+      "answer": "It was part of a multiyear strategic plan to identify key growth accelerators for their business, including filling product gaps, providing client diversification, and acquiring new capabilities."
+    },
+    {
+      "question": "How did Jenny Johnson manage the integration of Legg Mason into Franklin Templeton?",
+      "answer": "By laying out and communicating very clear goals, and being proactive in talent selection and infusion, which was facilitated by a two-week trip to visit Legg Mason's investment boutiques before the lockdowns."
+    },
+    {
+      "question": "What was the primary concern of clients regarding the merger between Franklin Templeton and Legg Mason?",
+      "answer": "That the merger would be a distraction for the company."
+    },
+    {
+      "question": "How did Franklin Templeton address client concerns and retain clients after the merger?",
+      "answer": "By keeping them informed about the progress, developing a more adaptable regional distribution model, and investing significant time training their sales teams on the expanded range of capabilities."
+    },
+    {
+      "question": "What benefits has Franklin Templeton seen as a result of the merger?",
+      "answer": "Cross-selling benefits, as clients became comfortable with the decisions made by the company and started asking about additional capabilities."
+    },
+    {
+      "question": "How will Jenny Johnson define and measure the merger's success?",
+      "answer": "Jenny Johnson will measure the merger's success using traditional industry measurements such as growing the business, seeing positive net flows, and having sought-after solutions teams."
+    },
+    {
+      "question": "What is the expected outcome of the Lexington transaction on alternative assets under management?",
+      "answer": "When the Lexington transaction is closed next year, alternative assets under management are expected to approach $200 billion."
+    },
+    {
+      "question": "Why did the company choose not to fully integrate Legg Mason's independent boutiques?",
+      "answer": "The company chose not to fully integrate Legg Mason's independent boutiques to create a 'cross-fertilization' and allow the investment teams to remain independent while still providing incentives for them to focus on the broader organization's success."
+    },
+    {
+      "question": "According to Jenny Johnson, what is the biggest disruption she has seen in her 30 years in the industry?",
+      "answer": "Blockchain is the biggest disruption Jenny Johnson has seen in her 30 years in the industry."
+    },
+    {
+      "question": "What is an example of how blockchain can be used to transfer ownership of illiquid assets?",
+      "answer": "Tokenization allows an individual to build ownership rules into code, enabling the transfer of illiquid assets more easily, such as fractionalizing ownership of the Empire State Building and transferring it to multiple investors without needing an ownership transfer."
+    },
+    {
+      "question": "Has Franklin Templeton already implemented blockchain technology in any of its funds?",
+      "answer": "Yes, Franklin Templeton already has a money market fund built on blockchain."
+    },
+    {
+      "question": "Why does Jenny Johnson think it's essential to bring alternative investments to the retail space?",
+      "answer": "Jenny Johnson believes that bringing alternative investments to the retail space is necessary because the illiquidity premium has been significant, and it's dangerous to only allow wealthy people to benefit from those returns."
+    },
+    {
+      "question": "What is decentralized finance (DeFi), according to Jenny Johnson?",
+      "answer": "DeFi gives equity to the customers who help build a business, allowing them to be paid in tokens that become valuable over time, changing the traditional equity model."
+    },
+    {
+      "question": "Why do many companies prefer to stay private longer, according to Jenny Johnson?",
+      "answer": "Many companies prefer to stay private longer because when they go public, the scrutiny soars."
+    },
+    {
+      "question": "What is the historical context that Jenny Johnson uses to draw a parallel with the current state of alternative investments?",
+      "answer": "Jenny Johnson draws a parallel between the current state of alternative investments and the early days of mutual funds, which were initially hard to explain and took a long time to be embraced, with Franklin waiting over 30 years to raise the first billion dollars."
+    },
+    {
+      "question": "When does Jenny Johnson expect active management to perform better?",
+      "answer": "Jenny Johnson expects active management to perform better when central bank intervention stops, and there is more differentiation in returns."
+    },
+    {
+      "question": "What does Jenny Johnson think about the persistence of stakeholder capitalism?",
+      "answer": "Jenny Johnson believes that stakeholder capitalism has always existed and is not new, as good companies have always paid attention to their clients, community, and employees."
+    },
+    {
+      "question": "Why does Jenny Johnson think ESG and sustainable investing will persist?",
+      "answer": "Jenny Johnson believes ESG and sustainable investing will persist because the younger generation will demand that their managers thoroughly measure the impact, and clients will be asking for genuine investment products that truly measure ESG performance."
+    },
+    {
+      "question": "What does Jenny Johnson think about the future of investment management?",
+      "answer": "Jenny Johnson believes that the next decade will not be dominated by passive investment management like the last decade was."
+    },
+    {
+      "question": "Why will active asset managers need to be skilled in data analysis?",
+      "answer": "Active asset managers will need to be skilled in data analysis because they will be looking for nontraditional sources of data to gain an edge, and data analysis has far more dead ends than positive signals to act on."
+    },
+    {
+      "question": "What is one factor that will drive M&A in the asset management industry?",
+      "answer": "One factor that will drive M&A is the need for scale to share the costs of data analysis across a broader asset base."
+    },
+    {
+      "question": "What is the name of the report discussed in the article?",
+      "answer": "The state of diversity in global Private Markets: 2022."
+    },
+    {
+      "question": "How many PE firms and IIs were surveyed for the report?",
+      "answer": "42 PE firms and IIs around the world."
+    },
+    {
+      "question": "What is the preference of Chief Investment Officers (CIOs) of leading IIs when allocating capital to PE firms?",
+      "answer": "CIOs said they would allocate twice as much capital to the more gender diverse PE firm and 2.6 times as much capital to more ethnically and racially diverse PE deal teams if choosing between two otherwise comparable firms."
+    },
+    {
+      "question": "What is the global percentage of women in investing roles at PE firms?",
+      "answer": "23 percent."
+    },
+    {
+      "question": "What is the percentage of women at the managing director level in PE firms globally?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "How does the diversity of PE firms' employees vary between diversity leaders and laggards at the MD level?",
+      "answer": "At diversity leaders, 32 percent of MDs are women and 32 percent of MDs are ethnic and racial minorities, while diversity laggards have no women and 2 percent ethnic and racial minorities at the MD level."
+    },
+    {
+      "question": "Which region leads in women's representation in the middle of the corporate ladder in PE offices?",
+      "answer": "APAC (Asia\u2013Pacific)."
+    },
+    {
+      "question": "What is the percentage of women and ethnic and racial minorities on PE investment committees (ICs) globally and in Canada and the United States?",
+      "answer": "9 percent women globally and 9 percent ethnic and racial minorities in Canada and the United States."
+    },
+    {
+      "question": "What is the percentage of women and ethnic and racial minorities at the MD level in diversity laggards?",
+      "answer": "0 percent women and 2 percent ethnic and racial minorities."
+    },
+    {
+      "question": "Which region leads in investing women's representation in the middle of the corporate ladder?",
+      "answer": "APAC."
+    },
+    {
+      "question": "What percentage of women and ethnic and racial minorities are represented on PE investment committees (ICs) globally?",
+      "answer": "9 percent women globally and 9 percent ethnic and racial minorities in Canada and the United States."
+    },
+    {
+      "question": "Why are Institutional Investors (IIs) considered catalysts for change in diversity of talent in Private Equity (PE)?",
+      "answer": "Because they allocate significant capital to PE firms annually and can influence PE firms' actions and strategies, especially during capital raises."
+    },
+    {
+      "question": "What type of data are PE firms increasingly providing to Institutional Investors (IIs) during fundraising?",
+      "answer": "Diversity data."
+    },
+    {
+      "question": "What is the role of Institutional Investors (IIs) in the private market ecosystem?",
+      "answer": "They manage assets of groups by allocating capital to various investment vehicles to grow value over time, including directly allocating capital to Private Equity companies when they are raising funds."
+    },
+    {
+      "question": "What type of entities are referred to as Institutional Investors (IIs)?",
+      "answer": "State or local pensions, Sovereign Wealth Funds, Private Family Offices, Foundations, Endowments, Real Estate funds, lenders, growth or expansion funds, hedge funds, and venture funds."
+    },
+    {
+      "question": "Why are PE funds motivated to align their actions and strategies to IIs' priorities?",
+      "answer": "Because PE funds raise significant capital from IIs, especially during capital raises."
+    },
+    {
+      "question": "What is the main challenge for both IIs and PE firms?",
+      "answer": "A lack of standardized metrics, which makes the reporting process unwieldy and labor-intensive for PE firms."
+    },
+    {
+      "question": "What do IIs believe about the state of diversity in PE today?",
+      "answer": "IIs believe that the state of diversity in PE today is poor and that PE firms have significant opportunity to improve the representation of underrepresented groups."
+    },
+    {
+      "question": "What dimensions do IIs think PE firms need to improve diversity on?",
+      "answer": "Gender, ethnicity and race, socioeconomic background, and sexual orientation."
+    },
+    {
+      "question": "Are IIs considering PE investing teams' diversity in capital allocation decisions?",
+      "answer": "Yes, IIs are increasingly considering PE investing teams' diversity in capital allocation decisions."
+    },
+    {
+      "question": "What is the average allocation of capital by Institutional Investors (IIs) to a Private Equity (PE) fund with more gender diversity compared to one with less?",
+      "answer": "Twice as much capital."
+    },
+    {
+      "question": "What percentage of entry-level roles in Private Equity (PE) globally are filled by women as of year-end 2021?",
+      "answer": "48 percent."
+    },
+    {
+      "question": "How does the allocation of capital by IIs to a PE fund with more ethnic and racial diversity compare to one with less?",
+      "answer": "2.6 times as much."
+    },
+    {
+      "question": "What percentage of IIs still allocated more capital to a PE firm with greater gender diversity despite its lower historic returns?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What is the average satisfaction score given by Investment committee decision makers regarding the actions taken by PE firms to improve diversity within their firms?",
+      "answer": "8.0."
+    },
+    {
+      "question": "Are women more represented in investing or non-investing roles at every level in Private Equity firms?",
+      "answer": "Non-investing roles."
+    },
+    {
+      "question": "How many unique private equity firms are there in the Americas?",
+      "answer": "26."
+    },
+    {
+      "question": "What percentage of entry-level roles in private equity globally are filled by women?",
+      "answer": "48 percent."
+    },
+    {
+      "question": "What percentage of entry-level investing roles in private equity are held by women?",
+      "answer": "34 percent."
+    },
+    {
+      "question": "What percentage of women make up investment committee members globally?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What are the six job levels in private equity, in descending order of seniority?",
+      "answer": "L1. C-level executives and fund heads; L2. Managing directors or partners; L3. Principals, directors, and senior vice presidents; L4. Vice presidents and senior managers; L5. Associates and managers; L6. Entry level."
+    },
+    {
+      "question": "What percentage of managing director-level investment staff are women?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "How many private equity firms provided data for the report?",
+      "answer": "31."
+    },
+    {
+      "question": "What percentage of investment committees globally are comprised of women?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What is the percentage of women in C-suite (L1) roles globally?",
+      "answer": "14 percent."
+    },
+    {
+      "question": "What is the average percentage of women in investing roles at the managing director level for the top 10% of PE firms on gender diversity?",
+      "answer": "32 percent."
+    },
+    {
+      "question": "What percentage of women are in investing roles at the managing director level for the bottom 10% of PE firms on gender diversity?",
+      "answer": "Zero percent."
+    },
+    {
+      "question": "Which region has the highest share of women in the C-suite?",
+      "answer": "The Americas."
+    },
+    {
+      "question": "What is the difference in the share of total investing women between PE firms that lead on percent of women MDs and the industry as a whole?",
+      "answer": "10 percentage points higher."
+    },
+    {
+      "question": "What is the difference in the share of total investing women between PE firms that lead on percent of women MDs and the industry as a whole?",
+      "answer": "10 percentage points higher."
+    },
+    {
+      "question": "How does the representation of women in investing roles at the managing director level compare between diversity leaders and laggards globally?",
+      "answer": "Diversity leaders have 32% women in investing roles at the managing director level, while laggards have 12%."
+    },
+    {
+      "question": "What is the share of women in entry-level investing roles in the Americas?",
+      "answer": "23%."
+    },
+    {
+      "question": "Which region leads in women's representation in the middle of the corporate ladder (L5 and L4)?",
+      "answer": "APAC."
+    },
+    {
+      "question": "What is the definition of 'Diversity leader' in the context of the given text?",
+      "answer": "The top 10% of PE firms by representation of women in investing roles at the managing director level (L2) globally."
+    },
+    {
+      "question": "What is defined as the bottom 10% of PE firms by representation of women in investing roles at the L2 level globally?",
+      "answer": "\u201cDiversity laggard\u201d"
+    },
+    {
+      "question": "Which region has the highest share of women in top-of-the-house roles?",
+      "answer": "The Americas"
+    },
+    {
+      "question": "What is the share of women in the C-suite in the Americas?",
+      "answer": "15 percent"
+    },
+    {
+      "question": "Which region leads in share of women investors at post-MBA associate (L5) and VP (L4) ranks?",
+      "answer": "APAC"
+    },
+    {
+      "question": "What is the representation for women at the VP level (L4) in APAC offices?",
+      "answer": "40 percent"
+    },
+    {
+      "question": "What happens to the share of women in APAC offices when they are promoted from VP (L4) to principal (L3)?",
+      "answer": "The share of women plunges by more than 30 percentage points"
+    },
+    {
+      "question": "What is the representation of women at the VP level (L4) in APAC offices?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "By how many percentage points does the share of women drop when advancing from VP (L4) to principal (L3) in APAC offices?",
+      "answer": "More than 30 percentage points."
+    },
+    {
+      "question": "What percentage of entry-level Investing jobs in European offices are held by women?",
+      "answer": "35 percent."
+    },
+    {
+      "question": "What is the representation of women at the MD (L2) level in European offices?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "What percentage of IC members are from ethnic and racial minority groups in US and Canadian PE firms?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What is the role of Investment Committees (ICs) in the private equity industry?",
+      "answer": "ICs are where investment decisions happen, and the discussions and decisions made in regular IC meetings form the intellectual backbone of PE firms."
+    },
+    {
+      "question": "Who are generally invited as standing IC members in PE firms?",
+      "answer": "Members from the C-Suite (L1) and MD (L2) ranks."
+    },
+    {
+      "question": "What percentage of Investment Committee (IC) members are from ethnic and racial minority groups?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What is the representation of ethnic and racial minorities among Investing MDs (L2) in private equity firms in Canada and the United States?",
+      "answer": "Almost 17 percent."
+    },
+    {
+      "question": "Which ethnic group is the largest racial minority in PE Investing roles?",
+      "answer": "People of Asian descent."
+    },
+    {
+      "question": "What percentage of Investing roles are held by Asian professionals at the associate level?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What is the percentage of Black and Hispanic professionals at the MD level (L2) in PE investing?",
+      "answer": "3 percent Hispanic and 1 percent Black."
+    },
+    {
+      "question": "Who are generally invited to be standing members of the Investment Committee (IC)?",
+      "answer": "C-Suite (L1) and MD (L2) ranks."
+    },
+    {
+      "question": "What percentage of principals in Private Equity (PE) are Hispanic and Black?",
+      "answer": "3 percent Hispanic and 1 percent Black."
+    },
+    {
+      "question": "What is the representation of Black professionals in entry-level Investing roles in PE?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "How does the representation of Hispanic professionals change from entry-level to post-MBA associate (L5) rank in PE?",
+      "answer": "It grows from 4 percent at entry-level to 7 percent at the post-MBA associate (L5) rank."
+    },
+    {
+      "question": "What is the percentage of Black women among all Black Investing professionals at the post MBA and VP levels?",
+      "answer": "Just under a third."
+    },
+    {
+      "question": "What percentage of all PE MDs in US and Canadian offices are Black?",
+      "answer": "Only 1 percent."
+    },
+    {
+      "question": "How does the representation of Hispanic professionals compare to Black professionals at senior levels of PE firms?",
+      "answer": "There are 2.5 times and 3.9 times as many Hispanic principals and MDs, respectively, compared to Black professionals."
+    },
+    {
+      "question": "What is the percentage of Hispanic women among all Hispanic professionals from post-MBA to principal (L5 to L3) and among all Hispanic MDs?",
+      "answer": "About 16 percent from post-MBA to principal, dropping to 7 percent among all Hispanic MDs."
+    },
+    {
+      "question": "What is the average share of ethnic and racial minorities at the MD level in the top PE firms?",
+      "answer": "32 percent, close to doubling the industry average."
+    },
+    {
+      "question": "What is one critical area for PE firms to make progress toward diversifying the industry?",
+      "answer": "Evaluate IC diversity to understand if and why they are not more reflective of the makeup of their C-Suite and managing directors."
+    },
+    {
+      "question": "What should PE firms do to understand the diversity of their ICs?",
+      "answer": "Take a critical lens to the diversity of their ICs."
+    },
+    {
+      "question": "What is a specific obstacle to diversity in offices in the Americas?",
+      "answer": "Low levels of representation of Black and Hispanic professionals even at entry levels of firms' deal teams."
+    },
+    {
+      "question": "What did private equity firms in Canada and the United States that lead on ethnic and racial diversity in L2 roles achieve?",
+      "answer": "They beat the industry benchmark for all investing roles."
+    },
+    {
+      "question": "What is a suggested solution for APAC offices to improve diversity?",
+      "answer": "Mend the broken rung from VP to principal by evaluating barriers to apprenticeship, sponsorship, and promotion of women."
+    },
+    {
+      "question": "What should PE firms' CHROs and Heads of DEI do to improve diversity?",
+      "answer": "Push to improve the granularity of the data collected around the world and devise solutions with intersectional groups in mind."
+    },
+    {
+      "question": "What is the key to retaining a diverse workforce over time in PE firms?",
+      "answer": "Creating an equitable and inclusive culture."
+    },
+    {
+      "question": "What is key to retaining a diverse workforce over time?",
+      "answer": "Creating an equitable and inclusive culture."
+    },
+    {
+      "question": "What did Jerilyn Castillo McAniff say is needed for firms to track representation and progress?",
+      "answer": "Consistent metrics and industry benchmarks."
+    },
+    {
+      "question": "Why is building a more diverse set of leaders at the helm of the private markets industry challenging?",
+      "answer": "It requires sustained, nuanced, long-term effort."
+    },
+    {
+      "question": "What has been happening across several PE firms according to the research?",
+      "answer": "Progress is being intentionally made."
+    },
+    {
+      "question": "Who is Bill Gurley and what is his role?",
+      "answer": "Bill Gurley is a general partner at Benchmark, a venture capitalist firm."
+    },
+    {
+      "question": "What has happened to dealmaking in the start-up industry this year according to Gurley?",
+      "answer": "Dealmaking has slowed considerably."
+    },
+    {
+      "question": "Why does Gurley think this might be a good time to launch a start-up?",
+      "answer": "Because if you're going to build something from scratch, the current time might be as good as any in a decade."
+    },
+    {
+      "question": "Why did Bill Gurley think the prolonged period of near-zero interest rates was a big problem?",
+      "answer": "Because it made his DCF model not work and drove all kinds of speculation."
+    },
+    {
+      "question": "What are the two things Bill Gurley has in mind that relate to start-ups and the start-up ecosystem during times of uncertainty?",
+      "answer": "First, that macro things are not things that start-ups can impact or control, and second, that the current environment for launching a start-up might be as good as it has been in a decade because the past five years were 'really crazy'."
+    },
+    {
+      "question": "According to Bill Gurley, why are small layoffs (5-10%) ineffective?",
+      "answer": "Because they don't have a material impact on lowering expenses, yet they still cause cultural negatives."
+    },
+    {
+      "question": "What is Bill Gurley's view on the current time being a good moment to launch a start-up?",
+      "answer": "He thinks it might be as good a time as you've had in a decade to launch a start-up because the environment was 'really crazy' the past five years."
+    },
+    {
+      "question": "What are some of the external factors affecting businesses that Rick Tetzeli mentions?",
+      "answer": "The war in Ukraine, inflation, geopolitics, and changing labor patterns."
+    },
+    {
+      "question": "Why does Bill Gurley think the current time is good for building a start-up from scratch?",
+      "answer": "Because the environment for launching a start-up is favorable, with access to real estate, talent, and a lack of distraction from cheap money."
+    },
+    {
+      "question": "How has the hybrid work model affected access to talent for start-ups?",
+      "answer": "Hybrid has opened up access to talent globally, making it easier and cheaper to find talent, as opposed to being limited to a specific geographic location."
+    },
+    {
+      "question": "What is Bill Gurley's view on the impact of hybrid work on start-up culture?",
+      "answer": "He is uncertain and thinks it's a founder-centric decision, with some founders believing it's beneficial and others thinking it's detrimental, potentially causing cultural confusion."
+    },
+    {
+      "question": "Why does Bill Gurley think the current reset in valuations might be painful for entrepreneurs and tech investors?",
+      "answer": "Because an entire generation of entrepreneurs and tech investors built their perspective on valuations during a bull market run and now need to undergo an 'unlearning' process."
+    },
+    {
+      "question": "How does Bill Gurley differentiate the current reset from previous downturns in 2001 and 2008-09?",
+      "answer": "He notes that the current reset involves companies with huge revenues and massive losses, and a scale of capital that is radically different from the past, with some companies having raised unprecedented amounts of money."
+    },
+    {
+      "question": "Why does Bill Gurley think the venture community needs to adapt quickly to the new reality?",
+      "answer": "The more people see what's really going on, the quicker that will happen."
+    },
+    {
+      "question": "What does Bill Gurley advise his portfolio companies to do in response to the current economic situation?",
+      "answer": "He advises them to get in front of the situation, be pragmatic, and make necessary adjustments such as layoffs if needed."
+    },
+    {
+      "question": "Why is it hard for founders to accept the current reality according to Bill Gurley?",
+      "answer": "Founders have mentally banked their worth based on a high valuation from a previous funding round, and it's hard for them to accept that the valuation was from a 'fantastical time' that's probably behind them."
+    },
+    {
+      "question": "What happens if founders are in denial about the current reality?",
+      "answer": "They can make mistakes such as not cutting enough costs, not laying off enough people, and continuing to think they can raise money without realizing their cost of capital has changed."
+    },
+    {
+      "question": "Why doesn't Benchmark change its investment cycle due to economic swings?",
+      "answer": "Because around 85 to 90 percent of their funds are deployed on first-money and early-stage investments, which are less affected by economic swings."
+    },
+    {
+      "question": "What percentage of the time does Bill Gurley think companies fail due to not doing enough in response to economic downturns?",
+      "answer": "95 percent"
+    },
+    {
+      "question": "Why did some firms pull out of investing in 1996?",
+      "answer": "They thought things had expanded too broadly."
+    },
+    {
+      "question": "What happened to the firms that pulled out of investing in 1996?",
+      "answer": "They missed three of the greatest years of returns in the history of the business."
+    },
+    {
+      "question": "Why did Bill Gurley's firm refocus on their core business?",
+      "answer": "Their attempt to expand internationally didn't work, so they capitulated and refocused in about 2006-2007."
+    },
+    {
+      "question": "How has the perception of Bill Gurley's firm changed over the past year?",
+      "answer": "Initially, people thought they were stupid for not expanding, but now they are seen as brilliant for sticking to their focus."
+    },
+    {
+      "question": "Why does Bill Gurley prefer their investment model?",
+      "answer": "Because they run smaller funds with more compensation on the carry side rather than the fee side, aligning their interests with their limited partners."
+    },
+    {
+      "question": "Has the trend of companies seeking frothy valuations changed?",
+      "answer": "Partially corrected, but it's a slow process."
+    },
+    {
+      "question": "Why is M&A delayed according to Bill Gurley?",
+      "answer": "Late-stage investors aren't willing to sell at a lower price than they invested, so things are slow to get corrected."
+    },
+    {
+      "question": "What is Bill Gurley's view on direct listings becoming more customary?",
+      "answer": "He hopes so and remains convinced that eventually everyone will use this method because it's more efficient."
+    },
+    {
+      "question": "Is the Bay Area still the hub of everything tech?",
+      "answer": "While it was previously, other places like Seattle and New York have had success, and the rise of hybrid work creates uncertainty for the Bay Area's status."
+    },
+    {
+      "question": "How has hybrid work impacted the challenge of getting executive talent for companies outside the Bay Area?",
+      "answer": "It potentially makes it easier, as companies can hire executive talent who want to stay in the Bay Area while being based elsewhere."
+    },
+    {
+      "question": "What is one advantage of the hybrid work model according to Bill Gurley?",
+      "answer": "You can hire executive talent from anywhere, even if they want to keep living in a different location, such as the Bay Area."
+    },
+    {
+      "question": "What has reinforced the Bay Area as a hub for innovation and industry connections?",
+      "answer": "Culturally, everywhere you go, you run into someone connected to the industry, creating a ton of serendipity outside the office."
+    },
+    {
+      "question": "Why is it challenging for someone to stay relevant in a field like marketing for an iOS app?",
+      "answer": "The ideas and knowledge required to be successful in that field are ephemeral and fleeting, and can become outdated quickly, even after a short period of time, such as five years."
+    },
+    {
+      "question": "How are people working on Web3 projects interacting and collaborating?",
+      "answer": "They're probably doing so on a Discord channel, where they're having constant, daily interactions that facilitate the exchange of ideas."
+    },
+    {
+      "question": "What is Bill Gurley most motivated by in terms of technology trends?",
+      "answer": "The potential of hybrid work to unlock productivity and innovation by allowing him to hire talent from around the globe."
+    },
+    {
+      "question": "What is holding back the crypto industry, according to Bill Gurley?",
+      "answer": "Regulatory ambiguity and the need for hard-core proof points, as well as a lack of clarity on what happens in Washington."
+    },
+    {
+      "question": "What is one achievement that Bill Gurley acknowledges in the crypto industry?",
+      "answer": "Bitcoin has proven to be a hard-core protection against a government coming after one's money, allowing users to theoretically escape a dictatorial or tyrannical country with their money."
+    },
+    {
+      "question": "What has shaken up infrastructure investing?",
+      "answer": "Revolutions in energy, mobility, and digitization."
+    },
+    {
+      "question": "What type of investments has infrastructure traditionally offered?",
+      "answer": "Low-maintenance investments with predictable risk profiles and strong, consistent returns."
+    },
+    {
+      "question": "Why do investors need to scrutinize their existing infrastructure portfolios?",
+      "answer": "Because the infrastructure shake-up and the unpredictable pace at which the energy transition is unfolding require investors to ensure that assets are correctly rated for risk/return."
+    },
+    {
+      "question": "What are some examples of next-generation infrastructure investments?",
+      "answer": "Electric-vehicle (EV) charging networks, battery storage, hydrogen distribution, smart motorway and rail technology, 5G telecom networks, and data centers."
+    },
+    {
+      "question": "What risks are associated with investing in new infrastructure asset classes?",
+      "answer": "A period of significant investment and negative cash flow, along with development, technology, and commercial risks."
+    },
+    {
+      "question": "What are some examples of next-generation investments in infrastructure?",
+      "answer": "Examples include electric-vehicle (EV) charging networks, battery storage, hydrogen distribution, and smart motorway and rail technology, 5G telecom networks, and data centers."
+    },
+    {
+      "question": "What characteristics do infrastructure investors typically look for in investments?",
+      "answer": "Infrastructure investors look for real assets, protected market positions, and the potential to generate stable cash yields."
+    },
+    {
+      "question": "What is required for investors to participate in the energy transition?",
+      "answer": "To participate in the energy transition, investors will need to source deals more creatively and be willing to build businesses."
+    },
+    {
+      "question": "How have returns from infrastructure investing historically compared to those in public and private equity markets?",
+      "answer": "Returns from infrastructure investing have been more stable than those in both public and private equity markets."
+    },
+    {
+      "question": "What are the three traditional categories of infrastructure funds?",
+      "answer": "The three categories are super core, core, and core-plus."
+    },
+    {
+      "question": "What type of assets are typically considered super-core investments?",
+      "answer": "Super-core investments include assets such as regulated utilities and availability-based public\u2013private partnership projects."
+    },
+    {
+      "question": "Why are some assets being reassessed in terms of their risk/return profile?",
+      "answer": "Assets are being reassessed due to fundamental drivers led by the energy transition, including sustainability targets, electric mobility, and digitization."
+    },
+    {
+      "question": "What is an example of an asset that was once considered stable but is now exposed to significant risk?",
+      "answer": "Gas pipelines are an example of assets that were once seen as immutably stable but are now exposed to significant energy transition risk."
+    },
+    {
+      "question": "What are examples of core-plus assets?",
+      "answer": "Fish transport, holiday villages, and crematoria."
+    },
+    {
+      "question": "Why is dramatic reshuffling occurring in asset subcategories?",
+      "answer": "Because assets that were once seen as immutably stable are now exposed to significant energy transition risk."
+    },
+    {
+      "question": "What are the attributes that infrastructure investors have historically looked for in investments?",
+      "answer": "Downside protection, real and capex-intensive assets, essential services, cash yields, steady and stable returns, and barriers to entry."
+    },
+    {
+      "question": "What sectors are typical infrastructure investments usually found in?",
+      "answer": "Energy, telecom, transport, and certain healthcare and education assets."
+    },
+    {
+      "question": "Why is gas distribution moving from super core to core or core-plus?",
+      "answer": "Because it may need to be phased out in regions where gas is substituted for low-carbon alternatives and additional money will need to be spent to repurpose the networks."
+    },
+    {
+      "question": "What has happened to digital infrastructure assets as network communications technology matures?",
+      "answer": "They have moved down the risk spectrum from core-plus to the super-core range."
+    },
+    {
+      "question": "How much did infrastructure funds raise in 2021?",
+      "answer": "Close to $130 billion."
+    },
+    {
+      "question": "What was the percentage increase in infrastructure funds raised in 2021 compared to 2016?",
+      "answer": "Around 55 percent."
+    },
+    {
+      "question": "Why have infrastructure investors lowered their expectations for future returns?",
+      "answer": "Because there are relatively few assets that promise the steady returns that infrastructure investors became accustomed to in recent decades."
+    },
+    {
+      "question": "What caused downturns in telecom- and transport-related assets?",
+      "answer": "The onset of the pandemic."
+    },
+    {
+      "question": "What factors do investors now need to understand when evaluating MSAs due to the impact of EV charging?",
+      "answer": "EV penetration, battery evolution, charging technology, and grid capacity."
+    },
+    {
+      "question": "What has been the trend in expectations for returns from infrastructure investments?",
+      "answer": "Expectations for returns have been declining."
+    },
+    {
+      "question": "What has been the decrease in average target internal rate of return (IRR) per year for infrastructure investments?",
+      "answer": "4\u20135%."
+    },
+    {
+      "question": "How have returns from infrastructure investing historically performed compared to other alternative asset classes?",
+      "answer": "Returns from infrastructure investing have been stable, delivering higher returns than most other alternative asset classes."
+    },
+    {
+      "question": "What has been the trend in average target internal rate of return (IRR) for infrastructure investments over the past 10 years?",
+      "answer": "There has been a 20\u201340% decrease in target IRR over the past 10 years."
+    },
+    {
+      "question": "How has the average target IRR for infrastructure investments changed per year?",
+      "answer": "There has been a 4\u20135% decrease in average target IRR per year."
+    },
+    {
+      "question": "Which infrastructure sector has not recovered to pre-COVID-19 levels as of July 1, 2022?",
+      "answer": "Renewables."
+    },
+    {
+      "question": "What is required for investors to deliver superior returns in infrastructure investments?",
+      "answer": "Best-in-class asset management and technology."
+    },
+    {
+      "question": "Why do large investors need to reassess their portfolios?",
+      "answer": "Due to developments over the past two years that can trigger a complete reassessment of their portfolios and a fresh set of priority investment themes and theses."
+    },
+    {
+      "question": "What is the trend in infrastructure funds?",
+      "answer": "Funds are becoming more concentrated, with investments needing to be large, and there is intense competition for suitable infrastructure targets in a higher interest rate environment."
+    },
+    {
+      "question": "What is the estimated annual average investment needed in physical assets to achieve net-zero emissions by 2050?",
+      "answer": "$9.2 trillion."
+    },
+    {
+      "question": "Why is there intense competition for suitable infrastructure targets?",
+      "answer": "Because investments need to be large and concentrated funds are vying with one another to raise larger funds and maximize the size of assets under management."
+    },
+    {
+      "question": "How can investors participate in the energy transition opportunity?",
+      "answer": "By considering more active investing styles, such as sourcing proprietary deals through detailed insights into niche markets, setting up separate funds with a different investment profile, or employing roll-up and bolt-on strategies."
+    },
+    {
+      "question": "What is one approach to sourcing proprietary deals in the energy transition space?",
+      "answer": "Developing a proprietary view on creating value by scaling up and consolidating national champions in the nascent energy services space."
+    },
+    {
+      "question": "How have some investors scaled up their investments in the telecommunications sector?",
+      "answer": "By buying large-scale telecommunications companies to get access to fiber and towers, and then scaling these acquisitions or integrations."
+    },
+    {
+      "question": "What is an example of building a business from scratch in the renewable energy sector?",
+      "answer": "A consortium of pension funds established a platform for project investments in renewable-generation assets, which now comprises more than 150 projects across the world with a total generating capacity of more than three gigawatts."
+    },
+    {
+      "question": "How did a consortium of pension funds build their business in renewable-generation assets?",
+      "answer": "They established a platform for project investments."
+    },
+    {
+      "question": "What is the total generating capacity of the renewable-generation assets platform established by a consortium of pension funds?",
+      "answer": "More than three gigawatts."
+    },
+    {
+      "question": "Why is building relationships with utilities important for investors?",
+      "answer": "To build scale quickly in areas where credible at-scale investments are hard to find."
+    },
+    {
+      "question": "What remains an attractive long-term investment avenue for institutional investors despite pressures from the flood of capital and potential recession?",
+      "answer": "Infrastructure."
+    },
+    {
+      "question": "What was the state of the US wealth management industry entering 2021?",
+      "answer": "It entered from a position of strength with record-high client assets, record growth in the number of self-directed and advised clients, and healthy pretax margins."
+    },
+    {
+      "question": "What were the primary causes of depressed margins and profit pools in the US wealth management industry?",
+      "answer": "Rock-bottom interest rates and uneven cost discipline."
+    },
+    {
+      "question": "What is required for wealth management firms to thrive in the dynamic environment?",
+      "answer": "They must prioritize growth, adopt an innovation mindset, and be prepared to reallocate resources rapidly."
+    },
+    {
+      "question": "What was the state of the US wealth management industry entering 2021?",
+      "answer": "The US wealth management industry entered 2021 from a position of relative strength, with record-high client assets, record growth in the number of self-directed and advised clients, and healthy pretax margins."
+    },
+    {
+      "question": "What were the primary causes of depressed margins and profit pools in the US wealth management industry?",
+      "answer": "The primary causes were rock-bottom interest rates and uneven cost discipline."
+    },
+    {
+      "question": "What was the change in US profit pools in 2020?",
+      "answer": "US profit pools declined by 11 percent in 2020."
+    },
+    {
+      "question": "What is the projected annual growth rate of the US wealth management industry revenue pools over the next five years?",
+      "answer": "The industry revenue pools are projected to grow by about 5 percent per year over the next five years."
+    },
+    {
+      "question": "Which segment of the US wealth management industry is expected to grow the fastest?",
+      "answer": "Digital advice models, including robo- and hybrid advisory, are expected to continue growing the fastest, potentially even outperforming their historical revenue growth of more than 20 percent per year."
+    },
+    {
+      "question": "How will the growth rate of the US wealth management industry be affected if interest rates return to prepandemic levels?",
+      "answer": "If interest rates return to prepandemic levels, the overall growth rate for the industry is expected to reach about 7 percent a year."
+    },
+    {
+      "question": "What is expected to be the fastest-growing segment in the wealth management industry?",
+      "answer": "Digital advice models, including robo- and hybrid advisory."
+    },
+    {
+      "question": "What is the projected annual growth rate for registered investment advisors?",
+      "answer": "Roughly 10 percent."
+    },
+    {
+      "question": "Which segments will disproportionately benefit if interest rates return to prepandemic levels?",
+      "answer": "Wirehouses and direct brokerages."
+    },
+    {
+      "question": "What percentage of total US household investable assets is controlled by women today?",
+      "answer": "A third, approximately $12 trillion."
+    },
+    {
+      "question": "How many new direct brokerage accounts have been opened since the start of 2020?",
+      "answer": "More than 25 million."
+    },
+    {
+      "question": "What is the expected outcome for the wealth controlled by women by 2030?",
+      "answer": "American women are expected to control much of the $30 trillion in investable assets that baby boomers will possess."
+    },
+    {
+      "question": "What market developments contributed to the growth of the direct brokerage-based investing segment?",
+      "answer": "The elimination of online brokerage commissions and access to fractional share capabilities."
+    },
+    {
+      "question": "What pandemic-related trend enabled the growth of the direct brokerage-based investing segment?",
+      "answer": "High savings rates enabled by lower consumption."
+    },
+    {
+      "question": "What is the median age of engaged investors in the direct brokerage-based investing segment?",
+      "answer": "35."
+    },
+    {
+      "question": "What percentage of affluent investors were hybrid investors in 2021?",
+      "answer": "A third."
+    },
+    {
+      "question": "What are the new customer needs that investors are looking for in wealth management services?",
+      "answer": "Omnichannel access, integration of banking and wealth management services, and personalized offerings."
+    },
+    {
+      "question": "What percentage of high-net-worth and affluent clients say their primary wealth manager should improve digital capabilities?",
+      "answer": "50 percent."
+    },
+    {
+      "question": "What is the most preferred channel for clients according to McKinsey's latest Affluent and High-Net-Worth Consumer Insights Survey?",
+      "answer": "Digital."
+    },
+    {
+      "question": "By 2030, how much in investable assets will be possessed by baby boomers?",
+      "answer": "$3 trillion."
+    },
+    {
+      "question": "What percentage of high-net-worth and affluent clients say their primary wealth manager should improve digital capabilities?",
+      "answer": "50 percent."
+    },
+    {
+      "question": "What is the most preferred channel for clients according to McKinsey's latest Affluent and High-Net-Worth Consumer Insights Survey?",
+      "answer": "Digital."
+    },
+    {
+      "question": "What is the definition of high-net-worth (HNW) segment?",
+      "answer": "Households with more than $2 million in investable assets."
+    },
+    {
+      "question": "What percentage of HNW clients prefer phone or video conferences as their wealth management channel?",
+      "answer": "Roughly 40 percent."
+    },
+    {
+      "question": "What is the fastest-growing segment of affluent investors?",
+      "answer": "Hybrid\u2014those with self-directed accounts plus a traditional advisor."
+    },
+    {
+      "question": "What is the trend in clients' preference to consolidate their banking and wealth relationships?",
+      "answer": "The share with this preference has risen from 13 percent in 2018 to 22 percent in 2021."
+    },
+    {
+      "question": "Which age group prefers to consolidate relationships?",
+      "answer": "Those aged under 45."
+    },
+    {
+      "question": "What percentage of those aged under 45 prefer to consolidate relationships?",
+      "answer": "53 percent."
+    },
+    {
+      "question": "Do young investors tend to consolidate wealth management with their primary bank?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What percentage of clients preferred to consolidate their banking and wealth relationships in 2018?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "What percentage of clients aged under 45 prefer to consolidate relationships?",
+      "answer": "53 percent."
+    },
+    {
+      "question": "What are the top three reasons for clients consolidating with their primary bank or investment firm?",
+      "answer": "High-yield deposits, lower management fees, and seamless transactions across accounts."
+    },
+    {
+      "question": "What is the increase in total direct brokerage accounts since the start of 2020?",
+      "answer": "40%."
+    },
+    {
+      "question": "How do young investors differ from HNW and ultra-HNW clients in terms of consolidating banking and wealth management?",
+      "answer": "Young investors are more likely to consolidate wealth management with their primary bank, whereas HNW, ultra-HNW, and older clients tend to consolidate banking with their primary wealth manager."
+    },
+    {
+      "question": "What percentage of clients think their primary wealth manager should improve their digital capabilities?",
+      "answer": "50%."
+    },
+    {
+      "question": "What percentage of clients think their primary wealth manager should improve their digital capabilities?",
+      "answer": "50%"
+    },
+    {
+      "question": "What was the growth in assets under management (AUM) in direct indexing between 2018 to 2020?",
+      "answer": "AUM in direct indexing tripled between 2018 to 2020, reaching $215 billion."
+    },
+    {
+      "question": "What percentage of the retail separately managed account (SMA) market was direct indexing in 2020?",
+      "answer": "17%"
+    },
+    {
+      "question": "What is the anticipated growth in direct indexing volumes through 2025?",
+      "answer": "Direct indexing volumes are anticipated to triple through 2025."
+    },
+    {
+      "question": "Which segments have a strong preference for consolidating banking and investing?",
+      "answer": "Younger and, to a lesser extent, wealthier segments have a strong preference for consolidating banking and investing."
+    },
+    {
+      "question": "What is the trend in the share of retail investors who prefer to consolidate banking and wealth relationships since 2014?",
+      "answer": "The share of retail investors who prefer to consolidate banking and wealth relationships has increased by 172% since 2014."
+    },
+    {
+      "question": "Which demographic is more likely to consider ESG when choosing investments?",
+      "answer": "Younger and, to a lesser extent, less affluent segments are more likely to consider ESG when choosing investments."
+    },
+    {
+      "question": "What are the two main categories of new products that have notable potential in wealth management?",
+      "answer": "Investments in private markets and investments in digital assets."
+    },
+    {
+      "question": "Which age group is more likely to consider ESG when choosing investments?",
+      "answer": "Younger segments, specifically those aged 25-44."
+    },
+    {
+      "question": "What is the predicted growth in assets allocated to private markets by 2025?",
+      "answer": "Between $500 billion and $1.3 trillion."
+    },
+    {
+      "question": "What was the combined valuation of digital assets in 2019?",
+      "answer": "$100 billion."
+    },
+    {
+      "question": "What is the current market capitalization of digital assets?",
+      "answer": "More than $2.5 trillion."
+    },
+    {
+      "question": "How many verified users does digital trading platform Coinbase have?",
+      "answer": "68 million."
+    },
+    {
+      "question": "What are the motivations for investors in digital assets?",
+      "answer": "The motivations for investors in digital assets are diverse\u2014experimentation, speculation, the search for inflation protection, or getting exposure to the building blocks of new technology that is increasingly cast as the next iteration of the internet (that is, Web3)."
+    },
+    {
+      "question": "How many verified users does Coinbase have?",
+      "answer": "Coinbase has gathered a staggering 68 million verified users."
+    },
+    {
+      "question": "What percentage of affluent and HNW clients invest in digital assets?",
+      "answer": "11 percent of affluent clients and 8 percent of HNW clients invest in digital assets."
+    },
+    {
+      "question": "What are the three broad challenges associated with offering cryptocurrencies?",
+      "answer": "The three broad challenges are: regulatory ambiguity, differing infrastructure requirements, and a lack of understanding of digital asset classes among advisors."
+    },
+    {
+      "question": "What is the potential impact of crypto exchange-traded funds (ETFs) on the challenges associated with offering cryptocurrencies?",
+      "answer": "The advent of crypto ETFs could help address some of the challenges associated with offering cryptocurrencies."
+    },
+    {
+      "question": "What are the two factors, in addition to higher payouts, driving advisors to migrate to RIAs?",
+      "answer": "The two factors are: (1) advisors looking to monetize their business with RIA acquisition multiples two to three times higher than retire-in-place incentives, and (2) lowered barriers to launching their own firms due to technology and services firms."
+    },
+    {
+      "question": "What percentage of financial advisors are expected to be part of an RIA by 2025?",
+      "answer": "The share of advisors affiliated with RIAs is expected to grow to 26 percent by 2025."
+    },
+    {
+      "question": "What are the three factors motivating advisors to migrate to RIAs?",
+      "answer": "The expectation of higher payouts, the RIA channel being the best way to monetize their business with higher acquisition multiples, and lowered barriers to launch their own firms due to technology and services firms."
+    },
+    {
+      "question": "How are RIA acquisition multiples for top advisors compared to retire-in-place incentives at traditional wealth managers?",
+      "answer": "RIA acquisition multiples for top advisors are two to three times higher than retire-in-place incentives at traditional wealth managers."
+    },
+    {
+      "question": "What is the expected change in the advisor force at wirehouses and broker\u2013dealers over the next five years?",
+      "answer": "The advisor force is expected to shrink by 3 percent."
+    },
+    {
+      "question": "What opportunity is created for participants in the wealth management ecosystem due to RIAs' reliance on third-party products and solutions?",
+      "answer": "An opportunity to seek a share of the fast-growing revenue and profit pool."
+    },
+    {
+      "question": "What is one of the new business models that wealth managers can explore to participate in the growing RIA revenue and profit pool?",
+      "answer": "Offering services to registered investment advisors (RIAs)."
+    },
+    {
+      "question": "What competency will wealth managers need to manage to serve the RIA segment?",
+      "answer": "Technology as a core competency."
+    },
+    {
+      "question": "What has been the annual revenue growth rate of digital advice models between 2015 and 2020?",
+      "answer": "More than 20 percent."
+    },
+    {
+      "question": "What was the change in the share of investors under 45 comfortable with remote advice between 2018 and 2021?",
+      "answer": "The share grew from 43 percent to 59 percent."
+    },
+    {
+      "question": "What percentage of investors were comfortable with remote advice in 2021?",
+      "answer": "Roughly 46 percent."
+    },
+    {
+      "question": "What was the growth in comfort with digital-only advice among investors under 45 between 2018 and 2021?",
+      "answer": "It more than doubled to roughly half in 2021."
+    },
+    {
+      "question": "What are the main reasons investors give for not being comfortable with robo-advisor models?",
+      "answer": "Perceived lack of personalization, privacy concerns, and lack of motivation to explore the models."
+    },
+    {
+      "question": "What is the recommended four-part agenda for wealth managers?",
+      "answer": "Reposition, redesign, reimagine, and reallocate."
+    },
+    {
+      "question": "What is the projected annual revenue growth rate for the RIA channel over the next five years compared to the industry overall?",
+      "answer": "2X faster."
+    },
+    {
+      "question": "What percentage of investors under 45 were comfortable with remote advice in 2021?",
+      "answer": "59 percent."
+    },
+    {
+      "question": "What is expected to be a particularly important theme for wealth managers over the next 24 months?",
+      "answer": "M&A as wealth managers reposition themselves for the postpandemic 'next normal'."
+    },
+    {
+      "question": "How much faster is the annual revenue growth projected for the RIA channel versus the industry overall over the next five years?",
+      "answer": "2X faster."
+    },
+    {
+      "question": "What has happened to comfort with digital advice models among younger segments over the last three years?",
+      "answer": "Comfort with digital advice models has accelerated."
+    },
+    {
+      "question": "What percentage of investors with investable assets of $250K-$5M were comfortable with using a robo advisor in 2021?",
+      "answer": "The percentages varied by age segment, ranging from 7% to 27%."
+    },
+    {
+      "question": "What is one of the growth agenda items for US wealth management firms?",
+      "answer": "Redesign offerings for new needs, reimagine client engagement and experience, and reallocate resources to support the strategy."
+    },
+    {
+      "question": "How much higher were total returns to shareholders for the top third of companies that were dynamic resource reallocators compared to the bottom third?",
+      "answer": "1.6 times higher."
+    },
+    {
+      "question": "What percentage of operating expenses should top performers in wealth management be reallocating to strategic growth areas over five years?",
+      "answer": "15 percent or more."
+    },
+    {
+      "question": "What is the total return to shareholders achieved by the top third of companies that are the most dynamic resource reallocators compared to the bottom third over 20 years?",
+      "answer": "The top third achieved 1.6 times higher total returns to shareholders than the bottom third (about 10 percent versus 6 percent annualized over 20 years)."
+    },
+    {
+      "question": "What percentage of operating expenses do top performers in wealth management make in strategic resource reallocation decisions over five years?",
+      "answer": "Top performers are making strategic resource reallocation decisions to the tune of 15 percent or more of operating expenses over five years."
+    },
+    {
+      "question": "What are the critical behaviors required for executive teams in wealth management?",
+      "answer": "Executive teams must include operating in an agile manner and developing connections across business units and functions, and leaders who are not afraid to experiment and innovate."
+    },
+    {
+      "question": "What percentage of employees say they are at least somewhat likely to leave their current job in the next three to six months?",
+      "answer": "40 percent of employees say they are at least somewhat likely to leave their current job in the next three to six months."
+    },
+    {
+      "question": "What is the preferred working model for more than 80 percent of workers post-COVID-19?",
+      "answer": "More than 80 percent of workers say that a hybrid-office working model is the optimal route forward."
+    },
+    {
+      "question": "What percentage of workers prefer a hybrid-office working model?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What are the three major M&A themes expected to shape wealth management deal making in the next 18 to 24 months?",
+      "answer": "(a) transactions focused on platform synergies, (b) transactions focused on entering adjacent revenue pools, and (c) transactions to acquire capabilities that will be key for growth."
+    },
+    {
+      "question": "What is the excess TRS achieved by the top 25 percent of deals?",
+      "answer": "8.5 percent."
+    },
+    {
+      "question": "What are the two characteristics that distinguish top acquirers from the rest?",
+      "answer": "The ability to embed M&A in their strategic planning process and a clear post-acquisition playbook, inclusive of an integration capability."
+    },
+    {
+      "question": "Why is a clear partnership strategy crucial for wealth management incumbents?",
+      "answer": "Because it is impossible for any organization to stay ahead of the pack on every dimension of digital, data, and technology."
+    },
+    {
+      "question": "Why is a clear partnership strategy crucial for organizations in the context of digital, data, and technology?",
+      "answer": "Because it is impossible for any organization to stay ahead of the pack on every dimension."
+    },
+    {
+      "question": "How have wealth management incumbents benefited from fintechs?",
+      "answer": "By gaining access to better technology across the value chain, including client acquisition, client front-end, portfolio management, and cybersecurity."
+    },
+    {
+      "question": "What has been the impact of the pandemic on the US wealth management industry?",
+      "answer": "The industry has come through the pandemic not only unscathed but with tailwinds from sustained demand for advice and the rise of new client segments."
+    },
+    {
+      "question": "What will be required of successful managers in the wealth management industry as it moves towards a post-pandemic new normal?",
+      "answer": "They will need to adapt their models to preempt disruptions and adopt a new sense of purpose and innovation as they head into a period of growth."
+    },
+    {
+      "question": "What is driving a fourth industrial revolution according to the text?",
+      "answer": "The broad-based adoption of digital technologies."
+    },
+    {
+      "question": "What is the consequence for organizations that are slow to adopt digital technologies?",
+      "answer": "They are left at a competitive disadvantage and risk losing ground to their more digitized competitors."
+    },
+    {
+      "question": "What advantage will large investors have if they adopt digital and analytics?",
+      "answer": "They will have an enormous advantage over those that continue to rely on personal judgment and incomplete data, being faster and better at identifying and evaluating opportunities."
+    },
+    {
+      "question": "How are digital technologies impacting the way humans interact with each other and machines?",
+      "answer": "Digital technologies profoundly alter how humans interact with each other, objects, machines, and systems and rewrite the division of labor between humans and machines."
+    },
+    {
+      "question": "What is the role of Artificial Intelligence (AI) in investment decision-making?",
+      "answer": "AI enables the analysis of massive amounts of data to generate predictive insights at a speed and scale well beyond what humans alone can achieve."
+    },
+    {
+      "question": "How are investors currently using analytics and data sources?",
+      "answer": "Investors are using analytics and various data sources, such as Bloomberg, to support their investment decision process."
+    },
+    {
+      "question": "What is the benefit of AI-enabled automation for investors?",
+      "answer": "AI-enabled automation can help investors perform repetitive tasks faster and at lower cost."
+    },
+    {
+      "question": "What was the result of a McKinsey study comparing investors who leveraged analytics to those who relied on traditional approaches?",
+      "answer": "The study found that investors leveraging analytics had a 5.3 percent gain in return on investment capital (ROIC) over those that relied on a more traditional approach."
+    },
+    {
+      "question": "How is Man Group using AI to generate returns?",
+      "answer": "Man Group is using AI through the Oxford-Man Institute of Quantitative Finance (OMI) to generate insights into markets and develop new tools for financial decision making."
+    },
+    {
+      "question": "In which type of markets has using AI to forecast rent at the street-corner level led to stronger performance?",
+      "answer": "Data-rich markets such as the United States."
+    },
+    {
+      "question": "Why do some investors shun new technologies like AI?",
+      "answer": "Because they are wed to the belief that making investment decisions or enhancing the value of a private equity investment is more art than science, or they fear the threat that AI poses to their jobs and compensation."
+    },
+    {
+      "question": "What is required to realize the full potential of digital and analytics?",
+      "answer": "A radical change to culture and mindset, and reengineering entire investment and operational processes to fully leverage technology."
+    },
+    {
+      "question": "How should organizations approach the transformation to full-scale adoption of digital technologies?",
+      "answer": "By focusing on strategy, capabilities, and execution, and starting with the transformation of a single business domain."
+    },
+    {
+      "question": "What is a strategic pitfall to avoid when directing digitization efforts?",
+      "answer": "Assuming leadership knows how to direct digitization efforts without getting the necessary training and background."
+    },
+    {
+      "question": "What is the right goal for using digital and AI technologies in investing?",
+      "answer": "To pursue digital and AI technologies as a means of human augmentation rather than replacement."
+    },
+    {
+      "question": "By how much have sophisticated investors seen their portfolio performance in equities improve by allowing AI to identify a basket of stocks?",
+      "answer": "more than 50 basis points"
+    },
+    {
+      "question": "What is the right goal when it comes to pursuing digital and AI technologies?",
+      "answer": "to pursue digital and AI technologies as a means of human augmentation rather than replacement"
+    },
+    {
+      "question": "How many common components are there to successful digital and analytics transformations?",
+      "answer": "six"
+    },
+    {
+      "question": "What are the two core tech enablers essential to scale?",
+      "answer": "cloud-based data platform and automated delivery pipeline (continuous integration and continuous delivery [CI/CD])"
+    },
+    {
+      "question": "What is required to attract digital talent?",
+      "answer": "rethinking HR practices and the operating model, and training top management and developing analytics translators"
+    },
+    {
+      "question": "What should firms plan for every $1 invested in technology development?",
+      "answer": "another $1 for execution support"
+    },
+    {
+      "question": "What type of technology is ideal for at-scale digital deployment?",
+      "answer": "cloud-based technology"
+    },
+    {
+      "question": "What is critical for firms in terms of their approach to data?",
+      "answer": "having a vision and strategy that provide visibility on the full life cycle of data, from acquisition to insight consumption, and a data architecture and data governance that are supported by IT"
+    },
+    {
+      "question": "What is critical for firms to have in terms of data?",
+      "answer": "A vision and strategy that provide visibility on the full life cycle of data, from acquisition to insight consumption, and a data architecture and data governance that are supported by IT."
+    },
+    {
+      "question": "What is the new talent model for firms?",
+      "answer": "The new talent model is much more tech heavy, with teams of highly technical specialists guided by a few seasoned investors who have the judgment and experience to make the best use of the machine-generated insights."
+    },
+    {
+      "question": "Why is it important to bring leadership and practitioners into the digital and analytics process?",
+      "answer": "Success with digital and analytics will ultimately depend on whether leadership and practitioners buy into the new solutions and ways of working."
+    },
+    {
+      "question": "What training should be provided to leaders for digital and analytics?",
+      "answer": "Training should focus on helping leaders understand digital technology and its related terms, and champion agile development projects, finding the optimal balance between guidance and autonomy."
+    },
+    {
+      "question": "What is the 'shiny-object syndrome' that firms should avoid?",
+      "answer": "Pursuing technology for its own sake, rather than leveraging a practical approach that is fit for purpose."
+    },
+    {
+      "question": "What is required for firms to rapidly develop, test, and iteratively improve tech solutions?",
+      "answer": "A new operating model that encourages deep customer input and collaboration with all key business functions, empowering delivery teams with quick decision making, adaptive learning, and greater autonomy."
+    },
+    {
+      "question": "What is the most challenging part of a digital transformation?",
+      "answer": "Adapting the organizational model to maximize adoption of technology by end users in the organization, often representing half of the total effort and investment."
+    },
+    {
+      "question": "What are the three steps involved in successfully executing a digital transformation?",
+      "answer": "Establish a robust protocol for rolling out analytics solutions, define a framework for ongoing monitoring of analytics solutions, and align key stakeholders to ensure accountability for reinforcing adoption and ownership of new processes."
+    },
+    {
+      "question": "What is the execution pitfall to avoid in a digital transformation?",
+      "answer": "Leaving end users on the sidelines."
+    },
+    {
+      "question": "How can organizations seamlessly integrate insights from data and analytics into the investment process?",
+      "answer": "By putting frontline users at the center of technology delivery."
+    },
+    {
+      "question": "What will be the primary differentiator between competitors in the investment space?",
+      "answer": "Speed, which AI can help provide."
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Vincent B\u00e9rub\u00e9 and Marcos Tarnowski are senior partners in McKinsey\u2019s Montreal office, where Ghislain Gagn\u00e9 and Fr\u00e9d\u00e9ric Jacques are partners."
+    },
+    {
+      "question": "Who are the senior partners in McKinsey's Montreal office?",
+      "answer": "Vincent B\u00e9rub\u00e9 and Marcos Tarnowski."
+    },
+    {
+      "question": "What is the publication date of McKinsey on Investing?",
+      "answer": "December 2022."
+    },
+    {
+      "question": "What is the number of European B2B companies analyzed by McKinsey in the industrial sector?",
+      "answer": "55."
+    },
+    {
+      "question": "What percentage of top-quartile companies used active pricing management techniques?",
+      "answer": "More than 50 percent."
+    },
+    {
+      "question": "Where has private funding historically gone for space-related companies?",
+      "answer": "Satellites in medium-Earth orbit (MEO) or geosynchronous equatorial orbit (GEO)."
+    },
+    {
+      "question": "How much private investment went toward lunar and beyond orbital regimes in 2021?",
+      "answer": "About $1 billion."
+    },
+    {
+      "question": "How much private investment went toward space ventures focused on orbits around the moon and beyond in 2021?",
+      "answer": "$1 billion."
+    },
+    {
+      "question": "What are the varied areas of focus for space ventures involving lunar and beyond orbital regimes?",
+      "answer": "Spacecraft components and technologies, mining, infrastructure, and robotics."
+    },
+    {
+      "question": "What is the expected drop in global grain trade volumes by Q3 2023?",
+      "answer": "5 to 10 percent."
+    },
+    {
+      "question": "What are the factors that have thrown the global food system into a state of high risk?",
+      "answer": "The war in Ukraine, early climate change impacts, trade restrictions, fertilizer shortages, and higher energy prices."
+    },
+    {
+      "question": "By how much are Ukraine's crop exports expected to drop in 2022-23 if the conflict is prolonged and Black Sea ports remain blocked?",
+      "answer": "30 to 44 million metric tons."
+    },
+    {
+      "question": "What caused much of the deficit in exported grain in 2022?",
+      "answer": "Logistical problems that trapped grain in Black Sea ports."
+    },
+    {
+      "question": "By how much are global grain trade volumes likely to drop by Q3 2023?",
+      "answer": "5 to 10 percent."
+    },
+    {
+      "question": "What is the estimated annual business opportunity for Europe's battery cell-machinery equipment industry by 2025?",
+      "answer": "\u20ac5 billion to \u20ac7 billion."
+    },
+    {
+      "question": "How many new battery manufacturing facilities are expected to come online across Europe to meet the demand for electric vehicles?",
+      "answer": "Roughly 30."
+    },
+    {
+      "question": "What is the total capital-expenditure investment expected across Europe by 2030?",
+      "answer": "\u20ac100 billion."
+    },
+    {
+      "question": "What will be the annual business opportunity for the equipment industry in Europe by 2025 due to ramping up European battery production?",
+      "answer": "\u20ac5 billion to \u20ac7 billion."
+    },
+    {
+      "question": "What is the expected total capital-expenditure investment across Europe by 2030?",
+      "answer": "\u20ac100 billion."
+    },
+    {
+      "question": "What percentage of the total capital-expenditure investment is expected to be accounted for by equipment?",
+      "answer": "~60%."
+    },
+    {
+      "question": "What is the expected equipment investment in 2025?",
+      "answer": "\u20ac5.3 billion\u2013\u20ac7.1 billion."
+    },
+    {
+      "question": "How much total investment is expected in the next 5 years alone for battery cell manufacturing?",
+      "answer": "\u20ac18 billion\u2013\u20ac23 billion."
+    },
+    {
+      "question": "What will be required annually on average between 2022 and 2050 to renew, upgrade, and build physical assets to meet the world\u2019s decarbonization and sustainability goals?",
+      "answer": "$9.2 trillion."
+    },
+    {
+      "question": "By how much would spending on physical assets for energy and land-use systems rise annually in the NGFS Net Zero 2050 scenario compared to today?",
+      "answer": "$3.5 trillion."
+    },
+    {
+      "question": "Why are the spend estimates in the analysis higher than others in the literature?",
+      "answer": "Because the analysis has included spend on high-carbon technologies, agriculture, and other land use, and taken a more expansive view of the spending required in end-use sectors."
+    },
+    {
+      "question": "What are considered high-emissions assets in the analysis?",
+      "answer": "Assets for fossil fuel extraction and refining, fossil fuel power production assets without CCS, fossil fuel heat production, gray-hydrogen production, steel BOF, cement fossil fuel kilns, ICE vehicles, fossil fuel heating and cooking equipment, dairy, monogastric, and ruminant meat production."
+    },
+    {
+      "question": "What percentage of chemical companies are considered 'growth champions'?",
+      "answer": "16 percent."
+    },
+    {
+      "question": "What is the characteristic of 'growth champions' in the chemical industry?",
+      "answer": "They managed to grow above global GDP growth rates while delivering an ROIC higher than the chemical industry\u2019s weighted average cost of capital."
+    },
+    {
+      "question": "What strategies are chemical companies advised to adopt to achieve consistent growth?",
+      "answer": "Ramping up omnichannel strategies, investing in digital and analytic capabilities, and reevaluating contracting strategies to provide better protection against inflationary pressures."
+    },
+    {
+      "question": "What was the median ROIC for top specialty and diversified chemical players from 2010 to 2019?",
+      "answer": "~3%."
+    },
+    {
+      "question": "What percentage of chemical companies were classified as 'Growth champions'?",
+      "answer": "16%."
+    },
+    {
+      "question": "What was the average global GDP growth rate from 2010 to 2019?",
+      "answer": "~7.5%."
+    },
+    {
+      "question": "Which size category of consumer companies grew fastest between 2009 and 2019?",
+      "answer": "Smaller companies (with $300 million to $3 billion in annual revenue)."
+    },
+    {
+      "question": "What was the weighted average CAGR for consumer companies with more than $10 billion in annual revenue from 2009 to 2019?",
+      "answer": "2.4%."
+    },
+    {
+      "question": "What strategies did companies in the consumer sector use to achieve rapid growth and expanded margins?",
+      "answer": "Expanding the company's core, entering into new categories and geographies, and launching disruptive businesses."
+    },
+    {
+      "question": "According to McKinsey's 2022 global survey, what do executives in the building products industry view as key differentiators?",
+      "answer": "Investing in innovation, digital transformation, and R&D."
+    },
+    {
+      "question": "What are the key value creation drivers that leaders should focus on to stimulate growth?",
+      "answer": "Setting clear targets for innovative growth, doing routine interventions on cost programs, implementing marketing and sales initiatives, and developing a more agile approach to resource allocation."
+    },
+    {
+      "question": "How did the global insurance industry perform in 2021?",
+      "answer": "The global insurance industry saw a rebound in premium growth and profits in 2021, but the recovery was not uniform across regions and insurance segments."
+    },
+    {
+      "question": "Which segment of the insurance industry demonstrated the highest TSR between 2020 and 2021?",
+      "answer": "Brokers have emerged as one of the clear winners in the industry, demonstrating the highest TSR compared to other segments in the insurance value chain."
+    },
+    {
+      "question": "What is the expected growth rate of the US healthcare industry between now and 2025?",
+      "answer": "The overall industry is expected to grow at 6 percent per year during this period."
+    },
+    {
+      "question": "Which segments of the US healthcare industry are expected to grow the fastest between now and 2025?",
+      "answer": "Payers and providers are expected to grow the fastest."
+    },
+    {
+      "question": "What is driving the positive outlook for healthcare providers?",
+      "answer": "The aging population and the pandemic-triggered shift in care delivery services and nonacute sites of care."
+    },
+    {
+      "question": "Which healthcare segments are expected to grow fastest post-COVID-19?",
+      "answer": "Payer and services segments."
+    },
+    {
+      "question": "What was the primary driver of venture capital funding in biotech companies from 2019 to 2021?",
+      "answer": "Innovative platform technologies."
+    },
+    {
+      "question": "How much venture capital funding did biotech companies receive from 2019 to 2021?",
+      "answer": "$52 billion."
+    },
+    {
+      "question": "What are some of the biotech investment themes that received significant venture capital funding?",
+      "answer": "Cell therapy 2.0, next-generation gene therapies, precision medicine, and machine learning (ML)\u2013enabled drug discovery."
+    },
+    {
+      "question": "How much VC biotech funding did the industry segment receive from 2019 to 2021?",
+      "answer": "More than two-thirds of the total $52 billion."
+    },
+    {
+      "question": "What was the total VC biotech funding from 2019 to 2021?",
+      "answer": "$52 billion."
+    },
+    {
+      "question": "What areas saw a surge in investor interest in biotech from 2019 to 2021?",
+      "answer": "Cell therapy 2.0, next-generation cell therapies, precision medicine, and other biotech platforms."
+    },
+    {
+      "question": "What is expected to double by 2035 to reach $1.5 trillion to $1.6 trillion?",
+      "answer": "Annual investment in energy supply and production."
+    },
+    {
+      "question": "What is projected to make up more than a fourth of total global investments in energy supply and production by 2035?",
+      "answer": "Decarbonization technologies."
+    },
+    {
+      "question": "How much VC funding was driven to cell therapy 2.0 from 2019 to 2021?",
+      "answer": "$7.7 billion."
+    },
+    {
+      "question": "What is the estimated size of the European circular-economy market by 2030?",
+      "answer": "\u20ac400 billion to \u20ac650 billion."
+    },
+    {
+      "question": "At what annual rate is the European circular-economy product segment expected to grow by 2030?",
+      "answer": "Around 10 to 15 percent annually."
+    },
+    {
+      "question": "What was the trend in funding for logistics start-ups from 2020 to 2021?",
+      "answer": "Funding for logistics start-ups almost doubled in 2021."
+    },
+    {
+      "question": "What was the total funding for logistics start-ups in 2021?",
+      "answer": "Not explicitly stated, but it is shown that funding almost doubled from 2020 to 2021, with 2020 funding being $12.6 billion and 2021 being > $24.6 billion."
+    },
+    {
+      "question": "What are the main areas of the logistics value chain that received the largest share of funding inflows in 2021?",
+      "answer": "Last-mile delivery businesses, visibility and intelligence providers, and road-freight marketplaces."
+    },
+    {
+      "question": "What was the total funding for logistics startups in 2021 compared to 2020?",
+      "answer": "Funding in logistics startups almost doubled from 2020 to 2021."
+    },
+    {
+      "question": "What was the annual funding growth rate for logistics startups from 2014 to 2021?",
+      "answer": "+70% annual funding growth"
+    },
+    {
+      "question": "How much was the funding round for Flexport in Q1 2022?",
+      "answer": "$935m"
+    },
+    {
+      "question": "What is considered the 'holy grail' of private investing?",
+      "answer": "Permanent capital"
+    },
+    {
+      "question": "How much of life and annuity assets in the United States will private investors own if pending deals close successfully?",
+      "answer": "12 percent, totaling $620 billion"
+    },
+    {
+      "question": "How many alternative asset managers have entered or stated their intent to enter the life insurance market?",
+      "answer": "15"
+    },
+    {
+      "question": "When did private investing in insurance begin?",
+      "answer": "Private investing in insurance dates back more than 50 years to Berkshire Hathaway\u2019s acquisition of National Indemnity in 1967."
+    },
+    {
+      "question": "What is the core attraction of PE investments in life insurance?",
+      "answer": "The core attraction is the spread between the cost of servicing liabilities and the potential investment return on the assets held by life and annuities companies."
+    },
+    {
+      "question": "How do general partners (GPs) typically capture the spread in life insurance investments?",
+      "answer": "GPs capture the spread by setting up an insurer they control, acquiring or reinsuring books from other insurers, influencing strategic asset allocation, and applying their investment management capabilities to earn alpha."
+    },
+    {
+      "question": "What internal rates of return (IRRs) can be generated by executing the value-creation playbook in life insurance investments?",
+      "answer": "Executing the value-creation playbook can generate IRRs of 10 to 14 percent."
+    },
+    {
+      "question": "How did US PE-backed insurers perform in terms of investment yield compared to the industry average?",
+      "answer": "US PE-backed insurers generated 62 basis points higher investment yield than the industry average."
+    },
+    {
+      "question": "Why are public investors wary of variable annuities?",
+      "answer": "Public valuations appear to be lower than private valuations, and there is a concern about the volatility and opaque risk profile."
+    },
+    {
+      "question": "How does investing in life insurance assets help GPs build their alternative credit capabilities?",
+      "answer": "It provides a stable base for GPs to rapidly build their alternative credit capabilities by acquiring long-term assets for the firm's credit arm to invest."
+    },
+    {
+      "question": "What is the size of the collateralized loan obligations market?",
+      "answer": "The collateralized loan obligations market is now a $760 billion market."
+    },
+    {
+      "question": "What is the total value of traditional life liabilities in Europe?",
+      "answer": "Traditional life liabilities in Europe total \u20ac4.5 trillion."
+    },
+    {
+      "question": "Why are insurers willing to sell their life insurance businesses?",
+      "answer": "Some insurers see an opportunity to shift strategy and move into more attractive businesses, while others think they can deliver greater value by exiting these books and returning the capital to shareholders."
+    },
+    {
+      "question": "What is the alternative model that some GPs follow instead of acquiring insurers?",
+      "answer": "A partnership or outsourced chief-investment-officer (OCIO) model, in which they work with incumbent insurers to manage a portion of their assets for the long term and take only a limited equity stake, or none at all."
+    },
+    {
+      "question": "What is the growth rate of defined-contribution pensions in Europe and the United States?",
+      "answer": "Assets are growing at 6 to 8 percent annually."
+    },
+    {
+      "question": "What is the annual growth rate of assets in defined-contribution pensions in Europe and the United States?",
+      "answer": "6 to 8 percent."
+    },
+    {
+      "question": "How do insurers with a high proportion of fee earnings typically trade in terms of P/E ratio?",
+      "answer": "Nine to 12 times."
+    },
+    {
+      "question": "What happened to the TSR of a US player that divested its closed block of variable annuities over the subsequent three years?",
+      "answer": "It outperformed the life index by ten percentage points."
+    },
+    {
+      "question": "Why have many insurers' earnings on in-force blocks come under pressure?",
+      "answer": "Guarantee rates to policyholders are still as high as 150 to 400 bps in some markets, while yields on bonds have declined by 150 to 300 bps since 2010\u201311."
+    },
+    {
+      "question": "What percentage of its assets does an average insurer reinvest annually?",
+      "answer": "About 12 percent."
+    },
+    {
+      "question": "What is the first step for PE firms considering an insurance investment?",
+      "answer": "Getting clear on their strategy for insurance investments."
+    },
+    {
+      "question": "What are the three capabilities required for PE firms thinking of a platform play and a long-lasting source of permanent capital in insurance?",
+      "answer": "Proprietary access to potential deals, value-creation skills to make the most of the deals they close, and strong risk-management capabilities given the nature of insurance."
+    },
+    {
+      "question": "What is the most common path for new entrants in the insurance industry?",
+      "answer": "To acquire or reinsure a closed block."
+    },
+    {
+      "question": "What are the risks that PE firms should be aware of when entering the insurance industry?",
+      "answer": "The asset side of the balance sheet, including illiquidity and credit risk, regulatory uncertainty, public opinion, and limited partners' reactions to a life acquisition."
+    },
+    {
+      "question": "How can PE firms potentially secure the benefits of permanent capital while avoiding the complexity of operating a life insurer?",
+      "answer": "By considering a partnership model with insurers, where both parties share in the upside and risks, and share capabilities."
+    },
+    {
+      "question": "What are the six levers that owners can use to drive value after acquiring a book?",
+      "answer": "Not fully provided, but the first lever mentioned is 'Investment performance: optimization of the SAA and delivery of alpha within the SAA'."
+    },
+    {
+      "question": "Why is managing credit risk important for PE firms entering the insurance industry?",
+      "answer": "Because rotating the portfolio into higher-risk credit assets creates risk that is important to manage, particularly to maintain regulatory and rating stability."
+    },
+    {
+      "question": "How many levers can owners use to improve return on equity (ROE) in acquired insurance books?",
+      "answer": "Six levers can be used to improve ROE."
+    },
+    {
+      "question": "What is the potential increase in return on equity (ROE) that the six levers can achieve?",
+      "answer": "The six levers can collectively improve ROE by up to four to seven percentage points."
+    },
+    {
+      "question": "Which lever do most private equity firms view as the main way to create value for the insurer?",
+      "answer": "Most private equity firms view investment performance as the main way to create value for the insurer."
+    },
+    {
+      "question": "What are the six levers that owners can use to drive value in acquired insurance books?",
+      "answer": "The six levers are: investment performance, capital efficiency, operations/IT improvement, technical excellence, commercial uplift, and franchise growth."
+    },
+    {
+      "question": "Why is capital efficiency a greater opportunity for private insurers?",
+      "answer": "Capital efficiency is a greater opportunity for private insurers due to their different treatment under generally accepted accounting principles, enabling them to apply a longer-term lens and reduce the cost of hedging."
+    },
+    {
+      "question": "What skills do leading firms typically have in core investment-management areas?",
+      "answer": "Deep skills in areas such as strategic asset allocation, asset/liability management, risk management, and reporting, as well as access to leading investment teams that have delivered alpha."
+    },
+    {
+      "question": "How much can the value-creation playbook lift return on equity?",
+      "answer": "By four to seven percentage points."
+    },
+    {
+      "question": "What is the potential increase in return on equity by lever for 'Capital'?",
+      "answer": "Greater capital efficiency, with a potential increase of 1.0\u20132.0 percentage points."
+    },
+    {
+      "question": "At what scale can PE firms achieve lower costs in insurance?",
+      "answer": "Typically defined as at least $10 billion of assets."
+    },
+    {
+      "question": "What is the cost difference between US and European closed-book acquirers compared to general life insurers?",
+      "answer": "US firms enjoy costs 20 to 40 percent lower, while European acquirers are burdened with costs 30 to 60 percent higher."
+    },
+    {
+      "question": "Why are European acquirers burdened with higher costs?",
+      "answer": "European acquirers are burdened with costs 30 to 60 percent higher, in part due to the more complex books they have acquired."
+    },
+    {
+      "question": "What techniques can insurers use to address operating and IT costs?",
+      "answer": "Techniques to address operating and IT costs include process streamlining, changes to operating location, and efforts to reduce overhead costs."
+    },
+    {
+      "question": "How can new AI techniques help insurers capture more opportunities?",
+      "answer": "New AI techniques, including machine learning, can help insurers capture more opportunities, for example, by applying these methods to system migration and data extraction."
+    },
+    {
+      "question": "What is the benefit of applying AI modeling along with a refreshed strategy for sales force optimization?",
+      "answer": "Applying AI modeling along with a refreshed strategy for sales force optimization can result in agents delivering between 40 and 250 percent more cross-sell revenue."
+    },
+    {
+      "question": "How can advanced analytics unlock new opportunities for franchise growth?",
+      "answer": "Advanced analytics can unlock new opportunities for franchise growth by applying machine learning to model policyholder behavior, which can be 20 to 50 percent more accurate than traditional actuarial methodology."
+    },
+    {
+      "question": "What percentage of flows and assets do some new entrants derive from organic growth?",
+      "answer": "Some new entrants derive significant value from organic growth, which represents 25 to 50 percent of their flows and assets."
+    },
+    {
+      "question": "Are leading insurers using the same value-creation playbook as PE firms?",
+      "answer": "Yes, several leading insurers already exercise the same value-creation playbook that PE firms are using."
+    },
+    {
+      "question": "What percentage of flows and assets do some players derive from organic growth?",
+      "answer": "25 to 50 percent."
+    },
+    {
+      "question": "How are insurers creating value despite the challenging interest-rate environment?",
+      "answer": "By running operations and IT transformations or using analytics-powered methods to release capital or improve in-force earnings."
+    },
+    {
+      "question": "What are insurers doing to secure access to higher-yielding, capital-efficient asset classes?",
+      "answer": "They are building investment skills, reviewing the strategic-asset allocation, and finding new ways to secure access to these asset classes, provided they can effectively manage the risk."
+    },
+    {
+      "question": "What is one strategy insurers are using to access specialist capabilities in challenging asset classes?",
+      "answer": "Partnering with alternative managers, where the insurer brings operations expertise and the alternative manager captures the upside from managing credit investments."
+    },
+    {
+      "question": "What is an alternative for insurers who cannot build leading capabilities or have more attractive investment opportunities?",
+      "answer": "Sale or reinsurance of part or all of a capital-intensive book to free up significant capital."
+    },
+    {
+      "question": "What is a potential strategy for insurers facing a challenging value-creation path?",
+      "answer": "Pooling their challenged assets and building sufficient scale to offer a compelling proposition to another insurer, either as a purchase or a joint venture."
+    },
+    {
+      "question": "What percentage of digitally native brands (DNBs) have reached $100 million in revenues over the past two decades?",
+      "answer": "Fewer than 0.5 percent."
+    },
+    {
+      "question": "What is the average growth rate of DNBs compared to overall e-commerce?",
+      "answer": "DNBs are growing at triple the rate of overall e-commerce."
+    },
+    {
+      "question": "What are the two important competitive advantages that DNBs have due to their online origins?",
+      "answer": "Deep knowledge of their customer base and extensive control over the customer file."
+    },
+    {
+      "question": "How have the barriers to entry for DNBs affected the market?",
+      "answer": "Low barriers to entry have encouraged an explosion of DNBs, flooding the market with the fruits of creative entrepreneurship."
+    },
+    {
+      "question": "What percentage of businesses that originated through e-commerce earn less than $1 million in annual revenues?",
+      "answer": "More than 90 percent."
+    },
+    {
+      "question": "How quickly have the fastest-growing DNBs scaled their revenues?",
+      "answer": "The fastest-growing DNBs have scaled from $50 million in revenues to $1 billion in four to eight years."
+    },
+    {
+      "question": "What are the four critical factors to consider when assessing whether a DNB has the potential for outsize performance?",
+      "answer": "Six key metrics, categories with the most potential, essential capabilities, and pitfalls that can derail success."
+    },
+    {
+      "question": "What are the four critical factors to consider when assessing a DNB investment?",
+      "answer": "Step one in finding a DNB with 'superstar' potential requires developing a baseline understanding of the core health of the customer file."
+    },
+    {
+      "question": "What are the six key metrics that determine a brand's investment attractiveness?",
+      "answer": "net customer growth, year-over-year customer cohort value, projected lifetime value (LTV), customer acquisition cost (CAC), contribution margin, and total addressable market (TAM)"
+    },
+    {
+      "question": "What is the LTV:CAC ratio and what is considered a satisfactory ratio?",
+      "answer": "The LTV:CAC ratio is the marginal return on investment for acquiring every new customer, and a satisfactory ratio is considered to be 3:1."
+    },
+    {
+      "question": "What does the ratio of the overall size of the TAM to the size of the current business indicate?",
+      "answer": "It indicates how much runway the business has with its existing offering within the target customer base."
+    },
+    {
+      "question": "What is a good ratio of TAM to current business size that indicates further runway?",
+      "answer": "Below 5 to 10 percent."
+    },
+    {
+      "question": "What does tracking how losses change with revenue scaling indicate for an unprofitable business?",
+      "answer": "Whether it is gaining any operating leverage over time, in particular ensuring that the loss ratio is gradually shrinking."
+    },
+    {
+      "question": "What is a good LTV/CAC ratio that indicates further runway for a business before expanding its Total Addressable Market (TAM)?",
+      "answer": "A good ratio is below 5 to 10 percent."
+    },
+    {
+      "question": "What do the most successful digitally native brands (DNBs) typically have in common in terms of category dynamics?",
+      "answer": "They typically play in categories with distinct dynamics, such as predictable and routine consumption patterns, personal and gift-buying tendencies, strong gross margin profiles, favorable size/weight ratio for shipping, and low likelihood of returns."
+    },
+    {
+      "question": "What percentage of e-commerce companies in the United States have revenues of less than $1 million per year?",
+      "answer": "More than 90 percent."
+    },
+    {
+      "question": "What is the definition of 'Projected lifetime value (LTV)'?",
+      "answer": "The total contribution margin a company expects to earn over the lifetime of its relationship with a single customer."
+    },
+    {
+      "question": "What is the purpose of tracking how losses change with revenue scaling for an unprofitable business?",
+      "answer": "To indicate whether it is gaining any operating leverage over time, in particular ensuring that the loss ratio is gradually shrinking."
+    },
+    {
+      "question": "What was the primary focus of the original generation of digitally native brands (DNBs) that emerged in the 2000s and early 2010s?",
+      "answer": "Cutting out the middleman to offer goods at reduced prices or selling a unique product, or both."
+    },
+    {
+      "question": "What percentage of e-commerce companies in the United States have revenues of less than $1 million per year?",
+      "answer": "More than 90 percent."
+    },
+    {
+      "question": "What are some of the distinct dynamics that successful DNBs typically operate in?",
+      "answer": "Categories with predictable and routine consumption patterns, personal and gift-buying tendencies, strong gross margin profiles, favorable size/weight ratio for shipping, and low likelihood of returns."
+    },
+    {
+      "question": "What is the definition of projected lifetime value (LTV)?",
+      "answer": "The total contribution margin a company expects to earn over the lifetime of its relationship with a single customer."
+    },
+    {
+      "question": "How do successful DNBs retain and grow their customer base?",
+      "answer": "By quickly shifting direction and fine-tuning assortment, product variety, pricing, shipping, deals, product combinations, and marketing messages, and by monitoring tiny shifts in consumer browsing and purchasing behaviors."
+    },
+    {
+      "question": "What is Click-through rate (CTR)?",
+      "answer": "a ratio that represents the percentage of people who click on an ad or product listing displayed to them"
+    },
+    {
+      "question": "What is the definition of Projected lifetime value (LTV)?",
+      "answer": "the total contribution margin a company expects to earn over the lifetime of its relationship with a single customer"
+    },
+    {
+      "question": "How do successful Digitally Native Brands (DNBs) refine their value proposition?",
+      "answer": "by monitoring tiny shifts in consumer browsing and purchasing behaviors to constantly refine their value proposition to optimize demand and minimize churn"
+    },
+    {
+      "question": "What is the typical path for DNBs to move from start-up to grown-up?",
+      "answer": "expanding beyond the current assortment, making a move to new geographies, and ultimately entering brick-and-mortar"
+    },
+    {
+      "question": "What was Peloton's strategy for growth?",
+      "answer": "growing across different distribution channels and categories, pursuing new customer segments and new geographies"
+    },
+    {
+      "question": "How do successful DNBs approach expansion?",
+      "answer": "strategically, using a test-and-learn approach to experiment with opportunities before committing to full-scale implementation"
+    },
+    {
+      "question": "What is the typical path for digitally native brands (DNBs) to expand their business?",
+      "answer": "The path typically begins with expanding beyond the current assortment, followed by making a move to new geographies, and ultimately entering brick-and-mortar to gain greater access to cheaper traffic."
+    },
+    {
+      "question": "How did Peloton expand its business to reach $4 billion in revenues in the 2021 fiscal year?",
+      "answer": "Peloton grew across different distribution channels, categories, and customer segments, and pursued new geographies such as Canada and the United Kingdom."
+    },
+    {
+      "question": "What are the key indicators of category attractiveness for digitally native brands?",
+      "answer": "The indicators include consumer need state, predictable consumption, brand relevance, price or cube ratio, shelf stability or perishability, and complexity of personalization."
+    },
+    {
+      "question": "What are the essential capabilities that successful DNB teams rely on?",
+      "answer": "Successful DNB teams rely on building great relationships with customers, offering compelling reasons to shop with them, reducing customer acquisition costs and payback period, and using the best and latest technology to drive loyalty."
+    },
+    {
+      "question": "Why are DNBs often better positioned than traditional brands to build essential capabilities?",
+      "answer": "DNBs are often better positioned because of their origins and infrastructure."
+    },
+    {
+      "question": "How do successful brands approach expansion?",
+      "answer": "Strategically, using a test-and-learn approach to experiment with opportunities before committing to full-scale implementation."
+    },
+    {
+      "question": "What are the category indicators of attractiveness for digitally native brands?",
+      "answer": "Consumer need state, predictable consumption, brand relevance, price or cube ratio, shelf stability or perishability, and complexity of personalization."
+    },
+    {
+      "question": "What are the four essential capabilities that successful digitally native brands rely on?",
+      "answer": "Building great relationships with customers, offering compelling reasons to shop with them, pursuing avenues to reduce customer acquisition costs and payback period, and using the best and latest technology to drive loyalty."
+    },
+    {
+      "question": "How do digitally native brands cultivate a high level of engagement with their customers?",
+      "answer": "By providing excellent customer service, including rapid resolution of issues, loyalty programs, and bonus content, and by cultivating satisfied customers as influencers who foster brand trust and community participation."
+    },
+    {
+      "question": "What is the role of performance marketing in digitally native brands?",
+      "answer": "To manage customer acquisition costs and lifetime value effectively by testing and learning to determine optimal channels for acquiring customers, developing analytics to predict and prevent churn, and using targeted and personalized ads, promotions, and referrals."
+    },
+    {
+      "question": "What is a hallmark of a thriving digitally native brand (DNB)?",
+      "answer": "Strong conversion-rate-optimization capability."
+    },
+    {
+      "question": "How do winning DNBs grow their current customer base?",
+      "answer": "By leveraging deeper data to personalize recommendations, offer bundled products and services, and provide incentives."
+    },
+    {
+      "question": "What type of technology solutions do DNBs often rely on for managing site content?",
+      "answer": "Open-source technology solutions."
+    },
+    {
+      "question": "What is a pitfall that can derail the success of DNBs?",
+      "answer": "Constrained total addressable market or undifferentiated value proposition."
+    },
+    {
+      "question": "At what revenue milestone do brick-and-mortar presence help DNBs grow?",
+      "answer": "Beyond $50 million."
+    },
+    {
+      "question": "What is required for DNBs to create a unified view of each customer?",
+      "answer": "A customer data platform or similar technology solution."
+    },
+    {
+      "question": "What technology solution do DNBs often use to create a unified view of each customer?",
+      "answer": "A customer data platform or similar technology solution."
+    },
+    {
+      "question": "What is one of the pitfalls that can limit the growth and profitability of DNBs?",
+      "answer": "Constrained total addressable market, undifferentiated value proposition and innovation, lack of focus, and poor unit economics."
+    },
+    {
+      "question": "Why did Madison Reed succeed in turning hair-color buying on its head?",
+      "answer": "By offering custom color kits that arrive on a recurring basis and providing free online color consultations designed to imitate sitting in a salon chair."
+    },
+    {
+      "question": "What percentage of DNBs have reached the $100 million revenue level over the past 20 years?",
+      "answer": "Fewer than 0.5 percent."
+    },
+    {
+      "question": "What should investors be wary of when evaluating DNBs?",
+      "answer": "The 'halo effect,' whereby a prospect appears golden because it checks off a series of boxes, and DNBs that don't provide evidence of a path to profitability and the potential to improve margins as they scale."
+    },
+    {
+      "question": "How do strong DNBs work to optimize the value chain?",
+      "answer": "By increasing their buying power, economies of scale, and operational efficiencies."
+    },
+    {
+      "question": "What is a characteristic of the most compelling DNBs?",
+      "answer": "The product or service itself genuinely belonged online and solved problems for customers."
+    },
+    {
+      "question": "What has brought a sense of urgency to the critical role of real-estate leaders in the climate transition?",
+      "answer": "Recently, investors made net-zero commitments, regulators developed reporting standards, governments passed laws targeting emissions, employees demanded action, and tenants demanded more sustainable buildings, while the accelerating physical consequences of a changing climate are becoming more pronounced."
+    },
+    {
+      "question": "What percentage of total global emissions is driven by real estate?",
+      "answer": "Approximately 39 percent."
+    },
+    {
+      "question": "What are the three main actions that real-estate leaders should take according to the article?",
+      "answer": "Revalue assets, decarbonize, and create new business opportunities."
+    },
+    {
+      "question": "By how much could climate risks reduce annual returns toward the end of the decade, according to a study of a diversified equity portfolio?",
+      "answer": "As much as 40 percent."
+    },
+    {
+      "question": "What is the period during which the world will feel both the physical effects of climate change and the economic, social, and regulatory changes necessary to decarbonize, according to the article?",
+      "answer": "The climate transition, until 2050."
+    },
+    {
+      "question": "What percentage of total global emissions is driven by real estate?",
+      "answer": "Approximately 39 percent."
+    },
+    {
+      "question": "How much of the emissions generated by real estate are attributed to manufacturing materials used in buildings?",
+      "answer": "Approximately 11 percent."
+    },
+    {
+      "question": "What are some examples of cost-effective upgrades that can reduce emissions associated with real estate?",
+      "answer": "Upgrading to more energy-efficient lighting systems, installing better insulation, and installing low-carbon heating and cooling systems such as heat pumps and energy-efficient air conditioning."
+    },
+    {
+      "question": "What are the three actions real-estate players can take to thrive throughout the climate transition?",
+      "answer": "Incorporate climate change risks into asset and portfolio valuations, decarbonize real-estate assets and portfolios, and create new sources of value and revenue streams for investors, tenants, and communities."
+    },
+    {
+      "question": "What are the two types of risks associated with climate change that can impact a building's operations and value?",
+      "answer": "Physical risks and transition risks."
+    },
+    {
+      "question": "What are some examples of physical risks caused by a changing climate?",
+      "answer": "Floods, fires, extreme heat, storms, steadily rising sea levels, and changing average temperatures."
+    },
+    {
+      "question": "How can physical and transition risks affect assets?",
+      "answer": "Physical and transition risks can affect assets directly or indirectly by having an impact on the markets with which the assets interact."
+    },
+    {
+      "question": "What did several major real-estate companies find when they conducted climate stress tests on their portfolios?",
+      "answer": "They found a significant impact on portfolio value, with potential losses for some debt portfolios doubling over the next several years."
+    },
+    {
+      "question": "How much are the values of homes in Florida exposed to changing climate-related risks depressed relative to unexposed homes?",
+      "answer": "Roughly $5 billion."
+    },
+    {
+      "question": "What was the result of a survey of finance experts and professionals regarding real-estate asset prices reflecting climate risks?",
+      "answer": "Those who think real-estate asset prices reflect climate risks 'not enough' outnumber those who think they reflect climate risks 'too much' by 67 to 1."
+    },
+    {
+      "question": "How much worth of real estate could be 'stranded' according to the International Renewable Energy Agency?",
+      "answer": "$7.5 trillion."
+    },
+    {
+      "question": "What was the effect of Hurricane Sandy on housing prices in New York's flood zones by 2017?",
+      "answer": "Housing prices were reduced by up to 8 percent."
+    },
+    {
+      "question": "What was the annual jump in nonrenewals of insurance in areas of moderate-to-very-high fire risk in California?",
+      "answer": "61 percent."
+    },
+    {
+      "question": "What was the vacancy rate in downtown Calgary as of January 2021?",
+      "answer": "About 30 percent, a record high."
+    },
+    {
+      "question": "What is an example of a regulatory requirement to decarbonize buildings?",
+      "answer": "New York City's Local Law 97."
+    },
+    {
+      "question": "What is the estimated retrofit demand for buildings covered by New York City's Local Law 97 through 2030?",
+      "answer": "Up to $24.3 billion."
+    },
+    {
+      "question": "What capabilities should real-estate owners and investors develop to understand climate-related impacts?",
+      "answer": "The analytical capabilities to consistently assess both physical and transition risks."
+    },
+    {
+      "question": "What are the potential impacts of climate transition risks on real-estate markets?",
+      "answer": "Rapid declines or fluctuations, as seen in Calgary due to oil price volatility and market-access issues."
+    },
+    {
+      "question": "How will the investments required to avoid or derisk physical risks affect the economy?",
+      "answer": "It will drive a historic reallocation of capital, changing the structure of the economy and impacting the value of markets, companies, and companies' locations."
+    },
+    {
+      "question": "What are the two main types of climate-related risks that can impact real estate?",
+      "answer": "Physical risks and transition risks."
+    },
+    {
+      "question": "What are physical risks in the context of climate change and real estate?",
+      "answer": "Hazards caused by a changing climate, from floods, fires, and storms to rising sea levels and changing average temperatures."
+    },
+    {
+      "question": "What are transition risks in the context of climate change and real estate?",
+      "answer": "Changes in the economy, regulation, consumer behavior, technology, and other human responses to climate change."
+    },
+    {
+      "question": "How can physical and transition risks affect real estate?",
+      "answer": "They have direct and indirect implications for revenue, operating and capital costs, and capitalization rate."
+    },
+    {
+      "question": "What are some examples of direct effects of transition risks on real estate?",
+      "answer": "Unattractiveness of a carbon-intensive asset to an occupier that has made a climate commitment and increased utility costs given carbon-intensive building systems."
+    },
+    {
+      "question": "What are some examples of indirect effects of physical risks on real estate?",
+      "answer": "Reduced real-estate demand in a local market given disruptions to surrounding transportation or other infrastructure and increased insurance costs as insurers recognize physical risks and adjust underwriting models."
+    },
+    {
+      "question": "What is the first step in assessing climate-related risks for real estate assets or portfolios?",
+      "answer": "Prioritize. Create a detailed assessment of the asset or portfolio to determine which physical and transition risks are most important and which are less important."
+    },
+    {
+      "question": "What are transition risks related to climate change?",
+      "answer": "Changes in the economy, regulation, consumer behavior, technology, and other human responses to climate change."
+    },
+    {
+      "question": "What are physical risks related to climate change?",
+      "answer": "Hazards caused by a changing climate, from floods, fires, and storms to rising sea levels and changing average temperatures."
+    },
+    {
+      "question": "What is a direct effect of transition risks on revenue?",
+      "answer": "Unattractiveness of a carbon-intensive asset to an occupier that has made a climate commitment."
+    },
+    {
+      "question": "What is an indirect effect of transition risks on revenue?",
+      "answer": "Decline in a sector or local economy resulting in lower local real-estate demand or occupancy."
+    },
+    {
+      "question": "What is a step to manage climate-related risks?",
+      "answer": "Prioritize by creating a detailed assessment of the asset or portfolio to determine which physical and transition risks are most important."
+    },
+    {
+      "question": "How should organizations use climate-related insights?",
+      "answer": "Directly inform investment management, lease pricing, capital attraction and investor relations, asset management, tenant attraction, development, and other core businesses."
+    },
+    {
+      "question": "What is required to quantify portfolio impact?",
+      "answer": "Combining assessments of the economic risks on individual buildings into an impact map that enables visualization of the entire portfolio."
+    },
+    {
+      "question": "What is a direct effect of physical risks on operating costs?",
+      "answer": "Increased maintenance costs as physical risks increase."
+    },
+    {
+      "question": "What is an example of a capital cost related to transition risks?",
+      "answer": "Significant capital investment required to meet local energy efficiency/emissions standards or tenant demands."
+    },
+    {
+      "question": "What is the estimated annual investment required globally to support the net-zero transition?",
+      "answer": "$9.2 trillion."
+    },
+    {
+      "question": "What is the first step real-estate players can take to decarbonize?",
+      "answer": "Understand the starting point by quantifying baseline emissions of each building."
+    },
+    {
+      "question": "Why is decarbonization necessary according to the text?",
+      "answer": "To reduce the risks of climate change."
+    },
+    {
+      "question": "What is the result of a portfolio revaluation informed by climate change risks?",
+      "answer": "It can lead to hard choices but will also open the door to acting on decarbonization and exploring new opportunities."
+    },
+    {
+      "question": "What type of challenge is decarbonization considered to be?",
+      "answer": "Not solely a technical challenge."
+    },
+    {
+      "question": "What is the first step in decarbonizing real estate?",
+      "answer": "Decide which type of decarbonization target to set."
+    },
+    {
+      "question": "What is the purpose of building an asset- or portfolio-level abatement curve?",
+      "answer": "To provide a clear view of the potential cost/return on investment of a given emissions-reduction lever along with the impact of that lever on emissions reduction."
+    },
+    {
+      "question": "What mechanisms may be involved in executing a decarbonization plan?",
+      "answer": "Making changes to financing and governance, stakeholder engagement, and a range of operational and risk-management aspects of the business."
+    },
+    {
+      "question": "Why is tracking and improving decarbonization efforts important?",
+      "answer": "To demonstrate emissions reduction to potential stakeholders and create an opportunity for players to differentiate."
+    },
+    {
+      "question": "What are some opportunities for real-estate players to create new revenue streams as the economy decarbonizes?",
+      "answer": "Local energy generation and storage, green buildings, green-building materials, extra services on-site, services for reducing and tracking emissions, and differentiated capital attraction."
+    },
+    {
+      "question": "How can real-estate firms use their physical presence to generate new revenue streams?",
+      "answer": "By generating and storing energy, such as by outfitting buildings with solar arrays and batteries."
+    },
+    {
+      "question": "What is one way that decarbonizing can benefit real-estate players in terms of capital attraction?",
+      "answer": "Firms that are able to decarbonize will have an advantage in attracting capital, and may create specific funds for net-zero buildings or investment themes that support community-scale decarbonization."
+    },
+    {
+      "question": "What percentage of emissions abatement by 2050 can be delivered by mature climate technologies if deployed widely?",
+      "answer": "About 60 percent."
+    },
+    {
+      "question": "What is the estimated annual investment that could be attracted by five themes related to climate technologies by 2025?",
+      "answer": "$2 trillion."
+    },
+    {
+      "question": "What percentage of emissions abatement is expected to come from climate technologies that are demonstrated but not yet mature?",
+      "answer": "25 to 30 percent."
+    },
+    {
+      "question": "Why is the pace of decarbonization difficult to predict?",
+      "answer": "Because of the need for innovation, particularly in climate technologies that are not yet mature or are still in R&D."
+    },
+    {
+      "question": "What is one challenge that power producers may face if manufacturers of utility-scale batteries cannot make them at low cost?",
+      "answer": "They may have to keep running fossil fleets to cope with the intermittency of renewables."
+    },
+    {
+      "question": "What has limited capital formation and slowed scale-up according to the text?",
+      "answer": "Uncertainty about the availability of financing for innovation."
+    },
+    {
+      "question": "By how much did the cost of some renewable-energy projects come down over the past decade?",
+      "answer": "Almost 90 percent."
+    },
+    {
+      "question": "What was the result of sustained demand for climate technologies over time?",
+      "answer": "Manufacturers can create production efficiencies that allow them to reduce costs."
+    },
+    {
+      "question": "When did solar-power generation achieve cost parity with coal power and gas power?",
+      "answer": "Solar-power generation achieved cost parity with coal power in 2013 and gas power in 2015."
+    },
+    {
+      "question": "By how much did solar-module costs fall over more than 30 years of research and investment?",
+      "answer": "About 98 percent."
+    },
+    {
+      "question": "What accounted for the majority of cost reductions in solar modules during the first phase (1980-2000) and the second phase (2000-2014)?",
+      "answer": "During the first phase, R&D investments accounted for the majority of cost reductions. During the second phase, economies of scale and 'learning by doing' in manufacturing accounted for the majority of cost reductions."
+    },
+    {
+      "question": "What has been the trend in the unit costs of some renewable-energy technologies as production has scaled up?",
+      "answer": "The unit costs have fallen by more than 10 percent a year."
+    },
+    {
+      "question": "By how much have the unit costs of some renewable-energy technologies fallen per year as production has scaled up?",
+      "answer": "More than 10 percent a year."
+    },
+    {
+      "question": "What is the learning rate in the context of renewable-energy technologies?",
+      "answer": "The learning rate measures the fractional reduction in cost that occurs with a doubling of cumulative installed capacity."
+    },
+    {
+      "question": "What is the estimated amount of capital investment that next-generation climate technologies could attract per year by 2025?",
+      "answer": "$1.5 trillion to $2 trillion."
+    },
+    {
+      "question": "What are the five areas with considerable promise for climate technology investment mentioned in the article?",
+      "answer": "Electrifying transportation, buildings, and industry; launching the next green revolution in agriculture; remaking the power grid to supply clean electricity; delivering on the promise of hydrogen; and converting the electric-power system to renewable sources."
+    },
+    {
+      "question": "What is the estimated annual capital investment required by 2025 to achieve net-zero emissions?",
+      "answer": "$700 billion\u2013$1 trillion"
+    },
+    {
+      "question": "How much greenhouse-gas emissions abatement is expected by 2050 from the discussed climate technologies?",
+      "answer": "5 GtCO2e"
+    },
+    {
+      "question": "What are the five groups of technologies that could attract $2 trillion of capital per year by 2025 and abate 40 percent of greenhouse-gas emissions by 2050?",
+      "answer": "Electrification, Agriculture, Power grid, Hydrogen, and Carbon capture"
+    },
+    {
+      "question": "What is one of the main challenges in electrifying transportation?",
+      "answer": "Cutting the cost of batteries, which can account for as much as half the cost of an EV"
+    },
+    {
+      "question": "How can battery-control software improve EV batteries?",
+      "answer": "By shortening charging times, prolonging battery lives, and giving EVs added pickup or hauling or towing capacity"
+    },
+    {
+      "question": "What is required to achieve net-zero emissions?",
+      "answer": "Electrifying most equipment."
+    },
+    {
+      "question": "How much investment is expected by 2025 to achieve net-zero emissions?",
+      "answer": "$700 billion\u2013$1 trillion."
+    },
+    {
+      "question": "What is the estimated abatement by 2050?",
+      "answer": "5 GtCO2e."
+    },
+    {
+      "question": "How much capital could five groups of technologies attract per year by 2025?",
+      "answer": "$2 trillion."
+    },
+    {
+      "question": "What percentage of greenhouse-gas emissions could be abated by 2050 by five groups of technologies?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "How can buildings be made to reduce global CO2 emissions?",
+      "answer": "By making buildings more energy efficient with technologies such as LED lighting, high-efficiency HVAC, and energy controls, and by going electric using heat pumps."
+    },
+    {
+      "question": "By how much can global CO2 emissions be cut per year if heat pumps are implemented worldwide?",
+      "answer": "Three gigatons per year."
+    },
+    {
+      "question": "How much more efficient are today's heat pump models compared to gas furnaces?",
+      "answer": "2.2 to 4.5 times more efficient."
+    },
+    {
+      "question": "How much could global CO2 emissions be cut per year if heat pumps were used worldwide to keep buildings warm?",
+      "answer": "Three gigatons per year."
+    },
+    {
+      "question": "How efficient are today's heat pump models compared to gas furnaces?",
+      "answer": "2.2 to 4.5 times more efficient."
+    },
+    {
+      "question": "What percentage of energy consumed by industrial sectors such as cement, chemicals, and steel is electricity?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What is the most significant GHG emission from agriculture?",
+      "answer": "Methane."
+    },
+    {
+      "question": "How much investment is required by 2025 to achieve certain climate goals?",
+      "answer": "$400 billion\u2013$600 billion."
+    },
+    {
+      "question": "What is the estimated abatement by 2050 due to certain climate technologies?",
+      "answer": "10 GtCO2e."
+    },
+    {
+      "question": "What could be the cost savings of deploying zero-emissions farm equipment per ton of carbon dioxide equivalent?",
+      "answer": "$229."
+    },
+    {
+      "question": "What is the current state of zero-emissions farm equipment and machinery adoption?",
+      "answer": "Most varieties are still in the proof-of-concept or prototype phases."
+    },
+    {
+      "question": "What percentage of global methane emissions are estimated to come from the digestive processes of cattle, sheep, and other ruminant animals?",
+      "answer": "Between one-quarter and one-third."
+    },
+    {
+      "question": "By how much can methane inhibitors reduce methane production?",
+      "answer": "30 to 50 percent."
+    },
+    {
+      "question": "What is the benefit of processing manure in anaerobic digesters?",
+      "answer": "It can cut emissions and also generate biogas, a renewable form of natural gas."
+    },
+    {
+      "question": "What is the estimated global installation rate of renewable-generation capacity required to achieve a 1.5\u00b0C pathway?",
+      "answer": "15 to 18 gigawatts per week."
+    },
+    {
+      "question": "What is the predicted size of the global cultivated meat industry by 2030?",
+      "answer": "$25 billion."
+    },
+    {
+      "question": "What are the three main tasks involved in modernizing and decarbonizing the power grid?",
+      "answer": "Speeding the installation of renewable-generation capacity, adding energy-storage capacity, and upgrading the transmission and distribution network."
+    },
+    {
+      "question": "What is the predicted investment in the grid by 2025?",
+      "answer": "$200 billion\u2013$250 billion."
+    },
+    {
+      "question": "What is the expected abatement by 2050 due to the grid changes?",
+      "answer": "5 GtCO2e."
+    },
+    {
+      "question": "What is the main limitation of lithium-ion batteries in terms of backup power?",
+      "answer": "They can provide backup power cost-effectively for only four hours."
+    },
+    {
+      "question": "At what levelized cost would long-duration storage make 100 percent renewable systems cost-competitive in US states with ample wind and solar resources?",
+      "answer": "Less than $20 per kilowatt-hour."
+    },
+    {
+      "question": "What is the average grid utilization today?",
+      "answer": "Below 50 percent."
+    },
+    {
+      "question": "How much storage capacity would one million typical EVs offer?",
+      "answer": "About 75 gigawatts of storage."
+    },
+    {
+      "question": "What is the purpose of software-defined inertial substitution in modern electric grids?",
+      "answer": "To maintain grid balance when there are fewer spinning reserves."
+    },
+    {
+      "question": "Why are traditional electrical grids being replaced with modern electric grids?",
+      "answer": "Traditional grids rely on idling power plants to maintain grid balance, which are expensive to run, whereas modern grids would rely on ultrafast communications to maintain grid balance."
+    },
+    {
+      "question": "How much storage capacity would one million typical EVs offer?",
+      "answer": "About 75 gigawatts of storage."
+    },
+    {
+      "question": "What is required to accomplish the integration of EVs, rooftop solar, wall batteries, and the grid?",
+      "answer": "Technologies such as inverters and fast chargers."
+    },
+    {
+      "question": "How can buildings with energy storage or cogeneration be used to improve system performance?",
+      "answer": "They can be dispatched to the grid to supply power and produce income for their owners."
+    },
+    {
+      "question": "What is the levelized cost of storage referring to?",
+      "answer": "The full cost, per kilowatt-hour, of setting up and running a battery-storage facility."
+    },
+    {
+      "question": "What is the expected investment in large-scale hydrogen projects by 2025?",
+      "answer": "More than $130 billion, with a total of more than 350 large-scale hydrogen projects."
+    },
+    {
+      "question": "What percentage of energy demand could hydrogen ultimately satisfy?",
+      "answer": "15 to 20 percent."
+    },
+    {
+      "question": "What is the expected abatement by 2050 due to certain investments?",
+      "answer": "5 GtCO2e."
+    },
+    {
+      "question": "What is the predicted investment by 2025 in certain clean energy technologies?",
+      "answer": "$200 billion\u2013$250 billion."
+    },
+    {
+      "question": "What is graphene and how could it revolutionize energy applications?",
+      "answer": "Graphene is a single-atom-thick sheet of carbon that could revolutionize batteries, solar cells, and high-efficiency transmission lines by enhancing conductivity and storage capacity, offering superior conductivity contacts with lower light blockage, and carrying power from remote renewable-generation sites."
+    },
+    {
+      "question": "What role could hydrogen play in decarbonization?",
+      "answer": "Hydrogen could play a significant role in decarbonization as a clean-energy carrier or fuel ingredient with many applications, potentially satisfying 15 to 20 percent of energy demand."
+    },
+    {
+      "question": "What is the target cost for hydrogen production to become economically viable in the European Union and the United States by 2030?",
+      "answer": "The target cost for hydrogen production is less than $2 per kilogram in the European Union and $1 per kilogram in parts of the United States."
+    },
+    {
+      "question": "How can 'green hydrogen' be produced?",
+      "answer": "Green hydrogen can be produced through the electrolysis of water using renewable electricity to split water molecules into hydrogen and oxygen atoms."
+    },
+    {
+      "question": "What is one of the most promising near-term uses for low-carbon hydrogen?",
+      "answer": "One of the most promising near-term uses for low-carbon hydrogen is ammonia production."
+    },
+    {
+      "question": "How much CO2e abatement is expected by 2050 according to the Hydrogen Council?",
+      "answer": "2.5 GtCO2e abatement is expected by 2050."
+    },
+    {
+      "question": "What is the estimated investment needed by 2025 in hydrogen technologies?",
+      "answer": "$100 billion\u2013$150 billion investment is needed by 2025."
+    },
+    {
+      "question": "How many tons of carbon are emitted per ton of steel produced using the conventional blast furnace\u2013basic oxygen furnace route?",
+      "answer": "1.8 tons"
+    },
+    {
+      "question": "What is one route to zero-carbon steel production?",
+      "answer": "Using green hydrogen to power the direct reduction of iron as a feedstock for electric arc furnaces."
+    },
+    {
+      "question": "What percentage of global carbon emissions is expected to be produced by air travel as the travel industry recovers from the COVID-19 pandemic?",
+      "answer": "3 percent"
+    },
+    {
+      "question": "What is the current cost of Carbon Capture, Use, and Storage (CCUS)?",
+      "answer": "$50 to $100 per ton of CO2"
+    },
+    {
+      "question": "What is needed to make CCUS financially viable at commercial scale?",
+      "answer": "Further R&D and additional incentives"
+    },
+    {
+      "question": "What is the target cost of CCUS to make many applications economical?",
+      "answer": "Below $50/tCO2"
+    },
+    {
+      "question": "What is the predicted abatement by 2050 from the investment in CCUS?",
+      "answer": "3 GtCO2e"
+    },
+    {
+      "question": "How does Direct Air Capture (DAC) differ from capturing CO2 from industrial point sources?",
+      "answer": "Air has, at most, one one-hundredth of the CO2 concentration found in flue gases from industrial point sources."
+    },
+    {
+      "question": "What is the goal of companies investing in DAC regarding capture costs by 2030?",
+      "answer": "$100/tCO2 to $150/tCO2, 60 to 80 percent less than today\u2019s pilot projects."
+    },
+    {
+      "question": "How can the value of fossil-powered plants that are not at the end of their useful lives be preserved?",
+      "answer": "By converting them to run on biomass, a renewable fuel, and adding CCS equipment."
+    },
+    {
+      "question": "What can be done to preserve the value of assets from plants that are taken offline before they are due?",
+      "answer": "Converting them to run on biomass, a renewable fuel."
+    },
+    {
+      "question": "How can a bioenergy plant produce negative emissions?",
+      "answer": "By adding CCS equipment to it, as biomass sequesters CO2 as it grows and the CCS system keeps the CO2 from entering the atmosphere when the biomass is burned."
+    },
+    {
+      "question": "What is biochar and how is it made?",
+      "answer": "Biochar is a stable, charcoal-like material made by processing waste biomass such as crop residues through pyrolysis or gasification."
+    },
+    {
+      "question": "How much CO2 could be sequestered per year by 2050 through the use of biochar in large-scale farming?",
+      "answer": "Nearly 2 gigatons."
+    },
+    {
+      "question": "What are the two main components of concrete?",
+      "answer": "Cement, which is the 'glue' that holds concrete together, and aggregate, such as sand or crushed stone, which gives concrete most of its mass."
+    },
+    {
+      "question": "How much could emissions be reduced by adding CO2 as an ingredient in cement?",
+      "answer": "Up to 70 percent."
+    },
+    {
+      "question": "What is required to bring these climate technologies to commercial, climate-stabilizing scale?",
+      "answer": "Companies, financial institutions, and governments to cooperate on investment and research programs as well as efforts to integrate technologies with existing industrial systems."
+    }
+  ]
+}

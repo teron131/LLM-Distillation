@@ -1,0 +1,952 @@
+The United Kingdom: 
+The Nexus of Insurtech
+
+What is the key to the success of the UK insurtech sector—
+and where does the sector go from here?
+
+by Edward Allanson, Andrea Comina, Pietro Richelli, and Leda Zaharieva
+
+July 2023
+
+Contents
+
+01
+
+Executive summary 
+
+03
+
+Introduction
+
+04
+
+The UK insurtech sector: An emerging world leader
+
+09
+
+What lies ahead: Reaching the industry’s full potential
+
+16
+
+Conclusion
+
+At a glance: The UK 
+insurtech industry
+
+~280Number of insurtech firms identified in the UK$20bn+Estimated value of the UK insurtech sector5 unicornsIn London, more than in the rest of Europe combined1/3Of firms are based outside London~30%See international expansion as the most promising opportunity2/3Of staff are below 40 years oldNo. 1UK has the highest density of insurtechs among major economies1/3 Of firms highlight access to funding as their key challengeExecutive 
+summary
+
+London has been the global epicenter of innovation 
+in the insurance industry since the 1600s, when 
+Lloyd’s of London was established. Today, the 
+United Kingdom is positioned as a global leader in 
+the field of insurtech. A flourishing ecosystem of 
+start-ups, investors, and incumbents is working 
+together to drive innovation and growth in the 
+industry, from AI and machine learning to the 
+Internet of Things.
+
+London has the same number of insurtech unicorns 
+as the rest of Europe combined and globally is sec-
+ond only to Silicon Valley. Indeed, of the estimated 
+3,000 insurtech firms in the world, approx imately 
+280 are located in the United Kingdom—the 
+highest number of insurtechs per capita among  
+all major world economies.
+
+However, the United Kingdom’s insurtechs have 
+not been immune to the recent global tightening 
+on valuations. The multiples of some of the most 
+successful publicly listed insurtechs fell from  
+15 times those of traditional peers to below the 
+level of incumbent insurers, according to McKinsey 
+analysis, and private capital funding decreased 
+32 percent compared with the peak in 2021. Com-  
+petition from Big Tech and other non-insurance 
+companies has also accelerated. Amazon launched 
+the Amazon Home Insurance comparison site in 
+the United Kingdom, and Tesla Insurance reached 
+
+$300 million in premiums by the end of 2022,1 
+leveraging Tesla’s data availability and large 
+customer base for better underwriting 
+and distribution.
+
+Despite these global challenges, the UK insurtech 
+sector has remained resilient, employing around 
+14,000 full-time-equivalent workers—almost 
+4 percent of the total UK insurance workforce, 
+according to our estimates. We estimate the 
+sector brings in £2 billion to £3 billion in revenue 
+per year—though we calculate its full (direct and 
+indirect) impact on UK GDP to be closer to 
+£5 billion and 60,000 jobs. Not all of these jobs 
+are in London: we found that 31 percent of the 
+country’s insurtechs are outside the capital.
+
+Insurtechs also help increase diversity and inclu-
+sion in insurance through their young, diverse, 
+and well-educated employee base. Approxi-
+mately 39 percent of staff are non-British, and 
+about two-thirds are younger than 40, according 
+to our research. 
+
+The industry still faces key challenges that need 
+to be addressed to ensure continued success, 
+including protecting and enhancing the United 
+Kingdom’s innovation ecosystem, especially 
+access to talent and capital. Through a thorough 
+review of the UK insurtech landscape, this report 
+
+1 “Tesla Q4 2022 Earnings Q&A,” Say Technologies, January 25, 2023.
+
+1
+
+The United Kingdom: The Nexus of Insurtechaims to provide context, new survey and research 
+findings, and practical, actionable insights for all 
+stakeholders. These recommendations can serve 
+as a road map to drive success for insurtech firms, 
+insurance industry incumbents, and investors, with 
+a particular focus on addressing the industry’s 
+biggest challenges: access to capital and talent, 
+scaling, and the current macroeconomic climate.
+
+Undoubtedly, insurtechs have the potential to 
+ignite transformative change within the insurance 
+industry. One CEO we surveyed described the 
+
+insurtech sector as the “grit in the oyster”: just as 
+irritants provoke oysters to produce pearls, insur-
+tech firms have the power to disrupt the status 
+quo, stimulating traditional insurers to embrace 
+innovation, foster product development, and 
+extend coverage to previously underserved 
+population segments. This dynamic interplay 
+encourages healthy competition and pushes the 
+industry toward a more inclusive and customer-
+centric landscape.
+
+2
+
+The United Kingdom: The Nexus of InsurtechIntroduction
+
+This report seeks to provide a comprehensive 
+overview of the current insurtech landscape in 
+the United Kingdom and the lessons that can be 
+learned. Our research details the major segments 
+of the industry, emerging trends, opportunities, 
+and challenges, drawing on insights from 
+approximately 50 UK insurtech firms and 
+interviews with more than 20 CEOs, founders, 
+investors, and other thought leaders across the 
+industry (see sidebar “About the research”).
+
+The report is intended to provide value for a variety 
+of audiences:
+
+transformation across the industry. By learning 
+about technological and pioneering proposi-
+tions across products, services, and other 
+benefits, incumbents can benefit from a 
+greater awareness of the opportunities for 
+deeper collaboration and partnership.
+
+ — Investors can gain a deeper understanding of 
+the scale, diversity, and potential of the insur-
+tech sector. We highlight emerging oppor-
+tunities and areas in which value and activity 
+are concentrated to help investors make 
+informed decisions.
+
+ — Insurtech firms and entrepreneurs can 
+benefit from increased awareness of the 
+opportunities and challenges unique to the 
+UK ecosystem. They can also learn from the 
+experiences of leading insurtechs.
+
+By understanding the challenges and opportunities 
+in the industry, stakeholders can work together to 
+drive innovation and growth, leading to a stronger 
+and more vibrant insurtech ecosystem in the United 
+Kingdom and around the world.
+
+ — Industry incumbents can explore the poten-  
+tial for insurtech to unlock the next wave of  
+
+About the research
+
+The research was carried out by 
+McKinsey in the first half of 2023 with 
+support from Insurtech UK. It focused on 
+three primary sources of information: a 
+survey of British insurtech firms,1 a 
+series of more than 20 interviews with 
+industry leaders, and the construction of 
+a detailed database of UK insurtechs 
+based on data from several sources.
+
+With the help of Insurtech UK, we 
+dis tri buted the survey to all of the 
+
+organization’s members. We received 
+responses from 49 member firms, rep- 
+re senting nearly half of the membership. 
+The sample provided a representative set 
+of responses from insurtechs across the 
+industry, including insurance carriers, 
+managing general agents, other distribu-
+tors, and technology and service providers. 
+
+Our database of UK insurtechs represents 
+a consolidated single view of all key firms 
+in the industry based on a range of 
+
+sources, including major industry data - 
+bases, the membership bases of major 
+industry bodies (including Insurtech UK 
+and national and regional fintech associa-
+tions across the United Kingdom), and 
+proprietary research by McKinsey.
+
+Insurtech UK is the trade association for 
+the community of insurtech firms in the 
+United Kingdom, with a membership base 
+of more than 100 insurtechs.
+
+1 UK Insurtech Survey, McKinsey, March 2023.
+
+3
+
+The United Kingdom: The Nexus of InsurtechThe UK 
+insurtech sector: 
+An emerging 
+world leader
+
+The United Kingdom could arguably be seen as 
+the birthplace of insurtechs, with the first major 
+website for comparing insurance prices launched 
+in the early 2000s, even before the term “insurtech” 
+began to have meaning. Today the United King-
+dom’s insurtech sector has ample access to talent, 
+sophisticated customers, financing, underwriting 
+capacity, and a supportive regulatory environment.
+
+Our research identified about 280 UK insurtech 
+firms in current operation, which gives the United 
+Kingdom about a 10 percent market share of the 
+estimated 3,000 insurtech firms globally. The UK 
+cluster is the world’s second largest, exceeded 
+only by the United States with about 1,300 firms.
+
+Though many UK insurtech firms are still in their 
+infancy, we estimate the total revenue of all UK 
+insurtech firms reached £2 billion to £3 billion in 
+2022. This represents a sixfold increase over 
+2015 estimates,2 which placed the sector at a 
+total esti mated market size of about £400 million. 
+UK insurtech firms now employ an estimated 
+
+14,000 employees across the United Kingdom, 
+around 4 percent of total employment in the 
+country’s insurance industry. In addition, we 
+estimate that a further 23,000 UK jobs are 
+supported indirectly through either the supply 
+chain of insurtech firms or the consumer 
+spending of the sector’s employees. 
+
+In this section, we highlight the key findings of 
+our research.
+
+The value of UK insurtechs
+
+Overall, we estimate that UK-based insurtechs have 
+a total enterprise value of about $21 billion, which 
+puts the country third behind only the United States 
+(approximately $100 billion in global value) and 
+China (about $28 billion). However, adjusting for the 
+size of the population, the United Kingdom has the 
+top concentration of insurtechs among all major 
+world economies (Exhibit 1). 
+
+2  McKinsey analysis of Tanguy Catlin, Johannes-Tobias Lorenz, Björn Münstermann, and Valentino Ricciardi, “Insurtech—the threat that 
+inspires,” McKinsey, March 1, 2017; “Insurtech—market drivers and forecast from Technavio,” Business Wire, November 24, 2016.
+
+4
+
+The United Kingdom: The Nexus of InsurtechExhibit 1
+
+At the time of writing this report, London was 
+home to five insurtech unicorns3—the same 
+number as in the rest of Europe combined. 
+Across the pond in New York, another global 
+center of finance and insurance, just three 
+insurtech unicorns are in operation. 
+
+clusters in both the northwest and the south of 
+England are of particular note, as is the Welsh 
+industry, which has a particular focus on price-
+comparison websites, such as Confused.com, or 
+insurer Admiral Group, the only FTSE 100 
+company based in Wales.
+
+But insurtech progress isn’t limited to the nation’s 
+capital (Exhibit 2). Indeed, insurtechs are based in 
+every one of the United Kingdom’s regions and 
+nations—and we estimate that two-thirds of the 
+insurtech workforce is located outside London, 
+thanks to hybrid work. Three UK insurtech unicorns 
+are headquartered outside London. Emerging 
+
+Value by sector
+
+In general, insurtechs can be organized into four 
+categories: life and health (such as DeadHappy and 
+YuLife), property and casualty (P&C) personal (such 
+as ManyPets and Marshmallow), P&C commercial 
+(such as CFC), and value chain enablers (such as 
+
+We estimate that two-thirds of 
+the insurtech workforce is 
+located outside London, thanks 
+to hybrid work.
+
+3 Companies with valuations above $1 billion.
+
+5
+
+UKUSACanadaFranceGermanyItalySouth KoreaChinaJapanIndia3.82.61.81.40.70.50.10.10.14.2Top 10 world economiesWeb <2023><Insurtech UK Report>Exhibit <1> of <6>Estimated number of insurtechs per million residents, 20211 1World Bank population data, 2021.Source: Dealroom.co; Insurtech UK; PitchBook; World Bank; McKinsey analysisLondon has more insurtechs per capita than any other major economy.McKinsey & CompanyThe United Kingdom: The Nexus of InsurtechExhibit 2
+
+Tractable). In the United Kingdom, approximately 
+60 percent of firms are focused on value chain 
+enablement, and these firms account for about 
+40 percent of the insurtech sector’s total value 
+(Exhibit 3). These firms service a specific point in 
+the value chain, such as distribution (for instance, 
+price-comparison websites), pricing and under-
+writing, claims services, or data and risk modeling. 
+Behind the unicorns and a small number of highly 
+valued firms, the segment contains a long tail of 
+smaller firms. 
+
+P&C commercial lines account for only about 
+13 percent of identified firms, but they hold a 
+significant portion (approximately 25 percent) of 
+the sector’s total value. This category is particu-
+larly relevant for the United Kingdom because of 
+its connections with the Lloyd’s market. CFC 
+Underwriting, for instance, started with an early 
+
+focus on emerging risks associated with the 
+internet and technology sectors and small and 
+medium-size enterprises. It eventually expanded 
+to cater to various industries and risk types across 
+90 countries, thanks to Lloyd’s reach with licensed 
+rated insurance capacity.
+
+Increasing diversity 
+
+Ample research has shown that a diverse work-
+force has enormous benefits for businesses,4 and 
+insurtechs are no exception. Our survey of UK 
+insurtechs found that the industry is more gender-
+diverse, more international, and younger than the 
+London labor market overall (Exhibit 4). 
+
+About 47 percent of the insurtech workforce is 
+either female or nonbinary, a more even split than 
+the approximately 40 percent estimated by Statista 
+
+4 Sundiatu Dixon-Fyle, Kevin Dolan, Dame Vivian Hunt, and Sara Prince, “Diversity wins: How inclusion matters,” McKinsey, May 19, 2020.
+
+6
+
+Web <2023><Insurtech UK Report>Exhibit <2> of <6>Number of insurtech firms identified, by headquarters location1Share of total, %Source: Companies House; Coverager; Crunchbase; Dealroom.co; Insurtech UK; LinkedIn; McKinsey Global Insurance database; PitchBook One-third of UK insurtechs are based outside of London.McKinsey & CompanyLondonSouth of EnglandNorth of EnglandWalesMidlandsEast of EnglandNorthern IrelandScotland~30~20~15~10~10~5~4~38Series 1Series 2~1956910654321The United Kingdom: The Nexus of InsurtechExhibit 3
+
+Ample research has shown that a 
+diverse workforce has enormous 
+benefits for businesses, and 
+insurtechs are no exception.
+
+7
+
+Insurtech archetypeCount of firms2Average FTEs3 (2022)Typical annual revenue (2022, £ million)Web <2023><Insurtech UK Report>Exhibit <3> of <6>Estimated total value of insurtech firms, per archetype, $ billion1Note: Figures may not sum, because of rounding.1Calculated as sum of latest post-money valuation from deals since 2016 plus market cap of major publicly listed firms. Total could be higher because some firms do not disclose values of deals. Small number of material firms excluded where economic value or market cap not publicly available; eg, Ki Insurance and Acturis. 2Count of firms includes all UK firms identified, not only firms that have had a deal.3Full-time-equivalent employees.Source: Companies House; Coverager; Crunchbase; Dealroom.co; Insurtech UK; LinkedIn; McKinsey Global Insurance database; PitchBook; McKinsey analysis‘Value chain enablers’ represent about 60 percent of firms and about 40 percent of total sector value.McKinsey & CompanyLife and healthP&C personalP&C commercialValue chain enablerTotal~2~4~5~9~21Series 1Blank~25~609~50~4510~35~5510~170~50~28011The United Kingdom: The Nexus of Insurtechin the wider insurance industry.5 Insurtech workers 
+are also younger: approximately two-thirds are 
+under 40 years old. This is not unexpected given 
+the youth of the industry itself and the propensity 
+of start-ups to attract young talent. By compar-
+ison, in the London market, less than 50 percent of 
+the workforce is under 40.6
+
+In addition, just 7 percent of UK insurance industry 
+employees are from outside Europe, compared with 
+20 percent of insurtech employees, demonstrating 
+
+a much more international workforce. This diversity 
+gives the industry access to a wider pool of the best 
+global talent available. Reflecting this, about one-
+quarter of the founders of the United Kingdom’s 
+most valuable 25 insurtechs are not from the 
+United Kingdom.
+
+5  Statista numbers for full-time employees in the UK finance and insurance sector as of May 2023 show that women represent about 40 
+percent of the workforce; see “Number of full and part-time employees in the financial and insurance sector in the United Kingdom (UK) as 
+of 2022, by gender,” Statista, October 2022. 
+6 London Matters 2020, London Market Group, 2020. 
+
+Exhibit 4
+
+8
+
+Share of UK workforce by gender, %Share of UK workforce by age, %Origin of UK workforce by nationality, %Professional background by sector, %InsuranceSoftwareSales and marketingOther (eg, legal, risk, HR)Finance and businessEurope excl UKRest of worldUK18–294430–3940–4950–5960+WomenNonbinary or otherMenWeb <2023><Insurtech UK Report>Exhibit <4> of <6>Source: London Matters 2020, London Market Group, 2020; UK Insurtech Survey, McKinsey, March 2023, n = ~25 respondents with a UK-focused presence, representing ~1,100 full-time-equivalent workers (8% of insurtech industry total)UK insurtechs employ a diverse, young, highly qualified, and international workforce.McKinsey & CompanyTotalThe United Kingdom: The Nexus of InsurtechWhat lies ahead: 
+Reaching the 
+industry’s full 
+potential
+
+As part of our research, we surveyed approximately 
+50 members of Insurtech UK’s network about the 
+opportunities and challenges facing the industry 
+(Exhibit 5). When it comes to opportu nities, global 
+expansion and financial health were the clear 
+priorities. Indeed, many companies find fertile 
+ground in the United Kingdom thanks to the 
+factors described above—but ultimately, the desire 
+to scale larger than the UK market pushes firms to 
+expand into new geographies. 
+
+And of course, insurtechs are focused on profit 
+optimization and cost reduction to build a clearer 
+path to profitability—as well as to give burgeoning 
+firms a longer runway to sustain operations and 
+fund their own growth. Respondents also high-
+lighted the role of insurtechs in developing propri-
+etary technology tools for players across the 
+insurance value chain, as well as the importance  
+of partnerships for distribution.
+
+On the challenges side, leaders broadly agreed 
+that accessing funding and acquiring customers 
+are the two biggest challenges their firms face. 
+While insur techs have comparable access to 
+earlier-stage funding in the United Kingdom and in 
+other countries, UK founders have typically faced 
+challenges accessing later-stage funding to 
+support the scale-up and growth of their firms. 
+These challenges could be caused by UK-based 
+venture capital (VC) and private equity (PE) 
+investors having less capital than US investors or 
+expecting profitability earlier in the growth pro-
+cess, as well as by the current economic cycle 
+potentially limiting VC money available to 
+invest globally. 
+
+Meanwhile, acquiring new customers is another 
+priority challenge—particularly in a constrained 
+funding environment, when the focus needs to be 
+on profitability, unit economics, and maintaining 
+
+9
+
+The United Kingdom: The Nexus of InsurtechExhibit 5
+
+that runway. In response to changing market con-
+ditions, particularly the tightening funding land-
+scape, insurtech players are starting to evolve their 
+KPIs. Forty-five percent of firms have changed their 
+top three metrics since 2020. While growth remains 
+the main mantra, about one-third of insurtechs also 
+have metrics focused on margins or profitability 
+(Exhibit 6). 
+
+What can insurtechs do to reach their full potential? 
+In this section, we offer examples of insurtechs that 
+are finding inroads into new markets, successfully 
+launching new products, and gaining a competitive 
+edge in a rapidly evolving market. 
+
+Reevaluate investment strategies, 
+business models, and technologies
+
+As both insurtech leaders and incumbents navigate 
+this dynamic ecosystem, it becomes increasingly 
+vital to reevaluate investment strategies, business 
+models, and technologies. 
+
+Investment strategies
+The past decade has seen smooth and steady 
+growth in investor interest in disruptive technology 
+companies, including insurtechs—until recently. In 
+2021, investor interest peaked across all tech verti-
+cals. Total funds invested in insurtechs reached 
+$16 billion globally,7 an increase of approximately 
+120 percent over 2020. At their peak, publicly listed 
+insurtechs saw gross written premium (GWP) 
+multiples in excess of ten times.
+
+Toward the end of 2021, however, the cycle started 
+to turn. Total insurtech funding dropped an esti-
+mated 40 to 50 percent in 2022, with continued 
+quarter-over-quarter decreases. The “Tech Winter” 
+had set in, with fewer company launches, less 
+growth, more layoffs, and an increasingly difficult 
+funding environment. Today, investors are investing 
+at lower valuations and placing increased expec-
+tations on their investments to generate cash and 
+shift faster toward attractive unit economics.
+
+7  Global InsurTech Report for Q1 2023, Gallagher Re, May 4, 2023; Giovanna Bellotti Azevedo, “Silicon Valley Bank collapse to dry up 
+InsurTech venture debt lifeline,” Inside P&C, March 15, 2023.
+
+10
+
+Web <2023><Insurtech UK Report>Exhibit <5> of <6>OpportunitiesChallengesSource: UK Insurtech Survey, McKinsey, March 2023 (n = 30)Founders and CEOs highlight a common set of opportunities and challenges facing the industry.McKinsey & Company% of survey respondents highlighting as top opportunity or challenge30%+20–29%10–19%< 10%1Expanding into new geographies272Increasing margins and profitability274Partnerships103Developing and deploying new technologies131Access to funding302Achieving scale and acquiring new customers304Access to talent73Macroeconomic climate10The United Kingdom: The Nexus of InsurtechExhibit 6
+
+Publicly listed insurtechs suffered particularly 
+from the change in investor sentiment. According 
+to McKinsey analysis, at their peak, publicly listed 
+insurtechs were valued at significantly higher 
+multiples (ten times their annual premiums) com-
+pared with traditional insurance companies, which 
+are typically valued at around one time their 
+premiums. Some insurtechs achieved valuations 
+as high as 25 times their annual premiums. Between 
+their all-time high and March 2023, most publicly 
+traded insurtechs saw valuations decline, on 
+average, by approximately 89 percent. Indeed, 
+some are now trading at a discount to the multiples 
+enjoyed by traditional insurers. 
+
+These dramatic shifts in valuation should not be 
+interpreted as a total cooling of investor interest in 
+the sector—in the United Kingdom or around the 
+world. (For more on why, see sidebar “Insurtech as 
+the ‘grit in the oyster.’”) Rather, investors’ expecta-
+tions are shifting to include not just top-line growth 
+potential but also profitability, unit economics, and 
+predictability. Investors are increasingly expecting 
+companies to demonstrate a longer, lower-risk 
+runway and are undertaking more thoughtful due 
+diligence. As a result, deals are taking longer. 
+
+11
+
+Revenue and annual recurring revenueGrowthGross written premiumsCustomer satisfactionLoss ratioMonthly active usersDistribution partnerships and brokersRetentionCustomer acquisition costsCash flowCost reductionProfitCompensation/revenueExpense ratio or combined operating ratioSpeed to marketData qualityOperations processing speed522916392323101013666331063Web <2023><Insurtech UK Report>Exhibit <6> of <6>Proportion of insurtech players that have a KPI of this type in their ‘North Star’ metrics,1 %131 members responded to this question.Source: UK Insurtech Survey, McKinsey, March 2023 (n = 31)The insurtech industry remains focused on growth and customer outcomes over cost.McKinsey & Company77%71%29%19%GrowthProduct and customer metricsCost, margin, and  cash flowOperational metricsThe United Kingdom: The Nexus of InsurtechInsurtech as the ‘grit in the oyster’
+
+The insurtech sector can act as a cat-  
+alyst for wider change in the industry: 
+“the grit in the oyster,” as one UK CEO we 
+surveyed described it. Like the grit that 
+irritates an oyster and causes it to create 
+a pearl, insurtech firms can create dis-  
+rup tion that spurs traditional insurers to 
+innovate, develop new products, and 
+expand cov er age to new segments of 
+the population.
+
+Beyond technological innovation, insur - 
+techs can also help identify new risk 
+areas and show how technology-based 
+products can expand coverage. Whether 
+these firms ultimately scale and become 
+giants or are acquired by an incumbent, 
+they can force the industry to evolve and 
+close coverage gaps. 
+
+A prime example is Zego, which provides 
+insurance to delivery and gig-economy 
+drivers. Recognizing an opportunity in 
+Zego’s success, several major players 
+have launched competing offerings. 
+Other insurtechs are similarly expanding 
+coverage for underserved areas, such as 
+flood insurance, using Internet of Things 
+tools unfamiliar to most incumbents.
+
+In addition, insurtechs can disrupt entire 
+marketplaces with radically new business 
+models. Price comparison websites had 
+this effect, helping to dramatically reshape 
+the distribution of personal lines insurance 
+over the past 20 years—increasing pene - 
+tration, reducing prices, and driving 
+efficiency in the market. 
+
+And a larger, better-functioning insurance 
+industry also directly benefits all con-
+sumers. Access to affordable, quality 
+insurance can help people achieve their 
+life goals, whether that be homeowner-
+ship or starting a family (for example, 
+GAIA, a start-up focused on fertility care). 
+Simi larly, insurance can help businesses 
+grow, invest, and make decisions with 
+more certainty. Finally, as the insurance 
+industry grows, so does the amount that it 
+invests in businesses across the country, 
+helping raise the overall productivity of 
+the global economy.
+
+Business models
+We are also seeing a shift of interest toward 
+services-focused business models—for example, 
+increased investor enthusiasm for B2B insurtechs 
+with a recurring revenue model over B2C customer-
+facing players with high customer acquisition and 
+marketing costs, such as managing general agents. 
+Investors also show continued interest in firms that 
+identify and innovate in new risk classes or find new 
+ways to address underserved segments. 
+
+For instance, usage-based products that offer 
+affordable premiums based on behavior and usage 
+patterns are gaining traction, with companies such 
+as Zego and Flock leading the way. Firms are also 
+using gamification to encourage positive habits. 
+For instance, YuLife is an employee benefits app 
+that rewards users for healthier living, leading to 
+improved risk profiles and premium discounts. 
+
+Insurtechs such as Companjon and Qover are 
+exploring embedded insurance propositions, which 
+
+integrate insurance products into non-insurance 
+services such as ride-sharing apps or e-commerce 
+platforms. Insurtechs such as FloodFlash and Blink 
+are offering parametric insurance, which bases 
+payouts on pre-agreed parameters. This approach 
+is also gaining popularity, as are AI tools for pricing, 
+underwriting, claims processing, and 
+fraud detection. 
+
+The focus on profitability, unit economics, and 
+cash generation over pure growth metrics has 
+also provided an important impetus for the shift 
+in business models.
+
+Generative AI
+As of mid-2023, the insurance industry in the 
+United Kingdom and around the globe is actively 
+exploring the emerging capabilities of generative 
+AI and their potential impact. These capabilities 
+include generating insights and informing decision 
+making by synthesizing and summarizing unstruc-
+tured data—a challenge the industry has long 
+
+12
+
+The United Kingdom: The Nexus of Insurtechstruggled to overcome.8 Generative AI can also 
+help insurers interpret and generate code and 
+documentation, create personalized marketing 
+copy, and enhance clients’ interactions and 
+customer journeys. 
+
+The most innovative players in the industry are 
+exploring solutions across the entire value chain. 
+In claims management, for example, generative AI 
+can extract key insights and make recommend-
+ations from unstructured data to assist adjusters. 
+It can also provide day-to-day support, training, 
+and coaching for adjusters. Similarly, in under-
+writing, generative AI can prepopulate relevant 
+information, synthetize pertinent exposures and 
+private or public data for risk assessment, 
+generate draft communications for commercial 
+quotes, and provide training to underwriters.
+
+However, realizing the value of generative AI 
+requires much more than the underlying 
+foundational models. It requires leveraging pre- 
+and post-model capabilities—such as query 
+engin eering, data engineering, teaching, and 
+change management—to drive significant impact. 
+Further more, companies that adopt a comprehen-
+sive business approach, foster an intentional 
+culture of experimentation, and demonstrate 
+openness to partnering with innovative players  
+are likely to be better positioned to source the 
+right capabilities and assets. 
+
+Approach geographic 
+expansion strategically
+
+Despite the density of valuable firms in the 
+United Kingdom, the country has yet to count a 
+firm among the global top ten by valuation. Five of 
+the global top ten are based in the United States, 
+and three are Chinese. For UK firms to reach the 
+valuation heights of these players, they will likely 
+need to expand beyond their home market and 
+seek larger customer bases globally.
+
+Insurtech CEOs we surveyed expressed optimism 
+about the future of the sector and identified geo-
+graphic expansion as the most exciting opportu nity. 
+Firms tend to consider a common set of factors 
+when choosing where to expand, including market 
+size, customer expectations, and regulatory 
+
+landscape. These factors can help explain the 
+prevalence of UK insurtechs launching into 
+countries with close cultural and historical ties to 
+the United Kingdom.
+
+It’s crucial to tailor the market entry approach to 
+the needs of the local market and find ways to use 
+existing strengths. Today, the United Kingdom has 
+one of the largest pet-insurance markets in the 
+world, with penetration at around 23 percent.9 
+When expanding to the United States, ManyPets 
+knew that penetration there is much lower (less 
+than 5 percent) and that the company needed to 
+apply lessons learned in markets where new users 
+are unaware of the product and can be educated 
+on the benefits of pet insurance. 
+
+For its part, YuLife has sought to increase its 
+application of best practices from Big Tech such 
+as event hosting, web scraping, and building out 
+the sales development team. In addition to using 
+brokers, the company is growing a large and 
+mature sales team and marketing function, which 
+has helped the company increase the number of 
+corporate clients tenfold between 2021 and 2022 
+to more than 500 businesses, with new customers 
+accounting for close to 50 percent of the 2022 
+customer base.
+
+Tractable, a UK unicorn that uses artificial intelli-
+gence to process insurance claims based on 
+photos, positioned itself as an AI company first—
+even before choosing insurance as its industry. As 
+a result of its international expansion, 90 percent 
+of the company’s revenues now come from abroad 
+(with core markets in Japan, the United States, the 
+United Kingdom, Southeast Asia, and Western 
+Europe). To secure initial partners and customers, 
+the company identified key stakeholders in target 
+companies who would bet their career on using AI 
+(for example, chief technology officers of insur-
+ance companies). It was especially important to 
+find such people when expanding to the United 
+States, where many tech companies already exist, 
+making it harder to import tech from the United 
+Kingdom and Europe. Meanwhile, the company 
+found that some other geographies, such as 
+Germany, had a lower propensity to adopt AI 
+technologies in insurance, making these countries 
+more difficult to target. 
+
+8  For more, see Ramnath Balasubramanian, Khushpreet Kaur, Ari Libarikian, and Paolo Moretti, “The advance of analytics,” McKinsey, 
+
+March 1, 2017. 
+
+9 Oliver Staley, “How America’s love for its cats and dogs built the pet industrial complex,” Quartz, January 10, 2021.
+
+13
+
+The United Kingdom: The Nexus of InsurtechPartnerships can offer another good way of getting 
+to market without spending too much on customer 
+acquisition. US-based insurtech Lemonade has 
+repeatedly leveraged partnerships to expand 
+beyond its initial focus on the underserved renters 
+insurance market in the United States, both inter-
+nationally and into other lines of business. A 
+partner ship with BNP Paribas Cardif expanded 
+the company’s access to customers in France, and 
+a partnership with Chewy helped to extend offer-
+ings in the pet insurance market. Importantly, all 
+partners must work to maintain the quality of 
+customer experience to continue delighting users 
+while growing the customer base.
+
+Supplement organic growth with 
+timely acquisitions
+
+ManyPets developed many products and 
+technologies in-house (for example, they built an 
+automated claims system that they report pro-
+cesses close to 50 percent of claims). However, 
+acquisitions were sometimes a better investment 
+than organic growth. These strategic M&A deals 
+allowed the company to strengthen and differ-
+entiate specific capabilities and accelerate 
+international expansion plans faster than if it built 
+everything in-house. In 2021, to extend the value 
+proposition beyond insurance into preventative 
+care, ManyPets acquired VetBox, which had 
+already created bespoke pet care products. To 
+gain independence in underwriting its own policies, 
+ManyPets acquired the US-based insurance carrier 
+Digital Edge Insurance Company in 2022. And 
+
+Lemonade acquired Metromile to gain data and AI 
+capabilities and access the motor line of business.
+
+Attract the right talent
+
+The United Kingdom has a deep well of talent, both 
+from world-class universities and business schools 
+and from the domestic insurance industry, including 
+the world-leading Lloyd’s market. The UK has also 
+long been an attractive place for international 
+entrepreneurs to launch businesses. According to 
+our research, 25 percent of the United Kingdom’s 
+top insurtechs have non-British founders. One 
+major investor described the United Kingdom as 
+the best place in the world “to build, test, and 
+validate” a proposition.
+
+And yet in interviews with McKinsey, UK insurtech 
+CEOs and founders said that it’s becoming more 
+difficult for UK-based companies to attract Euro-
+pean talent. It’s still possible, but insurance talent is 
+often more expensive in London than in other UK 
+cities, with firms struggling to match the packages 
+of incumbents, especially in the tightening 
+economic environment.
+
+The right talent can make or break a start-up. 
+Attracting high-quality people, especially when 
+they already have an excellent corporate package, 
+can be challenging. Employee-benefits provider 
+YuLife focused on building a distinctive company 
+culture that not only seeks to attract outstanding 
+people but also aligns the organization’s values 
+with its products. 
+
+The United Kingdom has a deep 
+well of talent, both from world-
+class universities and business 
+schools and from the domestic 
+insurance industry, including the 
+world-leading Lloyd’s market.
+
+14
+
+The United Kingdom: The Nexus of InsurtechYuLife’s app provides clients’ employees with a 
+range of tools to support their financial, emo tional, 
+and physical well-being. Similarly, the working 
+culture at YuLife aligns with the value of “well-
+being.” For example, weekly all-company calls 
+feature music, a brief introduction from a different 
+member of the firm each week, and a shared cor-
+po ate culture vocabulary. The com pany’s values 
+are clear, and its success in the employee-benefits 
+space (YuLife says its clients report 181 percent 
+higher ROI compared with other employee-benefits 
+providers) has opened up the opportunity to expand 
+into other adjacencies, such as dental, health, and 
+financial insurance.
+
+Listen to the customer
+
+UK insurance consumers are some of the most 
+sophisticated in the world. One study found that 
+British consumers have the fourth-highest insur-
+ance literacy score among a survey of customers 
+in 22 major economies,10 and they consume the 
+fourth-highest amount of insurance globally.11
+
+In the large and competitive UK insurance market, 
+differentiation can be crucial—and customers can 
+often be the best guides. ManyPets started as a 
+digital broker aggregating demand for niche insur-
+ance products and negotiating better terms for 
+groups with similar needs. However, the company’s 
+leaders realized that by focusing on pet insurance—
+the one specific customer need that emerged again 
+and again among the more than 320 groups of 
+insurance—they could have an outsize impact in 
+one segment and differentiate themselves better. 
+
+The company used customer feedback to design 
+features missing in competitor products (such as 
+dental, preexisting conditions, and telemedicine) 
+and to provide a great customer experience. 
+After launching pet insurance in 2017, ManyPets 
+launched two more supplementary products but 
+eventually shut them down because they were a 
+distraction keeping the company from becoming 
+the best in its key core offering.
+
+10 Global Consumer Study 2022–23, ReMark, a SCOR Group Company, 2023. 
+11 “Life and non-life insurance penetration in selected countries and territories worldwide in 2020 and 2021,” Statista, October 2022.
+
+15
+
+The United Kingdom: The Nexus of InsurtechConclusion
+
+Five of the United Kingdom’s eight insurtech 
+unicorns achieved unicorn status after the peak in 
+the market in 2021. Furthermore, six of the ten most 
+valuable UK insurtechs were founded after 2016. 
+Insurtech is no longer a curiosity on the fringe of 
+the UK insurance industry. It is a driving force for 
+growth and innovation—employing thou sands, 
+expanding coverage to underserved segments, 
+and benefiting society as a whole. The UK insur-
+tech ecosystem has the potential to help the whole 
+industry transform. 
+
+To reach their full potential, insurtechs can focus 
+on creating “painkillers, not vitamins” by offering 
+new products that cover underserved segments or 
+cater to new risks. Identifying these opportunities 
+is not easy, but it can be done by closely observing 
+the changes in technology and living habits and 
+proactively identifying those new risks.
+
+risk and equity funding in one place provides a 
+fertile ground for growth at various scales. UK 
+customers are engaged, curious, sophisticated, 
+and selective. And the regulatory environment 
+supports innovation, meaning products that are 
+certified will “travel well” and require less effort to 
+be certified in other geographies.
+
+However, navigating the UK ecosystem will require 
+creativity. Later-stage funding may be more chal-
+lenging to access than in other countries, which 
+may require pivoting to meet investor expectations 
+or proactive efforts to find international investment. 
+Specific, hard-to-find talent could be accessed by 
+forming deeper partnerships with incumbents or 
+through international hiring. Finally, due to a high 
+bar of customer expectations, the B2C space is 
+becoming very competitive with few gaps; however, 
+the B2B space provides many areas for innovation.
+
+UK insurtechs can also take advantage of the fac-
+tors that make the United Kingdom, particularly 
+London, one of the best places in the world to test, 
+iterate, and prove new products: the confluence of 
+
+Through continued effort and innovation, the 
+insurance and insurtech ecosystem can thrive and 
+evolve and help pave the way to the insurance 
+industry of the future.
+
+Edward Allanson and Pietro Richelli are consultants in McKinsey’s London office, where Leda Zaharieva is a partner. 
+Andrea Comina is an associate partner in the Milan office.
+
+The authors wish to thank Omar Costa, Piero Gancia, Vladimir Mozhaev, Sreya Saha, Georgina Lacey-Solymar, and 
+Insurtech UK—especially Luisa Barile and Louise O’Shea—for their contributions to this report.
+
+Copyright © 2023 McKinsey & Company. All rights reserved.
+
+16
+
+The United Kingdom: The Nexus of InsurtechThe United Kingdom: The Nexus 
+of Insurtech
+July 2023
+Copyright © McKinsey & Company
+Cover photography:
+© ChrisHepburn/Getty Images
+Designed by Leff 
+
+www.McKinsey.com
+
+  @McKinsey
+  @McKinsey
+
+ 
+

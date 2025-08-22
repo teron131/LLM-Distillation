@@ -1,0 +1,453 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document, a collaborative report by McKinsey & Company and the Institute of International Finance (IIF), discusses the growing cyber risks associated with the adoption of emerging technologies in the financial services industry. As financial institutions increasingly adopt technologies such as cloud and edge computing, applied AI, and next-generation software development, they must also prioritize cybersecurity to mitigate associated risks. The report highlights the need for financial institutions to assess their current cybersecurity capabilities, invest in the right technologies and talent, and develop robust risk management practices to future-proof their environments. The authors emphasize that companies must consider both the benefits and risks of emerging technologies and take proactive steps to address potential cyber threats.",
+  "qa_pairs": [
+    {
+      "question": "What is the mission of the Institute of International Finance (IIF)?",
+      "answer": "The IIF's mission is to support the financial industry in the prudent management of risks; to develop sound industry practices; and to advocate for regulatory, financial, and economic policies that are in the broad interests of its members and foster global financial stability and sustainable economic growth."
+    },
+    {
+      "question": "What is McKinsey & Company's primary objective?",
+      "answer": "McKinsey's primary objective has been to serve as their clients' most trusted external adviser for more than 90 years."
+    },
+    {
+      "question": "Why should financial institutions act now according to the report?",
+      "answer": "Financial institutions should act now to future-proof themselves against growing cyber risks as they actively adopt emerging technologies."
+    },
+    {
+      "question": "What emerging technologies are financial institutions investing in?",
+      "answer": "Financial institutions are investing in four emerging technologies: cloud and edge computing, applied AI, next-gen software development, and digital identity and trust architecture."
+    },
+    {
+      "question": "Who are the authors of the report?",
+      "answer": "The authors are Lamont Atkins, Soumya Banerjee, Lauren Craig, Grace Hao, Justin Greis from McKinsey, and Martin Boer and Melanie Idler from the Institute of International Finance (IIF)."
+    },
+    {
+      "question": "Who partnered with the Institute of International Finance (IIF) to survey financial institutions?",
+      "answer": "McKinsey."
+    },
+    {
+      "question": "What is the Institute of International Finance (IIF) focused on in terms of emerging technologies?",
+      "answer": "Derisking emerging technologies in financial services."
+    },
+    {
+      "question": "How many emerging technologies were included in the survey conducted by McKinsey and IIF?",
+      "answer": "Ten."
+    },
+    {
+      "question": "Which four emerging technologies are financial-services companies prioritizing adoption of and investment in?",
+      "answer": "Cloud and edge computing, applied AI, next-gen software development, and digital identity and trust architecture."
+    },
+    {
+      "question": "Why are financial-services companies prioritizing the four emerging technologies mentioned?",
+      "answer": "Because of their widespread applicability and maturity, as well as their proven, value-based use cases for financial-services companies."
+    },
+    {
+      "question": "What are the four questions that financial institutions should ask themselves about their pursuit of emerging technologies?",
+      "answer": "Are we prioritizing the right technologies and cybersecurity capabilities? Are our technology priorities aligned with our security capabilities? Are we investing in the right technologies and cybersecurity capabilities? Do we have the right metrics and reporting?"
+    },
+    {
+      "question": "What cyber risks do emerging technologies bring that companies must mitigate?",
+      "answer": "Cyber risks that companies must mitigate using their existing cybersecurity capabilities."
+    },
+    {
+      "question": "What critical cybersecurity capabilities do most survey respondents recognize the need to strengthen?",
+      "answer": "Third-party or supply chain management and privileged access management (PAM)."
+    },
+    {
+      "question": "What emerging technologies are financial-services companies prioritizing adoption of?",
+      "answer": "The text does not specify a single technology, but lists several emerging technologies, including Cloud and edge computing, Applied AI, Quantum technologies, Next-generation software development, Web3, Trust architectures and digital identity, Advanced connectivity, and Industrialized machine learning."
+    },
+    {
+      "question": "Why must financial-services companies ensure they have implemented necessary risk management capabilities as they adopt new technologies?",
+      "answer": "Otherwise, they may find the risks outweigh the benefits."
+    },
+    {
+      "question": "What is the purpose of Industrialized machine learning?",
+      "answer": "Industrialized machine learning enables practices that accelerate and derisk the development, deployment, and maintenance of machine learning solutions."
+    },
+    {
+      "question": "What is Web3?",
+      "answer": "Web3 includes platforms and applications that aim to enable shifts toward a future, decentralized internet with open standards and protocols while protecting digital-ownership rights."
+    },
+    {
+      "question": "What is the potential impact of Quantum technologies?",
+      "answer": "Quantum-based technologies could provide an exponential increase in computational performance for certain problems and transform communications networks by making them more secure."
+    },
+    {
+      "question": "What are the top technology trends being considered by financial-services organizations?",
+      "answer": "Cloud and edge computing, applied AI, next-generation software development, and trust architectures and digital identity."
+    },
+    {
+      "question": "What percentage of respondents reported that cloud and edge computing are applicable to their organizations?",
+      "answer": "84 percent."
+    },
+    {
+      "question": "What benefits are associated with cloud and edge computing?",
+      "answer": "Increased automation, scalability, and cost savings."
+    },
+    {
+      "question": "What percentage of respondents reported that more than 25 percent of their workload resides in the cloud?",
+      "answer": "Six in ten."
+    },
+    {
+      "question": "Why are financial-services companies migrating to cloud-native infrastructure?",
+      "answer": "For benefits such as flexibility, scalability, and cost efficiencies."
+    },
+    {
+      "question": "What percentage of financial-services companies see their cloud adoption in the post-pilot stage?",
+      "answer": "Over 70 percent."
+    },
+    {
+      "question": "What percentage of respondents consider their cloud capabilities fully adopted and in the maintenance stage?",
+      "answer": "42 percent."
+    },
+    {
+      "question": "What percentage of respondents reported that more than 25 percent of their workload now resides in the cloud?",
+      "answer": "Six in ten."
+    },
+    {
+      "question": "What percentage of respondents called Applied AI relevant to their businesses?",
+      "answer": "Almost 80 percent."
+    },
+    {
+      "question": "What percentage of respondents have fully adopted next-gen software development?",
+      "answer": "11 percent."
+    },
+    {
+      "question": "At what stage is next-gen software development largely across many companies?",
+      "answer": "The pilot stage."
+    },
+    {
+      "question": "What percentage of survey respondents reported being in the pilot stage or earlier for applied AI use cases?",
+      "answer": "Seventy percent."
+    },
+    {
+      "question": "What benefits are financial-services companies enticed by when investing in cloud-native infrastructure?",
+      "answer": "Flexibility, scalability, and cost efficiencies."
+    },
+    {
+      "question": "What percentage of survey respondents reported being in the pilot stage or earlier in adopting generative AI technology?",
+      "answer": "Seventy percent."
+    },
+    {
+      "question": "What is the estimated economic value that gen AI could add across banking, wholesale, and retail?",
+      "answer": "$200 billion to $340 billion."
+    },
+    {
+      "question": "What is the estimated overall economic value that gen AI could add?",
+      "answer": "$4.4 trillion."
+    },
+    {
+      "question": "What percentage of survey respondents put themselves in the post-pilot or maintenance stage of digital identity?",
+      "answer": "50 percent."
+    },
+    {
+      "question": "What percentage of companies reported suffering an identity-related breach in 2022?",
+      "answer": "Eighty-four percent."
+    },
+    {
+      "question": "What is one of the emerging technologies that may not be prioritized today due to a longer adoption runway?",
+      "answer": "Quantum computing."
+    },
+    {
+      "question": "What percentage of companies reported suffering an identity-related breach in 2022?",
+      "answer": "Eighty-four percent."
+    },
+    {
+      "question": "What is the estimated value that quantum computing is expected to bring to finance?",
+      "answer": "Over $600 billion."
+    },
+    {
+      "question": "What percentage of survey respondents believe they are not spending enough on applicable technologies?",
+      "answer": "More than half."
+    },
+    {
+      "question": "What are financial-services organizations spending the most on, according to Exhibit 2?",
+      "answer": "Cloud and edge computing technologies."
+    },
+    {
+      "question": "How are cyber criminals adapting to aid in their attacks?",
+      "answer": "They are adopting emerging technologies, including gen AI as part of sophisticated phishing campaigns."
+    },
+    {
+      "question": "What is happening to cyber incidents year over year?",
+      "answer": "Cyber incidents are increasing in both frequency and severity year over year."
+    },
+    {
+      "question": "What was the most pervasive threat in 2023 according to the 2024 CrowdStrike global threat report?",
+      "answer": "Electronic Crime (eCrime) was the most pervasive threat in 2023."
+    },
+    {
+      "question": "What was the percentage increase in victims named on eCrime dedicated leak sites in 2023 compared to 2022?",
+      "answer": "There was a 76 percent increase in victims named on eCrime dedicated leak sites in 2023 compared to 2022."
+    },
+    {
+      "question": "What are the biggest cyber risks faced by financial institutions according to the survey?",
+      "answer": "The biggest risks include cyberattacks, AI, talent management, third-party and supply chain management, and data security."
+    },
+    {
+      "question": "What is a major concern for companies as they expand their adoption of new technologies?",
+      "answer": "The potential for increased risks as they expand their adoption of new technologies is a major concern."
+    },
+    {
+      "question": "What are the top three cyber risks for financial-services organizations?",
+      "answer": "Cyberattacks, AI misuse, and talent management are the key risks for financial-services organizations."
+    },
+    {
+      "question": "What percentage of respondents highlighted cyberattacks as a top risk priority?",
+      "answer": "32 out of 37 respondents (approximately 86%) highlighted cyberattacks as a top risk priority for their organizations."
+    },
+    {
+      "question": "What is a key concern for financial-services companies regarding emerging technologies?",
+      "answer": "The potential misuse of emerging technologies, such as AI risk and cloud, is a key concern for 22 out of 37 respondents."
+    },
+    {
+      "question": "What is critical to mitigating cyber risks associated with emerging technologies?",
+      "answer": "Strong access controls, vulnerability management programs, data protection, and third-party management capabilities are critical to mitigating these risks."
+    },
+    {
+      "question": "Why are regulators increasingly eyeing AI usage in financial-services companies?",
+      "answer": "Regulators are increasingly eyeing the risks associated with AI and are developing requirements, such as those set forth in the EU AI Act."
+    },
+    {
+      "question": "What should financial-services companies prioritize within their businesses?",
+      "answer": "Cybersecurity capabilities should be prioritized within the business as institutions continue to undergo technology transformations."
+    },
+    {
+      "question": "What percentage of surveyed respondents are concerned with keeping pace with emerging technologies with respect to their cybersecurity expenditures?",
+      "answer": "Fifty-seven percent."
+    },
+    {
+      "question": "What is the greatest capability weakness identified by survey respondents?",
+      "answer": "Third-party and supply chain management, topping the list for 65 percent of survey respondents."
+    },
+    {
+      "question": "Why is third-party management critical for companies?",
+      "answer": "Because companies continue to expand emerging-technology use in cloud computing and applied AI, which rely heavily on third-party services for critical components."
+    },
+    {
+      "question": "What is the percentage of companies not confident that their cybersecurity capabilities can mitigate cyber risks?",
+      "answer": "31 percent."
+    },
+    {
+      "question": "According to Jay Puthanveedu, what is of utmost importance to ensure overall resilience of vital services?",
+      "answer": "Managing the associated cyber and technology risks."
+    },
+    {
+      "question": "How many domains are in McKinsey's cybersecurity capability model?",
+      "answer": "Eight."
+    },
+    {
+      "question": "What percentage of survey respondents identified metrics and reporting capabilities as a core weakness?",
+      "answer": "41 percent."
+    },
+    {
+      "question": "Why must financial-services companies enhance their own security capabilities?",
+      "answer": "To avoid exceeding their risk appetites and making their environments vulnerable to risks as they rely more on third-party services."
+    },
+    {
+      "question": "What is one of the sub-domains under the 'Governance, risk, and compliance' domain?",
+      "answer": "Third-party security risk management."
+    },
+    {
+      "question": "How many sub-capability options were analyzed in the model?",
+      "answer": "The top ten capabilities that received the largest number of respondent selections."
+    },
+    {
+      "question": "How many domains are in McKinsey's cybersecurity capability model?",
+      "answer": "There are eight domains in McKinsey's cybersecurity capability model."
+    },
+    {
+      "question": "What are the top 4 weaknesses in cybersecurity according to the respondents?",
+      "answer": "The top 4 weaknesses are: Third-party security, risk/supply chain security management (65%), Metrics and reporting, Privileged access management, and Data life cycle management is not among the top 4, but Talent management is (along with the other three)."
+    },
+    {
+      "question": "What percentage of respondents felt they could improve in third-party security, risk/supply chain security management?",
+      "answer": "65% of respondents felt they could improve in third-party security, risk/supply chain security management."
+    },
+    {
+      "question": "What is included under the domain 'Identity and access management'?",
+      "answer": "Identity management, Privileged access management, Access management, Cryptography and key management, Identity and access governance, and Fraud protection are included under the domain 'Identity and access management'."
+    },
+    {
+      "question": "In which areas do financial-services organizations feel they are strong?",
+      "answer": "Financial-services organizations are often strong in overarching security governance and strategy."
+    },
+    {
+      "question": "How many domains are in McKinsey's cybersecurity capability model?",
+      "answer": "Eight."
+    },
+    {
+      "question": "What are the top 4 weaknesses in cybersecurity capabilities according to the respondents?",
+      "answer": "Third-party security, risk/supply chain security management; Metrics and reporting; Privileged access management; Data life cycle management."
+    },
+    {
+      "question": "What percentage of respondents identified third-party security, risk/supply chain security management as an area for improvement?",
+      "answer": "65%."
+    },
+    {
+      "question": "What is the name of the survey referenced in Exhibit 6?",
+      "answer": "McKinsey Future of Cybersecurity Survey 2023."
+    },
+    {
+      "question": "In which areas do financial-services organizations feel they could improve, according to Exhibit 6?",
+      "answer": "Technical capabilities."
+    },
+    {
+      "question": "What is driving the need for better reporting, transparency, and governance of cybersecurity risk?",
+      "answer": "New regulations such as the US SEC Cyber Disclosure Rule and the Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA) have underscored the importance of better reporting, transparency, and governance of cybersecurity risk."
+    },
+    {
+      "question": "What is the purpose of evolved controls in managing emerging technologies?",
+      "answer": "Companies will need evolved controls to measure model bias and risk, average time spent responding to incidents in the cloud environment, and the severity of vulnerabilities."
+    },
+    {
+      "question": "Why is it critical for companies to measure their risks properly?",
+      "answer": "It is more critical than ever that companies can measure their risks properly due to the increased focus on regulatory compliance, operational resilience, and third-party risk management."
+    },
+    {
+      "question": "What is a major foundational capability required for emerging-tech capabilities to be secure?",
+      "answer": "A major foundational capability of data life cycle management is required, as 30 percent of the survey respondents admitted that without it, emerging-tech capabilities remain vulnerable."
+    },
+    {
+      "question": "Why is securing the model training data essential for applied AI?",
+      "answer": "Securing the model training data is essential to prevent tampering and the introduction of bias."
+    },
+    {
+      "question": "What is a risk associated with the cloud environment?",
+      "answer": "The automated deployment and easily scalable infrastructure in the cloud can increase the risk of data exposure."
+    },
+    {
+      "question": "Why are companies vulnerable to backdoor compromise by threat actors?",
+      "answer": "Companies are vulnerable because they are struggling to protect accounts with high-risk access without proper Privileged Access Management (PAM)."
+    },
+    {
+      "question": "What are the two common factors that cause financial institutions to mature their cybersecurity capabilities?",
+      "answer": "Increased compliance with regulations and increased defense against outside threats."
+    },
+    {
+      "question": "What percentage of companies said that increased compliance with regulations causes their organizations to mature their cybersecurity capabilities?",
+      "answer": "Seventy percent."
+    },
+    {
+      "question": "How have financial-services organizations' acknowledgments of underspending in cybersecurity capabilities changed over the last three years?",
+      "answer": "Acknowledgment of underspending has grown from 58 percent in 2020 to 70 percent in 2023."
+    },
+    {
+      "question": "What should companies approach compliance as?",
+      "answer": "The minimum baseline of expectations rather than the aspirational goal."
+    },
+    {
+      "question": "Why should organizations bake regulatory compliance in proactively?",
+      "answer": "Especially as rule makers delve into emerging technologies and regulations are still under development."
+    },
+    {
+      "question": "What are the top drivers for financial-services organizations to mature their cybersecurity capabilities?",
+      "answer": "Increased compliance with regulations and increased security protection/defense against outside threats."
+    },
+    {
+      "question": "What percentage of their overall IT budget do financial-services companies devote to cybersecurity on average?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "Which type of banks are expected to see the largest growth in cybersecurity spend over the next two to three years?",
+      "answer": "Regional banks (Tier 2)."
+    },
+    {
+      "question": "Why are Tier 2 banks expected to increase their cybersecurity spend?",
+      "answer": "They are nearing the Tier 1 capital threshold and anticipate increased scrutiny from regulators."
+    },
+    {
+      "question": "What percentage of survey respondents have launched special initiatives to address security control gaps related to emerging technologies?",
+      "answer": "More than 40 percent."
+    },
+    {
+      "question": "Has the perception of underspending in cybersecurity among financial firms changed between 2020 and 2023?",
+      "answer": "Yes, in 2020, 58 percent acknowledged underspending, while in 2023, 70 percent said they should be spending more."
+    },
+    {
+      "question": "What is a key to enhanced security for emerging and critical technologies?",
+      "answer": "Developing standards on how current cybersecurity and information security measures are integrated into the use of these technologies."
+    },
+    {
+      "question": "According to the survey, what percentage of respondents believe they should be spending more on cybersecurity?",
+      "answer": "58% in 2020 and 70% in 2023."
+    },
+    {
+      "question": "What is the trend in cybersecurity spending among US Tier 2 regional banks relative to their IT budget?",
+      "answer": "They are increasing their spend on cybersecurity relative to IT."
+    },
+    {
+      "question": "What is the concern regarding cloud and edge computing in financial institutions?",
+      "answer": "Not enough are paying sufficient attention to the security risks associated with the cloud environment."
+    },
+    {
+      "question": "Who is responsible for managing security capabilities in cloud environments?",
+      "answer": "Both the cloud service providers and the organizations using the cloud environments; it's not a one-sided equation."
+    },
+    {
+      "question": "What is the trend in cybersecurity spending among Tier 2 regional banks in the US?",
+      "answer": "Tier 2 regional banks are increasing their spend on cybersecurity relative to IT."
+    },
+    {
+      "question": "What percentage of respondents reported concerns about gaining and retaining appropriately skilled cybersecurity talent?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "How are companies planning to address security gaps related to emerging technologies?",
+      "answer": "More than half of the respondents plan to rely on internal resources."
+    },
+    {
+      "question": "What percentage of respondents are utilizing special initiatives to secure cloud and edge computing?",
+      "answer": "More than 40 percent."
+    },
+    {
+      "question": "What is the primary method companies are using to close security capability gaps?",
+      "answer": "All respondents reported relying on existing talent, as well as new talent."
+    },
+    {
+      "question": "What percentage of respondents are utilizing special initiatives to secure cloud and edge computing?",
+      "answer": "More than 40 percent of respondents are utilizing special initiatives to secure each of the top four tech trends, including cloud and edge computing."
+    },
+    {
+      "question": "How are respondents planning to address current security gaps facing top tech trends?",
+      "answer": "More than 50 percent of respondents are planning to address security gaps for each of the top four tech trends with internal resources, such as upskilling or acquiring additional talent."
+    },
+    {
+      "question": "What are the four questions financial institutions should ask themselves to future-proof their environment?",
+      "answer": "The four questions are: 1) Do we have the right technology priorities, and are they aligned with our security capabilities? 2) Do we have the right metrics and reporting? 3) Are we investing in the right things? 4) Do we have the right talent and technology to close capability gaps?"
+    },
+    {
+      "question": "Why is it important for financial-services companies to have transparent, value-based metrics for managing cyber risks?",
+      "answer": "These metrics can aid in monitoring performance, informing decisions, and identifying emerging issues for quick action."
+    },
+    {
+      "question": "What is one way to fill the talent gap in cybersecurity?",
+      "answer": "Utilizing emerging technologies themselves, including AI, is one way to fill the talent gap."
+    },
+    {
+      "question": "How many financial-services companies were surveyed in 2023?",
+      "answer": "37 financial-services companies around the world."
+    },
+    {
+      "question": "What frameworks or references were used to structure the survey?",
+      "answer": "The National Institute of Standards and Technology\u2019s Cybersecurity Framework, industry technology trends, and previous McKinsey and Institute of International Finance (IIF) survey questions."
+    },
+    {
+      "question": "What was the revenue distribution of the surveyed institutions?",
+      "answer": "26 institutions reported less than $30 billion in annual revenues, and five reported at least $60 billion."
+    },
+    {
+      "question": "What percentage of respondents were from the payments and clearing principal market?",
+      "answer": "89%."
+    },
+    {
+      "question": "How many respondents were from North America?",
+      "answer": "10."
+    },
+    {
+      "question": "What was the supervisory class and geography distribution of the respondents?",
+      "answer": "The distribution included North America (G-SIB), North America (D-SIB), Europe (G-SIB), Europe (D-SIB), Rest of World (G-SIB), and Rest of World (D-SIB), and Nonbank with specific percentages for each category."
+    }
+  ]
+}

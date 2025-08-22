@@ -1,0 +1,1847 @@
+The state of AI in 2022—and 
+a half decade in review
+
+December 2022
+
+The results of this year’s McKinsey Global Survey on AI show the expansion of the 
+technology’s use since we began tracking it five years ago, but with a nuanced 
+picture underneath.1 Adoption has more than doubled since 2017, though the pro-
+portion of organizations using AI has plateaued between 50 and 60 percent for 
+the past few years. A set of companies seeing the highest financial returns from AI 
+continue to pull ahead of competitors. The results show these leaders making larger 
+investments in AI, engaging in increasingly advanced practices known to enable 
+scale and faster AI development, and showing signs of faring better in the tight 
+market for AI talent. On talent, for the first time, we looked closely at AI hiring and 
+upskilling. The data show that there is significant room to improve diversity on AI 
+teams, and, consistent with other studies, diverse teams correlate with outstanding 
+performance.
+
+Five years in 
+review: AI adoption, 
+impact, and spend
+
+This marks the fifth consecutive year we’ve conducted research globally on AI’s role in business, and we 
+have seen shifts over this period. 
+
+First, AI adoption has more than doubled.² In 2017, 20 percent of respondents reported adopting AI in 
+at least one business area, whereas today, that figure stands at 50 percent, though it peaked higher in 
+2019 at 58 percent. 
+
+Meanwhile, the average number of AI capabilities that organizations use, such as natural-language 
+generation and computer vision, has also doubled—from 1.9 in 2018 to 3.8 in 2022. Among these 
+
+1 In the survey, we defined AI as the ability of a machine to perform cognitive functions that we associate with human minds (for example, 
+natural-language understanding and generation) and to perform physical tasks using cognitive functions (for example, physical robotics, 
+autonomous driving, and manufacturing work).
+2 In 2017, the definition for AI adoption was using AI in a core part of the organization’s business or at scale. In 2018 and 2019, the definition 
+was embedding at least one AI capability in business processes or products. In 2020, 2021, and 2022, the definition was that the 
+organization has adopted AI in at least one function.
+
+2
+
+The state of AI in 2022—and a half decade in reviewcapabilities, robotic process automation and computer vision have remained the most commonly deployed each 
+year, while natural-language text understanding has advanced from the middle of the pack in 2018 to the front of the 
+list just behind computer vision. 
+
+Responses show an increasing number of AI capabilities embedded in 
+organizations over the past  ve years. 
+
+Average number of AI capabilities that 
+respondents’ organizations have embedded 
+within at least one function or business unit¹ 
+
+Share of respondents who say their organizations
+have adopted AI in at least one function, %
+
+3.1
+
+3.9
+
+3.8
+
+47
+
+58
+
+50
+
+50
+
+56
+
+2.3
+
+1.9
+
+20
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+% of respondents who say given AI capability is embedded in products or business processes in 
+at least one function or business unit²
+
+Robotic process automation
+
+Computer vision
+
+Natural-language text understanding
+
+Virtual agents or conversational interfaces 
+
+Deep learning
+
+Knowledge graphs
+
+Recommender systems
+
+Digital twins
+
+Natural-language speech understanding 
+
+Physical robotics
+
+Reinforcement learning
+
+Facial recognition
+
+Natural-language generation
+
+Transfer learning
+
+39
+
+34
+
+33
+
+33
+
+30
+
+25
+
+25
+
+24
+
+23
+
+20
+
+20
+
+18
+
+18
+
+16
+
+Generative adversarial networks (GAN) 
+
+Transformers
+
+11
+
+11
+
+¹
+²
+
+The number of capabilities included in the survey has grown over time, from 9 in 2018 to 15 in the 2022 survey.
+Question was asked only of respondents who said their organizations have adopted AI in at least one function.
+
+McKinsey & Company
+
+3
+
+The state of AI in 2022—and a half decade in reviewThe top use cases, however, have remained relatively stable: optimization of service operations has taken  
+the top spot each of the past four years.
+
+Second, the level of investment in AI has increased  alongside its rising adoption. For example, five years  
+ago, 40 percent of respondents at organizations using AI reported more than 5 percent of their digital 
+budgets went to AI, whereas now more than half of respondents report that level of investment. Going 
+forward, 63 percent of respondents say they expect their organizations’ investment to increase over the  
+next three years.
+
+The most popular AI use cases span a range of functional activities.
+
+Top use cases
+
+Use cases by function
+
+Most commonly adopted AI use cases, by function, % of respondents¹
+
+Service operations²
+
+Product and/or service development
+
+Marketing and sales
+
+Risk
+
+Service operations optimization
+
+24
+
+Creation of new AI-based products
+
+Customer service analytics
+
+Customer segmentation
+
+New AI-based enhancements of products
+
+Customer acquisition and lead generation
+
+Contact-center automation 
+
+Product feature optimization
+
+Risk modeling and analytics
+
+Predictive service and intervention
+
+20
+
+19
+
+19
+
+19
+
+17
+
+16
+
+16
+
+15
+
+14
+
+¹
+²
+
+Out of 39 use cases. Question was asked only of respondents who said their organizations have adopted AI in at least one function.
+Eg,  eld services, customer care, back o ce.
+
+McKinsey & Company
+
+4
+
+The state of AI in 2022—and a half-decade in review
+
+The most popular AI use cases span a range of functional activities.
+
+Top use cases
+
+Use cases by function
+
+Most commonly adopted AI use cases within each business function, % of respondents¹
+
+¹  
+
+Service operations²
+
+Service operations 
+optimization
+
+Contact-center 
+automation
+
+Marketing and sales
+
+Customer service 
+analytics
+
+Customer segmentation
+
+Risk
+
+Risk modeling and 
+analytics
+
+Fraud and debt 
+analytics
+
+Product and/or service development
+
+24
+
+Creation of new AI-based 
+products
+
+New AI-based enhancements
+of products
+
+Supply chain management
+
+Sales and demand
+forecasting
+
+Logistics network 
+optimization
+
+Human resources 
+
+Optimization of talent 
+management
+
+Optimization of workforce 
+deployment
+
+5
+
+16
+
+19
+
+19
+
+15
+
+11
+
+Strategy and corporate finance
+
+Manufacturing
+
+Capital allocation
+
+7
+
+Treasury management
+
+M&A support
+
+4
+
+4
+
+Predictive maintenance
+
+Yield, energy, and/or 
+throughput optimization
+
+Simulations (eg, using digital 
+twins, 3 D modeling)
+
+¹
+²
+
+Question was asked only of respondents who said their organizations have adopted AI in at least one function.
+Eg,  eld services, customer care, back o ce.
+
+McKinsey & Company
+
+20
+
+19
+
+10
+
+9
+
+10
+
+13
+
+11
+
+11
+
+Third, the specific areas in which companies see value from AI have evolved.  In 2018, manufacturing and 
+risk were the two functions in which the largest shares of respondents reported seeing value from AI 
+use. Today, the biggest reported revenue effects are found in marketing and sales, product and service 
+development, and strategy and corporate finance, and respondents report the highest cost benefits 
+from AI in supply chain management. The bottom-line value realized from AI remains strong and largely 
+consistent. About a quarter of respondents report this year that at least 5 percent of their organizations’ 
+EBIT was attributable to AI in 2021, in line with findings from the previous two years, when we’ve also 
+tracked this metric. 
+
+Lastly, one thing that has remained concerningly consistent is the level of risk mitigation organizations 
+engage in to bolster digital trust. While AI use has increased, there have been no substantial increases in 
+reported mitigation of any AI-related risks from 2019—when we first began capturing this data—to now. 
+
+5
+
+The state of AI in 2022—and a half decade in reviewAI-related cost decreases are most often reported in supply chain 
+management and revenue increases in product development and marketing 
+and sales.
+
+Cost decrease and revenue increase from AI adoption in 2021, by function, % of respondents¹
+
+Decrease
+by <10%
+
+Decrease
+by 10–19%
+
+Decrease
+by ≥20%
+
+Increase
+by >10%
+
+Increase
+by 6–10%
+
+Increase
+by ≤5%
+
+Service operations 
+
+45
+
+29
+
+10
+
+6
+
+10
+
+10
+
+37
+
+57
+
+Manufacturing
+
+42
+
+32
+
+7
+
+3
+
+10
+
+18
+
+Human resources 
+
+29
+
+25
+
+3
+
+1
+
+14
+
+13
+
+33
+
+31
+
+61
+
+58
+
+Marketing and sales
+
+28
+
+21
+
+4
+
+3
+
+9
+
+20
+
+41
+
+70
+
+Risk
+
+43
+
+30
+
+8
+
+5
+
+10
+
+11
+
+27
+
+48
+
+Supply chain management 
+
+52
+
+41
+
+7
+
+4
+
+Product and/or service development 
+
+30
+
+20
+
+4
+
+6
+
+Strategy and corporate finance 
+
+43
+
+31
+
+8
+
+4
+
+Average across all activites
+
+32
+
+23
+
+6
+
+3
+
+14
+
+13
+
+8
+
+8
+
+17
+
+24
+
+16
+
+19
+
+28
+
+59
+
+33
+
+70
+
+41
+
+36
+
+65
+
+63
+
+1Question was asked only of respondents who said their organizations have adopted AI in a given function. Respondents who said “no change,”                        
+“cost increase,” “not applicable,” or “don’t know” are not shown.
+
+McKinsey & Company
+
+6
+
+The state of AI in 2022—and a half decade in reviewMcKinsey commentary
+Michael Chui 
+Partner, McKinsey Global Institute
+
+Over the past half decade, during which we’ve been conducting our global survey, we have seen 
+the   “AI winter” turn into an “AI spring.” However, after a period of initial exuberance, we appear to 
+have reached a plateau, a course we’ve observed with other technologies in their early years of 
+adoption. We might be seeing the reality sinking in at some organizations of the level of organiza-
+tional change it takes to successfully embed this technology. 
+
+In our work, we’ve encountered companies that get discouraged because they went into AI 
+thinking it would be a quick exercise, while those taking a longer view have made steady prog-
+ress by transforming themselves into learning organizations that build their AI muscles over time. 
+These companies gradually incorporate more AI capabilities and stand up increasingly more 
+applications progressively faster and more easily thanks to lessons from past successes as well 
+as failures. They not only invest more, but they also invest more wisely, with the goal of creating a 
+veritable AI factory that enables them to incorporate more AI in more areas of the business, first in 
+adjacent ones where some existing capabilities can be repurposed and then into entirely  
+new ones.
+
+There is, at a high level, an emerging playbook for getting maximum value from AI. Each year that 
+we conduct our research, we see a group of leaders engaging in the types of practices that help 
+execute AI successfully. It’s paying off in the form of actual bottom-line impact at significant levels. 
+We also see it every day as we guide others on their AI journeys. It’s not easy work, but as has 
+been the case with previous technologies, the gains will go to those who stay the course.
+
+Those taking a longer view 
+have made steady progress by 
+transforming themselves into 
+learning organizations that build 
+their AI muscles over time.
+
+7
+
+The state of AI in 2022—and a half decade in reviewAI use and sustainability efforts
+
+The survey findings suggest that many organizations 
+that have adopted AI are integrating AI capabilities into 
+their sustainability efforts and are also actively seeking 
+ways to reduce the environmental impact of their AI 
+use (exhibit). Of respondents from organizations that 
+have adopted AI, 43 percent say their organizations are 
+using AI to assist in sustainability efforts, and 40 per-
+cent say their organizations are working to reduce the 
+environmental impact of their AI use by minimizing the 
+energy used to train and run AI models. As companies 
+that have invested more in AI and have more mature 
+AI efforts than others, high performers are 1.4 times 
+more likely than others to report AI-enabled sustain-
+ability efforts as well as to say their organizations are 
+working to decrease AI-related emissions. Both efforts 
+
+Exhibit 
+
+are more commonly seen at organizations based in 
+Greater China, Asia–Pacific, and developing markets, 
+while respondents in North America are least likely to 
+report them. 
+
+When asked about the types of sustainability efforts 
+using AI, respondents most often mention initiatives 
+to improve environmental impact, such as optimiza-
+tion of energy efficiency or waste reduction. AI use 
+is least common in efforts to improve organizations’ 
+social impact (for example, sourcing of ethically made 
+products), though respondents working for North 
+American organizations are more likely than their 
+peers to report that use.
+
+Organizations are using AI within sustainability e orts and are working to 
+reduce the environmental impact of their AI use. 
+
+Organizations using AI in their sustainability
+efforts, % of respondents¹ 
+
+Organizations taking steps to reduce carbon
+emissions from their AI use, % of respondents¹ 
+
+Greater China²
+
+Asia–Paci c
+
+Developing markets³
+
+Europe
+
+North America
+
+61
+
+54
+
+44
+
+39
+
+30
+
+Developing markets³
+
+Asia–Paci c
+
+Greater China²
+
+Europe
+
+North America
+
+Types of sustainability e orts in which respondents’ organizations are using AI⁴
+
+Improving the organization’s environmental impact (eg, 
+improving energy e ciency, optimizing transportation)
+
+Evaluating sustainability e orts (eg, benchmarking)
+
+Improving the organization’s governance 
+(eg, regulatory compliance, risk management)
+
+Improving the organization’s social 
+impact (eg, sourcing ethical products)
+
+53
+
+47
+
+46
+
+36
+
+31
+
+62
+
+51
+
+45
+
+34
+
+¹
+
+²
+³
+⁴
+
+Only asked of respondents whose organizations have adopted AI in at least one function. For organizations based in Greater China, n = 102; for 
+Asia–Paci c, n = 74; for developing markets, n = 118; for Europe, n = 260; and for North America, n = 190. 
+Includes respondents in Hong Kong SAR and Taiwan China.
+Includes respondents in India, Latin America, Middle East, North Africa, and sub-Saharan Africa.
+Only asked of respondents whose organizations have adopted AI in at least one function who said that their organizations are using AI in 
+sustainability e orts; n = 302. 
+
+McKinsey & Company
+
+8
+
+The state of AI in 2022—and a half decade in reviewMind the gap: AI 
+leaders pulling ahead
+
+Over the past five years, we have tracked the leaders in AI—we refer to them as AI high performers—and 
+examined what they do differently. We see more indications that these leaders are expanding their 
+competitive advantage than we find evidence that others are catching up.
+
+First, we haven’t seen an expansion in the size of the leader group. For the past three years, we have 
+defined AI high performers as those organizations that respondents say are seeing the biggest 
+bottom-line impact from AI adoption—that is, 20 percent or more of EBIT from AI use. The proportion of 
+respondents falling into that group has remained steady at about 8 percent. The findings indicate that 
+this group is achieving its superior results mainly from AI boosting top-line gains, as they’re more likely 
+to report that AI is driving revenues rather than reducing costs, though they do report AI decreasing 
+costs as well.
+
+Next, high performers are more likely than others to follow core practices that unlock value, such 
+as linking their AI strategy to business outcomes.³ Also important, they are engaging more often 
+in “frontier” practices that enable AI development and deployment at scale, or what some call the 
+“industrialization of AI.” For example, leaders are more likely to have a data architecture that is modular 
+enough to accommodate new AI applications rapidly. They also often automate most data-related 
+processes, which can both improve efficiency in AI development and expand the number of applications 
+they can develop by providing more high-quality data to feed into AI algorithms. And AI high performers 
+are 1.6 times more likely than other organizations to engage nontechnical employees in creating AI 
+applications by using emerging low-code or no-code programs, which allow companies to speed up 
+the creation of AI applications. In the past year, high performers have become even more likely than 
+other organizations to follow certain advanced scaling practices, such as using standardized tool sets 
+to create production-ready data pipelines and using an end-to-end platform for AI-related data science, 
+data engineering, and application development that they’ve developed in-house.
+
+High performers might also have a head start on managing potential AI-related risks, such as personal 
+privacy and equity and fairness, that other organizations have not addressed yet. While overall, we 
+have seen little change in organizations reporting recognition and mitigation of AI-related risks since 
+we began asking about them four years ago, respondents from AI high performers are more likely 
+than others to report that they engage in practices that are known to help mitigate risk. These include 
+ensuring AI and data governance, standardizing processes and protocols, automating processes such 
+as data quality control to remove errors introduced through manual work, and testing the validity of 
+models and monitoring them over time for potential issues. 
+
+3All questions about AI-related strengths and practices were asked only of the 744 respondents who said their organizations had adopted 
+AI in at least one function, n = 744.
+
+9
+
+The state of AI in 2022—and a half decade in reviewOrganizations seeing the highest returns from AI are more likely to follow 
+strategy, data, models, tools, technology, and talent best practices. 
+
+Share of respondents reporting their organizations engage in each practice,¹ % of respondents
+
+Strategy
+
+Data
+
+Models, tools, and tech
+
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+
+All other respondents
+
+AI high performers²
+
+Have a road map that clearly prioritizes AI initiatives
+linked to business value across organization
+
+Have an AI strategy that is aligned with the broader 
+corporate strategy and goals 
+
+Senior management that is fully aligned and committed 
+to organization’s AI strategy
+
+Have a clearly de ned AI vision and strategy
+
+Appointed a credible leader of AI initiatives who is 
+empowered to move them forward in collaboration with 
+peers across business units and functions
+
+Systematically track a comprehensive set of well-
+defined KPIs to measure the incremental impact of
+AI initiatives
+
+Have a clear framework for AI governance that
+covers every step of the model development process
+
+Organizations seeing the highest returns from AI are more likely to follow 
+Organizations seeing the highest returns from AI are more likely to follow 
+strategy, data, models, tools, technology, and talent best practices. 
+strategy, data, models, tools, technology, and talent best practices. 
+80
+0
+Share of respondents reporting their organizations engage in each practice,¹ % of respondents
+Share of respondents reporting their organizations engage in each practice,¹ % of respondents
+
+60
+
+40
+
+20
+
+100
+
+Data
+Data
+
+Strategy
+Strategy
+Practices shown here are representative of those with the highest deltas between AI high performers and other respondents. Not all practices are shown.
+Respondents who said that at least 20 percent of their organizations’ earnings before interest and taxes (EBIT) in 2021 was attributable to their use of AI.
+
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+
+Models, tools, and tech
+Models, tools, and tech
+
+Talent and ways of working
+
+Strategy
+
+Data
+
+¹
+²
+
+McKinsey & Company
+
+Take a full life cycle approach to developing and 
+Have ability to integrate data into AI models as quickly 
+deploying AI models
+as needed (eg, in near real time)
+
+Integrate AI technologies into business processes (eg, 
+Integrate structured internal data (eg, a data lake that 
+day-to-day operations, employee work ows)
+contains customer data across business units) to use in 
+AI initiatives
+Teams for data science and AI design and development 
+Integrate external data (eg, open source, purchased) 
+collaborate to build and improve AI applications
+to use in AI initiatives
+
+Have well-de ned capability-building programs to 
+Integrate unstructured internal data (eg, textual call-
+develop technology personnels’ AI skills
+center logs) to use in AI initiatives
+
+Train nontechnical personnel to use AI to improve 
+Generate synthetic data to train AI models when there 
+decision making
+are insu cient natural data sets
+AI development teams follow standard protocols
+(eg, tool frameworks, development processes) for 
+Have a modular enough data architecture to
+building and delivering AI tools
+rapidly accommodate the needs of new AI use cases
+
+Automate most data-related processes (eg, data 
+labeling, data quality control)
+
+Have scalable internal processes for labeling AI training 
+data
+
+All other respondents
+All other respondents
+
+AI high performers²
+AI high performers²
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+¹
+²
+
+Practices shown here are representative of those with the highest deltas between AI high performers and other respondents. Not all practices are shown.
+Respondents who said that at least 20 percent of their organizations’ EBIT in 2021 was attributable to their use of AI.
+¹
+²
+
+Practices shown here are representative of those with the highest deltas between AI high performers and other respondents. Not all practices are shown.
+Respondents who said that at least 20 percent of their organizations’ EBIT in 2021 was attributable to their use of AI.
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+McKinsey & Company
+
+McKinsey & Company
+
+10
+
+³³³The state of AI in 2022—and a half decade in reviewOrganizations seeing the highest returns from AI are more likely to follow 
+strategy, data, models, tools, technology, and talent best practices. 
+
+Share of respondents reporting their organizations engage in each practice,¹ % of respondents
+
+Strategy
+
+Data
+
+Models, tools, and tech
+Models, tools and tech
+Models, tools and tech
+
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+
+All other respondents
+
+AI high performers²
+
+Develop AI models that can provide accurate, 
+usable results leveraging smaller amounts of data 
+(ie, “small data”)
+
+Regularly refresh AI models based on clearly de ned 
+criteria for when and why to do so
+
+Developed in-house the end-to-end platform used for 
+AI-related data science, data engineering, and 
+application development
+
+Use a standardized tool set to create production-ready 
+data pipelines
+
+Develop modular components (eg, data model layers, 
+data pipelines) so they can be reused in AI applications
+
+Refresh AI/machine learning tech stack at 
+least annually to take advantage of the latest 
+technological advances
+
+Organizations seeing the highest returns from AI are more likely to follow 
+strategy, data, models, tools, technology, and talent best practices. 
+
+Automate the full life cycle for AI model development 
+(eg, from data ingestion and quality control through 
+model monitoring)
+
+Use the organization’s own high-performance 
+computing cluster for AI workloads
+
+Share of respondents reporting their organizations engage in each practice,¹ % of respondents
+Organizations seeing the highest returns from AI are more likely to follow 
+strategy, data, models, tools, technology, and talent best practices. 
+100
+
+20
+Talent and ways of working
+
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+
+Models, tools, and tech
+
+Strategy
+Strategy
+
+Data
+Data
+
+80
+
+60
+
+40
+
+0
+
+Share of respondents reporting their organizations engage in each practice,¹ % of respondents
+¹
+Practices shown here are representative of those with the highest deltas between AI high performers and other respondents. Not all practices are shown.
+²
+Respondents who said that at least 20 percent of their organizations’ EBIT in 2021 was attributable to their use of AI.
+
+All other respondents
+
+AI high performers²
+
+McKinsey & Company
+
+Strategy
+Strategy
+
+Take a full life cycle approach to developing and 
+Models, tools, and tech
+deploying AI models
+
+Data
+Data
+
+Talent and ways of working
+
+Talent and ways of working
+Talent and ways of working
+Talent and ways of working
+
+All other respondents
+
+AI high performers²
+
+Integrate AI technologies into business processes (eg, 
+day-to-day operations, employee work ows)
+
+Take a full life cycle approach to developing and 
+deploying AI models
+
+Teams for data science and AI design and development 
+collaborate to build and improve AI applications
+
+Integrate AI technologies into business processes (eg, 
+day-to-day operations, employee work ows)
+Have well-de ned capability-building programs to 
+develop technology personnels’ AI skills
+
+Teams for data science and AI design and development 
+collaborate to build and improve AI applications
+Train nontechnical personnel to use AI to improve 
+decision making
+
+Have well-de ned capability-building programs to 
+develop technology personnels’ AI skills
+
+AI development teams follow standard protocols
+(eg, tool frameworks, development processes) for 
+building and delivering AI tools
+
+Train nontechnical personnel to use AI to improve 
+decision making
+
+AI development teams follow standard protocols
+(eg, tool frameworks, development processes) for 
+building and delivering AI tools
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+¹
+²
+
+Practices shown here are representative of those with the highest deltas between AI high performers and other respondents. Not all practices are shown.
+Respondents who said that at least 20 percent of their organizations’ EBIT in 2021 was attributable to their use of AI.
+
+McKinsey & Company
+
+¹
+²
+
+Practices shown here are representative of those with the highest deltas between AI high performers and other respondents. Not all practices are shown.
+Respondents who said that at least 20 percent of their organizations’ EBIT in 2021 was attributable to their use of AI.
+
+McKinsey & Company
+
+11
+
+³³³The state of AI in 2022—and a half decade in reviewInvestment is yet another area that could contribute to the widening of the gap: AI high performers are 
+poised to continue outspending other organizations on AI efforts. Even though respondents at those 
+leading organizations are just as likely as others to say they’ll increase investments in the future, they’re 
+spending more than others now, meaning they’ll be increasing from a base that is a higher percentage of 
+revenues. Respondents at AI high performers are nearly eight times more likely than their peers to say their 
+organizations spend at least 20 percent of their digital-technology budgets on AI-related technologies.  
+And these digital budgets make up a much larger proportion of their enterprise spend: respondents at AI 
+high performers are over five times more likely than other respondents to report that their organizations 
+spend more than 20 percent of their enterprise-wide revenue on digital technologies. 
+
+Finally, all of this may be giving AI high performers a leg up in attracting AI talent. There are indications 
+that these organizations have less difficulty hiring for roles such as AI data scientist and data engineer. 
+Respondents from organizations that are not AI high performers say filling those roles has been “very 
+difficult” much more often than respondents from AI high performers do.
+
+The bottom line: high performers are already well positioned for sustained AI success, improved efficiency 
+in new AI development, and a resultingly more attractive environment for talent. The good news for 
+organizations outside the leader group is that there’s a clear blueprint of best practices for success.
+
+Respondents at AI high performers are nearly 
+eight times more likely than their peers to say their 
+organizations spend at least 20 percent of their 
+digital-technology budgets on AI-related technologies.
+
+12
+
+The state of AI in 2022—and a half-decade in review
+
+McKinsey commentary
+Bryce Hall 
+Associate partner
+
+Over the years of our research, we’ve continued to refine our understanding of the specific 
+practices that leading companies are doing well and the capabilities they have in place to capture 
+value from AI. Recently, a new set of “frontier” practices has emerged as organizations shift from 
+experimenting with AI to industrializing it. These include machine learning operations (MLOps) 
+practices such as assetization, or turning elements like code into reusable assets that can be 
+applied over and over in different business applications.
+
+But over the years, we’ve also consistently seen a set of foundational practices that these 
+organizations are getting right. Through our work, we’ve learned not to describe these as “basic” 
+practices, because they are some of the most difficult to implement. Many of these involve the 
+people elements that need to be in place for companies to adopt AI successfully, such as having 
+a clear understanding of what specific tech talent roles are needed and successfully integrating 
+AI into business processes and decision making. As proven in many cases, AI engines and people 
+together can create much more value than either can individually. 
+
+As the AI frontier advances, we continue to be inspired by some truly innovative applications of 
+AI, such as  the use of AI to identify new drugs, create hyperpersonalized recommendations for 
+consumers, and power AI simulations in digital twins to optimize performance across a variety 
+of settings. As individual AI capabilities, such as natural-language processing and generation, 
+continue to improve and democratize, we’re excited to see a wave of new applications emerge and 
+more companies capture value from AI at scale.
+
+13
+
+The state of AI in 2022—and a half decade in reviewAI talent tales: New 
+hot roles, continued 
+diversity woes
+
+Our first detailed look at the AI talent picture signals the maturation of AI, surfaces the most common 
+strategies organizations employ for talent sourcing and upskilling, and shines a light on AI’s diversity 
+problem—while showing yet again a link between diversity and success.
+
+Hiring is a challenge, but less so for high performers
+Software engineers emerged as the AI role that survey responses show organizations hired most 
+often in the past year, more often than data engineers and AI data scientists. This is another clear sign 
+that many organizations have largely shifted from experimenting with AI to actively embedding it in 
+enterprise applications.  
+
+Unfortunately, the tech talent shortage shows no sign of easing, threatening to slow that shift for 
+some companies. A majority of respondents report difficulty in hiring for each AI-related role in the 
+
+Web <year>
+<Title>
+Exhibit <x> of <x>
+
+Responses suggest that organizations are most often hiring software 
+engineers, data engineers, and AI data scientists.
+
+AI-related roles that respondents’ organizations hired, past year, % of respondents¹
+
+Software engineers
+
+Data engineers
+
+AI data scientists
+
+Machine learning engineers
+
+Data architects
+
+AI product owners/managers
+
+Design specialists
+
+Data visualization specialists
+
+39
+
+35
+
+33
+
+30
+
+28
+
+22
+
+22
+
+21
+
+Translators
+
+8
+
+None of the above
+
+14
+
+1Only asked of respondents whose organizations have adopted AI in at least one function.  For respondents at AI high performers, n = 51. For all other 
+  respondents, n = 413.
+
+McKinsey & Company
+
+14
+
+The state of AI in 2022—and a half decade in reviewpast year, and most say it either wasn’t any easier or was more difficult to acquire this talent than in years 
+past. AI data scientists remain particularly scarce, with the largest share of respondents rating data 
+scientist as a role that has been difficult to fill, out of the roles we asked about. 
+
+As mentioned earlier, we see some signs that AI high performers have a slightly easier time hiring than 
+other organizations, but they still report difficulty more often than not. What’s more evident from the 
+survey findings is their focus on hiring for AI industrialization and business value optimization. For 
+example, they’re more than twice as likely to have hired a ML engineer in the past year—a role focused on 
+optimizing the ML models built by data scientists for performance and scalability, as well as automating 
+the machine learning pipeline, from data ingestion to prediction generation. Respondents at high 
+performers are also nearly twice as likely as others to say they have hired an AI product manager to 
+oversee AI application development and adoption and more than three times as likely to have hired an 
+analytics translator, two roles that ensure that AI applications deliver business value.
+
+Most respondents say that hiring for each AI-related role has been difficult      
+in the past year and hasn’t become easier over time. 
+
+Difficulty in organizations’ hiring of AI-related roles, past year, % of respondents¹
+
+Very
+difficult
+
+Somewhat
+difficult
+
+Neither easy
+nor difficult
+
+Somewhat
+easy
+
+Very
+easy
+
+Software engineers
+
+Data engineers
+
+20
+
+20
+
+45
+
+49
+
+17
+
+13
+
+20
+
+6
+
+AI data scientists
+
+32
+
+46
+
+9
+
+6
+
+1
+
+Machine learning engineers
+
+Data architects
+
+28
+
+25
+
+42
+
+47
+
+18
+
+18
+
+9
+
+5
+
+1
+
+1
+
+1
+
+1
+
+AI product owners/managers
+
+20
+
+42
+
+27
+
+5
+
+1
+
+Design specialists
+
+Data visualization specialists
+
+15
+
+15
+
+44
+
+46
+
+24
+
+21
+
+10
+
+12
+
+Translators
+
+27
+
+43
+
+14
+
+11
+
+1
+
+1
+
+2
+
+Change of difficulty in organizations’ hiring of AI-related roles, past 3 years, % of respondents¹
+
+Much
+more difficult
+
+Somewhat
+more difficult
+
+Neither easier
+nor more difficult
+
+Somewhat
+easier
+
+Much
+easier
+
+Software engineers
+
+18
+
+31
+
+24
+
+10
+
+7
+
+Data engineers
+
+AI data scientists
+
+Machine learning engineers
+
+Data architects
+
+AI product owners/managers
+
+Design specialists
+
+Data visualization specialists
+
+22
+
+22
+
+20
+
+21
+
+16
+
+17
+
+17
+
+35
+
+16
+
+15
+
+3
+
+25
+
+28
+
+31
+
+27
+
+28
+
+25
+
+19
+
+14
+
+16
+
+21
+
+20
+
+22
+
+3
+
+3
+
+6
+
+3
+
+7
+
+18
+
+22
+
+14
+
+16
+
+15
+
+23
+
+4
+
+5
+
+Translators
+
+22
+
+34
+
+19
+
+11
+
+1Only asked of respondents whose organizations have adopted AI in at least one function. Figures do not sum to 100%, because respondents who said 
+  “don't know” are not shown.
+
+McKinsey & Company
+
+15
+
+The state of AI in 2022—and a half decade in reviewAI high performers are much more likely than others to have hired AI data 
+scientists, machine learning engineers, and translators in the past year.
+
+AI-related roles that respondents’ organizations hired, past year, % of respondents¹
+
+Software engineers
+
+Data engineers
+
+AI data scientists 
+
+Machine learning
+ engineers
+
+Data architects
+
+AI product owners/
+managers
+
+Design specialists (eg, user
+interface, experience design)
+
+Data visualization specialists
+
+Translators 
+
+None of the above
+
+8
+
+7
+
+16
+
+42
+
+40
+
+Respondents at AI high performers
+
+All other respondents
+
+46
+
+37
+
+60
+
+58
+
+31
+
+27
+
+33
+
+31
+
+40
+
+29
+
+34
+
+21
+
+22
+
+22
+
+25
+
+1Only asked of respondents whose organizations have adopted AI in at least one function. For respondents at AI high performers, n = 51. 
+ For all other respondents, n = 413.
+
+McKinsey & Company
+
+Reskilling and upskilling are common alternatives to hiring  
+When it comes to sourcing AI talent, the most popular strategy among all respondents is reskilling 
+existing employees. Nearly half are doing so. Recruiting from top-tier universities as well as 
+from technology companies that aren’t in the top tier, such as regional leaders, are also common 
+strategies. But a look at the strategies of high performers suggests organizations might be best 
+served by tapping as many recruiting channels as possible. These companies are doing more than 
+others to recruit AI-related talent from various sources. The findings show that while they’re more 
+likely to recruit from top-tier technical universities and tech companies, they’re also more likely 
+to source talent from other universities, training academies, and diversity-focused programs or 
+professional organizations. 
+
+16
+
+The state of AI in 2022—and a half-decade in review
+
+Respondents from AI high performers report sourcing AI-related talent in a 
+broader variety of ways than other respondents.
+
+Sources that respondents’ organizations are using for AI-related talent, % of respondents¹
+
+Respondents at AI high performers
+
+All other respondents
+
+Top-tier technical
+universities
+
+Internally (ie, by reskilling
+employees)
+
+Top-tier global technology
+companies
+
+Other technology companies (eg,
+midtier companies, start-ups)
+
+Other universities
+
+Industry organizations
+
+Training academies (eg, coding
+boot camps)
+
+Diversity-focused programs or 
+professional associations
+
+36
+
+58
+
+47
+47
+
+46
+
+23
+
+20
+
+32
+
+39
+
+37
+
+34
+
+29
+
+29
+
+16
+
+15
+
+24
+
+Other
+
+Organization is not actively 
+seeking AI talent
+
+1
+
+2
+
+12
+
+10
+
+1Only asked of respondents whose organizations have adopted AI in at least one business unit or function. For respondents at AI high performers, n = 51.         
+For all other respondents, n = 413.
+
+McKinsey & Company
+
+Responses suggest that both AI high performers and other organizations are upskilling technical and 
+nontechnical employees on AI, with nearly half of respondents at both AI high performers and other 
+organizations saying they are reskilling as a way of gaining more AI talent. However, high performers 
+are taking more steps than other organizations to build employees’ AI-related skills. 
+
+Respondents at high performers are nearly three times more likely than other respondents to say their 
+organizations have capability-building programs to develop technology personnel’s AI skills. The most 
+common approaches they use are experiential learning, self-directed online courses, and certification 
+programs, whereas other organizations most often lean on self-directed online courses. 
+
+High performers are also much more likely than other organizations to go beyond providing access 
+to self-directed online coursework to upskill nontechnical employees on AI. Respondents at high 
+
+17
+
+The state of AI in 2022—and a half decade in reviewperformers are nearly twice as likely as others to report offering peer-to-peer learning and certification 
+programs to nontechnical personnel.
+
+Increasing diversity on AI teams is a work in progress
+We also explored the level of diversity within organizations’ AI-focused teams, and we see that there 
+is significant room for improvement at most organizations. The average share of employees on these 
+teams at respondents’ organizations who identify as women is just 27 percent. The share is similar when 
+looking at the average proportion of racial or ethnic minorities developing AI solutions: just 25 percent. 
+What’s more, 29 percent of respondents say their organizations have no minority employees working on 
+their AI solutions.
+
+The average share of employees 
+developing AI solutions at 
+respondents’ organizations 
+
+Organization has active programs to 
+increase diversity within the teams 
+that are developing AI solutions 
+
+Identify as women
+
+27%
+
+Identify as racial or 
+ethnic minorities
+
+25% 
+
+McKinsey & Company
+
+46%
+
+33% 
+
+Some companies are working to improve the diversity of their AI talent, though there’s more being 
+done to improve gender diversity than ethnic diversity. Forty-six percent of respondents say their 
+organizations have active programs to increase gender diversity within the teams that are developing AI 
+solutions, through steps such as partnering with diversity-focused professional associations to recruit 
+candidates. One-third say their organizations have programs to increase racial and ethnic diversity. We 
+also see that organizations with women or minorities working on AI solutions often have programs in 
+place to address these employees’ experiences of these employees. 
+
+In line with previous McKinsey studies, the research shows a correlation between diversity and 
+outperformance. Organizations at which respondents say at least 25 percent of AI development 
+employees identify as women are 3.2 times more likely than others to be AI high performers. Those at 
+which at least one-quarter of AI development employees are racial or ethnic minorities are more than 
+twice as likely to be AI high performers. 
+
+18
+
+The state of AI in 2022—and a half-decade in review
+
+McKinsey commentary
+Helen Mayhew 
+Partner
+
+As I look at these results on talent, I see both how far we’ve come with AI and how much 
+work is still to be done in some areas. 
+
+Five or so years ago, software engineering would not have been classified as the highest-
+priority AI role because many organizations focused on simply building discrete models 
+as they experimented with the technology. But as the business value became clear, 
+organizations realized the need for insights from AI to be delivered into a front end where 
+people can consume and apply them for impact. The hiring of machine learning (ML) 
+engineers similarly shows the maturation of AI; businesses need this role now because 
+they’re working to embed ML into systems regularly and reliably.
+
+On the other hand, despite knowing for close to a decade about the growing need for roles 
+like data scientists and data engineers, we still haven’t moved the needle enough on the 
+supply side. Hiring from boot camps is picking up because experienced talent is just not 
+available. It isn’t easy to set up learning pathways for this fresh talent, but organizations 
+have little choice. Reskilling efforts are also a big undertaking, but it’s necessary to fill the 
+gaps. To meet the need, we actually need many more organizations reskilling than what 
+we’re seeing in these results.
+
+The diversity figures are disappointing but sadly unsurprising. Data science is a team sport. 
+Diverse perspectives are important. It has been shown time and again that bias issues will 
+proliferate when organizations lack a diverse enough team to call out issues. And just like 
+other research we’ve conducted has shown, diversity correlates with strong performance 
+in addition to being the right thing to do. If not careful, with AI, lack of diversity can lead 
+to distrust. Finally, it’s important to remember that these AI jobs are among some of the 
+highest paid, and demand will only increase. We risk undermining the progress we’ve 
+made to date on closing pay gaps for women and ethnic minorities if they are not equally 
+represented in this high-demand skills base. We must continue to find ways to get more 
+women and minorities engaged in STEM in their education years and beyond. 
+
+The state of AI in 2022—and a half-decade in review
+
+19
+
+About the research
+
+The online survey was in the field from May 3 to May 27, 2022, and from August 15 to August 17, 2022, and garnered responses 
+from 1,492 participants representing the full range of regions, industries, company sizes, functional specialties, and tenures. Of 
+those respondents, 744 said their organizations had adopted AI in at least one function and were asked questions about their 
+organizations’ AI use. To adjust for differences in response rates, the data are weighted by the contribution of each respondent’s 
+nation to global GDP.
+
+The survey content and analysis were developed by Michael Chui, a partner at the McKinsey Global 
+Institute and a partner in McKinsey’s Bay Area office; Bryce Hall, an associate partner in the Washington, 
+DC, office; Helen Mayhew, a partner in the Sydney office; and Alex Singla, a senior partner in the Chicago 
+office, and Alex Sukharevsky, a senior partner in the London office, global leaders of QuantumBlack, AI 
+by McKinsey.
+
+They wish to thank Sanath Angalakudati, Medha Bankhwal, David DeLallo, Heather Hanselman, Vishan 
+Patel, and Wilbur Wang for their contributions to this work.
+
+20
+
+The state of AI in 2022—and a half decade in reviewQuantumBlack By McKinsey 
+December 2022 
+Copyright © McKinsey & Company 
+Designed by Darby Films
+
+www.mckinsey.com
+
+  @McKinsey 
+  @McKinsey
+
+ 
+

@@ -1,0 +1,1057 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe McKinsey Global Institute report \"Geopolitics and the geometry of global trade\" examines the shifting landscape of global trade amidst rising geopolitical tensions. The report analyzes changes in global trade patterns using four measures: trade intensity, geographic distance, import concentration, and \"geopolitical distance\", a new measure based on UN General Assembly voting records. The findings indicate that trade reconfiguration is underway, with some economies reducing their geopolitical distance while others are diversifying their trade relationships. The report highlights the trade-offs involved in reconfiguration, such as increased trade concentration or greater geopolitical distance, and advises business leaders to position their organizations for uncertainty.",
+  "qa_pairs": [
+    {
+      "question": "When was the McKinsey Global Institute established?",
+      "answer": "The McKinsey Global Institute was established in 1990."
+    },
+    {
+      "question": "What is the mission of the McKinsey Global Institute?",
+      "answer": "The mission is to provide a fact base to aid decision making on the economic and business issues most critical to the world\u2019s companies and policy leaders."
+    },
+    {
+      "question": "What percentage of global goods trade is between geopolitically distant economies?",
+      "answer": "Nearly 20 percent."
+    },
+    {
+      "question": "What percentage of trade in globally concentrated products is between geopolitically distant economies?",
+      "answer": "Close to 40 percent."
+    },
+    {
+      "question": "Which economies have reduced the geopolitical distance of their trade by 4 to 10 percent since 2017?",
+      "answer": "China, Germany, the United Kingdom, and the United States."
+    },
+    {
+      "question": "Where has greenfield investment been flowing since 2010?",
+      "answer": "Roughly 60 percent of greenfield investment has flowed to developing economies."
+    },
+    {
+      "question": "What has happened to announced investment into China and Russia compared with prepandemic averages?",
+      "answer": "Announced investment into China fell by about 70 percent and into Russia by about 98 percent."
+    },
+    {
+      "question": "Which economies are trading more across the geopolitical spectrum and over longer distances?",
+      "answer": "Economies of the Association of Southeast Asian Nations, Brazil, and India."
+    },
+    {
+      "question": "What percentage of greenfield investment has flowed to developing economies since 2010?",
+      "answer": "Roughly 60 percent."
+    },
+    {
+      "question": "What happened to announced investment into China and Russia in the past two years compared to prepandemic averages?",
+      "answer": "Announced investment into China fell by about 70 percent and into Russia by about 98 percent."
+    },
+    {
+      "question": "What are the two types of trade reconfiguration explored in the text?",
+      "answer": "One where economies shift their trade to more geopolitically aligned partners, and another where trade relationships diversify so that no economy is highly dependent on another."
+    },
+    {
+      "question": "What was Mexico's position in the United States' goods trade partnership in 2023?",
+      "answer": "Mexico became the United States' largest goods trade partner."
+    },
+    {
+      "question": "How many times did the use of terms like 'decoupling,' 'derisking,' and 'reshoring' increase in corporate presentations between 2018 and 2022?",
+      "answer": "More than 20-fold."
+    },
+    {
+      "question": "What happened to average tariffs on goods trade between China and the United States since 2017?",
+      "answer": "Average tariffs increased between three- and sixfold."
+    },
+    {
+      "question": "How has the number of new global trade restrictions changed from 2017 to 2023?",
+      "answer": "The number of new global trade restrictions increased from about 650 in 2017 to more than 3,000 in 2023."
+    },
+    {
+      "question": "What has happened to the concentration of US import origins between 2017 and 2023?",
+      "answer": "US imports became 18 percent less concentrated in their origins."
+    },
+    {
+      "question": "What has driven the 7 percent increase in the average geographic distance of China's trade since 2017?",
+      "answer": "China has been increasing its share of trade with developing economies around the world."
+    },
+    {
+      "question": "What happened to Germany's average geopolitical distance of trade between 2017 and 2023?",
+      "answer": "Germany experienced a 6 percent drop in the average geopolitical distance of its trade."
+    },
+    {
+      "question": "What is the new measure introduced to analyze the geometry of global goods trade?",
+      "answer": "A new measure of 'geopolitical distance' is introduced, constructed by looking at UN General Assembly voting records."
+    },
+    {
+      "question": "According to recent McKinsey Global Institute research, what percentage of the value of global goods trade is globally concentrated?",
+      "answer": "10 percent of the value of today's global goods trade is globally concentrated."
+    },
+    {
+      "question": "What are the two illustrative trade reconfigurations considered in the paper?",
+      "answer": "The two reconfigurations are: (1) global trade fragments and 'deglobalizes' by shifting to being between more geopolitically aligned partners, and (2) trade becomes more diversified, without a geopolitical lens."
+    },
+    {
+      "question": "What percentage of the value of today's global goods trade is globally concentrated?",
+      "answer": "10 percent"
+    },
+    {
+      "question": "How many economies provide at least 90 percent of global exports for 10 percent of the value of today's global goods trade?",
+      "answer": "Three or fewer economies"
+    },
+    {
+      "question": "What are the four indicators that capture the contours of the geometry of an economy's trade?",
+      "answer": "Trade intensity, geographic distance, geopolitical distance, and import concentration"
+    },
+    {
+      "question": "Why does Germany tend to trade over shorter geographic and geopolitical distances?",
+      "answer": "Because Europe is relatively compact and politically aligned"
+    },
+    {
+      "question": "What drives lower levels of import concentration in Germany?",
+      "answer": "Extensive intra-EU trade"
+    },
+    {
+      "question": "Why do ASEAN economies and Germany have high goods trade intensity?",
+      "answer": "Partly driven by their integration into regional manufacturing value chains that crisscross national borders"
+    },
+    {
+      "question": "What drives lower levels of import concentration in European economies?",
+      "answer": "The integration between European economies drives lower levels of import concentration due to extensive intra-EU trade."
+    },
+    {
+      "question": "How does the UK's economy differ from Germany's in terms of trade?",
+      "answer": "The UK's economy skews toward services, and it has lower goods trade intensity than Germany."
+    },
+    {
+      "question": "What is used as a proxy for alignment on global issues in the analysis?",
+      "answer": "Votes in the UN General Assembly between 2005 and 2022 are used as a proxy for alignment on global issues."
+    },
+    {
+      "question": "How many UN General Assembly votes were included in the analysis?",
+      "answer": "The analysis includes 201 votes, or about 15 percent of all UN General Assembly votes in the period."
+    },
+    {
+      "question": "What is the range of the one-dimensional spectrum of geopolitical position based on votes?",
+      "answer": "The one-dimensional voting spectrum ranges from zero to ten."
+    },
+    {
+      "question": "Where are most advanced economies positioned on the geopolitical spectrum?",
+      "answer": "Most advanced economies, including Germany, Japan, South Korea, and the United States, fell between zero and two."
+    },
+    {
+      "question": "What are some limitations of using UN General Assembly votes to measure geopolitical alignment?",
+      "answer": "Voting practices at the UN are only one marker of geopolitical alignment, and other factors such as security ties, economic ties, and bilateral agreements may not be correlated with UN General Assembly voting."
+    },
+    {
+      "question": "What may influence UN General Assembly voting practices?",
+      "answer": "Voting practices may be influenced by strategic (or temporary) alliances or agreements, domestic political considerations, or simply the idiosyncrasies of a country\u2019s view on a particular matter."
+    },
+    {
+      "question": "Why did the authors use principal component analysis (PCA) to analyze UN General Assembly votes?",
+      "answer": "The authors used PCA for three reasons: it minimizes the information lost by reducing the voting data to a single dimension, it can identify patterns and similarities in voting behavior that agreement scores can miss, and it can be used for clustering."
+    },
+    {
+      "question": "Did the geopolitical positions of all countries remain stable between 2005 and 2022?",
+      "answer": "No, the position of some countries, such as Brazil and Mexico, was more variable, although always toward the center of the spectrum, while others like China, the European economies, Japan, South Korea, and the United States did not vary significantly."
+    },
+    {
+      "question": "Why is the trade intensity of the United States lower compared to other large economies?",
+      "answer": "The trade intensity of the United States is lower due to the size and endowments of its domestic economy, which enables it to source many products at home, and geography, as less than 5 percent of global GDP is generated by economies within 5,000 kilometers of the United States."
+    },
+    {
+      "question": "What is notable about China's trade partners?",
+      "answer": "China stands out for trading more with geopolitically distant partners than any other economy, trading extensively across the globe, including with the EU, Japan, South Korea, and the United States."
+    },
+    {
+      "question": "What was the total goods trade in China equivalent to as a percentage of its GDP in 2022?",
+      "answer": "35 percent."
+    },
+    {
+      "question": "What percentage of Brazil's exports by value in 2022 were represented by five commodities?",
+      "answer": "Half."
+    },
+    {
+      "question": "What is notable about the trade geometry of larger economies?",
+      "answer": "They tend to trade over wider geopolitical distances."
+    },
+    {
+      "question": "What was the average geopolitical distance that goods traveled in 2021?",
+      "answer": "About the distance between Chile and the United States or China and Nigeria: 3.4 units apart on a geopolitical distance scale running from zero to ten."
+    },
+    {
+      "question": "Why do countries like Brazil, India, and Mexico trade over geopolitical distances similar to the global average?",
+      "answer": "Because their trade is mostly with economies at either pole of the spectrum."
+    },
+    {
+      "question": "What percentage of global goods trade flows among economies that sit between two and eight on the zero-to-ten geopolitical distance scale?",
+      "answer": "Only 8 percent."
+    },
+    {
+      "question": "What percentage of trade in globally concentrated goods is between more geopolitically distant partners?",
+      "answer": "Nearly 40 percent."
+    },
+    {
+      "question": "What percentage of trade in globally concentrated goods is between more geopolitically distant partners?",
+      "answer": "Nearly 40 percent."
+    },
+    {
+      "question": "What percentage of global goods trade is between more geopolitically distant economies?",
+      "answer": "Nearly 20 percent."
+    },
+    {
+      "question": "How is geopolitical distance measured in the context of global trade?",
+      "answer": "On a 0-10 scale, calculated by principal component analysis of UN General Assembly voting records in 2005\u201322."
+    },
+    {
+      "question": "What is an example of a large economy that has a significant trade relationship with a geopolitically distant partner?",
+      "answer": "Germany, which relied heavily on Russia's exports of energy products."
+    },
+    {
+      "question": "What products are examples of globally concentrated products traveling above-average geopolitical distances?",
+      "answer": "Iron ore, soybeans, flat-panel-display manufacturing equipment, laptops, cell phones, and computer monitors."
+    },
+    {
+      "question": "Which country is the world's largest soybean importer?",
+      "answer": "China."
+    },
+    {
+      "question": "What is China's role in global trade, as indicated by the flow of globally concentrated products?",
+      "answer": "China is a global processing hub, with almost 20 percent of all flows of globally concentrated products going to China."
+    },
+    {
+      "question": "Which country is the world's largest soybean importer?",
+      "answer": "China."
+    },
+    {
+      "question": "Where do the majority of China's soybean imports come from?",
+      "answer": "The United States and Brazil."
+    },
+    {
+      "question": "What percentage of Australia's iron ore exports flow to China?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What is China's role in global trade, as indicated by the flow of laptops, cell phones, and computer monitors?",
+      "answer": "China is a global processing hub."
+    },
+    {
+      "question": "What percentage of global goods trade is between geopolitically distant economies?",
+      "answer": "Nearly 20 percent."
+    },
+    {
+      "question": "Which country is the main supplier of neodymium magnets to Germany, South Korea, and the United States?",
+      "answer": "China."
+    },
+    {
+      "question": "Why is trade in globally concentrated products being scrutinized?",
+      "answer": "Because it may pose higher risk due to reliance on geopolitically distant partners."
+    },
+    {
+      "question": "What percentage of all flows of globally concentrated products go to China?",
+      "answer": "Almost 20 percent."
+    },
+    {
+      "question": "What percentage of all flows of globally concentrated products come out of China?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What percentage of global goods trade is between geopolitically distant economies?",
+      "answer": "Nearly 20 percent."
+    },
+    {
+      "question": "What percentage of trade in globally concentrated products is between geopolitically more distant economies?",
+      "answer": "Nearly 40 percent."
+    },
+    {
+      "question": "How is the geopolitical position of an economy calculated?",
+      "answer": "By principal component analysis of UN General Assembly (UNGA) voting records between 2005 and 2022."
+    },
+    {
+      "question": "What is considered a globally concentrated supply market?",
+      "answer": "A global supply market with an HHI greater than 3,000, typically indicating that three or fewer economies supply 90 percent or more of the global export market."
+    },
+    {
+      "question": "What percentage of concentrated product trade at the economy level is between geopolitically more distant economies?",
+      "answer": "Around 13 percent."
+    },
+    {
+      "question": "What percentage of trade in products that are not concentrated is between geopolitically more distant economies?",
+      "answer": "Around 15 percent."
+    },
+    {
+      "question": "How is the geopolitical position of an economy calculated?",
+      "answer": "By principal component analysis of UN General Assembly (UNGA) voting records between 2005 and 2022."
+    },
+    {
+      "question": "What is considered 'geopolitically distant' in terms of the geopolitical position scale?",
+      "answer": "More than 8 units apart on a 0\u201310 scale of geopolitical position."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "UN Comtrade; Voeten (2017) and UN Digital Library; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "How is the geopolitical position of an economy calculated?",
+      "answer": "The geopolitical position of an economy is calculated by principal component analysis of UN General Assembly (UNGA) voting records between 2005 and 2022."
+    },
+    {
+      "question": "What percentage of trade in non-concentrated products is between geopolitically distant economies?",
+      "answer": "Around 15 percent."
+    },
+    {
+      "question": "How is geopolitical distance defined in the context of trade?",
+      "answer": "Geopolitically distant partners are defined as those with a geopolitical distance greater than 8 on a scale of 0\u201310, based on principal component analysis of UN General Assembly voting records, 2005\u201322."
+    },
+    {
+      "question": "What is the significance of neodymium magnets in the energy transition?",
+      "answer": "Magnets made from neodymium are vital to the energy transition, used increasingly in EV motors and offshore wind turbines."
+    },
+    {
+      "question": "What is the economic impact of neodymium magnets?",
+      "answer": "On average, $1 of neodymium magnets enables $600 of economic output."
+    },
+    {
+      "question": "What is the average economic output enabled by $1 of neodymium magnets?",
+      "answer": "$600."
+    },
+    {
+      "question": "How much neodymium is required in a hard-disk drive's actuator arm?",
+      "answer": "About four grams."
+    },
+    {
+      "question": "What percentage of global neodymium mining is accounted for by China?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What percentage of neodymium magnet manufacturing is accounted for by China?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "Why are some EV manufacturers moving to alternatives to neodymium magnets?",
+      "answer": "To reduce their exposure to the risk posed by the high concentration of neodymium magnet supply."
+    },
+    {
+      "question": "Have the United States and South Korea been successful in diversifying their neodymium magnet supply away from China?",
+      "answer": "No, the share of neodymium magnets imported from China by these economies remained stable in 2023."
+    },
+    {
+      "question": "Since 2017, have individual countries gained or lost more than 1 percentage point of annualized global export share in any given value chain?",
+      "answer": "No, no economy has gained or lost more than 1 percentage point."
+    },
+    {
+      "question": "What has happened to the geopolitical distance of trade for China, Germany, the United Kingdom, and the United States since 2017?",
+      "answer": "They have reduced the geopolitical distance of their trade."
+    },
+    {
+      "question": "Has the United States been nearshoring its trade relations?",
+      "answer": "The United States is a relative outlier in shifting some of its trade toward geographically closer partners, but the extent of this shift is less pronounced than the shift toward geopolitically closer partners."
+    },
+    {
+      "question": "Have other economies besides the United States shown substantial evidence of nearshoring or diversification of trade relations?",
+      "answer": "No, others have not shown substantial evidence of nearshoring or diversification."
+    },
+    {
+      "question": "What has happened to the United States' trade partners in terms of diversification between 2017 and 2023?",
+      "answer": "The United States has materially shifted to a more diverse set of trade partners."
+    },
+    {
+      "question": "What is the trend in geographic distance of trade for most economies analyzed between 2017 and 2023?",
+      "answer": "Their trade has often been traveling farther on average."
+    },
+    {
+      "question": "How has China's trade geometry reoriented between 2017 and 2023?",
+      "answer": "China's trade geometry has reoriented toward developing economies around the world."
+    },
+    {
+      "question": "What is the change in China's geopolitical distance of trade between 2017 and 2023?",
+      "answer": "The data for China's geopolitical distance is not directly stated, but the geopolitical distance for China is not explicitly mentioned; however, the average geopolitical distance of trade for various regions with China is shown in Exhibit 7A."
+    },
+    {
+      "question": "How is geopolitical distance measured in the given data?",
+      "answer": "Geopolitical distance measures the value-weighted average trade partner distance based on analysis of UN General Assembly voting patterns between 2005 and 2022."
+    },
+    {
+      "question": "What is the trend in trade intensity for the US between 2017 and 2023?",
+      "answer": "The trade intensity for the US decreased by 3 percentage points between 2017 and 2023."
+    },
+    {
+      "question": "How has the United States changed its import share from China between 2017 and 2023?",
+      "answer": "The United States has decreased its import share from China by 5.8 percentage points between 2017 and 2023."
+    },
+    {
+      "question": "What was the change in Germany's trade share with Russia between 2017 and 2023?",
+      "answer": "Germany's trade share with Russia dropped by 2.0 percentage points between 2017 and 2023."
+    },
+    {
+      "question": "How is the average geopolitical distance of trade calculated?",
+      "answer": "The average geopolitical distance of trade is calculated by principal component analysis of UN General Assembly (UNGA) voting records in 2005\u201322, reduced to a 0\u201310 scale."
+    },
+    {
+      "question": "What type of UNGA votes are excluded from the analysis for the years 2005-21?",
+      "answer": "Votes not designated as 'important' in 'Voting practices in the United Nations' by the US Department of State are excluded from the analysis for the years 2005-21."
+    },
+    {
+      "question": "What was included in the UNGA votes for the year 2022?",
+      "answer": "Votes addressing the war in Ukraine were included in the UNGA votes for the year 2022."
+    },
+    {
+      "question": "How is the average geopolitical distance of trade calculated?",
+      "answer": "It is calculated by principal component analysis of UN General Assembly (UNGA) voting records in 2005\u201322, reduced to a 0\u201310 scale."
+    },
+    {
+      "question": "What type of UNGA votes are excluded from the analysis for the years 2005-21?",
+      "answer": "Votes not designated as 'important' in 'Voting practices in the United Nations' by the US Department of State are excluded."
+    },
+    {
+      "question": "What change occurred in US and UK trade with Russia in 2022 and 2023?",
+      "answer": "US and UK trade with Russia dropped in 2022 and 2023."
+    },
+    {
+      "question": "How has Germany's share of UK trade changed over time?",
+      "answer": "Germany's share of UK trade has been falling for longer than the drop in US and UK trade with Russia."
+    },
+    {
+      "question": "What was the change in India's trade with Russia between 2017 and 2023?",
+      "answer": "India is trading more with Russia, with trade increases focused on imports of energy resources."
+    },
+    {
+      "question": "For the year 2022, what type of UNGA votes were included in the analysis?",
+      "answer": "Votes addressing the war in Ukraine were included for the year 2022."
+    },
+    {
+      "question": "How is the average geopolitical distance of trade calculated?",
+      "answer": "It is calculated by principal component analysis of UN General Assembly (UNGA) voting records in 2005\u201322, reduced to a 0\u201310 scale."
+    },
+    {
+      "question": "What type of UNGA votes are excluded from the analysis for 2005-21?",
+      "answer": "Votes not designated as 'important' in 'Voting practices in the United Nations,' US Department of State."
+    },
+    {
+      "question": "What is notable about India's trade with Russia between 2017 and 2023?",
+      "answer": "India is trading more with Russia, with trade increases focused on imports of energy resources."
+    },
+    {
+      "question": "What drove Brazil's surging trade with China between 2017 and 2023?",
+      "answer": "Brazil's growing exports of agricultural commodities."
+    },
+    {
+      "question": "For the year 2022, what type of UNGA votes are included in the analysis?",
+      "answer": "Votes addressing the war in Ukraine."
+    },
+    {
+      "question": "How has Brazil's trade with China changed between 2017 and 2023?",
+      "answer": "Brazil's trade with China has surged, driven in part by Brazil's growing exports of agricultural commodities."
+    },
+    {
+      "question": "What was the change in China's share of US manufactured goods imports between 2017 and 2023?",
+      "answer": "China's share of US manufactured goods imports fell from 24 percent to 15 percent."
+    },
+    {
+      "question": "Which sector experienced the largest drop in China's share of US imports between 2017 and 2023?",
+      "answer": "Electronics was the sector with the largest drop in share, from almost 50 percent to about 30 percent."
+    },
+    {
+      "question": "Which country experienced the most marked increase in share of US electronics imports?",
+      "answer": "Vietnam experienced the most marked increase in share of US imports in this sector."
+    },
+    {
+      "question": "What has been the net effect on US goods trade due to the diversification of US imports away from China?",
+      "answer": "The net effects have been a sharp decrease in concentration of US imports, a 10 percent shortening of geopolitical distance, and a 3 percent reduction in geographic distance."
+    },
+    {
+      "question": "How is the average geopolitical distance of trade calculated?",
+      "answer": "It is calculated by principal component analysis of UN General Assembly (UNGA) voting records in 2005\u201322, reduced to a 0\u201310 scale."
+    },
+    {
+      "question": "Which country experienced the most marked increase in share of US imports?",
+      "answer": "Vietnam."
+    },
+    {
+      "question": "What happened to China's share of US imports of laptops and cell phones in 2022 and 2023?",
+      "answer": "China's share of US imports of these products still fell."
+    },
+    {
+      "question": "What was the change in China's share of foreign value added in US final consumption between 2017 and 2020?",
+      "answer": "China's share increased slightly, from 24 to 25 percent."
+    },
+    {
+      "question": "Which country became the United States' largest import partner in 2023?",
+      "answer": "Mexico."
+    },
+    {
+      "question": "What was the change in Mexico's share of US transportation equipment imports between 2017 and 2023?",
+      "answer": "Mexico's share rose from 26 to 32 percent."
+    },
+    {
+      "question": "By how much did trade between the EU and Russia drop between February 2022 and September 2023?",
+      "answer": "Around 80 percent."
+    },
+    {
+      "question": "What was the change in Russia's share of Germany's natural gas imports between January 2022 and 2023?",
+      "answer": "Russia's share fell from around 35 percent to less than 1 percent."
+    },
+    {
+      "question": "What happened to Russia's share of Germany's natural gas imports between January 2022 and 2023?",
+      "answer": "Russia's share of Germany's natural gas imports fell from around 35 percent in January 2022 to less than 1 percent in 2023."
+    },
+    {
+      "question": "Who did Germany shift its natural gas imports to after reducing imports from Russia?",
+      "answer": "Germany shifted its natural gas imports notably to Norway, supplemented by liquefied natural gas from the United States."
+    },
+    {
+      "question": "What happened to Germany's imports of electronics from China between 2017 and 2023?",
+      "answer": "The share of Germany's imports of electronics from China grew from 24 to 30 percent between 2017 and 2023."
+    },
+    {
+      "question": "What was the trend in Germany's trade distances between 2017 and 2023?",
+      "answer": "Germany's trade distances increased between 2017 and 2023."
+    },
+    {
+      "question": "How did China's trade with ASEAN economies change between 2017 and 2023?",
+      "answer": "China witnessed a rise in export share to ASEAN economies between 2017 and 2023."
+    },
+    {
+      "question": "What happened to China's share of exports bound for the United States between 2017 and 2023?",
+      "answer": "China witnessed a decline in its share of exports bound for the United States between 2017 and 2023, partly due to trade tariffs."
+    },
+    {
+      "question": "Where did China's imports shift towards between 2017 and 2023?",
+      "answer": "China's imports shifted away from Japan and South Korea, and toward ASEAN economies, Latin America, and the Middle East, along with Russia."
+    },
+    {
+      "question": "What was the change in China's goods imports from developing economies between 2017 and 2023?",
+      "answer": "Developing economies accounted for just over half of China's goods trade in 2023, up from 42 percent in 2017."
+    },
+    {
+      "question": "Where did China's exports shift to between 2017 and 2023?",
+      "answer": "ASEAN economies and Europe."
+    },
+    {
+      "question": "What happened to China's imports from Japan and South Korea between 2017 and 2023?",
+      "answer": "China's imports shifted away from Japan and South Korea."
+    },
+    {
+      "question": "What was the trend in China's imports from Indonesia between 2017 and 2023?",
+      "answer": "China's imports of ferronickel from Indonesia boomed, rising from under $2 billion in 2017 to more than $12 billion in the first 10 months of 2023."
+    },
+    {
+      "question": "Is Australia an example of a country that follows or contradicts China's general trend of shifting trade toward developing economies?",
+      "answer": "Australia is an exception to China's general trend of shifting trade toward developing economies, as it gained share of China's imports between 2017 and 2023."
+    },
+    {
+      "question": "How did China's trade with Latin America and the Middle East change between 2017 and 2023?",
+      "answer": "China's imports shifted toward Latin America and the Middle East."
+    },
+    {
+      "question": "What was the change in the share of China's exports bound for the United States between 2017 and 2023?",
+      "answer": "The share of China's exports that go to the US has been falling."
+    },
+    {
+      "question": "What has been the trend in China's exports to the US between 2017 and 2023?",
+      "answer": "The share of China's exports that go to the US has been falling."
+    },
+    {
+      "question": "Which country has gained share of China's imports between 2017 and 2023?",
+      "answer": "Australia gained share of China's imports between 2017 and 2023."
+    },
+    {
+      "question": "What percentage of China's iron ore imports by value came from Australia by 2023?",
+      "answer": "By 2023, Australia accounted for 64 percent of China's iron ore imports by value."
+    },
+    {
+      "question": "What has been the role of Chinese companies in Indonesia's nickel industry?",
+      "answer": "Chinese companies have been active in the development of Indonesia's nickel industry and in investing in facilities in Indonesia that can process lower-grade nickel into battery-grade products."
+    },
+    {
+      "question": "What may be the impact of China's investment in lithium assets between 2018 and 2021?",
+      "answer": "China invested twice as much as Australia, Canada, and the United States combined to acquire lithium assets between 2018 and 2021, which may reduce its interdependence on Australia for lithium imports in the future."
+    },
+    {
+      "question": "What percentage of Australia's exports go to China?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "How much did China invest to acquire lithium assets between 2018 and 2021 compared to Australia, Canada, and the United States combined?",
+      "answer": "Twice as much."
+    },
+    {
+      "question": "What is the potential outcome for Guinea's iron ore mine developed by a joint venture including Chinese and global stakeholders?",
+      "answer": "It may become the world's third-largest iron ore exporter."
+    },
+    {
+      "question": "What percentage of greenfield cross-border investment has flowed to developing economies each year since 2010?",
+      "answer": "Roughly 60 percent."
+    },
+    {
+      "question": "What has happened to announced investment into China and Russia?",
+      "answer": "It has declined substantially - by 67 percent for Greater China and 98 percent for Russia."
+    },
+    {
+      "question": "Where is China's announced outbound greenfield investment destined to go between 2022 and 2023?",
+      "answer": "More than $100 billion, or more than 70 percent of total announcements annually, is destined for Africa, ASEAN, Central Asia and the Middle East, and developing economies in Europe."
+    },
+    {
+      "question": "Which African countries have seen the largest gains in investment?",
+      "answer": "Morocco and Egypt."
+    },
+    {
+      "question": "What has driven the surge in investment announcements into India?",
+      "answer": "Economies spanning Asia, the United States, and Europe."
+    },
+    {
+      "question": "What was the average annual announced investment into the Democratic Republic of the Congo, Kenya, and Uganda in 2022\u201323?",
+      "answer": "$15 billion."
+    },
+    {
+      "question": "How did announced US greenfield investment into China change in 2022\u201323 compared to the 2015\u201319 average?",
+      "answer": "It fell by 70 percent."
+    },
+    {
+      "question": "What was the change in announced US investment into ASEAN in 2022\u201323 compared to the 2015\u201319 average?",
+      "answer": "It almost doubled."
+    },
+    {
+      "question": "How did Europe's announced greenfield investment into China change in 2022\u201323 compared to prepandemic averages?",
+      "answer": "It was nearly 50 percent lower."
+    },
+    {
+      "question": "What was the change in intra-European greenfield announcements in 2022\u201323 relative to prepandemic averages?",
+      "answer": "They surged, almost doubling."
+    },
+    {
+      "question": "By how much did announced investment into Ethiopia, Ghana, and Nigeria fall in 2022\u201323 compared to prepandemic averages?",
+      "answer": "More than 35 percent."
+    },
+    {
+      "question": "What was the trend in global announced investment into Mexico in 2023 compared to 2022?",
+      "answer": "It is on course to be about 30 percent lower."
+    },
+    {
+      "question": "How did Germany's greenfield investment announcements for economies such as Italy, Portugal, and Romania change in 2022 and 2023 relative to prepandemic averages?",
+      "answer": "They more than doubled."
+    },
+    {
+      "question": "What was the percentage change in average annual cross-border greenfield investment inflows into India in 2022\u201323 compared to 2015\u201319?",
+      "answer": "109%."
+    },
+    {
+      "question": "How did announced investment from China into Mexico change relative to prepandemic averages?",
+      "answer": "It more than doubled."
+    },
+    {
+      "question": "What are the two types of reconfiguration examined to explore potential economic and trade outcomes?",
+      "answer": "The two types of reconfiguration examined are trade fragmentation driven by heightened trade frictions between geopolitically distant economies and diversification, which involves reducing import concentration without a geopolitical lens."
+    },
+    {
+      "question": "How would overall trade connections between countries look in a fragmented world compared to under diversification?",
+      "answer": "Overall trade connections between countries would look very different in a fragmented world but would remain quite similar to today under diversification, with shifts occurring across specific value chains."
+    },
+    {
+      "question": "What happens to trade between Eastern and Western groups in more critical goods and services in a fragmentation reconfiguration?",
+      "answer": "In a fragmentation reconfiguration, trade between Eastern and Western groups in more critical goods and services drops by around 90 percent."
+    },
+    {
+      "question": "What is the significance of the circle size and line thickness in Exhibits 12A and 12B?",
+      "answer": "The circle size is proportional to total exports and the line thickness is proportional to bilateral trade value."
+    },
+    {
+      "question": "What was the share of trade between Eastern and Western groups as a share of global trade for more critical goods and services in 2022?",
+      "answer": "Trade between Eastern and Western groups as a share of global trade for more critical goods and services was 15% in 2022."
+    },
+    {
+      "question": "What does the exhibit represent in terms of trade corridors for critical goods and services?",
+      "answer": "The 20 largest trade corridors for critical goods and services in 2022 and 2035 by value."
+    },
+    {
+      "question": "What happens to trade between Eastern and Western groups in critical goods and services in a fragmentation reconfiguration?",
+      "answer": "Trade between Eastern and Western groups drops by around 90 percent."
+    },
+    {
+      "question": "What is the share of global trade between Eastern and Western groups for critical goods and services in a fragmentation reconfiguration?",
+      "answer": "2%"
+    },
+    {
+      "question": "What model was used to generate the trade reconfigurations to 2035?",
+      "answer": "The Global Trade Analysis Project (GTAP), a computable general equilibrium model."
+    },
+    {
+      "question": "How does the macro trade map change in the type of diversification reconfiguration considered?",
+      "answer": "The macro trade map is largely preserved relative to 2022."
+    },
+    {
+      "question": "What is the share of global exports by Mid-aligned economies for critical goods and services in a diversification reconfiguration?",
+      "answer": "16%"
+    },
+    {
+      "question": "What is represented in the exhibit?",
+      "answer": "The 20 largest trade corridors for critical goods and services in 2035 by value."
+    },
+    {
+      "question": "What model was used to generate illustrative trade reconfigurations to 2035?",
+      "answer": "The Global Trade Analysis Project (GTAP), a widely employed, computable general equilibrium model."
+    },
+    {
+      "question": "How many economy groups emerged from the algorithmic clustering?",
+      "answer": "Three groups: a Western group, an Eastern group, and a 'mid-aligned' group."
+    },
+    {
+      "question": "What was the tariff rate simulated between Western and Eastern group economies for critical goods and services?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "How was product criticality assessed?",
+      "answer": "Based on a bottom-up assessment of about 5,500 products against large economies' stated strategic objectives and expert interviews."
+    },
+    {
+      "question": "What was the total value of global goods trade diversified in the 'Diversification' scenario?",
+      "answer": "About $1.3 trillion, or about 5 percent of all global goods trade."
+    },
+    {
+      "question": "What was the total value of global goods trade diversified?",
+      "answer": "About $1.3 trillion."
+    },
+    {
+      "question": "What percentage of all global goods trade was diversified?",
+      "answer": "About 5 percent."
+    },
+    {
+      "question": "What is one of the limitations of the GTAP model?",
+      "answer": "The GTAP model cannot identify product-level linkages between economies because sectoral resolution is limited."
+    },
+    {
+      "question": "Why may the GTAP model overestimate the substitutability of output from different economies?",
+      "answer": "Because it considers products within the same sector to be substitutable, even if they are different products."
+    },
+    {
+      "question": "What is an example given of the GTAP model's limitation in terms of product substitutability?",
+      "answer": "Iron ore from Australia being considered substitutable by copper from Peru because both are in the minerals sector."
+    },
+    {
+      "question": "What is another limitation of the GTAP model?",
+      "answer": "The model may not capture the potential real-world price impact of switching between producers."
+    },
+    {
+      "question": "Why may the GTAP model unduly favor existing major suppliers?",
+      "answer": "Because it replaces reduced imports from one partner with imports from existing partners proportional to their pre-shock shares."
+    },
+    {
+      "question": "What threshold was used for the Herfindahl\u2013Hirschman Index to indicate geographic import concentration?",
+      "answer": "3,000."
+    },
+    {
+      "question": "What was used by the US Geological Survey as part of its criticality assessment?",
+      "answer": "An HHI of more than 2,500."
+    },
+    {
+      "question": "What percentage of the total global reconfiguration is represented by the 300 flows containing the most concentrated products by value?",
+      "answer": "Around 70 percent."
+    },
+    {
+      "question": "By how much does the share of global trade between Eastern group and Western group economies fall by 2035 in the fragmentation case?",
+      "answer": "70 percent."
+    },
+    {
+      "question": "What is the impact on long-run global GDP in the fragmentation case?",
+      "answer": "Reduced by about 1.5 percent."
+    },
+    {
+      "question": "What was the impact of the global pandemic on global GDP in 2020?",
+      "answer": "About 5 percent."
+    },
+    {
+      "question": "Where does the Western group tend to reorient their trade relations?",
+      "answer": "Inward, with other Western group economies."
+    },
+    {
+      "question": "What happens to the share of Eastern group trade with Western group economies in the fragmentation case?",
+      "answer": "It falls to about 15 percent."
+    },
+    {
+      "question": "What is the new share of Eastern group trade with mid-aligned economies?",
+      "answer": "Almost half, up from just over 30 percent today."
+    },
+    {
+      "question": "What percentage of Eastern group trade is represented by mid-aligned economies in the future?",
+      "answer": "Almost half."
+    },
+    {
+      "question": "What is the change in mid-aligned economies' share of electrical equipment imports from the Eastern group?",
+      "answer": "The share rises from 34 percent today to nearly 50 percent."
+    },
+    {
+      "question": "How many sectors is China the world's largest exporter in?",
+      "answer": "16 out of 43 sectors."
+    },
+    {
+      "question": "What happens to China's share of its trade partners' imports in sectors where it is a concentrated supplier?",
+      "answer": "China loses share."
+    },
+    {
+      "question": "What is the total value of flows from China that are diversified to new partners?",
+      "answer": "About $700 billion."
+    },
+    {
+      "question": "What is the percentage of China's total exports that is diversified to new partners?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "What is the impact of diversification reconfiguration on China's GDP?",
+      "answer": "GDP falls by about 1 percent."
+    },
+    {
+      "question": "How does the GDP impact of diversification reconfiguration compare to fragmentation?",
+      "answer": "The GDP impact is substantially lower, with a 1 percent fall compared to 6 percent in fragmentation."
+    },
+    {
+      "question": "What happens to mid-aligned economies with substantial existing supply relationships in the reconfiguration illustration?",
+      "answer": "They gain share and have an opportunity to scale in diversification."
+    },
+    {
+      "question": "What is the effect of fragmentation on interdependence between geopolitically distant partners?",
+      "answer": "Fragmentation may reduce interdependence between geopolitically distant partners."
+    },
+    {
+      "question": "What happens to China's geopolitical distance of trade in the fragmentation geometry?",
+      "answer": "It falls by 40 percent relative to today."
+    },
+    {
+      "question": "What is the result of China's reorientation towards developing economies in the fragmentation geometry?",
+      "answer": "China could be less exposed to geopolitical shocks but more exposed to other supply shocks and economic downside."
+    },
+    {
+      "question": "By how much does trade between China and Russia increase by 2035 relative to today in the fragmentation geometry?",
+      "answer": "More than doubles."
+    },
+    {
+      "question": "What is the change in trade intensity for the global economy under the fragmentation path?",
+      "answer": "-1 percentage point."
+    },
+    {
+      "question": "What is the effect of diversification on the export mix of China?",
+      "answer": "Diversification substantially shifts the export mix."
+    },
+    {
+      "question": "By how much does trade between China and Russia increase by 2035 relative to today?",
+      "answer": "More than doubles."
+    },
+    {
+      "question": "What happens to China's import concentration in the fragmentation scenario?",
+      "answer": "China's import concentration would rise by 42 percent relative to today."
+    },
+    {
+      "question": "How much does China's trade share of GDP fall in the fragmentation scenario?",
+      "answer": "11 percentage points, from 39 percent today to 28 percent."
+    },
+    {
+      "question": "By how much does China's GDP fall in the fragmentation scenario?",
+      "answer": "About 6 percent."
+    },
+    {
+      "question": "What is the effect of diversification geometry on China's geopolitical distance of trade?",
+      "answer": "A 7 percent reduction relative to today."
+    },
+    {
+      "question": "How does Germany's import concentration change in the fragmentation geometry?",
+      "answer": "Increases 6 percent overall."
+    },
+    {
+      "question": "What happens to the United States' import concentration in the fragmentation geometry?",
+      "answer": "Falls 7 percent."
+    },
+    {
+      "question": "By how much does the average geopolitical distance of Western group trade fall in fragmentation?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "How does import concentration change in the United States under the diversification geometry?",
+      "answer": "Import concentration falls by 7 percent, and for US imports of electrical equipment, concentration falls by more than 20 percent."
+    },
+    {
+      "question": "What is the effect of fragmentation on US prices in sectors where it has moved away from China to alternative suppliers?",
+      "answer": "US prices have increased up to 9 percent."
+    },
+    {
+      "question": "What percentage of global GDP is represented by the Western group?",
+      "answer": "About 60 percent."
+    },
+    {
+      "question": "How does import concentration change for mid-aligned economies in the fragmentation geometry?",
+      "answer": "Import concentration rises 13 percent."
+    },
+    {
+      "question": "For mid-aligned economies like Brazil and India, what happens to the share of electrical equipment imports from China in the fragmentation geometry?",
+      "answer": "The share rises by 14 percentage points, driving an increase in import concentration of almost 30 percent."
+    },
+    {
+      "question": "What is the overall economic downside for the Western group compared to the Eastern group in the fragmentation geometry?",
+      "answer": "The overall economic downside is smaller for the Western group than the Eastern group."
+    },
+    {
+      "question": "Do mid-aligned economies experience increased trade participation or accelerated growth in the fragmentation or diversification geometries?",
+      "answer": "No, most mid-aligned economies do not experience increased trade participation or accelerated growth."
+    },
+    {
+      "question": "What is the effect of fragmentation on import concentration for economies like Brazil and India?",
+      "answer": "The share of electrical equipment imports from China rises by 14 percentage points, driving an increase in import concentration of almost 30 percent."
+    },
+    {
+      "question": "How does the diversification geometry affect mid-aligned economies' import concentration?",
+      "answer": "Mid-aligned economies reduce their import concentration by 18 percent."
+    },
+    {
+      "question": "What happens to the average trade intensity of mid-aligned economies in both illustrations?",
+      "answer": "The average trade intensity of mid-aligned economies falls by four percentage points relative to today."
+    },
+    {
+      "question": "Why don't mid-aligned economies see a substantial rise in global exports share?",
+      "answer": "Trade relations tend to be diversified to a range of existing major supplier economies, and China may be able to gain more export share than mid-aligned economies."
+    },
+    {
+      "question": "What measures could help achieve improved outcomes for mid-aligned developing economies?",
+      "answer": "Sustained foreign and domestic investment into productive industries, supportive trade policies, infrastructure development, and upskilling of human capital and capabilities as well as institutional enablers."
+    },
+    {
+      "question": "How should business leaders prepare for the future of global trade?",
+      "answer": "Business leaders need to prepare for an uncertain world and can contribute to shaping the future geometry of global trade by taking actions such as establishing an insights edge."
+    },
+    {
+      "question": "What is the role of MNCs in shaping the geometry of global trade?",
+      "answer": "The collective decisions of MNCs have already played a significant part in the shifts in the geometry of global trade observed thus far, and they will influence the path ahead through the choices they make on supply chains, production, and markets."
+    },
+    {
+      "question": "What percentage of companies have visibility into their supply base beyond the second tier?",
+      "answer": "Only 2 percent."
+    },
+    {
+      "question": "What are business leaders advised to develop to gain a competitive edge in the ever-evolving landscape of trade?",
+      "answer": "A granular view of their own company, of other companies, and of the global context in which they are doing business."
+    },
+    {
+      "question": "What are some key indicators that business leaders should track to monitor the world for shifts in global trade?",
+      "answer": "Geopolitical tensions, trade controls, regulatory shifts, tightness in the labor market for specific skills, and changing macroeconomic conditions."
+    },
+    {
+      "question": "What is the purpose of scenario planning in the context of global trade?",
+      "answer": "To unveil potential trade shifts and disruptions, emphasizing considerations crucial to the geometry of trade."
+    },
+    {
+      "question": "What are some examples of strategic actions that companies can take in anticipation of shifts in global trade?",
+      "answer": "Shifting supply chains, production locations, or end markets; building additional capacity in established or new markets; and pursuing acquisitions to reshape their global footprint."
+    },
+    {
+      "question": "What is required for businesses to make informed decisions about their global footprint?",
+      "answer": "A clear information baseline and a suite of scenarios provide the groundwork for action."
+    },
+    {
+      "question": "What are 'real options' in the context of geopolitics and global trade?",
+      "answer": "Some actions that require initial commitment but offer the opportunity to double down boldly if circumstances merit, such as investing in new technologies or products, exploring partnerships or joint ventures, and developing alternative supply networks."
+    },
+    {
+      "question": "What is meant by 'insurance' actions in the context of geopolitics and global trade?",
+      "answer": "Actions that require limited commitment and may prove to be unnecessary, but might make a big difference in unlikely but profound scenarios, such as holding strategic inventories or executing contracts for backup supply."
+    },
+    {
+      "question": "What capabilities should executives and their teams develop to navigate geopolitical uncertainty?",
+      "answer": "Understanding of geopolitical realities, which includes developing a grasp of context, nuance, and business implications, and can be achieved through direct recruiting of talent, investing in skills, and continuous engagement on related topics."
+    },
+    {
+      "question": "What is required for companies to support geopolitically informed decision making?",
+      "answer": "Both the 'muscle' of executive and board capabilities and the 'bone' of processes and systems, such as enhanced instrumentation like digital early-warning systems and risk dashboards, and strategic planning processes that incorporate geopolitical considerations."
+    },
+    {
+      "question": "Why is cooperation important in the context of global trade?",
+      "answer": "A broad and diversified web of trade connections will not be achievable without cooperation, and it can help promote a more inclusive trading system and economy."
+    },
+    {
+      "question": "What is the imperative for business leaders in the current state of uncertainty?",
+      "answer": "To be prepared for a range of potential shifts in the geometry of trade and to have a strategy in place to help shape a new architecture to match an evolving world."
+    },
+    {
+      "question": "Who led the research for the report on global trade?",
+      "answer": "The research was led by Jeongmin Seong, Olivia White, Michael Birshan, Lola Woetzel, Camillo Lamanna, Jeffrey Condon, and Tiago Devesa."
+    },
+    {
+      "question": "What is the name of the interactive digital guide to world trade published by MGI?",
+      "answer": "The Global Trade Explorer."
+    },
+    {
+      "question": "When was the report 'Global flows: The ties that bind in an interconnected world' published?",
+      "answer": "November 2022."
+    },
+    {
+      "question": "Who are the MGI advisers that provided guidance for the research?",
+      "answer": "Hans-Helmut Kotz, Matthew Slaughter, and Alan M. Taylor."
+    },
+    {
+      "question": "What is the mission of the research conducted by MGI?",
+      "answer": "To help business and policy leaders understand the forces transforming the global economy."
+    },
+    {
+      "question": "Who sponsors MGI research?",
+      "answer": "MGI research is independent and has not been commissioned or sponsored by any business, government, or other institution."
+    },
+    {
+      "question": "What was the source of the information about Mexico becoming the biggest US trading partner?",
+      "answer": "Bloomberg, in an article titled 'Mexico's moment: The biggest US trading partner is no longer China' by Maya Averbuch and Leda Alvim, dated September 12, 2023."
+    },
+    {
+      "question": "What is the definition of concentration used in the report?",
+      "answer": "Concentration is defined as supply concentration with a Herfindahl\u2013Hirschman Index greater than 3,000."
+    },
+    {
+      "question": "What is the time frame for the 2023 trade data used in the report?",
+      "answer": "The most recent available from official public sources, typically through September or October 2023."
+    },
+    {
+      "question": "What does 'China' refer to in the report unless otherwise specified?",
+      "answer": "Mainland China."
+    },
+    {
+      "question": "What was the trend in the use of onshoring, reshoring, and nearshoring according to the International Monetary Fund?",
+      "answer": "There was an increase in the use of onshoring, reshoring, and nearshoring."
+    },
+    {
+      "question": "How did the share of China in EU imports change from 2017 to 2023, excluding intra-EU trade?",
+      "answer": "The text does not directly state the change excluding intra-EU trade, but including intra-EU trade, China accounted for 8 percent of EU imports in 2023, up from 7 percent in 2017."
+    },
+    {
+      "question": "What was the percentage of EU imports accounted for by China in 2023, including intra-EU trade?",
+      "answer": "8 percent"
+    },
+    {
+      "question": "What was the source of greenfield investment announcements used in the data?",
+      "answer": "fDi Markets"
+    },
+    {
+      "question": "What was the trend in China's investment into India, according to Harsh V. Pant?",
+      "answer": "declining"
+    },
+    {
+      "question": "Where did Chinese battery groups invest to serve Western markets, according to the Financial Times?",
+      "answer": "Morocco"
+    },
+    {
+      "question": "Relative to what baseline are the GDP reductions reported in the chapter?",
+      "answer": "a baseline continuation of global growth to 2035"
+    },
+    {
+      "question": "What was the result of reduced demand for Russia's exports from many Western economies?",
+      "answer": "India substantially increased imports of energy resources from Russia"
+    },
+    {
+      "question": "When did McKinsey & Company and the World Economic Forum collaborate on the Global Cooperation Barometer?",
+      "answer": "January 2024."
+    },
+    {
+      "question": "What is the first pillar of global cooperation in the Global Cooperation Barometer?",
+      "answer": "Trade and capital."
+    },
+    {
+      "question": "How many pillars of global cooperation are there in the Global Cooperation Barometer?",
+      "answer": "Five."
+    },
+    {
+      "question": "What are the other four pillars of global cooperation besides trade and capital?",
+      "answer": "Innovation and technology; climate and natural capital; health and wellness; and peace and security."
+    },
+    {
+      "question": "When was the report 'Geopolitics and the geometry of global trade' published by McKinsey Global Institute?",
+      "answer": "January 2024."
+    }
+  ]
+}

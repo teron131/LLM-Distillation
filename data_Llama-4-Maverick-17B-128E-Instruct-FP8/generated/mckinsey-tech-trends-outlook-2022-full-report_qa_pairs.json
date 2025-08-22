@@ -1,0 +1,2357 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences:\n\nThe McKinsey Technology Trends Outlook 2022 report identifies and analyzes 14 significant technology trends, grouped into two categories: Silicon Age (digital and IT technologies) and Engineering Tomorrow (physical technologies). The report finds that mature technologies like applied AI, advanced connectivity, and cloud computing are gaining traction, while sustainability-focused trends like clean energy and mobility are attracting significant investment. Emerging trends like industrializing machine learning and quantum technologies have potential but are still in early stages of development. The report notes that most industries are exposed to multiple technology trends, with sectors like automotive, manufacturing, and technology being closely connected to several trends.",
+  "qa_pairs": [
+    {
+      "question": "Who are the authors of the McKinsey Technology Trends Outlook 2022 report?",
+      "answer": "Michael Chui, Roger Roberts, and Lareina Yee."
+    },
+    {
+      "question": "How many technology trends were identified by the McKinsey Technology Council?",
+      "answer": "14."
+    },
+    {
+      "question": "What are the two thematic groups that the 14 technology trends are categorized into?",
+      "answer": "Silicon Age and Engineering Tomorrow."
+    },
+    {
+      "question": "What are the four technology trends that score highly on quantitative measures of innovation, interest, and investment?",
+      "answer": "Applied AI, advanced connectivity, future of bioengineering, and cloud and edge computing."
+    },
+    {
+      "question": "Which trends attracted the most investment according to the report?",
+      "answer": "The clean-energy and mobility trends."
+    },
+    {
+      "question": "What is the potential benefit of industrializing machine learning?",
+      "answer": "It can shorten the production time frame for ML applications by 90 percent."
+    },
+    {
+      "question": "By what percentage can industrializing machine learning (ML) shorten the production time frame for ML applications?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What was the technology trend with the highest innovation score in 2021?",
+      "answer": "Applied AI."
+    },
+    {
+      "question": "Which technology trend drew the most interest and investment in 2021?",
+      "answer": "Clean energy."
+    },
+    {
+      "question": "What is the McKinsey Technology Council focused on understanding?",
+      "answer": "What is coming and how it will affect us all, taking a \u201clook around the corner\u201d toward the futures that technology change can unlock as well as the tough questions it raises."
+    },
+    {
+      "question": "How many senior leaders from McKinsey are part of the diverse group involved with the McKinsey Technology Council?",
+      "answer": "More than 50."
+    },
+    {
+      "question": "What is the patent score based on?",
+      "answer": "A measure of patent filings."
+    },
+    {
+      "question": "Which sectors are closely connected to at least one trend and moderately to several others according to press coverage?",
+      "answer": "The automotive, manufacturing, telecommunications, and technology sectors."
+    },
+    {
+      "question": "What is the expected outcome of the changes brought about by technology trends in the years to come?",
+      "answer": "The changes will accelerate and intensify, altering the competitive landscape, reshaping markets, boosting productivity, spurring economic growth, and enhancing lives and livelihoods."
+    },
+    {
+      "question": "What is the 'combinatorial innovation' mentioned in the text?",
+      "answer": "The multiplying effect of different technologies coming together in creative ways."
+    },
+    {
+      "question": "Who are the authors of the text?",
+      "answer": "Michael Chui, Roger Roberts, and Lareina Yee."
+    },
+    {
+      "question": "What is the news score based on?",
+      "answer": "A measure of news publications."
+    },
+    {
+      "question": "How many trends are most industries associated with according to the text?",
+      "answer": "Five or more trends."
+    },
+    {
+      "question": "What is expected to happen as different technologies come together in creative ways?",
+      "answer": "The multiplying effect of 'combinatorial innovation'."
+    },
+    {
+      "question": "Who informed the authors about the effects of technology trends?",
+      "answer": "The members of the McKinsey Technology Council and their colleagues."
+    },
+    {
+      "question": "What is the purpose of publishing more about technology trends?",
+      "answer": "To discuss their effects on particular industries, companies' efforts to tap into them, and how business leaders can manage their implications."
+    },
+    {
+      "question": "How many technology trends are most industry sectors associated with?",
+      "answer": "Five or more."
+    },
+    {
+      "question": "Who estimated the relevance of technology trends to industries?",
+      "answer": "Industry experts."
+    },
+    {
+      "question": "What is the role of Michael Chui in McKinsey?",
+      "answer": "A McKinsey Global Institute partner in McKinsey's Bay Area office."
+    },
+    {
+      "question": "What measures did the team collect data on to assess the development of each technology trend?",
+      "answer": "The team collected data on five tangible measures of activity: search engine queries, news publications, patents, research publications, and investment."
+    },
+    {
+      "question": "What data sources were used for the scores?",
+      "answer": "The data sources include Google Patents for patents, the Lens (www.lens.org) for research publications, Factiva for news publications, Google Trends for search engine queries, and PitchBook for investment data."
+    },
+    {
+      "question": "What trends were added since last year's study?",
+      "answer": "The trends added since last year's study are industrializing machine learning, Web3, immersive-reality technologies, future of mobility, and future of space technologies."
+    },
+    {
+      "question": "What is Advanced connectivity trend about?",
+      "answer": "Advanced connectivity involves technologies such as 5G/6G cellular, wireless low-power networks, low-Earth-orbit satellites, and other technologies that support digital solutions to increase geographic coverage, reduce latency, reduce energy consumption, increase data throughput, and increase spectrum efficiency."
+    },
+    {
+      "question": "How were the associations shown on the industry heat map derived?",
+      "answer": "The associations were derived by reviewing news reports on each trend for references to specific companies within each of the 20 industries."
+    },
+    {
+      "question": "Where are data on search engine queries sourced from?",
+      "answer": "Google Trends."
+    },
+    {
+      "question": "What is the source of data on private-market and public-market capital raises?",
+      "answer": "PitchBook."
+    },
+    {
+      "question": "How were the associations shown on the industry heat map derived?",
+      "answer": "By reviewing the news reports on each trend for references to specific companies within each of the 20 industries."
+    },
+    {
+      "question": "What trends were added since last year's study?",
+      "answer": "Industrializing machine learning, Web3, immersive-reality technologies, future of mobility, and future of space technologies."
+    },
+    {
+      "question": "What is Advanced connectivity about?",
+      "answer": "Advanced connectivity involves technologies such as 5G/6G cellular, wireless low-power networks, low-Earth-orbit satellites, and other technologies that support digital solutions to increase geographic coverage, reduce latency, reduce energy consumption, increase data throughput, and increase spectrum efficiency."
+    },
+    {
+      "question": "What are some of the technologies that support Advanced connectivity?",
+      "answer": "5G/6G cellular, wireless low-power networks (LPWA), low-Earth-orbit (LEO) satellite constellations, Optical fiber, Wi-Fi 6."
+    },
+    {
+      "question": "Why should leaders pay attention to Advanced connectivity?",
+      "answer": "As advanced connectivity becomes broadly available, industries will find innovative use cases, creating monetization opportunities for technology and telecom companies, and new capabilities for industrial companies and consumers."
+    },
+    {
+      "question": "What is the estimated total number of connected devices expected in 2025?",
+      "answer": "~51.9 billion"
+    },
+    {
+      "question": "What is the annual rate of global data creation that necessitates access to higher-bandwidth networks?",
+      "answer": "20\u201325%"
+    },
+    {
+      "question": "How many individuals accessed the internet for the first time in 2021 due to new connectivity technologies?",
+      "answer": "~200 million"
+    },
+    {
+      "question": "What is the estimated global GDP impact driven by operational enhancements resulting from advanced connectivity in just 4 major industries?",
+      "answer": "$2 trillion"
+    },
+    {
+      "question": "What is the overall revenue increase expected from developing 5G-enabled premium connectivity and B2B use cases?",
+      "answer": "10\u201320%"
+    },
+    {
+      "question": "What technology brought an exponential increase in throughput, much lower latency, and lower maintenance costs for telecom companies compared to copper?",
+      "answer": "Modern optic fiber"
+    },
+    {
+      "question": "What is the purpose of LPWAN connectivity standards?",
+      "answer": "To enable more devices, higher energy efficiency, extended coverage, and lower connectivity cost"
+    },
+    {
+      "question": "How does Wi-Fi 6 improve upon previous standards?",
+      "answer": "In speed, range, and security, making it more suitable for industrial applications"
+    },
+    {
+      "question": "What are the benefits of 5G/6G cellular wireless compared to 4G?",
+      "answer": "Much higher throughput, device density, spectrum efficiency, quality of service, and security guarantees with very low latency for improved user experiences"
+    },
+    {
+      "question": "What is the goal of LEO satellite constellations?",
+      "answer": "To ensure that the most remote locations on earth have high-quality connectivity"
+    },
+    {
+      "question": "What is the estimated global GDP impact from disruption in four major industries?",
+      "answer": "$1.2T\u2013$2.0T"
+    },
+    {
+      "question": "How will connectivity impact the automotive and assembly industry?",
+      "answer": "Connectivity could enable preventive maintenance, improve navigation, prevent collisions, enable various levels of vehicle autonomy and carpooling services, and provide personalized infotainment offerings."
+    },
+    {
+      "question": "What is one benefit of low-latency networks and high density of connected devices and sensors in healthcare?",
+      "answer": "It makes it possible to monitor patients at home in real time, which could be a major boon in the treatment of chronic diseases."
+    },
+    {
+      "question": "How will 5G networks impact aerospace and defense users?",
+      "answer": "Connectivity expansions such as 5G networks can vastly boost capabilities and performance for aerospace and defense users."
+    },
+    {
+      "question": "What are some benefits of connectivity for retailers?",
+      "answer": "Connectivity allows retailers to manage inventory, improve warehouse operations, coordinate supply chains, eliminate checkout activities, and add augmented reality for better product information."
+    },
+    {
+      "question": "What is being achieved with broader 5G, optic fiber, and satellite internet coverage?",
+      "answer": "The digital divide for the next billion internet users is being bridged."
+    },
+    {
+      "question": "How will current internet users be impacted by improved network speeds and latency?",
+      "answer": "Their experiences will improve significantly as network speeds and latency improve, enabling use cases previously considered unfeasible."
+    },
+    {
+      "question": "What is a key enabler of revolutionary capabilities of digital transformations?",
+      "answer": "Connectivity."
+    },
+    {
+      "question": "How are average consumers' experiences being enhanced?",
+      "answer": "With ubiquitous connectivity and significantly higher quality of service."
+    },
+    {
+      "question": "What is a risk associated with the ecosystem maturity of evolving connectivity modalities?",
+      "answer": "Few players provide solutions and services in markets."
+    },
+    {
+      "question": "Why may some advanced connectivity technologies be limited?",
+      "answer": "They require large capital investments to build out networks with competitive coverage and performance."
+    },
+    {
+      "question": "Which industries are being affected by advanced connectivity technologies?",
+      "answer": "Telecommunications, automotive and assembly, aviation, travel, and logistics, and healthcare."
+    },
+    {
+      "question": "How is connectivity being used in the healthcare industry?",
+      "answer": "For AI-powered diagnostics and monitoring patients at home using connected medical devices."
+    },
+    {
+      "question": "Which companies have successfully leveraged advanced connectivity to optimize their operations?",
+      "answer": "Volkswagen and Michelin."
+    },
+    {
+      "question": "How did Volkswagen utilize advanced connectivity in their factory?",
+      "answer": "By implementing 5G private networks, replacing wired connections, and using over-the-air updates."
+    },
+    {
+      "question": "What benefits did Michelin gain from using LPWAN technology?",
+      "answer": "A 10% reduction of on-sea inventory and a 40% increase in estimated time of arrival (ETA) accuracy."
+    },
+    {
+      "question": "When did Bosch equip their first factory with a 5G private network?",
+      "answer": "2020"
+    },
+    {
+      "question": "What is the purpose of Verizon's 5G private networks in NFL stadiums?",
+      "answer": "To enhance spectators' experience by allowing fans to access real-time stats and data in AR and to access a feed of up to 7 camera angles simultaneously via the 5G multiview offering."
+    },
+    {
+      "question": "Can 5G completely replace 4G LTE?",
+      "answer": "Shifting from 4G LTE to private 5G may not be cost-effective for all players; this would depend on a player's technological aspirations and planned use cases."
+    },
+    {
+      "question": "What is the challenge for scaling up LEO connectivity networks?",
+      "answer": "The business model and pricing will be a challenge for scaling up networks due to high capital expenditures and user costs."
+    },
+    {
+      "question": "What is Applied AI used for?",
+      "answer": "To solve classification, prediction, and control problems to automate, add, or augment real-world business use cases."
+    },
+    {
+      "question": "What are some selected AI technologies mentioned in the text?",
+      "answer": "Machine learning (ML), computer vision, natural-language processing (NLP), deep reinforcement learning, and knowledge graphs."
+    },
+    {
+      "question": "What was the percentage of organizations adopting AI in 2021?",
+      "answer": "56%."
+    },
+    {
+      "question": "What was the improvement in training speed for AI models since 2018?",
+      "answer": "94.4%."
+    },
+    {
+      "question": "How much was the private investment in AI-related companies in 2021?",
+      "answer": "$93.5 billion."
+    },
+    {
+      "question": "What is the potential value at stake from AI?",
+      "answer": "$10 to $15 trillion."
+    },
+    {
+      "question": "What was the 5-year total return to shareholders (TRS) for AI leaders compared to others?",
+      "answer": "12.6% vs 5.1%."
+    },
+    {
+      "question": "Which business function had the highest revenue increase from AI adoption?",
+      "answer": "Marketing and sales."
+    },
+    {
+      "question": "What percentage of respondents reported at least 5% of EBIT being attributable to AI?",
+      "answer": "27%."
+    },
+    {
+      "question": "What was the relative number of patents filed in 2021 compared to 2015?",
+      "answer": "30\u00d7."
+    },
+    {
+      "question": "How much did AI adoption increase from 2020 to 2021?",
+      "answer": "From 50% to 56%."
+    },
+    {
+      "question": "What was the share of respondents to a 2021 global survey who said their organizations were adopting AI?",
+      "answer": "56%."
+    },
+    {
+      "question": "How much did private investment in AI-related companies amount to in 2021?",
+      "answer": "$93.5 billion."
+    },
+    {
+      "question": "What is the potential value at stake from AI, according to the report?",
+      "answer": "$10 to $15 trillion."
+    },
+    {
+      "question": "How did the financial performance of leaders adopting AI compare to others?",
+      "answer": "Leaders adopting AI exhibit stronger financial performance."
+    },
+    {
+      "question": "What was the improvement in training speed for AI models since 2018?",
+      "answer": "94.4%."
+    },
+    {
+      "question": "What was the relative number of patents filed in 2021 compared to 2015?",
+      "answer": "30\u00d7."
+    },
+    {
+      "question": "What was the compound annual growth rate of patents filed from 2015 to 2021?",
+      "answer": "76.9%."
+    },
+    {
+      "question": "What percentage of respondents reported at least 5% of EBIT being attributable to AI?",
+      "answer": "27%."
+    },
+    {
+      "question": "What percentage of respondents reported a revenue increase via AI adoption?",
+      "answer": "67% on average."
+    },
+    {
+      "question": "What percentage of respondents reported a cost decrease via AI adoption?",
+      "answer": "79% on average."
+    },
+    {
+      "question": "What is NLP a subfield of?",
+      "answer": "ML (Machine Learning)"
+    },
+    {
+      "question": "What is Deep reinforcement learning a combination of?",
+      "answer": "Deep learning and reinforcement learning"
+    },
+    {
+      "question": "What are Knowledge graphs?",
+      "answer": "A collection of data points structured into a network to show complex relationships among themselves"
+    },
+    {
+      "question": "What is AI according to the text?",
+      "answer": "Nonprogrammatic intelligence exhibited by machines, in which they perform cognitive functions often associated with human minds"
+    },
+    {
+      "question": "Which business functions are leading the adoption of AI?",
+      "answer": "Product and service development, service operations, and marketing and sales"
+    },
+    {
+      "question": "Which industries are leading the adoption of AI applications?",
+      "answer": "Technology-centric industries"
+    },
+    {
+      "question": "What is an example of the impact of applied AI on the pharmaceuticals and medical products industry?",
+      "answer": "Exploring relationships across different medical treatments and their combined outcomes for the discovery of new drugs"
+    },
+    {
+      "question": "How is AI being used in the retail and consumer packaged goods industry?",
+      "answer": "Boosting sales by using ML to analyze huge sets of purchasing data, discern patterns, and give shoppers customized recommendations"
+    },
+    {
+      "question": "What are the example impacts of applied AI in the agriculture industry?",
+      "answer": "Enabling process optimization through capabilities like productivity forecasting and driverless tractor applications."
+    },
+    {
+      "question": "How is applied AI used in the automotive and assembly industry?",
+      "answer": "Automation of quality testing and manufacturing/assembly processes."
+    },
+    {
+      "question": "What are some use cases for applied AI in product development?",
+      "answer": "Generate 3-D models using computer vision and ML, and utilize various sensor inputs to perform tasks."
+    },
+    {
+      "question": "What is the benefit of using applied AI to generate 3-D models?",
+      "answer": "Decrease cost with improved efficiency through quickly generated 3-D models."
+    },
+    {
+      "question": "In which industries can applied AI be used for personalized customer recommendations?",
+      "answer": "Real estate and retail, among others. For example, in real estate, it can provide personalized customer property recommendations."
+    },
+    {
+      "question": "What is one way applied AI is used in the public and social sectors?",
+      "answer": "Leveraging AI/ML to expedite delivery of key services, such as using NLP for tax FAQ handling."
+    },
+    {
+      "question": "What are some examples of use cases for Applied AI in retail?",
+      "answer": "Sales checkout and online suggestions of products to purchase."
+    },
+    {
+      "question": "What is the primary benefit of using Applied AI for product recommendations?",
+      "answer": "Improve revenue through increased sales via personalized recommendations."
+    },
+    {
+      "question": "What percentage of survey respondents cited cost decreases in 2020 due to Applied AI?",
+      "answer": "Up to 90%."
+    },
+    {
+      "question": "What is a major risk associated with the development of AI and ML workflows for production?",
+      "answer": "High up-front investment in talent and resources creates a high barrier to entry."
+    },
+    {
+      "question": "According to the EU Commission High-Level Expert Group on AI, what are the requirements for AI responsibility and trust?",
+      "answer": "Human agency and oversight; societal and environmental well-being; technical robustness and safety; privacy and data governance; transparency; accountability; and diversity, nondiscrimination, and fairness."
+    },
+    {
+      "question": "What is one of the concerns related to AI ethics?",
+      "answer": "Issues include responsibility, equity, fairness, and explainability."
+    },
+    {
+      "question": "What are some benefits of Applied AI?",
+      "answer": "Cost savings, overall revenue increase, new use cases, and increased access to AI and ease of implementation."
+    },
+    {
+      "question": "What percentage of survey respondents cited cost decreases in 2020 due to Applied AI?",
+      "answer": "Up to 90%."
+    },
+    {
+      "question": "What are some risks and uncertainties associated with Applied AI?",
+      "answer": "High up-front investment in talent and resources, cybersecurity and privacy concerns, increasing regulation and compliance, and AI ethics issues."
+    },
+    {
+      "question": "According to the EU Commission High-Level Expert Group on AI, what defines responsible and trustworthy AI?",
+      "answer": "Abiding laws, incorporating ethics, and implementing technical and social robustness to mitigate potential harm."
+    },
+    {
+      "question": "What are the 7 requirements for AI responsibility and trust developed by the EU Commission?",
+      "answer": "Human agency and oversight, societal and environmental well-being, technical robustness and safety, privacy and data governance, transparency, accountability, and diversity, nondiscrimination, and fairness."
+    },
+    {
+      "question": "What is AI explainability?",
+      "answer": "AI explainability looks at how well we can understand an AI model."
+    },
+    {
+      "question": "What are the three types of AI explainability according to Stanford University Human-Centered Artificial Intelligence (HAI)?",
+      "answer": "Engineers\u2019 explainability, causal explainability, and trust-inducing explainability."
+    },
+    {
+      "question": "What are the benefits of Applied AI according to the survey respondents?",
+      "answer": "Up to 90% of survey respondents cited cost decreases in 2020 and up to 75% cited revenue increases in 2020."
+    },
+    {
+      "question": "What are the risks associated with Applied AI?",
+      "answer": "High up-front investment in talent and resources, cybersecurity and privacy concerns, increasing regulation and compliance, and AI ethics issues including responsibility, equity, fairness, and explainability."
+    },
+    {
+      "question": "How is responsible and trustworthy AI defined according to the EU Commission High-Level Expert Group on AI?",
+      "answer": "By abiding laws, incorporating ethics, and implementing technical and social robustness to mitigate potential harm."
+    },
+    {
+      "question": "What are the 7 requirements for AI responsibility and trust developed by the EU Commission?",
+      "answer": "Human agency and oversight; societal and environmental well-being; technical robustness and safety; privacy and data governance; transparency; accountability; and diversity, nondiscrimination, and fairness."
+    },
+    {
+      "question": "What are the three types of AI explainability according to Stanford University Human-Centered Artificial Intelligence (HAI)?",
+      "answer": "Engineers' explainability (technically explains how the AI model works), causal explainability (explains why a model input leads to its output), and trust-inducing explainability (information that people need to trust and deploy a model)."
+    },
+    {
+      "question": "What are the leading areas of risk for organizations according to Stanford HAI?",
+      "answer": "Cybersecurity, regulatory compliance, explainability, individual privacy, organizational reputation, and equity and fairness."
+    },
+    {
+      "question": "Why are subjective topics like privacy, equity, and fairness not high strategic priorities within organizations?",
+      "answer": "Because they lack resources and capabilities to fully understand and address these concerns."
+    },
+    {
+      "question": "What is the composition of tomorrow's networks according to the text?",
+      "answer": "Devices at many locations computing simultaneously, including traditional cloud data centers and a variety of computational resources located at network edge nodes."
+    },
+    {
+      "question": "What is the predicted opportunity in run-rate EBITDA across Fortune 500 companies in 2030 through cloud cost optimization levers and value-oriented business use cases?",
+      "answer": "$1 trillion."
+    },
+    {
+      "question": "What is the growth rate of the worldwide public cloud services market?",
+      "answer": "~25% CAGR."
+    },
+    {
+      "question": "What percentage of cloud users have a multi-cloud strategy?",
+      "answer": "~90%."
+    },
+    {
+      "question": "What is the size of the worldwide public cloud services market in 2020?",
+      "answer": "~$300 billion."
+    },
+    {
+      "question": "How many countries reported data protection localization requirements in 2021?",
+      "answer": "More than 60 countries."
+    },
+    {
+      "question": "What is the projected worldwide spending on edge computing in 2025?",
+      "answer": "~$250 billion."
+    },
+    {
+      "question": "What percentage of data generated by enterprises is ultimately used?",
+      "answer": "Less than 20%."
+    },
+    {
+      "question": "What is the forecasted share of servers shipped in 2024 that will be deployed at the edge?",
+      "answer": "26%."
+    },
+    {
+      "question": "What is the main difference between traditional cloud and edge computing?",
+      "answer": "Edge computing provides lower latency by decentralizing computation and storing data closer to end users."
+    },
+    {
+      "question": "What are the two broad categories of disruptions enabled by edge computing?",
+      "answer": "Network service improvements and new services unlocked by improved quality of experience."
+    },
+    {
+      "question": "What is one of the benefits of edge computing mentioned in the text?",
+      "answer": "Enabling use cases that had been challenging to implement effectively due to data latency."
+    },
+    {
+      "question": "At what rate is the worldwide spending on edge computing expected to grow?",
+      "answer": "At a CAGR of ~10%."
+    },
+    {
+      "question": "What is the benefit of edge computing in terms of data residency laws?",
+      "answer": "Edge will ensure compliance with local data residency laws necessary to experience the benefits of both cloud and edge."
+    },
+    {
+      "question": "How does edge computing improve data autonomy?",
+      "answer": "Edge will ensure much more granular control over individual and enterprise data by limiting reliance on public cloud."
+    },
+    {
+      "question": "What is the security advantage of edge computing over public cloud infrastructure?",
+      "answer": "Edge provides a security advantage over public cloud infrastructure, which is often susceptible to breaches enabled by the infrastructure-sharing model and misconfigurations."
+    },
+    {
+      "question": "What challenge do telecom companies and IT service providers face in implementing edge computing?",
+      "answer": "Telecom companies and IT service providers need to figure out partnership, services, and infrastructure management approaches to unlock cost-efficiency and avoid major cost increases resulting from greater technical complexity."
+    },
+    {
+      "question": "What is a technical challenge associated with cloud and edge computing?",
+      "answer": "Cloud and edge involve managing resources over networks that require interoperability among a wide variety of devices and sensors to deliver value."
+    },
+    {
+      "question": "What is a scaling hurdle associated with edge computing?",
+      "answer": "The growing number of edge nodes and devices will be challenging, since edge doesn\u2019t benefit from the same economies of scale as traditional cloud computing."
+    },
+    {
+      "question": "Which industries are most affected by the trend of edge computing?",
+      "answer": "Telecommunications, Automotive and assembly, Electric power, natural gas, and utilities, Manufacturing, Financial services, Retail, Healthcare systems and services, Aerospace and defense, Aviation, travel, and logistics, Information technology and electronics, Media and entertainment."
+    },
+    {
+      "question": "How is edge computing impacting the telecommunications industry?",
+      "answer": "Increase in revenue streams from technologies such as MEC, given the telecom company role as the primary owner of the networking infrastructure required for distributed computing."
+    },
+    {
+      "question": "What is the implication of edge computing for the manufacturing industry?",
+      "answer": "Improvements in networking and data latency, increasing effectiveness of other Industry 4.0 technologies, leading to better overall productivity."
+    },
+    {
+      "question": "Who has created a new service line providing customers with multi-access edge computing?",
+      "answer": "AT&T"
+    },
+    {
+      "question": "What is Tesla using to power its vehicles?",
+      "answer": "Homegrown full self-driving (FSD) processors that act as edge nodes"
+    },
+    {
+      "question": "How is Walmart planning to use edge computing?",
+      "answer": "To improve its own Internet of things (IoT), real-time analytics, and customer experiences, and to leverage its nationwide coverage of supercenters to provide edge computing services to customers"
+    },
+    {
+      "question": "What is one of the debates related to the impact of edge computing?",
+      "answer": "Whether edge computing will be more disruptive than cloud computing"
+    },
+    {
+      "question": "Why may edge computing not be as scalable as traditional cloud computing?",
+      "answer": "Because it requires a high level of interoperability and commonality of standards currently absent in networking"
+    },
+    {
+      "question": "Who are the key players that will be important as edge networks scale up?",
+      "answer": "OEMs, networking and edge service providers, and hyperscale cloud providers"
+    },
+    {
+      "question": "How can edge computing help reduce security risks?",
+      "answer": "By keeping sensitive data at edge locations away from centralized servers, which helps restrict access and minimize risks in the event of a major attack"
+    },
+    {
+      "question": "What is one way that edge computing can contribute to sustainable IT?",
+      "answer": "By reducing overall energy requirements, as less data is transmitted across the network and more is processed and stored locally"
+    },
+    {
+      "question": "What are the 4 key components of immersive-reality technologies?",
+      "answer": "Spatial computing, Mixed reality (MR), Augmented reality (AR), and Virtual reality (VR)."
+    },
+    {
+      "question": "What is the description of Mixed Reality (MR)?",
+      "answer": "Interprets physical space and introduces virtual 3-D objects, allowing users to interact with environments that feature virtual elements."
+    },
+    {
+      "question": "What is the experience level of Virtual Reality (VR)?",
+      "answer": "Fully immersive: User's visual sensation is controlled by the system inside the virtual world."
+    },
+    {
+      "question": "What are some key themes where most mature immersive-reality solutions fall under?",
+      "answer": "Learning and assessment, Product design and development, Enhanced situational awareness, and B2C use cases."
+    },
+    {
+      "question": "What is the predicted market size of immersive-reality technologies by 2035?",
+      "answer": "~$1.2 trillion."
+    },
+    {
+      "question": "What was the growth rate of immersive-reality patents from 2018 to 2021?",
+      "answer": "2\u00d7 growth"
+    },
+    {
+      "question": "What is the expected growth rate of the global immersive-reality market size until 2035?",
+      "answer": "~24% CAGR"
+    },
+    {
+      "question": "How much venture capital investment was made into VR/AR start-ups in 2021?",
+      "answer": "~$3.9 billion"
+    },
+    {
+      "question": "What was the growth rate in average ticket size from 2020 to 2021?",
+      "answer": "2.2\u00d7 growth"
+    },
+    {
+      "question": "What is the expected CAGR in enterprise adoption of AR through 2026?",
+      "answer": "~66% CAGR"
+    },
+    {
+      "question": "What is augmented reality (AR) defined as?",
+      "answer": "A partly immersive experience in which users interact directly with a 3-D overlay onto the external reality in real time"
+    },
+    {
+      "question": "What is virtual reality (VR) defined as?",
+      "answer": "A fully immersive digital experience in which computer-graphics-rendered virtual worlds replace the real world"
+    },
+    {
+      "question": "How many years are significant advancements in AR/VR expected to take?",
+      "answer": "8\u201310 years"
+    },
+    {
+      "question": "What is required to unlock scalability in AR/VR technologies?",
+      "answer": "Reducing prices by >50%"
+    },
+    {
+      "question": "How much is the peripherals market expected to expand due to the need for diverse sensors and input?",
+      "answer": "10\u221220\u00d7 from today"
+    },
+    {
+      "question": "What is the purpose of haptic devices?",
+      "answer": "Haptic devices convey the sense of touch to the user with vibrations to augment virtual experiences."
+    },
+    {
+      "question": "How do holograms and volumetric video display 3-D representations?",
+      "answer": "Holograms and volumetric video diffract light across multiple wave fronts to display high-quality, 3-D representations that can be seen without using a headset."
+    },
+    {
+      "question": "What is Electromyography (EMG) used for?",
+      "answer": "EMG is a neuro technology that detects and records electrical activity from muscles to control movement and manipulate objects in virtual spaces."
+    },
+    {
+      "question": "What is the expected impact of immersive-reality technologies on the global workforce?",
+      "answer": "The world's 2.7 billion deskless workers, representing ~80% of the global workforce, are concentrated in 8 industries and present huge potential for scaling immersive-reality technology."
+    },
+    {
+      "question": "What is the current state of AR technology in the near term (0-3 years)?",
+      "answer": "AR exists mostly as a proof of concept with few enterprise use cases; experiences occur within narrowly defined environments and overlay low-fi visuals over the real world."
+    },
+    {
+      "question": "What is the long-term/end state (10+ years) expectation for consumer AR?",
+      "answer": "Consumer AR shrinks and use cases proliferate, with a seamless digital layer acting as an overlay to the real world; as users navigate fluidly throughout their day, external sensors interpret, interact with, and enhance the physical environment."
+    },
+    {
+      "question": "What are some example use cases for immersive-reality technologies in the education industry?",
+      "answer": "Learning and development, remote collaboration, field-worker assistance, conferences and events."
+    },
+    {
+      "question": "How many deskless workers are there globally, and what percentage of the workforce do they represent?",
+      "answer": "There are 2.7 billion deskless workers globally, representing ~80% of the global workforce."
+    },
+    {
+      "question": "What percentage of metaverse adopters have undertaken learning and development for employees in the metaverse?",
+      "answer": "63%."
+    },
+    {
+      "question": "What percentage of customers active on the metaverse have purchased real-world items there?",
+      "answer": "~33%."
+    },
+    {
+      "question": "What is one of the benefits of using immersive-reality technologies in product development?",
+      "answer": "More efficient product prototyping and test simulations through the creation of digital twins."
+    },
+    {
+      "question": "How has Boeing benefited from using AR in its manufacturing process?",
+      "answer": "Boeing has achieved a 90% quality increase and 30% speed increase on its pilot projects."
+    },
+    {
+      "question": "How has Porsche benefited from using AR headsets in its operations?",
+      "answer": "Porsche has shortened operational time spent on addressing issues by 40%."
+    },
+    {
+      "question": "What is one of the ways that immersive-reality technologies can improve collaboration?",
+      "answer": "By facilitating more engaging virtual-team interactions, without the need of being physically present."
+    },
+    {
+      "question": "What industries are mentioned as being potentially affected by immersive-reality technologies?",
+      "answer": "Construction and building materials, Real estate, Electric power, natural gas, and utilities, Aviation, travel, and logistics, Media and entertainment."
+    },
+    {
+      "question": "What is required to make many more AR/VR applications commercially viable and scalable?",
+      "answer": "Cost reductions."
+    },
+    {
+      "question": "What is a concern related to the use of AR/VR technologies?",
+      "answer": "Exposure to complex security vulnerabilities and the user's ability to control what data are collected and how data are processed or shared with third parties."
+    },
+    {
+      "question": "Will immersive reality shift the new wave of remote work?",
+      "answer": "As immersive-reality tech boosts collaboration and facilitates remote operations, it is likely that remote work will be here to stay."
+    },
+    {
+      "question": "What is needed for AR/VR technologies to break through to scale?",
+      "answer": "Significant tech advancements, which are approximately 8\u201310 years out, and device makers need to produce required features in conjunction with each other."
+    },
+    {
+      "question": "What is a challenge for enterprises adopting immersive-reality solutions?",
+      "answer": "Evolving their tech architecture capabilities to integrate with these new technologies while mitigating privacy and security concerns."
+    },
+    {
+      "question": "To what extent can immersive reality facilitate the spread of false information?",
+      "answer": "Deepfake technology and mixed reality facilitate misrepresentation, which could have social implications such as cultural appropriation or the spread of 'fake news'."
+    },
+    {
+      "question": "What is the trend of industrializing machine learning about?",
+      "answer": "Providing software and hardware technologies to scale ML workflows and ease the development and deployment of ML for organizations."
+    },
+    {
+      "question": "What are the stages of an ML workflow?",
+      "answer": "Data management, model development, model deployment, and live-model operations."
+    },
+    {
+      "question": "What is the main difference between applied AI and industrializing ML?",
+      "answer": "Applied AI refers to the real-world business use cases after the technical infrastructure is implemented, while industrializing ML refers to the systems that put AI into production for real-life business use."
+    },
+    {
+      "question": "What is the potential global impact of AI across industries?",
+      "answer": "$10T\u2013$15T"
+    },
+    {
+      "question": "What percentage of organizations surveyed have not successfully adopted and scaled AI/ML?",
+      "answer": "72%"
+    },
+    {
+      "question": "What are the challenges that organizations face in adopting and scaling AI/ML?",
+      "answer": "Difficult transition from pilots to products, model failure in production, stalling team productivity, and limitations in protection against potential risks from unknown variables."
+    },
+    {
+      "question": "What are the benefits of industrializing ML?",
+      "answer": "Maintain performance (~60% less value erosion), accelerate time to value (~8\u201310\u00d7 less time), reduce risk (100% of production models integrated into enterprise risk governance), and increase productivity (~30\u201340% resource reduction)."
+    },
+    {
+      "question": "What is the direction of the emerging tech stack for ML?",
+      "answer": "Toward simplicity, scalability, and interoperability across the full ML workflow life cycle."
+    },
+    {
+      "question": "What is the main purpose of industrializing machine learning?",
+      "answer": "To put AI (including its subfields such as ML) into production for real-life business use."
+    },
+    {
+      "question": "What is the potential global impact of AI across industries?",
+      "answer": "$10T\u2013$15T"
+    },
+    {
+      "question": "What percentage of organizations surveyed have not successfully adopted and scaled AI?",
+      "answer": "72%"
+    },
+    {
+      "question": "What are the challenges that organizations face in adopting AI?",
+      "answer": "Difficult transition from pilots to products, model failure in production, stalling team productivity, and limitations in protection against potential risks from unknown variables."
+    },
+    {
+      "question": "What are the benefits of industrializing ML?",
+      "answer": "Maintain performance (~60% less value erosion), accelerate time to value (~8\u201310\u00d7 less time), reduce risk (100% of production models integrated into enterprise risk governance), and increase productivity (~30\u201340% resource reduction)."
+    },
+    {
+      "question": "What is the emerging tech stack for ML moving towards?",
+      "answer": "Simplicity, scalability, and interoperability across the full ML workflow life cycle."
+    },
+    {
+      "question": "What are the characteristics of manual and non-industrialized machine learning work?",
+      "answer": "Highly manual work that needs refactoring before use, no control over what is running in production, manual and error-prone deployment with poor testing and validation, performance degrading often undetected, and unstable solutions down for weeks at a time."
+    },
+    {
+      "question": "What are the benefits of industrializing machine learning?",
+      "answer": "Automated data management for high-quality data, data reuse across hundreds of solutions with robust controls, structured and collaborative development, controlled production release decisions, automated efficient CI/CD for test and validation of all releases, and end-to-end ML system monitoring with instant alerts enabling rapid issue resolution."
+    },
+    {
+      "question": "What are the subprocesses involved in the ML workflow?",
+      "answer": "Data discovery and creation, data transformation, labeling, validation, data versioning, model development and optimization, model selection, training and tuning, experimentation and testing, model registry and management, model testing and validation, model deployment, continuous integration, continuous deployment, monitoring, model maintenance, continuous improvement, and model explainability."
+    },
+    {
+      "question": "What are some examples of technology solutions for ML workflow?",
+      "answer": "Data platforms for data discovery and extraction, synthetic data, model libraries, centralized repository for experimentation, packaged testing and deployment platforms, version and result tracking, automated data labeling, reproducible data pipelines, experiment tracking and model visualization tools, developer environments, monitoring of live-model, data pipelines, and related issues, and continuous retraining with periodic refreshing of data sets."
+    },
+    {
+      "question": "What are the different types of hardware solutions for ML?",
+      "answer": "Integrated hardware solutions, heterogeneous computing solutions, vertically integrated hardware systems, horizontally integrated hardware, graphical processing units (GPUs), tensor processing units (TPUs), and neuromorphic processing units (NPUs)."
+    },
+    {
+      "question": "What is the purpose of heterogeneous computing solutions?",
+      "answer": "Optimizing computational workloads by allocating different hardware chips based on specific tasks."
+    },
+    {
+      "question": "What are the subprocesses involved in ML?",
+      "answer": "Data discovery and creation, Model development and optimization, Model deployment, Model maintenance."
+    },
+    {
+      "question": "What are the key subprocesses under Data discovery and creation?",
+      "answer": "Data collection, Data labeling, Data validation, Data versioning, Feature engineering."
+    },
+    {
+      "question": "What are the key subprocesses under Model development and optimization?",
+      "answer": "Model selection, Training and tuning, Experimentation and testing."
+    },
+    {
+      "question": "What are the examples of technology solutions for ML?",
+      "answer": "Data platforms for data discovery and extraction, Synthetic data, Model libraries, Centralized repository for experimentation, Packaged testing and deployment platforms, Version and result tracking, Automated data labeling, Reproducible data pipelines, Experiment tracking and model visualization tools, Developer environments."
+    },
+    {
+      "question": "What are the benefits of industrializing machine learning?",
+      "answer": "Accelerated AI adoption, Improved productivity, Easier collaboration, Scalability and interoperability, Reduced cost, Improved security and privacy."
+    },
+    {
+      "question": "What are the risks and uncertainties associated with industrializing machine learning?",
+      "answer": "Upfront investment and resources for setup, Dependency on 3rd-party vendors."
+    },
+    {
+      "question": "What are the different types of hardware solutions for ML?",
+      "answer": "Integrated hardware, Heterogeneous computing, Vertically integrated hardware systems, Horizontally integrated hardware, Graphical processing units (GPUs), Tensor processing units (TPUs), Neuromorphic processing units (NPUs)."
+    },
+    {
+      "question": "What is the purpose of Heterogeneous computing?",
+      "answer": "Optimizing computational workloads by allocating different hardware chips based on specific tasks."
+    },
+    {
+      "question": "What are the key drivers for the need to industrialize machine learning?",
+      "answer": "Increasing regulation and compliance, need for responsible and trustworthy ML systems, and poorly defined processes and accountability for maintaining ML solutions."
+    },
+    {
+      "question": "Who has successfully created impact by industrializing ML?",
+      "answer": "Global pharma company, Asian digital bank, and North American retailer."
+    },
+    {
+      "question": "What were the results achieved by the Asian digital bank after industrializing ML?",
+      "answer": "Enabling >150 use cases annually, scaled up end-to-end analytics transformation from only 5 models in production."
+    },
+    {
+      "question": "What were the results achieved by the North American retailer after applying solutions industrializing ML?",
+      "answer": "Sales uplift of 10\u201320%."
+    },
+    {
+      "question": "What industries are most expected to be impacted by the trend of industrializing ML?",
+      "answer": "Information technology and electronics, Telecommunications, Pharmaceuticals and medical products, Aerospace and defense, Automotive and assembly, Financial services, Media and entertainment."
+    },
+    {
+      "question": "How did industrializing ML affect the lead time to production for the Asian digital bank?",
+      "answer": "Reduced from 18 months to 3 months."
+    },
+    {
+      "question": "What was the impact of industrializing ML on the deployment process?",
+      "answer": "Changed from manual and error-prone to automated and reliable."
+    },
+    {
+      "question": "How can solutions that industrialize ML change organizations, their operating models, and their engineering roles?",
+      "answer": "By reducing resourcing needs and production times, 'democratizing' data scientists, reducing technical barriers, and enabling closer collaboration with nontechnical SMEs."
+    },
+    {
+      "question": "What are the potential impacts of industrializing machine learning?",
+      "answer": "Reducing resourcing needs and production times, 'democratizing' data scientists, reducing technical barriers, and enabling closer collaboration with nontechnical SMEs."
+    },
+    {
+      "question": "What should organizations consider when selecting solutions that industrialize ML?",
+      "answer": "Industry-specific use cases, potential long-term dependency on 3rd-party vendors, and trade-offs between best-of-breed vs end-to-end/cloud-native ML platforms and open-source vs supported enterprise software."
+    },
+    {
+      "question": "What is a challenge associated with accountability for AI and ML as solutions that industrialize ML grow?",
+      "answer": "Processes and accountability for maintaining ML solutions are currently poorly defined, with a lack of clarity on roles of responsibility across the ML workflow."
+    },
+    {
+      "question": "What is the next generation of software development about?",
+      "answer": "Tooling that aids in the development of software applications, improving processes and software quality across each stage of the software development life cycle, including AI-enabled development and testing, as well as low-code/no-code tools."
+    },
+    {
+      "question": "What are some of the technologies or tool kits associated with next-generation software development?",
+      "answer": "Low-code/no-code platforms, infrastructure-as-code, microservices and APIs, AI 'pair programmer', AI-based testing, and automated code review."
+    },
+    {
+      "question": "What percentage of new application development is expected to leverage low-code/no-code by 2025?",
+      "answer": "~90%"
+    },
+    {
+      "question": "What is the expected growth rate of the market for software development from 2021 to 2026?",
+      "answer": "~2\u00d7 CAGR, reaching ~$600 million by 2026"
+    },
+    {
+      "question": "How much reduction in development time is expected due to low-code/no-code applications?",
+      "answer": "~37%"
+    },
+    {
+      "question": "What percentage of developers reported an increase in deployment speed?",
+      "answer": "~60%"
+    },
+    {
+      "question": "What percentage of companies with automated infrastructure-as-code security testing reported a decrease in time to resolve configuration issues?",
+      "answer": "~75%"
+    },
+    {
+      "question": "What is the expected outcome as repetitive tasks become automated and resource requirements decrease?",
+      "answer": "Developers will focus on adding new, innovative features."
+    },
+    {
+      "question": "What are some of the next-generation software development technologies mentioned?",
+      "answer": "Infrastructure-as-code, AI pair programmer, Microservices and APIs, AI-based testing, Automated code review"
+    },
+    {
+      "question": "How does infrastructure-as-code benefit software development?",
+      "answer": "Higher scalability, reduced risks, and rapid development"
+    },
+    {
+      "question": "What is the benefit of using AI pair programmers?",
+      "answer": "Making solo developers more efficient and improving quality of code"
+    },
+    {
+      "question": "What are the benefits of using infrastructure-as-code?",
+      "answer": "Higher scalability as configuration templates are used to set up new environments rapidly and consistently, reduced risks as configuration templates eliminate possibility of human error, and rapid development as developers code faster with reduced friction."
+    },
+    {
+      "question": "How will AI-based testing impact testing coverage?",
+      "answer": "Improved test coverage and effectiveness, with automated script writing expected to exceed 80% of test coverage within the next decade and to auto-generate insights for improvement."
+    },
+    {
+      "question": "What is the role of microservices and APIs in software development?",
+      "answer": "Faster development as microservices and APIs serve as building blocks companies use to effortlessly add functionality to software, unlocking significant business agility, and new revenue streams as APIs can be provided to customers in an as-a-service model and externally to other businesses for integration."
+    },
+    {
+      "question": "What are the benefits of low-code/no-code platforms?",
+      "answer": "Standardized tools and processes that scale tech innovation via reuse of components, acceleration application development through plug-and-play software components, stronger business alignment as a result of bringing technical requirements closer to business units, automated deployment of models into production applications, and augmented monitoring and maintenance to minimize performance degradation."
+    },
+    {
+      "question": "Which industries are most likely to be affected by next-generation software development?",
+      "answer": "Beyond the information technology and electronics industry, these technologies will have an impact on software development across all industries by reducing digitization challenges, with financial services, healthcare systems and services, pharmaceuticals and medical products, manufacturing processes, and retail being examples."
+    },
+    {
+      "question": "Who has successfully created impact with next-generation software development?",
+      "answer": "Leading players across industries have already leveraged advanced DevOps tools to optimize their SDLC."
+    },
+    {
+      "question": "How did Decathlon reduce infrastructure deployment time using infrastructure-as-code?",
+      "answer": "Decathlon used infrastructure-as-code to automate infrastructure deployment, reducing deployment time from weeks to 30 minutes."
+    },
+    {
+      "question": "What technology does Goldman Sachs use to generate unit tests for legacy software?",
+      "answer": "Goldman Sachs uses the AI-based tool Diffblue Cover to generate unit tests for legacy software."
+    },
+    {
+      "question": "What is the result of Goldman Sachs using Diffblue Cover for unit tests?",
+      "answer": "Goldman Sachs achieved a 180\u00d7 increase in the speed of writing tests for a core back-end application."
+    },
+    {
+      "question": "How does Atlassian improve code performance?",
+      "answer": "Atlassian uses AI-based tools by Amazon Web Services to improve code performance by identifying code paths that demonstrate poor CPU utilization or latency."
+    },
+    {
+      "question": "What is a limitation of low-code/no-code platforms?",
+      "answer": "Low-code/no-code platforms are not flexible enough to reduce development work at every stage of the software development life cycle."
+    },
+    {
+      "question": "What is a concern related to the use of AI generation tools for code writing?",
+      "answer": "There is a concern around ownership: Will the company that developed the application own it, or will it belong to the AI-enabled code generation tool provider?"
+    },
+    {
+      "question": "Why might developers be reluctant to switch to new automation technologies?",
+      "answer": "Developers may be reluctant or eager to switch to new technologies, depending on job security, technical comfort, etc."
+    },
+    {
+      "question": "What is a challenge associated with microservices and APIs?",
+      "answer": "Customizing APIs is difficult without significant time and effort, and APIs introduce security risks by adding another attack layer that can be exploited."
+    },
+    {
+      "question": "What is a limitation of automated code review tools?",
+      "answer": "Tools do not identify all defects and inefficiencies in code, and companies may over-rely on automated testing/reviews when this tech scales."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing uses quantum properties of particles to process information at a much higher rate than a classical computer can."
+    },
+    {
+      "question": "How does information storage differ between classical and quantum computers?",
+      "answer": "Classical computers store information in bits, where each bit can be either 0 or 1, while quantum computers store information in qubits, where each qubit represents any possible combination of 0 or 1 with each other."
+    },
+    {
+      "question": "What is the potential performance difference between classical and quantum computers?",
+      "answer": "For certain problems, quantum computers may scale exponentially with the number of qubits, while classical computers scale linearly with the number of bits."
+    },
+    {
+      "question": "What is the estimated value at stake of quantum use cases in various industries?",
+      "answer": "The conservative estimate of the value at stake is between $300 billion and $700 billion in industries such as automotive, chemicals, finance, and pharmaceuticals."
+    },
+    {
+      "question": "What is the projected market size of quantum-computing services in 2027?",
+      "answer": "The projected market size is around $10 billion, growing from ~$400 million in 2020 at a rate of 50% per year."
+    },
+    {
+      "question": "What is the main ambition of quantum communications?",
+      "answer": "The ambition of quantum communications is to offer transfer of encoded quantum information between distant locations through a universal quantum-communication network."
+    },
+    {
+      "question": "What are the benefits of quantum communications in terms of security?",
+      "answer": "Quantum communications guarantees full security of information transfer in the presence of a quantum computer, enabling verified randomness for generating shared keys, quantum encryption, and tamperproof communications."
+    },
+    {
+      "question": "What are the four archetypes of quantum computing applications?",
+      "answer": "The four archetypes are: Quantum simulation, Quantum linear algebra, Quantum optimization, and Quantum factorization."
+    },
+    {
+      "question": "What is the potential use of Quantum simulation?",
+      "answer": "Quantum simulation can be used for simulation of quantum-mechanical systems such as molecules, chemical reactions, or electrons to enable use cases such as lead identification in drug discovery or simulation of proteins in pharmaceuticals and agriculture."
+    },
+    {
+      "question": "What is Quantum factorization used for?",
+      "answer": "Quantum factorization is used for efficient factorization, which is readily applicable to breaking RSA encryption, the basis of most of today\u2019s secure data-transfer protocols."
+    },
+    {
+      "question": "What are the applications enabled by Quantum communications?",
+      "answer": "Quantum communications enables Quantum-enhanced (classical) cryptography, Quantum cryptography, Quantum internet, and Quantum random-number generators (QRNG)."
+    },
+    {
+      "question": "Who has deployed an integrated communication network with QKD spanning more than 4,600 kilometers?",
+      "answer": "The University of Science and Technology of China, in collaboration with industry partners."
+    },
+    {
+      "question": "Which companies have launched commercial quantum-computing cloud services?",
+      "answer": "Companies such as Alibaba, Amazon, Google, and IBM."
+    },
+    {
+      "question": "How is BMW using quantum computing?",
+      "answer": "BMW has used quantum machine learning for autonomous vehicles and quantum computing for car fleet routing optimization."
+    },
+    {
+      "question": "What is Pfizer applying quantum computing to?",
+      "answer": "Pfizer is applying quantum computing to predict the behavior of electrons in a molecule to determine its 3-D structure."
+    },
+    {
+      "question": "Which industries could be most affected by quantum technologies?",
+      "answer": "Information technology and electronics, metals and mining, oil and gas, aerospace and defense, chemicals, pharmaceuticals and medical products."
+    },
+    {
+      "question": "How will incremental value from quantum technologies be created initially?",
+      "answer": "Initially, incremental value from quantum technologies will be created through hybrid solutions with high-performance computing."
+    },
+    {
+      "question": "What are the two major goals researchers are working on to improve quantum computers?",
+      "answer": "Solving business-relevant optimization problems in certain niches and creating stand-alone, fully capable quantum processors with a high count of quality qubits."
+    },
+    {
+      "question": "What is one of the challenges organizations will face in preparing for quantum technology?",
+      "answer": "Talent acquisition will be a major challenge for organizations in the near term, as companies rush to hire the few experts in the field."
+    },
+    {
+      "question": "Are quantum computers currently outperforming classical computers at solving major business problems?",
+      "answer": "No, despite years of research, quantum computers are still not consistently better than classical computers at solving any major business problem."
+    },
+    {
+      "question": "What is the current state of the quantum-technology ecosystem?",
+      "answer": "The quantum-technology ecosystem is nascent, with only a handful of proven hardware platforms commercially available, and talent skilled in quantum computing is exceedingly rare."
+    },
+    {
+      "question": "Will quantum computing be useful for most computational work?",
+      "answer": "No, quantum computing is not expected to affect most computational work and will be useful only for niche tasks."
+    },
+    {
+      "question": "What is the current cost-effectiveness of using quantum computers compared to traditional supercomputers?",
+      "answer": "Most calculations performed by enterprise quantum computers can be performed reasonably well by traditional supercomputers and at a much lower cost."
+    },
+    {
+      "question": "What is the expected outcome once quantum advantage is achieved and general-purpose quantum computers take center stage?",
+      "answer": "The cost-effectiveness is expected to change once quantum advantage is achieved and general-purpose quantum computers take center stage."
+    },
+    {
+      "question": "What is the main challenge posed by increasing cyberattacks and data breaches?",
+      "answer": "Leveraging trending technology, such as quantum computing for encryption breaking."
+    },
+    {
+      "question": "What is the purpose of digital-trust technologies?",
+      "answer": "To empower organizations to gain a competitive advantage by building, scaling, and maintaining the trust of stakeholders in the use of their data and digital-enabled products and services."
+    },
+    {
+      "question": "What is Zero-trust architecture (ZTA)?",
+      "answer": "An IT security system design where all entities, inside and outside the organization\u2019s computer network, cannot be trusted by default and need to prove trustworthiness."
+    },
+    {
+      "question": "What is the forecast cost and loss related to cybercrime by 2025?",
+      "answer": "~$10.5 trillion."
+    },
+    {
+      "question": "Why should leaders pay attention to digital-trust technologies?",
+      "answer": "To reduce risk and potential negative impact from cyberattacks, and to enable organizations to scale faster and become more effective."
+    },
+    {
+      "question": "What is the predicted economic benefit of digital identity by 2030?",
+      "answer": "3\u201313% of GDP."
+    },
+    {
+      "question": "What percentage of companies are victims of digital-identity-related fraud each year?",
+      "answer": "~85%."
+    },
+    {
+      "question": "What is the main assumption of zero-trust architecture?",
+      "answer": "The assumption is that all entities, within and outside the organization, are not to be trusted."
+    },
+    {
+      "question": "What are the benefits of zero-trust architecture?",
+      "answer": "Increased security and reduced risk from increased controls across organizational network and customer data, cost reduction as losses from cyberattacks decrease, increased visibility and understanding of user access and traffic across the network from continuous monitoring, and improved reputation."
+    },
+    {
+      "question": "What is self-sovereign identity (SSI)?",
+      "answer": "Self-sovereign identity (SSI) is a form of digital identity that enables users to have control over their verified credentials and select the specific data for sharing and the sharing audience."
+    },
+    {
+      "question": "How do users verify and authenticate their digital identity in SSI?",
+      "answer": "Users can verify and authenticate their digital identity without traditional alphanumeric passwords but with other forms of identifying information such as biometrics, devices and apps, and documents."
+    },
+    {
+      "question": "What is the advantage of leveraging digital trust?",
+      "answer": "Leveraging digital trust enables increased acquisition, scales internal data and analytic programs sustainably, and advances strategic position for advantage over competitors across AI and analytics, data, cloud, and risk culture."
+    },
+    {
+      "question": "What are the challenges related to AI and analytics mentioned in the text?",
+      "answer": "Hard-to-understand AI algorithms, heavy reliance on legacy governance processes and technologies, and growing scrutiny from public, media, and watchdog organizations."
+    },
+    {
+      "question": "What is the main benefit of increased individual control over identity for trusted transactions?",
+      "answer": "Users themselves control what data they share and with whom from an interoperable and convenient identity source."
+    },
+    {
+      "question": "How does decentralized data storage impact security?",
+      "answer": "Decentralized data storage limits vulnerability to attacks."
+    },
+    {
+      "question": "What are the benefits of privacy engineering?",
+      "answer": "Increased safety and control over data for customers, employees, and organizations, resulting from additional controls and protective measures, and easier process to implement privacy changes."
+    },
+    {
+      "question": "What is the role of Explainable AI (XAI)?",
+      "answer": "AI-related techniques combining social science and psychology to enable people to understand, appropriately trust, and effectively manage emerging AI technologies."
+    },
+    {
+      "question": "Which industries are leading the adoption of digital-trust technologies?",
+      "answer": "Information technology and electronics and financial services are leading adoption."
+    },
+    {
+      "question": "How will digital-trust technologies affect the information technology and electronics industry?",
+      "answer": "Decreased losses and mitigated risk, improved software solutions and AI model development and deployment, and enhanced customer experiences."
+    },
+    {
+      "question": "What is the impact of digital-trust technologies on various industries?",
+      "answer": "Digital-trust technologies could affect all industries leveraging digital technology via reduced risk."
+    },
+    {
+      "question": "Which industries demonstrate high value-creation potential from digital-trust technologies?",
+      "answer": "Aerospace and defense, Education, Media and entertainment, Public and social sectors, Telecommunications, Healthcare systems and services, Consumer packaged goods and retail."
+    },
+    {
+      "question": "How can digital identity verification benefit transactions?",
+      "answer": "Decreased losses and mitigated risk where digital identity verification is crucial for transactions."
+    },
+    {
+      "question": "What is the role of Zero-trust architecture (ZTA) in protecting sensitive data?",
+      "answer": "ZTA controls strength of protection, and digital identity can enable a single, unified data source, thus improving secure access to patient medical records and sensitive customer data."
+    },
+    {
+      "question": "What should leaders consider when implementing Zero-trust architecture (ZTA) and digital identity?",
+      "answer": "It is a long-term effort with incremental progress, and effective implementation requires gradual increase in controls and testing."
+    },
+    {
+      "question": "What is a potential challenge associated with implementing Self-Sovereign Identity (SSI)?",
+      "answer": "SSI has relatively few standards available, and Web3 is a rapidly growing space, making it a nascent ecosystem."
+    },
+    {
+      "question": "What is a concern related to the use of biometric data in digital identity?",
+      "answer": "Control, storage, and use of biometric data is a debated topic regarding privacy and ethics."
+    },
+    {
+      "question": "What is challenging when it comes to large AI models?",
+      "answer": "Deciphering the 'black box' of large AI models to provide a meaningful explanation is challenging."
+    },
+    {
+      "question": "What are some of the risks associated with implementing AI solutions?",
+      "answer": "Implementation complexity, compatibility challenges, and evolving regulations involving digital trust and privacy are some of the risks associated with implementing AI solutions."
+    },
+    {
+      "question": "What tension can arise between privacy and fairness?",
+      "answer": "Tension between the avoidance of excessive collection of demographic data and the need for that data to assess and mitigate bias can arise between privacy and fairness."
+    },
+    {
+      "question": "What is an example of a company that has successfully implemented a Zero-trust architecture?",
+      "answer": "A Latin American oil and gas company with a small IT estate began maturing its capabilities before establishing a ZTA rollout plan and implemented the first full ZTA proof of concept 1 year following rollout start date."
+    },
+    {
+      "question": "What is BankID?",
+      "answer": "BankID is a digital-identification service providing users in Sweden a single source of ID through their mobile phones."
+    },
+    {
+      "question": "What is an example of a company working towards passwordless identity?",
+      "answer": "Apple has been working toward passwordless sign-ins, such as with Touch ID and Face ID."
+    },
+    {
+      "question": "How are stakeholders' expectations changing in terms of data and technology security?",
+      "answer": "Stakeholders will expect a balance between privacy and fairness as new technologies seek to personalize the user experience."
+    },
+    {
+      "question": "What is a concern expressed by people surveyed regarding their data?",
+      "answer": "97% of people surveyed expressed concern that businesses and the government might misuse their data."
+    },
+    {
+      "question": "What is the main issue with existing data privacy regulations and emerging Web3 technologies?",
+      "answer": "Existing data privacy regulations can be at odds with emerging Web3 technologies because storing data on the blockchain creates the potential for an immutable ledger from which past data cannot be 'deleted', conflicting with regulations like the 'right to be forgotten' from the General Data Protection Regulation in the EU."
+    },
+    {
+      "question": "Where are companies typically most exposed to digital and analytics risk?",
+      "answer": "Companies are typically most exposed to digital and analytics risk in areas such as improperly-decommissioned legacy systems, breaches to 3rd-party partners, and poorly configured database links."
+    },
+    {
+      "question": "What is Web3 and its main characteristics?",
+      "answer": "Web3 includes platforms and applications that enable shifts toward a future, decentralized internet with open standards and protocols, protecting digital ownership rights, and providing users greater data ownership and control over how their data is monetized."
+    },
+    {
+      "question": "How does Web3 differ from Web2 in terms of data ownership?",
+      "answer": "In Web2, internet users exchange their data for services based on terms of service, whereas in Web3, internet users own their data and shape the terms of its use."
+    },
+    {
+      "question": "Why should leaders pay attention to Web3?",
+      "answer": "Leaders should pay attention to Web3 because it is based on a more decentralized, community-governed set of protocols that could represent a paradigm shift of authority and ownership to individuals with potentially far-reaching implications, enabling disruption of existing business models, rapid innovation, increased access and inclusion, and new infrastructure opportunities."
+    },
+    {
+      "question": "What is Web3 about?",
+      "answer": "Web3 includes platforms and applications that enable shifts toward a future, decentralized internet with open standards and protocols while protecting digital ownership rights, providing users greater data ownership and control over how their data is monetized, and catalyzing new business models."
+    },
+    {
+      "question": "How does Web3 differ from Web2 in terms of data ownership?",
+      "answer": "In Web2, internet users exchange their data for services based on terms of service, whereas in Web3, internet users own their data and shape the terms of its use."
+    },
+    {
+      "question": "What is the business model of Web3?",
+      "answer": "Revenues are shared back to users and/or capital contributors through smart contracts and decentralized autonomous organizations (DAOs)."
+    },
+    {
+      "question": "Why should leaders pay attention to Web3?",
+      "answer": "Web3 is based on a more decentralized, community-governed set of protocols that could represent a paradigm shift of authority and ownership to individuals with potentially far-reaching implications."
+    },
+    {
+      "question": "What are some potential benefits of Web3?",
+      "answer": "Web3 enables disintermediation of business models, rapid innovation through open protocols, increased access and inclusion, opportunity to build new infrastructure, and unified customer experience."
+    },
+    {
+      "question": "How does Web3 enable rapid innovation?",
+      "answer": "The open-source and modular nature of Web3 allows for rapid development, testing, and scaling of applications, built by a global developer base."
+    },
+    {
+      "question": "What is the 'right to be forgotten' associated with in the context of Web3?",
+      "answer": "Some jurisdictions."
+    },
+    {
+      "question": "How do revenues get shared in the Web3 business model?",
+      "answer": "Revenues are shared back to users and/or capital contributors through smart contracts and decentralized autonomous organizations (DAOs)."
+    },
+    {
+      "question": "What is a key difference between the technical infrastructure of traditional tech platforms and Web3?",
+      "answer": "Web3 uses decentralized databases and software programs (e.g., smart contracts), open-source code, public immutable data, public-private key cryptography, and composability."
+    },
+    {
+      "question": "Why should leaders pay attention to Web3?",
+      "answer": "Because Web3 represents a paradigm shift of authority and ownership to individuals with potentially far-reaching implications."
+    },
+    {
+      "question": "What does Web3 enable in terms of business models?",
+      "answer": "The disintermediation of business models by encoding existing functionality into autonomous smart contracts."
+    },
+    {
+      "question": "How has the number of developers contributing to Web3 projects changed from 2015 to 2021?",
+      "answer": "The number of developers increased to over 34,000 active Web3 developers in 2021."
+    },
+    {
+      "question": "What has been the growth rate of private-equity and venture capital investments in Web3 from 2017 to 2022?",
+      "answer": "~70% per year."
+    },
+    {
+      "question": "What is one of the benefits of Web3's open-source and modular nature?",
+      "answer": "Rapid innovation is unlocked, allowing for rapid development, testing, and scaling of applications."
+    },
+    {
+      "question": "What are the potential economic benefits of Web3?",
+      "answer": "Web3 could offer wider economic opportunities, such as decreased fees, and move the accumulation of value away from middlemen and toward users and suppliers."
+    },
+    {
+      "question": "What is the nature of Web3 that allows for rapid innovation?",
+      "answer": "Web3 is open-source and modular, allowing for rapid development, testing, and scaling of applications by a global developer base."
+    },
+    {
+      "question": "What is the current state of Web3 infrastructure?",
+      "answer": "Web3 infrastructure is nascent and requires new tools and infrastructure to scale and meet expected service requirements."
+    },
+    {
+      "question": "How does Web3 enable a transition from omnichannel to unichannel?",
+      "answer": "Web3 seamlessly integrates customers' digital identity across applications by leveraging a common decentralized blockchain data layer."
+    },
+    {
+      "question": "What has been the trend in talent and investment in Web3 in the past year?",
+      "answer": "Talent and investment have rapidly increased in the past year, with continued expectations of long-term growth."
+    },
+    {
+      "question": "What are some of the most noteworthy technologies and areas of interest in Web3?",
+      "answer": "Some of the most noteworthy technologies and areas of interest in Web3 include decentralized finance (DeFi), nonfungible tokens (NFTs), digital assets and tokens, smart contracts, and blockchain."
+    },
+    {
+      "question": "What industries are beginning to adopt and shape Web3?",
+      "answer": "Industries such as media and entertainment, particularly gaming, are beginning to adopt and shape Web3."
+    },
+    {
+      "question": "What is the metaverse in the context of Web3?",
+      "answer": "The metaverse refers to the connection of virtual experiences in Web3."
+    },
+    {
+      "question": "What is Web3 characterized as?",
+      "answer": "Web3 is public and permissionless, meaning that everyone can access, create, and own information and assets, globally, without intermediaries."
+    },
+    {
+      "question": "What is the current state of Web3 infrastructure?",
+      "answer": "Web3 infrastructure is nascent; new applications require new tools and infrastructure to scale and meet expected service requirements."
+    },
+    {
+      "question": "What is the growth rate of PE and VC investments in Web3 from 2017 to 2022?",
+      "answer": "~70% per year."
+    },
+    {
+      "question": "How many active Web3 developers were there in 2021?",
+      "answer": ">34,000."
+    },
+    {
+      "question": "What are some of the notable use cases built on top of Web3 technologies?",
+      "answer": "Decentralized finance (DeFi), entertainment (art and gaming), and retail, among others."
+    },
+    {
+      "question": "What is the metaverse in the context of Web3?",
+      "answer": "The connection of these virtual experiences is sometimes referred to as the metaverse."
+    },
+    {
+      "question": "What are digital assets in the context of Web3?",
+      "answer": "Digitally native intangible items such as native cryptocurrencies, governance tokens, stablecoins, NFTs, and tokenized assets."
+    },
+    {
+      "question": "What is the role of smart contracts in Web3?",
+      "answer": "Software programs established in immutable code on a blockchain, which are automatically executed when specified conditions are met."
+    },
+    {
+      "question": "What industries are beginning to adopt and shape Web3?",
+      "answer": "Media and entertainment, retail, and financial services."
+    },
+    {
+      "question": "How does Web3 enable a transition in customer digital identity?",
+      "answer": "Seamlessly integrating customers' digital identity across applications by leveraging a common decentralized blockchain data layer."
+    },
+    {
+      "question": "How are retailers using Web3 technologies?",
+      "answer": "Retailers are using Web3 technologies to create new offerings, devise new modes of customer engagement, assure the authenticity of goods, tap into new royalty-based revenue streams, accept novel payment methods, and track and orchestrate logistics across loosely coupled global supply chains."
+    },
+    {
+      "question": "What is DeFi and how is it governed?",
+      "answer": "DeFi is an ecosystem of applications that could autonomously perform similar services to traditional financial institutions. Many DeFi applications are governed through token-based distributed governance systems."
+    },
+    {
+      "question": "What are some areas of financial services exploring Web3 applications?",
+      "answer": "Some areas of financial services exploring Web3 applications include payments, asset management, and some areas of capital markets."
+    },
+    {
+      "question": "How will innovators use Web3 in the IT and electronics industry?",
+      "answer": "Innovators will use Web3 to create decentralized, peer-to-peer networks, enable social-media users to create and sell their content, enable stronger user control of digital identity, and lay the groundwork for the adoption of metaverse platforms."
+    },
+    {
+      "question": "What industries are leading the adoption of Web3?",
+      "answer": "Industries leading the adoption of Web3 include financial services, media and entertainment, retail, and information technology and electronics."
+    },
+    {
+      "question": "What is the new business paradigm that Web3 represents in the gaming industry?",
+      "answer": "Web3 represents a new business paradigm in the gaming industry's revenue models: from pay-to-play and free-to-play to play-and-earn."
+    },
+    {
+      "question": "What are some potential risks and uncertainties associated with Web3 in gaming?",
+      "answer": "Some potential risks and uncertainties associated with Web3 in gaming include high barriers of entry, low-fidelity gaming experience, incentive-driven player base, controversy in the traditional gaming community, nascency of infrastructure, and regulatory uncertainty."
+    },
+    {
+      "question": "What is one of the new models for consumer data ownership and access enabled by Web3 in retail?",
+      "answer": "Anonymous identity with permissioned data sharing."
+    },
+    {
+      "question": "What are some potential new channels and methods for customer acquisition, engagement, and retention in Web3 retail?",
+      "answer": "Community-based retention models, Web3 loyalty programs, and Web3 marketing through airdrops."
+    },
+    {
+      "question": "What is one of the risks associated with the unclear long-term viability of specific digital assets and communities in Web3?",
+      "answer": "Unwanted volatility of digital asset markets."
+    },
+    {
+      "question": "How does Web3 offer greater cost efficiency in financial services?",
+      "answer": "Through employing smart contracts whose programmable logic determines automated decisioning and disbursement."
+    },
+    {
+      "question": "What is one of the benefits of Web3 in financial services regarding transaction transparency?",
+      "answer": "All ownership and transaction data reside on, and are potentially discoverable on, the blockchain."
+    },
+    {
+      "question": "What is one of the risks associated with Web3 financial services due to the unsettled regulatory picture?",
+      "answer": "Unclear classification of assets and jurisdictional authority."
+    },
+    {
+      "question": "What is one of the security concerns in Web3 financial services?",
+      "answer": "Compromise and collapse of some nascent projects in DeFi, wallet theft, and poor AML/KYC controls."
+    },
+    {
+      "question": "What is one of the main concerns of regulators regarding Web3?",
+      "answer": "Consumer protection is increasingly becoming a focal point for regulators."
+    },
+    {
+      "question": "How much did consumers lose from January 2021 to March 2022 due to bogus cryptocurrency investment opportunities?",
+      "answer": "$575 million."
+    },
+    {
+      "question": "What is one of the steps leaders can take to begin engaging with Web3?",
+      "answer": "Reevaluate your business model, value chain, and industry ecosystem to understand where Web3 disruption may happen."
+    },
+    {
+      "question": "What is an example of a financial services company leveraging Web3?",
+      "answer": "USDF consortium and Figure, which aims to promote the adoption and interoperability of a bank-minted stablecoin."
+    },
+    {
+      "question": "Why is the sustainability of Web3 platforms shifting?",
+      "answer": "Given the high-energy consumption of older proof-of-work-based systems and the enhanced efficiency of alternatives such as proof-of-stake-based systems."
+    },
+    {
+      "question": "What did Nike acquire in late 2021 to enter Web3 and the metaverse?",
+      "answer": "RTFKT, a fashion-gaming company."
+    },
+    {
+      "question": "What is the USDF consortium, and what is its goal?",
+      "answer": "The USDF consortium is a group of FDIC-insured banks that aims to promote the adoption and interoperability of a bank-minted stablecoin in the form of tokenized deposits to facilitate the compliant transfer of value on blockchains."
+    },
+    {
+      "question": "Why did Nike acquire RTFKT?",
+      "answer": "Nike acquired RTFKT to enter Web3 and the metaverse."
+    },
+    {
+      "question": "What is the Aura Blockchain Consortium, and what is its purpose?",
+      "answer": "The Aura Blockchain Consortium is a not-for-profit, collaborative industry initiative that enables tracking and tracing for luxury goods using a universal private blockchain."
+    },
+    {
+      "question": "What are some of the controversial topics regarding Web3?",
+      "answer": "Some of the controversial topics regarding Web3 include reliability and sustainability, patterns of adoption, enterprise architecture integration, regulating trust, and new models and the metaverse."
+    },
+    {
+      "question": "What is necessary for Web3 business models to be considered reliable and sustainable?",
+      "answer": "Web3 business models must show they can produce more value for users than existing systems, achieve uptake beyond an enthusiastic cohort of early adopters, and overcome volatile periods, while also satisfying evolving regulations."
+    },
+    {
+      "question": "What is required for mainstream adoption of Web3?",
+      "answer": "Web3 tech needs to improve in terms of scalability, reliability, and security, with accessible developer tooling and improved user experience for consumers."
+    },
+    {
+      "question": "What factors will influence the adoption of Web3 across different geographies?",
+      "answer": "Government regulations, public interest in an open internet, and access to adequate connectivity."
+    },
+    {
+      "question": "Why is interoperability of platforms necessary in Web3 ecosystems?",
+      "answer": "To enable users to transfer assets, such as avatars between different virtual worlds."
+    },
+    {
+      "question": "How may regulatory action influence trust in Web3?",
+      "answer": "Insufficient clarity around regulatory frameworks on Web3 technologies may contribute to reduced trust among users and developers."
+    },
+    {
+      "question": "What is the future of bioengineering defined by?",
+      "answer": "Four arenas: biomolecules, biosystems, biomachine interfaces, and biocomputing."
+    },
+    {
+      "question": "What is the focus of the 'Biomolecules' arena in bioengineering?",
+      "answer": "Mapping and engineering intracellular molecules related to the study of omics."
+    },
+    {
+      "question": "How are Web3 and immersive-reality trends expected to influence existing models for accessing and building systems on the internet?",
+      "answer": "New propositions and platforms will emerge, enabling new experiences in the metaverse."
+    },
+    {
+      "question": "What is the projected outcome of efforts in the development and adoption of bio-related technologies?",
+      "answer": "Unlocking transformative new capabilities with a strong impact on scope and scale."
+    },
+    {
+      "question": "What is the future of bioengineering defined by?",
+      "answer": "4 arenas: biomolecules, biosystems, biomachine interfaces, and biocomputing."
+    },
+    {
+      "question": "What are the four arenas of bioengineering?",
+      "answer": "Biomolecules, biosystems, biomachine interfaces, and biocomputing."
+    },
+    {
+      "question": "What is the focus of biomolecules in bioengineering?",
+      "answer": "Mapping and engineering intracellular molecules (eg, DNA, RNA, proteins) related to the study of omics (eg, genomics, proteomics)."
+    },
+    {
+      "question": "What is the forecast annual global impact of bioengineering in 2030\u201340?",
+      "answer": "$2T\u2013$4T."
+    },
+    {
+      "question": "What share of global disease burden could be addressed by bioengineering?",
+      "answer": "45%."
+    },
+    {
+      "question": "How will Web3 and immersive-reality trends influence existing models for accessing and building systems on the internet?",
+      "answer": "New propositions and platforms will emerge as the Web3 trend blends with others."
+    },
+    {
+      "question": "What is the metaverse expected to leverage to enhance user experiences in Web3 environments?",
+      "answer": "Tech trends like immersive reality and advanced connectivity."
+    },
+    {
+      "question": "What is gene therapy used for?",
+      "answer": "Permanent replacement of poor-functioning genes to treat genetic diseases."
+    },
+    {
+      "question": "How do modified viruses function in gene therapy?",
+      "answer": "As drug-delivery vehicles of genetic sequences."
+    },
+    {
+      "question": "What is an example of a disease that can be treated with gene therapy?",
+      "answer": "Cystic fibrosis."
+    },
+    {
+      "question": "What is mRNA therapy?",
+      "answer": "Temporary use of synthetic mRNA translated into protein to compensate for missing or mutated genes."
+    },
+    {
+      "question": "What is cultivated meat?",
+      "answer": "Meat made by taking a small sample of animal cells and growing them in a controlled environment, emulating conventional meat qualities."
+    },
+    {
+      "question": "What are the benefits of cultivated meat?",
+      "answer": "Combines attributes of animal meat and plant-based meat with strengths in taste, food safety, animal welfare, and worker welfare."
+    },
+    {
+      "question": "What are 'drop-in' biomaterials?",
+      "answer": "Materials that replace fossil-fuel-derived chemicals with biochemicals without changing existing production processes."
+    },
+    {
+      "question": "What is the forecast global impact of the future of bioengineering by 2030-40?",
+      "answer": "$0.5\u2013$1.3 trillion."
+    },
+    {
+      "question": "Which industry is leading in the adoption of bioengineering?",
+      "answer": "Healthcare, including pharmaceuticals and fitness."
+    },
+    {
+      "question": "What are some of the industries affected by the trend of bioengineering?",
+      "answer": "Healthcare, retail, consumer goods, agriculture, energy and utilities, and materials."
+    },
+    {
+      "question": "How many FDA-approved therapies were there as of February 2022?",
+      "answer": "8"
+    },
+    {
+      "question": "What is the predicted number of RNA assets by 2030?",
+      "answer": "~1,800"
+    },
+    {
+      "question": "What is the expected annual growth rate of RNA assets?",
+      "answer": "40%"
+    },
+    {
+      "question": "How many diseases are caused by a single gene that can be treated with gene therapy?",
+      "answer": "~10,000"
+    },
+    {
+      "question": "What are some examples of diseases caused by a single gene?",
+      "answer": "sickle cell anemia, hemophilia, inherited blindness, immune deficiencies"
+    },
+    {
+      "question": "What is the forecast global impact of bioengineering in consumer goods by 2030-40?",
+      "answer": "$200B\u2013$800B"
+    },
+    {
+      "question": "What is one of the benefits of using bioengineering in consumer goods?",
+      "answer": "Reduced carbon footprint"
+    },
+    {
+      "question": "What is the forecast global impact of bioengineering in agriculture by 2030-40?",
+      "answer": "$0.8T\u2013$1.3T"
+    },
+    {
+      "question": "What is one of the risks associated with cultivated meat?",
+      "answer": "Consumer acceptance and unknown long-term health impact"
+    },
+    {
+      "question": "What are some of the expected outcomes of gene therapy?",
+      "answer": "Treatment for monogenic and polygenic diseases, personalized treatments, novel cancer treatment, aging prevention"
+    },
+    {
+      "question": "What is the current price comparison between cultivated meat and traditional meat?",
+      "answer": "Cultivated meat is priced higher than traditional meat."
+    },
+    {
+      "question": "What is expected to happen to the price of cultivated meat as the industry scales?",
+      "answer": "Consumer prices should decrease with reduced production costs."
+    },
+    {
+      "question": "Which country is currently the only one to approve sales of cultivated meat?",
+      "answer": "Singapore."
+    },
+    {
+      "question": "What is the forecast global impact of bioengineering on the economy between 2030-2040?",
+      "answer": "$200B\u2013$300B."
+    },
+    {
+      "question": "By how much can biomaterial-based production processes reduce carbon footprint?",
+      "answer": "By as much as ~50%."
+    },
+    {
+      "question": "What is one of the risks associated with bio-based solutions?",
+      "answer": "They are not necessarily scalable to the extent of full replacement of fossil fuel."
+    },
+    {
+      "question": "What are some of the challenges that nascent biomarkets need to address?",
+      "answer": "Consumer perception, safety, cost, and quality of end products."
+    },
+    {
+      "question": "What is one of the ethical concerns related to bioengineering?",
+      "answer": "The extent of modifying living systems, such as human genes."
+    },
+    {
+      "question": "Why is germ line gene editing considered contentious?",
+      "answer": "Because it could affect future generations."
+    },
+    {
+      "question": "What are the benefits of cultivated meat?",
+      "answer": "Cultivated meat can benefit welfare for animals and human workers, making it a more ethical as well as sustainable option as it's cruelty-free."
+    },
+    {
+      "question": "What could shape consumer decisions regarding cultivated meat?",
+      "answer": "Standardized certifications (e.g., cruelty-free, kosher) could facilitate consumer decisions regarding cultivated meat."
+    },
+    {
+      "question": "What will shape the long-term impact and implications of bioengineering technologies?",
+      "answer": "Varying perspectives debating timeline, type and scale of impact, and level of disruption (e.g., regulatory changes) in society and the economy will shape the long-term impact and implications of bioengineering technologies."
+    },
+    {
+      "question": "What is the clean-energy future trend about?",
+      "answer": "The clean-energy future is a trend toward energy solutions that help achieve net-zero emissions across the energy value chain, from power generation or production to storage to distribution."
+    },
+    {
+      "question": "How much of global power demand can be met using renewable energy?",
+      "answer": "About 84% of global power demand can be met using renewable energy."
+    },
+    {
+      "question": "What role do electrolyzers play in green hydrogen production?",
+      "answer": "Electrolyzers reduce the cost of production, unlocking demand for green hydrogen."
+    },
+    {
+      "question": "What is the estimated annual capital spending required for the net-zero transition in 2031-35?",
+      "answer": "~$2.4 trillion"
+    },
+    {
+      "question": "What is the breakdown of the estimated annual capital spending required for the net-zero transition in 2031-35?",
+      "answer": "$1.2 trillion in power generation, $1 trillion in the power grid, and $200 billion in energy storage"
+    },
+    {
+      "question": "What percentage of 2050 global power demand could be generated by renewable energy?",
+      "answer": ">80%"
+    },
+    {
+      "question": "What are the main sources of renewable energy expected to generate power in 2050?",
+      "answer": "Solar PV (~43%), onshore windmills (~26%), and offshore windmills (<~7%)"
+    },
+    {
+      "question": "What is the expected growth in sustainable fuels until 2035?",
+      "answer": "3.3\u00d7, reaching 290 Mt in the Further Acceleration scenario"
+    },
+    {
+      "question": "What is the expected growth rate in battery demand by 2030?",
+      "answer": "~30% CAGR"
+    },
+    {
+      "question": "What is the expected decrease in battery prices by 2030?",
+      "answer": "30\u221260%"
+    },
+    {
+      "question": "What is the process of fusion?",
+      "answer": "Combining atoms under high temperatures and pressure to release clean energy."
+    },
+    {
+      "question": "When is the commercial launch of a nuclear fusion plant expected?",
+      "answer": "In the next decade."
+    },
+    {
+      "question": "What are the primary methods for hydrogen production?",
+      "answer": "Gray/brown, blue, and green hydrogen."
+    },
+    {
+      "question": "What is the byproduct of the process of converting water into green hydrogen using electrolyzers?",
+      "answer": "Oxygen."
+    },
+    {
+      "question": "Why are other energy storage solutions required besides Lithium-ion batteries?",
+      "answer": "Because Lithium-ion batteries can only shift energy for <8 hours without becoming very expensive and incurring issues with their high self-discharge rate."
+    },
+    {
+      "question": "What is the expected share of 2050 global energy mix to be sourced from renewable generation?",
+      "answer": "80-90%."
+    },
+    {
+      "question": "What are some of the more mature technologies for clean energy?",
+      "answer": "Water electrolysis and steam reforming of biomethane/biogas with or without carbon capture and utilization/storage."
+    },
+    {
+      "question": "What is required for long-duration energy storage?",
+      "answer": "More efficient energy storage capabilities are required, given increased solar and wind power generation."
+    },
+    {
+      "question": "What is the predicted share of 2050 global energy mix to be sourced from renewable generation?",
+      "answer": "80-90%."
+    },
+    {
+      "question": "What is required to scale hydrogen production across a wider set of applications?",
+      "answer": "Drastic reductions in production costs, coupled with infrastructure development."
+    },
+    {
+      "question": "What is a key feature of a smart grid?",
+      "answer": "It is an advanced, intelligent electric-grid system that can provide real-time insights and control for the distribution grid."
+    },
+    {
+      "question": "What is the predicted growth in annual solar PV capacity installations from 2020 to 2030 in a 1.5\u00baC pathway?",
+      "answer": "8\u00d7."
+    },
+    {
+      "question": "What is required to accelerate the scaling of solar-power and wind generation tech?",
+      "answer": "Cost-efficient manufacturability."
+    },
+    {
+      "question": "What percentage of final energy consumption could be met by green hydrogen by 2050?",
+      "answer": "~28%."
+    },
+    {
+      "question": "By how much is hydrogen demand expected to grow by 2050?",
+      "answer": "5\u00d7."
+    },
+    {
+      "question": "What is the expected carbon abatement by 2050?",
+      "answer": "2.5 Gt."
+    },
+    {
+      "question": "What share of hydrogen supply mix is expected to come from green hydrogen by 2035?",
+      "answer": "~65%."
+    },
+    {
+      "question": "Which company committed to reducing greenhouse-gas emissions from energy production by 96% from 2006 to 2023?",
+      "answer": "\u00d8rsted, a Danish energy company."
+    },
+    {
+      "question": "What is Iberdrola's target for reducing all emissions by 2030?",
+      "answer": "43% (from 2017)."
+    },
+    {
+      "question": "How many countries have dedicated hydrogen strategies in place?",
+      "answer": "About 40."
+    },
+    {
+      "question": "What are some of the hard-to-abate sectors that will benefit from carbon abatement by 2050?",
+      "answer": "Iron and steel production, chemical and refining, long-haul trucks, cargo ships."
+    },
+    {
+      "question": "What is driving the growth in hydrogen demand by 2050?",
+      "answer": "Primarily road transport, maritime, and aviation."
+    },
+    {
+      "question": "What is needed in solar PVs and on- and offshore wind generation plants?",
+      "answer": "Higher capacity, stability, and reliability."
+    },
+    {
+      "question": "What is inhibiting the adoption of green hydrogen?",
+      "answer": "The slow pace of infrastructure development and high production costs, specifically significant cost reductions in electrolyzers are needed to scale."
+    },
+    {
+      "question": "What is crucial to improve hydrogen density, purity, and lifetime?",
+      "answer": "Higher production efficiency in electrolyzers."
+    },
+    {
+      "question": "What is expected to drop as consumer demand accelerates by 2030?",
+      "answer": "High production costs, such as EV battery pack costs which are currently 30\u201340% of total EV cost."
+    },
+    {
+      "question": "What remains under R&D in the field of energy storage?",
+      "answer": "Long-duration energy storage technologies."
+    },
+    {
+      "question": "What are some of the challenges faced by smart grids?",
+      "answer": "Integration, costly installation, and deployment challenges that require further research investments."
+    },
+    {
+      "question": "What are some of the overarching uncertainties in the clean energy sector?",
+      "answer": "Supply chain risks amid global economic uncertainties, insufficient regulatory clarity on decarbonization commitments, renewable-energy requirements, and uncertain carbon pricing."
+    },
+    {
+      "question": "What is the current status of hydrogen use?",
+      "answer": "Hydrogen use is currently confined to a few sectors, pending wider applications."
+    },
+    {
+      "question": "What is needed to accelerate EV adoption?",
+      "answer": "Scaling of EV-charging infrastructure."
+    },
+    {
+      "question": "What is one of the arguments in the supportive view of traditional renewables?",
+      "answer": "Solar and wind renewables are 'battle tested,' with a clear business case and cost advantage."
+    },
+    {
+      "question": "What is one of the concerns mentioned in the opposing view of traditional renewables?",
+      "answer": "Most renewable energy sources are intermittent; therefore, storage systems remain a bottleneck."
+    },
+    {
+      "question": "What is the current trend in mobility?",
+      "answer": "Mobility is undergoing its 'second great inflection point'\u2014a shift toward autonomous, connected, electric, and smart (ACES) technologies."
+    },
+    {
+      "question": "What are the four disruptive dimensions of mobility?",
+      "answer": "The four disruptive dimensions of mobility are Autonomous, Connected, Electric, and Smart, abbreviated as ACES."
+    },
+    {
+      "question": "What is the purpose of connected-vehicle technologies?",
+      "answer": "Connected-vehicle technologies use vehicle-to-everything communications to address safety, system efficiency, and mobility on roadways."
+    },
+    {
+      "question": "What is the long-term cost trend of renewable energy?",
+      "answer": "The long-term cost of renewable energy is competitive or lower than today's energy sources."
+    },
+    {
+      "question": "Is it feasible to switch to 100% renewable energy?",
+      "answer": "In some countries, 100% renewable energy is more difficult to achieve, since it depends on one's resources."
+    },
+    {
+      "question": "What is happening to the costs of solar and wind energy?",
+      "answer": "Solar and wind costs are decreasing every year."
+    },
+    {
+      "question": "Are business opportunities in clean tech expected to continue growing?",
+      "answer": "The B2C and B2B markets are growing as consumers and businesses increasingly favor sustainable products and anticipate sustainability regulations."
+    },
+    {
+      "question": "What is driving the mobility revolution?",
+      "answer": "Regulation, shifting consumer preferences, and technology disruption."
+    },
+    {
+      "question": "By how much could the EU tighten emission targets for 2030?",
+      "answer": "50%."
+    },
+    {
+      "question": "What is the expected portion of miles traveled with shared transportation modes by 2030?",
+      "answer": "60%."
+    },
+    {
+      "question": "What is the increase in average annual investments in autonomous vehicles over the past 5 years?",
+      "answer": "8x."
+    },
+    {
+      "question": "When is fuel-cell parity with ICE expected?",
+      "answer": "By 2030."
+    },
+    {
+      "question": "What are the most noteworthy technologies for the future of mobility?",
+      "answer": "ACES (Autonomy, Connected vehicle, Electrification, Smart mobility)."
+    },
+    {
+      "question": "What is the description of Lidar technology?",
+      "answer": "Range detection system relying on light travel time measurement."
+    },
+    {
+      "question": "What is the purpose of HD maps plus SLAM?",
+      "answer": "Simultaneous mapping and localization solution to map out unknown environments."
+    },
+    {
+      "question": "What is the expected year-over-year increase in inner-city trips with shared bikes and scooters in 2019?",
+      "answer": "136 million trips, with a 150% increase."
+    },
+    {
+      "question": "What portion of US consumers expect their use of shared mobility to increase in the next 2 years?",
+      "answer": "2/3."
+    },
+    {
+      "question": "By how much could the EU tighten emission targets for 2030?",
+      "answer": "50%"
+    },
+    {
+      "question": "How many EU cities have access regulation for low-emission vehicles and pollution emergencies?",
+      "answer": "150+"
+    },
+    {
+      "question": "What portion of US consumers expect their use of shared mobility to increase in the next 2 years?",
+      "answer": "2/3"
+    },
+    {
+      "question": "What was the year-over-year increase in inner-city trips with shared bikes and scooters in 2019?",
+      "answer": "60%"
+    },
+    {
+      "question": "How much have average annual investments in autonomous vehicles increased over the past 5 years?",
+      "answer": "8x"
+    },
+    {
+      "question": "What is the expected portion of miles traveled with shared transportation modes by 2030?",
+      "answer": "50%"
+    },
+    {
+      "question": "What is the acronym that represents the most noteworthy technologies in the future of mobility?",
+      "answer": "ACES"
+    },
+    {
+      "question": "What are the technologies represented by the acronym ACES?",
+      "answer": "Autonomy, Connected vehicle, Electrification, Smart mobility"
+    },
+    {
+      "question": "What type of propulsion system is described as converting energy stored as hydrogen to electricity?",
+      "answer": "A propulsion system where energy stored as hydrogen is converted to electricity by the fuel cell."
+    },
+    {
+      "question": "What are some examples of advanced composites mentioned in the text?",
+      "answer": "Carbon-fiber-reinforced plastics, which could substitute for steel."
+    },
+    {
+      "question": "What is meant by 'green steel' in the context of the text?",
+      "answer": "Green steel is made with mass balancing or innovative technology, including using direct reduced iron (DRI) and an electric arc furnace (EAF)."
+    },
+    {
+      "question": "What are some of the disruptions that the trend could enable in ground transportation?",
+      "answer": "Advanced driver assistance systems (ADAS), dynamic shuttle services/pooled e-hailing, peer-to-peer mobility, autonomous vehicles, and hyperloop."
+    },
+    {
+      "question": "Which industries are most affected by the trend according to the text?",
+      "answer": "Automotive and assembly; aviation, travel, and logistics; and telecommunications."
+    },
+    {
+      "question": "What is one of the implications of the technology trend for the automotive and assembly industry?",
+      "answer": "A shift from personal ownership to shared vehicles, drastic increase in OEM market entrants, and increased investment in tech R&D and ecosystem partnerships."
+    },
+    {
+      "question": "What are some examples of materials measuring 10\u2013100 nanometers in at least 1 dimension?",
+      "answer": "Graphene or carbon nanotubes."
+    },
+    {
+      "question": "What are some examples of 'green' materials mentioned in the text?",
+      "answer": "Green steel, green aluminum, and green plastics."
+    },
+    {
+      "question": "What technologies are included in carbon-reduced production?",
+      "answer": "Using direct reduced iron (DRI) and an electric arc furnace (EAF)."
+    },
+    {
+      "question": "How is green aluminum made?",
+      "answer": "With more widespread use of renewable electricity in smelters and multiple technology innovations flushing out most of the residual production emissions over the next decade."
+    },
+    {
+      "question": "What are green plastics made of?",
+      "answer": "Bio-based feedstock and electrified production assets."
+    },
+    {
+      "question": "What disruptions could the trend enable in ground transportation?",
+      "answer": "Advanced driver assistance systems (ADAS), dynamic shuttle services/pooled e-hailing, peer-to-peer mobility, autonomous vehicles, and hyperloop."
+    },
+    {
+      "question": "What industries are most affected by the trend?",
+      "answer": "Automotive and assembly; aviation, travel, and logistics; and telecommunications."
+    },
+    {
+      "question": "What is the implication of the trend for the automotive and assembly industry?",
+      "answer": "Changing pockets of growth, exploration of new mobility verticals and operating models, drastic increase in OEM market entrants, and increased investment in tech R&D and ecosystem partnerships."
+    },
+    {
+      "question": "How will the trend affect the aviation, travel, and logistics industry?",
+      "answer": "Improvements in operational setup, new business models, shift of volume from rail to road, and improved efficiency of public transport."
+    },
+    {
+      "question": "What new opportunities will the trend bring to the telecommunications industry?",
+      "answer": "New opportunities to monetize value-added services by combining core connectivity with vehicular technologies and real-time mobility data."
+    },
+    {
+      "question": "What are the primary drivers of disruption caused by novel transportation technologies?",
+      "answer": "Macroeconomic impact, changes in resource demand patterns, novel modes of transportation, and changes to vehicle ownership models, as well as shifting value pools."
+    },
+    {
+      "question": "Which industries are affected by the implications of novel transportation technologies?",
+      "answer": "Metals and mining, Electric power, natural gas, and utilities, Information technology and electronics, Financial services, Oil and gas, Retail, Public and social sectors."
+    },
+    {
+      "question": "What is the impact of novel transportation technologies on the metals and mining industry?",
+      "answer": "Change in material usage patterns (e.g. steel for new powertrain types) and increased demand for sustainable materials (e.g. green steel, green aluminum)."
+    },
+    {
+      "question": "What are some use cases for autonomous vehicles in the transportation of goods?",
+      "answer": "Autonomous trucks in long-haul supply chain, Freight drones for last-mile delivery, Supply chain optimization solutions enabling same-day delivery, Trucking marketplaces for efficient freight management."
+    },
+    {
+      "question": "Which companies have successfully created impact with autonomous trucks?",
+      "answer": "UPS and TuSimple."
+    },
+    {
+      "question": "What are the benefits of BMW's Driving Assistance package?",
+      "answer": "Safer driving: 27% cut in property damage claims, 37% cut in bodily injury claims, and 6% cut in collision claims."
+    },
+    {
+      "question": "What is an example of a technology use case in the electric power, natural gas, and utilities industry?",
+      "answer": "Vehicle-to-grid systems (in which EVs return excess electricity back to the grid or throttle their charging rate)."
+    },
+    {
+      "question": "What is driving the need for more generation capacity and reinforcement of transmission and distribution networks in the electric power, natural gas, and utilities industry?",
+      "answer": "Increased demand for electricity from EVs."
+    },
+    {
+      "question": "What are some potential changes in the financial services industry due to the trend of autonomous vehicles?",
+      "answer": "Change in claims portfolio, such as impact of increasing car safety with ADAS and autonomous-vehicle systems, and new insurance use cases for autonomous vehicles."
+    },
+    {
+      "question": "What is an example of a novel mode of delivery in the retail industry?",
+      "answer": "Airborne drones."
+    },
+    {
+      "question": "What are some use cases for autonomous vehicles in the transportation of people?",
+      "answer": "Novel mobility services such as robo-taxis and purpose-built vehicles with longer durability."
+    },
+    {
+      "question": "Which company has seen environmental benefits and fuel savings through the use of autonomous trucks?",
+      "answer": "UPS, in partnership with TuSimple, has delivered >13% fuel savings."
+    },
+    {
+      "question": "What is an example of a company that has successfully created impact with connected vehicles?",
+      "answer": "Deutsche Telekom, which is codeveloping connected-vehicle solutions in partnership with OEMs and identifying new customer connectivity needs."
+    },
+    {
+      "question": "What is the reported characteristic of 'Microlattice' metal developed by Boeing, Caltech, GM, and UC Irvine?",
+      "answer": "It is 100x lighter than Styrofoam but strong enough to be used in structural components of airplanes."
+    },
+    {
+      "question": "What are some benefits associated with the future of mobility trend?",
+      "answer": "Cost savings from supply chain improvements, market expansion from reaching new customer segments, and sustainability as new modes prioritize electric, hydrogen-based, or hybrid propulsion."
+    },
+    {
+      "question": "What are some risks and uncertainties surrounding the future of mobility trend?",
+      "answer": "Safety and accountability concerns surround uncrewed and autonomous mobility technologies, technology uncertainties about batteries, customer perceptions of noise and visual impact, equipment and infrastructure costs, regulation shifts, and privacy and security concerns."
+    },
+    {
+      "question": "What are some topics of debate related to the future of mobility trend?",
+      "answer": "Market penetration and timing of autonomy, future of smart mobility in cities, impact of shared mobility, timing for new aerial modes of transport, and sustainable and inclusive air mobility."
+    },
+    {
+      "question": "What is a potential hindrance to the widespread adoption of autonomous vehicles?",
+      "answer": "Safety concerns, data protection issues, high upfront costs, and insufficient regulation."
+    },
+    {
+      "question": "What is the expected outcome of advancements in shared mobility?",
+      "answer": "It is uncertain whether shared mobility will deliver on hoped-for financial and environmental impact as many operators struggle with profitability and it has not yet proved its long-term economic viability."
+    },
+    {
+      "question": "When might customers expect affordable advanced air mobility solutions?",
+      "answer": "The industry may take significantly longer to scale and bend the cost of a short-haul flight to the equivalent of a taxi ride, although novel modes may become available in the next decade with a premium price tag."
+    },
+    {
+      "question": "What has been the largest shift in space tech over the past 5-10 years?",
+      "answer": "The largest shift in space tech over the past 5\u201310 years has been the acceleration down the cost curve, which is increasingly unlocking new capabilities, use cases, and users for space tech and satellite data and scaling accessibility."
+    },
+    {
+      "question": "What has driven the cost-effectiveness of space technologies?",
+      "answer": "One of the drivers of cost-effectiveness has been the reduction of size, weight, power, and cost (SWaP-C) of satellites and launch vehicles."
+    },
+    {
+      "question": "What is the estimated market size of the space industry by 2030?",
+      "answer": "The estimated market size of the space industry is over $1 trillion by 2030."
+    },
+    {
+      "question": "What is the estimated annual growth rate of the space market from now until 2030?",
+      "answer": "The space market is estimated to grow by more than 10% annually by 2030 from a value of ~$447B today."
+    },
+    {
+      "question": "What are some of the new business models emerging in the space industry?",
+      "answer": "New business models, including vertical integration required to meet increased demand, are driven by movement toward value-added services, given higher margins."
+    },
+    {
+      "question": "What is driving the demand for value-added services in the space industry?",
+      "answer": "Value-added services necessitate a higher degree of digital applications (e.g., autonomous landing of launch vehicles, AI delivering real-time insights to clients)."
+    },
+    {
+      "question": "What has been the largest shift in space tech over the past 5\u201310 years?",
+      "answer": "The largest shift in space tech over the past 5\u201310 years has been the acceleration down the cost curve, which is increasingly unlocking new capabilities, use cases, and users for space tech and satellite data and scaling accessibility."
+    },
+    {
+      "question": "What has driven the cost-effectiveness of satellites and launch vehicles?",
+      "answer": "One of the drivers of cost-effectiveness has been the reduction of size, weight, power, and cost (SWaP-C) of satellites and launch vehicles."
+    },
+    {
+      "question": "What is the estimated market value of the space market today and its estimated annual growth by 2030?",
+      "answer": "The space market is valued at ~$447B today and is estimated to grow by >10% annually by 2030."
+    },
+    {
+      "question": "What is the estimated compound annual growth rate (CAGR) for Earth observation information products, data analytics, data downlink, and space tourism and travel up to 2030?",
+      "answer": "~15% CAGR up to 2030 is estimated for Earth observation information products, data analytics, data downlink, and space tourism and travel."
+    },
+    {
+      "question": "How many companies are involved in the new space industry today and how many are expected to be involved by 2030?",
+      "answer": "More than 600 companies are involved in the new space industry today, and this number is expected to grow to 1,000+ by 2030."
+    },
+    {
+      "question": "What are some of the new business models being driven by the movement toward value-added services in the space industry?",
+      "answer": "New business models, including vertical integration required to meet increased demand, are driven by movement toward value-added services, given higher margins."
+    },
+    {
+      "question": "What technological advancements have contributed to making new space applications more economically feasible?",
+      "answer": "Technological advancements and the reduction of size, weight, and power of satellites and launch vehicles have contributed to cost-effectiveness, making new space applications more economically feasible."
+    },
+    {
+      "question": "What is driving the democratization of production in the satellite industry?",
+      "answer": "Lower costs due to new manufacturing processes, including additive manufacturing and modular designs."
+    },
+    {
+      "question": "What is the shift in satellite architecture that has been enabled by new technologies?",
+      "answer": "A shift from individual GEO satellites to proliferated architectures in LEO."
+    },
+    {
+      "question": "What are the benefits of LEO constellations?",
+      "answer": "Increasingly dense coverage and capacity globally, lower latency, higher flexibility, and revisit."
+    },
+    {
+      "question": "What is the expected increase in data transfer speeds with laser communications?",
+      "answer": "100x\u20131,000x vs traditional radio frequency."
+    },
+    {
+      "question": "What is the purpose of edge computing in the satellite industry?",
+      "answer": "Processing data closer to the point of collection in the cloud, leveraging AI and machine learning capabilities, reducing latency, and saving bandwidth to deliver near-real-time insights."
+    },
+    {
+      "question": "What is the potential benefit of nuclear thermal/electric propulsion?",
+      "answer": "Propelling spacecraft at higher speeds for longer distances, enabling deep-space exploration."
+    },
+    {
+      "question": "What is the purpose of in-orbit servicing, such as satellite refueling and modification?",
+      "answer": "To extend mission lifetime and capabilities and to reduce replacement costs."
+    },
+    {
+      "question": "What is contributing to a reduction in operational costs and an increase in accessibility to space?",
+      "answer": "Reuse of booster structures, engines, or otherwise, coupled with technology advancements and increases in launch rate."
+    },
+    {
+      "question": "What are some of the applications of commercial forestry?",
+      "answer": "Inventory and mapping applications."
+    },
+    {
+      "question": "Which industries are primarily impacted by space technologies?",
+      "answer": "Telecommunications and Aerospace and defense."
+    },
+    {
+      "question": "What is one of the future activities that could be enabled by the reduction of launch costs and AI applications in space?",
+      "answer": "Space mining."
+    },
+    {
+      "question": "How can space technologies be used in the agriculture industry?",
+      "answer": "Monitoring soil, rainfall, and snow cover to inform irrigation plans and predict agricultural output."
+    },
+    {
+      "question": "What is one of the potential uses of in-orbit power generation?",
+      "answer": "Building space-based solar power generators to offset emissions on Earth."
+    },
+    {
+      "question": "Which industry is using radar satellite-based flood-monitoring capability?",
+      "answer": "Financial services."
+    },
+    {
+      "question": "What is one of the ways space technologies are being used to improve pharmaceuticals?",
+      "answer": "Conducting experiments leveraging microgravity, such as protein crystallization."
+    },
+    {
+      "question": "Who deployed remote-sensing analytics to unlock new insights across industries?",
+      "answer": "McKinsey."
+    },
+    {
+      "question": "What are some of the use cases of remote-sensing analytics?",
+      "answer": "Field-level insights for agriculture input players, vegetation detection for utility players, commodity tracking and procurement, supply chain traceability and forest carbon, building and construction detection, and oil and gas shale activity monitoring."
+    },
+    {
+      "question": "What are some of the unresolved risks related to space technologies?",
+      "answer": "Cost-effectiveness, governance, and cyberrisks."
+    },
+    {
+      "question": "Why is governance a concern for space technologies?",
+      "answer": "Governance should encompass usage rights and space activities, and mechanisms need to better define allocation of spectrum and orbit usage rights."
+    },
+    {
+      "question": "What is one of the topics of debate related to the trend of space technologies?",
+      "answer": "Space militarization and legal conflicts between states."
+    },
+    {
+      "question": "What is a key need for the space sector to achieve a democratized setup?",
+      "answer": "Reaching a common understanding about access rights and usage of properties and resources."
+    },
+    {
+      "question": "What is the concern regarding space as more companies access it?",
+      "answer": "Concern arises regarding space debris, space traffic management, and congestion."
+    },
+    {
+      "question": "What is the focus of sustainable consumption?",
+      "answer": "The use of goods and services that are produced with minimal environmental impact, using low-carbon and sustainable materials."
+    },
+    {
+      "question": "What percentage of GHG emissions is contributed by energy end use?",
+      "answer": "~50%"
+    },
+    {
+      "question": "Why should leaders pay attention to sustainability?",
+      "answer": "Because 90% emission reduction paired with emission removal is needed to avoid an environmental crisis, creating a $4 trillion\u2013$6 trillion addressable market."
+    },
+    {
+      "question": "What is the estimated global sustainability addressable market by 2030?",
+      "answer": "$4 trillion\u2013$6 trillion"
+    },
+    {
+      "question": "What percentage of customers are willing to pay a 'green premium' for sustainably produced products and services?",
+      "answer": "\u226450%"
+    },
+    {
+      "question": "What percentage of millennials want to work for a company strong on sustainability and other ESG dimensions?",
+      "answer": "80%"
+    },
+    {
+      "question": "How much faster do sustainable brands grow compared to others?",
+      "answer": "50% faster"
+    },
+    {
+      "question": "What is the goal of the 1.5\u00b0C pathway?",
+      "answer": "Holding global warming to 1.5\u00b0C above preindustrial levels through achieving net zero by 2050 and halving carbon emissions by 2030."
+    },
+    {
+      "question": "What are some examples of sustainable agriculture technologies?",
+      "answer": "Micro-irrigation, vertical farming, hydroponics, plant-based and cultured meats, methane inhibitors, and green fertilizers."
+    },
+    {
+      "question": "What industries are most affected by the trend of sustainable consumption?",
+      "answer": "Automotive and assembly, agriculture, aviation, travel, and logistics, construction and building materials, and pharmaceuticals and medical products."
+    },
+    {
+      "question": "What is an example of a technology for reducing carbon emissions in the construction industry?",
+      "answer": "Green construction, including energy and water efficiency, waste reduction, and eco-friendly materials use (e.g., green cement, green steel)."
+    },
+    {
+      "question": "What is carbon capture, use, and storage (CCUS)?",
+      "answer": "Capture of CO2 directly from industrial-emission sources."
+    },
+    {
+      "question": "Which industries could be most affected in the long term by sustainable consumption trends?",
+      "answer": "Chemicals, Oil and gas, Metals and mining, Electric power, natural gas, and utilities, Consumer packaged goods, Aerospace and defense, Information technology and electronics, Retail, Real estate, Telecommunications."
+    },
+    {
+      "question": "What is the implication of technology trends on the Chemicals industry?",
+      "answer": "Growing markets for recycled plastics and specialty plastics created from captured CO2; conversion of CO2 into polyurethane foam, displacing hydrocarbon that would otherwise come from fossil fuels."
+    },
+    {
+      "question": "Who launched a pilot project for conversion of captured CO2 to bioethylene?",
+      "answer": "Occidental Petroleum and Cemvita Factory."
+    },
+    {
+      "question": "What is Frontier, and what is its purpose?",
+      "answer": "Frontier is an advance market commitment by Stripe, Alphabet, Shopify, Meta, and McKinsey, to incentivize accelerated development of permanent carbon removal by guaranteeing future demand."
+    },
+    {
+      "question": "How is IKEA Systems incorporating natural capital and nature considerations into its business practices?",
+      "answer": "IKEA Systems includes biodiversity and deforestation considerations in its value chain partnerships (eg, supplier code of conduct), restricting business activities in areas of high conservation value and encouraging suppliers to follow the lead."
+    },
+    {
+      "question": "How much capital spending is required per year for a global transition to a net-zero economy?",
+      "answer": "~$9.2 trillion"
+    },
+    {
+      "question": "What percentage of technologies needed for a net-zero economy already exist?",
+      "answer": "~85%"
+    },
+    {
+      "question": "What is one of the challenges for mass agriculture farmers in adopting sustainable agriculture practices?",
+      "answer": "Implications for crop yields"
+    },
+    {
+      "question": "What is a potential risk associated with the commercialization of climate tech?",
+      "answer": "They aren\u2019t yet cost competitive with conventional tech"
+    },
+    {
+      "question": "What is a benefit for companies that join climate tech ecosystems early?",
+      "answer": "Early-mover advantage: Network benefits"
+    },
+    {
+      "question": "Why is regulatory action important for decarbonization?",
+      "answer": "Alignment of standards across borders and regions will be important"
+    },
+    {
+      "question": "What is a factor that can affect sustainable consumption initiatives?",
+      "answer": "Changes in consumer behavior, compared with stated commitments"
+    },
+    {
+      "question": "What has HKRITA partnered with Gap to develop?",
+      "answer": "Eco-friendly production processes and technology solutions"
+    },
+    {
+      "question": "What has Nutrien achieved in fertilizer production?",
+      "answer": "Drastically reduced upstream emissions"
+    },
+    {
+      "question": "What is the potential issue with attempting to reach a 100% recyclability rate in circular-economy practices?",
+      "answer": "The price of recovery might remain higher than the value of the materials recovered."
+    },
+    {
+      "question": "Why might investments in carbon removals be counterproductive?",
+      "answer": "They may divert funds and attention away from reducing emissions and further prop up the fossil fuel industry."
+    },
+    {
+      "question": "When is CCUS considered necessary?",
+      "answer": "In industries without other decarbonization alternatives."
+    },
+    {
+      "question": "Is CCUS cost effective for all industrial processes?",
+      "answer": "No, it is already cost effective for some industrial processes."
+    }
+  ]
+}

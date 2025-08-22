@@ -1,0 +1,3718 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"State of Grocery Retail 2023: Europe\" report examines the European grocery sector's response to uncertainty, driven by high inflation and consumer price sensitivity in 2022. The report highlights key trends shaping the industry, including a gradual normalization of price and volume, a search for cheaper food, and continued margin and cost pressure. European grocery sales grew by 2.9% in 2022, driven by 10.7% higher prices, but declined in volume sold by 3.6%. The report also notes a significant growth in private labels, driven by consumer downtrading and faster price increases for private-label goods.",
+  "qa_pairs": [
+    {
+      "question": "What was the main challenge faced by the European grocery sector in 2022?",
+      "answer": "Inflation and growing consumer price sensitivity.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of the inflation and growing consumer price sensitivity in 2022?",
+      "answer": "The biggest decrease in the margins of grocers in five years and a 7.1 percent drop in turnover in real values.",
+      "rating": 9
+    },
+    {
+      "question": "What are grocery retailers facing challenges in financing?",
+      "answer": "Investments in sustainability and technology necessary to reduce emissions, build resilience, and drive future growth.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the report 'Living with and responding to uncertainty \u2013 The State of Grocery Retail 2023: Europe' a collaboration between?",
+      "answer": "McKinsey & Company and EuroCommerce.",
+      "rating": 10
+    },
+    {
+      "question": "How many consumers were surveyed across Europe for the report?",
+      "answer": "More than 12,000 consumers across eleven European countries.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the State of Grocery report?",
+      "answer": "To provide executives with a comprehensive view of the market and future trends.",
+      "rating": 9
+    },
+    {
+      "question": "How many consumers were surveyed across eleven European countries for the report?",
+      "answer": "More than 12,000 consumers.",
+      "rating": 9
+    },
+    {
+      "question": "What was the general inflation rate in the European Union in 2022?",
+      "answer": "9.2 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How did overall grocery sales in Europe change in 2022 compared to 2021?",
+      "answer": "Overall grocery sales in Europe grew by 2.9 percent in 2022 compared with 2021.",
+      "rating": 9
+    },
+    {
+      "question": "What were the factors contributing to the 2.9 percent growth in overall grocery sales in Europe in 2022?",
+      "answer": "The growth was the result of 10.7 percent higher prices, a decrease of 3.6 percent in volume sold, and a downtrading effect of 3.6 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the peak general inflation rate in the European Union in 2022?",
+      "answer": "11.5 percent in October.",
+      "rating": 9
+    },
+    {
+      "question": "How did food inflation compare to general inflation in some European countries in 2022?",
+      "answer": "Food inflation was as much as twice as high as general inflation in some countries.",
+      "rating": 9
+    },
+    {
+      "question": "What were the European grocery retail market dynamics characterized by in 2022?",
+      "answer": "High inflation, volume decline, and trading down.",
+      "rating": 8
+    },
+    {
+      "question": "What was the growth rate of the European grocery retail market in 2022 compared to the previous year?",
+      "answer": "2.9%",
+      "rating": 8
+    },
+    {
+      "question": "What were the drivers of the European grocery retail market growth in 2022?",
+      "answer": "10.7% higher prices, a decrease of 3.6% in volume sold, and a downtrading effect of 3.6%.",
+      "rating": 9
+    },
+    {
+      "question": "How did the value share of private labels change in Europe compared to 2021?",
+      "answer": "The value share of private labels increased by 1.9 percentage points.",
+      "rating": 9
+    },
+    {
+      "question": "What was the impact of discounters on the European grocery retail market in 2022?",
+      "answer": "Discounters gained 1.4 percent in market share, driven by aggressive footprint growth, recovery from pandemic-related sales dip, price inflation, and increased price sensitivity.",
+      "rating": 10
+    },
+    {
+      "question": "How did the margins of European grocery retailers change between 2019 and 2022?",
+      "answer": "The average margin decreased by three percentage points.",
+      "rating": 8
+    },
+    {
+      "question": "What is expected to happen to inflation in Europe over the course of 2023?",
+      "answer": "Inflation is expected to continue to abate.",
+      "rating": 8
+    },
+    {
+      "question": "What is the trend of consumer confidence in the EU since September 2022?",
+      "answer": "Consumer confidence in the EU has been rising for five consecutive months.",
+      "rating": 9
+    },
+    {
+      "question": "What was the level of consumer confidence in the EU in February 2023?",
+      "answer": "The level of consumer confidence in February 2023 was \u201320.6.",
+      "rating": 9
+    },
+    {
+      "question": "How does the consumer confidence in February 2023 compare to January 2022?",
+      "answer": "Consumer confidence in February 2023 (\u201320.6) was lower than it was in January 2022 (\u201310.9).",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of European grocery CEOs expect 2023 to be worse than 2022?",
+      "answer": "44 percent of European grocery CEOs expect 2023 to be worse than 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What are the key themes for 2023 according to the survey of European grocery CEOs?",
+      "answer": "The key themes for 2023 are rising costs and margin pressure, downtrading, and an increased focus on private labels.",
+      "rating": 9
+    },
+    {
+      "question": "What is the net intent of consumers toward looking for ways to save money when shopping for groceries in 2023?",
+      "answer": "The European average net intent of consumers toward looking for ways to save money when shopping for groceries in 2023 is 55% (+14).",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of CEOs expect market conditions for the grocery retail industry to become worse in 2023?",
+      "answer": "44%",
+      "rating": 8
+    },
+    {
+      "question": "How did the net intent of consumers toward looking for ways to save money when shopping for groceries change in 2023 compared to 2022?",
+      "answer": "It increased by 12 percentage points to 53%.",
+      "rating": 9
+    },
+    {
+      "question": "What was the change in the percentage of consumers who prioritize buying store's own food brands instead of known brands in 2023 compared to 2022?",
+      "answer": "It increased by 14 percentage points to 55%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of consumers planned to buy groceries online more in 2023 compared to 2022?",
+      "answer": "The net intent to buy groceries online varied by country, but the European average was 31% with a decrease of 2 percentage points.",
+      "rating": 8
+    },
+    {
+      "question": "What are the predominant trends expected by European CEOs in the grocery retail industry in 2023?",
+      "answer": "Inflation, downtrading, and an increased focus on private labels.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of consumers actively look for ways to save money when shopping for groceries in 2023?",
+      "answer": "53%",
+      "rating": 8
+    },
+    {
+      "question": "How did the percentage of consumers who prioritize price when shopping for groceries change from 2022 to 2023?",
+      "answer": "The net intent of consumers toward prioritizing price increased by 12% to 53% in 2023 compared to 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What was the trend in consumer behavior regarding healthy and sustainable products from 2022 to 2023?",
+      "answer": "Healthy and sustainable products became less of a priority for consumers in 2023 compared to 2022.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of European CEOs mentioned inflation as one of the top trends in the grocery industry in 2023?",
+      "answer": "The text does not provide a specific percentage for inflation, but it is mentioned as one of the predominant trends in 2023.",
+      "rating": 7
+    },
+    {
+      "question": "What were the predominant trends in the grocery retail industry expected by European CEOs in 2023?",
+      "answer": "European CEOs expected inflation, downtrading, and an increased focus on private labels to be the predominant trends in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "How many consumers were surveyed in the Consumer Survey 2023?",
+      "answer": "12,777 consumers were surveyed across 11 European countries.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of surveyed European executives named margin pressure a top trend for 2023?",
+      "answer": "88%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected time lag for food retail prices to adjust to changes in commodity prices?",
+      "answer": "About six to twelve months.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of consumers look for ways to save money when shopping, according to the survey?",
+      "answer": "53%, up from 41% in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected additional annual media spend that will go into retail media by 2025?",
+      "answer": "+ \u20ac11 billion.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of UK customers shop online sometimes or always with a different banner than offline?",
+      "answer": "~75%.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of value chain emissions of grocers are in the meat and dairy categories?",
+      "answer": "~50%.",
+      "rating": 7
+    },
+    {
+      "question": "By how much did retail volumes decline across Europe in 2022 compared with 2021?",
+      "answer": "3.6 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the percentage decline in retail volumes across Europe in 2022 compared with 2021?",
+      "answer": "3.6 percent.",
+      "rating": 9
+    },
+    {
+      "question": "When did most of the drop in retail volume happen in 2022?",
+      "answer": "In the second quarter of 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected volume decline for the full year 2023 compared with the previous year?",
+      "answer": "1 to 2 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to food commodity prices in the first quarter of 2023?",
+      "answer": "They decreased significantly.",
+      "rating": 8
+    },
+    {
+      "question": "By how much did the global agriculture price index decrease from its April 2022 peak?",
+      "answer": "12.8 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of consumers plan to buy more private labels in 2023 than they did in 2022?",
+      "answer": "36 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How did the share of private labels change across Europe in 2022?",
+      "answer": "It increased by 1.9 percentage points on average.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of respondents said the quality of private labels is similar to or better than the quality of branded products?",
+      "answer": "84 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was observed in 2022 regarding market share development and private labels?",
+      "answer": "There was a strong correlation between market share development and the attractiveness of a grocery retailer\u2019s private labels as perceived by consumers.",
+      "rating": 9
+    },
+    {
+      "question": "What happens to consumers once they try a private label product?",
+      "answer": "They are often pleasantly surprised by the product quality, and some of them stick with them.",
+      "rating": 8
+    },
+    {
+      "question": "How did the EBITDA margins of grocery retailers and food processors change between 2019 and 2022?",
+      "answer": "The EBITDA margins of grocery retailers decreased by 1.0 percentage point, while the EBITDA margins of food processors decreased by 0.8 points.",
+      "rating": 9
+    },
+    {
+      "question": "What is expected to happen to cost and margin pressure for grocery retailers in 2023?",
+      "answer": "Cost and margin pressure for grocery retailers is expected to remain high at least in the first half of 2023.",
+      "rating": 9
+    },
+    {
+      "question": "How much additional investment is the grocery retail industry expected to need between now and 2030?",
+      "answer": "The industry needs cumulative additional investments of \u20ac70 billion to \u20ac125 billion.",
+      "rating": 9
+    },
+    {
+      "question": "Why is it becoming harder for grocery retailers to finance investments?",
+      "answer": "Margin pressure and the increasing cost of capital are making it harder for grocery retailers to finance these investments.",
+      "rating": 9
+    },
+    {
+      "question": "How has the weighted average cost of capital for grocery retailers changed from 2021 to 2022?",
+      "answer": "The weighted average cost of capital has increased from 2.6 percent in 2021 to 6.7 percent in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated range of cumulative additional investments required by the industry between now and 2030 to drive sustainability, digitalization, IT improvements, and automation?",
+      "answer": "\u20ac70 billion to \u20ac125 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What has happened to the weighted average cost of capital for grocery retailers from 2021 to 2022?",
+      "answer": "It has increased from 2.6 percent to 6.7 percent.",
+      "rating": 10
+    },
+    {
+      "question": "Why is it becoming harder for grocery retailers to finance investments?",
+      "answer": "Due to margin pressure and the increasing cost of capital.",
+      "rating": 9
+    },
+    {
+      "question": "What is happening to both retailers' and CPG companies' margins?",
+      "answer": "They face substantial pressure.",
+      "rating": 8
+    },
+    {
+      "question": "What is expected to intensify as smaller grocery retailers are disproportionately affected by current market developments?",
+      "answer": "Structural measures to achieve synergies and economies of scale.",
+      "rating": 8
+    },
+    {
+      "question": "Why is scale becoming more valuable in the grocery retail market?",
+      "answer": "Because of increasing price sensitivity, margin pressure, and substantial investment needs.",
+      "rating": 9
+    },
+    {
+      "question": "What strategies are larger grocery retailers likely to pursue to achieve economies of scale?",
+      "answer": "More intense M&A strategies or forming broader partnerships.",
+      "rating": 9
+    },
+    {
+      "question": "What are smaller grocery retailers likely to explore as alternative ways of achieving scale?",
+      "answer": "Bundle purchasing, joining franchising networks, and forming partnerships for joint investments.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to Aldi North in the Danish market?",
+      "answer": "Aldi North announced that it will exit the Danish market.",
+      "rating": 8
+    },
+    {
+      "question": "What is expected to happen to e-grocery growth in the future?",
+      "answer": "E-grocery is expected to return to a long-term growth trajectory going forward.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of customers in the United Kingdom shop online with a different banner than offline?",
+      "answer": "Around 75% of customers shop online sometimes or always with a different banner than offline.",
+      "rating": 9
+    },
+    {
+      "question": "Which market is growing more quickly, e-grocery or meal delivery?",
+      "answer": "Meal delivery continues to grow more quickly than e-grocery.",
+      "rating": 10
+    },
+    {
+      "question": "What is expected to happen to meal delivery market size in relation to e-grocery?",
+      "answer": "Meal delivery will likely overtake e-grocery in terms of market size in the next two to three years.",
+      "rating": 10
+    },
+    {
+      "question": "What is the expectation for the share of marketing budget allocated towards grocery retail media network (RMN) spend in 2023?",
+      "answer": "80% of advertisers expect the share of marketing budget allocated towards grocery retail media network (RMN) spend to grow in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What is expected to happen to meal delivery in terms of market size compared to e-grocery in the next two to three years?",
+      "answer": "Meal delivery is expected to overtake e-grocery in terms of market size.",
+      "rating": 9
+    },
+    {
+      "question": "What is the compound annual growth rate (CAGR) of meal delivery from 2019-2022?",
+      "answer": "+26% p.a.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of advertisers expect the share of marketing budget allocated towards grocery retail media network (RMN) spend to grow in 2023?",
+      "answer": "90%",
+      "rating": 9
+    },
+    {
+      "question": "How do advertisers perceive the importance of RMNs to their advertising/marketing efforts?",
+      "answer": "70% of advertisers say that RMNs are very to extremely important to their advertising/marketing efforts.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected role of retail media businesses for top players in the grocery industry?",
+      "answer": "Retail media businesses are likely to become a substantial EBIT driver for the grocery industry.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of online food sales in the United States are made up of retail media sales?",
+      "answer": "10 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the expected value of the European retail media market in 2025?",
+      "answer": "\u20ac21 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of CPG advertisers plan to increase their spending on retail media in the next 12 months?",
+      "answer": "90 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How much investment is required by 2030 for the automation and technology transformation of the European grocery retail industry?",
+      "answer": "\u20ac40 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected annual growth rate of the EU-27 automation market for retail?",
+      "answer": "13 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How much will IT modernization efforts cost grocery retailers cumulatively by 2030?",
+      "answer": "Up to \u20ac19 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What was the value of the European retail media market in 2022?",
+      "answer": "\u20ac10 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cumulative investment need for automation across the European grocery retail industry by 2030?",
+      "answer": "About \u20ac18 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated cumulative cost of IT modernization for grocery retailers by 2030?",
+      "answer": "\u20ac19 billion.",
+      "rating": 8
+    },
+    {
+      "question": "By how much can the EBIT margins of grocers be improved with analytics applications?",
+      "answer": "About one percentage point.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the potential EBIT margin improvement is linked to ten specific use cases?",
+      "answer": "About 80 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What are the most promising areas for Generative AI applications in grocery retail?",
+      "answer": "Marketing and customer interaction.",
+      "rating": 7
+    },
+    {
+      "question": "What is the estimated total capital expenditure required to reduce Scope 1 and 2 emissions across the European grocery retail industry by 2030?",
+      "answer": "\u20ac25 billion to \u20ac65 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of all emissions associated with retail are represented by Scope 1 and 2 emissions?",
+      "answer": "7 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How many grocery retailers had set science-based targets for decarbonization in 2022?",
+      "answer": "36.",
+      "rating": 8
+    },
+    {
+      "question": "What categories should be prioritized to reduce Scope 3 emissions?",
+      "answer": "Meat and dairy production.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of greenhouse gas emissions in Scope 1 and 2 can be abated in a cost-saving manner?",
+      "answer": "More than 60 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the approximate percentage of total emissions accounted for by Scope 3?",
+      "answer": "~93.",
+      "rating": 7
+    },
+    {
+      "question": "What is the key issue remaining for grocery retailers in terms of emissions?",
+      "answer": "Scope 3.",
+      "rating": 8
+    },
+    {
+      "question": "According to the research, what was the outcome for companies that took decisive action during the global financial crisis of 2007\u201308?",
+      "answer": "They performed better throughout the crisis and experienced higher growth once the crisis was over.",
+      "rating": 9
+    },
+    {
+      "question": "What is one of the strategic priorities for grocery retailers to emerge stronger from the current period of disruption and uncertainty?",
+      "answer": "Strengthening private\u2013label assortments and capabilities.",
+      "rating": 9
+    },
+    {
+      "question": "What is another crucial aspect of digitalization mentioned by Lu\u00eds Ara\u00fajo, CEO of Biedronka?",
+      "answer": "Data leverage, which applies to both consumer data and operational data.",
+      "rating": 9
+    },
+    {
+      "question": "What should retailers consider building to manage their private-label offerings effectively?",
+      "answer": "A design-to-win approach that revolves around key consumer needs and global trends such as value, health, and sustainability.",
+      "rating": 9
+    },
+    {
+      "question": "How can grocery retailers create the necessary fact base for data-driven supplier negotiations and price setting?",
+      "answer": "By examining how the prices for ingredients and other supplier costs are changing and seeking to understand how this should be reflected in the purchase price of each product.",
+      "rating": 9
+    },
+    {
+      "question": "What is one way for grocery retailers to boost the productivity of capital expenditure?",
+      "answer": "By challenging infrastructure investments and reviewing store footprints.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the value from implementing analytics comes from ten use cases according to the text?",
+      "answer": "80 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How can grocery retailers help achieve net zero emissions?",
+      "answer": "By collaborating across the value chain, helping suppliers and consumers navigate the reduction of Scope 3 emissions, and ensuring sustainable alternatives are available on their shelves.",
+      "rating": 9
+    },
+    {
+      "question": "What role do grocery retailers play in reducing Scope 3 emissions?",
+      "answer": "Grocery retailers have an essential role to play in helping suppliers and consumers navigate the reduction of Scope 3 emissions.",
+      "rating": 9
+    },
+    {
+      "question": "When is e-grocery expected to reach profitability?",
+      "answer": "Within the next two to three years.",
+      "rating": 8
+    },
+    {
+      "question": "What is ICA Gruppen AB's biggest asset?",
+      "answer": "The entrepreneurship of its store owners.",
+      "rating": 7
+    },
+    {
+      "question": "What are ICA's expectations for market conditions in 2023?",
+      "answer": "Market conditions will remain challenging throughout 2023 due to rising cost of living and price pressure.",
+      "rating": 9
+    },
+    {
+      "question": "What trend is observed in consumer behavior regarding private labels?",
+      "answer": "The share of private labels in the market is expected to continue to grow as consumers are often pleasantly surprised by the product quality.",
+      "rating": 9
+    },
+    {
+      "question": "What trend is observed in the share of private labels in the market?",
+      "answer": "The share of private labels in the market will continue to grow.",
+      "rating": 8
+    },
+    {
+      "question": "Why are consumers currently buying fewer sustainable products?",
+      "answer": "Consumers are focused on saving money.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current share of ecological products?",
+      "answer": "The share of ecological products is around 3 percent, which is an all-time low.",
+      "rating": 8
+    },
+    {
+      "question": "How is ICA driving its sustainability agenda?",
+      "answer": "ICA is reducing packaging material, working with local growers, and keeping sustainable options in its assortment.",
+      "rating": 9
+    },
+    {
+      "question": "Is meat alternatives a big topic for ICA?",
+      "answer": "Yes, it's a very big topic. ICA believes consumers will eat less meat in the future and is working with smaller companies to offer innovative products.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main shift happening in the market according to ICA?",
+      "answer": "The main shift is not between formats but between channels, with channels that communicate exclusively on price being the winners in the recent past.",
+      "rating": 8
+    },
+    {
+      "question": "What is ICA's online share in Sweden?",
+      "answer": "ICA's online share is about 3.5 percent of total sales in Sweden.",
+      "rating": 8
+    },
+    {
+      "question": "What is ICA's online share of total sales in Sweden?",
+      "answer": "About 3.5 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why does ICA prefer store pickup over home delivery for online orders?",
+      "answer": "Because many customers are not prepared to pay for home delivery at the moment.",
+      "rating": 8
+    },
+    {
+      "question": "What is ICA's expectation for the future of online sales?",
+      "answer": "ICA believes it will grow and has the potential to reach up to 10 percent of total sales.",
+      "rating": 9
+    },
+    {
+      "question": "How is ICA dealing with margin pressure?",
+      "answer": "By implementing a major productivity program to achieve improvements in operations, including logistics, and bringing down costs across the organization.",
+      "rating": 9
+    },
+    {
+      "question": "What are some of the measures ICA is taking to improve productivity?",
+      "answer": "Increasing the number of robots used and taking advantage of AI to make operations more efficient.",
+      "rating": 8
+    },
+    {
+      "question": "What is one of the major opportunities for ICA going forward?",
+      "answer": "The vast amount of traffic ICA attracts, including shopper traffic in stores and online.",
+      "rating": 8
+    },
+    {
+      "question": "How has ICA's customer card created synergies in its ecosystem?",
+      "answer": "By introducing a competitive savings interest rate, attracting customers to put money on their cards, which they then spend shopping at ICA stores.",
+      "rating": 9
+    },
+    {
+      "question": "What responsibility does ICA feel it has as an industry?",
+      "answer": "To model its values, create a good environment, treat employees well, and create opportunities for them within and beyond grocery stores.",
+      "rating": 8
+    },
+    {
+      "question": "When was Rohlik Group founded?",
+      "answer": "2014",
+      "rating": 7
+    },
+    {
+      "question": "What was the core proposition of Rohlik Group when it was launched?",
+      "answer": "Same-day delivery with a 90-minute delivery window, unprecedented assortment differentiation, reliability, and service.",
+      "rating": 9
+    },
+    {
+      "question": "In how many years did Rohlik Group break even in the Czech Republic?",
+      "answer": "Four years, in 2018.",
+      "rating": 8
+    },
+    {
+      "question": "In which countries is Rohlik Group currently active?",
+      "answer": "The Czech Republic, Hungary, Austria, Germany, and Romania.",
+      "rating": 9
+    },
+    {
+      "question": "Was COVID-19 a major driver of growth for Rohlik Group?",
+      "answer": "Not really, as they were already scaling the business before COVID-19 and had a good proposition.",
+      "rating": 8
+    },
+    {
+      "question": "What was Rohlik Group's growth rate before COVID-19?",
+      "answer": "100 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What is Rohlik Group's current growth rate?",
+      "answer": "More than 40 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why does Tom\u00e1\u0161 \u010cupr believe Rohlik Group has continued success?",
+      "answer": "Because they offer something that people want to use, not just out of necessity.",
+      "rating": 7
+    },
+    {
+      "question": "What happened to customers who started shopping online during the COVID pandemic?",
+      "answer": "A lot of them found that they liked this way of shopping, and they stayed with the company.",
+      "rating": 8
+    },
+    {
+      "question": "Do affluent urban customers feel the pressure of inflation?",
+      "answer": "No, they don\u2019t feel huge pressure on their wallets.",
+      "rating": 8
+    },
+    {
+      "question": "How did the company ensure customers stayed with them even when trading down?",
+      "answer": "They pushed value for money, including freezing prices of basic commodities like milk, rice, and potatoes.",
+      "rating": 9
+    },
+    {
+      "question": "What was special about the prices of basic commodities like milk, rice, and potatoes last year?",
+      "answer": "The company froze their prices, with customers sometimes getting them for half of what they would have had to pay elsewhere.",
+      "rating": 8
+    },
+    {
+      "question": "What is the company's view on the instant delivery segment?",
+      "answer": "There is very little room for differentiation in that space, and it's not particularly attractive for the company due to its reliance on a handful of SKUs and tiny locations.",
+      "rating": 9
+    },
+    {
+      "question": "Is the company's model universal across different countries?",
+      "answer": "The structure of the assortment is universal if the company focuses on affluent urban customers.",
+      "rating": 8
+    },
+    {
+      "question": "How successful has the company been in specific micro markets in Prague?",
+      "answer": "The company can reach revenues in the magnitude of 50 to 70 percent of Tesco\u2019s offline revenue.",
+      "rating": 8
+    },
+    {
+      "question": "How have big brick-and-mortar grocers reacted to the company's success?",
+      "answer": "There have been many experiments and discussions, but not many players are trying to execute at scale in the markets where the company is present.",
+      "rating": 8
+    },
+    {
+      "question": "What is the key to the company's success?",
+      "answer": "The will to innovate drives our success.",
+      "rating": 7
+    },
+    {
+      "question": "Is Germany a significant market for the company's future growth?",
+      "answer": "Yes, Germany is one of the company's big bets for future growth.",
+      "rating": 9
+    },
+    {
+      "question": "Why is it advantageous to be an online-only player in e-grocery?",
+      "answer": "You can't just bring offline online. You have to start from scratch, and offline players venturing into online will struggle with consistency across channels.",
+      "rating": 8
+    },
+    {
+      "question": "What are the expectations for the grocery retail industry in Poland in 2023?",
+      "answer": "The first half of 2023 will be challenging due to high inflation and supply chain issues, but the second half is expected to see decreasing inflation and a recovery of the supply chain.",
+      "rating": 9
+    },
+    {
+      "question": "What is the core of Biedronka's value set?",
+      "answer": "The core of their value set is their discount mindset, driving decisions to transfer as much value as possible to customers.",
+      "rating": 9
+    },
+    {
+      "question": "What are the most important megatrends in the next three years?",
+      "answer": "Digitalization is the most important megatrend.",
+      "rating": 7
+    },
+    {
+      "question": "How is Biedronka making its e-commerce more sustainable?",
+      "answer": "Biedronka is trying to put as many of its couriers on bikes, delivering orders in the proximity of its stores, and exploring delivering to delivery boxes to keep routes short and curb fuel consumption.",
+      "rating": 9
+    },
+    {
+      "question": "Will digitalization change the game beyond e-commerce?",
+      "answer": "Absolutely, advances in analytics, artificial intelligence, and automation will make the business more efficient, and there will be a shift in communication from traditional to digital media.",
+      "rating": 9
+    },
+    {
+      "question": "How does the trend of sustainability affect the way Biedronka does business?",
+      "answer": "Biedronka is increasing local sourcing, rewarding suppliers that reduce their carbon footprints with higher sourcing volumes, minimizing distance from distribution centers to stores, reducing energy consumption, and investing in eco-packaging.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a grocer to leverage opportunities around technology and sustainability?",
+      "answer": "Having the right people, including experienced workers and young talent with the necessary skills to incorporate software and analytical tools into their business.",
+      "rating": 9
+    },
+    {
+      "question": "What is Biedronka doing to reduce its carbon footprint in logistics?",
+      "answer": "Biedronka's logistics system is designed to minimize the distance from distribution centers to stores, and it has a program to reduce energy consumption and promote green energy along its supply chain.",
+      "rating": 9
+    },
+    {
+      "question": "What is required for a grocer to leverage opportunities around technology and sustainability?",
+      "answer": "The most important prerequisite is to have the right people, including experienced workers and young talent with the necessary skills.",
+      "rating": 8
+    },
+    {
+      "question": "What drives Biedronka's continuing success?",
+      "answer": "The quality of their labor force, with many leaders and managers having been with the company for over 20 years, aligned with the company vision and shared values.",
+      "rating": 9
+    },
+    {
+      "question": "What were the predominant drivers of Biedronka's sales growth in the first three quarters of 2022?",
+      "answer": "Before the war in Ukraine, basket size was the most important growth driver, then traffic became dominant when the war began, and remained the principal driver of growth when inflation peaked in the third quarter of 2022.",
+      "rating": 9
+    },
+    {
+      "question": "How much did customers trading down contribute to Biedronka's volume uptake?",
+      "answer": "Downtrading is only a minor factor; the main reason is that consumers appreciate Biedronka's promise to offer the lowest prices in the market.",
+      "rating": 7
+    },
+    {
+      "question": "What was Biedronka's strategy to address cost pressure in 2022?",
+      "answer": "They accelerated their technological transformation, invested in renewable energy (e.g., equipping stores with solar panels), optimized their supply chain (e.g., opened a new distribution center), and focused on gaining market share and volume growth to dilute costs.",
+      "rating": 9
+    },
+    {
+      "question": "What is the best strategy to deal with cost pressure?",
+      "answer": "To fight for market share gains and volume growth to help dilute costs.",
+      "rating": 8
+    },
+    {
+      "question": "What was the grocery retail value growth in 2022 compared to 2021?",
+      "answer": "+0.9%",
+      "rating": 9
+    },
+    {
+      "question": "What was the modern grocery retail value growth in 2022 compared to 2021?",
+      "answer": "+3.4%",
+      "rating": 9
+    },
+    {
+      "question": "Which grocery retail segment had the highest growth in 2022 compared to 2021?",
+      "answer": "Online grocery retail with +63.1% growth.",
+      "rating": 9
+    },
+    {
+      "question": "What was the weighted average year-over-year growth in Northern and Western Europe in 2022?",
+      "answer": "181%",
+      "rating": 8
+    },
+    {
+      "question": "What was the foodservice value growth in 2022 compared to 2021?",
+      "answer": "+49.6%",
+      "rating": 9
+    },
+    {
+      "question": "Which region had a grocery retail value growth of 143% in 2022?",
+      "answer": "Southern Europe.",
+      "rating": 8
+    },
+    {
+      "question": "What was the sales/m2 percent change in 2022 compared to 2021?",
+      "answer": "+1.1%",
+      "rating": 9
+    },
+    {
+      "question": "What was the total modern retail revenue breakdown percent change in 2022 compared to 2021?",
+      "answer": "+3.4%",
+      "rating": 8
+    },
+    {
+      "question": "What is the best strategy to deal with cost pressure according to the text?",
+      "answer": "To fight for market share gains and volume growth to help dilute costs.",
+      "rating": 7
+    },
+    {
+      "question": "What was the grocery retail value growth in 2022 vs 2021?",
+      "answer": "+0.9 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the modern grocery retail value growth in 2022 vs 2021?",
+      "answer": "+3.4 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the online grocery retail percent change in 2022 vs 2021?",
+      "answer": "+63.1 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the total grocery retail de flated value growth in 2022 vs 2021?",
+      "answer": "+0.3 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the foodservice value growth in 2022 vs 2021?",
+      "answer": "+49.6 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the sales/m2 percent change in 2022 vs 2021?",
+      "answer": "+1.1 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the total modern retail revenue breakdown percent change in 2022 vs 2021?",
+      "answer": "+3.4 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the discounters' percent change in 2022 vs 2021?",
+      "answer": "+7.6 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of private label according to the text?",
+      "answer": "Private label is defined as any brand/product that is owned and sold by an individual retailer and not sold by other retailers.",
+      "rating": 10
+    },
+    {
+      "question": "What is the report titled?",
+      "answer": "Living with and responding to uncertainty \u2013 State of Grocery Retail 2023: Europe",
+      "rating": 10
+    },
+    {
+      "question": "Who are considered eco-active consumers?",
+      "answer": "Consumers who take the most actions to reduce their environmental impact, such as using their own bags, bottles, and cups and avoiding plastic.",
+      "rating": 9
+    },
+    {
+      "question": "What was the online-channel market share percent in the full year in the United Kingdom?",
+      "answer": "8.0",
+      "rating": 9
+    },
+    {
+      "question": "What was the private-label value share percent in the full year in Germany?",
+      "answer": "43.7",
+      "rating": 9
+    },
+    {
+      "question": "What type of products are included in the data measurement?",
+      "answer": "The data measures the value of fast\u2013moving consumer goods (FMCG) and fresh purchases that are taken home.",
+      "rating": 10
+    },
+    {
+      "question": "What is excluded from the data measurement?",
+      "answer": "The value of purchases that are consumed on the go, at work, etc. are excluded.",
+      "rating": 10
+    },
+    {
+      "question": "What types of stores are considered 'modern retail'?",
+      "answer": "Hypermarkets, supermarkets, online stores, and discounters are considered 'modern retail'.",
+      "rating": 10
+    },
+    {
+      "question": "What are examples of store types not covered by 'modern retail'?",
+      "answer": "Examples include small corner store, pharmacy, drugstore, and open market.",
+      "rating": 8
+    },
+    {
+      "question": "How is the data weighted?",
+      "answer": "The data is weighted according to total grocery revenues for each country.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of 'discounters' according to Europanel?",
+      "answer": "Limited\u2013range discount retailers such as Aldi, Lidl, Biedronka, Norma, Netto Marken\u2013Discount, Eurospin, Penny, Dia, and Leader Price are considered 'discounters'.",
+      "rating": 9
+    },
+    {
+      "question": "What is the sales area range for 'Large retail outlets'?",
+      "answer": "The sales area is >2,500m2.",
+      "rating": 8
+    },
+    {
+      "question": "What is the sales area range for 'Smaller retail outlets'?",
+      "answer": "The sales area ranges from 450m2 to 2,500m2.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical size of stores mentioned in the report?",
+      "answer": "Stores typically under 300m2.",
+      "rating": 8
+    },
+    {
+      "question": "What is the usual number of SKUs in convenience-focused ranges?",
+      "answer": "Up to 6,000 SKUs.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the main contributors to the report?",
+      "answer": "EuroCommerce experts, McKinsey experts, and Europanel expert.",
+      "rating": 8
+    },
+    {
+      "question": "Who is the Director General of EuroCommerce?",
+      "answer": "Christel Delberghe.",
+      "rating": 9
+    },
+    {
+      "question": "When was the report published?",
+      "answer": "April 2023.",
+      "rating": 9
+    },
+    {
+      "question": "Who led the operational aspects of the report?",
+      "answer": "Irina Lutsenko, Anna Schrum, Marek Karabon, and Nadya Snezhkova.",
+      "rating": 8
+    },
+    {
+      "question": "What business model do the stores typically operate with?",
+      "answer": "Low-cost business model.",
+      "rating": 7
+    },
+    {
+      "question": "Who provided editorial services for the report?",
+      "answer": "Leff Communications.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the main challenge faced by the European grocery sector in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inflation and growing consumer price sensitivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of the inflation and growing consumer price sensitivity in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The biggest decrease in the margins of grocers in five years and a 7.1 percent drop in turnover in real values."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are grocery retailers facing challenges in financing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Investments in sustainability and technology necessary to reduce emissions, build resilience, and drive future growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the report 'Living with and responding to uncertainty \u2013 The State of Grocery Retail 2023: Europe' a collaboration between?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey & Company and EuroCommerce."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many consumers were surveyed across Europe for the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 12,000 consumers across eleven European countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the State of Grocery report?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide executives with a comprehensive view of the market and future trends."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many consumers were surveyed across eleven European countries for the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 12,000 consumers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the general inflation rate in the European Union in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "9.2 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did overall grocery sales in Europe change in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Overall grocery sales in Europe grew by 2.9 percent in 2022 compared with 2021."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the factors contributing to the 2.9 percent growth in overall grocery sales in Europe in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The growth was the result of 10.7 percent higher prices, a decrease of 3.6 percent in volume sold, and a downtrading effect of 3.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the peak general inflation rate in the European Union in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "11.5 percent in October."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did food inflation compare to general inflation in some European countries in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Food inflation was as much as twice as high as general inflation in some countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the European grocery retail market dynamics characterized by in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "High inflation, volume decline, and trading down."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the growth rate of the European grocery retail market in 2022 compared to the previous year?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.9%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the drivers of the European grocery retail market growth in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "10.7% higher prices, a decrease of 3.6% in volume sold, and a downtrading effect of 3.6%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the value share of private labels change in Europe compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The value share of private labels increased by 1.9 percentage points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the impact of discounters on the European grocery retail market in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Discounters gained 1.4 percent in market share, driven by aggressive footprint growth, recovery from pandemic-related sales dip, price inflation, and increased price sensitivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the margins of European grocery retailers change between 2019 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average margin decreased by three percentage points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to happen to inflation in Europe over the course of 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inflation is expected to continue to abate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the trend of consumer confidence in the EU since September 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumer confidence in the EU has been rising for five consecutive months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the level of consumer confidence in the EU in February 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The level of consumer confidence in February 2023 was \u201320.6."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the consumer confidence in February 2023 compare to January 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumer confidence in February 2023 (\u201320.6) was lower than it was in January 2022 (\u201310.9)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of European grocery CEOs expect 2023 to be worse than 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "44 percent of European grocery CEOs expect 2023 to be worse than 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key themes for 2023 according to the survey of European grocery CEOs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key themes for 2023 are rising costs and margin pressure, downtrading, and an increased focus on private labels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the net intent of consumers toward looking for ways to save money when shopping for groceries in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The European average net intent of consumers toward looking for ways to save money when shopping for groceries in 2023 is 55% (+14)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of CEOs expect market conditions for the grocery retail industry to become worse in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "44%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the net intent of consumers toward looking for ways to save money when shopping for groceries change in 2023 compared to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increased by 12 percentage points to 53%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in the percentage of consumers who prioritize buying store's own food brands instead of known brands in 2023 compared to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increased by 14 percentage points to 55%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers planned to buy groceries online more in 2023 compared to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The net intent to buy groceries online varied by country, but the European average was 31% with a decrease of 2 percentage points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the predominant trends expected by European CEOs in the grocery retail industry in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inflation, downtrading, and an increased focus on private labels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers actively look for ways to save money when shopping for groceries in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "53%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the percentage of consumers who prioritize price when shopping for groceries change from 2022 to 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The net intent of consumers toward prioritizing price increased by 12% to 53% in 2023 compared to 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the trend in consumer behavior regarding healthy and sustainable products from 2022 to 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Healthy and sustainable products became less of a priority for consumers in 2023 compared to 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of European CEOs mentioned inflation as one of the top trends in the grocery industry in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not provide a specific percentage for inflation, but it is mentioned as one of the predominant trends in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the predominant trends in the grocery retail industry expected by European CEOs in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "European CEOs expected inflation, downtrading, and an increased focus on private labels to be the predominant trends in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many consumers were surveyed in the Consumer Survey 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "12,777 consumers were surveyed across 11 European countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of surveyed European executives named margin pressure a top trend for 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "88%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected time lag for food retail prices to adjust to changes in commodity prices?"
+      },
+      {
+        "role": "assistant",
+        "content": "About six to twelve months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers look for ways to save money when shopping, according to the survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "53%, up from 41% in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected additional annual media spend that will go into retail media by 2025?"
+      },
+      {
+        "role": "assistant",
+        "content": "+ \u20ac11 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of UK customers shop online sometimes or always with a different banner than offline?"
+      },
+      {
+        "role": "assistant",
+        "content": "~75%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of value chain emissions of grocers are in the meat and dairy categories?"
+      },
+      {
+        "role": "assistant",
+        "content": "~50%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much did retail volumes decline across Europe in 2022 compared with 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "3.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage decline in retail volumes across Europe in 2022 compared with 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "3.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did most of the drop in retail volume happen in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "In the second quarter of 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected volume decline for the full year 2023 compared with the previous year?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 to 2 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to food commodity prices in the first quarter of 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "They decreased significantly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much did the global agriculture price index decrease from its April 2022 peak?"
+      },
+      {
+        "role": "assistant",
+        "content": "12.8 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of consumers plan to buy more private labels in 2023 than they did in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the share of private labels change across Europe in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "It increased by 1.9 percentage points on average."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents said the quality of private labels is similar to or better than the quality of branded products?"
+      },
+      {
+        "role": "assistant",
+        "content": "84 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was observed in 2022 regarding market share development and private labels?"
+      },
+      {
+        "role": "assistant",
+        "content": "There was a strong correlation between market share development and the attractiveness of a grocery retailer\u2019s private labels as perceived by consumers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to consumers once they try a private label product?"
+      },
+      {
+        "role": "assistant",
+        "content": "They are often pleasantly surprised by the product quality, and some of them stick with them."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the EBITDA margins of grocery retailers and food processors change between 2019 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The EBITDA margins of grocery retailers decreased by 1.0 percentage point, while the EBITDA margins of food processors decreased by 0.8 points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to happen to cost and margin pressure for grocery retailers in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cost and margin pressure for grocery retailers is expected to remain high at least in the first half of 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much additional investment is the grocery retail industry expected to need between now and 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "The industry needs cumulative additional investments of \u20ac70 billion to \u20ac125 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it becoming harder for grocery retailers to finance investments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Margin pressure and the increasing cost of capital are making it harder for grocery retailers to finance these investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the weighted average cost of capital for grocery retailers changed from 2021 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The weighted average cost of capital has increased from 2.6 percent in 2021 to 6.7 percent in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated range of cumulative additional investments required by the industry between now and 2030 to drive sustainability, digitalization, IT improvements, and automation?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac70 billion to \u20ac125 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has happened to the weighted average cost of capital for grocery retailers from 2021 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "It has increased from 2.6 percent to 6.7 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it becoming harder for grocery retailers to finance investments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Due to margin pressure and the increasing cost of capital."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to both retailers' and CPG companies' margins?"
+      },
+      {
+        "role": "assistant",
+        "content": "They face substantial pressure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to intensify as smaller grocery retailers are disproportionately affected by current market developments?"
+      },
+      {
+        "role": "assistant",
+        "content": "Structural measures to achieve synergies and economies of scale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is scale becoming more valuable in the grocery retail market?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of increasing price sensitivity, margin pressure, and substantial investment needs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What strategies are larger grocery retailers likely to pursue to achieve economies of scale?"
+      },
+      {
+        "role": "assistant",
+        "content": "More intense M&A strategies or forming broader partnerships."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are smaller grocery retailers likely to explore as alternative ways of achieving scale?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bundle purchasing, joining franchising networks, and forming partnerships for joint investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Aldi North in the Danish market?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aldi North announced that it will exit the Danish market."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to happen to e-grocery growth in the future?"
+      },
+      {
+        "role": "assistant",
+        "content": "E-grocery is expected to return to a long-term growth trajectory going forward."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of customers in the United Kingdom shop online with a different banner than offline?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 75% of customers shop online sometimes or always with a different banner than offline."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which market is growing more quickly, e-grocery or meal delivery?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meal delivery continues to grow more quickly than e-grocery."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to happen to meal delivery market size in relation to e-grocery?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meal delivery will likely overtake e-grocery in terms of market size in the next two to three years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expectation for the share of marketing budget allocated towards grocery retail media network (RMN) spend in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "80% of advertisers expect the share of marketing budget allocated towards grocery retail media network (RMN) spend to grow in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to happen to meal delivery in terms of market size compared to e-grocery in the next two to three years?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meal delivery is expected to overtake e-grocery in terms of market size."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the compound annual growth rate (CAGR) of meal delivery from 2019-2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "+26% p.a."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of advertisers expect the share of marketing budget allocated towards grocery retail media network (RMN) spend to grow in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "90%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do advertisers perceive the importance of RMNs to their advertising/marketing efforts?"
+      },
+      {
+        "role": "assistant",
+        "content": "70% of advertisers say that RMNs are very to extremely important to their advertising/marketing efforts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected role of retail media businesses for top players in the grocery industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retail media businesses are likely to become a substantial EBIT driver for the grocery industry."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of online food sales in the United States are made up of retail media sales?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected value of the European retail media market in 2025?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac21 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of CPG advertisers plan to increase their spending on retail media in the next 12 months?"
+      },
+      {
+        "role": "assistant",
+        "content": "90 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much investment is required by 2030 for the automation and technology transformation of the European grocery retail industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac40 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected annual growth rate of the EU-27 automation market for retail?"
+      },
+      {
+        "role": "assistant",
+        "content": "13 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much will IT modernization efforts cost grocery retailers cumulatively by 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to \u20ac19 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the value of the European retail media market in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac10 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cumulative investment need for automation across the European grocery retail industry by 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "About \u20ac18 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated cumulative cost of IT modernization for grocery retailers by 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac19 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much can the EBIT margins of grocers be improved with analytics applications?"
+      },
+      {
+        "role": "assistant",
+        "content": "About one percentage point."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the potential EBIT margin improvement is linked to ten specific use cases?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 80 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the most promising areas for Generative AI applications in grocery retail?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marketing and customer interaction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated total capital expenditure required to reduce Scope 1 and 2 emissions across the European grocery retail industry by 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac25 billion to \u20ac65 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of all emissions associated with retail are represented by Scope 1 and 2 emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many grocery retailers had set science-based targets for decarbonization in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "36."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What categories should be prioritized to reduce Scope 3 emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Meat and dairy production."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of greenhouse gas emissions in Scope 1 and 2 can be abated in a cost-saving manner?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 60 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the approximate percentage of total emissions accounted for by Scope 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "~93."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key issue remaining for grocery retailers in terms of emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scope 3."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the research, what was the outcome for companies that took decisive action during the global financial crisis of 2007\u201308?"
+      },
+      {
+        "role": "assistant",
+        "content": "They performed better throughout the crisis and experienced higher growth once the crisis was over."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the strategic priorities for grocery retailers to emerge stronger from the current period of disruption and uncertainty?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strengthening private\u2013label assortments and capabilities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is another crucial aspect of digitalization mentioned by Lu\u00eds Ara\u00fajo, CEO of Biedronka?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data leverage, which applies to both consumer data and operational data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should retailers consider building to manage their private-label offerings effectively?"
+      },
+      {
+        "role": "assistant",
+        "content": "A design-to-win approach that revolves around key consumer needs and global trends such as value, health, and sustainability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can grocery retailers create the necessary fact base for data-driven supplier negotiations and price setting?"
+      },
+      {
+        "role": "assistant",
+        "content": "By examining how the prices for ingredients and other supplier costs are changing and seeking to understand how this should be reflected in the purchase price of each product."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way for grocery retailers to boost the productivity of capital expenditure?"
+      },
+      {
+        "role": "assistant",
+        "content": "By challenging infrastructure investments and reviewing store footprints."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the value from implementing analytics comes from ten use cases according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "80 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can grocery retailers help achieve net zero emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "By collaborating across the value chain, helping suppliers and consumers navigate the reduction of Scope 3 emissions, and ensuring sustainable alternatives are available on their shelves."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role do grocery retailers play in reducing Scope 3 emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grocery retailers have an essential role to play in helping suppliers and consumers navigate the reduction of Scope 3 emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is e-grocery expected to reach profitability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Within the next two to three years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is ICA Gruppen AB's biggest asset?"
+      },
+      {
+        "role": "assistant",
+        "content": "The entrepreneurship of its store owners."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are ICA's expectations for market conditions in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Market conditions will remain challenging throughout 2023 due to rising cost of living and price pressure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What trend is observed in consumer behavior regarding private labels?"
+      },
+      {
+        "role": "assistant",
+        "content": "The share of private labels in the market is expected to continue to grow as consumers are often pleasantly surprised by the product quality."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What trend is observed in the share of private labels in the market?"
+      },
+      {
+        "role": "assistant",
+        "content": "The share of private labels in the market will continue to grow."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are consumers currently buying fewer sustainable products?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumers are focused on saving money."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current share of ecological products?"
+      },
+      {
+        "role": "assistant",
+        "content": "The share of ecological products is around 3 percent, which is an all-time low."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is ICA driving its sustainability agenda?"
+      },
+      {
+        "role": "assistant",
+        "content": "ICA is reducing packaging material, working with local growers, and keeping sustainable options in its assortment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is meat alternatives a big topic for ICA?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, it's a very big topic. ICA believes consumers will eat less meat in the future and is working with smaller companies to offer innovative products."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main shift happening in the market according to ICA?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main shift is not between formats but between channels, with channels that communicate exclusively on price being the winners in the recent past."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is ICA's online share in Sweden?"
+      },
+      {
+        "role": "assistant",
+        "content": "ICA's online share is about 3.5 percent of total sales in Sweden."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is ICA's online share of total sales in Sweden?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 3.5 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does ICA prefer store pickup over home delivery for online orders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because many customers are not prepared to pay for home delivery at the moment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is ICA's expectation for the future of online sales?"
+      },
+      {
+        "role": "assistant",
+        "content": "ICA believes it will grow and has the potential to reach up to 10 percent of total sales."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is ICA dealing with margin pressure?"
+      },
+      {
+        "role": "assistant",
+        "content": "By implementing a major productivity program to achieve improvements in operations, including logistics, and bringing down costs across the organization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the measures ICA is taking to improve productivity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increasing the number of robots used and taking advantage of AI to make operations more efficient."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the major opportunities for ICA going forward?"
+      },
+      {
+        "role": "assistant",
+        "content": "The vast amount of traffic ICA attracts, including shopper traffic in stores and online."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has ICA's customer card created synergies in its ecosystem?"
+      },
+      {
+        "role": "assistant",
+        "content": "By introducing a competitive savings interest rate, attracting customers to put money on their cards, which they then spend shopping at ICA stores."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What responsibility does ICA feel it has as an industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "To model its values, create a good environment, treat employees well, and create opportunities for them within and beyond grocery stores."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was Rohlik Group founded?"
+      },
+      {
+        "role": "assistant",
+        "content": "2014"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the core proposition of Rohlik Group when it was launched?"
+      },
+      {
+        "role": "assistant",
+        "content": "Same-day delivery with a 90-minute delivery window, unprecedented assortment differentiation, reliability, and service."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In how many years did Rohlik Group break even in the Czech Republic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Four years, in 2018."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which countries is Rohlik Group currently active?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Czech Republic, Hungary, Austria, Germany, and Romania."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Was COVID-19 a major driver of growth for Rohlik Group?"
+      },
+      {
+        "role": "assistant",
+        "content": "Not really, as they were already scaling the business before COVID-19 and had a good proposition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Rohlik Group's growth rate before COVID-19?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Rohlik Group's current growth rate?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 40 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why does Tom\u00e1\u0161 \u010cupr believe Rohlik Group has continued success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because they offer something that people want to use, not just out of necessity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to customers who started shopping online during the COVID pandemic?"
+      },
+      {
+        "role": "assistant",
+        "content": "A lot of them found that they liked this way of shopping, and they stayed with the company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do affluent urban customers feel the pressure of inflation?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, they don\u2019t feel huge pressure on their wallets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the company ensure customers stayed with them even when trading down?"
+      },
+      {
+        "role": "assistant",
+        "content": "They pushed value for money, including freezing prices of basic commodities like milk, rice, and potatoes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was special about the prices of basic commodities like milk, rice, and potatoes last year?"
+      },
+      {
+        "role": "assistant",
+        "content": "The company froze their prices, with customers sometimes getting them for half of what they would have had to pay elsewhere."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the company's view on the instant delivery segment?"
+      },
+      {
+        "role": "assistant",
+        "content": "There is very little room for differentiation in that space, and it's not particularly attractive for the company due to its reliance on a handful of SKUs and tiny locations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is the company's model universal across different countries?"
+      },
+      {
+        "role": "assistant",
+        "content": "The structure of the assortment is universal if the company focuses on affluent urban customers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How successful has the company been in specific micro markets in Prague?"
+      },
+      {
+        "role": "assistant",
+        "content": "The company can reach revenues in the magnitude of 50 to 70 percent of Tesco\u2019s offline revenue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have big brick-and-mortar grocers reacted to the company's success?"
+      },
+      {
+        "role": "assistant",
+        "content": "There have been many experiments and discussions, but not many players are trying to execute at scale in the markets where the company is present."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key to the company's success?"
+      },
+      {
+        "role": "assistant",
+        "content": "The will to innovate drives our success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is Germany a significant market for the company's future growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, Germany is one of the company's big bets for future growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it advantageous to be an online-only player in e-grocery?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can't just bring offline online. You have to start from scratch, and offline players venturing into online will struggle with consistency across channels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the expectations for the grocery retail industry in Poland in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The first half of 2023 will be challenging due to high inflation and supply chain issues, but the second half is expected to see decreasing inflation and a recovery of the supply chain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the core of Biedronka's value set?"
+      },
+      {
+        "role": "assistant",
+        "content": "The core of their value set is their discount mindset, driving decisions to transfer as much value as possible to customers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the most important megatrends in the next three years?"
+      },
+      {
+        "role": "assistant",
+        "content": "Digitalization is the most important megatrend."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is Biedronka making its e-commerce more sustainable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biedronka is trying to put as many of its couriers on bikes, delivering orders in the proximity of its stores, and exploring delivering to delivery boxes to keep routes short and curb fuel consumption."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Will digitalization change the game beyond e-commerce?"
+      },
+      {
+        "role": "assistant",
+        "content": "Absolutely, advances in analytics, artificial intelligence, and automation will make the business more efficient, and there will be a shift in communication from traditional to digital media."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the trend of sustainability affect the way Biedronka does business?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biedronka is increasing local sourcing, rewarding suppliers that reduce their carbon footprints with higher sourcing volumes, minimizing distance from distribution centers to stores, reducing energy consumption, and investing in eco-packaging."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a grocer to leverage opportunities around technology and sustainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having the right people, including experienced workers and young talent with the necessary skills to incorporate software and analytical tools into their business."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Biedronka doing to reduce its carbon footprint in logistics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biedronka's logistics system is designed to minimize the distance from distribution centers to stores, and it has a program to reduce energy consumption and promote green energy along its supply chain."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required for a grocer to leverage opportunities around technology and sustainability?"
+      },
+      {
+        "role": "assistant",
+        "content": "The most important prerequisite is to have the right people, including experienced workers and young talent with the necessary skills."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What drives Biedronka's continuing success?"
+      },
+      {
+        "role": "assistant",
+        "content": "The quality of their labor force, with many leaders and managers having been with the company for over 20 years, aligned with the company vision and shared values."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the predominant drivers of Biedronka's sales growth in the first three quarters of 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Before the war in Ukraine, basket size was the most important growth driver, then traffic became dominant when the war began, and remained the principal driver of growth when inflation peaked in the third quarter of 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did customers trading down contribute to Biedronka's volume uptake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Downtrading is only a minor factor; the main reason is that consumers appreciate Biedronka's promise to offer the lowest prices in the market."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Biedronka's strategy to address cost pressure in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "They accelerated their technological transformation, invested in renewable energy (e.g., equipping stores with solar panels), optimized their supply chain (e.g., opened a new distribution center), and focused on gaining market share and volume growth to dilute costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the best strategy to deal with cost pressure?"
+      },
+      {
+        "role": "assistant",
+        "content": "To fight for market share gains and volume growth to help dilute costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the grocery retail value growth in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+0.9%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the modern grocery retail value growth in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3.4%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which grocery retail segment had the highest growth in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Online grocery retail with +63.1% growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the weighted average year-over-year growth in Northern and Western Europe in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "181%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the foodservice value growth in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+49.6%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which region had a grocery retail value growth of 143% in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Southern Europe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the sales/m2 percent change in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1.1%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total modern retail revenue breakdown percent change in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3.4%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the best strategy to deal with cost pressure according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "To fight for market share gains and volume growth to help dilute costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the grocery retail value growth in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+0.9 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the modern grocery retail value growth in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3.4 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the online grocery retail percent change in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+63.1 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total grocery retail de flated value growth in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+0.3 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the foodservice value growth in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+49.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the sales/m2 percent change in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+1.1 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total modern retail revenue breakdown percent change in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+3.4 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the discounters' percent change in 2022 vs 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "+7.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of private label according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Private label is defined as any brand/product that is owned and sold by an individual retailer and not sold by other retailers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the report titled?"
+      },
+      {
+        "role": "assistant",
+        "content": "Living with and responding to uncertainty \u2013 State of Grocery Retail 2023: Europe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are considered eco-active consumers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumers who take the most actions to reduce their environmental impact, such as using their own bags, bottles, and cups and avoiding plastic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the online-channel market share percent in the full year in the United Kingdom?"
+      },
+      {
+        "role": "assistant",
+        "content": "8.0"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the private-label value share percent in the full year in Germany?"
+      },
+      {
+        "role": "assistant",
+        "content": "43.7"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of products are included in the data measurement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data measures the value of fast\u2013moving consumer goods (FMCG) and fresh purchases that are taken home."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is excluded from the data measurement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The value of purchases that are consumed on the go, at work, etc. are excluded."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What types of stores are considered 'modern retail'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hypermarkets, supermarkets, online stores, and discounters are considered 'modern retail'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are examples of store types not covered by 'modern retail'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Examples include small corner store, pharmacy, drugstore, and open market."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is the data weighted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data is weighted according to total grocery revenues for each country."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of 'discounters' according to Europanel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Limited\u2013range discount retailers such as Aldi, Lidl, Biedronka, Norma, Netto Marken\u2013Discount, Eurospin, Penny, Dia, and Leader Price are considered 'discounters'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the sales area range for 'Large retail outlets'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sales area is >2,500m2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the sales area range for 'Smaller retail outlets'?"
+      },
+      {
+        "role": "assistant",
+        "content": "The sales area ranges from 450m2 to 2,500m2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical size of stores mentioned in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stores typically under 300m2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the usual number of SKUs in convenience-focused ranges?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 6,000 SKUs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the main contributors to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "EuroCommerce experts, McKinsey experts, and Europanel expert."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the Director General of EuroCommerce?"
+      },
+      {
+        "role": "assistant",
+        "content": "Christel Delberghe."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the report published?"
+      },
+      {
+        "role": "assistant",
+        "content": "April 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who led the operational aspects of the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Irina Lutsenko, Anna Schrum, Marek Karabon, and Nadya Snezhkova."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What business model do the stores typically operate with?"
+      },
+      {
+        "role": "assistant",
+        "content": "Low-cost business model."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who provided editorial services for the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leff Communications."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 203,
+    "filtered": 195,
+    "retention_rate": 0.96,
+    "avg_score": 8.4
+  }
+}

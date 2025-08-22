@@ -1,0 +1,682 @@
+{"question": "When was the McKinsey Global Institute (MGI) established?", "answer": "1990.", "rating": 9}
+{"question": "What is MGI's mission?", "answer": "To provide leaders in the commercial, public, and social sectors with the facts and insights on which to base management and policy decisions.", "rating": 10}
+{"question": "What are the seven themes that MGI's current research focuses on?", "answer": "Growth and competition; labor markets and work; financial markets and investment; consumers, behavior, and health; resources and sustainability; technology and innovation; and society and institutions.", "rating": 10}
+{"question": "Who leads MGI?", "answer": "Sven Smit, who serves as chair, and Chris Bradley, Kweilin Ellingrud, Marco Piccitto, Olivia White, and Jonathan Woetzel, who serve as directors.", "rating": 9}
+{"question": "What is the role of the MGI Council?", "answer": "The Council members help shape the research agenda, lead high-impact research, and share the findings with decision makers around the world.", "rating": 9}
+{"question": "Is MGI research independent?", "answer": "Yes, MGI research is independent and reflects its own views.", "rating": 9}
+{"question": "Who are the authors of the report 'Securing Europe\u2019s competitiveness: Addressing its technology gap'?", "answer": "Sven Smit, Magnus Tyreman, Jan Mischke, Philipp Ernst, Eric Hazan, Jurica Novak, Solveigh Hieronimus, and Guillaume Dagorret.", "rating": 10}
+{"question": "What event in early 2022 has raised concerns about resilience, self-reliance, and strategic autonomy?", "answer": "Russia's invasion of Ukraine.", "rating": 9}
+{"question": "What event in early 2022 has raised concerns about resilience, self-reliance, and strategic autonomy globally?", "answer": "Russia's invasion of Ukraine.", "rating": 9}
+{"question": "What has been a slow-motion crisis experienced by Europe, according to the report?", "answer": "A crisis centered on the region's technological capabilities and the competitiveness of its firms.", "rating": 9}
+{"question": "What is the focus of the research presented in the report?", "answer": "The vital and growing role of technology in competitiveness, growth, and resilience and strategic autonomy in Europe.", "rating": 9}
+{"question": "How many companies were examined in the research using McKinsey's Corporate Performance Analytics (CPAnalytics)?", "answer": "More than 2,000 companies in Europe and the United States with revenue of more than $1 billion.", "rating": 9}
+{"question": "What was found regarding the performance of European companies compared to their US counterparts?", "answer": "European companies, in aggregate, are significantly underperforming their US counterparts.", "rating": 9}
+{"question": "Which sectors are identified as being responsible for much of the difference in performance between European and US companies?", "answer": "Technology, namely information and communications technology (ICT) and pharmaceuticals.", "rating": 8}
+{"question": "Who led the research for the report?", "answer": "The research was led by Sven Smit, Magnus Tyreman, Matthias Evers, Eric Hazan, Jurica Novak, Solveigh Hieronimus, Jan Mischke, and Philipp Ernst.", "rating": 9}
+{"question": "Who were the project team leaders for the research?", "answer": "The project team was led by Guillaume Dagorret and Valentin Liebhart.", "rating": 9}
+{"question": "Who was the academic adviser for the research?", "answer": "The academic adviser was Hans-Helmut Kotz, resident fellow, Center for European Studies at Harvard University, and senior fellow, Leibniz Institute for Financial Research SAFE in Frankfurt, Germany.", "rating": 9}
+{"question": "Who edited the report?", "answer": "MGI executive editor Janet Bush.", "rating": 8}
+{"question": "What is the mission of the research conducted by MGI?", "answer": "To help business and policy leaders understand the forces transforming the global economy.", "rating": 9}
+{"question": "Is the MGI research commissioned or sponsored by any institution?", "answer": "No, it is independent and has not been commissioned or sponsored in any way by any business, government, or other institution.", "rating": 9}
+{"question": "Who are the directors of McKinsey Global Institute mentioned in the text?", "answer": "Sven Smit, Marco Piccitto, Chris Bradley, Kweilin Ellingrud, Olivia White, and Jonathan Woetzel.", "rating": 9}
+{"question": "When was the report published?", "answer": "September 2022.", "rating": 8}
+{"question": "What has Russia's invasion of Ukraine highlighted in terms of strategic challenges for Europe?", "answer": "A range of strategic challenges, from defense to food and energy security.", "rating": 9}
+{"question": "What is pivotal for Europe's strategic autonomy and resilience, as well as its growth and competitiveness?", "answer": "Technology.", "rating": 7}
+{"question": "How does Europe compare to the United States in terms of CO\u2082 emissions per capita?", "answer": "Europe has 2.4 times lower CO\u2082 emissions per capita than the United States.", "rating": 9}
+{"question": "How do European corporations compare to their international peers on metrics of profitability, growth, and innovation?", "answer": "European corporations on average lag behind their international peers.", "rating": 8}
+{"question": "Which regions lead in investing in quantum computing among the top ten major companies?", "answer": "The United States and China.", "rating": 9}
+{"question": "How does US corporate investment in artificial intelligence compare to that of European corporations?", "answer": "US corporations invest six times more in artificial intelligence than their European counterparts.", "rating": 9}
+{"question": "What percentage of all kilometers traveled by L4 fully-autonomous vehicles are accounted for by US manufacturers?", "answer": "Close to 70 percent.", "rating": 8}
+{"question": "What is the estimated corporate value added at stake by 2040?", "answer": "\u20ac2 trillion to \u20ac4 trillion a year.", "rating": 8}
+{"question": "What percentage of total public procurement is pooled at the European level?", "answer": "0.2 percent.", "rating": 8}
+{"question": "Which region leads on most breakthrough technologies including nuclear fusion?", "answer": "The United States.", "rating": 7}
+{"question": "What was the amount of venture capital funding attracted by Europe in 2021?", "answer": "$110 billion.", "rating": 8}
+{"question": "What is equivalent to the estimated corporate value added at stake by 2040?", "answer": "One percentage point of growth a year; six times the amount needed in Europe to achieve net-zero emissions by 2050; or about 90 percent of all current European social expenditure.", "rating": 9}
+{"question": "What percentage of kilometers traveled by L4 fully-autonomous vehicles is accounted for by US manufacturers?", "answer": "Close to 70 percent.", "rating": 8}
+{"question": "In what year did Europe experience the largest increase in unicorns since 2014?", "answer": "2021.", "rating": 9}
+{"question": "How much venture capital funding did Europe attract in 2021?", "answer": "$110 billion.", "rating": 9}
+{"question": "What was the comparison between Europe's venture capital funding and China's in 2021?", "answer": "Europe's venture capital funding exceeded China's tally.", "rating": 8}
+{"question": "What is the estimated annual value at stake for Europe due to the technology gap by 2040?", "answer": "\u20ac2 trillion to \u20ac4 trillion.", "rating": 8}
+{"question": "How did Europe's corporations perform compared to US counterparts in 2014\u201319?", "answer": "Europe's corporations underperformed US counterparts.", "rating": 8}
+{"question": "What percentage of the gap in corporate performance between Europe and the US is attributed to the tech sector?", "answer": "90%.", "rating": 7}
+{"question": "What are the three factors that reinforce or undermine one another for Europe's long-term prosperity?", "answer": "Sustainability, inclusion, and growth.", "rating": 9}
+{"question": "Why is inclusivity considered a goal in its own right?", "answer": "Inclusivity is needed to strengthen aggregate demand and propel growth as well as to secure sufficiently broad support to sustain necessary sustainability investments.", "rating": 9}
+{"question": "How does Europe compare to other regions in terms of carbon emissions?", "answer": "Europe remains one of the largest emitters of carbon globally, with 6.4 metric tons of CO2 per capita on average, but this is less than China\u2019s 7.3 metric tons and well below 16.0 metric tons in the United States.", "rating": 9}
+{"question": "At what rate have Europe's carbon emissions been declining compared to the United States and China?", "answer": "Europe's emissions have been declining at a rate between 30 and 50 percent faster than in the United States and China.", "rating": 8}
+{"question": "What has Europe pledged to achieve in terms of greenhouse gas emissions?", "answer": "Europe has pledged to achieve net-zero greenhouse gas emissions before other regions.", "rating": 7}
+{"question": "How has Europe performed in terms of increasing its share of renewable energy between 2000 and 2018?", "answer": "Europe increased its share of renewable energy by between 3.7 percent and 5.3 percent per annum, depending on the economy.", "rating": 8}
+{"question": "What countries comprise Eastern Europe?", "answer": "Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Romania, Poland, Slovak Republic, and Slovenia.", "rating": 9}
+{"question": "What is Europe's CO2 emissions per capita in 2019?", "answer": "7.8 metric tons.", "rating": 8}
+{"question": "How does Europe's income inequality compare to the United States?", "answer": "Europe's income inequality as measured by the Gini index is 0.30, compared to 0.41 in the United States.", "rating": 9}
+{"question": "What is Europe's ranking on life expectancy compared to other regions?", "answer": "Europe has the highest life expectancy in the world, with an EU-27 average of 81 years in 2019.", "rating": 9}
+{"question": "What is the compound annual growth rate of CO2 emissions per capita in Europe from 2000-2019?", "answer": "-1.5%.", "rating": 7}
+{"question": "How does Europe's CO2 emissions per unit of GDP compare?", "answer": "Europe's CO2 emissions per unit of GDP is 0.13 kg per 2017 $ of GDP at purchasing power parity.", "rating": 8}
+{"question": "What is the Europe 30's gap between the top 10 percent and bottom 10 percent in household disposable income compared to the United States?", "answer": "The Europe 30's gap was 67 percent smaller than the equivalent gap in the United States in 2019.", "rating": 9}
+{"question": "How does Europe's gap between the top 10 percent and bottom 10 percent in household disposable income compare to the United States?", "answer": "Europe's gap was 67 percent smaller than the equivalent gap in the United States in 2019.", "rating": 9}
+{"question": "What is Europe's average life expectancy compared to the United States and China?", "answer": "The EU-27 average life expectancy in 2019 was 81 years, versus 79 in the United States and 77 in China.", "rating": 9}
+{"question": "Which region has the highest life expectancy in the world?", "answer": "Europe overall has the highest life expectancy in the world.", "rating": 8}
+{"question": "How many of the top ten countries for life satisfaction were European in 2020?", "answer": "Nine of the top ten countries for life satisfaction were European in 2020.", "rating": 9}
+{"question": "How does Europe score on the World Happiness Index compared to the United States and China?", "answer": "Europe scores 6.4, the United States 6.9, and China 5.1 on the World Happiness Index.", "rating": 7}
+{"question": "How many generations does it take for those born in low-income families to approach the mean income in the United States compared to Scandinavia?", "answer": "It takes five generations in the United States, but only two or three in Scandinavia.", "rating": 9}
+{"question": "What is the average score for the five top-ranked European countries on the Social Progress Index?", "answer": "The average score for the five top-ranked European countries on the index was 92.", "rating": 8}
+{"question": "How does Eastern Europe's life expectancy compare to the European average and the US average?", "answer": "Eastern Europe's average life expectancy is six years lower than the European average and three years lower than the US average.", "rating": 8}
+{"question": "How many generations does it take for those born in low-income families in the United States to approach the mean income level?", "answer": "Five generations.", "rating": 8}
+{"question": "How does the number of generations it takes for low-income families to approach the mean income in Scandinavia compare to the United States?", "answer": "It takes only two or three generations in Scandinavia, compared to five in the United States.", "rating": 9}
+{"question": "What is the basis for measuring China's Gini coefficient, and how does it differ from measures in Europe and the United States?", "answer": "China's Gini coefficient is based on consumption, while measures in Europe and the United States are based on income distribution.", "rating": 8}
+{"question": "What are the top 5 European countries ranked on the Social Progress Index?", "answer": "Norway, Denmark, Finland, Sweden, and Switzerland.", "rating": 8}
+{"question": "What are the five largest European countries by population?", "answer": "Germany, France, United Kingdom, Spain, and Italy.", "rating": 9}
+{"question": "What dimensions are used to measure life satisfaction in the World Happiness Report?", "answer": "Levels of GDP, life expectancy, generosity, social support, freedom, and corruption.", "rating": 8}
+{"question": "What is the trend in life expectancy at birth in the United States between 2014 and 2019?", "answer": "Life expectancy at birth decreased between 2014 and 2017, but returned to the 2014 level in 2019.", "rating": 9}
+{"question": "What was Europe's per capita GDP growth rate between 1970 and 2010?", "answer": "2.3 percent.", "rating": 8}
+{"question": "What was the US per capita GDP growth rate between 1970 and 2010?", "answer": "1.9 percent.", "rating": 8}
+{"question": "What was the total GDP growth rate of Europe between 1970 and 2010?", "answer": "2.6 percent.", "rating": 8}
+{"question": "What was Europe's per capita GDP in 2019?", "answer": "$45,100.", "rating": 7}
+{"question": "What was the US per capita GDP in 2019?", "answer": "$63,900.", "rating": 8}
+{"question": "What was the estimated impact of the Single Market on long-term European GDP?", "answer": "9 percent.", "rating": 7}
+{"question": "When did the data for some countries start being available?", "answer": "1995.", "rating": 7}
+{"question": "Where do the data come from?", "answer": "The World Bank.", "rating": 8}
+{"question": "What was the compound annual growth rate (CAGR) of Europe's GDP from 1970 to 2010?", "answer": "2.3%.", "rating": 7}
+{"question": "What percentage of Europe's per capita GDP gap with the US is due to societal and lifestyle choices?", "answer": "40%.", "rating": 7}
+{"question": "What are some of the societal and lifestyle choices in Europe that contribute to the GDP gap?", "answer": "Opting for earlier retirement ages and more vacation and parental leave.", "rating": 8}
+{"question": "What percentage of the Europe-US per capita GDP gap is driven by regional divides within Europe?", "answer": "30%.", "rating": 7}
+{"question": "What is Europe's goal regarding climate neutrality?", "answer": "To become the first climate-neutral continent by 2050.", "rating": 9}
+{"question": "What is the name of the EU's research and innovation program for 2021 to 2027?", "answer": "Horizon Europe.", "rating": 9}
+{"question": "How much of the Horizon Europe budget will be allocated to innovation supporting sustainability?", "answer": "About 35% of its \u20ac95 billion budget.", "rating": 8}
+{"question": "What is the average per capita GDP of Europe 30 countries?", "answer": "$48,700", "rating": 8}
+{"question": "What percentage of the per capita GDP gap between Europe 30 and the United States reflects labor market choices?", "answer": "40%", "rating": 8}
+{"question": "What is the national average per capita GDP of the United States?", "answer": "$64,900", "rating": 8}
+{"question": "What is the aim of the European Green Deal strategy?", "answer": "To make Europe the first climate-neutral continent by 2050", "rating": 9}
+{"question": "How many people in Eastern Europe have been enabled to leave poverty due to EU membership?", "answer": "Just short of 22 million", "rating": 8}
+{"question": "What percentage of the Horizon Europe budget will be allocated to innovation supporting sustainability?", "answer": "35%", "rating": 8}
+{"question": "What percentage of the world's top 100 universities for life sciences are in Europe?", "answer": "43 percent.", "rating": 8}
+{"question": "How does Europe's export share of GDP compare to that of the United States?", "answer": "Europe's exports accounted for 10.9 percent of GDP, while the United States' share was 6.8 percent.", "rating": 9}
+{"question": "What is the cumulative public and private debt-to-GDP ratio in Europe compared to the United States in 2020?", "answer": "Europe's ratio was 218 percent, while the United States' ratio was 326 percent.", "rating": 9}
+{"question": "How many European countries rank in the top 20 in PISA scores?", "answer": "Eleven.", "rating": 7}
+{"question": "What is the potential annual corporate value added at stake by 2040 due to Europe's corporate gap?", "answer": "$2 trillion to $4 trillion.", "rating": 8}
+{"question": "What is the main reason for Europe's corporate gap compared to the United States?", "answer": "Long-standing weakness on ICT and other forms of disruptive innovation.", "rating": 9}
+{"question": "What is the potential corporate value added at stake for Europe by 2040 if it fails to compete in transversal technologies?", "answer": "\u20ac2 trillion to \u20ac4 trillion a year.", "rating": 8}
+{"question": "How does Europe's corporate performance compare to that of the US in terms of profitability between 2014 and 2019?", "answer": "Large European companies were 20 percent less profitable than their US counterparts.", "rating": 9}
+{"question": "What is the potential impact of Europe's technology gap on its strong performance on sustainability and inclusion?", "answer": "Unless Europe confronts its corporate and technology gap, its strong performance on sustainability and inclusion could become more difficult to maintain.", "rating": 9}
+{"question": "Why is growth important for achieving net zero and maintaining inclusion in Europe?", "answer": "Growth strengthens confidence and creates a healthy investment climate and new income streams that are needed to pay for the energy transition, and lagging growth could undermine inclusion by limiting the pool of funds available to spend on social programs.", "rating": 9}
+{"question": "How much did large European companies invest compared to their US counterparts between 2014 and 2019?", "answer": "Large European companies invested 8 percent less (capital expenditures relative to the stock of invested capital).", "rating": 8}
+{"question": "What is the concept of 'strategic autonomy' as defined by the EU?", "answer": "Europe should not do everything within Europe but should never rely on a single source.", "rating": 8}
+{"question": "What percentage of GDP has the business sector provided in OECD economies according to MGI research?", "answer": "72 percent.", "rating": 8}
+{"question": "How many companies were in the initial sample from McKinsey & Company's CPAnalytics database?", "answer": "7,428 companies with headquarters in Europe and the United States.", "rating": 9}
+{"question": "What percentage of the number of companies and revenue in the CPAnalytics sample is represented by the United States?", "answer": "55 percent of the number of companies and 58 percent of revenue.", "rating": 9}
+{"question": "What percentage of R&D spending is represented by the United States in the 2020 EU Industrial R&D Investment Scoreboard?", "answer": "58 percent.", "rating": 8}
+{"question": "What percentage of US investment was in intangibles such as innovation, brands, and human, digital, and analytical capital in 2019?", "answer": "42 percent.", "rating": 8}
+{"question": "Which sectors account for more than 90 percent of the return on invested capital (ROIC) gap between Europe and the US?", "answer": "Technology-creating industries, specifically tech, ICT, and pharmaceuticals.", "rating": 9}
+{"question": "What percentage of the return on invested capital (ROIC) gap is accounted for by the sectors discussed?", "answer": "More than 90 percent.", "rating": 8}
+{"question": "What was the enterprise value of large European firms compared to US-based firms in 2000?", "answer": "$7 trillion versus $8 trillion.", "rating": 9}
+{"question": "What was the enterprise value of large US firms compared to European firms in November 2021?", "answer": "$46 trillion versus $21 trillion.", "rating": 9}
+{"question": "How much did the six largest US technology firms contribute to the value difference between US and European firms in November 2021?", "answer": "Almost half.", "rating": 7}
+{"question": "How many new unicorns did Europe experience in 2021?", "answer": "98.", "rating": 8}
+{"question": "How much venture capital funding did Europe attract in 2021?", "answer": "A record $110 billion.", "rating": 8}
+{"question": "How does Europe's capital investment compare to that of the United States?", "answer": "Europe's capital investment is nearly three times lower.", "rating": 7}
+{"question": "What percentage of the global pool of economic surplus do superstar firms' earnings represent?", "answer": "13 to 15 percent.", "rating": 9}
+{"question": "What percentage of all corporate earnings worldwide do superstar firms' earnings represent?", "answer": "22 to 25 percent.", "rating": 9}
+{"question": "What did Morgan Stanley note about Europe's share of small-scale funding rounds in March 2022?", "answer": "Europe's rising share of small-scale funding rounds of up to $10 million.", "rating": 8}
+{"question": "Where is talent spinning out of Europe's unicorns increasingly staying?", "answer": "In Europe rather than going to the United States or Asia.", "rating": 8}
+{"question": "How have typically US-focused venture capital funds changed their behavior in the past three years?", "answer": "They have begun to participate more in Europe deals.", "rating": 8}
+{"question": "In which sectors does Europe have a strong record compared to the US?", "answer": "Particularly on automotive and industrials.", "rating": 8}
+{"question": "In which sectors does Europe have a pronounced gap compared to the US?", "answer": "In ICT and, increasingly due to the higher weight of biotech, in pharmaceuticals.", "rating": 9}
+{"question": "How do large European firms in aerospace and defense compare to their US competitors in terms of R&D investment?", "answer": "They have invested a higher share of revenue in R&D.", "rating": 8}
+{"question": "What is the relative performance of European companies compared to their US counterparts in terms of ROIC, growth, investment, and R&D?", "answer": "Corporate Europe lags behind US counterparts in aggregate on profitability, growth, investment, and R&D.", "rating": 8}
+{"question": "How have large European firms in aerospace and defense performed compared to their US competitors in terms of growth and R&D investment?", "answer": "They have been growing more strongly and invested a higher share of revenue in R&D than their US competitors.", "rating": 9}
+{"question": "What is the trend in total enterprise value of listed companies with revenue >$1 billion in the US and Europe?", "answer": "US corporate values are rising strongly, while European company valuations are falling behind.", "rating": 8}
+{"question": "What percentage of new value created globally is expected to be digitally enabled?", "answer": "70%.", "rating": 7}
+{"question": "How do European firms in the materials sector compare to others in terms of size, growth, and R&D investment?", "answer": "European firms tend to be larger and growing more quickly, but they invest a lower share of their revenue in R&D.", "rating": 9}
+{"question": "What percentage of new value created globally will be digitally enabled according to the World Economic Forum?", "answer": "70 percent.", "rating": 9}
+{"question": "By how much did executives surveyed by McKinsey estimate they had accelerated adoption of digitization in supply chains in July 2020?", "answer": "35 percent.", "rating": 9}
+{"question": "What percentage of positive economic profit is captured by the top 10 percent of firms according to MGI's 2019 analysis?", "answer": "80 percent.", "rating": 9}
+{"question": "How many of the world's largest public and private companies with revenue of more than $1 billion were analyzed by MGI in 2019?", "answer": "Nearly 6,000.", "rating": 9}
+{"question": "What is the average economic profit of superstar companies compared to superstars 20 years earlier, after adjusting for inflation?", "answer": "1.6 times more.", "rating": 8}
+{"question": "How much more economic profit do superstar companies have on average compared to superstars 20 years earlier?", "answer": "1.6 times more.", "rating": 8}
+{"question": "What is the ratio used to compare Europe's relative position to that of the leader or second-best region for the ten transversal technologies?", "answer": "The size ratio of Europe against the leader or second-best region.", "rating": 7}
+{"question": "What is the criteria used to determine if Europe is considered lagging behind, on a par, or leading in a particular stage?", "answer": "Europe is considered lagging behind if the ratio is between 0.1 to 0.7, on a par if the ratio is between 0.8 to 1.2, and leading if the ratio is 1.3 or higher.", "rating": 9}
+{"question": "How is the factor of each stage calculated?", "answer": "The average of the ratios of respective metrics.", "rating": 7}
+{"question": "How many future arenas of competition are there at the intersection of transversal technologies and sectors?", "answer": "There are over 60 future arenas of competition.", "rating": 9}
+{"question": "What percentage of the value of luxury brands globally is accounted for by European companies?", "answer": "European companies account for 95 percent of the value of luxury brands globally.", "rating": 9}
+{"question": "What is the combined market share of Apple, Huawei, Samsung, and Xiaomi in the wearable devices market?", "answer": "Apple, Huawei, Samsung, and Xiaomi have a combined market share of almost 65 percent.", "rating": 9}
+{"question": "What percentage of all kilometers traveled by L4 full-autonomous vehicles is accounted for by US manufacturers?", "answer": "US manufacturers account for close to 70 percent of all kilometers traveled by L4 full-autonomous vehicles.", "rating": 9}
+{"question": "How many European automotive companies were among the world's top three auto manufacturers?", "answer": "There are still two European automotive companies in the world's top three auto manufacturers.", "rating": 7}
+{"question": "How many of the top ten electric vehicles sold in the United States were European as of 2021?", "answer": "Only three of the top ten electric vehicles sold in the United States were European as of 2021.", "rating": 9}
+{"question": "What percentage of the value of luxury brands globally is accounted for by European companies?", "answer": "95 percent.", "rating": 8}
+{"question": "Which companies have a combined market share of almost 65 percent in wearable devices?", "answer": "Apple, Huawei, Samsung, and Xiaomi.", "rating": 8}
+{"question": "What is the ratio of Europe's world-class patents to the United States in next-gen materials?", "answer": "1.3x.", "rating": 8}
+{"question": "What is the average ratio of Europe's performance to the leading or second-best region across the ten transversal technologies?", "answer": "0.6.", "rating": 8}
+{"question": "In how many sectors did European firms improve their ranking from 2000 to 2019 based on market capitalization shifts?", "answer": "Three.", "rating": 7}
+{"question": "What were the three sectors where European firms improved their ranking on market capitalization from 2000 to 2019?", "answer": "Household and personal products, pharmaceuticals, and retail.", "rating": 9}
+{"question": "How does the market-to-book ratio of US companies compare to that of their European counterparts?", "answer": "US companies have almost double the market-to-book ratios of their European counterparts.", "rating": 9}
+{"question": "What was the 5G penetration forecast for Europe by 2024 compared to China?", "answer": "35% in Europe vs 67% in China.", "rating": 9}
+{"question": "How much venture capital funding was invested in robotics in Europe compared to the United States from 2015-20?", "answer": "$1 billion in Europe vs $5 billion in the United States.", "rating": 9}
+{"question": "How many European premium cars were among the top ten sold in the United States in 2018, and how many European electric vehicles were among the top ten sold in 2021?", "answer": "Five in 2018, and three in 2021.", "rating": 8}
+{"question": "What percentage of top low-code/no-code platforms were from Europe in 2020, compared to the United States?", "answer": "10% from Europe vs 75% from the United States.", "rating": 9}
+{"question": "How many approved biotech drugs did the United States have compared to Europe from 2018-20?", "answer": "The United States had 2 times the number of approved biotech drugs as Europe.", "rating": 8}
+{"question": "What was the difference in venture capital funding on robotics in Europe versus the United States from 2015-2020?", "answer": "$1B in Europe vs $5B in the United States.", "rating": 7}
+{"question": "How many European premium cars were among the top ten sold in the United States in 2018?", "answer": "Five.", "rating": 8}
+{"question": "How many European electric vehicles were among the top ten sold in the United States as of 2021?", "answer": "Three.", "rating": 8}
+{"question": "What was the comparison between US companies' market-to-book ratios and those of European counterparts in 2019?", "answer": "US companies' market-to-book ratios were almost double.", "rating": 7}
+{"question": "What was the percentage difference in book equity between US and European companies in 2019?", "answer": "Nearly 30 percent higher for US companies.", "rating": 8}
+{"question": "What percentage of European enterprises were adopting at least one AI technology in 2021?", "answer": "42%.", "rating": 9}
+{"question": "How many companies in Europe were working on nuclear fusion in 2021?", "answer": "7.", "rating": 8}
+{"question": "How much venture capital funding was invested in robotics in Europe compared to the United States from 2015 to 2020?", "answer": "$1B in Europe vs $5B in the United States.", "rating": 9}
+{"question": "What was the forecasted 5G penetration in Europe versus China by 2024?", "answer": "35% in Europe vs 67% in China.", "rating": 9}
+{"question": "What percentage of European enterprises were adopting at least one AI technology in 2021 compared to China?", "answer": "42% of European enterprises vs 70% in China.", "rating": 9}
+{"question": "How many approved biotech drugs did the United States have compared to Europe from 2018 to 2020?", "answer": "The United States had 2 times the number of approved biotech drugs compared to Europe.", "rating": 8}
+{"question": "What was the change in the number of top European premium cars sold in the United States from 2018 to 2021?", "answer": "In 2018, five of the top ten premium cars sold in the United States were European, but by 2021, only three of the top ten electric vehicles sold in the United States were European.", "rating": 7}
+{"question": "How do US companies' market-to-book ratios compare to those of European companies?", "answer": "US companies' market-to-book ratios are almost double those of European companies.", "rating": 8}
+{"question": "What is at stake for Europe due to its technology gap?", "answer": "Not only the performance of Europe's companies, its tech prowess, and its economic growth and prosperity, but also its progress on sustainability and inclusion.", "rating": 9}
+{"question": "What percentage of Europe's forecast GDP growth between 2019 and 2040 is the value at stake of \u20ac2 trillion to \u20ac4 trillion equivalent to?", "answer": "30 to 70 percent.", "rating": 9}
+{"question": "How many times is the lost value equivalent to the annual amount needed to transition to net zero?", "answer": "Six times.", "rating": 8}
+{"question": "What percentage of all current social expenditure in Europe is the lost value equivalent to?", "answer": "About 90 percent.", "rating": 8}
+{"question": "How many of the top ten electric vehicles sold in the United States were European as of 2021?", "answer": "Only three.", "rating": 7}
+{"question": "What is the potential value-added opportunity that European firms could miss out on by 2040 if they fail to improve on transversal technologies?", "answer": "\u20ac2 trillion to \u20ac4 trillion a year.", "rating": 9}
+{"question": "What is the estimated value at stake for European companies by 2040?", "answer": "\u20ac1 trillion to \u20ac2 trillion lower corporate value added.", "rating": 8}
+{"question": "What percentage of global GDP is Europe's current share?", "answer": "23 percent.", "rating": 9}
+{"question": "How was the gross value-added equivalent estimated?", "answer": "At 40 percent of revenues.", "rating": 8}
+{"question": "What is the range of the total forecast market size for the ten transversal technologies by 2040?", "answer": "\u20ac11 trillion to \u20ac20 trillion.", "rating": 9}
+{"question": "How many approaches were used to estimate the value at stake?", "answer": "Three.", "rating": 7}
+{"question": "What is the lower bound of the share of gross value added of revenue assumed for Europe?", "answer": "0.4.", "rating": 8}
+{"question": "What is the estimated lower bound of the share of gross value added of revenue for Europe?", "answer": "0.4", "rating": 9}
+{"question": "What is the range of corporate value added at stake for Europe according to Exhibit 20?", "answer": "\u20ac2 trillion to \u20ac4 trillion", "rating": 9}
+{"question": "What percentage of semiconductors to meet European demand are produced in Europe?", "answer": "9 percent", "rating": 8}
+{"question": "What is the market share of European companies across the semiconductor value chain?", "answer": "about 10 percent", "rating": 8}
+{"question": "What is the market share of European players in infrastructure as a service (IaaS)?", "answer": "no player with a market share of more than 1 percent", "rating": 8}
+{"question": "Why is Europe vulnerable competitively according to the text?", "answer": "Lagging tech-creating industries are the main reason for Europe\u2019s corporate gap.", "rating": 8}
+{"question": "What percentage of France's electricity can be generated with low carbon emissions?", "answer": "70%", "rating": 9}
+{"question": "How does France's per capita CO2 emissions compare to the Europe 30 average and the US level?", "answer": "France's per capita CO2 emissions are much lower than the Europe 30 average and the US level.", "rating": 9}
+{"question": "What is a major contributor to France's strong showing on sustainability?", "answer": "France's extensive nuclear capacity, which ensures that about 70 percent of its electricity can be generated with low carbon emissions.", "rating": 10}
+{"question": "How does France perform on inclusion compared to the Europe 30 average?", "answer": "France is performing above the Europe 30 average on inclusion.", "rating": 9}
+{"question": "How does France's growth in per capita GDP between 2000 and 2019 compare to the Europe 30 average?", "answer": "France's growth in per capita GDP between 2000 and 2019 was behind the Europe 30 average.", "rating": 9}
+{"question": "How do France's large companies perform on return on invested capital and R&D intensity compared to US counterparts?", "answer": "France's large companies lag significantly on return on invested capital and R&D intensity compared to US counterparts.", "rating": 9}
+{"question": "How does Germany perform on sustainability compared to the Europe 30 average?", "answer": "Germany performs less well on sustainability, lagging behind the Europe 30 average.", "rating": 9}
+{"question": "What is Germany's per capita GDP in 2019 compared to the United States and Europe 30 average?", "answer": "Germany's per capita GDP in 2019 was just shy of that of the United States and markedly higher than the Europe 30 average.", "rating": 8}
+{"question": "How does Germany's CO2 emissions per capita compare to China and the Europe 30 average?", "answer": "Germany's per capita (consumption-based) CO2 emissions are significantly higher than those of China or the average of the Europe 30.", "rating": 9}
+{"question": "How does Germany's life satisfaction compare to the Europe 30 average, China, and the United States?", "answer": "Germany's life satisfaction is considerably higher than the Europe 30 average or in China or the United States.", "rating": 8}
+{"question": "What is the status of German large corporations' revenue growth compared to US large corporations?", "answer": "German large corporations' revenue growth lags behind that of US large corporations by about 9 percent.", "rating": 8}
+{"question": "What was Germany's per capita GDP in comparison to the United States in 2019?", "answer": "Germany's per capita GDP in 2019 was just shy of that of the United States.", "rating": 9}
+{"question": "How did Germany's growth in per capita GDP between 2000 and 2019 compare to the Europe 30 average?", "answer": "Germany's growth in per capita GDP between 2000 and 2019 was lower than the Europe 30 average.", "rating": 8}
+{"question": "How does Germany's R&D spending relative to revenue compare to that of the United States?", "answer": "Germany's R&D spending relative to revenue was 30 percent below that of the United States in 2019.", "rating": 9}
+{"question": "How does Italy's R&D spending relative to revenue compare to US spending?", "answer": "Italy's R&D spending relative to revenue was nearly 75% lower than US spending.", "rating": 9}
+{"question": "How does Italy's per capita emissions compare to the Europe 30 average?", "answer": "Italy's per capita emissions are lower than the Europe 30 average.", "rating": 7}
+{"question": "How does Italy's consumption of fossil fuels compare to the Europe 30 average?", "answer": "Italy's consumption of fossil fuels is significantly higher than the Europe 30 average, at US levels.", "rating": 8}
+{"question": "How does Italy's per capita GDP compare to the Europe 30 average?", "answer": "Italy's per capita GDP is below the Europe 30 average.", "rating": 9}
+{"question": "How does Italy's R&D spending relative to revenue compare to that of the United States?", "answer": "Italy's R&D spending relative to revenue was nearly 75 percent lower than that of the United States.", "rating": 9}
+{"question": "How does Italy's social mobility compare to China's?", "answer": "Italy matches but does not surpass China on social mobility.", "rating": 7}
+{"question": "What is the trend of Italy's per capita GDP from 2000 to 2019 in constant international 2017 dollars?", "answer": "Italy's per capita GDP has decreased from its 2000 level in constant international 2017 dollars.", "rating": 7}
+{"question": "What was the per capita GDP of the Netherlands in 2019?", "answer": "Just shy of $57,000 (at constant 2017 international dollars).", "rating": 8}
+{"question": "How does the Netherlands' CO2 emissions per capita compare to the Europe 30 average?", "answer": "The Netherlands' per capita CO2 emissions (consumption based) are higher than the Europe 30 average.", "rating": 9}
+{"question": "What percentage of primary energy generation in the Netherlands came from oil in 2019?", "answer": "47 percent.", "rating": 8}
+{"question": "How does the Netherlands perform on inclusion compared to China, Europe 30 average, and the United States?", "answer": "The Netherlands has lower income inequality and higher social mobility, life expectancy, social progress, and life satisfaction.", "rating": 9}
+{"question": "What was the current account balance of the Netherlands as a percentage of GDP in 2020?", "answer": "About 7 percent.", "rating": 8}
+{"question": "How do large corporations in the Netherlands compare to their US counterparts on return on invested capital?", "answer": "Large corporations in the Netherlands lag behind their US counterparts on return on invested capital, with a gap of nearly 40 percent.", "rating": 9}
+{"question": "What was the fossil fuel consumption in the Netherlands as a percentage of primary energy in 2019?", "answer": "92 percent.", "rating": 8}
+{"question": "How does the R&D intensity of Dutch firms compare to their US counterparts?", "answer": "Dutch firms are nearly 40 percent behind their US counterparts in R&D intensity.", "rating": 9}
+{"question": "What is Poland's position on per capita carbon emissions compared to the Europe 30 average?", "answer": "Per capita carbon emissions in Poland were lower in 2019 than the average of the Europe 30.", "rating": 8}
+{"question": "How does Poland's return on invested capital compare to that of US counterparts?", "answer": "Poland's return on invested capital is 47% below US counterparts.", "rating": 9}
+{"question": "What is Poland's record on income inequality compared to other regions?", "answer": "Poland has lower income inequality as measured by the Gini index than any of the three regions highlighted in the analysis (Europe 30, United States, and China).", "rating": 9}
+{"question": "How does Poland's per capita GDP compare to the Europe 30 average and the United States?", "answer": "Poland's economy lags behind both the Europe 30 average and the United States on the level of per capita GDP.", "rating": 9}
+{"question": "What is Poland's situation regarding private debt compared to major regions?", "answer": "Poland has relatively low levels of private debt compared with the three major regions (Europe 30, United States, and China).", "rating": 9}
+{"question": "How does Poland's per capita GDP compare to the Europe 30 average?", "answer": "Poland's economy lags behind the Europe 30 average on the level of per capita GDP.", "rating": 8}
+{"question": "What is the trend of Poland's per capita GDP?", "answer": "Per capita GDP is growing rapidly, and the gap with the Europe 30 average is narrowing.", "rating": 8}
+{"question": "How does Corporate Poland perform on return on invested capital compared to the Europe 30 average and the United States?", "answer": "Corporate Poland lags behind both the Europe 30 average and the United States on return on invested capital.", "rating": 9}
+{"question": "What is the reason for Spain's low CO2 emissions per capita?", "answer": "This reflects Spain's high use of solar power.", "rating": 7}
+{"question": "How does Spain's income inequality compare to the Europe 30 average?", "answer": "Income inequality is higher than the Europe 30 average.", "rating": 8}
+{"question": "How did Spain's economy perform in terms of per capita GDP growth between 2000 and 2019?", "answer": "Growth in per capita GDP between 2000 and 2019 was lower than that of China, the United States, and the average of the Europe 30.", "rating": 8}
+{"question": "Why did Spain's economy underperform in terms of per capita GDP growth?", "answer": "Reflecting the fact that Spain suffered deeply from the banking and real estate crisis from 2008 and the eurozone crisis that followed.", "rating": 9}
+{"question": "How did Spain's growth in per capita GDP between 2000 and 2019 compare to that of China and the United States?", "answer": "Spain's growth in per capita GDP between 2000 and 2019 was lower than that of China and the United States.", "rating": 8}
+{"question": "What was the reason for Spain's underperformance in growth and prosperity?", "answer": "Spain suffered deeply from the banking and real estate crisis from 2008 and the eurozone crisis that followed.", "rating": 9}
+{"question": "How does Spain's corporate performance compare to the Europe 30 average and US companies on return on invested capital and R&D intensity?", "answer": "Spain underperforms both the Europe 30 average and US companies on return on invested capital and R&D intensity.", "rating": 8}
+{"question": "What was the trend in Spain's revenue growth compared to the Europe 30 average and US companies?", "answer": "Spain's revenue growth is much higher than the Europe 30 average, and near that of US companies.", "rating": 8}
+{"question": "How does the capital expenditure of large Swedish companies compare to their US counterparts?", "answer": "Large Swedish companies' capital expenditure relative to invested stock of capital is nearly 20% below US counterparts.", "rating": 9}
+{"question": "What is Sweden's performance like on the elements of sustainable and inclusive growth?", "answer": "Sweden has a strong record overall on all three elements of sustainable and inclusive growth.", "rating": 9}
+{"question": "How does Sweden's per capita CO2 emissions compare to the Europe 30 average?", "answer": "Sweden's per capita CO2 emissions are below the Europe 30 average.", "rating": 8}
+{"question": "How does Sweden's income inequality compare to the Europe 30 average, the United States, and China?", "answer": "Sweden's income inequality is significantly lower than the Europe 30 average, the United States, and China.", "rating": 9}
+{"question": "How does Sweden's per capita GDP compare to the Europe 30 average?", "answer": "Sweden's per capita GDP is well above the Europe 30 average.", "rating": 9}
+{"question": "How does the capital expenditure relative to invested stock of capital of Swedish companies compare to US companies?", "answer": "Capital expenditure relative to invested stock of capital is nearly 20 percent below that of US companies.", "rating": 8}
+{"question": "What is the revenue growth of Swedish companies compared to US corporations?", "answer": "Revenue growth is a touch above that of US corporations.", "rating": 7}
+{"question": "What was Switzerland's per capita CO2 emissions (consumption based) relative to other countries in 2018?", "answer": "Switzerland's per capita CO2 emissions were high relative to those of China and the Europe 30 average, but just below those of the United States.", "rating": 9}
+{"question": "How do Switzerland's corporations perform on return on invested capital compared to US companies?", "answer": "Switzerland's corporations outperform US companies on return on invested capital.", "rating": 8}
+{"question": "What has been the trend in inward foreign direct investment flows in Switzerland since 2018?", "answer": "Inward foreign direct investment flows have been negative since 2018.", "rating": 8}
+{"question": "How does Switzerland's per capita GDP growth compare to other regions between 2000 and 2019?", "answer": "Switzerland's per capita GDP growth was significantly lower than for the Europe 30, China, and the United States.", "rating": 9}
+{"question": "What is notable about Switzerland's private debt?", "answer": "Private debt is high, not least because of a taxation and pension system favoring mortgages.", "rating": 9}
+{"question": "How does the United Kingdom's CO2 emissions per capita compare to the Europe 30 average?", "answer": "The United Kingdom has somewhat lower per capita emissions than the Europe 30 average.", "rating": 7}
+{"question": "What is the United Kingdom's revenue growth compared to the Europe 30 average for large companies?", "answer": "Revenue growth for large UK companies is about half the Europe 30 average.", "rating": 8}
+{"question": "How does the United Kingdom's returns on invested capital compare to the Europe 30 average?", "answer": "The United Kingdom's returns on invested capital are higher than the Europe 30 average and close to the US level.", "rating": 8}
+{"question": "Is the United Kingdom's use of fossil fuels higher or lower than the Europe 30 average?", "answer": "The United Kingdom's use of fossil fuels is higher than the Europe 30 average.", "rating": 7}
+{"question": "How does the United Kingdom's capital expenditure as a share of invested capital compare to the United States?", "answer": "The United Kingdom's capital expenditure as a share of invested capital is a little lower than in the United States.", "rating": 8}
+{"question": "How does the United Kingdom's income inequality compare to the Europe 30 average?", "answer": "The United Kingdom's income inequality is significantly higher than the Europe 30 average.", "rating": 9}
+{"question": "How does the United Kingdom's revenue growth compare to the Europe 30 average?", "answer": "The United Kingdom's revenue growth is only about half that of the Europe 30 average.", "rating": 9}
+{"question": "How many transversal technologies does Europe lag behind on compared to other regions?", "answer": "Europe lags on eight of the ten transversal technologies.", "rating": 8}
+{"question": "What are the three dimensions considered when analyzing Europe's position on transversal technologies?", "answer": "The three dimensions are innovation, production, and adoption.", "rating": 9}
+{"question": "What is used to measure the innovation stage of transversal technologies?", "answer": "Metrics such as number of publications, number or share of patents, venture capital funding, research and development expenditure, and public funding are used.", "rating": 9}
+{"question": "What is R&D intensity based on in the given data?", "answer": "R&D intensity is based on 2019 R&D spending and revenue.", "rating": 8}
+{"question": "How many transversal technologies is Europe lagging behind in?", "answer": "Eight out of ten.", "rating": 7}
+{"question": "What are the three stages of product development used to analyze European competitiveness?", "answer": "Innovation, production, and adoption.", "rating": 9}
+{"question": "What metrics are used to assess the innovation stage?", "answer": "Number of publications, number or share of patents, venture capital funding, research and development expenditure, and public funding.", "rating": 9}
+{"question": "What is the forecasted gross value added by next-level automation by 2040?", "answer": "\u20ac130 billion.", "rating": 8}
+{"question": "What are the key components of next-level automation?", "answer": "Robotics hardware, additive manufacturing, and virtualization processes such as digital twins.", "rating": 9}
+{"question": "What is the forecasted gross value added by next-level automation by 2040?", "answer": "\u20ac130 billion.", "rating": 8}
+{"question": "How is Europe positioned in terms of next-level automation across the three stages of innovation, production, and adoption?", "answer": "Europe is lagging behind the leading or second-best region, with an average factor of 0.8.", "rating": 8}
+{"question": "What is the potential impact of automation on productivity growth globally?", "answer": "Automation could raise productivity growth globally by 0.8 to 1.4 percent annually.", "rating": 9}
+{"question": "What are the three major segments of robotics hardware?", "answer": "Industrial robots (including collaborative robots), professional service robots, and domestic service robots.", "rating": 9}
+{"question": "What was the total value of the robotics hardware market in 2020?", "answer": "The total robotics hardware market was valued at around $25 billion in 2020.", "rating": 9}
+{"question": "What percentage of the robotics hardware market did industrial robots account for in 2020?", "answer": "Industrial robots accounted for about 54 percent of the robotics hardware market in 2020.", "rating": 9}
+{"question": "What was the growth rate of cobots from 2017 to 2020?", "answer": "Cobots increased at 19 percent per annum from 2017 to 2020.", "rating": 8}
+{"question": "What is the expected compound annual growth rate of professional service robots between 2020 and 2023?", "answer": "The expected compound annual growth rate of professional service robots is about 31 percent between 2020 and 2023.", "rating": 9}
+{"question": "What is the difference between AGVs and AMRs?", "answer": "AGVs can detect obstacles in front of them, but cannot navigate around them, while AMRs navigate using maps constructed by their software.", "rating": 8}
+{"question": "What was the total market for additive 3-D printing in 2020?", "answer": "The total market for additive 3-D printing stood at $13 billion in 2020.", "rating": 9}
+{"question": "What is the expected growth rate of the additive 3-D printing market in the next ten years?", "answer": "The market is expected to grow at a 20 percent compound annual rate in the next ten years.", "rating": 9}
+{"question": "What percentage of current manufacturing processes are expected to be replaced by additive manufacturing by 2030?", "answer": "About 10 percent of current manufacturing processes across industries are expected to be replaced by additive manufacturing by 2030.", "rating": 9}
+{"question": "What is the expected growth rate of the additive 3-D printing market in the next ten years?", "answer": "20 percent compound annual rate.", "rating": 8}
+{"question": "What percentage of current manufacturing processes across industries are expected to be replaced by additive manufacturing by 2030?", "answer": "About 10 percent.", "rating": 8}
+{"question": "What is a digital twin?", "answer": "A digital replica of a physical asset or process, combining data from both digital and physical worlds.", "rating": 9}
+{"question": "Which region has been the largest end market for industrial robots since 2014?", "answer": "China.", "rating": 8}
+{"question": "How many patents for automation and process virtualization did the United States file in 2019?", "answer": "7,197.", "rating": 8}
+{"question": "How much venture capital funding did the United States and China attract for robotics between 2015 and 2020?", "answer": "$5.4 billion and $5.1 billion, respectively.", "rating": 9}
+{"question": "How much venture capital funding did Europe attract for robotics between 2015 and 2020?", "answer": "About $1.0 billion.", "rating": 9}
+{"question": "What was the total market for additive 3-D printing in 2020?", "answer": "$13 billion.", "rating": 8}
+{"question": "What percentage of global patent filings did the three regions account for in 2019?", "answer": "About 22 percent.", "rating": 7}
+{"question": "How are world-class patents identified?", "answer": "Through the number of countries where a patent is actively held, the relevance of the technology, and the number of citations of the patents in other patent applications.", "rating": 9}
+{"question": "Which region leads in the production of professional service robots?", "answer": "Europe, with 55 percent of market share in 2019.", "rating": 9}
+{"question": "What is the market share of the top two European industrial robots OEMs, ABB and Kuka?", "answer": "27 percent combined.", "rating": 7}
+{"question": "Which company leads global cobot production and what is its market share?", "answer": "Denmark-based Universal Robots, with a market share of about 37 percent.", "rating": 9}
+{"question": "How much private equity and corporate investment in robotics did the United States, Europe, and China have between 2015 and 2020?", "answer": "The United States led with about $36 billion, Europe's figure was $16 billion, and China's was $10 billion.", "rating": 9}
+{"question": "What was the private equity and corporate investment in robotics in Europe and the United States in 2020?", "answer": "Europe invested about $7 billion, higher than the $5 billion invested in the United States.", "rating": 9}
+{"question": "What percentage of Universal Robots' revenue comes from the European market?", "answer": "43 percent.", "rating": 7}
+{"question": "Which region has the highest robot density?", "answer": "Europe.", "rating": 7}
+{"question": "What was the robot density in Europe, the United States, and China in 2020?", "answer": "271 units per 10,000 employees in Europe, 255 in the United States, and 246 in China.", "rating": 9}
+{"question": "How many industrial robots were installed in China, Europe, and the United States in 2020?", "answer": "168,400 in China, 41,800 in Europe, and 30,800 in the United States.", "rating": 9}
+{"question": "What is the estimated gross value added by next-generation connectivity by 2040?", "answer": "Between \u20ac1 trillion and \u20ac2 trillion.", "rating": 9}
+{"question": "How much private equity and corporate investment did the United States, Europe, and China have between 2015 and 2020?", "answer": "$36 billion in the United States, $16 billion in Europe, and $10 billion in China.", "rating": 9}
+{"question": "What are the two most promising technologies for future connectivity?", "answer": "5G and the Internet of Things (IoT).", "rating": 8}
+{"question": "How much gross value added could next-generation connectivity generate by 2040?", "answer": "Between \u20ac1 trillion and \u20ac2 trillion.", "rating": 9}
+{"question": "How does Europe compare to other major regions in terms of 5G development?", "answer": "Europe is largely on a par with other major regions on 5G.", "rating": 8}
+{"question": "What is the estimated timeline for China and the United States to achieve 80 percent 5G coverage?", "answer": "China by 2023 and the United States by 2025.", "rating": 8}
+{"question": "What is one of the most significant applications of 5G?", "answer": "The Internet of Things (IoT), networks of connected devices.", "rating": 9}
+{"question": "Which region leads in 5G adoption?", "answer": "China.", "rating": 7}
+{"question": "What does superfast connectivity support?", "answer": "The creation of new services and business models linked to sensor-enabled intelligent products.", "rating": 9}
+{"question": "Which region leads in 5G adoption?", "answer": "China leads the world in 5G adoption.", "rating": 8}
+{"question": "What percentage of global 5G subscriptions did China have in 2021?", "answer": "China had 69 percent of the global total of 5G subscriptions in 2021.", "rating": 9}
+{"question": "How does Europe perform in terms of 5G-related scientific publications between 2003 and 2020?", "answer": "Europe had a convincing lead in 5G-related scientific publications, with about triple the total of China and the United States.", "rating": 8}
+{"question": "Which country has the highest share of world-class patents on connectivity in 2019?", "answer": "The United States has the highest share of world-class patents at 34 percent.", "rating": 9}
+{"question": "What is the forecasted 5G penetration in China, the United States, and Europe by 2024?", "answer": "By 2024, penetration of 5G is forecast to be 67 percent in China, 65 percent in the United States, and 35 percent in Europe.", "rating": 9}
+{"question": "Which regions lead in different aspects of 5G technology production?", "answer": "Europe and China each hold an edge in different aspects of 5G technology production.", "rating": 7}
+{"question": "What is the market share of European and Chinese players in the 5G RAN market in 2021?", "answer": "European players (Ericsson and Nokia) captured nearly 50 percent, and two Chinese players (Huawei and ZTE) captured 35 percent of the RAN market.", "rating": 9}
+{"question": "What percentage of patents on approved technical contributions to the 5G standard did China have as of February 2021?", "answer": "China had 38 percent of patents on approved technical contributions to the 5G standard.", "rating": 9}
+{"question": "How many 5G base stations did China have as of January 2022?", "answer": "About 916,000.", "rating": 8}
+{"question": "What percentage of global 5G subscriptions did China have in 2021?", "answer": "69 percent.", "rating": 9}
+{"question": "What is the forecasted percentage of global 5G subscriptions for China by 2027?", "answer": "30 percent.", "rating": 9}
+{"question": "In 2024, which country is forecast to have the highest 5G penetration?", "answer": "China, at 67 percent.", "rating": 9}
+{"question": "How many IoT patents had China filed as of 2019?", "answer": "42,000.", "rating": 8}
+{"question": "Which country had the highest total investment in IoT startups from 2015 to 2020?", "answer": "The United States, with about $2.1 billion.", "rating": 8}
+{"question": "What percentage of revenue generated by the world's 100 largest IoT companies went to US-based companies in 2020?", "answer": "35 percent.", "rating": 8}
+{"question": "Which country is the global leader in IoT adoption?", "answer": "China.", "rating": 7}
+{"question": "What percentage of global IoT connections were provided by China's three largest telecommunications players in 2020?", "answer": "75 percent.", "rating": 9}
+{"question": "What is the forecasted share of the global industrial IoT market for China by 2025?", "answer": "About 37 percent.", "rating": 9}
+{"question": "What is the expected global market share of China and the United States in the industrial use of IoT by 2025?", "answer": "China is expected to have about 37 percent and the United States is expected to have about 32 percent.", "rating": 9}
+{"question": "What is the projected share of Europe in the industrial use of IoT by 2025?", "answer": "Europe is forecast to have a share of some 23 percent.", "rating": 9}
+{"question": "What is the estimated gross value added that distributed infrastructure will generate by 2040?", "answer": "\u20ac400 billion to \u20ac1.6 trillion.", "rating": 8}
+{"question": "How is Europe performing in terms of distributed infrastructure compared to other regions?", "answer": "Europe lags behind with an average factor of 0.3, one of the lowest scores among the ten transversal technologies.", "rating": 8}
+{"question": "What is the expected growth in spending on cloud-related services between 2021 and 2025?", "answer": "Spending is expected to more than double from $385 billion to $809 billion.", "rating": 9}
+{"question": "What is the potential value that cloud computing can unlock for Fortune 500 companies?", "answer": "More than $1 trillion.", "rating": 8}
+{"question": "What is the expected growth in spending on cloud-related services between 2021 and 2025?", "answer": "Spending on cloud-related services is expected to more than double between 2021 and 2025, from $385 billion to $809 billion.", "rating": 10}
+{"question": "What is the forecast compound annual rate of growth for spending on edge hardware, services, and software between 2021 and 2025?", "answer": "The forecast compound annual rate of growth for spending on edge hardware, services, and software is 16 percent.", "rating": 9}
+{"question": "Which region leads in metrics of innovation, production, and adoption in distributed infrastructure?", "answer": "The United States leads on metrics of innovation, production, and adoption.", "rating": 9}
+{"question": "What percentage of enterprise-generated data is expected to be processed by edge or cloud computing by 2025?", "answer": "More than 75 percent of enterprise-generated data will be processed by edge or cloud computing by 2025.", "rating": 10}
+{"question": "What percentage of world-class patents did the United States hold as of 2019?", "answer": "The United States held 53 percent of world-class patents as of 2019.", "rating": 10}
+{"question": "Which companies contributed more than 70 percent of the total global investment in cloud in 2019?", "answer": "Four US companies\u2014Alphabet, Amazon, Microsoft, and Meta (then Facebook)\u2014contributed more than 70 percent of the $111 billion of total global investment in cloud in 2019.", "rating": 10}
+{"question": "Which country leads on metrics of innovation, production, and adoption in distributed infrastructure?", "answer": "The United States.", "rating": 8}
+{"question": "What percentage of revenue from cloud services was accounted for by six US companies in 2021?", "answer": "73 percent.", "rating": 9}
+{"question": "What is the market share of European players in the IaaS segment as of 2020?", "answer": "Insignificant, with no company accounting for more than 1 percent.", "rating": 8}
+{"question": "Which country is taking market share from both the United Kingdom and the United States in the SaaS segment?", "answer": "China.", "rating": 8}
+{"question": "What percentage of global market capitalization of cloud computing companies is accounted for by European players as of 2019?", "answer": "Less than 0.1 percent.", "rating": 9}
+{"question": "What percentage of their total IT spending are US companies expected to direct to the cloud by 2022?", "answer": "About 14 percent.", "rating": 8}
+{"question": "What is the estimated gross value added that next-generation computing could generate across industries by 2040?", "answer": "Up to \u20ac1 trillion.", "rating": 9}
+{"question": "In which industries could between \u20ac300 billion and \u20ac600 billion of value be generated by next-generation computing?", "answer": "Automotive, chemicals, finance, and pharmaceuticals.", "rating": 9}
+{"question": "What is the potential gross value added that neuromorphic hardware technology could generate across industries by 2040?", "answer": "Up to \u20ac1 trillion.", "rating": 9}
+{"question": "Which regions are ahead in the quantum computing race?", "answer": "The United States and China.", "rating": 8}
+{"question": "In what way is Europe leading in the quantum computing field?", "answer": "Europe is leading with publications related to quantum computing and related fields.", "rating": 7}
+{"question": "How much public funding has Europe allocated to quantum computing up to 2021?", "answer": "Nearly $9 billion.", "rating": 8}
+{"question": "What is one of the benefits of high computational capabilities in next-generation computing?", "answer": "Enabling new ways to use AI, including molecule-level simulation.", "rating": 9}
+{"question": "What was the global quantum computing market valued at in 2020?", "answer": "$412 million.", "rating": 8}
+{"question": "How much public funding has Europe invested in quantum computing up to 2021?", "answer": "Nearly $9 billion.", "rating": 8}
+{"question": "Which region leads in the number of publications related to quantum computing since 2010?", "answer": "Europe, with 35 percent of relevant articles globally.", "rating": 9}
+{"question": "What percentage of patents related to quantum computing did Chinese researchers hold at the end of 2021?", "answer": "53 percent.", "rating": 8}
+{"question": "Which countries are the top tech companies investing in quantum computing primarily based in?", "answer": "The United States and China.", "rating": 8}
+{"question": "How much did IBM invest in quantum computing research initiatives in 2021?", "answer": "$400 million.", "rating": 8}
+{"question": "How much did IBM invest in quantum computing research initiatives in 2021?", "answer": "$400 million.", "rating": 8}
+{"question": "What is the total announced and raised startup funding in quantum computing as of the end of 2021?", "answer": "$2.1 billion.", "rating": 8}
+{"question": "How much public funding had China invested in quantum computing by 2021?", "answer": "Between $10 billion and $15 billion.", "rating": 8}
+{"question": "How much combined EU and national investment has Europe committed to quantum research and infrastructure?", "answer": "Nearly $9 billion.", "rating": 7}
+{"question": "Which country has a lead on venture capital and startup investment in quantum computing?", "answer": "The United States.", "rating": 7}
+{"question": "How many of the top 11 quantum computing startups are US-based?", "answer": "Four.", "rating": 7}
+{"question": "What is the potential gross value added that could come from applied AI by 2040?", "answer": "\u20ac1 trillion to \u20ac2 trillion.", "rating": 8}
+{"question": "How does Europe perform in applied AI compared to other regions?", "answer": "Europe lags very significantly behind on many metrics for applied AI, with an average factor of 0.4 across the innovation, production, and adoption stages.", "rating": 9}
+{"question": "What are some examples of how AI applications can be used?", "answer": "Machine learning can be used to detect anomalies and enable predictive maintenance and quality control in manufacturing, AI-driven logistics optimization can cut costs, and AI can provide customer service and improve personalization.", "rating": 9}
+{"question": "What was the global AI market valued at in 2020 and 2021?", "answer": "The global AI market was valued at $36 billion in 2020 and $57 billion in 2021.", "rating": 8}
+{"question": "What is the expected value of the global AI market by 2028?", "answer": "More than $360 billion.", "rating": 8}
+{"question": "What is the compound annual growth rate of the global AI market between 2021 to 2028?", "answer": "30 percent.", "rating": 8}
+{"question": "How much is the global AI market expected to be valued by 2028?", "answer": "More than $360 billion.", "rating": 8}
+{"question": "What percentage of companies are estimated to have adopted at least one of the five broad categories of AI by 2030?", "answer": "70 percent.", "rating": 8}
+{"question": "What is the compound annual growth rate of the global AI market between 2021 to 2028?", "answer": "30 percent.", "rating": 8}
+{"question": "Which country leads in applied AI and is home to corporations responsible for what percentage of global private investment?", "answer": "The United States, 65 percent.", "rating": 9}
+{"question": "How much did Europe commit in public funding to AI development in 2019?", "answer": "$3 billion to $4 billion.", "rating": 8}
+{"question": "What is the potential additional global economic activity that AI is estimated to deliver by 2030?", "answer": "$13 trillion.", "rating": 9}
+{"question": "What was the global AI market valued at in 2020 and 2021?", "answer": "$36 billion in 2020 and $57 billion in 2021.", "rating": 9}
+{"question": "What percentage of respondents to a 2021 McKinsey Global Survey reported adopting AI in at least one function?", "answer": "56 percent.", "rating": 9}
+{"question": "Which country had the biggest share of peer-reviewed AI publications in the world in 2019?", "answer": "China, with 22 percent.", "rating": 9}
+{"question": "What was the United States' share of AI-related world-class patents in 2019?", "answer": "47 percent.", "rating": 9}
+{"question": "What was the share of AI-related world-class patents held by the United States in 2019?", "answer": "47 percent.", "rating": 9}
+{"question": "Which country had the biggest share of peer-reviewed AI publications in 2019?", "answer": "China, with 22 percent.", "rating": 9}
+{"question": "How much did the US private sector invest in AI in 2020?", "answer": "About $24 billion.", "rating": 9}
+{"question": "What was the estimated public investment in AI by China in 2018?", "answer": "$8 billion.", "rating": 8}
+{"question": "How many of the seven giants of the AI age are based in the United States?", "answer": "Four.", "rating": 8}
+{"question": "What percentage of Chinese organizations had adopted AI in at least one business function by 2021?", "answer": "61 percent.", "rating": 8}
+{"question": "How much venture capital funding did the United States invest in AI in 2020?", "answer": "$8 billion.", "rating": 8}
+{"question": "What was the ratio of US private investment in AI to that of Europe in 2020?", "answer": "Six times as much.", "rating": 7}
+{"question": "What percentage of Chinese organizations had adopted AI in at least one business function according to McKinsey's Global Survey on Artificial Intelligence 2021?", "answer": "About 61 percent.", "rating": 9}
+{"question": "How does the adoption rate of AI in North America compare to Europe?", "answer": "North America (51 percent) is higher than Europe (46 percent).", "rating": 9}
+{"question": "Which Chinese firm is the world's top voice recognition startup?", "answer": "iFlytek.", "rating": 8}
+{"question": "How many users does WeChat Pay have in China?", "answer": "900 million.", "rating": 8}
+{"question": "What is the estimated size of the worldwide market for low- and no-code solutions in 2025?", "answer": "Anywhere from $65 billion to $80 billion.", "rating": 8}
+{"question": "What percentage of global venture capital funding of Software 2.0 and engineering analytics companies is attributed to Europe?", "answer": "27%.", "rating": 8}
+{"question": "What is Software 2.0?", "answer": "Software 2.0 refers to the concept of machine-written programs to reach an operator- or human-set goal.", "rating": 9}
+{"question": "What is the main advantage of low- or no-code platforms?", "answer": "These platforms allow users to tackle problems previously addressable only by trained coders, eliminating the need for 90 percent of programming time.", "rating": 9}
+{"question": "What percentage of applications is expected to be developed via low- and no-code platforms by 2025?", "answer": "Gartner estimates that 70 percent of applications will be developed via low- and no-code platforms by 2025.", "rating": 9}
+{"question": "How does Software 2.0 impact software development?", "answer": "Software 2.0 could reduce the workforce required for software development and analytics to a fraction of its current levels or accelerate software development if the workforce is held constant.", "rating": 8}
+{"question": "What is the current distribution of global venture capital funding of Software 2.0 and engineering analytics companies between the United States and Europe?", "answer": "The United States has 73 percent of global venture capital funding, while Europe has 27 percent.", "rating": 9}
+{"question": "Which region leads in the production of low- and no-code platforms?", "answer": "The United States is ahead on production, being home to 75 percent of the largest low- and no-code platforms.", "rating": 9}
+{"question": "What is a trust architecture?", "answer": "A trust architecture provides a framework that enables data to flow through a service-oriented system in a verifiable way.", "rating": 8}
+{"question": "What technologies are included in trust architecture?", "answer": "Technologies include blockchain and zero-trust security.", "rating": 8}
+{"question": "What is the estimated gross value added that trust architecture technology could generate by 2040?", "answer": "McKinsey estimates that the technology could generate up to \u20ac800 billion in gross value added by 2040.", "rating": 9}
+{"question": "How does Europe compare to the United States in terms of trust architecture?", "answer": "Europe lags behind the United States in trust architecture, with a factor of 0.5 scored across the innovation, production, and adoption stages.", "rating": 8}
+{"question": "Why is trust architecture important?", "answer": "Trust architecture is important as a way to mitigate cyberrisk, helping commercial organizations and individuals verify information, identities, and transactions, conducting business with fewer intermediaries and delays.", "rating": 9}
+{"question": "What is the relevance of blockchain technology in terms of global GDP?", "answer": "Funds equivalent to about 10 percent of global GDP could be stored on blockchain technology by 2027.", "rating": 8}
+{"question": "How many records were compromised in 2019 due to insufficient security?", "answer": "About nine billion records were compromised in 2019 because of insufficient security.", "rating": 9}
+{"question": "Which region leads on innovation investment and production in trust architecture?", "answer": "The United States leads on innovation investment and production.", "rating": 7}
+{"question": "Why does the United States have a greater need for trust architecture solutions?", "answer": "The United States has a lack of a standard national ID, a large unbanked population that relies on paper payments, and a payment infrastructure that is not as modernized as European systems.", "rating": 9}
+{"question": "How does the United States compare to Europe in terms of venture capital funding for blockchain in 2020?", "answer": "The United States had $5 billion in venture capital blockchain funding, compared with $2 billion in the EU.", "rating": 8}
+{"question": "What percentage of top blockchain technology players are US companies?", "answer": "70 percent.", "rating": 8}
+{"question": "Which region leads in government funding of blockchain in 2021?", "answer": "The United States, with nearly $3 billion.", "rating": 9}
+{"question": "What is the estimated gross value added that could be generated by the Bio Revolution in 2040?", "answer": "\u20ac300 billion to \u20ac500 billion.", "rating": 7}
+{"question": "How does Europe compare to the US in terms of adoption rate of blockchain in top 100 companies in 2021?", "answer": "In the US, 64 percent of the top 100 companies had implemented blockchain, compared to 33 percent in the EU.", "rating": 9}
+{"question": "What is the relative performance of Europe compared to the US across the three stages of innovation, production, and adoption?", "answer": "Europe trails with a factor of 0.6 across the three stages.", "rating": 8}
+{"question": "What is the estimated gross value added that could be generated by transversal technologies in 2040?", "answer": "\u20ac300 billion to \u20ac500 billion", "rating": 9}
+{"question": "How does Europe perform in terms of innovation compared to production and adoption in the Bio Revolution?", "answer": "Europe scores broadly on par on innovation with 0.8, but lags behind on production (0.4) and adoption (0.5).", "rating": 8}
+{"question": "What is the estimated direct annual global economic impact of the Bio Revolution applications over the next ten to 20 years?", "answer": "$2 trillion to $4 trillion", "rating": 9}
+{"question": "What percentage of the estimated total economic impact of the Bio Revolution is accounted for by biomolecules and biosystems?", "answer": "About 95 percent", "rating": 9}
+{"question": "Which region leads on innovation in the Bio Revolution?", "answer": "The United States", "rating": 8}
+{"question": "How many times more did the United States invest in early-stage funding compared to Europe between 2018 and 2020?", "answer": "Almost 5 times ($29 billion vs $6.2 billion)", "rating": 9}
+{"question": "Which region led in the number of pharmaceutical-related scientific publications in 2021?", "answer": "Europe", "rating": 8}
+{"question": "How many biotech patents were filed by the United States between 2015 and 2020?", "answer": "50,000", "rating": 7}
+{"question": "What percentage of newly founded biotech companies between 2018 and 2020 were based in the United States?", "answer": "65%", "rating": 8}
+{"question": "How many FDA and EMA approvals did US companies achieve for new biotech therapies between 2018 and 2020?", "answer": "30", "rating": 7}
+{"question": "How many biotech patents were granted to China in 2021?", "answer": "23,500", "rating": 8}
+{"question": "Which company emerged as the leader in CAR T-cell therapies in 2017?", "answer": "Nanjing Legend Biotech", "rating": 7}
+{"question": "How much early-stage funding did the United States raise between 2018 and 2020?", "answer": "$29 billion", "rating": 8}
+{"question": "How many top 25 biotech companies by market capitalization were based in China in 2022?", "answer": "3", "rating": 8}
+{"question": "How many FDA and EMA approvals did US biotech companies achieve between 2018 and 2020?", "answer": "About 30.", "rating": 7}
+{"question": "How many drugs had Chinese biotech companies had approved by the FDA and EMA as of 2020?", "answer": "Four.", "rating": 8}
+{"question": "What is the annual public funding of biotech in the United States?", "answer": "Around $9 billion.", "rating": 8}
+{"question": "What is the estimated annual public spending on biotech in China?", "answer": "About $2 billion per year.", "rating": 8}
+{"question": "How does Europe perform in production of next-generation materials compared to other regions?", "answer": "Europe leads with a factor of 2.0.", "rating": 8}
+{"question": "What is Europe's factor in production of next-generation materials compared to other regions?", "answer": "Europe leads in production with a factor of 2.0.", "rating": 9}
+{"question": "Why is materials design and invention of new materials important?", "answer": "They have very broad impact across sectors, from transportation to health and renewable energy, and can change the economics of a wide range of products and services.", "rating": 10}
+{"question": "What are the three large subsegments of next-generation materials?", "answer": "The three large subsegments are Nanomaterials, Composites, and Future construction materials.", "rating": 9}
+{"question": "What was the estimated value of the global nanotechnology market in 2020?", "answer": "The global nanotechnology market was valued at nearly $2 billion in 2020.", "rating": 7}
+{"question": "What is the expected growth rate of the fiber-reinforced polymers segment from 2020 to 2024?", "answer": "The fiber-reinforced polymers segment is expected to grow at a compound annual growth rate of 4 percent from 2020 to 2024.", "rating": 9}
+{"question": "What percentage of global GHG emissions is the construction industry responsible for?", "answer": "The construction industry is responsible for about 25 percent of greenhouse gas (GHG) emissions.", "rating": 9}
+{"question": "What is the estimated value of the global green cement market in 2021?", "answer": "The global green cement market was estimated to be valued at $22 billion to $27 billion in 2021.", "rating": 10}
+{"question": "What was the estimated value of the global green cement market in 2021?", "answer": "$22 billion to $27 billion.", "rating": 8}
+{"question": "What is the expected growth rate of the global green cement market per year in the next five to 10 years?", "answer": "Between 8 and 13 percent.", "rating": 8}
+{"question": "What was the estimated value of the CLT market in 2021?", "answer": "$1.1 billion.", "rating": 8}
+{"question": "What is the expected growth rate of the CLT market per year to 2027?", "answer": "14.5 percent.", "rating": 8}
+{"question": "Which regions held about one-quarter of global world-class patents in nanomaterials in 2019?", "answer": "Europe and the United States.", "rating": 8}
+{"question": "Which region led in corporate investment in nanomaterials from 2015 to 2020?", "answer": "Europe, with $594 million.", "rating": 9}
+{"question": "What was the share of global end market sales in nanomaterials for Europe in 2020?", "answer": "33 percent.", "rating": 8}
+{"question": "How much venture capital was invested in nanomaterials in the United States from 2015 to 2020?", "answer": "About $1 billion.", "rating": 8}
+{"question": "How many global nanomaterials suppliers were there in Europe and the United States in 2021?", "answer": "Europe had 108, and the United States had 101.", "rating": 9}
+{"question": "Which region leads in the production and adoption of next-generation materials (nanomaterials)?", "answer": "Europe leads on metrics of production and adoption.", "rating": 8}
+{"question": "How many global nanomaterials suppliers does Europe have compared to the United States?", "answer": "Europe has 108 global nanomaterials suppliers, slightly more than the United States, which has 101.", "rating": 9}
+{"question": "What was Europe's share of global end market sales of nanomaterials in 2020?", "answer": "Europe accounted for 33 percent of global sales.", "rating": 9}
+{"question": "Which region was the largest end market for fiber-reinforced polymers in 2020?", "answer": "China was the largest end market, representing 27 percent of the global market.", "rating": 9}
+{"question": "How much venture capital was invested in carbon fiber startups in the United States between 2015 and 2021?", "answer": "The United States invested $912 million in 156 deals.", "rating": 8}
+{"question": "Which regions are the leaders in production of fiber-reinforced polymers?", "answer": "The United States, Europe, and Japan are the leaders in production.", "rating": 8}
+{"question": "Which region was the largest end market for fiber-reinforced polymers in 2020?", "answer": "China was the largest end market for fiber-reinforced polymers in 2020, representing 27 percent of the global market.", "rating": 10}
+{"question": "What is Europe's strength in next-generation composites?", "answer": "Europe's strength in next-generation composites resides in its intermediate players operating in high-end applications and differentiating themselves from others through innovation rather than on price.", "rating": 9}
+{"question": "How many companies leading innovation in construction materials are based in Europe?", "answer": "Three out of six companies leading innovation in construction materials are based in Europe.", "rating": 9}
+{"question": "Which region leads in the production of green cement?", "answer": "Europe leads in the production of green cement, with three companies in the top ten players in the market.", "rating": 9}
+{"question": "What is the market share of Europe in the CLT industry?", "answer": "Europe holds about 40 percent of the end-market share in CLT, with production shares of between 60 and 65 percent.", "rating": 9}
+{"question": "What is the largest end market for green cement?", "answer": "North America remains the largest end market for green cement, with approximately 35 to 45 percent of market share in 2020.", "rating": 9}
+{"question": "Which country has a strong position in next-generation composites?", "answer": "Japan has a very strong position in next-generation composites, notably in carbon fiber, with global leaders Toray Industries, Teijin Limited, and Mitsubishi Rayon.", "rating": 9}
+{"question": "What is the estimated gross value added that transversal cleantech technology could generate by 2040?", "answer": "\u20ac400 billion.", "rating": 9}
+{"question": "How much will stakeholders in the EU need to allocate to clean technologies and techniques to transition to net zero?", "answer": "An additional \u20ac5 trillion (an average of \u20ac180 billion a year).", "rating": 9}
+{"question": "What is the expected average annual savings in total system operating costs for the EU from 2021 to 2050 after transitioning to net zero?", "answer": "\u20ac130 billion.", "rating": 9}
+{"question": "What was the global cleantech market valued at in 2020?", "answer": "$285 billion.", "rating": 8}
+{"question": "What is the forecasted value of the global cleantech market in 2026?", "answer": "$425 billion.", "rating": 8}
+{"question": "What percentage of global energy is expected to be produced by renewables by 2050?", "answer": "75 percent.", "rating": 7}
+{"question": "What was Europe's position in the cleantech market between 1990 and 2010?", "answer": "Europe was the clear cleantech pioneer.", "rating": 8}
+{"question": "What is happening to Europe's lead in the cleantech market since 2010?", "answer": "Europe's lead has started to diminish.", "rating": 8}
+{"question": "How much will stakeholders in the EU need to allocate to clean technologies and techniques to transition to net zero?", "answer": "\u20ac5 trillion (an average of \u20ac180 billion a year)", "rating": 9}
+{"question": "What is the forecasted value of the global cleantech market in 2026?", "answer": "$425 billion", "rating": 8}
+{"question": "What percentage of global energy is expected to be produced by renewables by 2050?", "answer": "75 percent", "rating": 8}
+{"question": "By how much has the EU committed to reducing its emissions by 2030?", "answer": "55 percent", "rating": 9}
+{"question": "Which region now dominates cleantech production in nearly all areas?", "answer": "China", "rating": 8}
+{"question": "How many patents did Europe file for environment-related technologies in 2018?", "answer": "11,000", "rating": 7}
+{"question": "How much was invested globally in cleantech startups between 2013 and 2019?", "answer": "$60 billion", "rating": 8}
+{"question": "How much venture capital investment did Europe receive in cleantech in 2020?", "answer": "$6.2 billion", "rating": 9}
+{"question": "What were the total system operating costs saved by the EU from 2021 to 2050?", "answer": "An average of \u20ac130 billion annually", "rating": 8}
+{"question": "Which region is generating more breakthrough technologies in cleantech?", "answer": "The United States", "rating": 7}
+{"question": "How much was invested globally in cleantech startups between 2013 and 2019?", "answer": "$60 billion.", "rating": 8}
+{"question": "Which region received the most venture capital investment in cleantech in 2020?", "answer": "Europe, with $6.2 billion.", "rating": 8}
+{"question": "How much public R&D investment did Europe make in cleantech in 2020?", "answer": "$10.4 billion.", "rating": 7}
+{"question": "What is the total number of patents filed by the top 20 players in smart grids, and what share does the United States have?", "answer": "The total number is not directly stated, but the United States accounts for 3,200 patents, which is 44 percent of the total.", "rating": 8}
+{"question": "How much investment did the top 50 innovative companies in next-generation batteries receive since their creation, and which region is far ahead?", "answer": "The United States is far ahead with $19.1 billion investment.", "rating": 7}
+{"question": "How many commercial CCUS projects did Europe have as of 2021?", "answer": "35 projects.", "rating": 8}
+{"question": "Which company leads patenting in smart grids?", "answer": "US-based Qualcomm, with 2,500 patents or 34 percent of the global total.", "rating": 9}
+{"question": "What was the accumulated investment in Northvolt, Europe\u2019s major player in next-generation batteries, as of May 2022?", "answer": "$6.5 billion.", "rating": 9}
+{"question": "How many companies are among the top 50 innovative companies in funding since creation in the United States?", "answer": "26", "rating": 8}
+{"question": "What is the total investment in the top 50 innovative companies in funding since creation in the United States?", "answer": "$19.1 billion", "rating": 8}
+{"question": "How much investment has Europe accumulated in the top 50 innovative companies in funding since creation?", "answer": "$7.0 billion", "rating": 8}
+{"question": "How many companies from Europe are among the top 50 innovative companies in funding since creation?", "answer": "17", "rating": 8}
+{"question": "What is the accumulated investment of Northvolt, Europe's major battery manufacturer, as of May 2022?", "answer": "$6.5 billion", "rating": 9}
+{"question": "Which region attracted 46 percent of global early-stage venture capital for hydrogen-related startups between 2019 and mid-2021?", "answer": "Europe", "rating": 8}
+{"question": "How many of the top ten leading module players in solar manufacturing are from China?", "answer": "Seven", "rating": 8}
+{"question": "What percentage of the world's solar photovoltaics was built by China in 2019?", "answer": "70 percent", "rating": 9}
+{"question": "How many Chinese manufacturers are among the top ten wind power manufacturers in 2020?", "answer": "Six", "rating": 9}
+{"question": "What percentage of the revenue of the top ten wind power manufacturers in 2020 was accounted for by China?", "answer": "57 percent", "rating": 9}
+{"question": "What percentage of the total installed capacity of wind power manufacturers did China account for?", "answer": "46 percent.", "rating": 8}
+{"question": "Which region dominated the revenue of the top ten wind power players?", "answer": "China represented 57 percent of the revenue.", "rating": 8}
+{"question": "When did China start to overtake Europe in wind power manufacturing?", "answer": "By the end of 2015.", "rating": 8}
+{"question": "What percentage of the revenue of the top ten nuclear fission players did the United States account for in 2020?", "answer": "42 percent.", "rating": 8}
+{"question": "How many of the world's top ten hydropower manufacturers are from Europe and the United States?", "answer": "Europe and the United States each have three.", "rating": 9}
+{"question": "What percentage of the world's lithium-ion batteries was produced by China in 2019?", "answer": "73 percent.", "rating": 9}
+{"question": "What is China's forecasted share of lithium-ion battery production in 2029?", "answer": "70 percent.", "rating": 8}
+{"question": "How many new mega factories for battery production were installed in China between April 2019 and April 2020?", "answer": "46.", "rating": 8}
+{"question": "What percentage of global cobalt refining is accounted for by China?", "answer": "80 percent.", "rating": 9}
+{"question": "What percentage of its lithium does the United States import?", "answer": "40 percent.", "rating": 7}
+{"question": "What is Europe's target for renewable energy in its energy mix by 2030?", "answer": "32 percent.", "rating": 9}
+{"question": "What percentage of global production of chemical lithium does China account for?", "answer": "50 percent.", "rating": 8}
+{"question": "What percentage of the world's solar PV capacity did China have in 2020?", "answer": "34 percent.", "rating": 8}
+{"question": "Which region had the highest share of renewables in its overall energy mix in 2020?", "answer": "Europe.", "rating": 7}
+{"question": "How much did Europe invest in the energy transition in 2020?", "answer": "$166 billion.", "rating": 8}
+{"question": "Which country had the highest installed capacity of wind energy in 2020?", "answer": "China.", "rating": 9}
+{"question": "What is Europe's target for renewable energy in its energy mix by 2030?", "answer": "32 percent.", "rating": 9}
+{"question": "How much did China invest in the energy transition in 2020?", "answer": "$135 billion.", "rating": 9}
+{"question": "What percentage of global cobalt refining does China account for?", "answer": "80 percent.", "rating": 9}
+{"question": "Which region leads in installed capacity per capita for solar energy?", "answer": "Europe.", "rating": 8}
+{"question": "Which region had the largest EV market until recently?", "answer": "China had the largest EV market until recently.", "rating": 8}
+{"question": "What was the global total of EV vehicles when China had 1.2 million?", "answer": "The global total was 2.3 million EV vehicles.", "rating": 8}
+{"question": "Which region caught up and moved marginally ahead of China in EV market in 2020?", "answer": "Europe caught up and moved marginally ahead of China in the EV market in 2020.", "rating": 9}
+{"question": "What is Europe's position in the global hydrogen market?", "answer": "Europe is the world's largest market for hydrogen, representing 35 percent of the global total.", "rating": 9}
+{"question": "How much did China, Europe, and the United States invest in hydrogen in 2020?", "answer": "China and Europe each invested about $2 billion, while the United States invested $150 million.", "rating": 9}
+{"question": "What are the four impediments that stand in the way of Europe's progress?", "answer": "The four impediments are: fragmentation leading to lack of scale, a lack of established technology ecosystems, less developed risk-capital funding, and a regulatory environment that could be more supportive of disruption and innovation.", "rating": 10}
+{"question": "What are the four main challenges facing Europe's technology sector?", "answer": "Fragmentation leading to lack of scale, a lack of established technology ecosystems, less developed risk-capital funding, and a regulatory environment that could be more supportive of disruption and innovation.", "rating": 9}
+{"question": "Why is Europe's fragmentation a structural disadvantage in terms of scale?", "answer": "Europe has 27 countries with 24 official languages, and differences in laws and regulations, culture, consumer behavior, and even distribution and marketing channels among them.", "rating": 9}
+{"question": "What percentage of European unicorns have established a global or partly global geographic footprint to reach unicorn status?", "answer": "About 70 percent.", "rating": 8}
+{"question": "What do companies scaling up in Europe cite as the second most important barrier for growth?", "answer": "A lack of regulatory harmonization.", "rating": 8}
+{"question": "How does Europe's fragmentation affect its startups?", "answer": "The region's startups are forced to internationalize earlier in their journey.", "rating": 8}
+{"question": "Why do European startups need to access all 27 member countries in the Single Market?", "answer": "To address a market similar in size to the continental United States.", "rating": 8}
+{"question": "What do companies scaling up in Europe cite as the second most important barrier for growth?", "answer": "A lack of regulatory harmonization.", "rating": 9}
+{"question": "What percentage of European unicorns have established a global or partly global geographic footprint?", "answer": "About 70 percent.", "rating": 8}
+{"question": "What is the impact of the fragmentation of the digital market in EU member states on AI?", "answer": "It makes it more difficult to create large, integrated data sets for training AI models.", "rating": 9}
+{"question": "Why are the availability and scale of data sets essential for training AI systems?", "answer": "Because products and services are rapidly moving from pattern recognition and insight generation to more sophisticated forecasting techniques requiring extensive databases.", "rating": 9}
+{"question": "What is the challenge posed by the differences in cybersecurity governance models among EU member states?", "answer": "It makes cooperation in responding to cross-border incidents and exchanging intelligence on potential threats more difficult.", "rating": 9}
+{"question": "What percentage of Chinese consumers are omnichannel shoppers?", "answer": "More than 70 percent.", "rating": 8}
+{"question": "At what rate is China's data traffic expected to grow per year between 2021 and 2027?", "answer": "25 percent.", "rating": 8}
+{"question": "Why is the availability and scale of data sets essential?", "answer": "For training AI systems where products and services are rapidly moving from pattern recognition and insight generation to more sophisticated forecasting techniques requiring extensive databases.", "rating": 9}
+{"question": "What is a key challenge for the Bio Revolution in Europe?", "answer": "The fragmentation of the European market.", "rating": 8}
+{"question": "What percentage of early-stage venture funding for European biotech companies was raised from investors in their home country between 2018 and 2020?", "answer": "47 percent.", "rating": 9}
+{"question": "How does the R&D spending of the top ten tech companies in the US compare to those in Europe?", "answer": "The US top ten spends about four times the amount.", "rating": 8}
+{"question": "Why do technology ecosystems matter?", "answer": "Much innovation is now concentrated in digital, and the presence of large firms with large data sets and a larger network of users is needed to roll out innovation rapidly.", "rating": 9}
+{"question": "What is one reason for Europe's scale-up funding gap in biotech?", "answer": "The fact that so much of such funding is raised in local markets in Europe, and those local markets are relatively small.", "rating": 9}
+{"question": "How many 'decacorns' were there in Europe as of July 2021?", "answer": "37", "rating": 8}
+{"question": "How many 'decacorns' were there in the United States as of July 2021?", "answer": "134", "rating": 9}
+{"question": "Which European city is ranked in the top ten largest clusters of inventive activity based on patent filings?", "answer": "Paris, ranked tenth", "rating": 8}
+{"question": "What percentage of the global private corporate investment in AI was in the United States?", "answer": "56%", "rating": 9}
+{"question": "What was the total value of the global cloud market in 2020?", "answer": "$64 billion", "rating": 8}
+{"question": "Which companies accounted for 80% of the global cloud market in 2020?", "answer": "The top five IaaS providers: Amazon, Microsoft, Alibaba, Google, and Huawei", "rating": 9}
+{"question": "How much more did the top ten US tech companies spend on R&D compared to Europe's top ten in 2018?", "answer": "Top ten US tech companies spend four times more than Europe\u2019s top ten.", "rating": 7}
+{"question": "How much less did Europe devote to venture capital funding compared to the United States in 2019?", "answer": "Europe devoted 3.4 times less to venture capital funding than the United States in 2019.", "rating": 8}
+{"question": "What percentage of global venture capital funds was invested in Europe in 2021?", "answer": "Europe attracted 17 percent of global venture capital funds invested in 2021.", "rating": 9}
+{"question": "How much venture capital funding did the United States, China, and Europe receive in 2021?", "answer": "In 2021, the United States received $300 billion, China's figure was $131 billion, and Europe's was $103 billion.", "rating": 9}
+{"question": "Why do European firms have less access to risk capital and venture capital?", "answer": "Europe has a more conservative capital market structure and a lack of angel investor money from successful founders that links back to its lack of established technology ecosystems.", "rating": 8}
+{"question": "When was the first US venture capital firm established?", "answer": "The first US venture capital firm was established in 1946.", "rating": 9}
+{"question": "When was the first US venture capital firm established?", "answer": "1946.", "rating": 8}
+{"question": "When did Europe enter the venture capital sector?", "answer": "The 1990s.", "rating": 7}
+{"question": "What percentage of total venture capital fundraising in Europe is accounted for by pension funds?", "answer": "An annual average of 8 percent.", "rating": 9}
+{"question": "What percentage of total venture capital fundraising in the United States is accounted for by pension funds?", "answer": "20 percent.", "rating": 8}
+{"question": "How much of their assets under management do European pension funds invest in venture capital?", "answer": "Less than 0.02 percent.", "rating": 9}
+{"question": "What is the main challenge for Europe in terms of the Bio Revolution?", "answer": "To transform its research powerhouses into newly funded biotechs.", "rating": 8}
+{"question": "How does the size of the largest biotech funds in the United States compare to their European counterparts?", "answer": "The three largest biotech funds in the United States are twice as large as their European counterparts.", "rating": 9}
+{"question": "On which exchanges was the mean IPO size for EU biotechs larger?", "answer": "US exchanges, four to five times larger than on European exchanges.", "rating": 9}
+{"question": "What is the score of Europe on the OECD index for product-market regulation?", "answer": "1.4.", "rating": 7}
+{"question": "What US agency funded the research that created the internet and the microchip?", "answer": "The US Defense Advanced Research Projects Agency (DARPA).", "rating": 9}
+{"question": "How does the degree of precaution in US and European risk regulation compare?", "answer": "The degree of precaution in US and European risk regulation is similar.", "rating": 7}
+{"question": "Which country has established standards to authorize L4 test AVs to circulate since 2018?", "answer": "China has established standards to authorize L4 test AVs to circulate since 2018.", "rating": 8}
+{"question": "What is the status of regionwide common legislation on L4 AVs in Europe?", "answer": "Regionwide common legislation on L4 AVs is absent in Europe.", "rating": 8}
+{"question": "Which country was the first major region to take proactive steps toward blockchain regulation?", "answer": "China was the first major region to take proactive steps toward blockchain regulation.", "rating": 8}
+{"question": "What was the outcome of the European Parliament's decision in March 2022 regarding blockchain regulation?", "answer": "The European Parliament decided to enter into negotiations with EU governments on the final shape of a bill formalizing new rules.", "rating": 8}
+{"question": "How many EU member states chose to ban genetically modified food products in 2015?", "answer": "19 out of the (then) 27 EU member states chose to ban genetically modified food products.", "rating": 9}
+{"question": "Which region was the first to define a policy and legal framework for the approval of biosimilar medicines?", "answer": "The EU was the first region to define a policy and legal framework for the approval of biosimilar medicines.", "rating": 9}
+{"question": "When was the first biosimilar medicine approved in the EU and the US?", "answer": "The first biosimilar was approved in the EU in 2006, nearly a decade before the first one was approved in the United States.", "rating": 8}
+{"question": "How many EU member states chose to ban genetically modified food products in 2015?", "answer": "19 out of the (then) 27 member states.", "rating": 8}
+{"question": "Which countries are the leading producers of genetically modified food products?", "answer": "The United States, Brazil, Argentina, and Canada.", "rating": 8}
+{"question": "In which year was the first biosimilar medicine approved in the EU?", "answer": "2006.", "rating": 9}
+{"question": "What was cited by EU firms as a major obstacle to their adoption of AI in a 2020 survey?", "answer": "A lack of internal data and insufficient access to public and private data sets.", "rating": 9}
+{"question": "How does the EU's score on the ability of the legal framework to adapt to digital business models compare to the United States?", "answer": "The EU's score is below that of the United States.", "rating": 7}
+{"question": "How does the EU's score on the ability of the legal framework to adapt to digital business models compare to that of the United States?", "answer": "The EU's score is below that of the United States.", "rating": 8}
+{"question": "How does the EU's score on the business friendliness of labor-market regulation compare to that of the United States?", "answer": "The EU's score is 20 percent lower than that of the United States.", "rating": 9}
+{"question": "What kind of labor market principles are considered preferable in a period of disruption?", "answer": "Flexicurity principles that protect workers and people rather than jobs.", "rating": 9}
+{"question": "Which country spearheaded the flexicurity principles?", "answer": "Denmark.", "rating": 8}
+{"question": "In which regulatory domains is Europe ahead of the United States?", "answer": "Product-market regulation.", "rating": 7}
+{"question": "In which regulatory domains is Europe behind the United States?", "answer": "Labor policy, tax, property rights, and adaptability to digital business models.", "rating": 9}
+{"question": "Why is it important to review labor market rules?", "answer": "To ensure that they can support faster reallocation where appropriate in a period of accelerated automation and technological disruption.", "rating": 9}
+{"question": "What is the preferable approach to labor market regulations in a period of disruption?", "answer": "Flexicurity principles that protect workers and people rather than jobs.", "rating": 9}
+{"question": "How does Europe compare to the United States in terms of product-market regulation?", "answer": "Europe is ahead of the United States on product-market regulation.", "rating": 9}
+{"question": "In which areas is Europe behind the United States?", "answer": "Labor policy, tax, and property rights.", "rating": 8}
+{"question": "What is the relative performance of Europe in translating university research into commercial applications?", "answer": "Relatively slow in Europe compared to other regions like the United States.", "rating": 7}
+{"question": "What percentage of company founders in Europe have a PhD?", "answer": "12 percent.", "rating": 8}
+{"question": "How does the percentage of company founders with a PhD in Europe compare to the United States?", "answer": "It is 31 percent in the United States, compared to 12 percent in Europe.", "rating": 9}
+{"question": "What was the public R&D investment in Europe in 2020?", "answer": "$124 billion.", "rating": 7}
+{"question": "How does Europe's public R&D investment compare to that of the United States and China?", "answer": "It was $124 billion in Europe, compared to $144 billion in the United States and $55 billion in China.", "rating": 8}
+{"question": "How much was invested in public R&D in Europe in 2020?", "answer": "$124 billion.", "rating": 8}
+{"question": "How does Europe's public R&D spending compare to that of the United States?", "answer": "Europe invested $124 billion in public R&D in 2020, while the United States invested $144 billion.", "rating": 9}
+{"question": "What percentage of GDP is Europe's public R&D spending?", "answer": "About 0.7 percent.", "rating": 7}
+{"question": "Why are EU researchers migrating to outside-EU institutions?", "answer": "Among several factors, the appeal for outside-EU academic institutions is the superior financial rewards, with average salaries of EU researchers being 37 percent lower than those in the United States.", "rating": 9}
+{"question": "What is a challenge faced by Europe's academic research ecosystem?", "answer": "The increasing migration of its human capital to other countries such as the United States and Japan.", "rating": 8}
+{"question": "How does the US government's defense R&D spending compare to Europe's?", "answer": "The US government spends seven times more on defense R&D than Europe.", "rating": 9}
+{"question": "What is a factor that constrains Europe's ability to attract tech and entrepreneurial talent?", "answer": "Fewer successful scale-up companies that offer high pay, a lack of stock options, and immigration policies that do not focus on attracting outside tech talent and entrepreneurs.", "rating": 9}
+{"question": "How many employees do most tech transfer offices in top European research institutes and universities have?", "answer": "Ten or fewer employees, with only one to three employees dealing with patent commercialization.", "rating": 8}
+{"question": "What percentage of immigrant inventors go to Europe compared to the United States?", "answer": "35% go to Europe vs 60% to the United States.", "rating": 8}
+{"question": "How does the number of highly skilled workers given EU 'blue cards' in 2018 compare to the number of people given employment-based immigrant visas each year in the United States?", "answer": "The number of highly skilled workers given EU 'blue cards' in 2018 was nearly 80% lower than the number of people given employment-based immigrant visas each year in the United States.", "rating": 9}
+{"question": "What is the share of STEM graduates as a percentage of the total population in China, Europe, and the United States?", "answer": "China has 0.34%, Europe has 0.20%, and the United States has 0.19%.", "rating": 8}
+{"question": "How does the risk aversion of EU firms and individuals compare to their US counterparts?", "answer": "EU firms and individuals are more risk averse in business than their US counterparts.", "rating": 8}
+{"question": "What is the percentage of adults who are entrepreneurs in the United States and Europe?", "answer": "In the United States, 16% of adults are entrepreneurs; in Europe, the share is only 6%.", "rating": 9}
+{"question": "According to a European Central Bank report, how does the share of households holding risky assets in the eurozone compare to that in the United States?", "answer": "The share of households holding risky assets in the United States is more than double the share in the eurozone.", "rating": 9}
+{"question": "What percentage of adults are entrepreneurs in the United States and Europe?", "answer": "In the United States, 16 percent of adults are entrepreneurs; in Europe, the share is only 6 percent.", "rating": 9}
+{"question": "How does the media portrayal of entrepreneurs differ between the United States and Germany?", "answer": "In the United States, 39 percent of media portrayals of entrepreneurs is positive; in Germany, that applies to only 10 percent of such coverage.", "rating": 9}
+{"question": "What is the difference in the number and size of available budgets for deep-tech investments between the United States and other regions?", "answer": "The United States outweighs the top 100 deep-tech investors in numbers and size of available budgets for emerging opportunities.", "rating": 8}
+{"question": "Why might public funding for deep tech in the EU be seen as less attractive to startups compared to traditional venture capital investments?", "answer": "Some venture capital players believe public funding may come with more restrictions for startups than traditional venture capital investments.", "rating": 9}
+{"question": "How does the availability of stock option plans and participation ownership compare between the United States and the EU?", "answer": "Six times more employees in the United States have access to different forms of participation ownership than in the EU.", "rating": 9}
+{"question": "What percentage of the population in the United States had access to ultra-high-speed broadband in 2019?", "answer": "92 percent.", "rating": 10}
+{"question": "How does Europe compare to the United States and China in terms of ultra-high-speed broadband access?", "answer": "Europe lags behind both the United States and China, with 67 percent access compared to 92 percent in the US and 90 percent in China.", "rating": 9}
+{"question": "How much was invested in telecommunications infrastructure per household in the United States between 2012 and 2018?", "answer": "$4,955.", "rating": 7}
+{"question": "How many 5G base stations per million people did the United States, China, and the EU have in the fourth quarter of 2019?", "answer": "The United States had 64, China had 86, and the EU had eight.", "rating": 9}
+{"question": "What is the market share of US-based companies in the European cloud market?", "answer": "66 percent.", "rating": 8}
+{"question": "How many satellites did the United States, EU, and China have in orbit in 2021?", "answer": "The United States had 3,891, the EU had 505, and China had 490.", "rating": 9}
+{"question": "What are the four standout challenges that Europe faces in terms of innovation and scaling?", "answer": "Market fragmentation and lack of economic scale; smaller and less established technology ecosystems and firms; less developed risk-capital and scale-up funding; and a complex and slow regulatory environment.", "rating": 9}
+{"question": "Why is scale important for European companies according to the report?", "answer": "Because a winner-takes-most dynamic emerges in which scale, speed, and established tech ecosystems are increasingly vital for competitiveness and growth.", "rating": 9}
+{"question": "What is one of Europe's strengths that it can leverage for competitiveness and growth?", "answer": "High-quality education systems producing a large pool of STEM talent.", "rating": 8}
+{"question": "What are the three areas where policies can be implemented to address the four standout challenges?", "answer": "Scale, Speed, and leveling the playing field (though the exact areas are not directly stated, they are implied as 'three areas' in the text, with 'Scale' and 'Speed' being directly mentioned).", "rating": 7}
+{"question": "What is the total funding for the Horizon Europe program?", "answer": "\u20ac95 billion", "rating": 9}
+{"question": "How does the annual federal R&D budget of the United States compare to the annual funding of the Horizon Europe program?", "answer": "The annual federal R&D budget of the United States is more than ten times larger.", "rating": 8}
+{"question": "What are the four standout challenges that Europe faces, according to Exhibit 59?", "answer": "Market fragmentation and lack of economic scale, lack of established tech ecosystems, less developed risk-capital funding, and a regulatory environment that could be more supportive of disruption and innovation.", "rating": 9}
+{"question": "What is the main European research funding program?", "answer": "Horizon Europe", "rating": 9}
+{"question": "What was one major announcement in 2022 regarding European funding?", "answer": "The creation of a pan-European fund of funds dedicated to late-stage funding and scale-ups, with \u20ac3.5 billion of total initial funding.", "rating": 9}
+{"question": "What is JEDI (Joint European Disruptive Initiative), and what is its initial budget?", "answer": "JEDI is a nonprofit private effort to create a European DARPA, and it has an initial budget of \u20ac50 million to \u20ac100 million.", "rating": 9}
+{"question": "What is the second most important barrier to growth cited by companies scaling up in Europe?", "answer": "A lack of regulatory harmonization.", "rating": 8}
+{"question": "What percentage of European unicorns have established a global or partly global geographic footprint to reach unicorn status?", "answer": "About 70 percent.", "rating": 8}
+{"question": "What is the proposed solution to help high-growth firms in Europe operate in all European countries?", "answer": "Developing a European corporate rule book or 28th regime as a common standard on top of national ones, allowing high-growth firms that opt in and comply to operate in all European countries.", "rating": 9}
+{"question": "What is proposed as a common standard for high-growth firms in Europe alongside national regimes?", "answer": "A 28th regime, a pan-European regulatory entity.", "rating": 8}
+{"question": "What percentage is the completion rate of the Single Market according to a survey of European Roundtable of Industrialists members?", "answer": "75 percent.", "rating": 8}
+{"question": "In which areas is more integration needed in the Single Market?", "answer": "Energy (particularly renewables and hydrogen), finance, and digital.", "rating": 9}
+{"question": "What is an example given of a problem caused by lacking infrastructure in the energy sector?", "answer": "BASF cannot fully use its own offshore wind energy because of grid bottlenecks and lacking interconnectors and surcharges on renewable energy.", "rating": 9}
+{"question": "What is the current status of national eID schemes in EU member states?", "answer": "14 member states offer national eID schemes, but users face obstacles when trying to access public services in another EU country; the rest do not use eID.", "rating": 8}
+{"question": "Why is revisiting concentration rules in individual member states for M&A considered necessary?", "answer": "To move from fragmented national competition to truly European and global competition in sectors where competition is truly global.", "rating": 9}
+{"question": "What is the current state of Europe's later-stage growth funding compared to the United States?", "answer": "Europe's later-stage growth funding is about one-tenth that of the United States.", "rating": 8}
+{"question": "What is the average amount for series D and E rounds raised by European startups compared to those in the United States?", "answer": "The average amount for series D and E rounds raised by European startups is about $1 billion, while in the United States it is between $10 billion and $15 billion.", "rating": 9}
+{"question": "What is the level of venture capital funding in Europe compared to the US?", "answer": "Venture capital funding in Europe is about one-third of the US level.", "rating": 8}
+{"question": "What is the proposed solution to address Europe's technology gap in terms of research and development funding?", "answer": "Europe could consider building equivalent institutions to DARPA, ARPA-E, and the National Institutes of Health, such as further developing JEDI, to provide several billions of dollars to hundreds of R&D programs for breakthrough technologies.", "rating": 9}
+{"question": "Why do European pension funds find it difficult to invest in venture capital and private equity?", "answer": "European pension funds find it difficult to invest in illiquid, alternative assets like venture capital and private equity because of regulatory restrictions.", "rating": 8}
+{"question": "How much is the EU providing in cornerstone investment under VentureEU?", "answer": "\u20ac410 million", "rating": 7}
+{"question": "What percentage of the world's top 100 life sciences universities are in Europe?", "answer": "43 percent", "rating": 8}
+{"question": "How does the EU's public procurement at the European level compare to the US federal level?", "answer": "The EU pools only 0.2 percent of its total public procurement at the European level, compared with 45 percent at the federal level in the United States.", "rating": 9}
+{"question": "How much did the EU announce in new EU-level funding for semiconductors by 2030?", "answer": "nearly \u20ac50 billion", "rating": 8}
+{"question": "How do US intrastate fiscal transfers compare to transfers within the EU?", "answer": "US intrastate fiscal transfers are four times greater than transfers within the EU.", "rating": 9}
+{"question": "What is the amount of additional spending announced by Germany in 2022 to modernize its military?", "answer": "\u20ac100 billion", "rating": 8}
+{"question": "How did the European Medicines Agency change its authorization process for COVID-19 vaccines during the pandemic?", "answer": "The European Medicines Agency significantly sped up its authorization for COVID-19 vaccines from anywhere between one and two years to only six months.", "rating": 9}
+{"question": "What is one measure suggested to balance Europe's precautionary principle with accelerated decision making?", "answer": "Rebalance the regulatory approach from a precautionary consumer-protection imperative to one that balances costs and benefits of rapid experimentation and disruptive innovation.", "rating": 8}
+{"question": "Why is rebalancing the regulatory approach necessary, according to the text?", "answer": "To allow faster research on, and rollout of, new disruptive innovation, with the aim of achieving better outcomes for citizens rather than minimizing risks.", "rating": 9}
+{"question": "What example is given of a potential area where Europe could become a front-runner by adjusting its regulation?", "answer": "The secure exchange and ownership of data, potentially learning from the 'India stack' (biometric payment, health data, etc.).", "rating": 8}
+{"question": "What is an example given of 'smart thinking' applied to regulation to boost speed?", "answer": "The European Commission's proposed new legislation on batteries and waste batteries that will govern the entire battery life cycle and introduce mandatory requirements for sustainability.", "rating": 9}
+{"question": "What should continue to rank high on Europe's priority list?", "answer": "Data privacy and consumer protection.", "rating": 8}
+{"question": "What has the European Commission proposed to govern the entire battery life cycle?", "answer": "New legislation on batteries and waste batteries.", "rating": 9}
+{"question": "Why does Europe need to adjust its labor market rules?", "answer": "To support faster reallocation due to rapid technology adoption and disruptions.", "rating": 8}
+{"question": "What principle is preferable for labor market rules in the period of disruption ahead?", "answer": "Flexicurity principles that protect workers and people rather than jobs.", "rating": 9}
+{"question": "How did European regulators approach COVID-19 vaccine approval?", "answer": "They took an accelerated approach.", "rating": 7}
+{"question": "What is one advantage Europe has in moving swiftly in response to changes in labor markets?", "answer": "The strength of its higher education system and its robust pool of skills.", "rating": 8}
+{"question": "What principles are preferable to regulations centered on higher employment protection?", "answer": "Flexicurity principles that protect workers and people rather than jobs.", "rating": 9}
+{"question": "What is the purpose of the Digital Markets Act?", "answer": "To govern natural digital monopolies and ensure that large online platforms that act as gatekeepers in digital markets behave fairly.", "rating": 9}
+{"question": "What are the sanctions for noncompliance with the Digital Markets Act?", "answer": "Fines of up to 10 percent of worldwide turnover.", "rating": 8}
+{"question": "Why do European innovators need more time to scale?", "answer": "Because they operate in a more fragmented market and have lower valuations than their US counterparts, making them easy targets.", "rating": 7}
+{"question": "What is an example of a national initiative to protect nascent technology-savvy firms?", "answer": "The competition authority in the Netherlands fining Apple for not offering app creators alternatives to using its in-house payment systems.", "rating": 8}
+{"question": "What is Germany's competition authority being given more powers to act on?", "answer": "Abusive practices and targeting companies that dominate a particular market.", "rating": 8}
+{"question": "What percentage of the world's immigrant inventors migrate to Europe?", "answer": "About 35 percent.", "rating": 8}
+{"question": "What percentage of the world's immigrant inventors migrate to the United States?", "answer": "About 60 percent.", "rating": 8}
+{"question": "How does the number of highly skilled workers who secured EU blue cards in 2018 compare to the number of people given employment-based immigrant visas each year in the United States?", "answer": "The number of highly skilled workers who secured EU blue cards in 2018 was nearly 80 percent lower.", "rating": 9}
+{"question": "What is one example of what European decision makers can do to attract, develop, and retain STEM and entrepreneurial talent?", "answer": "Creating a service desk, such as the new European Tech Talent service desk in collaboration with the European Startup Nations Alliance.", "rating": 8}
+{"question": "What is one action private leaders can take to succeed?", "answer": "Setting stretch long-term targets and adjusting incentives.", "rating": 7}
+{"question": "What percentage of the private-sector workforce in Europe has some kind of employee ownership?", "answer": "About 5 percent.", "rating": 8}
+{"question": "What percentage of the private-sector workforce in the United States has some kind of employee ownership?", "answer": "About 20 percent.", "rating": 8}
+{"question": "What percentage of the private-sector workforce in Europe has some kind of employee ownership?", "answer": "About 5 percent.", "rating": 8}
+{"question": "What approach has German pharmaceutical company Boehringer Ingelheim taken to acquire new therapies and innovation strengths?", "answer": "Boehringer Ingelheim has used corporate venture capital with an investment capacity of \u20ac250 million.", "rating": 9}
+{"question": "What is an example of a cross-sector alliance to accelerate the development of transversal technologies?", "answer": "Total and PSA are partnering on battery manufacturing through a joint venture called 'Automotive Cells Company'.", "rating": 9}
+{"question": "How many employees did Siemens enable to upskill and reskill in digital capabilities in 2021?", "answer": "380,000 employees in 200 countries.", "rating": 9}
+{"question": "How many employees did Siemens enable to upskill and reskill in digital capabilities in 2021?", "answer": "380,000 employees in 200 countries.", "rating": 9}
+{"question": "What is Europe concerned about regarding its future growth and strategic autonomy?", "answer": "Its corporate and technology gap.", "rating": 8}
+{"question": "What report looks at the economic transformation that the net-zero transition would entail?", "answer": "The net-zero transition: What it would cost, what it could bring (January 2022).", "rating": 9}
+{"question": "By how much can annual productivity growth be accelerated according to the report 'Will productivity and growth return after the COVID-19 crisis?'?", "answer": "About one percentage point in the period to 2024.", "rating": 9}
+{"question": "How much more do 'top growers' invest in intangibles compared to low growers?", "answer": "2.6 times more.", "rating": 8}
+{"question": "What trends are shifting the geography of employment in Europe beyond COVID-19?", "answer": "Automation, migration, and shrinking labor supply are shifting the geography of employment.", "rating": 9}
+{"question": "How many local labor markets across Europe were analyzed in the report 'The future of work in Europe'?", "answer": "1,095 local labor markets across Europe were analyzed.", "rating": 9}
+{"question": "What was Europe's position in innovation a century ago?", "answer": "Europe was a global powerhouse of innovation.", "rating": 8}
+{"question": "What is the potential impact of bold innovation by firms on productivity growth after the COVID-19 crisis?", "answer": "Bold innovation could deliver a productivity dividend and accelerate annual productivity growth by about one percentage point in the period to 2024.", "rating": 9}
+{"question": "How much more do 'top growers' invest in intangibles compared to low growers?", "answer": "Top growers invest 2.6 times more in intangibles than low growers.", "rating": 9}
+{"question": "By how much can annual productivity growth be accelerated according to the research?", "answer": "About one percentage point in the period to 2024.", "rating": 8}
+{"question": "How much more do 'top growers' invest in intangibles compared to low growers?", "answer": "2.6 times more.", "rating": 9}
+{"question": "What is the title of the discussion paper published in June 2021?", "answer": "Getting tangible about intangibles: The future of growth and productivity?", "rating": 10}
+{"question": "Who are the authors of the discussion paper 'Getting tangible about intangibles: The future of growth and productivity?'?", "answer": "Eric Hazan, Sven Smit, Jonathan Woetzel, Biljana Cvetanovski, Mekala Krishnan, Brian Gregg, Jesko Perrey, and Klemens Hjartar.", "rating": 10}
+{"question": "What trends are examined in the analysis of 1,095 local labor markets across Europe?", "answer": "Automation, migration, and shrinking labor supply.", "rating": 9}

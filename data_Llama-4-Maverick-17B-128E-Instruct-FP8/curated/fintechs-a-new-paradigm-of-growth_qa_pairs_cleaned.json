@@ -1,0 +1,1875 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe fintech industry has entered a new era of value creation, shifting from hypergrowth to sustainable and profitable growth. After a decade of rapid expansion, the industry faced a market correction in 2022, resulting in decreased funding and deal activity. Despite this, fintechs are expected to grow almost three times faster than traditional banking between 2022 and 2028, driven by digital adoption, e-commerce growth, and the transformation of the banking industry. The report identifies three key themes shaping the future of fintechs: the radical transformation of banking, opportunities for growth in an expanding financial-services ecosystem, and varying resilience among fintechs in different verticals and growth stages.",
+  "qa_pairs": [
+    {
+      "question": "What is the new era of growth for fintechs focused on?",
+      "answer": "Sustainable, profitable growth.",
+      "rating": 8
+    },
+    {
+      "question": "What was the market capitalization of publicly traded fintechs as of July 2023?",
+      "answer": "$550 billion.",
+      "rating": 9
+    },
+    {
+      "question": "How many fintech unicorns were there as of July 2023?",
+      "answer": "More than 272.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to fintech funding and deal activity in 2022?",
+      "answer": "Funding and deal activity declined across the board.",
+      "rating": 8
+    },
+    {
+      "question": "How much VC funding did the fintech industry receive in 2020?",
+      "answer": "$33.3 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What was the year-over-year increase in VC funding for fintechs in 2021?",
+      "answer": "177 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the year-over-year increase in fintech funding in 2021?",
+      "answer": "177 percent",
+      "rating": 9
+    },
+    {
+      "question": "What was the total fintech funding in 2021?",
+      "answer": "$92.3 billion",
+      "rating": 9
+    },
+    {
+      "question": "How did fintech funding change in 2022 compared to 2021?",
+      "answer": "Fintech funding faced a 40 percent year-over-year funding decline, down from $92 billion to $55 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected annual revenue growth rate for fintechs between 2022 and 2028?",
+      "answer": "15 percent",
+      "rating": 8
+    },
+    {
+      "question": "What sectors were included in the fintech analysis?",
+      "answer": "Daily banking; lending; wealth management; payments; investment banking and capital markets; small and medium-size enterprise (SME) and corporate services; operations; and infrastructure (including embedded finance, and banking as a service).",
+      "rating": 10
+    },
+    {
+      "question": "What was the proportion of fintech funding to total VC funding in 2022?",
+      "answer": "12 percent",
+      "rating": 8
+    },
+    {
+      "question": "How much did VC funding drop to in 2022 from 2021?",
+      "answer": "From $683.1 billion to $459.6 billion",
+      "rating": 9
+    },
+    {
+      "question": "What fintech sectors were included in the analysis of this report?",
+      "answer": "The analysis included daily banking; lending; wealth management; payments; investment banking and capital markets; small and medium-size enterprise (SME) and corporate services; operations; and infrastructure (including embedded finance, and banking as a service).",
+      "rating": 10
+    },
+    {
+      "question": "What is the expected growth rate of fintech industry revenues compared to traditional banking between 2023 and 2028?",
+      "answer": "Revenues in the fintech industry are expected to grow almost three times faster than those in the traditional banking sector between 2023 and 2028.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the world's interactions with banks now take place through digital channels?",
+      "answer": "Around 73 percent of the world's interactions with banks now take place through digital channels.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of retail consumers surveyed by McKinsey in 2021 planned to increase their fintech product exposure?",
+      "answer": "41 percent of retail consumers surveyed by McKinsey in 2021 said they planned to increase their fintech product exposure.",
+      "rating": 9
+    },
+    {
+      "question": "How many mobile accounts were there in Africa in 2022?",
+      "answer": "Africa had almost 800 million mobile accounts in 2022.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of SMEs in the United States considered using fintechs for lending, better pricing, and integration with their existing platforms in 2022?",
+      "answer": "35 percent of the small and medium-size enterprises (SMEs) in the United States considered using fintechs for lending, better pricing, and integration with their existing platforms in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What was the total revenue generated by the banking industry in 2022?",
+      "answer": "The banking industry generated more than $6.5 trillion in revenues in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the global banking sector's net revenue did fintechs account for in 2022?",
+      "answer": "5 percent (or $150 billion to $205 billion)",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated annual growth rate of fintech revenue between 2022 and 2028?",
+      "answer": "15 percent",
+      "rating": 7
+    },
+    {
+      "question": "What was the total revenue generated by the banking industry in 2022?",
+      "answer": "More than $6.5 trillion",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of global fintech revenues did emerging markets represent in 2022?",
+      "answer": "15 percent",
+      "rating": 7
+    },
+    {
+      "question": "What is the expected share of global fintech revenues for emerging markets by 2028?",
+      "answer": "29 percent",
+      "rating": 9
+    },
+    {
+      "question": "What is the US Consumer Financial Protection Bureau planning to issue this year regarding open banking?",
+      "answer": "A proposed rule that would require financial institutions to share consumer data upon consumers' requests",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected aggregate revenue share of emerging markets in worldwide fintech revenues by 2028?",
+      "answer": "29 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the year-over-year funding decline for fintech companies in the growth stage (series C and beyond) last year?",
+      "answer": "50 percent.",
+      "rating": 9
+    },
+    {
+      "question": "Which two B2B fintech verticals were least affected by funding declines last year?",
+      "answer": "(1) BaaS and embedded finance and (2) SME and corporate value-added services.",
+      "rating": 8
+    },
+    {
+      "question": "What was the year-over-year funding change for fintechs in the early seed and pre-seed stages?",
+      "answer": "Increased funding by 26 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the adult population in Brazil is said to be using Nubank, a fintech bank in Latin America?",
+      "answer": "46 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the combined market cap of 44 modern fintechs that did an IPO in the eight years leading up to October 2022?",
+      "answer": "$0.3 trillion.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current share of North America in worldwide fintech revenues, and what is it expected to decrease to by 2028?",
+      "answer": "Currently 48 percent, expected to decrease to 41 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the percentage drop in funding for payments-focused fintechs?",
+      "answer": "50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the annual growth rate of funding for B2B segments between 2018 and 2022?",
+      "answer": "More than 25 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why are businesses adopting off-the-shelf solutions provided by digital-native firms?",
+      "answer": "To address challenges arising from using legacy banking infrastructure, such as limited flexibility, slower speed, and high costs.",
+      "rating": 9
+    },
+    {
+      "question": "Which fintech segments recorded the smallest funding declines from 2021 to 2022?",
+      "answer": "Business-to-business segments.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated finance gap for micro, small, and medium-size enterprises (MSME) in developing countries?",
+      "answer": "Approximately $5 trillion, or 1.3 times the current level of MSME lending.",
+      "rating": 9
+    },
+    {
+      "question": "How did the average value of funding rounds for fintechs change from the first to the fourth quarter of 2022?",
+      "answer": "The average value of funding rounds decreased by 50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the change in the time between funding rounds for fintechs from the first to the fourth quarter of 2022?",
+      "answer": "The time between funding rounds increased by more than five months.",
+      "rating": 8
+    },
+    {
+      "question": "What was the change in the average value of funding rounds for fintechs from the first to the fourth quarter of 2022?",
+      "answer": "The average value of funding rounds decreased by 50 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What are fintechs and their investors emphasizing in a liquidity-constrained environment?",
+      "answer": "Profitability, not just growth in customer adoption numbers or total revenues.",
+      "rating": 9
+    },
+    {
+      "question": "According to McKinsey's research, what was the likelihood of companies achieving above-peer profitable growth if they set growth strategies addressing all available pathways to growth?",
+      "answer": "Companies were 97 percent more likely to achieve above-peer profitable growth.",
+      "rating": 9
+    },
+    {
+      "question": "What was the key differentiator between profitable and nonprofitable fintechs in 2022?",
+      "answer": "Cost management, not revenue growth.",
+      "rating": 8
+    },
+    {
+      "question": "How did profitable fintechs manage their costs in 2022 compared to nonprofitable fintechs?",
+      "answer": "Profitable fintechs posted a median 3 percent decrease in costs, while nonprofitable fintechs saw costs rise by 27 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How did Paytm achieve breakeven six months ahead of schedule?",
+      "answer": "Through disciplined cost management, revenue growth across businesses, and a business model with strong operating leverage.",
+      "rating": 9
+    },
+    {
+      "question": "What was Paytm's original target for achieving breakeven?",
+      "answer": "September 2023.",
+      "rating": 8
+    },
+    {
+      "question": "How did Paytm achieve breakeven ahead of schedule?",
+      "answer": "Through disciplined cost management, revenue growth across businesses, and a business model with strong operating leverage.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of interviewed fintechs are making changes to their operating models?",
+      "answer": "Around 80 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why are fintechs adjusting their operating models?",
+      "answer": "66 percent cite a focus on profitability and a sustainable cost structure as being among their top three reasons.",
+      "rating": 8
+    },
+    {
+      "question": "What is the key differentiator for fintech profitability according to the text?",
+      "answer": "Strict cost management, not revenue growth.",
+      "rating": 9
+    },
+    {
+      "question": "What metric do fintechs use to assess the marginal return on investment for acquiring new customers?",
+      "answer": "The LTV/CAC ratio.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of fintechs in Latin America self-reported an LTV/CAC greater than five?",
+      "answer": "68 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three steps fintechs can take to grow sustainably?",
+      "answer": "Building a strong core, expanding into adjacent industries and geographies, and shrinking to grow.",
+      "rating": 9
+    },
+    {
+      "question": "Why is focusing on the local market and developing a healthy core business important?",
+      "answer": "Companies that focus on their core business and have a strong home market are 1.6 times more likely to generate peer-beating returns.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first step for fintechs to achieve growth?",
+      "answer": "Focusing on the local market and developing a healthy core business.",
+      "rating": 8
+    },
+    {
+      "question": "How much more likely are companies that focus on their core business to generate peer-beating returns?",
+      "answer": "1.6 times more likely.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary driver of growth for B2C fintechs in emerging economies?",
+      "answer": "Cross-selling.",
+      "rating": 7
+    },
+    {
+      "question": "What is the primary driver of growth for B2C fintechs in developed countries?",
+      "answer": "Capturing new customers.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of revenue growth for companies in Brazil is expected to come from cross-selling?",
+      "answer": "Around 72 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why is a dedicated strategy for each region recommended for fintechs?",
+      "answer": "Because markets are highly heterogenous.",
+      "rating": 7
+    },
+    {
+      "question": "What is the likelihood of companies generating sizable returns when expanding into adjacent segments and geographies?",
+      "answer": "1.2 to 1.3 times more likely than peers that focus solely on their core.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a fintech company that has successfully expanded across financial-services verticals?",
+      "answer": "OPay, which started as a mobile money platform in Nigeria and now offers peer-to-peer payments and merchant and card services.",
+      "rating": 9
+    },
+    {
+      "question": "What is OPay's current range of services?",
+      "answer": "OPay now offers peer-to-peer payments and merchant and card services.",
+      "rating": 8
+    },
+    {
+      "question": "What is the 'shrink to grow' strategy used by fintechs?",
+      "answer": "Fintechs divest from underperforming parts of their portfolios and scale back from regions recording limited growth, and reinvest that capital into high-performing segments.",
+      "rating": 9
+    },
+    {
+      "question": "What is the benefit of using the 'shrink to grow' strategy?",
+      "answer": "Companies that use this approach are 1.4 times more likely to outperform their peers.",
+      "rating": 8
+    },
+    {
+      "question": "Why did Scalable Capital discontinue its Swiss operations?",
+      "answer": "The implementation of the Financial Services Act in Switzerland would have required the company to manage two regulatory frameworks simultaneously.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of fintech executives are considering an acquisition in the next 18 months?",
+      "answer": "Nearly 60 percent.",
+      "rating": 7
+    },
+    {
+      "question": "Why did fintech firm Block acquire Afterpay?",
+      "answer": "To accelerate its strategic priorities for its seller and cash app ecosystems.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main idea behind tailoring a fintech's value proposition?",
+      "answer": "It should be tailored to the specifics of the local market.",
+      "rating": 8
+    },
+    {
+      "question": "Why did Block acquire Afterpay in January 2022?",
+      "answer": "To accelerate its strategic priorities for its seller and cash app ecosystems.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of fintech executives are considering an acquisition in the next 18 months?",
+      "answer": "Nearly 60 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why did Zopa put its IPO plans on hold?",
+      "answer": "In response to challenging market conditions.",
+      "rating": 8
+    },
+    {
+      "question": "How much capital did Zopa raise from its shareholders in February?",
+      "answer": "$92 million.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to M&A transactions during periods of economic uncertainty?",
+      "answer": "They increase significantly and tend to deliver higher returns.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of banking M&A deals showed positive excess two-year total shareholder returns during the global financial crisis?",
+      "answer": "Around 45 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why do many M&As fail to create value?",
+      "answer": "Due to contrasting values and cultures, mismatched product\u2013market fit, and inflated revenue forecasts.",
+      "rating": 9
+    },
+    {
+      "question": "What has made fintechs so disruptive over the years?",
+      "answer": "Their ability to innovate and differentiate.",
+      "rating": 7
+    },
+    {
+      "question": "How have neobanks like Chime and Monzo changed traditional retail banking?",
+      "answer": "By changing assumptions about the role of branches, with the total number of bank and building society branches in the UK falling by 40 percent between 2012 and 2022.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of bank and building society branches fell in the United Kingdom between 2012 and 2022?",
+      "answer": "40 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the impact of robo-advisers like Wealthfront and Nutmeg on the traditional wealth management industry?",
+      "answer": "They disrupted the traditional wealth management industry by offering low-cost, accessible alternatives to individuals lacking access to personalized financial advice.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of banks plan to invest more in modern payments technology over the next two to three years?",
+      "answer": "94 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the predicted annual value that generative AI could add across various use cases, according to McKinsey research?",
+      "answer": "$2.6 trillion to $4.4 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated potential annual value that generative AI could generate in the banking industry?",
+      "answer": "An additional $200 billion to $340 billion.",
+      "rating": 9
+    },
+    {
+      "question": "According to McKinsey estimates, by when could half of today's work activities be automated?",
+      "answer": "Between 2030 and 2060.",
+      "rating": 9
+    },
+    {
+      "question": "According to McKinsey estimates, when could half of today's work activities be automated?",
+      "answer": "Between 2030 and 2060.",
+      "rating": 9
+    },
+    {
+      "question": "What is Intuit's generative AI operating system specialized in?",
+      "answer": "Solving tax, accounting, cash flow, and personal finance challenges.",
+      "rating": 8
+    },
+    {
+      "question": "How could generative AI impact labor productivity growth annually through 2040?",
+      "answer": "By enabling labor productivity growth of 0.1 to 0.6 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is Morgan Stanley building using GPT-4?",
+      "answer": "An AI assistant to help the organization's wealth managers quickly find and synthesize answers from a massive internal knowledge base.",
+      "rating": 9
+    },
+    {
+      "question": "What do fintechs need to capture the opportunities presented by generative AI?",
+      "answer": "An ecosystem of capabilities and partners that will allow them to move fast.",
+      "rating": 8
+    },
+    {
+      "question": "Why is it challenging for fintechs to attract and hire tech talent?",
+      "answer": "Because of a tight labor market and a shift in perception of fintechs as riskier employers.",
+      "rating": 9
+    },
+    {
+      "question": "How is one European payments fintech differentiating its hiring strategy?",
+      "answer": "By having different strategies based on the profile of open roles, such as offering stock options and other incentive packages to attract experienced profiles.",
+      "rating": 9
+    },
+    {
+      "question": "What is the hiring approach of the Africa-based payments and remittances fintech?",
+      "answer": "Hiring globally, regardless of location, gender, or race, and trying to find the best person for each role.",
+      "rating": 8
+    },
+    {
+      "question": "What is the framework for sustainable growth in the fintech industry?",
+      "answer": "The framework includes 1. Measured growth based on a stable core, 2. Programmatic M&A, 3. Cost discipline, and 4. Keep the culture alive.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first step in the framework for sustainable growth in fintech?",
+      "answer": "Ensure there is a strong and stable core business with a targeted and proven market fit before expanding.",
+      "rating": 9
+    },
+    {
+      "question": "How should fintechs approach M&A?",
+      "answer": "Pursue M&A strategically and establish mutually beneficial partnerships based on a programmatic strategy rooted in value sharing.",
+      "rating": 9
+    },
+    {
+      "question": "Why is cost discipline important for fintechs?",
+      "answer": "To withstand the new funding environment while remaining flexible, nimble, and compliant.",
+      "rating": 8
+    },
+    {
+      "question": "What is the significance of maintaining culture in fintechs?",
+      "answer": "To maintain the agility, innovation, and culture that have been the bedrock of disruption so far.",
+      "rating": 8
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the new era of growth for fintechs focused on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustainable, profitable growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the market capitalization of publicly traded fintechs as of July 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "$550 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many fintech unicorns were there as of July 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 272."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to fintech funding and deal activity in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Funding and deal activity declined across the board."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much VC funding did the fintech industry receive in 2020?"
+      },
+      {
+        "role": "assistant",
+        "content": "$33.3 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the year-over-year increase in VC funding for fintechs in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "177 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the year-over-year increase in fintech funding in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "177 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total fintech funding in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$92.3 billion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did fintech funding change in 2022 compared to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fintech funding faced a 40 percent year-over-year funding decline, down from $92 billion to $55 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected annual revenue growth rate for fintechs between 2022 and 2028?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What sectors were included in the fintech analysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Daily banking; lending; wealth management; payments; investment banking and capital markets; small and medium-size enterprise (SME) and corporate services; operations; and infrastructure (including embedded finance, and banking as a service)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the proportion of fintech funding to total VC funding in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did VC funding drop to in 2022 from 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "From $683.1 billion to $459.6 billion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What fintech sectors were included in the analysis of this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The analysis included daily banking; lending; wealth management; payments; investment banking and capital markets; small and medium-size enterprise (SME) and corporate services; operations; and infrastructure (including embedded finance, and banking as a service)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected growth rate of fintech industry revenues compared to traditional banking between 2023 and 2028?"
+      },
+      {
+        "role": "assistant",
+        "content": "Revenues in the fintech industry are expected to grow almost three times faster than those in the traditional banking sector between 2023 and 2028."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the world's interactions with banks now take place through digital channels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 73 percent of the world's interactions with banks now take place through digital channels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of retail consumers surveyed by McKinsey in 2021 planned to increase their fintech product exposure?"
+      },
+      {
+        "role": "assistant",
+        "content": "41 percent of retail consumers surveyed by McKinsey in 2021 said they planned to increase their fintech product exposure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many mobile accounts were there in Africa in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Africa had almost 800 million mobile accounts in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of SMEs in the United States considered using fintechs for lending, better pricing, and integration with their existing platforms in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "35 percent of the small and medium-size enterprises (SMEs) in the United States considered using fintechs for lending, better pricing, and integration with their existing platforms in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total revenue generated by the banking industry in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The banking industry generated more than $6.5 trillion in revenues in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the global banking sector's net revenue did fintechs account for in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 percent (or $150 billion to $205 billion)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated annual growth rate of fintech revenue between 2022 and 2028?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total revenue generated by the banking industry in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than $6.5 trillion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of global fintech revenues did emerging markets represent in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "15 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected share of global fintech revenues for emerging markets by 2028?"
+      },
+      {
+        "role": "assistant",
+        "content": "29 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the US Consumer Financial Protection Bureau planning to issue this year regarding open banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "A proposed rule that would require financial institutions to share consumer data upon consumers' requests"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected aggregate revenue share of emerging markets in worldwide fintech revenues by 2028?"
+      },
+      {
+        "role": "assistant",
+        "content": "29 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the year-over-year funding decline for fintech companies in the growth stage (series C and beyond) last year?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which two B2B fintech verticals were least affected by funding declines last year?"
+      },
+      {
+        "role": "assistant",
+        "content": "(1) BaaS and embedded finance and (2) SME and corporate value-added services."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the year-over-year funding change for fintechs in the early seed and pre-seed stages?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increased funding by 26 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the adult population in Brazil is said to be using Nubank, a fintech bank in Latin America?"
+      },
+      {
+        "role": "assistant",
+        "content": "46 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the combined market cap of 44 modern fintechs that did an IPO in the eight years leading up to October 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$0.3 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current share of North America in worldwide fintech revenues, and what is it expected to decrease to by 2028?"
+      },
+      {
+        "role": "assistant",
+        "content": "Currently 48 percent, expected to decrease to 41 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage drop in funding for payments-focused fintechs?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the annual growth rate of funding for B2B segments between 2018 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 25 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are businesses adopting off-the-shelf solutions provided by digital-native firms?"
+      },
+      {
+        "role": "assistant",
+        "content": "To address challenges arising from using legacy banking infrastructure, such as limited flexibility, slower speed, and high costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which fintech segments recorded the smallest funding declines from 2021 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Business-to-business segments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated finance gap for micro, small, and medium-size enterprises (MSME) in developing countries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Approximately $5 trillion, or 1.3 times the current level of MSME lending."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the average value of funding rounds for fintechs change from the first to the fourth quarter of 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average value of funding rounds decreased by 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in the time between funding rounds for fintechs from the first to the fourth quarter of 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The time between funding rounds increased by more than five months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in the average value of funding rounds for fintechs from the first to the fourth quarter of 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average value of funding rounds decreased by 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are fintechs and their investors emphasizing in a liquidity-constrained environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Profitability, not just growth in customer adoption numbers or total revenues."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to McKinsey's research, what was the likelihood of companies achieving above-peer profitable growth if they set growth strategies addressing all available pathways to growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies were 97 percent more likely to achieve above-peer profitable growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the key differentiator between profitable and nonprofitable fintechs in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cost management, not revenue growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did profitable fintechs manage their costs in 2022 compared to nonprofitable fintechs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Profitable fintechs posted a median 3 percent decrease in costs, while nonprofitable fintechs saw costs rise by 27 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Paytm achieve breakeven six months ahead of schedule?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through disciplined cost management, revenue growth across businesses, and a business model with strong operating leverage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Paytm's original target for achieving breakeven?"
+      },
+      {
+        "role": "assistant",
+        "content": "September 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Paytm achieve breakeven ahead of schedule?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through disciplined cost management, revenue growth across businesses, and a business model with strong operating leverage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of interviewed fintechs are making changes to their operating models?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 80 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are fintechs adjusting their operating models?"
+      },
+      {
+        "role": "assistant",
+        "content": "66 percent cite a focus on profitability and a sustainable cost structure as being among their top three reasons."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key differentiator for fintech profitability according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strict cost management, not revenue growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What metric do fintechs use to assess the marginal return on investment for acquiring new customers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The LTV/CAC ratio."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of fintechs in Latin America self-reported an LTV/CAC greater than five?"
+      },
+      {
+        "role": "assistant",
+        "content": "68 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three steps fintechs can take to grow sustainably?"
+      },
+      {
+        "role": "assistant",
+        "content": "Building a strong core, expanding into adjacent industries and geographies, and shrinking to grow."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is focusing on the local market and developing a healthy core business important?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies that focus on their core business and have a strong home market are 1.6 times more likely to generate peer-beating returns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step for fintechs to achieve growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Focusing on the local market and developing a healthy core business."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much more likely are companies that focus on their core business to generate peer-beating returns?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.6 times more likely."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary driver of growth for B2C fintechs in emerging economies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cross-selling."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary driver of growth for B2C fintechs in developed countries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Capturing new customers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of revenue growth for companies in Brazil is expected to come from cross-selling?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 72 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a dedicated strategy for each region recommended for fintechs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because markets are highly heterogenous."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the likelihood of companies generating sizable returns when expanding into adjacent segments and geographies?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.2 to 1.3 times more likely than peers that focus solely on their core."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a fintech company that has successfully expanded across financial-services verticals?"
+      },
+      {
+        "role": "assistant",
+        "content": "OPay, which started as a mobile money platform in Nigeria and now offers peer-to-peer payments and merchant and card services."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is OPay's current range of services?"
+      },
+      {
+        "role": "assistant",
+        "content": "OPay now offers peer-to-peer payments and merchant and card services."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'shrink to grow' strategy used by fintechs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fintechs divest from underperforming parts of their portfolios and scale back from regions recording limited growth, and reinvest that capital into high-performing segments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of using the 'shrink to grow' strategy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies that use this approach are 1.4 times more likely to outperform their peers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Scalable Capital discontinue its Swiss operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "The implementation of the Financial Services Act in Switzerland would have required the company to manage two regulatory frameworks simultaneously."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of fintech executives are considering an acquisition in the next 18 months?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly 60 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did fintech firm Block acquire Afterpay?"
+      },
+      {
+        "role": "assistant",
+        "content": "To accelerate its strategic priorities for its seller and cash app ecosystems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main idea behind tailoring a fintech's value proposition?"
+      },
+      {
+        "role": "assistant",
+        "content": "It should be tailored to the specifics of the local market."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Block acquire Afterpay in January 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "To accelerate its strategic priorities for its seller and cash app ecosystems."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of fintech executives are considering an acquisition in the next 18 months?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly 60 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did Zopa put its IPO plans on hold?"
+      },
+      {
+        "role": "assistant",
+        "content": "In response to challenging market conditions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much capital did Zopa raise from its shareholders in February?"
+      },
+      {
+        "role": "assistant",
+        "content": "$92 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to M&A transactions during periods of economic uncertainty?"
+      },
+      {
+        "role": "assistant",
+        "content": "They increase significantly and tend to deliver higher returns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of banking M&A deals showed positive excess two-year total shareholder returns during the global financial crisis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 45 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do many M&As fail to create value?"
+      },
+      {
+        "role": "assistant",
+        "content": "Due to contrasting values and cultures, mismatched product\u2013market fit, and inflated revenue forecasts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has made fintechs so disruptive over the years?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their ability to innovate and differentiate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have neobanks like Chime and Monzo changed traditional retail banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "By changing assumptions about the role of branches, with the total number of bank and building society branches in the UK falling by 40 percent between 2012 and 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of bank and building society branches fell in the United Kingdom between 2012 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "40 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the impact of robo-advisers like Wealthfront and Nutmeg on the traditional wealth management industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "They disrupted the traditional wealth management industry by offering low-cost, accessible alternatives to individuals lacking access to personalized financial advice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of banks plan to invest more in modern payments technology over the next two to three years?"
+      },
+      {
+        "role": "assistant",
+        "content": "94 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the predicted annual value that generative AI could add across various use cases, according to McKinsey research?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2.6 trillion to $4.4 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated potential annual value that generative AI could generate in the banking industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "An additional $200 billion to $340 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to McKinsey estimates, by when could half of today's work activities be automated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 2030 and 2060."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to McKinsey estimates, when could half of today's work activities be automated?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 2030 and 2060."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Intuit's generative AI operating system specialized in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Solving tax, accounting, cash flow, and personal finance challenges."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How could generative AI impact labor productivity growth annually through 2040?"
+      },
+      {
+        "role": "assistant",
+        "content": "By enabling labor productivity growth of 0.1 to 0.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Morgan Stanley building using GPT-4?"
+      },
+      {
+        "role": "assistant",
+        "content": "An AI assistant to help the organization's wealth managers quickly find and synthesize answers from a massive internal knowledge base."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do fintechs need to capture the opportunities presented by generative AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "An ecosystem of capabilities and partners that will allow them to move fast."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it challenging for fintechs to attract and hire tech talent?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of a tight labor market and a shift in perception of fintechs as riskier employers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is one European payments fintech differentiating its hiring strategy?"
+      },
+      {
+        "role": "assistant",
+        "content": "By having different strategies based on the profile of open roles, such as offering stock options and other incentive packages to attract experienced profiles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the hiring approach of the Africa-based payments and remittances fintech?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hiring globally, regardless of location, gender, or race, and trying to find the best person for each role."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the framework for sustainable growth in the fintech industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "The framework includes 1. Measured growth based on a stable core, 2. Programmatic M&A, 3. Cost discipline, and 4. Keep the culture alive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step in the framework for sustainable growth in fintech?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ensure there is a strong and stable core business with a targeted and proven market fit before expanding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should fintechs approach M&A?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pursue M&A strategically and establish mutually beneficial partnerships based on a programmatic strategy rooted in value sharing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is cost discipline important for fintechs?"
+      },
+      {
+        "role": "assistant",
+        "content": "To withstand the new funding environment while remaining flexible, nimble, and compliant."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the significance of maintaining culture in fintechs?"
+      },
+      {
+        "role": "assistant",
+        "content": "To maintain the agility, innovation, and culture that have been the bedrock of disruption so far."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 100,
+    "filtered": 98,
+    "retention_rate": 0.98,
+    "avg_score": 8.4
+  }
+}

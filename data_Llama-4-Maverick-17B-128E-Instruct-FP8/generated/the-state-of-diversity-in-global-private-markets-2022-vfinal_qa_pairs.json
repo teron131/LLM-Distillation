@@ -1,0 +1,773 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe report \"The state of diversity in global private markets: 2022\" examines the diversity of private equity (PE) firms and the role of institutional investors (IIs) in promoting diversity, equity, and inclusion (DEI). The study finds that IIs believe PE firms have significant opportunities to improve diversity, particularly in terms of gender, ethnicity, and race. IIs are increasingly prioritizing DEI and prefer to invest in PE funds with more diverse investment teams, even if it means lower historical performance. The report provides insights into the current state of diversity in PE firms globally and offers recommendations for leaders to improve DEI.",
+  "qa_pairs": [
+    {
+      "question": "What is the total assets under management (AUM) in the private markets industry?",
+      "answer": "Almost $10 trillion."
+    },
+    {
+      "question": "How many private equity (PE) firms and institutional investors (IIs) invest in or control privately held companies around the world?",
+      "answer": "About 9,200."
+    },
+    {
+      "question": "What is the report examining in terms of institutional investors (IIs) and diversity?",
+      "answer": "To what extent IIs factor in the diversity of deal teams when allocating funds and explores II sentiment on the state of diversity in PE today."
+    },
+    {
+      "question": "What aspects of diversity are examined in the report for private equity firms globally?",
+      "answer": "Gender diversity globally and ethnicity and race in Canada and the United States."
+    },
+    {
+      "question": "What are the levers driving current-state representation numbers in private equity firms according to the report?",
+      "answer": "Promotion, attrition, and external hiring."
+    },
+    {
+      "question": "What is the main focus of the report?",
+      "answer": "The report examines the extent to which institutional investors (IIs) factor in the diversity of deal teams when allocating funds and explores II sentiment on the state of diversity in private equity (PE) today."
+    },
+    {
+      "question": "What regions are examined for ethnic and racial diversity in the report?",
+      "answer": "The report examines ethnic and racial diversity in Canada and the United States."
+    },
+    {
+      "question": "How many PE firms and IIs were surveyed for the report?",
+      "answer": "42 PE firms and IIs around the world were surveyed."
+    },
+    {
+      "question": "What is the total number of people employed by the participating PE firms?",
+      "answer": "More than 60,000 people globally."
+    },
+    {
+      "question": "What are the three key insights uncovered from the survey data?",
+      "answer": "IIs' assessment of diversity on investing deal teams today, IIs' preference toward more diverse deal teams when allocating capital to PE firms, and today's baseline of diversity for PE investing teams."
+    },
+    {
+      "question": "What is the report's limitation in terms of diversity categories?",
+      "answer": "The report remained largely focused on gender diversity and ethnic and racial diversity within PE firms, recognizing that there are several other categories that contribute to the diversity of employees."
+    },
+    {
+      "question": "What is increasingly important to the constituents of several major endowments and pension funds?",
+      "answer": "Diversity, equity, and inclusion (DEI)."
+    },
+    {
+      "question": "What do institutional investors generally prefer to invest in, according to early data?",
+      "answer": "PE funds with more diverse investment teams."
+    },
+    {
+      "question": "What do institutional investors believe is the state of diversity in PE today?",
+      "answer": "Poor."
+    },
+    {
+      "question": "On which dimensions do institutional investors think PE firms have significant opportunity to improve the representation of underrepresented groups?",
+      "answer": "Gender, ethnicity and race, socioeconomic background, and sexual orientation."
+    },
+    {
+      "question": "What is the role of institutional investors in the private market ecosystem?",
+      "answer": "They allocate capital to various private equity (PE) firms when they are raising funds for a new tranche of investments."
+    },
+    {
+      "question": "What is the term 'Institutional investors' (IIs) used to describe?",
+      "answer": "A range of types of companies that manage assets of groups, typically by allocating capital to various investment vehicles to grow value over time."
+    },
+    {
+      "question": "What types of companies are included in the term 'Institutional investors'?",
+      "answer": "State or local pensions, sovereign wealth funds, private family offices, foundations, endowments, real estate funds, lenders, growth or expansion funds, hedge funds, and venture funds."
+    },
+    {
+      "question": "What do Institutional investors often directly allocate capital to?",
+      "answer": "Private equity (PE) firms when they are raising funds for a new tranche of investments."
+    },
+    {
+      "question": "What data do PE funds provide during fundraising?",
+      "answer": "Data ranging from past funds' performance to the talent composition of investment teams and firms' investment committees."
+    },
+    {
+      "question": "What did Institutional investors signal that PE firms could do more to diversify?",
+      "answer": "Their investment committees (ICs) and the management teams at the helm of portfolio companies where they hold majority ownership."
+    },
+    {
+      "question": "What was the average satisfaction level of Institutional investors with PE firms' actions to improve talent diversity?",
+      "answer": "Lukewarm, with a wide range of perspectives at each end."
+    },
+    {
+      "question": "What were Institutional investors most satisfied with regarding PE firms' actions to improve diversity?",
+      "answer": "Actions taken to improve diversity on their investment teams."
+    },
+    {
+      "question": "What were Institutional investors least satisfied with regarding PE firms' approach to their portfolio companies?",
+      "answer": "Management team diversity."
+    },
+    {
+      "question": "What is the consensus among Institutional investors regarding the state of diversity in PE today?",
+      "answer": "That it is poor."
+    },
+    {
+      "question": "What is the lowest level of satisfaction related to among institutional investors regarding PE firms?",
+      "answer": "The diversity of PE firms' ICs, which draw from the ranks of managing directors (MDs), and the C-suite."
+    },
+    {
+      "question": "What is the average allocation to a PE fund with more gender diversity compared to one with less, when all else is equal?",
+      "answer": "Twice as much capital."
+    },
+    {
+      "question": "How much more capital would IIs allocate to a PE team with more ethnic and racial diversity compared to one with less?",
+      "answer": "2.6 times as much."
+    },
+    {
+      "question": "What is the general consensus among institutional investors regarding the state of diversity in PE today?",
+      "answer": "The state of diversity in PE today is poor."
+    },
+    {
+      "question": "Can diversity boost the amount of capital allocated to unfamiliar PE firms?",
+      "answer": "Yes, IIs allocated an average of 1.3 times as much capital to unfamiliar funds with more gender diversity and 1.6 times as much to unfamiliar firms with higher levels of ethnic and racial diversity."
+    },
+    {
+      "question": "How much more capital did IIs allocate to unfamiliar funds with more gender diversity compared to familiar funds with less gender diversity?",
+      "answer": "1.3 times as much capital."
+    },
+    {
+      "question": "How much more capital did IIs allocate to unfamiliar firms with higher ethnic and racial diversity compared to familiar firms with less diversity?",
+      "answer": "1.6 times as much capital."
+    },
+    {
+      "question": "What percentage of respondents allocated the same amount of capital to PE funds regardless of the level of diversity on the deal teams?",
+      "answer": "About 40 percent regarding gender and 40 percent regarding ethnicity and race."
+    },
+    {
+      "question": "What percentage of IIs still allocated more capital to the PE firm with greater gender diversity despite its lower historic returns?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What percentage of IIs allocated more to the firm with lower historic returns but higher ethnic and racial diversity?",
+      "answer": "50 percent."
+    },
+    {
+      "question": "Are PE firms increasingly sharing diversity metrics with funders?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What percentage of global private equity firms reported diversity metrics to institutional investors during fundraising in 2020-21?",
+      "answer": "52 percent."
+    },
+    {
+      "question": "How has the share of private equity firms providing diversity metrics to institutional investors during fundraising changed from 2018-19 to 2020-21?",
+      "answer": "The share jumped from about 35 percent to 52 percent."
+    },
+    {
+      "question": "What has been the trend in institutional investors' requests for diversity data from private equity firms?",
+      "answer": "Institutional investors are increasingly asking for and receiving diversity data from private equity firms seeking to raise funds."
+    },
+    {
+      "question": "How do private equity firms typically report diversity metrics to institutional investors?",
+      "answer": "PE firms submit lengthy and often allocator-specific forms that ask for varying types of data, resulting in a large volume of data\u2014a mix of facts, metrics, and narrative that is difficult to compare across PE firms."
+    },
+    {
+      "question": "What did the director of ESG engagement of a US-headquartered PE firm say about the trend in requests for diversity data?",
+      "answer": "The director said there has been an uptick in DEI requests, and they share what they are doing and talk about the initiatives they have in place, whereas previously they received more requests on emissions and environmental metrics."
+    },
+    {
+      "question": "How did institutional investors allocate capital to diversity leaders versus laggards?",
+      "answer": "Institutional investors tended to allocate more to the more diverse firm when they had allocated to both funds before and the diversity leader had lower historic returns."
+    },
+    {
+      "question": "What is the main challenge for institutional investors (IIs) and private equity (PE) firms regarding diversity, equity, and inclusion (DEI) metrics?",
+      "answer": "The main challenge for both IIs and PE firms is a lack of standardized metrics, which makes the reporting process unwieldy and labor-intensive."
+    },
+    {
+      "question": "What are institutional investors (IIs) increasingly considering in their capital allocation decisions?",
+      "answer": "IIs are increasingly considering PE investing teams' diversity metrics and initiatives in capital allocation decisions."
+    },
+    {
+      "question": "What percentage of entry-level roles in global private equity are filled by women?",
+      "answer": "As of the end of 2021, 48 percent of all entry-level roles in PE globally are filled by women."
+    },
+    {
+      "question": "What is the percentage of women in managing director (MD) roles in global private equity?",
+      "answer": "Only 20 percent of managing director (MD) roles in global private equity are filled by women."
+    },
+    {
+      "question": "Why do PE executives believe diversity metrics take time to improve?",
+      "answer": "PE executives note that diversity metrics take time to improve because it takes time for individuals to progress through the firm's hierarchy; for example, the fastest possible course from entry-level to managing director is eight years."
+    },
+    {
+      "question": "What percentage of entry-level roles in private equity are filled by women globally?",
+      "answer": "48 percent."
+    },
+    {
+      "question": "What percentage of managing director roles in private equity are held by women?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "How many private equity firms provided data for the report?",
+      "answer": "31 private equity firms."
+    },
+    {
+      "question": "What is the total percentage of women in investing roles in private equity?",
+      "answer": "23 percent."
+    },
+    {
+      "question": "What percentage of entry-level investing roles are held by women?",
+      "answer": "34 percent."
+    },
+    {
+      "question": "What percentage of non-investing roles are held by women in private equity?",
+      "answer": "52 percent."
+    },
+    {
+      "question": "What is the percentage of women in managing director investing roles?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "What percentage of non-investing roles are held by women in private equity firms?",
+      "answer": "52 percent."
+    },
+    {
+      "question": "What percentage of investing roles are held by women in private equity firms?",
+      "answer": "23 percent."
+    },
+    {
+      "question": "How did the share of women employees in investing roles change in 2021?",
+      "answer": "The share of women employees in investing roles grew by two percentage points."
+    },
+    {
+      "question": "What was the change in the representation of women at the entry level in investing roles in 2021?",
+      "answer": "There was a nine percentage point increase in women at the entry level."
+    },
+    {
+      "question": "What percentage of investment committee members are women?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What percentage of MD-level investment staff are women?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "What is the trend of women's representation in PE investing teams as seniority increases?",
+      "answer": "The share of women within PE investing teams declines with seniority."
+    },
+    {
+      "question": "What percentage of investment committee members are women globally?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What is the percentage of women in C-suite roles (L1) in private equity firms globally?",
+      "answer": "14 percent."
+    },
+    {
+      "question": "What is the percentage of women in Managing Director (L2) investing roles globally?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "How many private equity firms provided data for the analysis?",
+      "answer": "31."
+    },
+    {
+      "question": "What is the unique firm count by region in the provided data?",
+      "answer": "Americas = 26; Europe = 16; Asia\u2013Pacific = 11."
+    },
+    {
+      "question": "Are women in senior investing positions more likely to leave their organizations?",
+      "answer": "Yes, White women in senior investing positions are 1.4 times more likely to leave in the next year."
+    },
+    {
+      "question": "How do White women in senior executive positions rate their job satisfaction compared to their male counterparts?",
+      "answer": "White women in senior investing positions are 13 percent less satisfied than their male counterparts."
+    },
+    {
+      "question": "What is the role of investment committees in private equity firms?",
+      "answer": "Investment committees engage in intellectual debate and make decisions about potential assets to purchase, prices to pay, EBITDA growth, and how to create value."
+    },
+    {
+      "question": "Who are generally invited to be standing members of the Investment Committee (IC) in private equity firms?",
+      "answer": "C-suite (L1) and MD (L2) ranks."
+    },
+    {
+      "question": "What is the average percentage of women MDs in the top 10% of PE firms on gender diversity?",
+      "answer": "32 percent."
+    },
+    {
+      "question": "What is the percentage of women MDs in the bottom 10% of PE firms on gender diversity in 2021?",
+      "answer": "0 percent."
+    },
+    {
+      "question": "How does the percentage of women MDs affect the overall percentage of women in investing roles in PE firms?",
+      "answer": "PE firms that lead on percent of women MDs also had significantly higher shares of total investing women versus the industry as a whole\u2014a difference of ten percentage points higher than the industry average of 23 percent."
+    },
+    {
+      "question": "Which region has the highest share of women in the C-suite in private equity?",
+      "answer": "The Americas."
+    },
+    {
+      "question": "Which region leads in women's representation in the middle of the corporate ladder (L4) in private equity?",
+      "answer": "Asia\u2013Pacific (APAC)."
+    },
+    {
+      "question": "Which region leads slightly on entry-level investing roles (L6) in private equity?",
+      "answer": "Europe."
+    },
+    {
+      "question": "What is the difference in the share of total investing women between PE firms that lead on percent of women MDs and the industry average?",
+      "answer": "Ten percentage points higher than the industry average of 23 percent."
+    },
+    {
+      "question": "How is 'Diversity leader' defined in the context of PE firms?",
+      "answer": "The top 10% of PE firms by representation of women in investing roles at the managing director level (L2) globally."
+    },
+    {
+      "question": "Which region has the highest share of women in the C-suite?",
+      "answer": "The Americas."
+    },
+    {
+      "question": "Which region leads in women's representation in the middle of the corporate ladder (L4)?",
+      "answer": "Asia\u2013Pacific (APAC)."
+    },
+    {
+      "question": "What is the share of women in entry-level investing roles (L6) in Europe?",
+      "answer": "40%."
+    },
+    {
+      "question": "What is the percentage of women in managing director (L2) roles in leading PE firms globally?",
+      "answer": "32%."
+    },
+    {
+      "question": "Which region has the highest share of women in the C-suite?",
+      "answer": "The Americas."
+    },
+    {
+      "question": "What is the share of women in the C-suite in the Americas?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "Which region leads in women's representation in the middle of the corporate ladder (L4)?",
+      "answer": "Asia\u2013Pacific (APAC)."
+    },
+    {
+      "question": "What is the drop in the share of women from associate (L5) to MD (L2) in the Americas?",
+      "answer": "12 percentage points."
+    },
+    {
+      "question": "What is the share of women at the associate level (L5) in the Americas?",
+      "answer": "25 percent."
+    },
+    {
+      "question": "What is the share of women at the MD level (L2) in the Americas?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "Is the attrition rate higher for women or men at the associate and VP levels in the Americas?",
+      "answer": "Women."
+    },
+    {
+      "question": "By how many percentage points is the attrition rate higher for women than men at the associate level in the Americas?",
+      "answer": "13 percentage points."
+    },
+    {
+      "question": "By how many percentage points is the promotion rate higher for men than women into VP, principal, and MD or partner in the Americas?",
+      "answer": "Five to 12 percentage points."
+    },
+    {
+      "question": "What is the difference in promotion rate for men versus women into VP, principal, and MD or partner in the Americas?",
+      "answer": "The promotion rate for men into VP, principal, and MD or partner ranges from five to 12 percentage points higher than for women."
+    },
+    {
+      "question": "At which levels is women's attrition higher than men's in the Americas?",
+      "answer": "Women's attrition in the Americas is most noticeable at the associate and VP levels."
+    },
+    {
+      "question": "What is the difference in attrition rate between women and men at the associate level in the Americas?",
+      "answer": "The attrition rate for women is 13 percentage points higher than for men at the associate level."
+    },
+    {
+      "question": "What is the representation of women at the associate level (L5) in APAC offices?",
+      "answer": "Representation for women at the associate level (L5) in APAC offices is 31 percent."
+    },
+    {
+      "question": "How does the representation of women at the VP level (L4) in APAC offices compare to the global benchmark?",
+      "answer": "Representation for women at the VP level (L4) in APAC offices is 40 percent, 11 percentage points higher than the global benchmark."
+    },
+    {
+      "question": "Which region has the highest share of women in mid-level roles?",
+      "answer": "APAC offices have the highest share of women in mid-level roles."
+    },
+    {
+      "question": "What is the representation of women at the VP level (L4) in APAC offices?",
+      "answer": "Representation for women at the VP level (L4) in APAC offices is 40 percent."
+    },
+    {
+      "question": "What is the 'broken rung' in the career progression for women in APAC offices?",
+      "answer": "The 'broken rung' refers to the plunge of more than 30 percentage points in the share of women advancing from VP (L4) to principal (L3) in APAC offices."
+    },
+    {
+      "question": "What percentage of MD roles are held by women in the Americas?",
+      "answer": "Women make up 13 percent of MD roles in the Americas."
+    },
+    {
+      "question": "Which region has the highest share of women at entry-level investing jobs?",
+      "answer": "Europe leads the regions with 35 percent of women in entry-level investing jobs."
+    },
+    {
+      "question": "What is the representation of women at the MD level (L2) in European offices?",
+      "answer": "Women in Europe at the MD level (L2) have the lowest representation\u20147 percent."
+    },
+    {
+      "question": "What was the promotion rate for women VPs to principal in the Americas in 2021?",
+      "answer": "17 percent of women VPs were promoted to principal in the Americas."
+    },
+    {
+      "question": "Which region had the smallest gap between promotion rates for men and women at mid-level to senior ranks in 2021?",
+      "answer": "Europe had the smallest gap compared with other regions between promotion rates for men and women at the mid-level to senior ranks."
+    },
+    {
+      "question": "In 2021, which region had the smallest gap between promotion rates for men and women at mid-level to senior ranks?",
+      "answer": "Europe."
+    },
+    {
+      "question": "What was the difference in promotion rates between men and women into VP and principal roles in Europe in 2021?",
+      "answer": "Less than four percentage points."
+    },
+    {
+      "question": "In Europe in 2021, how many times as many women MDs in investing left their firms compared to men?",
+      "answer": "Four times."
+    },
+    {
+      "question": "What are the three key levers affecting diversity at every level of PE?",
+      "answer": "Promotion, attrition, and hiring."
+    },
+    {
+      "question": "In APAC in 2021, where were women promoted at higher rates than men?",
+      "answer": "Into VP (L4) and MD (L2)."
+    },
+    {
+      "question": "What was the promotion rate for women associates and principals in APAC into VP (L4) and MD (L2) in 2021?",
+      "answer": "At or above 20 percent."
+    },
+    {
+      "question": "In APAC in 2021, what were the largest gaps to promotion parity for women?",
+      "answer": "Into associate (L5) and into principal (L3)."
+    },
+    {
+      "question": "What trend was observed in attrition rates for women in Europe and the Americas in 2021?",
+      "answer": "Women at every level left at higher rates than their male counterparts."
+    },
+    {
+      "question": "What did Elizabeth Urdang, CHRO at L Catterton, say about working with search firms to increase diversity?",
+      "answer": "She said that they need to explicitly ask for diverse talent for open roles, or they won't get any diverse talent at all."
+    },
+    {
+      "question": "What is one strategy used by PE firms to increase diversity in their talent pool?",
+      "answer": "PE firms are explicitly asking search firms for diverse talent for their open roles."
+    },
+    {
+      "question": "How are some PE firms using MBA recruitment to increase diversity?",
+      "answer": "They are partnering with business schools and their LGBTQ+ and Black investing clubs to attract diverse talent."
+    },
+    {
+      "question": "Is attrition generally higher for women or men in private equity?",
+      "answer": "Attrition is generally higher for women in private equity than for men."
+    },
+    {
+      "question": "What is the percentage of women in investing roles at American-headquartered firms?",
+      "answer": "23 percent of investment professionals (from L6 to L2) are women at American-headquartered firms."
+    },
+    {
+      "question": "How does the representation of women at the L1 level compare between firms headquartered in Europe and the Americas?",
+      "answer": "Firms headquartered in Europe have nearly double the share of women at the L1 level (25 percent) compared with firms headquartered in the Americas (15 percent)."
+    },
+    {
+      "question": "What external factor may be contributing to the progress in women's representation at European-headquartered firms?",
+      "answer": "The new European Union requirement that 40 percent of non-executive board seats at public companies be held by women by 2026."
+    },
+    {
+      "question": "What is the new European Union requirement regarding women's representation on non-executive boards of public companies by 2026?",
+      "answer": "40 percent of non-executive board seats at public companies be held by women."
+    },
+    {
+      "question": "Which region's PE firms tend to have the highest representation of women in investing roles?",
+      "answer": "APAC firms may have the highest representation of women in investing roles."
+    },
+    {
+      "question": "What percentage of non-investing roles were held by ethnic and racial minorities in the Canadian and US offices of PE firms at the end of 2021?",
+      "answer": "33 percent."
+    },
+    {
+      "question": "What percentage of IC members are ethnic and racial minorities in investing roles in Canadian and US offices of PE firms?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What percentage of women of color hold IC roles in PE firms?",
+      "answer": "1 percent."
+    },
+    {
+      "question": "How does the representation of women in investing roles compare between PE firms headquartered in the Americas and those in Europe?",
+      "answer": "PE firms headquartered in the Americas tend to have higher shares of women in their investing teams compared to PE firms headquartered in Europe."
+    },
+    {
+      "question": "What percentage of non-investing roles were held by ethnic and racial minorities in the Canadian and US offices of PE firms at the end of 2021?",
+      "answer": "33 percent."
+    },
+    {
+      "question": "What percentage of IC members were ethnic and racial minorities in the Canadian and US offices of PE firms?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What percentage of entry-level investing staff identified as ethnic and racial minorities?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What was the representation of ethnic and racial minorities at the MD level (L2) and the C-suite (L1) in the Canadian and US offices of PE firms?",
+      "answer": "17 percent at the MD level (L2) and 12 percent at the C-suite (L1)."
+    },
+    {
+      "question": "What percentage of investing roles were held by people who self-identified as White at the end of 2021?",
+      "answer": "70 percent."
+    },
+    {
+      "question": "What was the share of investing professionals of Asian descent in Canada and the United States at the end of 2021?",
+      "answer": "21 percent."
+    },
+    {
+      "question": "How many times more prevalent were White men compared to White women at the MD level (L2)?",
+      "answer": "More than eight times."
+    },
+    {
+      "question": "What percentage of all investing jobs were held by people who self-identified as White in 2021?",
+      "answer": "70 percent."
+    },
+    {
+      "question": "What is the representation of White professionals in investing roles at the MD (L2) level?",
+      "answer": "The representation increases by 25 percentage points from associate to MD (L2) level."
+    },
+    {
+      "question": "How many times more prevalent are White men compared to White women at the MD level?",
+      "answer": "More than eight times."
+    },
+    {
+      "question": "What percentage of Associate (L5) investing roles were held by White professionals in 2021?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "What is the largest racial minority group in PE investing roles?",
+      "answer": "Asian professionals."
+    },
+    {
+      "question": "What percentage of all associate-level investing roles in PE offices in Canada and the United States are held by Asian professionals?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What is the percentage of Asian investing professionals at the MD level?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "What happens to the representation of Asian professionals from L2 to L15 in private equity firms?",
+      "answer": "The percent composition of Asian professionals declines substantially from L2 to L15."
+    },
+    {
+      "question": "What is the representation of Black professionals in entry-level investing roles in Canada and the United States?",
+      "answer": "Black professionals make up 7 percent of entry-level investing roles."
+    },
+    {
+      "question": "How does the representation of Black professionals change from entry-level to associate (L5) class in offices in Canada and the United States?",
+      "answer": "The representation drops sharply from 7 percent to 4 percent."
+    },
+    {
+      "question": "What is the representation of Black MDs (L2) in private equity firms in Canada and the United States as of year-end 2021?",
+      "answer": "Only 1 percent of all PE MDs (L2) were Black."
+    },
+    {
+      "question": "What is the representation of Hispanic professionals in entry-level and post-MBA associate cohorts in private equity investing?",
+      "answer": "Hispanic professionals make up 4 to 7 percent of entry-level and post-MBA associate cohorts."
+    },
+    {
+      "question": "How does the representation of Hispanic and Black professionals change between the post-MBA and MD levels (L5 to L2)?",
+      "answer": "Both groups lose roughly three to four percentage points."
+    },
+    {
+      "question": "What percentage of all PE MDs in Canada and the United States were Black as of year-end 2021?",
+      "answer": "1 percent."
+    },
+    {
+      "question": "What is the representation of Black women among all Black investing professionals at the post-MBA and VP levels?",
+      "answer": "Just under a third."
+    },
+    {
+      "question": "How does the representation of Hispanic professionals in PE investing compare to Black professionals at senior levels?",
+      "answer": "Hispanic professionals have a higher presence compared to Black professionals at senior levels, with 2.5 times and 3.9 times as many Hispanic principals and MDs, respectively."
+    },
+    {
+      "question": "What percentage of MDs at the least diverse PE firms are White and Caucasian?",
+      "answer": "98 percent."
+    },
+    {
+      "question": "What is the share of Hispanic women among all Hispanic professionals from post-MBA to principal (L5 to L3) in PE investing?",
+      "answer": "About 16 percent."
+    },
+    {
+      "question": "What is the industry average share for ethnic and racial minorities at the MD level in top PE firms?",
+      "answer": "32 percent, which is close to double the industry average."
+    },
+    {
+      "question": "What was the industry average for ethnic and racial minorities in private equity firms?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "How did the ethnic and racial minority representation in leading private equity firms compare to the industry average?",
+      "answer": "Leading firms had 34% ethnic and racial minorities in managing director roles and 32% across all investing roles, beating the industry average."
+    },
+    {
+      "question": "What was the percentage of ethnic and racial minorities in managing director roles in lagging private equity firms?",
+      "answer": "22 percent."
+    },
+    {
+      "question": "According to Jerilyn Castillo McAniff, what is needed for firms to track representation and progress in diversity?",
+      "answer": "Consistent metrics and industry benchmarks."
+    },
+    {
+      "question": "What specific region-specific obstacles to diversity are mentioned for offices in the Americas?",
+      "answer": "Attracting more Black and Hispanic talent for post-MBA investing positions and improving promotion parity of women, Asian professionals, and Hispanic professionals into VP, principal, and MD roles."
+    },
+    {
+      "question": "What is suggested for APAC offices to improve diversity?",
+      "answer": "Mending the broken rung from VP to principal by evaluating barriers to apprenticeship, sponsorship, and promotion of women, and reducing MD and principal attrition."
+    },
+    {
+      "question": "What can APAC offices do to improve diversity?",
+      "answer": "APAC offices can mend the broken rung from VP to principal by evaluating barriers to apprenticeship, sponsorship, and promotion of women, as well as by working to reduce MD and principal attrition."
+    },
+    {
+      "question": "What is recommended for European offices to improve diversity?",
+      "answer": "European offices may reduce the loss of women from L5 to L2 and leverage the breadth of their women colleagues at L6, by striving for promotion parity for that first step up from entry level to Associate level, as well as in external hiring for mid-tenure levels (L5 to L3)."
+    },
+    {
+      "question": "What did Jerilyn Castillo McAniff say about diversity metrics?",
+      "answer": "Jerilyn Castillo McAniff said, 'What we need are consistent metrics and industry benchmarks so that firms can track representation and progress. Without these tools, we all operate in a vacuum.'"
+    },
+    {
+      "question": "What is required to increase the diversity of PE Investing teams?",
+      "answer": "Increasing the diversity of PE Investing teams takes time and creating an equitable and inclusive culture will be the key to retaining a diverse workforce over time."
+    },
+    {
+      "question": "What is suggested for PE firms' CHROs and Heads of DEI to improve diversity?",
+      "answer": "PE firms' CHROs and Heads of DEI should push to improve the granularity of the data collected around the world, where possible, and devise solutions with intersectional groups in mind."
+    },
+    {
+      "question": "What should IIs do to evaluate PE funds' diversity?",
+      "answer": "IIs can use standardized\u2014and simplified\u2014diversity metrics to evaluate PE funds and should consistently require diversity metrics from all PE firms that approach them during fundraising."
+    },
+    {
+      "question": "How many companies participated in the survey for the report?",
+      "answer": "42 companies, including 31 private equity firms and 11 institutional investors."
+    },
+    {
+      "question": "In how many countries did the participating companies have offices?",
+      "answer": "23 countries: Australia, Belgium, Brazil, Canada, Finland, France, Germany, Greater China, India, Indonesia, Israel, Italy, Japan, Luxembourg, Mexico, the Netherlands, Norway, Singapore, South Korea, Spain, Sweden, the United Kingdom, and the United States."
+    },
+    {
+      "question": "How many private equity employees responded to the survey about their workplace experiences?",
+      "answer": "More than 300 private equity employees."
+    },
+    {
+      "question": "How many firms operating in Canada and the United States provided data for the analysis on ethnicity and race?",
+      "answer": "24 firms."
+    },
+    {
+      "question": "How many employees were represented in the data used for the analysis on ethnicity and race?",
+      "answer": "About 7,500 employees in Canada and the United States."
+    },
+    {
+      "question": "How were respondents sourced for McKinsey's survey?",
+      "answer": "Respondents were sourced through invitations from McKinsey & Company or by indicating their interest through a public sign-up form."
+    },
+    {
+      "question": "What was the time period for collecting talent pipeline and institutional investor decision-making data?",
+      "answer": "Between June and August 2022."
+    },
+    {
+      "question": "What data did respondents submit about their firms?",
+      "answer": "Data about their firms' talent pipelines."
+    },
+    {
+      "question": "How many talent pipelines were collected from respondents?",
+      "answer": "127 talent pipelines."
+    },
+    {
+      "question": "How were the global benchmarks calculated?",
+      "answer": "The global benchmark is a weighted average of the regional benchmarks, based on headcount."
+    },
+    {
+      "question": "How were employees categorized into job levels?",
+      "answer": "Into six levels based on standard definitions, taking into account reporting structure and salaries for both investing roles and non-investing roles."
+    },
+    {
+      "question": "What are the definitions of L1 and L2 job levels?",
+      "answer": "L1 are C-level executives or fund heads responsible for the direction and focus of the organization. L2 are managing directors or partners, direct reports to the C-suite and fund heads."
+    },
+    {
+      "question": "When were employees surveyed in the Employee Experience Survey (EES)?",
+      "answer": "Between July and September 2022."
+    },
+    {
+      "question": "What was the purpose of interviews with leaders at institutional investing and PE firms?",
+      "answer": "To provide supplemental commentary on the experience of investing and non-investing employees at their firms, as well as shared industry trends and key initiatives and challenges faced by the industry when pursuing DEI efforts."
+    },
+    {
+      "question": "Who are considered L2 in the organizational structure?",
+      "answer": "Managing directors or partners, who are direct reports to the C-suite and fund heads."
+    },
+    {
+      "question": "What is the role of L5 employees in the organization?",
+      "answer": "L5 employees, also known as associates or managers, oversee day-to-day activities for smaller teams or initiatives."
+    },
+    {
+      "question": "What is the composition of the IC subgroup?",
+      "answer": "The IC subgroup is made up of people drawn from the L1 and L2 ranks."
+    },
+    {
+      "question": "How were promotion rates calculated?",
+      "answer": "Promotion rates were calculated by dividing the number of promotions of a particular gender or ethnicity and race into a level by the number of employees of that gender or ethnicity or race in the available pool at the start of the year."
+    },
+    {
+      "question": "What data did respondents report on for the talent pipeline?",
+      "answer": "Respondents reported on the number of men and women who were hired, promoted, and who left the company voluntarily and involuntarily during 2021."
+    },
+    {
+      "question": "How were the scenarios for the institutional investors' decision-making survey structured?",
+      "answer": "One firm in each scenario was a diversity leader, and the other was a diversity laggard, with varying factors such as historic fund performance and prior allocation."
+    },
+    {
+      "question": "What percentage of investment professionals were women in industry laggards versus leaders?",
+      "answer": "Industry laggards reported 10 percent, while industry leaders reported 50 percent."
+    },
+    {
+      "question": "What percentage of investment professionals were ethnic and racial minorities in industry laggards versus leaders?",
+      "answer": "Industry laggards reported 5 percent, while industry leaders reported 30 percent."
+    },
+    {
+      "question": "What was the average historic return for PE firms with higher fund performance?",
+      "answer": "14 percent for most recent similar funds."
+    },
+    {
+      "question": "What was the average historic return for PE firms with lower fund performance?",
+      "answer": "12.8 percent for most recent similar funds."
+    },
+    {
+      "question": "How many employees of private equity firms participated in the employee experience survey?",
+      "answer": "More than 300 employees."
+    },
+    {
+      "question": "When was the employee experience survey fielded?",
+      "answer": "July through September of 2022."
+    },
+    {
+      "question": "How many PE firms shared the vintage year for their top three funds?",
+      "answer": "23 participating PE firms."
+    },
+    {
+      "question": "How many executives were interviewed for the study?",
+      "answer": "15 executives at participating PE firms and institutional investors."
+    },
+    {
+      "question": "When were the interviews conducted?",
+      "answer": "September and October 2022."
+    }
+  ]
+}

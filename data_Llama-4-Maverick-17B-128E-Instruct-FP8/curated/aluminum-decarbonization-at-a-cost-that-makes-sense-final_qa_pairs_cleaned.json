@@ -1,0 +1,3547 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe aluminum industry is a significant contributor to greenhouse gas emissions, accounting for around 2% of global emissions. To achieve a 1.5\u00b0C pathway, the industry must decarbonize by upgrading refining and smelting assets and investing in low-carbon power. The report identifies various levers to accelerate decarbonization, including financial, policy, and demand levers, and presents five scenarios for retrofitting existing facilities. Collaborative action among stakeholders, including banks, investors, policy makers, and end customers, is necessary to overcome economic obstacles and risks, with an estimated $1 trillion in cumulative investment needed to deliver a net-zero sector.",
+  "qa_pairs": [
+    {
+      "question": "What is the main goal of the Mission Possible Partnership (MPP)?",
+      "answer": "MPP is focused on supercharging the decarbonization of seven global industries representing 30 percent of emissions.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Energy Transitions Commission (ETC) committed to achieving?",
+      "answer": "ETC is committed to achieving net-zero emissions by the middle of the century.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the leaders of the industry decarbonization mentioned in the report?",
+      "answer": "Alasdair Graham is the head of industry decarbonization, Marten Ford is sector lead for aluminum, and Jason Martins is a senior analyst.",
+      "rating": 8
+    },
+    {
+      "question": "What are the seven global industries that MPP is focused on decarbonizing?",
+      "answer": "The seven industries are aluminum, aviation, cement and concrete, chemicals, shipping, steel, and trucking.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of global greenhouse-gas emissions is attributed to the aluminum industry?",
+      "answer": "About 2 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How many metric tons of GHGs does the aluminum industry emit per year?",
+      "answer": "Around 1.1 billion metric tons.",
+      "rating": 9
+    },
+    {
+      "question": "What is required to transform the aluminum sector to a low-carbon sector?",
+      "answer": "Upgrading refining and smelting assets and making significant investments in low-carbon power.",
+      "rating": 9
+    },
+    {
+      "question": "What determines the investment case for decarbonizing individual refineries or smelters?",
+      "answer": "Local circumstances, power availability, and policy arrangements.",
+      "rating": 9
+    },
+    {
+      "question": "Who will have an important role to play in overcoming the economic obstacles and risks to aluminum decarbonization?",
+      "answer": "Banks, investors, policy makers, and end customers.",
+      "rating": 9
+    },
+    {
+      "question": "What is one of the challenges to aluminum decarbonization?",
+      "answer": "One of the challenges to aluminum decarbonization is that best currently available fossil-fuel-based technologies have a net present value greater than green alternatives.",
+      "rating": 9
+    },
+    {
+      "question": "How much cumulative investment is needed to deliver a net-zero sector or a 1.5\u00b0C pathway in the aluminum industry?",
+      "answer": "Cumulative investment of approximately $1 trillion across the primary production value chain will be needed.",
+      "rating": 9
+    },
+    {
+      "question": "What role can financial institutions play in supporting aluminum decarbonization?",
+      "answer": "Financial institutions have the capability to mitigate some of the risks and shift cash flows toward green investments.",
+      "rating": 8
+    },
+    {
+      "question": "How can governments provide incentives for aluminum decarbonization?",
+      "answer": "Governments have several tools to provide incentives, including government grants to aluminum producers, carbon contracts for difference (CCfDs), and carbon pricing through trading schemes or carbon taxes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated premium that aluminum users may need to pay for green aluminum?",
+      "answer": "Aluminum users may need to pay a 5 to 10 percent premium for green aluminum.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a company that has committed to using zero-carbon aluminum?",
+      "answer": "Apple has announced that its new iPhone SE will use zero-carbon aluminum produced from hydropower in Quebec.",
+      "rating": 9
+    },
+    {
+      "question": "What is Apple using for its new iPhone SE production?",
+      "answer": "Zero-carbon aluminum produced from hydropower in Quebec.",
+      "rating": 8
+    },
+    {
+      "question": "What is driving change in the aluminum industry?",
+      "answer": "Rising demand for low-carbon products and the dynamics of a warming planet.",
+      "rating": 8
+    },
+    {
+      "question": "What has been developed by Mission Possible Partnership\u2019s Aluminium for Climate team?",
+      "answer": "An open-access, open-source investment model for alumina and aluminum plant archetypes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the investment model developed by Mission Possible Partnership\u2019s Aluminium for Climate team?",
+      "answer": "To create a twin lens on costs and decarbonization options for Scopes 1, 2, and 3 emissions and to compare investment scenarios with best available technologies (BAT).",
+      "rating": 9
+    },
+    {
+      "question": "What are the risks associated with decarbonizing the aluminum industry?",
+      "answer": "Market risks, credit risks, liquidity risks, and risks associated with executing decarbonization projects and the impacts of policy and regulation.",
+      "rating": 9
+    },
+    {
+      "question": "What is a basic element of risk mitigation strategies for decarbonizing the aluminum industry?",
+      "answer": "Long-term planning based on an understanding of all available and economically reasonable decarbonization pathways.",
+      "rating": 9
+    },
+    {
+      "question": "What is a basic element of risk mitigation strategies for decarbonization?",
+      "answer": "Long-term planning based on an understanding of all available and economically reasonable decarbonization pathways.",
+      "rating": 8
+    },
+    {
+      "question": "What are the potential risks associated with aluminum decarbonization?",
+      "answer": "Market risk, credit risk, liquidity risk, technical and execution risk, and political and regulatory risk.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a finance lever that can help stimulate investment in ultra-low-carbon aluminum production?",
+      "answer": "Financial institutions issuing green loans, green bonds, transition bonds, or sustainability-linked loans or bonds.",
+      "rating": 9
+    },
+    {
+      "question": "What is an example of a policy lever that can help stimulate investment in ultra-low-carbon aluminum production?",
+      "answer": "Setting up carbon prices or taxes, such as locally regulated taxes, exchange-traded emissions systems, or fees on imports like the cross-border adjustment mechanism.",
+      "rating": 9
+    },
+    {
+      "question": "What type of government support has been provided to companies for decarbonization efforts?",
+      "answer": "Government grants, such as the CA $1.8 billion grant from the Canadian government to support ArcelorMittal's investment in converting a blast furnace to an electric-arc furnace.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected CO2e emissions reduction from ArcelorMittal's investment in the steel industry?",
+      "answer": "Three million metric tons (or 60 percent emissions reduction).",
+      "rating": 8
+    },
+    {
+      "question": "How much funding is Germany considering for carbon contracts for difference (CCfD) for heavy industry?",
+      "answer": "\u20ac43 billion.",
+      "rating": 7
+    },
+    {
+      "question": "What is the purpose of offtake agreements in decarbonization?",
+      "answer": "Offtake agreements often help secure funds for decarbonization, reducing the investment risk.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average annual spending required across industries by 2050 for the net-zero transition?",
+      "answer": "$9.2 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three key financial levers that will support the decarbonization of the aluminum industry?",
+      "answer": "Improvement in terms for low-carbon investments, bringing new finance products to market and tailoring finance to the particular combination of risks inherent in low-carbon products, and aligning the climate objectives of finance providers and alumina and aluminum producers through principles of credit provision associated with pathways to 1.5\u00baC.",
+      "rating": 9
+    },
+    {
+      "question": "What is likely to happen to capital flow for green and brown-to-green investments as capital providers understand decarbonization levers and project risk profiles?",
+      "answer": "More capital is likely to flow to green and brown-to-green investments.",
+      "rating": 8
+    },
+    {
+      "question": "What type of loan instrument is exclusively applied to finance or refinance new or existing eligible green projects?",
+      "answer": "Green loans.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main difference between sustainability-linked loans and bonds and green or sustainable bonds?",
+      "answer": "Funds raised with sustainability-linked loans and bonds are not tagged to a specific use but are for general corporate purposes.",
+      "rating": 9
+    },
+    {
+      "question": "According to the Climate Bonds Initiative, how much in green bonds have been issued since market inception in 2007?",
+      "answer": "Nearly $2 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the global framework that integrates climate considerations in lending decisions, mentioned in the context of ship finance?",
+      "answer": "Poseidon Principles.",
+      "rating": 9
+    },
+    {
+      "question": "What organization is working with banking leads, aluminum producers, and partner organizations to align the objectives of firms in the aluminum sector and their financial partners?",
+      "answer": "Center for Climate-Aligned Finance (CAF).",
+      "rating": 9
+    },
+    {
+      "question": "What is the Poseidon Principles?",
+      "answer": "A global framework for responsible ship finance that integrates climate considerations in lending decisions.",
+      "rating": 10
+    },
+    {
+      "question": "What is the Center for Climate-Aligned Finance (CAF) working on in the aluminum sector?",
+      "answer": "Ensuring that the objectives of firms in the aluminum sector and their financial partners are aligned and actionable.",
+      "rating": 8
+    },
+    {
+      "question": "What is the Net-Zero Banking Alliance?",
+      "answer": "An alliance that brings together banks committed to aligning their lending and investments with net-zero emissions by 2050, representing 40 percent of global banking assets.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Glasgow Financial Alliance for Net Zero (GFANZ)?",
+      "answer": "An alliance with over 450 members representing $130 trillion of assets, using science-based guidelines to reach net-zero emissions by 2050.",
+      "rating": 9
+    },
+    {
+      "question": "How do governments facilitate investment in decarbonization solutions?",
+      "answer": "Through mechanisms such as carbon pricing, trade-based initiatives, and policy instruments like carbon contracts for difference.",
+      "rating": 8
+    },
+    {
+      "question": "What was the impact of CA $1.8 billion in federal and provincial grants and loans on ArcelorMittal's emissions?",
+      "answer": "A three million metric tons (or 60 percent) reduction in emissions.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of Carbon Contracts for Difference (CCfDs)?",
+      "answer": "To bring the operational costs of decarbonized operations in line with those of conventional technology by offsetting the difference between the market price for emissions allowances and the cost of operating decarbonized technology.",
+      "rating": 10
+    },
+    {
+      "question": "What happens when the operational costs exceed the agreed cost?",
+      "answer": "The state pays the difference.",
+      "rating": 7
+    },
+    {
+      "question": "How much is Germany considering to support the application of CCfDs in heavy industry?",
+      "answer": "\u20ac43 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the vision for the ten-year agreement in Germany?",
+      "answer": "An offset of 20 million metric tons of CO2e emissions per year.",
+      "rating": 8
+    },
+    {
+      "question": "How do end users support green investments?",
+      "answer": "By paying more or making firm commitments to purchase.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current green premium as a percentage of the London Metal Exchange (LME) price?",
+      "answer": "About 1 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the variable premium in the carbon contracts for difference model?",
+      "answer": "The difference between the reference price and strike price.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of offtake agreements?",
+      "answer": "To purchase a quantity of product at a defined price, significantly cutting investment risk.",
+      "rating": 9
+    },
+    {
+      "question": "What is Apple's target for climate impact across all business functions?",
+      "answer": "Net-zero by 2030.",
+      "rating": 9
+    },
+    {
+      "question": "How much higher can the electricity intensity be for inert-anode technology compared to the Hall-H\u00e9roult process?",
+      "answer": "As much as 20 percent higher.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current green premium as a percentage of the London Metal Exchange (LME) price?",
+      "answer": "About 1 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What could be the potential future green premium as a percentage of the LME price?",
+      "answer": "5 to 10 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the variable premium in the carbon contracts for difference model?",
+      "answer": "The difference between the reference price and strike price.",
+      "rating": 9
+    },
+    {
+      "question": "What is the strike price in the context of low-carbon hydrogen production?",
+      "answer": "The price that producers need to cover the plant building and operation costs, plus some equity return.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of offtake agreements?",
+      "answer": "To purchase a quantity of product at a defined price, significantly cutting investment risk.",
+      "rating": 9
+    },
+    {
+      "question": "What is Apple's target for climate impact across all business functions?",
+      "answer": "Net-zero by 2030.",
+      "rating": 9
+    },
+    {
+      "question": "Why is a single lever insufficient to support aluminum industry decarbonization?",
+      "answer": "No single lever will be sufficient; a mix of levers is needed to facilitate either green investment or demand-side drivers.",
+      "rating": 9
+    },
+    {
+      "question": "What is the NPV outcome of retrofitting a smelter in the Middle East with CCS?",
+      "answer": "A negative NPV of about $3.3 billion.",
+      "rating": 10
+    },
+    {
+      "question": "What is the negative NPV of retrofitting a smelter in the Middle East with CCS?",
+      "answer": "About $3.3 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is required to improve the investment NPV to offset the increasing operating costs of CCS in the Middle East smelter?",
+      "answer": "A carbon price for both smelter and electricity generation (about $60 per tCO2e as a starting price) and a CCfD for ten years (worth $150 million a year).",
+      "rating": 10
+    },
+    {
+      "question": "What are the two reasons why finance levers make a relatively small contribution to reducing the NPV difference in the Middle East smelter retrofit?",
+      "answer": "Significant CCS capital expenditures are required to retrofit the smelter and the natural-gas power plant, and there are increased operating expenditures for running the CCS plants.",
+      "rating": 9
+    },
+    {
+      "question": "What is the negative NPV of retrofitting a smelter in Europe with inert anodes, assuming electricity intensity of 16 MWh/t of aluminum?",
+      "answer": "About $1.2 billion.",
+      "rating": 7
+    },
+    {
+      "question": "Under what conditions would investment in inert-anode technology be NPV neutral in Europe?",
+      "answer": "A combination of lower electricity intensity (Hall H\u00e9roult\u2013equivalent consumption), a green premium, and the carbon price.",
+      "rating": 9
+    },
+    {
+      "question": "What are the two scenarios used to analyze the electricity intensity of inert-anode technology?",
+      "answer": "A 15 percent increase over the current average (16 MWh/t of aluminum), and with equivalent consumption to current Hall-H\u00e9roult (13.8 MWh/t of aluminum).",
+      "rating": 9
+    },
+    {
+      "question": "What is the NPV of retrofitting a smelter in Europe with inert anodes assuming an electricity intensity of 16 MWh/t of aluminum?",
+      "answer": "A negative NPV of about $1.2 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is required to make investment in inert-anode technology NPV neutral in the European Union under the Hall H\u00e9roult\u2013equivalent consumption scenario?",
+      "answer": "A combination of lower electricity intensity, a green premium, and the carbon price.",
+      "rating": 8
+    },
+    {
+      "question": "What is the carbon price required for inert-anode retro\ufb01t to have equal net present value in the European Union when assuming electricity intensity of 13.8 MWh/t of aluminum?",
+      "answer": "$43 per ton CO2 emitted for smelter process emissions only.",
+      "rating": 9
+    },
+    {
+      "question": "What is the NPV of retrofitting a smelter in China with inert-anode technology and connecting it to the grid when assuming inert-anode electricity intensity of 16 MWh/t of aluminum?",
+      "answer": "A negative NPV of $1.2 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What policy levers are needed to enable investments in inert anodes in China when assuming electricity intensity of 16 MWh/t?",
+      "answer": "Policy levers such as CO2 pricing.",
+      "rating": 8
+    },
+    {
+      "question": "What is the negative NPV of retrofitting a smelter in China with inert-anode technology and connecting it to the grid, assuming an electricity intensity of 16 MWh/t of aluminum?",
+      "answer": "$1.2 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What is the assumed electricity intensity of inert-anode technology in Exhibit 5?",
+      "answer": "16 MWh/t of aluminum.",
+      "rating": 9
+    },
+    {
+      "question": "What policy levers are needed to enable investments in inert anodes in China?",
+      "answer": "Policy levers such as CO2 pricing.",
+      "rating": 8
+    },
+    {
+      "question": "What is the negative NPV of retrofitting a smelter in China with inert-anode technology, assuming similar intensity to Hall-H\u00e9roult?",
+      "answer": "About $400 million.",
+      "rating": 9
+    },
+    {
+      "question": "What is the negative NPV of retrofitting a refinery in Oceania with MVR and green-hydrogen calciner?",
+      "answer": "$1 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the second-largest producer of alumina?",
+      "answer": "Oceania.",
+      "rating": 7
+    },
+    {
+      "question": "What is the NPV of retrofitting a refinery in Oceania with MVR and green-hydrogen calciner?",
+      "answer": "The NPV would be negative $1 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What is the second-largest producer of alumina?",
+      "answer": "Oceania is the second-largest producer of alumina.",
+      "rating": 9
+    },
+    {
+      "question": "What policy levers are needed to enable investment in mechanical vapor recompression and H2 calciner in Oceania?",
+      "answer": "Policy levers such as CO2 pricing are needed.",
+      "rating": 8
+    },
+    {
+      "question": "What is the NPV of retrofitting a refinery in South America with electric boilers and H2 calciner?",
+      "answer": "The NPV would be negative $2.8 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What policy levers may be required for green refinery investment to be economical in South America?",
+      "answer": "Policy levers such as carbon contracts for difference may likely be required.",
+      "rating": 9
+    },
+    {
+      "question": "What is the assumed carbon price applicable for the refinery process emissions in both Oceania and South America scenarios?",
+      "answer": "The assumed carbon price is $60 per ton CO2 emitted.",
+      "rating": 10
+    },
+    {
+      "question": "What is required to make green refinery investment economical?",
+      "answer": "Policy levers such as carbon contracts for difference.",
+      "rating": 8
+    },
+    {
+      "question": "What is the NPV of retrofitting a refinery in South America with electric boilers and H2 calciner?",
+      "answer": "About -$2.8 billion.",
+      "rating": 9
+    },
+    {
+      "question": "How can the negative NPV of green investment in refineries be improved?",
+      "answer": "By setting up a carbon price (approximately $60 per tCO2e) and a CCfD for ten years (worth $330 million per year).",
+      "rating": 9
+    },
+    {
+      "question": "What is the assumed green premium on alumina for refinery cases?",
+      "answer": "10 percent ($34/t).",
+      "rating": 8
+    },
+    {
+      "question": "Why might end users be willing to pay a green premium for aluminum?",
+      "answer": "Many aluminum consumers have decarbonization goals for their supply chains.",
+      "rating": 8
+    },
+    {
+      "question": "How much would the final cost of a new car increase with a green premium of $100/t aluminum?",
+      "answer": "Just 0.01 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated increase in the final cost of a new car if the green premium for aluminum is $100/t?",
+      "answer": "0.01 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated total additional cost of fully decarbonized aluminum production in 2035?",
+      "answer": "$400/t.",
+      "rating": 7
+    },
+    {
+      "question": "What is the starting carbon price considered in the analysis, and how does it grow per year?",
+      "answer": "$60/tCO2e, growing 0.5 percent per year.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average global direct emissions from aluminum smelting, including carbon anode manufacturing, per metric ton of aluminum?",
+      "answer": "2.5 tCO2e.",
+      "rating": 9
+    },
+    {
+      "question": "What is the majority source of emissions in aluminum smelting, and how much CO2e is emitted per ton of aluminum?",
+      "answer": "Process CO2 emissions generated during carbon anode production, 1.5 tCO2e/t of aluminum.",
+      "rating": 9
+    },
+    {
+      "question": "Why are financial institutions important for decarbonizing the aluminum industry?",
+      "answer": "They can allocate significant funds to green investments and use financial instruments like green loans and bonds to support decarbonization.",
+      "rating": 9
+    },
+    {
+      "question": "Who needs to work together to turn frontier technologies into net-positive projects in the aluminum industry?",
+      "answer": "Financial institutions, end users, and government.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average global direct emissions from aluminum smelting, including carbon anode manufacturing?",
+      "answer": "2.5 tCO2e per metric ton of aluminum.",
+      "rating": 9
+    },
+    {
+      "question": "What are the majority of emissions generated during aluminum smelting?",
+      "answer": "Process CO2 emissions generated during carbon anode production, which are 1.5 tCO2e/t of aluminum.",
+      "rating": 9
+    },
+    {
+      "question": "What is the anode effect in the electrolysis process?",
+      "answer": "The anode effect occurs when the alumina dissolved in the cryolite melt falls to a concentration level too low to support the current flow at the nominal voltage for aluminum production, resulting in the production of perfluorocarbon compounds (PFCs).",
+      "rating": 10
+    },
+    {
+      "question": "What are the average global emissions of PFCs during aluminum smelting?",
+      "answer": "0.5 tCO2e/t of aluminum, which can be reduced to 0.02 tCO2e/t of aluminum by implementing best practices.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of calcining raw 'green' petroleum coke?",
+      "answer": "To remove excess moisture, extract all remaining volatile hydrocarbons, and modify the crystalline structure of the coke, resulting in a denser, more electrically conductive product.",
+      "rating": 9
+    },
+    {
+      "question": "How much CO2e is generated from anode baking furnace direct thermal energy and volatile-matter combustion per metric ton of aluminum?",
+      "answer": "0.1 t CO2e/t of aluminum from anode baking furnace direct thermal energy and 0.1 t CO2e/t aluminum from volatile-matter combustion.",
+      "rating": 9
+    },
+    {
+      "question": "How long does the overall baking cycle last?",
+      "answer": "10 to 14 days.",
+      "rating": 8
+    },
+    {
+      "question": "How much anode is consumed for each metric ton of aluminum produced?",
+      "answer": "0.4 t.",
+      "rating": 8
+    },
+    {
+      "question": "What is the largest technical challenge to improving the energy efficiency of electrolysis?",
+      "answer": "The development of a non-consumable inert anode.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three alternatives for aluminum smelters to decarbonize their direct smelting emissions?",
+      "answer": "Retrofit Hall-H\u00e9roult and raw-material process with CCS, inert anode, and carbochlorination with CO2 regeneration.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected outcome of implementing inert-anode technology in aluminum smelting?",
+      "answer": "It could increase the life span of the anodes by two to three years and generate oxygen as a by-product.",
+      "rating": 8
+    },
+    {
+      "question": "When is a commercial-scale inert anode\u2013based technology plant expected to be developed?",
+      "answer": "By 2030.",
+      "rating": 7
+    },
+    {
+      "question": "How much CO2e is generated per ton of aluminum from anode baking furnace direct thermal energy?",
+      "answer": "0.1 t.",
+      "rating": 8
+    },
+    {
+      "question": "What is the purpose of using titanium diboride (TiB2) in the wetted cathode technology?",
+      "answer": "To wet the cathode surface and reduce the anode-cathode distance.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three alternatives for aluminum smelters to decarbonize their direct smelting emissions?",
+      "answer": "Retrofit Hall-H\u00e9roult and raw-material process with CCS, inert anode, and carbochlorination with CO2 regeneration.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main challenge in implementing CCS in the aluminum industry?",
+      "answer": "Low CO2 concentration in the off-gas stream, specifically on the smelter process, associated with the entrainment of fresh air required to manage the process heat balance.",
+      "rating": 9
+    },
+    {
+      "question": "What is the CO2 concentration in the off-gas stream of aluminum smelters?",
+      "answer": "About 1 volume percent.",
+      "rating": 8
+    },
+    {
+      "question": "How can the CO2 concentration be increased to make CCS economically viable?",
+      "answer": "By redesigning the aluminum-smelter pots to avoid air leakage, which can increase the CO2 concentration by 4\u201310 volume percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the status of inert-anode technology?",
+      "answer": "The technology is still in its infancy.",
+      "rating": 7
+    },
+    {
+      "question": "When is ELYSIS expected to have a commercial demonstration?",
+      "answer": "By 2026.",
+      "rating": 8
+    },
+    {
+      "question": "What is the assumed CCS efficiency in the given data?",
+      "answer": "70%.",
+      "rating": 8
+    },
+    {
+      "question": "What is the potential CO2 footprint of several smelter technologies?",
+      "answer": "Several smelter technologies have the potential for a low-CO2 footprint.",
+      "rating": 7
+    },
+    {
+      "question": "What is the CO2 emission reduction achieved by using Hall-H\u00e9roult (HH) with carbon capture and storage (CCS)?",
+      "answer": "The CO2 emissions for HH with CCS is 0.5 t CO2 per t aluminum.",
+      "rating": 9
+    },
+    {
+      "question": "Which companies are exploring the use of inert anode technology?",
+      "answer": "Companies such as Alcoa and Rio Tinto (ELYSIS), En+ Group are exploring the use of inert anode technology.",
+      "rating": 9
+    },
+    {
+      "question": "How can the CO2 concentration be increased in aluminum-smelter pots to make CCS economically viable?",
+      "answer": "Redesigning the aluminum-smelter pots to avoid air leakage can increase the CO2 concentration by 4\u201310 volume percent.",
+      "rating": 9
+    },
+    {
+      "question": "How can CO2 emissions from anode baking be reduced?",
+      "answer": "CO2 emissions from anode baking can be reduced by implementing electric heating with access to renewable energy and combining direct or air capture.",
+      "rating": 8
+    },
+    {
+      "question": "What is one way to reduce CO2 emissions from anode baking furnaces in the aluminum industry?",
+      "answer": "Implementing CCS technology or reengineering the process to use electric heating with access to renewable energy.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical CO2 concentration in aluminum smelting compared to other industries?",
+      "answer": "Low, typically around 1%.",
+      "rating": 7
+    },
+    {
+      "question": "How much CO2e emissions can be reduced by implementing CCS in the smelter and raw-material process?",
+      "answer": "From 2.0 t of CO2e/t aluminum to 0.7 t of CO2e/t aluminum, assuming a 70 percent efficiency factor.",
+      "rating": 9
+    },
+    {
+      "question": "What is the alternative to the current aluminum smelting process proposed by Alcoa?",
+      "answer": "Carbochlorination with CO2 regeneration.",
+      "rating": 8
+    },
+    {
+      "question": "What is one of the benefits of the carbochlorination with CO2 regeneration process?",
+      "answer": "A significant reduction in specific energy consumption (about eight MWh/t of Al) and the electrolysis can be carried out in a lower electrolyte temperature (about 720\u00b0C).",
+      "rating": 9
+    },
+    {
+      "question": "What is produced by the aluminum chloride electrolysis in the carbochlorination process?",
+      "answer": "A pure stream of Cl2 that can be recycled back into the chlorination process.",
+      "rating": 9
+    },
+    {
+      "question": "What is the advantage of the aluminum chloride electrolysis process over the conventional Hall-H\u00e9roult process?",
+      "answer": "The aluminum chloride electrolysis produces a pure stream of Cl2 that can be recycled back into the chlorination process.",
+      "rating": 8
+    },
+    {
+      "question": "By how much can implementation of carbon capture and storage technology reduce smelter CO2 emissions?",
+      "answer": "More than 60 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated additional energy consumption of the CO regeneration process?",
+      "answer": "Five MWh/t Al.",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of capital expenditures for the Hall-H\u00e9roult process per ton of aluminum capacity?",
+      "answer": "$2,100 to $6,000.",
+      "rating": 9
+    },
+    {
+      "question": "How much of the operating cost of aluminum smelters is accounted for by the majority of the cost components in 2021?",
+      "answer": "More than 88 percent.",
+      "rating": 9
+    },
+    {
+      "question": "When are aluminum players potentially planning to deploy pilot operations for the alternative process?",
+      "answer": "By 2030.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated additional capital cost of retrofitting existing Hall-H\u00e9roult smelters with CCS technology?",
+      "answer": "About 5 percent of the initial capital cost of the project.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average operating cost of aluminum smelters worldwide in 2021 per metric ton of aluminum?",
+      "answer": "Between $1,654 and $1,750.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the operating cost of aluminum smelters is associated with raw materials, electricity, and anode production and consumption?",
+      "answer": "More than 88 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How will the implementation of CCS in existing smelter facilities affect overall operating costs?",
+      "answer": "It could potentially lift overall operating costs by 6 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the expected operating cost reduction with the implementation of inert-anode technology?",
+      "answer": "3\u201310 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the baseline capital expenditure for a natural-gas boiler in the Bayer process?",
+      "answer": "$50 per metric ton of alumina.",
+      "rating": 8
+    },
+    {
+      "question": "How much would operating costs increase with a hydrogen-fired boiler compared to existing natural-gas operations?",
+      "answer": "About 4.3 times.",
+      "rating": 8
+    },
+    {
+      "question": "What is the effect of implementing MVR technology on operating costs?",
+      "answer": "Approximately 40 percent reduction.",
+      "rating": 9
+    },
+    {
+      "question": "How much does the capital investment for carbon capture increase by?",
+      "answer": "An additional $42/t Aa.",
+      "rating": 7
+    },
+    {
+      "question": "What is the effect of using inert-anode technology on operating expenditures related to anode costs?",
+      "answer": "15% savings due to longer life of anodes (2 years vs 1 month).",
+      "rating": 9
+    },
+    {
+      "question": "By what percentage does the capital expenditure for green-hydrogen-based calciner increase compared to natural-gas boilers?",
+      "answer": "About 50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How does the operating expenditure on electricity for inert-anode technology compare to Hall-H\u00e9roult (HH) technology?",
+      "answer": "Up to 20% increase.",
+      "rating": 8
+    },
+    {
+      "question": "What is an alternative solution to sourcing green hydrogen for calcination when it is difficult?",
+      "answer": "Carbon capture.",
+      "rating": 7
+    },
+    {
+      "question": "What is the total operating expense for Hall-H\u00e9roult (HH) smelting technology?",
+      "answer": "$1,654\u20131,792 / t Al",
+      "rating": 9
+    },
+    {
+      "question": "What is the total operating expense for HH with carbon capture and storage?",
+      "answer": "$1,815 / t Al, which is +6% of HH",
+      "rating": 9
+    },
+    {
+      "question": "What is the total operating expense for Inert anode smelting technology?",
+      "answer": "$1,562\u20131,657 / t Al, which is \u20133% to \u201310% of HH",
+      "rating": 9
+    },
+    {
+      "question": "How does the electricity operating expense for Inert anode compare to HH?",
+      "answer": "Up to 20% increase",
+      "rating": 8
+    },
+    {
+      "question": "What is the main factor that affects the operating expenses of smelting technologies?",
+      "answer": "Electricity prices",
+      "rating": 8
+    },
+    {
+      "question": "What is the range of specific energy consumption for aluminum production according to the McKinsey database?",
+      "answer": "Between 12.3 and 16 kWh/kg Al.",
+      "rating": 9
+    },
+    {
+      "question": "What is the industry average specific energy consumption for aluminum production?",
+      "answer": "13.8 kWh/kg Al.",
+      "rating": 9
+    },
+    {
+      "question": "What is the overall operating expense for aluminum production at the industry average specific energy consumption?",
+      "answer": "$1,710/t Al.",
+      "rating": 8
+    },
+    {
+      "question": "What is the boiler efficiency for the natural-gas boiler, electric boiler, and H2-fired boiler?",
+      "answer": "85% for all three boilers.",
+      "rating": 9
+    },
+    {
+      "question": "How much CO2 is produced per ton of aluminum for the natural-gas boiler, electric boiler, and H2-fired boiler?",
+      "answer": "0.94 t CO2/t aluminum for the natural-gas boiler, 0.05 t CO2/t aluminum for the electric boiler, and negligible for the H2-fired boiler.",
+      "rating": 9
+    },
+    {
+      "question": "What is the capital expenditure for the natural-gas boiler, electric boiler, and H2-fired boiler?",
+      "answer": "$50/t Aa for the natural-gas boiler, $98/t Aa for the electric boiler, and $604/t Aa or $505/t Aa for the H2-fired boiler (two different values are given).",
+      "rating": 8
+    },
+    {
+      "question": "What is the Technology Readiness Level (TRL) for the electric boiler and H2-fired boiler?",
+      "answer": "6 for the electric boiler and 5 for the H2-fired boiler.",
+      "rating": 9
+    },
+    {
+      "question": "How much CO2 is produced per ton of aluminum for the H2-based calciner and natural gas with carbon capture and storage?",
+      "answer": "0.078 t CO2/t aluminum for the H2-based calciner and 0.26 t CO2/t aluminum for the natural gas with carbon capture and storage (though the latter is not directly related to aluminum, it is related to alumina production).",
+      "rating": 7
+    },
+    {
+      "question": "What is the assumed price of green hydrogen in 2022?",
+      "answer": "$4.93/kg.",
+      "rating": 9
+    },
+    {
+      "question": "What is the US 2020 electricity price used in the calculation?",
+      "answer": "$37/MWh.",
+      "rating": 9
+    },
+    {
+      "question": "How much thermal input is required for a hydrogen-based calciner?",
+      "answer": "3.64 GJ/t Alumina.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three main types of inputs that inform the model?",
+      "answer": "Refinery, smelter, and financial.",
+      "rating": 9
+    },
+    {
+      "question": "What is the basis for the electrolysis power requirement?",
+      "answer": "50 kWh/kg H2.",
+      "rating": 8
+    },
+    {
+      "question": "What is the assumed cost of capture capital expenditure for CO2?",
+      "answer": "$125/t of CO2.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three main types of inputs that inform the model for aluminum decarbonization?",
+      "answer": "The three main types of inputs are refinery, smelter, and financial.",
+      "rating": 7
+    },
+    {
+      "question": "What is the starting carbon price considered in most scenarios, and how does it grow per year?",
+      "answer": "The starting carbon price is $60/t CO2e, growing 0.5 percent per year.",
+      "rating": 8
+    },
+    {
+      "question": "What typically have the greatest impact across all investment options for aluminum decarbonization?",
+      "answer": "Green premiums and carbon prices typically have the greatest impact.",
+      "rating": 9
+    },
+    {
+      "question": "What is the assumed average car cost and amount of aluminum used, according to the text?",
+      "answer": "The assumed average car cost is $40,000, using 150 kg of aluminum.",
+      "rating": 8
+    },
+    {
+      "question": "When were the Poseidon Principles created, and by how many leading banks?",
+      "answer": "The Poseidon Principles were created in 2019 by 11 leading banks.",
+      "rating": 9
+    },
+    {
+      "question": "What is the starting carbon price considered in most scenarios?",
+      "answer": "$60/t CO2e",
+      "rating": 8
+    },
+    {
+      "question": "What are the two factors that typically have the greatest impact across all investment options?",
+      "answer": "Green premiums and carbon prices",
+      "rating": 9
+    },
+    {
+      "question": "What type of aluminum smelter is mentioned as having CCS on smelter?",
+      "answer": "Hall-H\u00e9roult with CCS on smelter",
+      "rating": 8
+    },
+    {
+      "question": "What is the assumed average car cost used in the calculation?",
+      "answer": "$40,000",
+      "rating": 7
+    },
+    {
+      "question": "What is the name of the principles created in 2019 by 11 leading banks?",
+      "answer": "The Poseidon Principles",
+      "rating": 9
+    },
+    {
+      "question": "What is the growth rate of the starting carbon price per year?",
+      "answer": "0.5 percent",
+      "rating": 8
+    },
+    {
+      "question": "What is the type of electricity source that includes long-duration energy storage?",
+      "answer": "100 percent renewables + long-duration energy storage (LDES)",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the report mentioned as being published in September 2022?",
+      "answer": "Making net-zero aluminum possible: An industry-backed 1.5\u00b0C-aligned transition strategy",
+      "rating": 9
+    },
+    {
+      "question": "When was the article 'Carbon Contracts for Difference could kickstart German industry decarbonisation' published?",
+      "answer": "February 7, 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the alliance focused on decarbonizing high-emitting industries?",
+      "answer": "The Mission Possible Partnership.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average electricity price considered in the text?",
+      "answer": "$37/MWh.",
+      "rating": 8
+    },
+    {
+      "question": "What was the green-hydrogen price used in the text?",
+      "answer": "$4.93/kg.",
+      "rating": 8
+    },
+    {
+      "question": "When did the International Aluminum Institute publish information on 'Greenhouse gas emissions'?",
+      "answer": "October 4, 2021.",
+      "rating": 8
+    },
+    {
+      "question": "What is the topic of the blog entry by Asbj\u00f8rn Solheim on #SINTEFblog?",
+      "answer": "Is aluminium electrolysis using inert anodes a blind alley?",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main goal of the Mission Possible Partnership (MPP)?"
+      },
+      {
+        "role": "assistant",
+        "content": "MPP is focused on supercharging the decarbonization of seven global industries representing 30 percent of emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Energy Transitions Commission (ETC) committed to achieving?"
+      },
+      {
+        "role": "assistant",
+        "content": "ETC is committed to achieving net-zero emissions by the middle of the century."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the leaders of the industry decarbonization mentioned in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alasdair Graham is the head of industry decarbonization, Marten Ford is sector lead for aluminum, and Jason Martins is a senior analyst."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the seven global industries that MPP is focused on decarbonizing?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seven industries are aluminum, aviation, cement and concrete, chemicals, shipping, steel, and trucking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of global greenhouse-gas emissions is attributed to the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 2 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many metric tons of GHGs does the aluminum industry emit per year?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 1.1 billion metric tons."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to transform the aluminum sector to a low-carbon sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "Upgrading refining and smelting assets and making significant investments in low-carbon power."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What determines the investment case for decarbonizing individual refineries or smelters?"
+      },
+      {
+        "role": "assistant",
+        "content": "Local circumstances, power availability, and policy arrangements."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who will have an important role to play in overcoming the economic obstacles and risks to aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banks, investors, policy makers, and end customers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the challenges to aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "One of the challenges to aluminum decarbonization is that best currently available fossil-fuel-based technologies have a net present value greater than green alternatives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much cumulative investment is needed to deliver a net-zero sector or a 1.5\u00b0C pathway in the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cumulative investment of approximately $1 trillion across the primary production value chain will be needed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role can financial institutions play in supporting aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial institutions have the capability to mitigate some of the risks and shift cash flows toward green investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can governments provide incentives for aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Governments have several tools to provide incentives, including government grants to aluminum producers, carbon contracts for difference (CCfDs), and carbon pricing through trading schemes or carbon taxes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated premium that aluminum users may need to pay for green aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aluminum users may need to pay a 5 to 10 percent premium for green aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a company that has committed to using zero-carbon aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Apple has announced that its new iPhone SE will use zero-carbon aluminum produced from hydropower in Quebec."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Apple using for its new iPhone SE production?"
+      },
+      {
+        "role": "assistant",
+        "content": "Zero-carbon aluminum produced from hydropower in Quebec."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is driving change in the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rising demand for low-carbon products and the dynamics of a warming planet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been developed by Mission Possible Partnership\u2019s Aluminium for Climate team?"
+      },
+      {
+        "role": "assistant",
+        "content": "An open-access, open-source investment model for alumina and aluminum plant archetypes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the investment model developed by Mission Possible Partnership\u2019s Aluminium for Climate team?"
+      },
+      {
+        "role": "assistant",
+        "content": "To create a twin lens on costs and decarbonization options for Scopes 1, 2, and 3 emissions and to compare investment scenarios with best available technologies (BAT)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the risks associated with decarbonizing the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Market risks, credit risks, liquidity risks, and risks associated with executing decarbonization projects and the impacts of policy and regulation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a basic element of risk mitigation strategies for decarbonizing the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Long-term planning based on an understanding of all available and economically reasonable decarbonization pathways."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a basic element of risk mitigation strategies for decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Long-term planning based on an understanding of all available and economically reasonable decarbonization pathways."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the potential risks associated with aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Market risk, credit risk, liquidity risk, technical and execution risk, and political and regulatory risk."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a finance lever that can help stimulate investment in ultra-low-carbon aluminum production?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial institutions issuing green loans, green bonds, transition bonds, or sustainability-linked loans or bonds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a policy lever that can help stimulate investment in ultra-low-carbon aluminum production?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setting up carbon prices or taxes, such as locally regulated taxes, exchange-traded emissions systems, or fees on imports like the cross-border adjustment mechanism."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of government support has been provided to companies for decarbonization efforts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Government grants, such as the CA $1.8 billion grant from the Canadian government to support ArcelorMittal's investment in converting a blast furnace to an electric-arc furnace."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected CO2e emissions reduction from ArcelorMittal's investment in the steel industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Three million metric tons (or 60 percent emissions reduction)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much funding is Germany considering for carbon contracts for difference (CCfD) for heavy industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac43 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of offtake agreements in decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Offtake agreements often help secure funds for decarbonization, reducing the investment risk."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average annual spending required across industries by 2050 for the net-zero transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "$9.2 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three key financial levers that will support the decarbonization of the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Improvement in terms for low-carbon investments, bringing new finance products to market and tailoring finance to the particular combination of risks inherent in low-carbon products, and aligning the climate objectives of finance providers and alumina and aluminum producers through principles of credit provision associated with pathways to 1.5\u00baC."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is likely to happen to capital flow for green and brown-to-green investments as capital providers understand decarbonization levers and project risk profiles?"
+      },
+      {
+        "role": "assistant",
+        "content": "More capital is likely to flow to green and brown-to-green investments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of loan instrument is exclusively applied to finance or refinance new or existing eligible green projects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Green loans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main difference between sustainability-linked loans and bonds and green or sustainable bonds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Funds raised with sustainability-linked loans and bonds are not tagged to a specific use but are for general corporate purposes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the Climate Bonds Initiative, how much in green bonds have been issued since market inception in 2007?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly $2 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the global framework that integrates climate considerations in lending decisions, mentioned in the context of ship finance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Poseidon Principles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What organization is working with banking leads, aluminum producers, and partner organizations to align the objectives of firms in the aluminum sector and their financial partners?"
+      },
+      {
+        "role": "assistant",
+        "content": "Center for Climate-Aligned Finance (CAF)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Poseidon Principles?"
+      },
+      {
+        "role": "assistant",
+        "content": "A global framework for responsible ship finance that integrates climate considerations in lending decisions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Center for Climate-Aligned Finance (CAF) working on in the aluminum sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ensuring that the objectives of firms in the aluminum sector and their financial partners are aligned and actionable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Net-Zero Banking Alliance?"
+      },
+      {
+        "role": "assistant",
+        "content": "An alliance that brings together banks committed to aligning their lending and investments with net-zero emissions by 2050, representing 40 percent of global banking assets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Glasgow Financial Alliance for Net Zero (GFANZ)?"
+      },
+      {
+        "role": "assistant",
+        "content": "An alliance with over 450 members representing $130 trillion of assets, using science-based guidelines to reach net-zero emissions by 2050."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do governments facilitate investment in decarbonization solutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through mechanisms such as carbon pricing, trade-based initiatives, and policy instruments like carbon contracts for difference."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the impact of CA $1.8 billion in federal and provincial grants and loans on ArcelorMittal's emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "A three million metric tons (or 60 percent) reduction in emissions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of Carbon Contracts for Difference (CCfDs)?"
+      },
+      {
+        "role": "assistant",
+        "content": "To bring the operational costs of decarbonized operations in line with those of conventional technology by offsetting the difference between the market price for emissions allowances and the cost of operating decarbonized technology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens when the operational costs exceed the agreed cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "The state pays the difference."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is Germany considering to support the application of CCfDs in heavy industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac43 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the vision for the ten-year agreement in Germany?"
+      },
+      {
+        "role": "assistant",
+        "content": "An offset of 20 million metric tons of CO2e emissions per year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do end users support green investments?"
+      },
+      {
+        "role": "assistant",
+        "content": "By paying more or making firm commitments to purchase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current green premium as a percentage of the London Metal Exchange (LME) price?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 1 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the variable premium in the carbon contracts for difference model?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difference between the reference price and strike price."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of offtake agreements?"
+      },
+      {
+        "role": "assistant",
+        "content": "To purchase a quantity of product at a defined price, significantly cutting investment risk."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Apple's target for climate impact across all business functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Net-zero by 2030."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much higher can the electricity intensity be for inert-anode technology compared to the Hall-H\u00e9roult process?"
+      },
+      {
+        "role": "assistant",
+        "content": "As much as 20 percent higher."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current green premium as a percentage of the London Metal Exchange (LME) price?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 1 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What could be the potential future green premium as a percentage of the LME price?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 to 10 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the variable premium in the carbon contracts for difference model?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difference between the reference price and strike price."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the strike price in the context of low-carbon hydrogen production?"
+      },
+      {
+        "role": "assistant",
+        "content": "The price that producers need to cover the plant building and operation costs, plus some equity return."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of offtake agreements?"
+      },
+      {
+        "role": "assistant",
+        "content": "To purchase a quantity of product at a defined price, significantly cutting investment risk."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Apple's target for climate impact across all business functions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Net-zero by 2030."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is a single lever insufficient to support aluminum industry decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "No single lever will be sufficient; a mix of levers is needed to facilitate either green investment or demand-side drivers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the NPV outcome of retrofitting a smelter in the Middle East with CCS?"
+      },
+      {
+        "role": "assistant",
+        "content": "A negative NPV of about $3.3 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the negative NPV of retrofitting a smelter in the Middle East with CCS?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $3.3 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to improve the investment NPV to offset the increasing operating costs of CCS in the Middle East smelter?"
+      },
+      {
+        "role": "assistant",
+        "content": "A carbon price for both smelter and electricity generation (about $60 per tCO2e as a starting price) and a CCfD for ten years (worth $150 million a year)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two reasons why finance levers make a relatively small contribution to reducing the NPV difference in the Middle East smelter retrofit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Significant CCS capital expenditures are required to retrofit the smelter and the natural-gas power plant, and there are increased operating expenditures for running the CCS plants."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the negative NPV of retrofitting a smelter in Europe with inert anodes, assuming electricity intensity of 16 MWh/t of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $1.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Under what conditions would investment in inert-anode technology be NPV neutral in Europe?"
+      },
+      {
+        "role": "assistant",
+        "content": "A combination of lower electricity intensity (Hall H\u00e9roult\u2013equivalent consumption), a green premium, and the carbon price."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two scenarios used to analyze the electricity intensity of inert-anode technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 15 percent increase over the current average (16 MWh/t of aluminum), and with equivalent consumption to current Hall-H\u00e9roult (13.8 MWh/t of aluminum)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the NPV of retrofitting a smelter in Europe with inert anodes assuming an electricity intensity of 16 MWh/t of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "A negative NPV of about $1.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to make investment in inert-anode technology NPV neutral in the European Union under the Hall H\u00e9roult\u2013equivalent consumption scenario?"
+      },
+      {
+        "role": "assistant",
+        "content": "A combination of lower electricity intensity, a green premium, and the carbon price."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the carbon price required for inert-anode retro\ufb01t to have equal net present value in the European Union when assuming electricity intensity of 13.8 MWh/t of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "$43 per ton CO2 emitted for smelter process emissions only."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the NPV of retrofitting a smelter in China with inert-anode technology and connecting it to the grid when assuming inert-anode electricity intensity of 16 MWh/t of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "A negative NPV of $1.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What policy levers are needed to enable investments in inert anodes in China when assuming electricity intensity of 16 MWh/t?"
+      },
+      {
+        "role": "assistant",
+        "content": "Policy levers such as CO2 pricing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the negative NPV of retrofitting a smelter in China with inert-anode technology and connecting it to the grid, assuming an electricity intensity of 16 MWh/t of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed electricity intensity of inert-anode technology in Exhibit 5?"
+      },
+      {
+        "role": "assistant",
+        "content": "16 MWh/t of aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What policy levers are needed to enable investments in inert anodes in China?"
+      },
+      {
+        "role": "assistant",
+        "content": "Policy levers such as CO2 pricing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the negative NPV of retrofitting a smelter in China with inert-anode technology, assuming similar intensity to Hall-H\u00e9roult?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $400 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the negative NPV of retrofitting a refinery in Oceania with MVR and green-hydrogen calciner?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the second-largest producer of alumina?"
+      },
+      {
+        "role": "assistant",
+        "content": "Oceania."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the NPV of retrofitting a refinery in Oceania with MVR and green-hydrogen calciner?"
+      },
+      {
+        "role": "assistant",
+        "content": "The NPV would be negative $1 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the second-largest producer of alumina?"
+      },
+      {
+        "role": "assistant",
+        "content": "Oceania is the second-largest producer of alumina."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What policy levers are needed to enable investment in mechanical vapor recompression and H2 calciner in Oceania?"
+      },
+      {
+        "role": "assistant",
+        "content": "Policy levers such as CO2 pricing are needed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the NPV of retrofitting a refinery in South America with electric boilers and H2 calciner?"
+      },
+      {
+        "role": "assistant",
+        "content": "The NPV would be negative $2.8 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What policy levers may be required for green refinery investment to be economical in South America?"
+      },
+      {
+        "role": "assistant",
+        "content": "Policy levers such as carbon contracts for difference may likely be required."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed carbon price applicable for the refinery process emissions in both Oceania and South America scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "The assumed carbon price is $60 per ton CO2 emitted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is required to make green refinery investment economical?"
+      },
+      {
+        "role": "assistant",
+        "content": "Policy levers such as carbon contracts for difference."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the NPV of retrofitting a refinery in South America with electric boilers and H2 calciner?"
+      },
+      {
+        "role": "assistant",
+        "content": "About -$2.8 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the negative NPV of green investment in refineries be improved?"
+      },
+      {
+        "role": "assistant",
+        "content": "By setting up a carbon price (approximately $60 per tCO2e) and a CCfD for ten years (worth $330 million per year)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed green premium on alumina for refinery cases?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 percent ($34/t)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why might end users be willing to pay a green premium for aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many aluminum consumers have decarbonization goals for their supply chains."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much would the final cost of a new car increase with a green premium of $100/t aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Just 0.01 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated increase in the final cost of a new car if the green premium for aluminum is $100/t?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.01 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated total additional cost of fully decarbonized aluminum production in 2035?"
+      },
+      {
+        "role": "assistant",
+        "content": "$400/t."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting carbon price considered in the analysis, and how does it grow per year?"
+      },
+      {
+        "role": "assistant",
+        "content": "$60/tCO2e, growing 0.5 percent per year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average global direct emissions from aluminum smelting, including carbon anode manufacturing, per metric ton of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.5 tCO2e."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the majority source of emissions in aluminum smelting, and how much CO2e is emitted per ton of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Process CO2 emissions generated during carbon anode production, 1.5 tCO2e/t of aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are financial institutions important for decarbonizing the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "They can allocate significant funds to green investments and use financial instruments like green loans and bonds to support decarbonization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who needs to work together to turn frontier technologies into net-positive projects in the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial institutions, end users, and government."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average global direct emissions from aluminum smelting, including carbon anode manufacturing?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.5 tCO2e per metric ton of aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the majority of emissions generated during aluminum smelting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Process CO2 emissions generated during carbon anode production, which are 1.5 tCO2e/t of aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the anode effect in the electrolysis process?"
+      },
+      {
+        "role": "assistant",
+        "content": "The anode effect occurs when the alumina dissolved in the cryolite melt falls to a concentration level too low to support the current flow at the nominal voltage for aluminum production, resulting in the production of perfluorocarbon compounds (PFCs)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the average global emissions of PFCs during aluminum smelting?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.5 tCO2e/t of aluminum, which can be reduced to 0.02 tCO2e/t of aluminum by implementing best practices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of calcining raw 'green' petroleum coke?"
+      },
+      {
+        "role": "assistant",
+        "content": "To remove excess moisture, extract all remaining volatile hydrocarbons, and modify the crystalline structure of the coke, resulting in a denser, more electrically conductive product."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much CO2e is generated from anode baking furnace direct thermal energy and volatile-matter combustion per metric ton of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.1 t CO2e/t of aluminum from anode baking furnace direct thermal energy and 0.1 t CO2e/t aluminum from volatile-matter combustion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long does the overall baking cycle last?"
+      },
+      {
+        "role": "assistant",
+        "content": "10 to 14 days."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much anode is consumed for each metric ton of aluminum produced?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.4 t."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the largest technical challenge to improving the energy efficiency of electrolysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "The development of a non-consumable inert anode."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three alternatives for aluminum smelters to decarbonize their direct smelting emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrofit Hall-H\u00e9roult and raw-material process with CCS, inert anode, and carbochlorination with CO2 regeneration."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected outcome of implementing inert-anode technology in aluminum smelting?"
+      },
+      {
+        "role": "assistant",
+        "content": "It could increase the life span of the anodes by two to three years and generate oxygen as a by-product."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is a commercial-scale inert anode\u2013based technology plant expected to be developed?"
+      },
+      {
+        "role": "assistant",
+        "content": "By 2030."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much CO2e is generated per ton of aluminum from anode baking furnace direct thermal energy?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.1 t."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of using titanium diboride (TiB2) in the wetted cathode technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "To wet the cathode surface and reduce the anode-cathode distance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three alternatives for aluminum smelters to decarbonize their direct smelting emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retrofit Hall-H\u00e9roult and raw-material process with CCS, inert anode, and carbochlorination with CO2 regeneration."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main challenge in implementing CCS in the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Low CO2 concentration in the off-gas stream, specifically on the smelter process, associated with the entrainment of fresh air required to manage the process heat balance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the CO2 concentration in the off-gas stream of aluminum smelters?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 1 volume percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the CO2 concentration be increased to make CCS economically viable?"
+      },
+      {
+        "role": "assistant",
+        "content": "By redesigning the aluminum-smelter pots to avoid air leakage, which can increase the CO2 concentration by 4\u201310 volume percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the status of inert-anode technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "The technology is still in its infancy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When is ELYSIS expected to have a commercial demonstration?"
+      },
+      {
+        "role": "assistant",
+        "content": "By 2026."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed CCS efficiency in the given data?"
+      },
+      {
+        "role": "assistant",
+        "content": "70%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential CO2 footprint of several smelter technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several smelter technologies have the potential for a low-CO2 footprint."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the CO2 emission reduction achieved by using Hall-H\u00e9roult (HH) with carbon capture and storage (CCS)?"
+      },
+      {
+        "role": "assistant",
+        "content": "The CO2 emissions for HH with CCS is 0.5 t CO2 per t aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which companies are exploring the use of inert anode technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies such as Alcoa and Rio Tinto (ELYSIS), En+ Group are exploring the use of inert anode technology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can the CO2 concentration be increased in aluminum-smelter pots to make CCS economically viable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Redesigning the aluminum-smelter pots to avoid air leakage can increase the CO2 concentration by 4\u201310 volume percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can CO2 emissions from anode baking be reduced?"
+      },
+      {
+        "role": "assistant",
+        "content": "CO2 emissions from anode baking can be reduced by implementing electric heating with access to renewable energy and combining direct or air capture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way to reduce CO2 emissions from anode baking furnaces in the aluminum industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Implementing CCS technology or reengineering the process to use electric heating with access to renewable energy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical CO2 concentration in aluminum smelting compared to other industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Low, typically around 1%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much CO2e emissions can be reduced by implementing CCS in the smelter and raw-material process?"
+      },
+      {
+        "role": "assistant",
+        "content": "From 2.0 t of CO2e/t aluminum to 0.7 t of CO2e/t aluminum, assuming a 70 percent efficiency factor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the alternative to the current aluminum smelting process proposed by Alcoa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carbochlorination with CO2 regeneration."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the benefits of the carbochlorination with CO2 regeneration process?"
+      },
+      {
+        "role": "assistant",
+        "content": "A significant reduction in specific energy consumption (about eight MWh/t of Al) and the electrolysis can be carried out in a lower electrolyte temperature (about 720\u00b0C)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is produced by the aluminum chloride electrolysis in the carbochlorination process?"
+      },
+      {
+        "role": "assistant",
+        "content": "A pure stream of Cl2 that can be recycled back into the chlorination process."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the advantage of the aluminum chloride electrolysis process over the conventional Hall-H\u00e9roult process?"
+      },
+      {
+        "role": "assistant",
+        "content": "The aluminum chloride electrolysis produces a pure stream of Cl2 that can be recycled back into the chlorination process."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much can implementation of carbon capture and storage technology reduce smelter CO2 emissions?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 60 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated additional energy consumption of the CO regeneration process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five MWh/t Al."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of capital expenditures for the Hall-H\u00e9roult process per ton of aluminum capacity?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2,100 to $6,000."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much of the operating cost of aluminum smelters is accounted for by the majority of the cost components in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 88 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When are aluminum players potentially planning to deploy pilot operations for the alternative process?"
+      },
+      {
+        "role": "assistant",
+        "content": "By 2030."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated additional capital cost of retrofitting existing Hall-H\u00e9roult smelters with CCS technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 5 percent of the initial capital cost of the project."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average operating cost of aluminum smelters worldwide in 2021 per metric ton of aluminum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between $1,654 and $1,750."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the operating cost of aluminum smelters is associated with raw materials, electricity, and anode production and consumption?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 88 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How will the implementation of CCS in existing smelter facilities affect overall operating costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "It could potentially lift overall operating costs by 6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected operating cost reduction with the implementation of inert-anode technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "3\u201310 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the baseline capital expenditure for a natural-gas boiler in the Bayer process?"
+      },
+      {
+        "role": "assistant",
+        "content": "$50 per metric ton of alumina."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much would operating costs increase with a hydrogen-fired boiler compared to existing natural-gas operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 4.3 times."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of implementing MVR technology on operating costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Approximately 40 percent reduction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the capital investment for carbon capture increase by?"
+      },
+      {
+        "role": "assistant",
+        "content": "An additional $42/t Aa."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of using inert-anode technology on operating expenditures related to anode costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "15% savings due to longer life of anodes (2 years vs 1 month)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage does the capital expenditure for green-hydrogen-based calciner increase compared to natural-gas boilers?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the operating expenditure on electricity for inert-anode technology compare to Hall-H\u00e9roult (HH) technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 20% increase."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an alternative solution to sourcing green hydrogen for calcination when it is difficult?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carbon capture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total operating expense for Hall-H\u00e9roult (HH) smelting technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,654\u20131,792 / t Al"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total operating expense for HH with carbon capture and storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,815 / t Al, which is +6% of HH"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total operating expense for Inert anode smelting technology?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,562\u20131,657 / t Al, which is \u20133% to \u201310% of HH"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the electricity operating expense for Inert anode compare to HH?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 20% increase"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main factor that affects the operating expenses of smelting technologies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Electricity prices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the range of specific energy consumption for aluminum production according to the McKinsey database?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 12.3 and 16 kWh/kg Al."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the industry average specific energy consumption for aluminum production?"
+      },
+      {
+        "role": "assistant",
+        "content": "13.8 kWh/kg Al."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the overall operating expense for aluminum production at the industry average specific energy consumption?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,710/t Al."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the boiler efficiency for the natural-gas boiler, electric boiler, and H2-fired boiler?"
+      },
+      {
+        "role": "assistant",
+        "content": "85% for all three boilers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much CO2 is produced per ton of aluminum for the natural-gas boiler, electric boiler, and H2-fired boiler?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.94 t CO2/t aluminum for the natural-gas boiler, 0.05 t CO2/t aluminum for the electric boiler, and negligible for the H2-fired boiler."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the capital expenditure for the natural-gas boiler, electric boiler, and H2-fired boiler?"
+      },
+      {
+        "role": "assistant",
+        "content": "$50/t Aa for the natural-gas boiler, $98/t Aa for the electric boiler, and $604/t Aa or $505/t Aa for the H2-fired boiler (two different values are given)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Technology Readiness Level (TRL) for the electric boiler and H2-fired boiler?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 for the electric boiler and 5 for the H2-fired boiler."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much CO2 is produced per ton of aluminum for the H2-based calciner and natural gas with carbon capture and storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.078 t CO2/t aluminum for the H2-based calciner and 0.26 t CO2/t aluminum for the natural gas with carbon capture and storage (though the latter is not directly related to aluminum, it is related to alumina production)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed price of green hydrogen in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4.93/kg."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the US 2020 electricity price used in the calculation?"
+      },
+      {
+        "role": "assistant",
+        "content": "$37/MWh."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much thermal input is required for a hydrogen-based calciner?"
+      },
+      {
+        "role": "assistant",
+        "content": "3.64 GJ/t Alumina."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three main types of inputs that inform the model?"
+      },
+      {
+        "role": "assistant",
+        "content": "Refinery, smelter, and financial."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the basis for the electrolysis power requirement?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 kWh/kg H2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed cost of capture capital expenditure for CO2?"
+      },
+      {
+        "role": "assistant",
+        "content": "$125/t of CO2."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three main types of inputs that inform the model for aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "The three main types of inputs are refinery, smelter, and financial."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting carbon price considered in most scenarios, and how does it grow per year?"
+      },
+      {
+        "role": "assistant",
+        "content": "The starting carbon price is $60/t CO2e, growing 0.5 percent per year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What typically have the greatest impact across all investment options for aluminum decarbonization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Green premiums and carbon prices typically have the greatest impact."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed average car cost and amount of aluminum used, according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The assumed average car cost is $40,000, using 150 kg of aluminum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When were the Poseidon Principles created, and by how many leading banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Poseidon Principles were created in 2019 by 11 leading banks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the starting carbon price considered in most scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "$60/t CO2e"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the two factors that typically have the greatest impact across all investment options?"
+      },
+      {
+        "role": "assistant",
+        "content": "Green premiums and carbon prices"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of aluminum smelter is mentioned as having CCS on smelter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hall-H\u00e9roult with CCS on smelter"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the assumed average car cost used in the calculation?"
+      },
+      {
+        "role": "assistant",
+        "content": "$40,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the principles created in 2019 by 11 leading banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Poseidon Principles"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the growth rate of the starting carbon price per year?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.5 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the type of electricity source that includes long-duration energy storage?"
+      },
+      {
+        "role": "assistant",
+        "content": "100 percent renewables + long-duration energy storage (LDES)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the report mentioned as being published in September 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making net-zero aluminum possible: An industry-backed 1.5\u00b0C-aligned transition strategy"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the article 'Carbon Contracts for Difference could kickstart German industry decarbonisation' published?"
+      },
+      {
+        "role": "assistant",
+        "content": "February 7, 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the alliance focused on decarbonizing high-emitting industries?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Mission Possible Partnership."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average electricity price considered in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "$37/MWh."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the green-hydrogen price used in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "$4.93/kg."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the International Aluminum Institute publish information on 'Greenhouse gas emissions'?"
+      },
+      {
+        "role": "assistant",
+        "content": "October 4, 2021."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the topic of the blog entry by Asbj\u00f8rn Solheim on #SINTEFblog?"
+      },
+      {
+        "role": "assistant",
+        "content": "Is aluminium electrolysis using inert anodes a blind alley?"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 194,
+    "filtered": 186,
+    "retention_rate": 0.96,
+    "avg_score": 8.4
+  }
+}

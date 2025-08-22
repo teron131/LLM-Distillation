@@ -1,0 +1,837 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe report \"Superagency in the Workplace\" explores the potential of artificial intelligence (AI) to transform businesses and unlock new levels of creativity and productivity. Despite significant investments in AI, only 1% of companies believe they have achieved maturity in AI adoption, with the main barrier being leadership rather than employee readiness. The research finds that employees are more prepared for AI than their leaders think, with many already using AI tools and expecting significant changes to their workflows. To harness AI's full potential, leaders must be bold and responsible in their decision-making, balancing speed and safety, and empowering employees to drive transformative change.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of companies believe they are at maturity in their AI deployment?",
+      "answer": "1 percent."
+    },
+    {
+      "question": "What is the estimated long-term AI opportunity in terms of added productivity growth potential from corporate use cases?",
+      "answer": "$4.4 trillion."
+    },
+    {
+      "question": "What percentage of companies plan to increase their AI investments over the next three years?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "How many times more employees are using gen AI for a third or more of their work than their leaders imagine?",
+      "answer": "3 times."
+    },
+    {
+      "question": "What percentage of employees believe that within 2 years gen AI will change 30% or more of their work?",
+      "answer": "More than 70%."
+    },
+    {
+      "question": "How much more likely are millennials to report extensive familiarity with gen AI tools than peers in other age groups?",
+      "answer": "1.4 times."
+    },
+    {
+      "question": "What percentage of the C-suite say their companies are developing gen AI tools too slowly?",
+      "answer": "47%."
+    },
+    {
+      "question": "How long ago did 69% of companies start investing in AI?",
+      "answer": "More than a year ago."
+    },
+    {
+      "question": "Which companies have attained trillion-dollar market capitalizations?",
+      "answer": "Alphabet, Amazon, Apple, Meta, and Microsoft."
+    },
+    {
+      "question": "How many times more are employees using gen AI for a third or more of their work than their leaders imagine?",
+      "answer": "3\u00d7."
+    },
+    {
+      "question": "What percentage of employees believe that within 2 years gen AI will change 30% or more of their work?",
+      "answer": "More than 70%."
+    },
+    {
+      "question": "What percentage of C-suite executives say their companies are developing gen AI tools too slowly?",
+      "answer": "47%."
+    },
+    {
+      "question": "What percentage of companies plan to invest more in gen AI over the next 3 years?",
+      "answer": "92%."
+    },
+    {
+      "question": "What percentage of companies believe their investments in gen AI have reached maturity?",
+      "answer": "1%."
+    },
+    {
+      "question": "What do 48% of employees rank as the most important factor for gen AI adoption?",
+      "answer": "Training."
+    },
+    {
+      "question": "According to the report, what is the biggest barrier to success in AI adoption?",
+      "answer": "Leadership."
+    },
+    {
+      "question": "What percentage of employees surveyed came from the United States?",
+      "answer": "81 percent."
+    },
+    {
+      "question": "How many employees and C-level executives were surveyed to create the report?",
+      "answer": "3,613 employees and 238 C-level executives."
+    },
+    {
+      "question": "What is the main challenge of implementing AI in the workplace, according to Chapter 5?",
+      "answer": "A business challenge that requires leaders to align teams, address AI headwinds, and rewire their companies for change."
+    },
+    {
+      "question": "What is the transformative potential of AI in the workplace?",
+      "answer": "A state of superagency that increases personal productivity and creativity by bringing people and machines together."
+    },
+    {
+      "question": "How does AI differ from previous inventions like the internet and smartphones?",
+      "answer": "AI can summarize, code, reason, engage in a dialogue, and make choices, going beyond just providing access to information."
+    },
+    {
+      "question": "What is the potential impact of AI on humanity according to Reid Hoffman and Greg Beato's book Superagency?",
+      "answer": "The book highlights how AI could enhance human agency and heighten our potential, envisioning a human-led, future-forward approach to AI."
+    },
+    {
+      "question": "What does the term 'Superagency' describe?",
+      "answer": "A state where individuals, empowered by AI, super-charge their creativity, productivity, and positive impact."
+    },
+    {
+      "question": "How has AI advanced in the past two years?",
+      "answer": "AI has advanced in leaps and bounds, with many notable innovations emerging, including enhanced intelligence and reasoning capabilities, agentic AI, multimodality, improved hardware innovation and computational power, and increased transparency."
+    },
+    {
+      "question": "What is an example of the rapid expansion of context windows in AI?",
+      "answer": "Google's Gemini 1.5 could process one million tokens in February 2024, while its Gemini 1.5 Pro could process two million tokens by June of that same year."
+    },
+    {
+      "question": "How have the intelligence and reasoning capabilities of AI models improved?",
+      "answer": "Today's models are near the intelligence level of people who hold advanced degrees, with GPT-4 able to pass the Uniform Bar Examination in the top 10 percent of test takers and answer 90 percent of questions correctly on the US Medical Licensing Examination."
+    },
+    {
+      "question": "What is the next big leap forward for AI?",
+      "answer": "The advent of reasoning capabilities."
+    },
+    {
+      "question": "What does reasoning enhance in AI?",
+      "answer": "AI's capacity for complex decision making, allowing models to move beyond basic comprehension to nuanced understanding and the ability to create step-by-step plans to achieve goals."
+    },
+    {
+      "question": "What is an example of an AI bot's capability in 2023?",
+      "answer": "An AI bot could support call center representatives by synthesizing and summarizing large volumes of data\u2014including voice messages, text, and technical specifications\u2014to suggest responses to customer queries."
+    },
+    {
+      "question": "What can an AI agent do in 2025?",
+      "answer": "An AI agent can converse with a customer and plan the actions it will take afterward\u2014for example, processing a payment, checking for fraud, and completing a shipping action."
+    },
+    {
+      "question": "What is Salesforce's Agentforce?",
+      "answer": "A new layer on its existing platform that enables users to easily build and deploy autonomous AI agents to handle complex tasks across workflows."
+    },
+    {
+      "question": "What is the result of multimodality in AI models?",
+      "answer": "Today's AI models are evolving toward more advanced and diverse data processing capabilities across text, audio, and video."
+    },
+    {
+      "question": "What is an example of Google's Gemini Live improvement?",
+      "answer": "Google's Gemini Live has improved audio quality and latency and can now deliver a human-like conversation with emotional nuance and expressiveness."
+    },
+    {
+      "question": "How did GPT-4 perform on the Uniform Bar Examination?",
+      "answer": "GPT-4 can so easily pass the Uniform Bar Examination that it would rank in the top 10 percent of test takers."
+    },
+    {
+      "question": "What is Salesforce's Agentforce, and what is its purpose?",
+      "answer": "Salesforce's Agentforce is a new layer on its existing platform that enables users to easily build and deploy autonomous AI agents to handle complex tasks across workflows."
+    },
+    {
+      "question": "What is the concept described by Marc Benioff as a 'digital workforce'?",
+      "answer": "A 'digital workforce' refers to humans and automated agents working together to achieve customer outcomes."
+    },
+    {
+      "question": "What advancements have been seen in AI models over the last two years?",
+      "answer": "Improvements in the quality of text, audio, and video processing capabilities."
+    },
+    {
+      "question": "What is an example of an AI model that has improved audio quality and latency?",
+      "answer": "Google's Gemini Live."
+    },
+    {
+      "question": "How is hardware innovation impacting AI performance?",
+      "answer": "Hardware innovation and the resulting increase in compute power continue to enhance AI performance, allowing for faster, larger, and more versatile models."
+    },
+    {
+      "question": "What is an example of how an e-commerce company could utilize AI-driven solutions?",
+      "answer": "An e-commerce company could significantly improve customer service by implementing AI-driven chatbots that leverage advanced graphics processing units (GPUs) and tensor processing units (TPUs)."
+    },
+    {
+      "question": "What is the current state of AI transparency, according to the text?",
+      "answer": "AI is gradually becoming less risky, but it still lacks greater transparency and explainability."
+    },
+    {
+      "question": "What does Stanford University's Center for Research on Foundation Models (CRFM) report regarding AI transparency?",
+      "answer": "Significant advances in model performance and transparency, with Anthropic's transparency score increasing by 15 points to 51 and Amazon's more than tripling to 41 between October 2023 and May 2024."
+    },
+    {
+      "question": "Why is explainability important in AI and machine learning (ML) models?",
+      "answer": "Explainability is critical for improving AI safety, reducing the potential for bias, detecting errors, and ensuring compliance with regulations and company policies."
+    },
+    {
+      "question": "What was the increase in Anthropic's transparency score between October 2023 and May 2024?",
+      "answer": "15 points to 51."
+    },
+    {
+      "question": "How did Amazon's transparency score change between October 2023 and May 2024?",
+      "answer": "It more than tripled to 41."
+    },
+    {
+      "question": "Why is explainability in AI and machine learning important?",
+      "answer": "For detecting errors and ensuring compliance with regulations and company policies."
+    },
+    {
+      "question": "What percentage of employees report having some level of familiarity with gen AI tools?",
+      "answer": "94 percent."
+    },
+    {
+      "question": "What percentage of C-suite leaders believe employees will use gen AI for more than 30 percent of their daily tasks within a year?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What is the actual percentage of employees who use gen AI for at least 30 percent of their daily work, as self-reported?",
+      "answer": "Three times greater than the C-suite leaders' estimate of 4 percent, so 12 percent."
+    },
+    {
+      "question": "What percentage of employees believe they will use gen AI for more than 30 percent of their daily tasks within a year?",
+      "answer": "47 percent."
+    },
+    {
+      "question": "What percentage of employees are actually using gen AI for at least 30 percent of their daily work?",
+      "answer": "Three times the percentage estimated by C-suite leaders, who estimated it to be 4 percent, so 12 percent."
+    },
+    {
+      "question": "What percentage of C-suite leaders believe employees will use gen AI for more than 30 percent of their daily tasks within a year?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What percentage of employees believe they will use gen AI for more than 30 percent of their daily tasks within a year?",
+      "answer": "47 percent."
+    },
+    {
+      "question": "What percentage of employees identify as Bloomers, who are AI optimists?",
+      "answer": "39 percent."
+    },
+    {
+      "question": "What percentage of Gloomers say they are comfortable using gen AI at work?",
+      "answer": "Approximately 80 percent."
+    },
+    {
+      "question": "What percentage of Doomers say they have some familiarity with gen AI tools?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "What percentage of employees identify as Bloomers?",
+      "answer": "39 percent"
+    },
+    {
+      "question": "What percentage of Gloomers say they are comfortable using gen AI at work?",
+      "answer": "Approximately 80 percent"
+    },
+    {
+      "question": "What do employees want from their companies to boost AI adoption?",
+      "answer": "More formal training, access to AI tools in the form of betas or pilots, and incentives such as financial rewards and recognition."
+    },
+    {
+      "question": "What percentage of employees report receiving minimal to no support for gen AI training?",
+      "answer": "More than a fifth"
+    },
+    {
+      "question": "What percentage of Doomers say they have some familiarity with gen AI tools?",
+      "answer": "71 percent"
+    },
+    {
+      "question": "What percentage of international employees say they receive significant or full organizational support to learn AI skills?",
+      "answer": "84 percent."
+    },
+    {
+      "question": "How does the percentage of US employees receiving significant or full organizational support for AI skills compare to international employees?",
+      "answer": "Just over half of US employees receive significant or full organizational support, versus 84 percent of international employees."
+    },
+    {
+      "question": "What do employees indicate can improve uptake of AI tools?",
+      "answer": "Incentives such as financial rewards and recognition."
+    },
+    {
+      "question": "What percentage of US employees report receiving minimal to no support for gen AI capability building?",
+      "answer": "More than a fifth."
+    },
+    {
+      "question": "Do international employees have more opportunities to participate in developing gen AI tools compared to US employees?",
+      "answer": "Yes, with differences of at least ten percentage points in activities such as providing feedback, beta testing, and requesting specific features."
+    },
+    {
+      "question": "What percentage of international employees receive significant or full organizational support to learn AI skills?",
+      "answer": "84 percent."
+    },
+    {
+      "question": "Which age group has the most experience and enthusiasm about AI according to the survey?",
+      "answer": "Millennials aged 35 to 44."
+    },
+    {
+      "question": "What percentage of 35- to 44-year-old employees report high levels of expertise with AI?",
+      "answer": "62 percent."
+    },
+    {
+      "question": "How often do managers say they field questions from their team about how to use AI tools?",
+      "answer": "At least once a week, according to two-thirds of managers."
+    },
+    {
+      "question": "What percentage of US employees receive significant or full organizational support to learn AI skills?",
+      "answer": "Just over half."
+    },
+    {
+      "question": "What percentage of C-suite leaders say their organizations are developing and releasing gen AI tools too slowly?",
+      "answer": "47 percent."
+    },
+    {
+      "question": "What is cited as a key reason for the delay in developing and releasing gen AI tools by C-suite leaders?",
+      "answer": "Talent skill gaps."
+    },
+    {
+      "question": "How many weekly users does ChatGPT have according to OpenAI?",
+      "answer": "Over 300 million."
+    },
+    {
+      "question": "What percentage of Fortune 500 companies employ ChatGPT technology?",
+      "answer": "Over 90 percent."
+    },
+    {
+      "question": "What percentage of the workplace are Zoomers and Bloomers, who describe themselves as AI optimists, comprised of?",
+      "answer": "59 percent."
+    },
+    {
+      "question": "What is the main action business leaders need to take to ensure their companies don't get left behind in AI adoption?",
+      "answer": "Embracing the speed and optimism around AI."
+    },
+    {
+      "question": "How many weekly users does ChatGPT have?",
+      "answer": "Over 300 million."
+    },
+    {
+      "question": "What percentage of Fortune 500 companies employ ChatGPT technology?",
+      "answer": "Over 90 percent."
+    },
+    {
+      "question": "What percentage of C-suite leaders say their organizations are developing and releasing gen AI tools too slowly?",
+      "answer": "47 percent."
+    },
+    {
+      "question": "What is cited as a key reason for the delay in developing and releasing gen AI tools by C-suite leaders?",
+      "answer": "Talent skill gaps."
+    },
+    {
+      "question": "What percentage of executives expect to boost spending on AI in the next three years?",
+      "answer": "92 percent."
+    },
+    {
+      "question": "What percentage of executives have defined a gen AI road map?",
+      "answer": "One quarter."
+    },
+    {
+      "question": "What percentage of US C-suite respondents have a defined gen AI road map?",
+      "answer": "One quarter have defined a gen AI road map, while just over half have a draft that is being refined."
+    },
+    {
+      "question": "What are the top concerns of US employees regarding gen AI?",
+      "answer": "Cybersecurity, inaccuracy, and personal privacy."
+    },
+    {
+      "question": "Do employees trust their employers to deploy AI safely and ethically?",
+      "answer": "Yes, 71 percent of employees trust their employers to act ethically as they develop AI."
+    },
+    {
+      "question": "What percentage of employees trust their employers to do the right thing in general?",
+      "answer": "73 percent."
+    },
+    {
+      "question": "What is the dilemma that leaders face regarding AI?",
+      "answer": "The dilemma of speed versus safety, as they want to increase AI investments and accelerate development while making AI safe in the workplace."
+    },
+    {
+      "question": "Who do US employees trust most to deploy gen AI tools responsibly, safely, and ethically?",
+      "answer": "Their employers."
+    },
+    {
+      "question": "What percentage of US employees highly trust their employers to deploy gen AI tools responsibly, safely, and ethically?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "Do international C-suite leaders favor greater regulatory oversight more than US C-suite leaders?",
+      "answer": "Yes, between 37 to 50 percent of international C-suite leaders self-identify as Gloomers, who favor greater regulatory oversight, versus 31 percent in the United States."
+    },
+    {
+      "question": "What percentage of international executives want their companies to be among the first adopters of AI?",
+      "answer": "More than half."
+    },
+    {
+      "question": "Which country's executives are the most optimistic about AI delivering a revenue uplift of 10 percent or more over the next three years?",
+      "answer": "Indian executives, with 55 percent expecting a revenue uplift of 10 percent or more."
+    },
+    {
+      "question": "What percentage of international C-suite leaders expect AI to deliver a revenue uplift of more than 10 percent in the next three years?",
+      "answer": "31 percent."
+    },
+    {
+      "question": "Which country's executives are the most optimistic about AI revenue uplift, and what percentage expect a 10 percent or more uplift?",
+      "answer": "Indian executives, 55 percent."
+    },
+    {
+      "question": "What is the first step in building fit-for-purpose risk management for AI adoption?",
+      "answer": "Launching a comprehensive assessment to identify potential vulnerabilities in each of a company's businesses."
+    },
+    {
+      "question": "What percentage of C-suite leaders use third-party benchmarking to evaluate their AI systems?",
+      "answer": "39 percent."
+    },
+    {
+      "question": "What is the primary focus of C-suite leaders who use benchmarking to evaluate their AI systems?",
+      "answer": "Operational metrics (such as scalability, reliability, robustness, and cost efficiency) and performance-related metrics (including accuracy, precision, F1 score, latency, and throughput)."
+    },
+    {
+      "question": "What percentage of C-suite leaders who benchmark say it's most important to measure fairness, bias, transparency, privacy, and regulatory issues?",
+      "answer": "17 percent."
+    },
+    {
+      "question": "What percentage of C-suite leaders use benchmarks to evaluate their AI systems?",
+      "answer": "39 percent"
+    },
+    {
+      "question": "What metrics do C-suite leaders prioritize when using benchmarks for AI systems?",
+      "answer": "Operational metrics (such as scalability, reliability, robustness, and cost efficiency) and performance-related metrics (including accuracy, precision, F1 score, latency, and throughput)"
+    },
+    {
+      "question": "What percentage of C-suite leaders who benchmark consider measuring fairness, bias, transparency, privacy, and regulatory issues as most important?",
+      "answer": "17 percent"
+    },
+    {
+      "question": "What is the focus of most benchmarking efforts by C-suite leaders for gen AI tools?",
+      "answer": "Less focused on ethical and compliance concerns"
+    },
+    {
+      "question": "What is the consequence of ignoring ethical considerations in AI systems?",
+      "answer": "Employees are less likely to accept AI systems when they don\u2019t trust them"
+    },
+    {
+      "question": "What percentage of leaders launched their first gen AI use cases over a year ago?",
+      "answer": "More than two-thirds"
+    },
+    {
+      "question": "How do C-suite leaders at companies that have deployed AI describe their AI initiatives?",
+      "answer": "About half describe their initiatives as still developing or expanding"
+    },
+    {
+      "question": "What percentage of C-suite leaders launched their first gen AI use cases over a year ago?",
+      "answer": "More than two-thirds."
+    },
+    {
+      "question": "Which industries are ahead of the pack in terms of AI spending among the top 25 percent of spenders?",
+      "answer": "Healthcare, technology, media and telecom, advanced industries, and agriculture."
+    },
+    {
+      "question": "What percentage of C-suite respondents describe their gen AI rollouts as mature?",
+      "answer": "Only 1 percent."
+    },
+    {
+      "question": "Why may the consumer industry be hesitant to invest in AI?",
+      "answer": "The industry's low average net margins in mass-market categories and thus higher confidence thresholds for adopting costly organization-wide technology upgrades."
+    },
+    {
+      "question": "In which industries are employees largely skeptical about the development of AI's future?",
+      "answer": "The public sector, aerospace and defense, and semiconductor industries."
+    },
+    {
+      "question": "What percentage of social sector employees trust that their employers will develop AI safely?",
+      "answer": "Just 31 percent."
+    },
+    {
+      "question": "What percentage of employees in the public sector and aerospace and defense anticipate that AI will have a significant impact on their daily tasks in the next year?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "Which industries have the highest percentage of employees anticipating AI to have a significant impact on their daily tasks in the next year?",
+      "answer": "Media and entertainment (65 percent) and telecom (67 percent)."
+    },
+    {
+      "question": "What percentage of social sector employees trust that their employers will develop AI safely?",
+      "answer": "31 percent."
+    },
+    {
+      "question": "What is the cross-industry average percentage of employees who trust that their employers will develop AI safely?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "Why are employees in the social sector, aerospace and defense, and public sector least optimistic about gen AI?",
+      "answer": "Their relative caution likely reflects near-term challenges posed by external constraints such as rigorous regulatory oversight, outdated IT systems, and lengthy approval processes."
+    },
+    {
+      "question": "What is the cross-industry average confidence level?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "Which industries are included in the 'Healthcare' category?",
+      "answer": "Biotechnology, healthcare equipment and services, life sciences, and pharmaceuticals."
+    },
+    {
+      "question": "What is the source of the data for the US employee sentiment on gen AI?",
+      "answer": "McKinsey US employee survey, Oct\u2013Nov 2024 (n = 3,002); The economic potential of generative AI: The next productivity frontier, McKinsey, June 14, 2023."
+    },
+    {
+      "question": "Which sectors are the least optimistic about gen AI?",
+      "answer": "Social sector, aerospace and defense, and public sector."
+    },
+    {
+      "question": "What are the functional areas where AI presents the greatest economic potential?",
+      "answer": "Sales and marketing, software engineering, customer service, and R&D."
+    },
+    {
+      "question": "Why might employees in certain functions be lukewarm about AI?",
+      "answer": "Perhaps they have piloted AI projects, leading them to be more realistic about AI\u2019s benefits and limitations, or they worry that AI could replace their jobs."
+    },
+    {
+      "question": "What percentage of C-level executives report that AI has increased their revenues by more than 5 percent?",
+      "answer": "19 percent"
+    },
+    {
+      "question": "What percentage of executives expect revenue growth from gen AI within the next three years?",
+      "answer": "87 percent"
+    },
+    {
+      "question": "How do the employees most optimistic about gen AI relate to the most economic value potential?",
+      "answer": "The employees most optimistic about gen AI do not represent the most economic value potential."
+    },
+    {
+      "question": "What percentage of C-level executives see AI delivering favorable change in costs?",
+      "answer": "23 percent"
+    },
+    {
+      "question": "What is the suggested course of action for leaders in functions where employees are not optimistic about gen AI?",
+      "answer": "Leaders in these functions might consider investing more in employee support and elevating the change champions who can improve that sentiment."
+    },
+    {
+      "question": "What percentage of executives expect revenue growth from gen AI within the next three years?",
+      "answer": "87 percent"
+    },
+    {
+      "question": "What percentage of C-suite respondents expect gen AI to deliver more than 5 percent revenue growth in the next three years?",
+      "answer": "Half"
+    },
+    {
+      "question": "According to the McKinsey US CxO survey, what percentage of respondents have seen an increase in revenue due to gen AI?",
+      "answer": "The figures are broken down into categories: Increased by 1\u20135% (36%), Increased by 6\u201310% (9%), Increased > 10% (3%)."
+    },
+    {
+      "question": "What kind of AI applications are most companies currently developing?",
+      "answer": "Most AI applications are localized use cases still in the pilot stages."
+    },
+    {
+      "question": "What is required to create AI applications that can revolutionize industries and create transformative value?",
+      "answer": "Inspirational leadership, a unique concept of the future, and a commitment to transformational impact."
+    },
+    {
+      "question": "What kind of efforts can drive the greatest returns according to the text?",
+      "answer": "Transformative efforts such as robotics in manufacturing, predictive AI in renewable energy, drug development in life sciences, and personalized AI tutors in education."
+    },
+    {
+      "question": "What is necessary for companies to truly harness the potential of AI?",
+      "answer": "Companies must challenge themselves to envision and implement more breakthrough initiatives, and have visionary leadership."
+    },
+    {
+      "question": "How much daily activity had the technical potential to be automated in 2024?",
+      "answer": "About an hour."
+    },
+    {
+      "question": "By when could the automation potential increase up to three hours per day?",
+      "answer": "By 2030."
+    },
+    {
+      "question": "What can people do with the time saved by using AI-enabled tools?",
+      "answer": "Repurpose time for personal fulfillment activities or being productive in other ways."
+    },
+    {
+      "question": "What kind of efforts can drive the greatest returns according to the text?",
+      "answer": "Transformative efforts such as robotics in manufacturing, predictive AI in renewable energy, drug development in life sciences, and personalized AI tutors in education."
+    },
+    {
+      "question": "What is required to develop AI applications that can revolutionize industries?",
+      "answer": "Inspirational leadership, a unique concept of the future, and a commitment to transformational impact."
+    },
+    {
+      "question": "What is necessary for companies to truly harness the potential of AI?",
+      "answer": "Companies must challenge themselves to envision and implement more breakthrough initiatives, and have visionary leadership."
+    },
+    {
+      "question": "How much daily activity had the technical potential to be automated in 2024?",
+      "answer": "About an hour."
+    },
+    {
+      "question": "By when could the automation potential increase up to three hours per day?",
+      "answer": "By 2030."
+    },
+    {
+      "question": "What can people do with the time saved by using AI-enabled tools?",
+      "answer": "Repurpose time for personal fulfillment activities or being productive in other ways."
+    },
+    {
+      "question": "By what year is the expansion of use cases and continued improvements in AI safety expected to increase automation potential up to three hours per day?",
+      "answer": "2030."
+    },
+    {
+      "question": "What percentage of leaders anticipate that deploying AI will drive revenue growth in the next three years?",
+      "answer": "Almost 90 percent."
+    },
+    {
+      "question": "What is the percentage of transformations that fail according to the text?",
+      "answer": "Nearly 70 percent."
+    },
+    {
+      "question": "What are individuals beginning to use conversational and reasoning AI models for?",
+      "answer": "Counseling, coaching, and creative expression."
+    },
+    {
+      "question": "What is required for companies to secure revenue growth from AI deployment?",
+      "answer": "Corporate transformation."
+    },
+    {
+      "question": "What are the five operational headwinds that slow AI execution mentioned in the text?",
+      "answer": "Aligning leadership, addressing cost uncertainty, workforce planning, managing supply chain dependencies, and meeting the demand for explainability."
+    },
+    {
+      "question": "What are the five operational headwinds that slow business adoption of AI?",
+      "answer": "The five operational headwinds are: aligning leadership, addressing cost uncertainty, workforce planning, managing supply chain dependencies, and meeting the demand for explainability."
+    },
+    {
+      "question": "Why is leadership alignment a critical step in AI adoption?",
+      "answer": "Aligning leadership is crucial to ensure that AI projects are not disparate, avoid liability, and deliver transformative business outcomes."
+    },
+    {
+      "question": "What is the challenge posed by cost uncertainty in AI adoption?",
+      "answer": "Cost uncertainty makes it difficult for enterprises to predict ROI as they are unsure if they can 'take' AI solutions off the shelf or need to 'shape' and customize them, and the full cost of building and managing AI applications at scale remains uncertain."
+    },
+    {
+      "question": "What is the difficulty in workforce planning for AI adoption?",
+      "answer": "Employers do not know how many AI experts they will need, what type of skills they require, whether that talent bench exists, how quickly they can source people, and how they can remain an attractive employer for in-demand hires."
+    },
+    {
+      "question": "Why are supply chain dependencies a challenge for AI adoption?",
+      "answer": "Fragile supply chains can expose enterprises to disruptions and technical, regulatory, and legal challenges due to the global nature of the AI supply chain and complex geopolitics."
+    },
+    {
+      "question": "What is the challenge posed by the demand for greater explainability in AI?",
+      "answer": "Most LLMs are black boxes that do not reveal why or how they came to a certain response, nor what data was used to make it, making it difficult to trust them for critical tasks if they cannot provide clear justifications for their responses."
+    },
+    {
+      "question": "Why is explainability a central challenge for AI deployment?",
+      "answer": "Most LLMs are often black boxes that do not reveal why or how they came to a certain response, nor what data was used to make it."
+    },
+    {
+      "question": "What is required for AI models to be trusted for critical tasks?",
+      "answer": "They must provide clear justifications for their responses, recommendations, decisions, or actions, showing the specific factors that led to a particular outcome."
+    },
+    {
+      "question": "What framework does McKinsey suggest for sustained digital transformation?",
+      "answer": "The Rewired framework, which includes six foundational elements: road map, talent, operating model, technology, data, and scaling."
+    },
+    {
+      "question": "What are the two important wrinkles introduced by AI for leaders to address?",
+      "answer": "Adaptability and federated governance models."
+    },
+    {
+      "question": "How can a modular approach help organizations?",
+      "answer": "It helps future-proof tech stacks, allows businesses to swap, upgrade, and integrate models and tools with less friction, and avoid vendor lock-in."
+    },
+    {
+      "question": "What is the benefit of federated governance models?",
+      "answer": "It gives teams autonomy to develop new AI tools while centrally controlling risk, allowing leaders to oversee high-risk issues and delegate other monitoring to business units."
+    },
+    {
+      "question": "What is required to enable tech-business transformations according to McKinsey & Company?",
+      "answer": "Six enduring success factors enable tech-business transformations."
+    },
+    {
+      "question": "What percentage of leaders identify skill gaps in their workforces as a significant barrier to AI adoption?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "Why should business leaders keep their budgets flexible according to the text?",
+      "answer": "To optimize their AI deployments simultaneously for costs and performance."
+    },
+    {
+      "question": "What can improve model transparency and accountability in AI adoption?",
+      "answer": "Adopting standardized public benchmarks and employing benchmarks, including ethical ones."
+    },
+    {
+      "question": "How can leaders create an environment attractive to technologists?",
+      "answer": "By providing them with plenty of time to experiment, offering access to cutting-edge tools, creating opportunities to engage in open-source communities, and promoting a collaborative engineering culture."
+    },
+    {
+      "question": "What is important for business leaders to do to guarantee fairness and impartiality in the AI development process?",
+      "answer": "Incorporate diverse perspectives early and often in the AI development process and maintain transparent communication with their teams."
+    },
+    {
+      "question": "According to McKinsey's research, what is important for upskilling existing employees?",
+      "answer": "Tailoring training to specific roles, such as offering technical team members bootcamps on library creation while offering prompt engineering classes to specific functional teams."
+    },
+    {
+      "question": "What percentage of C-suite leaders say they would involve nontechnical employees in the early development stages of AI tools?",
+      "answer": "Less than half, or 48 percent."
+    },
+    {
+      "question": "What is the projected number of new jobs that will be created by 2030 due to AI?",
+      "answer": "170 million."
+    },
+    {
+      "question": "What is the expected outcome when leaders and employees work together to reimagine their businesses with AI?",
+      "answer": "AI can evolve from a productivity enhancer into a transformative superpower\u2014an effective partner that increases human agency."
+    },
+    {
+      "question": "What is the current focus of AI experimentation shifting towards?",
+      "answer": "Unlocking unprecedented innovation and driving systemic change that delivers real value."
+    },
+    {
+      "question": "What percentage of business leaders report that their companies have reached AI maturity?",
+      "answer": "1 percent."
+    },
+    {
+      "question": "How are some companies driving AI adoption?",
+      "answer": "By deploying both bottom-up and top-down approaches."
+    },
+    {
+      "question": "What is the goal for business leaders regarding AI implementation?",
+      "answer": "To capture the enormous potential of gen AI to drive innovation and create real business value."
+    },
+    {
+      "question": "What is the focus of the early stages of AI experimentation?",
+      "answer": "Proving technical feasibility through narrow use cases, such as automating routine tasks."
+    },
+    {
+      "question": "What is the current horizon for AI poised to do?",
+      "answer": "Unlock unprecedented innovation and drive systemic change that delivers real value."
+    },
+    {
+      "question": "Who are the authors of the report 'Superagency in the workplace: Empowering people to unlock AI\u2019s full potential'?",
+      "answer": "Hannah Mayer, Lareina Yee, Michael Chui, and Roger Roberts."
+    },
+    {
+      "question": "What is the goal of capturing the potential of gen AI?",
+      "answer": "To drive innovation and create real business value."
+    },
+    {
+      "question": "How many employees and C-level executives were surveyed for the report?",
+      "answer": "3,613 employees and 238 C-level executives."
+    },
+    {
+      "question": "When were the employees and C-level executives surveyed?",
+      "answer": "October and November 2024."
+    },
+    {
+      "question": "What percentage of survey respondents came from the United States?",
+      "answer": "81 percent."
+    },
+    {
+      "question": "Why are the survey findings discussed in the report limited to US workplaces?",
+      "answer": "Because the responses from US employees and C-suite executives provide statistically significant conclusions about the US workplace."
+    },
+    {
+      "question": "What roles did the employees in the survey span?",
+      "answer": "The employees spanned many roles, including business development, finance, marketing, product management, sales, and technology."
+    },
+    {
+      "question": "To which region do the survey findings discussed in the report primarily pertain?",
+      "answer": "The survey findings discussed in the report, aside from two sidebars presenting international nuances, pertain solely to US workplaces."
+    },
+    {
+      "question": "What percentage of survey respondents in the United States work at organizations generating at least $100 million in annual revenue?",
+      "answer": "Three-quarters of survey respondents in the United States work at organizations generating at least $100 million in annual revenue."
+    },
+    {
+      "question": "How did the researchers gather information beyond surveys?",
+      "answer": "The researchers conducted interviews with dozens of C-level executives and industry experts to understand their perspectives on AI\u2019s transformative potential and the steps they are taking to lead their organizations through this transition."
+    },
+    {
+      "question": "What is the definition of Artificial Intelligence (AI) as per the report?",
+      "answer": "Artificial Intelligence (AI) is defined as the ability of software to perform tasks that traditionally require human intelligence, mirroring some cognitive functions usually associated with human minds."
+    },
+    {
+      "question": "How many potential AI use cases are featured in the comprehensive database developed?",
+      "answer": "The comprehensive database features more than 250 potential AI use cases."
+    },
+    {
+      "question": "What is Agentic AI?",
+      "answer": "Systems with autonomy and goal-directed behavior capable of making independent decisions, planning, and adapting to achieve specific objectives without direct, ongoing human input."
+    },
+    {
+      "question": "What is the definition of Artificial Intelligence (AI)?",
+      "answer": "The ability of software to perform tasks that traditionally require human intelligence, mirroring some cognitive functions usually associated with human minds."
+    },
+    {
+      "question": "What is Deep learning?",
+      "answer": "A subset of machine learning that uses deep neural networks, which are layers of connected \u201cneurons\u201d whose connections have parameters or weights that can be trained."
+    },
+    {
+      "question": "What are Foundation models?",
+      "answer": "Deep learning models trained on vast quantities of unstructured, unlabeled data that can be used for a wide range of tasks out of the box or adapted to specific tasks through fine-tuning."
+    },
+    {
+      "question": "What is Generative AI (gen AI)?",
+      "answer": "AI that is typically built using foundation models and has capabilities that earlier forms lacked, such as the ability to generate content."
+    },
+    {
+      "question": "What is Hallucination in AI?",
+      "answer": "A scenario where an AI system generates outputs that lack grounding in reality or a provided context."
+    },
+    {
+      "question": "What is Prompt engineering?",
+      "answer": "The process of designing, refining, and optimizing input prompts to guide a gen AI model toward producing desired and accurate outputs."
+    },
+    {
+      "question": "What is Superagency?",
+      "answer": "A state where individuals, empowered by AI, amplify their creativity, productivity, and positive impact."
+    },
+    {
+      "question": "What is Unstructured data?",
+      "answer": "Data that lack a consistent format or structure (for example, text, images, video, and audio files) and typically require more advanced techniques to extract insights."
+    },
+    {
+      "question": "What is hallucination in the context of AI?",
+      "answer": "A scenario where an AI system generates outputs that lack grounding in reality or a provided context."
+    },
+    {
+      "question": "What is prompt engineering?",
+      "answer": "The process of designing, refining, and optimizing input prompts to guide a gen AI model toward producing desired and accurate outputs."
+    },
+    {
+      "question": "What characterizes Reasoning AI?",
+      "answer": "AI systems that perform logical thinking, step-by-step planning, problem solving, and decision making using structured or unstructured data, going beyond pattern recognition to draw conclusions and solve complex problems."
+    },
+    {
+      "question": "What is Superagency?",
+      "answer": "A state where individuals, empowered by AI, amplify their creativity, productivity, and positive impact."
+    },
+    {
+      "question": "What is unstructured data?",
+      "answer": "Data that lack a consistent format or structure (for example, text, images, video, and audio files) and typically require more advanced techniques to extract insights."
+    },
+    {
+      "question": "What are Large Language Models (LLMs)?",
+      "answer": "A class of foundation models that can process massive amounts of unstructured text and learn the relationships between words or portions of words, known as tokens."
+    },
+    {
+      "question": "What is Modality?",
+      "answer": "A high-level data category such as numbers, text, images, video, and audio."
+    },
+    {
+      "question": "What are Multimodal capabilities?",
+      "answer": "The ability of an AI system to process and generate various types of data (text, images, audio, video) simultaneously, enabling complex tasks and rich outputs."
+    },
+    {
+      "question": "How is productivity from labor defined?",
+      "answer": "The ratio of GDP to total hours worked in the economy."
+    }
+  ]
+}

@@ -1,0 +1,4953 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Global Banking Annual Review 2023, \"The Great Banking Transition,\" examines the significant changes in the banking industry, driven by factors such as digital innovation, new competitors, and shifting macroeconomic conditions. Despite recent challenges, the industry has experienced a favorable turnaround, with rising interest rates boosting profits and return on equity (ROE) to 12% in 2022 and an expected 13% in 2023. The report identifies five priorities for financial institutions to future-proof themselves: exploiting leading technologies, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape. The industry is also experiencing a geographical divergence, with banks in certain regions, such as the Indian Ocean crescent, outperforming others. The report concludes that operational excellence and strategic decision-making will be crucial for banks to succeed in a rapidly changing environment.",
+  "qa_pairs": [
+    {
+      "question": "Who are the authors of the Global Banking Annual Review 2023 report?",
+      "answer": "Debopriyo Bhattacharyya, Miklos Dietz, Alexander Edlich, Reinhard H\u00f6ll, Asheet Mehta, Brian Weintraub, and Eckart Windhagen.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main theme of the Global Banking Annual Review 2023 report?",
+      "answer": "The Great Banking Transition, analyzing causes and effects of changes in the banking sector.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the best period for global banking overall since at least 2007?",
+      "answer": "The past 18 months, as rising interest rates have boosted profits in a more benign credit environment.",
+      "rating": 9
+    },
+    {
+      "question": "Where have balance sheets and transactions increasingly moved to?",
+      "answer": "Nontraditional institutions and parts of the market that are capital-light and often differently regulated, such as digital payment specialists and private markets.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the net increase of financial funds ended up not on banking balance sheets between 2015 and 2022?",
+      "answer": "More than 70 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What are the five priorities suggested for financial institutions to future-proof themselves?",
+      "answer": "Exploiting leading technologies (including AI), flexing and potentially even unbundling the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape.",
+      "rating": 9
+    },
+    {
+      "question": "What are the five key areas financial institutions need to examine to assess their competitive advantages?",
+      "answer": "Exploiting leading technologies (including AI), flexing and potentially even unbundling the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape.",
+      "rating": 8
+    },
+    {
+      "question": "What has driven the recent upturn in the banking sector?",
+      "answer": "The 500-basis-point increase in interest rates since the second quarter of 2022 in the United States, echoed in other developed economies.",
+      "rating": 9
+    },
+    {
+      "question": "How much did the sector's profits increase by in 2022?",
+      "answer": "About $280 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What was the return on equity (ROE) in 2022 and expected ROE in 2023?",
+      "answer": "12 percent in 2022 and an expected 13 percent in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What has been the trend in the cost-income ratio from 2012 to 2022?",
+      "answer": "The cost-income ratio dropped by seven percentage points from 59 percent in 2012 to about 52 percent in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "Where are half of the best-performing banks in the world located?",
+      "answer": "Along the crescent formed by the Indian Ocean, stretching from Singapore to India, Dubai, and parts of eastern Africa.",
+      "rating": 9
+    },
+    {
+      "question": "What characterizes the strongest performers in the banking sector?",
+      "answer": "They tend to use the balance sheet effectively, are customer centric, and often lead on technology usage.",
+      "rating": 9
+    },
+    {
+      "question": "What was the price-to-book ratio of banks in 2022?",
+      "answer": "0.9",
+      "rating": 8
+    },
+    {
+      "question": "What is the expected increase in the banking sector's value added for every 0.1-times improvement in the price-to-book ratio?",
+      "answer": "More than $1 trillion",
+      "rating": 7
+    },
+    {
+      "question": "What are the four global trends shaping the outlook for financial institutions?",
+      "answer": "A shift in the macroeconomic environment, technological progress, broadening and deepening regulatory scrutiny, and shifting systemic risk",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated impact of generative AI on productivity and operating expenditures?",
+      "answer": "A 3 to 5 percent increase in productivity and a reduction in operating expenditures of between $200 billion and $300 billion",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the net increase in financial funds ended up off banking balance sheets in the United States and Europe?",
+      "answer": "75 percent in the United States and about 55 percent in Europe",
+      "rating": 9
+    },
+    {
+      "question": "What is the Great Banking Transition?",
+      "answer": "The text does not directly define the Great Banking Transition, but it implies that it is a period of significant change in the banking industry driven by various factors including macroeconomic developments, technology, regulation, risk, and scale.",
+      "rating": 8
+    },
+    {
+      "question": "What are the key trends that financial institutions need to adapt to during the Great Banking Transition?",
+      "answer": "The key trends that financial institutions need to adapt to are technology, regulation, risk, and scale.",
+      "rating": 9
+    },
+    {
+      "question": "What are the five priorities outlined for financial institutions to consider during the Great Banking Transition?",
+      "answer": "The five priorities are: 1) Exploiting technology and AI to boost productivity, 2) Flexing and even unbundling the balance sheet, 3) Scaling or exiting transaction businesses, 4) Leveling up distribution to sell to customers and advise them, and 5) Adapting to changing risks.",
+      "rating": 9
+    },
+    {
+      "question": "How can financial institutions utilize technology during the Great Banking Transition?",
+      "answer": "Financial institutions can utilize technology by capturing the AI opportunity, deploying process automation, operating more like a tech company, cultivating a cloud-based architecture, and improving capabilities to address technology risks.",
+      "rating": 9
+    },
+    {
+      "question": "What is meant by 'flexing and unbundling the balance sheet'?",
+      "answer": "Flexing the balance sheet implies active use of syndication, originate-to-distribute models, and third-party balance sheets, while unbundling involves separating out customer-facing businesses from banking-as-a-service businesses and using technology to restructure costs.",
+      "rating": 9
+    },
+    {
+      "question": "What is one way financial institutions can create opportunities to serve customer needs?",
+      "answer": "Deciding on a strategy for third-party distribution, which could be via partnerships to create embedded finance opportunities or platform-based models.",
+      "rating": 9
+    },
+    {
+      "question": "What are some of the risks that financial institutions need to stay on top of?",
+      "answer": "Inflation, an unclear growth outlook, potential credit challenges in specific sectors, changing regulatory requirements, cyber and fraud, and the integration of advanced analytics and AI into the banking system.",
+      "rating": 9
+    },
+    {
+      "question": "How can banks manage the risks associated with the ever-evolving risk environment?",
+      "answer": "By elevating the risk function to make it a potential differentiator, highlighting the bank's resilience based on its track record of managing systemic risk and liquidity, and further strengthening the first line and embedding risk in day-to-day activities.",
+      "rating": 9
+    },
+    {
+      "question": "What will be determinative for financial institutions in the years ahead?",
+      "answer": "Scale and specialization, as well as value-creating diversification.",
+      "rating": 8
+    },
+    {
+      "question": "What was the focus of the 2022 Global Banking Annual Review?",
+      "answer": "How the world of banking was entering a period of sudden volatility after years of relative stability.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the trend for key indicators for the banking industry globally?",
+      "answer": "Key indicators, including return on equity (ROE) and capital ratios, have risen after long periods of decline.",
+      "rating": 9
+    },
+    {
+      "question": "What have been the best years for some banks in Europe and the United States since 2022?",
+      "answer": "2022 and the first half of 2023 have been the best in more than a decade.",
+      "rating": 8
+    },
+    {
+      "question": "Where are half of the world's best-performing banks now located?",
+      "answer": "In countries forming a crescent around the Indian Ocean.",
+      "rating": 8
+    },
+    {
+      "question": "What is happening to financial institutions as a whole in terms of their valuation?",
+      "answer": "They continue to trade below their book value.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main theme of this year's Global Banking Annual Review?",
+      "answer": "The Great Banking Transition.",
+      "rating": 9
+    },
+    {
+      "question": "What factors are driving the Great Banking Transition?",
+      "answer": "Shifts in balance sheets, transactions, and distribution that have been leaving banks to go to nontraditional institutions and other parts of the market.",
+      "rating": 8
+    },
+    {
+      "question": "What is happening to the traditional model of capital-heavy banking?",
+      "answer": "It still needs to reinvent itself to ensure its own future\u2014and to do so swiftly.",
+      "rating": 7
+    },
+    {
+      "question": "What was the trend in net interest margins for banks in Europe and North America in 2022?",
+      "answer": "Banks, especially in Europe and North America, registered gains in net interest margins in 2022 on the back of rising interest rates.",
+      "rating": 9
+    },
+    {
+      "question": "What was the average gain in net interest margins for financial institutions in the United States and Europe?",
+      "answer": "The average gain in net interest margins was 22 basis points.",
+      "rating": 9
+    },
+    {
+      "question": "What was the return on equity (ROE) for financial institutions globally in 2022 and the estimated ROE for 2023?",
+      "answer": "The ROE for financial institutions rose to 12 percent in 2022 and looks set to reach 13 percent in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What was the net income for the banking sector in 2023?",
+      "answer": "The net income for the sector was $1.4 trillion in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "How did the Tier 1 ratio for global banks change in 2022-23?",
+      "answer": "The Tier 1 ratio globally reached 13.8 percent in 2022\u201323, the highest in a decade.",
+      "rating": 9
+    },
+    {
+      "question": "What was the change in the cost-income ratio for the banking sector?",
+      "answer": "The cost-income ratio dropped by seven percentage points.",
+      "rating": 7
+    },
+    {
+      "question": "What was the total value of assets intermediated by the financial services sector globally in 2022?",
+      "answer": "About $400 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "How much revenue did the financial services sector generate globally in 2022?",
+      "answer": "$6.8 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What was the average annual growth rate of intermediation since 2017?",
+      "answer": "About 6 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Which sectors were the most profitable in the financial services industry in 2022?",
+      "answer": "Wealth and asset management, capital markets infrastructure, and payments.",
+      "rating": 9
+    },
+    {
+      "question": "What was the trend in the share of intermediation revenue in capital markets in 2022?",
+      "answer": "The share declined by one percentage point to $480 billion.",
+      "rating": 7
+    },
+    {
+      "question": "What is driving the growth in global payments revenues?",
+      "answer": "The shift to contactless, digital payments and the demand for embedded finance.",
+      "rating": 9
+    },
+    {
+      "question": "What is driving the growth in global revenues in payments?",
+      "answer": "The shift to contactless, digital payments and the demand for embedded finance is driving the growth in global revenues in payments, especially in Asia.",
+      "rating": 9
+    },
+    {
+      "question": "What is embedded finance?",
+      "answer": "Embedded finance arises from partnerships between banks, technology providers, and distributors of financial products to embed financial products into nonfinancial platforms.",
+      "rating": 9
+    },
+    {
+      "question": "How much revenue does the global financial industry generate?",
+      "answer": "The global financial industry generates about $7 trillion in revenue.",
+      "rating": 8
+    },
+    {
+      "question": "What is the total amount of funds intermediated by the global financial industry?",
+      "answer": "The global financial industry intermediates $400 trillion in funds.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of total annual revenue from global financial intermediation comes from retail banking?",
+      "answer": "Retail banking accounts for 33% of total annual revenue from global financial intermediation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the characteristic of the strongest performers in the banking sector?",
+      "answer": "The strongest performers tend to use the balance sheet effectively, are customer-centric, are effective managers, and often lead on technology usage.",
+      "rating": 9
+    },
+    {
+      "question": "How did disruptions affect the banking sector?",
+      "answer": "The banking sector as a whole continues to trade below book value due to disruptions.",
+      "rating": 7
+    },
+    {
+      "question": "What were some of the major disruptions in 2022 and 2023 that contributed to the high degree of variance in banks' performance?",
+      "answer": "The disruptions related to geopolitical situations, such as Russia's war on Ukraine, surging inflation, rapid increases in interest rates, and the collapse of several leading cryptocurrency players, along with regulatory changes.",
+      "rating": 9
+    },
+    {
+      "question": "What has been the trend in the banking sector's price-to-book ratio (P/B) since the 2008 financial crisis?",
+      "answer": "The banking sector's price-to-book ratio (P/B) has remained largely flat since the 2008 financial crisis, at 0.9 in 2022.",
+      "rating": 8
+    },
+    {
+      "question": "What does the depressed P/B ratio in the banking sector suggest?",
+      "answer": "Depressed P/Bs suggest there may be significant upside: if the sector finds a path to a more future-proof business model, trillions of dollars in shareholder value could be created.",
+      "rating": 9
+    },
+    {
+      "question": "How does the banking sector's market valuation compare to other sectors?",
+      "answer": "The banking sector has the lowest market valuation, with a price-to-book ratio of 0.9 in 2022, suggesting that capital markets expect that ROE over time will remain below the cost of equity.",
+      "rating": 8
+    },
+    {
+      "question": "What is the potential outcome if the banking sector finds a path to a more future-proof business model?",
+      "answer": "Trillions of dollars in shareholder value could be created, which could also increase the sector's stability.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main reason for the banking industry's ROE being below the cost of equity since the global financial crisis in 2008?",
+      "answer": "Partly as a consequence of regulatory requirements in many countries.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the 1,000 largest banks globally were considered 'North Stars' in 2023?",
+      "answer": "12 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the predicted outcome if the banking sector finds a path to a more future-proof business model?",
+      "answer": "Trillions of dollars in shareholder value could be created.",
+      "rating": 8
+    },
+    {
+      "question": "How has the share of banks expected to have ROE below the cost of equity changed from 2022 to 2023?",
+      "answer": "The share rose to 58 percent in 2023 from 50 percent in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What type of institutions are considered 'asset light'?",
+      "answer": "Wealth and asset managers.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current price-to-book ratio for banks as of September 1, 2023?",
+      "answer": "0.8.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of banks fell into the category of being profitable but with longer-term challenges of value creation in 2023?",
+      "answer": "32 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the trend in the banking industry's Return on Equity (ROE) since the global financial crisis in 2008?",
+      "answer": "The industry's ROE has been below the cost of equity.",
+      "rating": 9
+    },
+    {
+      "question": "What are the four global trends that are contributing to the Great Banking Transition?",
+      "answer": "The uneven macroeconomic outlook, tighter regulation and government supervision, technology disruption, and systemic risk.",
+      "rating": 9
+    },
+    {
+      "question": "How have central banks in areas with high inflation been responding over the past 18 months?",
+      "answer": "They have been raising interest rates faster than in recent history.",
+      "rating": 9
+    },
+    {
+      "question": "What is one possible scenario for the medium-term outlook for interest rates?",
+      "answer": "Interest rates could stay at relatively elevated levels for longer amid continued inflation concerns.",
+      "rating": 9
+    },
+    {
+      "question": "What is the forecasted global GDP growth rate for 2023 and 2024?",
+      "answer": "About 3 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What has happened to the talk of a deeper recession in the United States and Europe?",
+      "answer": "It has mostly dissipated.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current sentiment of global executives about conditions in the global economy?",
+      "answer": "For the first time in more than a year, global executives are now more positive than negative.",
+      "rating": 9
+    },
+    {
+      "question": "What do many respondents in the McKinsey global survey say about the interest rate environment?",
+      "answer": "Rate levels may have peaked or could soon do so.",
+      "rating": 9
+    },
+    {
+      "question": "How has the sentiment about economic conditions changed in Europe, India, and North America over the past six months?",
+      "answer": "Respondents in these regions were more optimistic about economic conditions in their home countries than they were six months ago.",
+      "rating": 9
+    },
+    {
+      "question": "What has happened to the average annual GDP growth in China between 2021 and 2023 compared to 2012 and 2019?",
+      "answer": "It has slowed substantially, from an average of 7 percent between 2012 and 2019 to about 4 percent between 2021 and 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What is the expected impact of a prolonged period of high interest rates on the economy?",
+      "answer": "It would likely dampen growth and affect the housing market, consumer spending, job creation, and more.",
+      "rating": 8
+    },
+    {
+      "question": "When was the McKinsey global survey on economic conditions published?",
+      "answer": "July 2023.",
+      "rating": 8
+    },
+    {
+      "question": "What is the trend in respondents' perspectives on interest rate environment according to the McKinsey survey?",
+      "answer": "Many respondents say rate levels may have peaked or could soon do so.",
+      "rating": 9
+    },
+    {
+      "question": "Which regions were more optimistic about their economic conditions compared to six months prior to the survey?",
+      "answer": "Europe, India, and North America.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the average annual GDP growth in China between 2021 and 2023?",
+      "answer": "About 4 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the proposed Basel III 'endgame' expected to change?",
+      "answer": "The calculation of risk-weighted assets, potentially leading to significant increases in the capital requirements of large banks.",
+      "rating": 9
+    },
+    {
+      "question": "By how much is the US Federal Reserve Board estimating the common equity Tier 1 capital requirements for affected bank holding companies will increase due to the Basel III 'endgame' proposals?",
+      "answer": "An aggregate 16 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is 'open banking' and what has it led to?",
+      "answer": "Open banking enables the sharing of financial data between banks and third-party service providers, and has led to more calls for data protection and increased regulation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the trend in regulatory change according to the text?",
+      "answer": "Regulatory change is unlikely to decelerate and may also begin to encompass new and nontraditional business models.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated aggregate increase in common equity Tier 1 capital requirements for affected bank holding companies according to the US Federal Reserve Board?",
+      "answer": "16 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What has led to more calls for data protection and increased regulation in several geographies?",
+      "answer": "The growing adoption of open banking, which enables the sharing of financial data between banks and third-party service providers.",
+      "rating": 9
+    },
+    {
+      "question": "What type of requirements are being introduced across industries, including banking, in many countries?",
+      "answer": "Environmental, social, and governance (ESG) requirements.",
+      "rating": 9
+    },
+    {
+      "question": "What is happening to regulatory coverage in newer areas?",
+      "answer": "It is slowly expanding to areas such as digital assets, nonbanking financial intermediaries, and fast payments.",
+      "rating": 8
+    },
+    {
+      "question": "How have leading digital banks been using technology to improve customer experience?",
+      "answer": "They deploy personalization analytics and digital marketing campaigns, create an omnichannel experience, provide customer approvals in real time using automated credit-risk decisioning, and drive client self-servicing through well-designed digital workflows.",
+      "rating": 9
+    },
+    {
+      "question": "What has contributed to improved cost structures in financial institutions?",
+      "answer": "Rapid technological advancement in application programming interfaces (APIs), cloud, and tokenization, as well as in data and analytics.",
+      "rating": 8
+    },
+    {
+      "question": "What is expected to provide a significant productivity boost in banking?",
+      "answer": "Large language models that underpin generative AI technology.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential impact of gen AI on banking models?",
+      "answer": "Gen AI has the potential to truly change the shape of banking models.",
+      "rating": 7
+    },
+    {
+      "question": "Why could gen AI be different from other new technologies in banking?",
+      "answer": "Gen AI could be different for three main reasons: it could bring about a quantum leap in productivity and customer experience, it has a relatively low barrier to entry, and a significant part of its impact happens in the back and middle offices.",
+      "rating": 9
+    },
+    {
+      "question": "How should financial institutions approach the deployment of gen AI?",
+      "answer": "Financial institutions seeking to deploy gen AI will need a high metabolism rate coupled with a clearly defined risk appetite and controls, and may want to begin with a purpose-built gen AI framework, including considerations on risk and control.",
+      "rating": 9
+    },
+    {
+      "question": "What are some of the applications of gen AI in banking?",
+      "answer": "Gen AI can personalize the creation and editing of images, audio, and video, be used in chat-like customer service applications, predict or extract information from unstructured data, and search and extract key information about topics.",
+      "rating": 9
+    },
+    {
+      "question": "What are some limitations of gen AI?",
+      "answer": "Gen AI is still relatively novel, prone to errors and factual inaccuracy, and its value judgments are largely untested, making it unsuitable for high-stakes scenarios.",
+      "rating": 9
+    },
+    {
+      "question": "What is Gen AI prone to?",
+      "answer": "Errors and factual inaccuracy, or invention (known as 'hallucinations').",
+      "rating": 8
+    },
+    {
+      "question": "Why is Gen AI not suitable for high-stakes scenarios?",
+      "answer": "Because it is prone to errors, factual inaccuracy, or invention, and its value judgments are largely untested, which could cause harm or where verification or substantiation is difficult to provide in the moment.",
+      "rating": 9
+    },
+    {
+      "question": "In which areas can Gen AI potentially level up the banking value chain?",
+      "answer": "Marketing and sales, operations, technology, and legal, risk, and compliance.",
+      "rating": 8
+    },
+    {
+      "question": "How can Gen AI be used in marketing and sales?",
+      "answer": "To automatically create hyper-personalized content tailored to each customer, as a frontline assistant, conducting industry research, and proposal preparation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the estimated potential reduction in operating expenditures in the banking sector due to Gen AI?",
+      "answer": "Between $200 billion and $300 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What are some of the areas where Gen AI could have the largest impacts?",
+      "answer": "Marketing and sales, customer operations, investment servicing, software engineering, and risk and legal.",
+      "rating": 9
+    },
+    {
+      "question": "What has increased volatility and added new risks to the global economy?",
+      "answer": "Rising geopolitical tensions, the growth of trade restrictions, and black-swan events such as the COVID-19 pandemic.",
+      "rating": 9
+    },
+    {
+      "question": "How much could gen AI potentially reduce operating expenditures in the banking sector?",
+      "answer": "Between $200 billion and $300 billion.",
+      "rating": 8
+    },
+    {
+      "question": "Which areas could potentially feel the largest impacts from gen AI in the banking sector?",
+      "answer": "Marketing and sales, customer operations, investment servicing, software engineering, and risk and legal.",
+      "rating": 9
+    },
+    {
+      "question": "What has increased volatility and added new risks to the global economy?",
+      "answer": "Rising geopolitical tensions, the growth of trade restrictions, and black-swan events such as the COVID-19 pandemic.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of Russia's invasion of Ukraine on the Geopolitical Risk Index in 2022?",
+      "answer": "It reached a ten-year high.",
+      "rating": 8
+    },
+    {
+      "question": "How have customer preferences in banking changed?",
+      "answer": "Customers are increasingly drawn to hybrid and digital service offerings that are personalized and customized for their needs.",
+      "rating": 8
+    },
+    {
+      "question": "What was the trend in the issuance of sustainable bonds from 2016 to 2021?",
+      "answer": "It rose to $1.06 trillion in 2021 from almost zero, five years previously.",
+      "rating": 9
+    },
+    {
+      "question": "What is forecast for the issuance of sustainable bonds in 2023?",
+      "answer": "It is forecast to return to $900 billion to $1 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What was the total issuance of sustainable bonds in 2021?",
+      "answer": "$1.06 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "What is the forecasted issuance of sustainable bonds for 2023?",
+      "answer": "$900 billion to $1 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "What is primarily affecting the long-term profitability of balance-sheet-heavy banks?",
+      "answer": "The long-term contraction of global banking margins and ROE.",
+      "rating": 7
+    },
+    {
+      "question": "How much accounting profit does banking globally generate every year?",
+      "answer": "About $1 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "What are the largest contributors to the industry's $1 trillion in annual average profits?",
+      "answer": "Retail and wholesale banking.",
+      "rating": 8
+    },
+    {
+      "question": "What is the notional cost of capital for banks compared to their accounting profit?",
+      "answer": "The notional cost of capital amounts to about $1.2 trillion and exceeds the level of accounting profit.",
+      "rating": 9
+    },
+    {
+      "question": "What is the notional cost of capital for banks?",
+      "answer": "About $1.2 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What are the largest contributors to the banking industry's annual average profits?",
+      "answer": "Retail and wholesale banking.",
+      "rating": 7
+    },
+    {
+      "question": "What is the total global banking average net income from 2017 to 2023?",
+      "answer": "$970 billion.",
+      "rating": 8
+    },
+    {
+      "question": "How much equity does the banking sector employ for doing business?",
+      "answer": "About $12 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of equity for the banking sector?",
+      "answer": "About 10 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Which subsectors have had strong earnings-per-share (EPS) growth and value creation?",
+      "answer": "Payments companies.",
+      "rating": 7
+    },
+    {
+      "question": "What are the largest contributors to the banking industry's $1 trillion in annual average profits?",
+      "answer": "Retail and wholesale banking.",
+      "rating": 8
+    },
+    {
+      "question": "How much equity does the banking sector employ for doing business?",
+      "answer": "About $12 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the expected minimum profit in return for the banking sector's equity, given a cost of equity of 10 percent?",
+      "answer": "$1.2 trillion.",
+      "rating": 9
+    },
+    {
+      "question": "Which subsectors have had both strong earnings-per-share (EPS) growth and value creation?",
+      "answer": "Payments companies.",
+      "rating": 7
+    },
+    {
+      "question": "Are the BRICS countries the primary beneficiaries of the shifting geography of banking?",
+      "answer": "No, banking sectors in Asia, Latin America, and the Middle East and Africa are growing revenue faster as a whole.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average annual net income of the global banking industry from 2017 to 2023?",
+      "answer": "$970 billion.",
+      "rating": 8
+    },
+    {
+      "question": "Which subsector has seen a contraction in value despite higher EPS growth?",
+      "answer": "Mid-tier banks.",
+      "rating": 8
+    },
+    {
+      "question": "What was the revenue growth rate of the Middle East and Africa in 2022\u201323?",
+      "answer": "11 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the top-performing financial institutions globally are located in the Indo-Crescent region?",
+      "answer": "51 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of global banking assets is held by the Indo-Crescent region?",
+      "answer": "8 percent.",
+      "rating": 7
+    },
+    {
+      "question": "Which Indian bank is on track to become one of the world\u2019s largest banks by market capitalization after a merger?",
+      "answer": "HDFC.",
+      "rating": 8
+    },
+    {
+      "question": "What factors have enabled the superior performance of banks in the Indo-Crescent region?",
+      "answer": "Higher GDP and population growth in some of the Indo-Crescent countries, breakthrough disruptions, ecosystem plays, and cost-efficient service delivery models.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Indo-Crescent region home to in terms of best-performing banks?",
+      "answer": "Half of the best-performing banks that are achieving breakthrough growth.",
+      "rating": 8
+    },
+    {
+      "question": "What is happening to traditional universal banks in China?",
+      "answer": "They continue to face challenges with a high level of nonperforming loans.",
+      "rating": 8
+    },
+    {
+      "question": "Why are major Chinese banks trading at 0.5 times their book value?",
+      "answer": "They have limited prospects for achieving ROE higher than the cost of equity in 2023, partly due to challenges such as a real estate overhang.",
+      "rating": 9
+    },
+    {
+      "question": "What is driving the Great Banking Transition?",
+      "answer": "A deep and growing rift in the banking sector between core banking functions and more capital-light parts of the business, with funds moving toward nontraditional players and parts of the market.",
+      "rating": 9
+    },
+    {
+      "question": "What is influencing retail consumption and provincial debt levels?",
+      "answer": "Declines in real estate values.",
+      "rating": 8
+    },
+    {
+      "question": "How are banks responding to the challenges they face?",
+      "answer": "By exploring cost-saving opportunities through large-scale sophisticated digitization and, in some cases, salary adjustments.",
+      "rating": 9
+    },
+    {
+      "question": "What gives Chinese banks an extra layer of protection?",
+      "answer": "Government ownership.",
+      "rating": 8
+    },
+    {
+      "question": "What is happening to fintech regulations?",
+      "answer": "They have been tightened, including rules governing the financial aspects of super apps.",
+      "rating": 9
+    },
+    {
+      "question": "What is a priority for the banking sector to maintain customer confidence?",
+      "answer": "Increasing levels of risk management.",
+      "rating": 8
+    },
+    {
+      "question": "What new opportunities will emerge as incomes rise and more people gain access to the financial system?",
+      "answer": "Opportunities for wealth management, rural finance, and cross-border banking.",
+      "rating": 9
+    },
+    {
+      "question": "What has happened to almost all of China's peer-to-peer lending platforms?",
+      "answer": "They have been closed.",
+      "rating": 8
+    },
+    {
+      "question": "What is the result of the flow of assets from traditional financial institutions to nontraditional institutions?",
+      "answer": "The traditional core of the banking sector\u2014the balance sheet\u2014is at a tipping point, and this transition will reshape the other two pillars of banking: transactions and distribution.",
+      "rating": 9
+    },
+    {
+      "question": "What is enabling and accelerating the transition in the financial services industry?",
+      "answer": "Technological innovation.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current state of the banking sector's balance sheet?",
+      "answer": "The balance sheet is at a tipping point due to the growth of assets under management outside of banks' balance sheets.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three pillars of banking that are being affected by the Great Banking Transition?",
+      "answer": "The three pillars of banking being affected are the balance sheet, transactions, and distribution.",
+      "rating": 10
+    },
+    {
+      "question": "What is driving the growth of assets under management outside of banks' balance sheets?",
+      "answer": "Clients and customers are searching for higher returns, lower capital funding, or better matching durations of assets, leading to a migration of financial assets out of bank balance sheets and into non-banks or off-balance-sheet vehicles.",
+      "rating": 9
+    },
+    {
+      "question": "At what rate has financial stock that is off balance sheet been growing annually?",
+      "answer": "Financial stock that is off balance sheet has been growing at about 7 percent annually.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022?",
+      "answer": "More than 70 percent of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022.",
+      "rating": 9
+    },
+    {
+      "question": "Why are bank assets leaving banks?",
+      "answer": "Bank assets are leaving banks due to reasons related to business models or client service, such as other institutions being able to take more risk, better match durations and risk appetite, or having lower-cost or stickier funding.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the growth rate of financial stock that is off balance sheet annually?",
+      "answer": "7 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022?",
+      "answer": "More than 70 percent.",
+      "rating": 8
+    },
+    {
+      "question": "When did the migration of assets off the balance sheet accelerate?",
+      "answer": "After the global financial crisis in 2008.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the net increase in financial funds goes off the banking balance sheet in the United States?",
+      "answer": "More than 75 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the growth rate of off balance sheet assets in North America?",
+      "answer": "9 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What is the proportion of off-balance sheet in China?",
+      "answer": "Less than 30 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the growth rate of off-balance-sheet assets in North America?",
+      "answer": "9 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How does the growth rate of off-balance-sheet assets compare to on-balance-sheet assets in the Middle East?",
+      "answer": "Off-balance-sheet assets grew at 6 percent, while on-balance-sheet assets grew at 3 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the total net change in off-balance-sheet assets globally between 2015 and 2022?",
+      "answer": "The text does not provide a direct total, but it can be inferred that the total is the sum of the values across different regions: 48.8 (North America) + 11.6 (China) + 11.9 (Asia\u2013Pacific except China) + 14.4 (Europe) + 2.5 (Latin America) + 4.1 (Middle East and Africa) = 92.3 trillion dollars.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of global lending is accounted for by nonbank financial firms?",
+      "answer": "14 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the annual growth rate of private capital between 2015 and 2022?",
+      "answer": "Almost 20 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the growth rate of retail assets under management since 2015?",
+      "answer": "9 percent per annum.",
+      "rating": 8
+    },
+    {
+      "question": "What was the growth rate of private debt inflows in 2022?",
+      "answer": "29 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of wholesale loans in North America are private debt assets under management?",
+      "answer": "About 8 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the compound annual growth rate (CAGR) of private debt from 2015 to 2022?",
+      "answer": "18%.",
+      "rating": 9
+    },
+    {
+      "question": "What was the average annual growth rate of direct lending between 2015 and 2022?",
+      "answer": "13 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the growth rate of payment specialists' share of payment processing between 2015 and 2022?",
+      "answer": "More than 50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "Why have private financing channels become more popular?",
+      "answer": "They often have advantages including speed, flexibility, and convenience.",
+      "rating": 9
+    },
+    {
+      "question": "What was the change in market share of payment specialists in consumer digital payment processing between 2015 and 2022?",
+      "answer": "Their share of payment processing grew by more than 50 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the market share of specialized players in equity capital markets in 2015 and 2022?",
+      "answer": "In 2015, it was 44 percent, and in 2022, it was 59 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the trend in market share of independent asset managers not owned by a bank or insurer between 2017 and 2022?",
+      "answer": "Their market share increased from 77 percent to 81 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is happening to the distribution in banking?",
+      "answer": "Distribution is shifting toward hybrid models, including third-party transactions.",
+      "rating": 8
+    },
+    {
+      "question": "What was the change in market share of investment banks and broker-dealers in foreign-exchange transactions between 2015 and 2022?",
+      "answer": "Their market share increased from less than 1 percent to 22 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What has driven the transformation of banking distribution?",
+      "answer": "Technological innovation.",
+      "rating": 7
+    },
+    {
+      "question": "What is embedded finance?",
+      "answer": "The seamless integration of financial products and services into nonbanking products and business models.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential revenue of embedded finance in the European Economic Area and the United Kingdom by 2030?",
+      "answer": "\u20ac100 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What are the products that the embedded finance industry has focused on for rapid scale-up?",
+      "answer": "Payments, insurance, and point-of-sale lending.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential benefit of removing silos in banks' distribution channels?",
+      "answer": "Huge performance improvements, including a tripling of cross-selling and reduced operating costs.",
+      "rating": 9
+    },
+    {
+      "question": "How much of operating costs can distribution amount to in the banking industry?",
+      "answer": "As much as 25 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What type of institutions have been increasingly generating economic value and positive shareholder returns?",
+      "answer": "Institutions that are capital-light.",
+      "rating": 8
+    },
+    {
+      "question": "What was the ROE on balance sheet activities in 2017-22?",
+      "answer": "Between 5 and 7 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the economic profit on balance sheet activities in 2017-22?",
+      "answer": "A negative $600 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main difference in the impact of the Great Transition on financial institutions?",
+      "answer": "The impact of the Great Transition will differ according to business models and depending on the macroeconomic outlook.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of capital was accounted for by balance sheet activities from 2017 to 2022?",
+      "answer": "70 percent",
+      "rating": 8
+    },
+    {
+      "question": "Which business model has posted the highest growth in economic profit since 2017?",
+      "answer": "Transactions",
+      "rating": 8
+    },
+    {
+      "question": "What was the return on equity (ROE) for transactions from 2017 to 2022?",
+      "answer": "Between 18 and 23 percent",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of capital was invested by payments providers from 2017 to 2022?",
+      "answer": "2 percent",
+      "rating": 8
+    },
+    {
+      "question": "Which type of financial institutions are the most capital-intensive?",
+      "answer": "Traditional universal banks",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the capital invested in the financial system is accounted for by traditional universal banks?",
+      "answer": "85 percent",
+      "rating": 9
+    },
+    {
+      "question": "What has been the trend in value for traditional universal banks from 2018 to 2022?",
+      "answer": "They have been losing value at a rate of 1 to 2 percent",
+      "rating": 8
+    },
+    {
+      "question": "What has been the rate of value loss for investment banks and broker dealers, along with wealth and asset managers, over the 2018\u201322 period?",
+      "answer": "1 to 2 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How do the valuations of payment providers compare to traditional banks in terms of price-to-book ratio?",
+      "answer": "Payment providers have a price-to-book ratio that is about seven times the average valuation of traditional banks.",
+      "rating": 9
+    },
+    {
+      "question": "What is the price-to-book ratio of capital market infrastructure providers relative to traditional banks?",
+      "answer": "About three times as high.",
+      "rating": 8
+    },
+    {
+      "question": "How have higher interest rates potentially impacted traditional banks?",
+      "answer": "Higher rates (and spreads) can potentially bring about a revival in their prospects.",
+      "rating": 9
+    },
+    {
+      "question": "Which business models may be negatively impacted in a high-interest-rate environment?",
+      "answer": "Consumer finance players and payment providers.",
+      "rating": 9
+    },
+    {
+      "question": "Why may certain banks struggle to adjust to a high-interest-rate environment?",
+      "answer": "Because of regulation, political pressure, or business model.",
+      "rating": 9
+    },
+    {
+      "question": "What may accelerate some business areas that would have languished or been unprofitable when interest rates were low?",
+      "answer": "A higher-interest-rate environment.",
+      "rating": 8
+    },
+    {
+      "question": "What type of business models could be negatively impacted in a high-interest-rate environment?",
+      "answer": "Consumer finance players and payment providers.",
+      "rating": 7
+    },
+    {
+      "question": "What is enabling and accelerating the Great Banking Transition?",
+      "answer": "Technological innovation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of technological innovation on activities where scale and capabilities matter?",
+      "answer": "Continuous pressure.",
+      "rating": 7
+    },
+    {
+      "question": "What is likely to become increasingly prevalent and a significant differentiator among banks due to technological advancements?",
+      "answer": "Tech-fueled competition.",
+      "rating": 8
+    },
+    {
+      "question": "What have successful banks been deploying to improve productivity?",
+      "answer": "Tech-backed business strategies with clear value at stake.",
+      "rating": 8
+    },
+    {
+      "question": "What is the relationship between technology investment and bank performance?",
+      "answer": "Banks that are leaders in technology investment tend to outperform others.",
+      "rating": 9
+    },
+    {
+      "question": "How do high-performing European banks compare to low performers in terms of technology expenses?",
+      "answer": "High-performing European banks spend significantly more on technology than low performers.",
+      "rating": 9
+    },
+    {
+      "question": "What was the average return on assets for top quartile and bottom quartile?",
+      "answer": "1.3% for top quartile and 0.2% for bottom quartile.",
+      "rating": 9
+    },
+    {
+      "question": "What was the average cost-to-income ratio for top quartile and bottom quartile?",
+      "answer": "40% for top quartile and 75% for bottom quartile.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of full-time equivalents in technology delivery organizations are engineers in banks that focus on engineering excellence?",
+      "answer": "About 75 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How did one institution develop a new proposition using platform-oriented architecture?",
+      "answer": "By building it, based on software-as-a-service (SaaS) banking components, in just nine months.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of applications can be hosted on the public cloud by institutions adopting automated infrastructure and public cloud?",
+      "answer": "More than half.",
+      "rating": 7
+    },
+    {
+      "question": "What are the three horizons across which financial players are moving?",
+      "answer": "Core business transformation, use of platform-based architecture or behind-the-scenes integration of AI into operations, and targeted productivity enhancement.",
+      "rating": 9
+    },
+    {
+      "question": "What are the five priorities outlined to help institutions survive and thrive during the Great Banking Transition?",
+      "answer": "Exploiting technology and AI, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution and the customer relationship, and adapting to a changed risk environment.",
+      "rating": 9
+    },
+    {
+      "question": "What are the five possible priorities that could help banking institutions survive and thrive?",
+      "answer": "Exploiting technology and AI, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution and the customer relationship, and adapting to a changed risk environment.",
+      "rating": 9
+    },
+    {
+      "question": "Why is technology considered a game changer for banks?",
+      "answer": "When used with skill and creativity and fully integrated into an institution's ecosystem and operating model.",
+      "rating": 8
+    },
+    {
+      "question": "How much more do leaders in some geographies, such as Europe, invest in technology compared to laggards?",
+      "answer": "2.5 times more.",
+      "rating": 8
+    },
+    {
+      "question": "What is one way for banks to future-proof their tech foundation?",
+      "answer": "By cultivating a cloud-based, platform-oriented architecture that allows for continuous innovation and the ability to implement next-generation capabilities.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of DevSecOps in banking?",
+      "answer": "To integrate security as a shared responsibility throughout the entire IT life cycle and allow organizations to deploy new code rapidly.",
+      "rating": 9
+    },
+    {
+      "question": "What is one option for banks to capture the AI opportunity?",
+      "answer": "To deploy process automation, platforms, and ecosystems across customer services to provide better and more efficient services, front to back.",
+      "rating": 9
+    },
+    {
+      "question": "Why might financial institutions want to reduce their balance sheet and move business off balance sheet?",
+      "answer": "To create opportunities to distribute risk to a broader set of investors.",
+      "rating": 9
+    },
+    {
+      "question": "What does DevSecOps stand for?",
+      "answer": "DevSecOps stands for development, security, and operations.",
+      "rating": 10
+    },
+    {
+      "question": "What is the main idea behind flexing in banking?",
+      "answer": "Flexing implies active use of syndication, including for loans; originate-to-distribute; and third-party balance sheets.",
+      "rating": 9
+    },
+    {
+      "question": "What is meant by unbundling the balance sheet in banking?",
+      "answer": "Unbundling the balance sheet means separating out customer-facing businesses from BaaS businesses and using technology to radically restructure costs.",
+      "rating": 9
+    },
+    {
+      "question": "What are the benefits of flexing or unbundling the balance sheet for banks?",
+      "answer": "The benefits include customer service and business capacity, capital optimization, and portfolio and risk optimization.",
+      "rating": 8
+    },
+    {
+      "question": "How may flexing or unbundling shift the lending business model?",
+      "answer": "It may shift the lending business model from being primarily spread income based to one that includes fee income from distributed assets.",
+      "rating": 9
+    },
+    {
+      "question": "What opportunities does unbundling provide for customer-facing banking business?",
+      "answer": "Unbundling allows financial institutions to double down in prioritized growth products and services that are customer facing.",
+      "rating": 8
+    },
+    {
+      "question": "What are the typical ROE and cost of equity ranges for customer-facing banking businesses?",
+      "answer": "The average ROEs are between 16 and 18 percent and cost of equity is between about 10 and 12 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What are the roles that BaaS providers can take on?",
+      "answer": "BaaS providers can be utility providers or balance sheet providers, delivering regulatory expertise, back-office services, access to capital, and liability management.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical ROE and cost of equity achieved by BaaS providers?",
+      "answer": "6 to 8 percent",
+      "rating": 7
+    },
+    {
+      "question": "What opportunity does The Great Banking Transition provide for banks?",
+      "answer": "To reimagine risk management and revamp capabilities to manage credit and liquidity risks with increased efficiency",
+      "rating": 9
+    },
+    {
+      "question": "What is the key to success in transaction businesses according to best-practice examples?",
+      "answer": "Scale in a particular market or product",
+      "rating": 8
+    },
+    {
+      "question": "What are the three considerations for scaling or exiting transaction businesses?",
+      "answer": "Decide whether to scale or exit, aggressively pursue economies of scale, and leverage partners to help with exits",
+      "rating": 9
+    },
+    {
+      "question": "How can scale be achieved in transaction businesses?",
+      "answer": "Through mergers and acquisitions, or by finding a niche in which to go deep, or by covering an entire market",
+      "rating": 9
+    },
+    {
+      "question": "What makes switching and managing partners easier in transaction businesses?",
+      "answer": "Modern tech foundations, especially cloud and APIs",
+      "rating": 8
+    },
+    {
+      "question": "What is an essential element of thriving during The Great Banking Transition?",
+      "answer": "Connecting or reconnecting with customers",
+      "rating": 8
+    },
+    {
+      "question": "How can banks innovate their interaction with clients?",
+      "answer": "Through hybrid and digital models, particularly in advisory services",
+      "rating": 9
+    },
+    {
+      "question": "What are the several paths that can help achieve a certain goal in the banking industry?",
+      "answer": "Innovate how to interact with clients through hybrid and digital models, decide on a strategy toward third-party distribution, stop leakage where possible, and involve private, corporate, and merchant banking.",
+      "rating": 7
+    },
+    {
+      "question": "What is Priority 5 in The Global Banking Annual Review 2023?",
+      "answer": "Adapting to a changed risk environment.",
+      "rating": 9
+    },
+    {
+      "question": "What complex issues are chief risk officers in financial organizations dealing with?",
+      "answer": "The macroeconomic context featuring inflation and geopolitical uncertainty, an uncertain growth outlook, potential credit challenges, the regulatory environment, and the exponential integration of advanced analytics into the banking ecosystem.",
+      "rating": 9
+    },
+    {
+      "question": "Why will the risk function become a significant differentiating factor for banks relative to nonbanks?",
+      "answer": "Because many activities are transitioning outside the perimeter of bank-specific regulation, and trust, confidence, and security will play an increasingly important role in clients' and customers' minds.",
+      "rating": 9
+    },
+    {
+      "question": "What are some no-regret actions that risk functions can take to adapt to the evolving landscape?",
+      "answer": "Elevate the risk narrative to make it a true differentiator, further strengthen the first line and embed risk into day-to-day activities, and invest in newer risk activity areas driven by the growth of gen AI and other advanced analytical techniques.",
+      "rating": 9
+    },
+    {
+      "question": "What is the dominant underlying theme for the banking sector?",
+      "answer": "The Great Banking Transition.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the global balance sheet has transitioned?",
+      "answer": "More than half.",
+      "rating": 7
+    },
+    {
+      "question": "What is one of the 'no-regret actions' that risk functions can take?",
+      "answer": "Elevate the risk narrative to make it a true differentiator.",
+      "rating": 8
+    },
+    {
+      "question": "What is the importance of data treated as in the banking sector?",
+      "answer": "An asset that requires the right governance, operating model, and controls.",
+      "rating": 9
+    },
+    {
+      "question": "What should banks focus on instead of process?",
+      "answer": "Outcomes.",
+      "rating": 7
+    },
+    {
+      "question": "How can banks prepare for increased regulatory scrutiny?",
+      "answer": "Through increased foresight, scenario planning, and stress testing; improve transparency and depth of reporting; increase focus on operational resilience; and prepare for faster response times.",
+      "rating": 9
+    },
+    {
+      "question": "What is the potential upside for banks if they can find a business model that reduces the sector's valuation discount?",
+      "answer": "Enormous value creation.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main theme of The Global Banking Annual Review 2023?",
+      "answer": "The Great Banking Transition.",
+      "rating": 8
+    },
+    {
+      "question": "According to the report, what do banks need to do to create a new era of value creation?",
+      "answer": "They need to parse their balance sheet, transaction, and distribution businesses to identify which create value or provide a competitive advantage, and have powerful new technologies and a revised mindset.",
+      "rating": 9
+    },
+    {
+      "question": "Who are the authors of The Global Banking Annual Review 2023?",
+      "answer": "Debopriyo Bhattacharyya, Asheet Mehta, Miklos Dietz, Alexander Edlich, and Reinhard H\u00f6ll.",
+      "rating": 10
+    },
+    {
+      "question": "What is McKinsey Panorama?",
+      "answer": "McKinsey's proprietary banking research arm.",
+      "rating": 8
+    },
+    {
+      "question": "When was The Global Banking Annual Review 2023 published?",
+      "answer": "October 2023.",
+      "rating": 8
+    },
+    {
+      "question": "What is the title of the publication?",
+      "answer": "The Global Banking Annual Review 2023: The Great Banking Transition",
+      "rating": 10
+    },
+    {
+      "question": "When was the publication released?",
+      "answer": "October 2023",
+      "rating": 10
+    },
+    {
+      "question": "Who is the publisher of the report?",
+      "answer": "McKinsey & Company",
+      "rating": 10
+    },
+    {
+      "question": "What is the recommended course of action before undertaking complex financial transactions based on this publication?",
+      "answer": "Consulting appropriate professional advisers",
+      "rating": 9
+    },
+    {
+      "question": "How can one obtain permission to copy or redistribute the publication?",
+      "answer": "By obtaining the prior written consent of McKinsey & Company",
+      "rating": 10
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the authors of the Global Banking Annual Review 2023 report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Debopriyo Bhattacharyya, Miklos Dietz, Alexander Edlich, Reinhard H\u00f6ll, Asheet Mehta, Brian Weintraub, and Eckart Windhagen."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main theme of the Global Banking Annual Review 2023 report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Great Banking Transition, analyzing causes and effects of changes in the banking sector."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the best period for global banking overall since at least 2007?"
+      },
+      {
+        "role": "assistant",
+        "content": "The past 18 months, as rising interest rates have boosted profits in a more benign credit environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where have balance sheets and transactions increasingly moved to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nontraditional institutions and parts of the market that are capital-light and often differently regulated, such as digital payment specialists and private markets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the net increase of financial funds ended up not on banking balance sheets between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 70 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five priorities suggested for financial institutions to future-proof themselves?"
+      },
+      {
+        "role": "assistant",
+        "content": "Exploiting leading technologies (including AI), flexing and potentially even unbundling the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five key areas financial institutions need to examine to assess their competitive advantages?"
+      },
+      {
+        "role": "assistant",
+        "content": "Exploiting leading technologies (including AI), flexing and potentially even unbundling the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has driven the recent upturn in the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 500-basis-point increase in interest rates since the second quarter of 2022 in the United States, echoed in other developed economies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did the sector's profits increase by in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $280 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the return on equity (ROE) in 2022 and expected ROE in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 percent in 2022 and an expected 13 percent in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the trend in the cost-income ratio from 2012 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost-income ratio dropped by seven percentage points from 59 percent in 2012 to about 52 percent in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are half of the best-performing banks in the world located?"
+      },
+      {
+        "role": "assistant",
+        "content": "Along the crescent formed by the Indian Ocean, stretching from Singapore to India, Dubai, and parts of eastern Africa."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What characterizes the strongest performers in the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "They tend to use the balance sheet effectively, are customer centric, and often lead on technology usage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the price-to-book ratio of banks in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.9"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected increase in the banking sector's value added for every 0.1-times improvement in the price-to-book ratio?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than $1 trillion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four global trends shaping the outlook for financial institutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "A shift in the macroeconomic environment, technological progress, broadening and deepening regulatory scrutiny, and shifting systemic risk"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated impact of generative AI on productivity and operating expenditures?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 3 to 5 percent increase in productivity and a reduction in operating expenditures of between $200 billion and $300 billion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the net increase in financial funds ended up off banking balance sheets in the United States and Europe?"
+      },
+      {
+        "role": "assistant",
+        "content": "75 percent in the United States and about 55 percent in Europe"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not directly define the Great Banking Transition, but it implies that it is a period of significant change in the banking industry driven by various factors including macroeconomic developments, technology, regulation, risk, and scale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the key trends that financial institutions need to adapt to during the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key trends that financial institutions need to adapt to are technology, regulation, risk, and scale."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five priorities outlined for financial institutions to consider during the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "The five priorities are: 1) Exploiting technology and AI to boost productivity, 2) Flexing and even unbundling the balance sheet, 3) Scaling or exiting transaction businesses, 4) Leveling up distribution to sell to customers and advise them, and 5) Adapting to changing risks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can financial institutions utilize technology during the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial institutions can utilize technology by capturing the AI opportunity, deploying process automation, operating more like a tech company, cultivating a cloud-based architecture, and improving capabilities to address technology risks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is meant by 'flexing and unbundling the balance sheet'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flexing the balance sheet implies active use of syndication, originate-to-distribute models, and third-party balance sheets, while unbundling involves separating out customer-facing businesses from banking-as-a-service businesses and using technology to restructure costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way financial institutions can create opportunities to serve customer needs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deciding on a strategy for third-party distribution, which could be via partnerships to create embedded finance opportunities or platform-based models."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the risks that financial institutions need to stay on top of?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inflation, an unclear growth outlook, potential credit challenges in specific sectors, changing regulatory requirements, cyber and fraud, and the integration of advanced analytics and AI into the banking system."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can banks manage the risks associated with the ever-evolving risk environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "By elevating the risk function to make it a potential differentiator, highlighting the bank's resilience based on its track record of managing systemic risk and liquidity, and further strengthening the first line and embedding risk in day-to-day activities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What will be determinative for financial institutions in the years ahead?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scale and specialization, as well as value-creating diversification."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the focus of the 2022 Global Banking Annual Review?"
+      },
+      {
+        "role": "assistant",
+        "content": "How the world of banking was entering a period of sudden volatility after years of relative stability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the trend for key indicators for the banking industry globally?"
+      },
+      {
+        "role": "assistant",
+        "content": "Key indicators, including return on equity (ROE) and capital ratios, have risen after long periods of decline."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What have been the best years for some banks in Europe and the United States since 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "2022 and the first half of 2023 have been the best in more than a decade."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where are half of the world's best-performing banks now located?"
+      },
+      {
+        "role": "assistant",
+        "content": "In countries forming a crescent around the Indian Ocean."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to financial institutions as a whole in terms of their valuation?"
+      },
+      {
+        "role": "assistant",
+        "content": "They continue to trade below their book value."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main theme of this year's Global Banking Annual Review?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Great Banking Transition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors are driving the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Shifts in balance sheets, transactions, and distribution that have been leaving banks to go to nontraditional institutions and other parts of the market."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the traditional model of capital-heavy banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "It still needs to reinvent itself to ensure its own future\u2014and to do so swiftly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the trend in net interest margins for banks in Europe and North America in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banks, especially in Europe and North America, registered gains in net interest margins in 2022 on the back of rising interest rates."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the average gain in net interest margins for financial institutions in the United States and Europe?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average gain in net interest margins was 22 basis points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the return on equity (ROE) for financial institutions globally in 2022 and the estimated ROE for 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ROE for financial institutions rose to 12 percent in 2022 and looks set to reach 13 percent in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the net income for the banking sector in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The net income for the sector was $1.4 trillion in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the Tier 1 ratio for global banks change in 2022-23?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Tier 1 ratio globally reached 13.8 percent in 2022\u201323, the highest in a decade."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in the cost-income ratio for the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost-income ratio dropped by seven percentage points."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total value of assets intermediated by the financial services sector globally in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $400 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much revenue did the financial services sector generate globally in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$6.8 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the average annual growth rate of intermediation since 2017?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which sectors were the most profitable in the financial services industry in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wealth and asset management, capital markets infrastructure, and payments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the trend in the share of intermediation revenue in capital markets in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The share declined by one percentage point to $480 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is driving the growth in global payments revenues?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shift to contactless, digital payments and the demand for embedded finance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is driving the growth in global revenues in payments?"
+      },
+      {
+        "role": "assistant",
+        "content": "The shift to contactless, digital payments and the demand for embedded finance is driving the growth in global revenues in payments, especially in Asia."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is embedded finance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Embedded finance arises from partnerships between banks, technology providers, and distributors of financial products to embed financial products into nonfinancial platforms."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much revenue does the global financial industry generate?"
+      },
+      {
+        "role": "assistant",
+        "content": "The global financial industry generates about $7 trillion in revenue."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total amount of funds intermediated by the global financial industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "The global financial industry intermediates $400 trillion in funds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of total annual revenue from global financial intermediation comes from retail banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retail banking accounts for 33% of total annual revenue from global financial intermediation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the characteristic of the strongest performers in the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "The strongest performers tend to use the balance sheet effectively, are customer-centric, are effective managers, and often lead on technology usage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did disruptions affect the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "The banking sector as a whole continues to trade below book value due to disruptions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were some of the major disruptions in 2022 and 2023 that contributed to the high degree of variance in banks' performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The disruptions related to geopolitical situations, such as Russia's war on Ukraine, surging inflation, rapid increases in interest rates, and the collapse of several leading cryptocurrency players, along with regulatory changes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the trend in the banking sector's price-to-book ratio (P/B) since the 2008 financial crisis?"
+      },
+      {
+        "role": "assistant",
+        "content": "The banking sector's price-to-book ratio (P/B) has remained largely flat since the 2008 financial crisis, at 0.9 in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does the depressed P/B ratio in the banking sector suggest?"
+      },
+      {
+        "role": "assistant",
+        "content": "Depressed P/Bs suggest there may be significant upside: if the sector finds a path to a more future-proof business model, trillions of dollars in shareholder value could be created."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the banking sector's market valuation compare to other sectors?"
+      },
+      {
+        "role": "assistant",
+        "content": "The banking sector has the lowest market valuation, with a price-to-book ratio of 0.9 in 2022, suggesting that capital markets expect that ROE over time will remain below the cost of equity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential outcome if the banking sector finds a path to a more future-proof business model?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trillions of dollars in shareholder value could be created, which could also increase the sector's stability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason for the banking industry's ROE being below the cost of equity since the global financial crisis in 2008?"
+      },
+      {
+        "role": "assistant",
+        "content": "Partly as a consequence of regulatory requirements in many countries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the 1,000 largest banks globally were considered 'North Stars' in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the predicted outcome if the banking sector finds a path to a more future-proof business model?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trillions of dollars in shareholder value could be created."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the share of banks expected to have ROE below the cost of equity changed from 2022 to 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The share rose to 58 percent in 2023 from 50 percent in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of institutions are considered 'asset light'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wealth and asset managers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current price-to-book ratio for banks as of September 1, 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.8."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of banks fell into the category of being profitable but with longer-term challenges of value creation in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "32 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the trend in the banking industry's Return on Equity (ROE) since the global financial crisis in 2008?"
+      },
+      {
+        "role": "assistant",
+        "content": "The industry's ROE has been below the cost of equity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four global trends that are contributing to the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "The uneven macroeconomic outlook, tighter regulation and government supervision, technology disruption, and systemic risk."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have central banks in areas with high inflation been responding over the past 18 months?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have been raising interest rates faster than in recent history."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one possible scenario for the medium-term outlook for interest rates?"
+      },
+      {
+        "role": "assistant",
+        "content": "Interest rates could stay at relatively elevated levels for longer amid continued inflation concerns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the forecasted global GDP growth rate for 2023 and 2024?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 3 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has happened to the talk of a deeper recession in the United States and Europe?"
+      },
+      {
+        "role": "assistant",
+        "content": "It has mostly dissipated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current sentiment of global executives about conditions in the global economy?"
+      },
+      {
+        "role": "assistant",
+        "content": "For the first time in more than a year, global executives are now more positive than negative."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do many respondents in the McKinsey global survey say about the interest rate environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rate levels may have peaked or could soon do so."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the sentiment about economic conditions changed in Europe, India, and North America over the past six months?"
+      },
+      {
+        "role": "assistant",
+        "content": "Respondents in these regions were more optimistic about economic conditions in their home countries than they were six months ago."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has happened to the average annual GDP growth in China between 2021 and 2023 compared to 2012 and 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "It has slowed substantially, from an average of 7 percent between 2012 and 2019 to about 4 percent between 2021 and 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected impact of a prolonged period of high interest rates on the economy?"
+      },
+      {
+        "role": "assistant",
+        "content": "It would likely dampen growth and affect the housing market, consumer spending, job creation, and more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the McKinsey global survey on economic conditions published?"
+      },
+      {
+        "role": "assistant",
+        "content": "July 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the trend in respondents' perspectives on interest rate environment according to the McKinsey survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many respondents say rate levels may have peaked or could soon do so."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which regions were more optimistic about their economic conditions compared to six months prior to the survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Europe, India, and North America."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the average annual GDP growth in China between 2021 and 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 4 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the proposed Basel III 'endgame' expected to change?"
+      },
+      {
+        "role": "assistant",
+        "content": "The calculation of risk-weighted assets, potentially leading to significant increases in the capital requirements of large banks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much is the US Federal Reserve Board estimating the common equity Tier 1 capital requirements for affected bank holding companies will increase due to the Basel III 'endgame' proposals?"
+      },
+      {
+        "role": "assistant",
+        "content": "An aggregate 16 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is 'open banking' and what has it led to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Open banking enables the sharing of financial data between banks and third-party service providers, and has led to more calls for data protection and increased regulation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the trend in regulatory change according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regulatory change is unlikely to decelerate and may also begin to encompass new and nontraditional business models."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated aggregate increase in common equity Tier 1 capital requirements for affected bank holding companies according to the US Federal Reserve Board?"
+      },
+      {
+        "role": "assistant",
+        "content": "16 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has led to more calls for data protection and increased regulation in several geographies?"
+      },
+      {
+        "role": "assistant",
+        "content": "The growing adoption of open banking, which enables the sharing of financial data between banks and third-party service providers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of requirements are being introduced across industries, including banking, in many countries?"
+      },
+      {
+        "role": "assistant",
+        "content": "Environmental, social, and governance (ESG) requirements."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to regulatory coverage in newer areas?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is slowly expanding to areas such as digital assets, nonbanking financial intermediaries, and fast payments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have leading digital banks been using technology to improve customer experience?"
+      },
+      {
+        "role": "assistant",
+        "content": "They deploy personalization analytics and digital marketing campaigns, create an omnichannel experience, provide customer approvals in real time using automated credit-risk decisioning, and drive client self-servicing through well-designed digital workflows."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has contributed to improved cost structures in financial institutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rapid technological advancement in application programming interfaces (APIs), cloud, and tokenization, as well as in data and analytics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is expected to provide a significant productivity boost in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Large language models that underpin generative AI technology."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential impact of gen AI on banking models?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gen AI has the potential to truly change the shape of banking models."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why could gen AI be different from other new technologies in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gen AI could be different for three main reasons: it could bring about a quantum leap in productivity and customer experience, it has a relatively low barrier to entry, and a significant part of its impact happens in the back and middle offices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How should financial institutions approach the deployment of gen AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial institutions seeking to deploy gen AI will need a high metabolism rate coupled with a clearly defined risk appetite and controls, and may want to begin with a purpose-built gen AI framework, including considerations on risk and control."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the applications of gen AI in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gen AI can personalize the creation and editing of images, audio, and video, be used in chat-like customer service applications, predict or extract information from unstructured data, and search and extract key information about topics."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some limitations of gen AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gen AI is still relatively novel, prone to errors and factual inaccuracy, and its value judgments are largely untested, making it unsuitable for high-stakes scenarios."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gen AI prone to?"
+      },
+      {
+        "role": "assistant",
+        "content": "Errors and factual inaccuracy, or invention (known as 'hallucinations')."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is Gen AI not suitable for high-stakes scenarios?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because it is prone to errors, factual inaccuracy, or invention, and its value judgments are largely untested, which could cause harm or where verification or substantiation is difficult to provide in the moment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "In which areas can Gen AI potentially level up the banking value chain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marketing and sales, operations, technology, and legal, risk, and compliance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can Gen AI be used in marketing and sales?"
+      },
+      {
+        "role": "assistant",
+        "content": "To automatically create hyper-personalized content tailored to each customer, as a frontline assistant, conducting industry research, and proposal preparation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated potential reduction in operating expenditures in the banking sector due to Gen AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between $200 billion and $300 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the areas where Gen AI could have the largest impacts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marketing and sales, customer operations, investment servicing, software engineering, and risk and legal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has increased volatility and added new risks to the global economy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rising geopolitical tensions, the growth of trade restrictions, and black-swan events such as the COVID-19 pandemic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much could gen AI potentially reduce operating expenditures in the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between $200 billion and $300 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which areas could potentially feel the largest impacts from gen AI in the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "Marketing and sales, customer operations, investment servicing, software engineering, and risk and legal."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has increased volatility and added new risks to the global economy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rising geopolitical tensions, the growth of trade restrictions, and black-swan events such as the COVID-19 pandemic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of Russia's invasion of Ukraine on the Geopolitical Risk Index in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "It reached a ten-year high."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have customer preferences in banking changed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Customers are increasingly drawn to hybrid and digital service offerings that are personalized and customized for their needs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the trend in the issuance of sustainable bonds from 2016 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "It rose to $1.06 trillion in 2021 from almost zero, five years previously."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is forecast for the issuance of sustainable bonds in 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is forecast to return to $900 billion to $1 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total issuance of sustainable bonds in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.06 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the forecasted issuance of sustainable bonds for 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "$900 billion to $1 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is primarily affecting the long-term profitability of balance-sheet-heavy banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The long-term contraction of global banking margins and ROE."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much accounting profit does banking globally generate every year?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $1 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the largest contributors to the industry's $1 trillion in annual average profits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retail and wholesale banking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the notional cost of capital for banks compared to their accounting profit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The notional cost of capital amounts to about $1.2 trillion and exceeds the level of accounting profit."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the notional cost of capital for banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $1.2 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the largest contributors to the banking industry's annual average profits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retail and wholesale banking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total global banking average net income from 2017 to 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "$970 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much equity does the banking sector employ for doing business?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $12 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of equity for the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 10 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which subsectors have had strong earnings-per-share (EPS) growth and value creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Payments companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the largest contributors to the banking industry's $1 trillion in annual average profits?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retail and wholesale banking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much equity does the banking sector employ for doing business?"
+      },
+      {
+        "role": "assistant",
+        "content": "About $12 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the expected minimum profit in return for the banking sector's equity, given a cost of equity of 10 percent?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1.2 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which subsectors have had both strong earnings-per-share (EPS) growth and value creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Payments companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are the BRICS countries the primary beneficiaries of the shifting geography of banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, banking sectors in Asia, Latin America, and the Middle East and Africa are growing revenue faster as a whole."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average annual net income of the global banking industry from 2017 to 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "$970 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which subsector has seen a contraction in value despite higher EPS growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mid-tier banks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the revenue growth rate of the Middle East and Africa in 2022\u201323?"
+      },
+      {
+        "role": "assistant",
+        "content": "11 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the top-performing financial institutions globally are located in the Indo-Crescent region?"
+      },
+      {
+        "role": "assistant",
+        "content": "51 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of global banking assets is held by the Indo-Crescent region?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which Indian bank is on track to become one of the world\u2019s largest banks by market capitalization after a merger?"
+      },
+      {
+        "role": "assistant",
+        "content": "HDFC."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What factors have enabled the superior performance of banks in the Indo-Crescent region?"
+      },
+      {
+        "role": "assistant",
+        "content": "Higher GDP and population growth in some of the Indo-Crescent countries, breakthrough disruptions, ecosystem plays, and cost-efficient service delivery models."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Indo-Crescent region home to in terms of best-performing banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half of the best-performing banks that are achieving breakthrough growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to traditional universal banks in China?"
+      },
+      {
+        "role": "assistant",
+        "content": "They continue to face challenges with a high level of nonperforming loans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are major Chinese banks trading at 0.5 times their book value?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have limited prospects for achieving ROE higher than the cost of equity in 2023, partly due to challenges such as a real estate overhang."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is driving the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "A deep and growing rift in the banking sector between core banking functions and more capital-light parts of the business, with funds moving toward nontraditional players and parts of the market."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is influencing retail consumption and provincial debt levels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Declines in real estate values."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How are banks responding to the challenges they face?"
+      },
+      {
+        "role": "assistant",
+        "content": "By exploring cost-saving opportunities through large-scale sophisticated digitization and, in some cases, salary adjustments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What gives Chinese banks an extra layer of protection?"
+      },
+      {
+        "role": "assistant",
+        "content": "Government ownership."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to fintech regulations?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have been tightened, including rules governing the financial aspects of super apps."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a priority for the banking sector to maintain customer confidence?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increasing levels of risk management."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What new opportunities will emerge as incomes rise and more people gain access to the financial system?"
+      },
+      {
+        "role": "assistant",
+        "content": "Opportunities for wealth management, rural finance, and cross-border banking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has happened to almost all of China's peer-to-peer lending platforms?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have been closed."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the flow of assets from traditional financial institutions to nontraditional institutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The traditional core of the banking sector\u2014the balance sheet\u2014is at a tipping point, and this transition will reshape the other two pillars of banking: transactions and distribution."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is enabling and accelerating the transition in the financial services industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Technological innovation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current state of the banking sector's balance sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "The balance sheet is at a tipping point due to the growth of assets under management outside of banks' balance sheets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three pillars of banking that are being affected by the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "The three pillars of banking being affected are the balance sheet, transactions, and distribution."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is driving the growth of assets under management outside of banks' balance sheets?"
+      },
+      {
+        "role": "assistant",
+        "content": "Clients and customers are searching for higher returns, lower capital funding, or better matching durations of assets, leading to a migration of financial assets out of bank balance sheets and into non-banks or off-balance-sheet vehicles."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what rate has financial stock that is off balance sheet been growing annually?"
+      },
+      {
+        "role": "assistant",
+        "content": "Financial stock that is off balance sheet has been growing at about 7 percent annually."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 70 percent of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are bank assets leaving banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bank assets are leaving banks due to reasons related to business models or client service, such as other institutions being able to take more risk, better match durations and risk appetite, or having lower-cost or stickier funding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the growth rate of financial stock that is off balance sheet annually?"
+      },
+      {
+        "role": "assistant",
+        "content": "7 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 70 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the migration of assets off the balance sheet accelerate?"
+      },
+      {
+        "role": "assistant",
+        "content": "After the global financial crisis in 2008."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the net increase in financial funds goes off the banking balance sheet in the United States?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 75 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the growth rate of off balance sheet assets in North America?"
+      },
+      {
+        "role": "assistant",
+        "content": "9 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the proportion of off-balance sheet in China?"
+      },
+      {
+        "role": "assistant",
+        "content": "Less than 30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the growth rate of off-balance-sheet assets in North America?"
+      },
+      {
+        "role": "assistant",
+        "content": "9 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the growth rate of off-balance-sheet assets compare to on-balance-sheet assets in the Middle East?"
+      },
+      {
+        "role": "assistant",
+        "content": "Off-balance-sheet assets grew at 6 percent, while on-balance-sheet assets grew at 3 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total net change in off-balance-sheet assets globally between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not provide a direct total, but it can be inferred that the total is the sum of the values across different regions: 48.8 (North America) + 11.6 (China) + 11.9 (Asia\u2013Pacific except China) + 14.4 (Europe) + 2.5 (Latin America) + 4.1 (Middle East and Africa) = 92.3 trillion dollars."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of global lending is accounted for by nonbank financial firms?"
+      },
+      {
+        "role": "assistant",
+        "content": "14 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the annual growth rate of private capital between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Almost 20 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the growth rate of retail assets under management since 2015?"
+      },
+      {
+        "role": "assistant",
+        "content": "9 percent per annum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the growth rate of private debt inflows in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "29 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of wholesale loans in North America are private debt assets under management?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 8 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the compound annual growth rate (CAGR) of private debt from 2015 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "18%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the average annual growth rate of direct lending between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "13 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the growth rate of payment specialists' share of payment processing between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why have private financing channels become more popular?"
+      },
+      {
+        "role": "assistant",
+        "content": "They often have advantages including speed, flexibility, and convenience."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in market share of payment specialists in consumer digital payment processing between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their share of payment processing grew by more than 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the market share of specialized players in equity capital markets in 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "In 2015, it was 44 percent, and in 2022, it was 59 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the trend in market share of independent asset managers not owned by a bank or insurer between 2017 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their market share increased from 77 percent to 81 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the distribution in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Distribution is shifting toward hybrid models, including third-party transactions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in market share of investment banks and broker-dealers in foreign-exchange transactions between 2015 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their market share increased from less than 1 percent to 22 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has driven the transformation of banking distribution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Technological innovation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is embedded finance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The seamless integration of financial products and services into nonbanking products and business models."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential revenue of embedded finance in the European Economic Area and the United Kingdom by 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "\u20ac100 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the products that the embedded finance industry has focused on for rapid scale-up?"
+      },
+      {
+        "role": "assistant",
+        "content": "Payments, insurance, and point-of-sale lending."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential benefit of removing silos in banks' distribution channels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Huge performance improvements, including a tripling of cross-selling and reduced operating costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much of operating costs can distribution amount to in the banking industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "As much as 25 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of institutions have been increasingly generating economic value and positive shareholder returns?"
+      },
+      {
+        "role": "assistant",
+        "content": "Institutions that are capital-light."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the ROE on balance sheet activities in 2017-22?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 5 and 7 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the economic profit on balance sheet activities in 2017-22?"
+      },
+      {
+        "role": "assistant",
+        "content": "A negative $600 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main difference in the impact of the Great Transition on financial institutions?"
+      },
+      {
+        "role": "assistant",
+        "content": "The impact of the Great Transition will differ according to business models and depending on the macroeconomic outlook."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of capital was accounted for by balance sheet activities from 2017 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "70 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which business model has posted the highest growth in economic profit since 2017?"
+      },
+      {
+        "role": "assistant",
+        "content": "Transactions"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the return on equity (ROE) for transactions from 2017 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between 18 and 23 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of capital was invested by payments providers from 2017 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "2 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which type of financial institutions are the most capital-intensive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Traditional universal banks"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the capital invested in the financial system is accounted for by traditional universal banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "85 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the trend in value for traditional universal banks from 2018 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "They have been losing value at a rate of 1 to 2 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the rate of value loss for investment banks and broker dealers, along with wealth and asset managers, over the 2018\u201322 period?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 to 2 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the valuations of payment providers compare to traditional banks in terms of price-to-book ratio?"
+      },
+      {
+        "role": "assistant",
+        "content": "Payment providers have a price-to-book ratio that is about seven times the average valuation of traditional banks."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the price-to-book ratio of capital market infrastructure providers relative to traditional banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "About three times as high."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have higher interest rates potentially impacted traditional banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Higher rates (and spreads) can potentially bring about a revival in their prospects."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which business models may be negatively impacted in a high-interest-rate environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumer finance players and payment providers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why may certain banks struggle to adjust to a high-interest-rate environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because of regulation, political pressure, or business model."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What may accelerate some business areas that would have languished or been unprofitable when interest rates were low?"
+      },
+      {
+        "role": "assistant",
+        "content": "A higher-interest-rate environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of business models could be negatively impacted in a high-interest-rate environment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consumer finance players and payment providers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is enabling and accelerating the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Technological innovation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of technological innovation on activities where scale and capabilities matter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Continuous pressure."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is likely to become increasingly prevalent and a significant differentiator among banks due to technological advancements?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tech-fueled competition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What have successful banks been deploying to improve productivity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tech-backed business strategies with clear value at stake."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between technology investment and bank performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banks that are leaders in technology investment tend to outperform others."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do high-performing European banks compare to low performers in terms of technology expenses?"
+      },
+      {
+        "role": "assistant",
+        "content": "High-performing European banks spend significantly more on technology than low performers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the average return on assets for top quartile and bottom quartile?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.3% for top quartile and 0.2% for bottom quartile."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the average cost-to-income ratio for top quartile and bottom quartile?"
+      },
+      {
+        "role": "assistant",
+        "content": "40% for top quartile and 75% for bottom quartile."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of full-time equivalents in technology delivery organizations are engineers in banks that focus on engineering excellence?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 75 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did one institution develop a new proposition using platform-oriented architecture?"
+      },
+      {
+        "role": "assistant",
+        "content": "By building it, based on software-as-a-service (SaaS) banking components, in just nine months."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of applications can be hosted on the public cloud by institutions adopting automated infrastructure and public cloud?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than half."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three horizons across which financial players are moving?"
+      },
+      {
+        "role": "assistant",
+        "content": "Core business transformation, use of platform-based architecture or behind-the-scenes integration of AI into operations, and targeted productivity enhancement."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five priorities outlined to help institutions survive and thrive during the Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Exploiting technology and AI, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution and the customer relationship, and adapting to a changed risk environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five possible priorities that could help banking institutions survive and thrive?"
+      },
+      {
+        "role": "assistant",
+        "content": "Exploiting technology and AI, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution and the customer relationship, and adapting to a changed risk environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is technology considered a game changer for banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "When used with skill and creativity and fully integrated into an institution's ecosystem and operating model."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much more do leaders in some geographies, such as Europe, invest in technology compared to laggards?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.5 times more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one way for banks to future-proof their tech foundation?"
+      },
+      {
+        "role": "assistant",
+        "content": "By cultivating a cloud-based, platform-oriented architecture that allows for continuous innovation and the ability to implement next-generation capabilities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of DevSecOps in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "To integrate security as a shared responsibility throughout the entire IT life cycle and allow organizations to deploy new code rapidly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one option for banks to capture the AI opportunity?"
+      },
+      {
+        "role": "assistant",
+        "content": "To deploy process automation, platforms, and ecosystems across customer services to provide better and more efficient services, front to back."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why might financial institutions want to reduce their balance sheet and move business off balance sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "To create opportunities to distribute risk to a broader set of investors."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does DevSecOps stand for?"
+      },
+      {
+        "role": "assistant",
+        "content": "DevSecOps stands for development, security, and operations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main idea behind flexing in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flexing implies active use of syndication, including for loans; originate-to-distribute; and third-party balance sheets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is meant by unbundling the balance sheet in banking?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unbundling the balance sheet means separating out customer-facing businesses from BaaS businesses and using technology to radically restructure costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the benefits of flexing or unbundling the balance sheet for banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "The benefits include customer service and business capacity, capital optimization, and portfolio and risk optimization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How may flexing or unbundling shift the lending business model?"
+      },
+      {
+        "role": "assistant",
+        "content": "It may shift the lending business model from being primarily spread income based to one that includes fee income from distributed assets."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What opportunities does unbundling provide for customer-facing banking business?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unbundling allows financial institutions to double down in prioritized growth products and services that are customer facing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the typical ROE and cost of equity ranges for customer-facing banking businesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average ROEs are between 16 and 18 percent and cost of equity is between about 10 and 12 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the roles that BaaS providers can take on?"
+      },
+      {
+        "role": "assistant",
+        "content": "BaaS providers can be utility providers or balance sheet providers, delivering regulatory expertise, back-office services, access to capital, and liability management."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical ROE and cost of equity achieved by BaaS providers?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 to 8 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What opportunity does The Great Banking Transition provide for banks?"
+      },
+      {
+        "role": "assistant",
+        "content": "To reimagine risk management and revamp capabilities to manage credit and liquidity risks with increased efficiency"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the key to success in transaction businesses according to best-practice examples?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scale in a particular market or product"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three considerations for scaling or exiting transaction businesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Decide whether to scale or exit, aggressively pursue economies of scale, and leverage partners to help with exits"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can scale be achieved in transaction businesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through mergers and acquisitions, or by finding a niche in which to go deep, or by covering an entire market"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What makes switching and managing partners easier in transaction businesses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modern tech foundations, especially cloud and APIs"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an essential element of thriving during The Great Banking Transition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Connecting or reconnecting with customers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can banks innovate their interaction with clients?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through hybrid and digital models, particularly in advisory services"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the several paths that can help achieve a certain goal in the banking industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Innovate how to interact with clients through hybrid and digital models, decide on a strategy toward third-party distribution, stop leakage where possible, and involve private, corporate, and merchant banking."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Priority 5 in The Global Banking Annual Review 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adapting to a changed risk environment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What complex issues are chief risk officers in financial organizations dealing with?"
+      },
+      {
+        "role": "assistant",
+        "content": "The macroeconomic context featuring inflation and geopolitical uncertainty, an uncertain growth outlook, potential credit challenges, the regulatory environment, and the exponential integration of advanced analytics into the banking ecosystem."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why will the risk function become a significant differentiating factor for banks relative to nonbanks?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because many activities are transitioning outside the perimeter of bank-specific regulation, and trust, confidence, and security will play an increasingly important role in clients' and customers' minds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some no-regret actions that risk functions can take to adapt to the evolving landscape?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elevate the risk narrative to make it a true differentiator, further strengthen the first line and embed risk into day-to-day activities, and invest in newer risk activity areas driven by the growth of gen AI and other advanced analytical techniques."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the dominant underlying theme for the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Great Banking Transition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the global balance sheet has transitioned?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than half."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the 'no-regret actions' that risk functions can take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elevate the risk narrative to make it a true differentiator."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the importance of data treated as in the banking sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "An asset that requires the right governance, operating model, and controls."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What should banks focus on instead of process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Outcomes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can banks prepare for increased regulatory scrutiny?"
+      },
+      {
+        "role": "assistant",
+        "content": "Through increased foresight, scenario planning, and stress testing; improve transparency and depth of reporting; increase focus on operational resilience; and prepare for faster response times."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the potential upside for banks if they can find a business model that reduces the sector's valuation discount?"
+      },
+      {
+        "role": "assistant",
+        "content": "Enormous value creation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main theme of The Global Banking Annual Review 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Great Banking Transition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the report, what do banks need to do to create a new era of value creation?"
+      },
+      {
+        "role": "assistant",
+        "content": "They need to parse their balance sheet, transaction, and distribution businesses to identify which create value or provide a competitive advantage, and have powerful new technologies and a revised mindset."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the authors of The Global Banking Annual Review 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Debopriyo Bhattacharyya, Asheet Mehta, Miklos Dietz, Alexander Edlich, and Reinhard H\u00f6ll."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is McKinsey Panorama?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey's proprietary banking research arm."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was The Global Banking Annual Review 2023 published?"
+      },
+      {
+        "role": "assistant",
+        "content": "October 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of the publication?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Global Banking Annual Review 2023: The Great Banking Transition"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the publication released?"
+      },
+      {
+        "role": "assistant",
+        "content": "October 2023"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the publisher of the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey & Company"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended course of action before undertaking complex financial transactions based on this publication?"
+      },
+      {
+        "role": "assistant",
+        "content": "Consulting appropriate professional advisers"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can one obtain permission to copy or redistribute the publication?"
+      },
+      {
+        "role": "assistant",
+        "content": "By obtaining the prior written consent of McKinsey & Company"
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 265,
+    "filtered": 260,
+    "retention_rate": 0.98,
+    "avg_score": 8.4
+  }
+}

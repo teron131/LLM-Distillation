@@ -1,0 +1,4560 @@
+McKinsey’s Real Estate Practice
+
+Empty spaces  
+and hybrid places
+
+The pandemic’s lasting impact on real estate
+
+July 2023
+
+Authors
+Jan Mischke
+Ryan Luby
+Brian Vickery
+Jonathan Woetzel
+
+Editor
+Benjamin Plotinsky
+
+Olivia White
+Aditya Sanghvi
+Jinnie Rhee
+Anna Fu 
+
+Rob Palter
+André Dua
+Sven Smit
+
+Cover image © Justin Metz
+
+McKinsey Global Institute
+
+The McKinsey Global Institute was established in 1990. Our mission is to provide a fact base to 
+aid decision making on the economic and business issues most critical to the world’s companies 
+and policy leaders. We benefit from the full range of McKinsey’s regional, sectoral, and functional 
+knowledge, skills, and expertise, but editorial direction and decisions are solely the responsibility 
+of MGI directors and partners.
+
+Our research is currently grouped into five major themes:
+
+— Productivity and prosperity: Creating and harnessing the world’s assets most productively
+
+— Resources of the world: Building, powering, and feeding the world sustainably
+
+— Human potential: Maximizing and achieving the potential of human talent
+
+— Global connections: Exploring how flows of goods, people, and ideas shape economies
+
+—   Technologies and markets of the future: Discussing the next big arenas of value  
+
+and competition
+
+We aim for independent and fact-based research. None of our work is commissioned or funded 
+by any business, government, or other institution; we share our results publicly free of charge; 
+and we are entirely funded by the partners of McKinsey. While we engage multiple distinguished 
+external advisers to contribute to our work, the analyses presented in our publications are MGI’s 
+alone, and any errors are our own.
+
+You can find out more about MGI and our research at www.mckinsey.com/mgi.
+
+MGI Directors
+
+MGI Partners
+
+Sven Smit (chair)
+
+Marco Piccitto
+
+Michael Chui
+
+Jan Mischke
+
+Chris Bradley
+
+Olivia White
+
+Mekala Krishnan
+
+Jeongmin Seong
+
+Kweilin Ellingrud
+
+Jonathan Woetzel
+
+Anu Madgavkar
+
+Tilman Tacke
+
+McKinsey’s Real Estate Practice
+
+McKinsey’s Real Estate Practice works with investors, property owners, real estate managers, 
+and the world’s leading organizations that are the primary occupiers and users of space. We aim 
+to accelerate sustainable and inclusive growth that benefits the businesses, environments, and 
+communities that our clients serve.
+
+With proprietary technology, global scale, and local expertise, we are uniquely equipped to help clients 
+embrace disruption, pioneer innovation, and shape a new future for themselves and for the industry.
+
+You can find out more about McKinsey’s Real Estate Practice and its insights at  
+www.mckinsey.com/industries/real-estate/our-insights.
+
+© Mint Images/Getty Images
+
+Contents
+
+At a glance 
+
+Executive summary 
+
+1.  How hybrid work has changed the way people work, live, and shop 
+
+2.  The impact on real estate 
+
+3.  What strongly affected neighborhoods and cities have in common 
+
+4.  Thriving in hybrid places 
+
+Technical appendix 
+
+Acknowledgments 
+
+iv
+
+1
+
+17
+
+39
+
+59
+
+67
+
+73
+
+79
+
+At a glance
+
+This research examines the impact of the COVID-19 pandemic on real estate in “superstar” cities 
+in the United States, Europe, and Asia. That real estate has not kept up with shifts in behavior 
+caused by the pandemic. The cities’ vibrancy is at risk, and they will have to adapt. 
+
+ — Hybrid work is here to stay. As a result, office attendance has stabilized at 30 percent below 
+
+prepandemic norms.
+
+ — The ripple effects of hybrid work are substantial. Untethered from their offices, residents 
+have left urban cores and shifted their shopping elsewhere. For example, New York City’s 
+urban core lost 5 percent of its population from mid-2020 to mid-2022, and San Francisco’s 
+lost 7 percent. Urban vacancy rates have shot up. Foot traffic near stores in metropolitan 
+areas remains 10 to 20 percent below prepandemic levels. 
+
+ — Demand for office and retail space in superstar cities will remain below prepandemic 
+
+levels. In a moderate scenario that we modeled, demand for office space is 13 percent lower 
+in 2030 than it was in 2019 for the median city in our study. In a severe scenario, demand falls 
+by 38 percent in the most heavily affected city.
+
+ — Real estate is local, and demand will vary substantially by neighborhood and city. 
+
+Demand may be lower in neighborhoods and cities characterized by dense office space, 
+expensive housing, and large employers in the knowledge economy.
+
+ — Cities and buildings can adapt and thrive by taking hybrid approaches themselves. 
+
+Priorities might include developing mixed-use neighborhoods, constructing more adaptable 
+buildings, and designing multiuse office and retail space.
+
+iv
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit
+
+In a moderate scenario, demand for office and retail space falls sharply 
+between 2019 and 2030.
+
+Change in demand for real estate before prices adjust, 2019–30, %
+
+Change resulting from factors unrelated to the pandemic 
+
+Change resulting from pandemic-driven behavior
+
+Office space
+
+Residential space 
+in urban cores1
+
+Retail space 
+in urban cores
+
+–20
+
+–10
+
+0
+
+10
+
+0
+
+10
+
+20
+
+30
+
+–20
+
+–10
+
+0
+
+10
+
+San
+Francisco
+
+−20
+
+London
+
+−11
+
+New York City
+
+−16
+
+Houston
+
+Paris
+
+Munich
+
+Tokyo
+
+Beijing
+
+−13
+
+−16
+
+−9
+
+2
+
+2
+
+6
+
+6
+
+−2
+
+−4
+
+8
+
+5
+
+12
+
+−17
+
+−22
+
+−14
+
+26
+
+−3
+
+−9
+
+−4
+
+−2
+
+−9
+
+Shanghai
+
+−14
+
+3
+
+1
+
+ Note: For more information about the scenario, see the technical appendix.
+¹Demand for residential space in superstar cities is highly price elastic, so in the long run, these shifts would probably lead to a rebalancing of prices rather than 
+an actual reduction in demand.  
+Source: Beijing Municipal Bureau of Statistics; BNP Paribas; Colliers; Commercial Real Estate Intelligence Solutions; CoStar; Department for Levelling Up, 
+Housing and Communities (United Kingdom); E&G Real Estate; E-Stat (Japan); Eurostat; EW & Associates Realty; Federal Statistical Office (Germany); German
+Property Partners; Kastle; Ministry of Beijing; Mitsui Fudosan; National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); 
+Office for National Statistics (United Kingdom); RealAdvisor; Sanko Estate Company; Shanghai Municipal Bureau of Statistics; Statistics Bureau of Japan; Tokyo
+Metropolitan Government; US Bureau of Labor Statistics; US Census Bureau; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+v
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© Rene De Haan/Stocksy
+
+Executive summary
+
+When the COVID-19 pandemic began, it dramatically changed the way people worked, lived, 
+and shopped in cities around the world. The starkest change was where and how they worked. 
+Obeying lockdowns and office closures, tired of uncomfortable masks, and enabled by remote-
+work technology, many employees abruptly retreated from traditional offices to home offices. 
+Many of those employees, newly freed from their daily commutes, chose to move out of urban 
+cores. And now that fewer of them were working and living near urban stores, fewer of them 
+shopped there. In recent months, some of those behavioral shifts have slowed. Others persist, 
+particularly among office employees continuing to engage in hybrid work (that is, a combination 
+of remote and in-office work).
+
+The behavioral shifts have already had major effects on real estate in “superstar” cities—roughly 
+speaking, cities with a disproportionate share of the world’s urban GDP and GDP growth.  
+In superstar cities’ urban cores, the percentage of office and retail space that is vacant has 
+grown sharply since 2019, and home prices have increased more slowly than in the suburbs and 
+other cities. 
+
+To what extent could real estate in superstar cities continue to suffer? In this research, the 
+McKinsey Global Institute has modeled future demand for office, residential, and retail space 
+in several scenarios.1 In those scenarios, demand for office and retail space is generally lower in 
+2030 than it was in 2019, though the anticipated reductions in our moderate scenario are smaller 
+than those projected by many other researchers. Our analysis also shows that the ripple effects 
+will be complex—for example, that certain kinds of cities and neighborhoods will be more heavily 
+affected than others. We considered a wide variety of factors, including long-term population 
+trends; employment trends, such as the ongoing effects of automation; office attendance 
+patterns by industry; employee coordination, defined as the maximum share of workers in the 
+office at a given time; workers’ ages and incomes; the share of a city’s population that commutes 
+from elsewhere; housing price variation among neighborhoods; and shopping trends, such as 
+the ongoing increase in online shopping. In addition to many secondary sources, our modeling 
+includes information from a large global survey that we conducted to understand the behavioral 
+shifts caused by the pandemic.
+
+We performed this research during a time of exceptional macroeconomic uncertainty. Inflation 
+and interest rates are high; fears of recession are mounting; stress in the financial system has 
+been making headlines. Actual outcomes, of course, will depend on how those variables and 
+others play out.
+
+What is certain is that urban real estate in superstar cities around the world faces substantial 
+challenges. And those challenges could imperil the fiscal health of cities, many of which are 
+already straining to address homelessness, transit needs, and other pressing issues. But the 
+challenges also provide an opportunity to spur a historic transformation of urban spaces. By 
+becoming more flexible and adaptable in everything from the makeup of neighborhoods to the 
+design of buildings—in essence, becoming more “hybrid” themselves—superstar cities can not 
+only adapt but thrive.
+
+1  The research considers only those three asset classes: office, residential, and retail space. Others, such as industrial space 
+
+and self-storage space, are outside the scope of the research.
+
+1
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateHow hybrid work has changed the way people work, live, and shop
+
+During the pandemic, workers’ office attendance plummeted. Untethered from their daily 
+commutes, urbanites moved away from urban cores in greater numbers than they had before  
+the pandemic (and fewer people moved in), and people spent less in urban stores (see Box E1, 
+“How we define cities”). The rate of out-migration has now returned to its prepandemic trend, but 
+our research suggests that few of the people who left will return and that urban shopping will not 
+fully recover. 
+
+Box E1
+How we define cities 
+
+This report is about real estate in superstar cities—roughly speaking, cities with a 
+disproportionate share of the world’s urban GDP and GDP growth. We have borrowed 
+the term and the concept from the 2018 MGI report Superstars: The dynamics of firms, 
+sectors, and cities leading the global economy. The report does not examine real estate 
+outside superstar cities.
+
+By city, we usually mean a large metropolitan area. Our analysis often separates such a 
+metropolitan area into two parts: the urban core, which refers to the densest part of the 
+area, and the suburbs, which refers to everything outside the urban core. For example, 
+when we discuss San Francisco’s urban core, we mean San Francisco County, Alameda 
+County, and San Mateo County. And when we discuss San Francisco’s suburbs, we  
+mean the rest of the San Francisco metropolitan area (that is, Marin County and Contra 
+Costa County).
+
+We focus most closely on nine superstar cities: Beijing, Houston, London, New York City, 
+Paris, Munich, San Francisco, Shanghai, and Tokyo. However, in the survey that underlies 
+much of this report, we collected data from a larger set of 17 superstar cities in six countries 
+in order to better understand behavior. At one point in our research, we were able to extend 
+our analysis to a still larger set of 24 superstar cities to help us identify patterns  
+in suburbanization.
+
+Hybrid work is here to stay, and office attendance is down by 30 percent
+Employees still spend far less time working at the office than they did before the pandemic, 
+according to our survey. In early 2020, as they adopted remote work and hybrid work in response 
+to lockdowns and health concerns, office attendance in the metropolitan areas we studied 
+dropped by up to 90 percent. It has since recovered substantially but remains down by about  
+30 percent, on average. As of October 2022, office workers were visiting the office about  
+3.5 days per week. That number varied among cities, from 3.1 days in London to 3.9 in Beijing. 
+(For more information about the survey, see the technical appendix.)
+
+Office attendance also varies by industry and neighborhood. In large firms in the knowledge 
+economy—which we define as the professional services, information, and finance industries—
+employees tend to go to the office fewer days per week (Exhibit E1). Characteristics of areas 
+with lower office attendance include expensive housing, a higher ratio of inbound commuters to 
+residents, and a small share of retail, according to our research on US counties. Local culture also 
+plays a role.
+
+2
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+Exhibit E1 
+
+Office attendance is lower in large firms in the knowledge economy.
+
+Reported number of days per week worked in the office:
+
+0 1 2 3 4 5
+
+Industry:
+Professional services
+Information
+Finance
+Management
+Healthcare
+Arts and accommodation
+Utilities and administration
+Real estate
+Manufacturing
+Education
+Government
+Construction
+Retail and wholesale trade
+Transportation
+Agriculture and mining
+
+Firms with 
+employee count of:
+
+25,000+
+1,000–24,999
+500–999
+250–499
+100–249
+50–99
+2–49
+
+3.0
+
+3.2
+
+3.4
+
+3.6
+
+3.8
+
+4.0
+
+3.0
+
+3.2
+
+3.4
+
+3.6
+
+3.8
+
+4.0
+
+Note: Survey respondents were asked, “On average, how many days of the week do you work in the office currently?” These results exclude respondents who 
+said that they were not “currently employed and in the office workforce.” They also exclude respondents who said that they were not currently working full time. 
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+There are several reasons to believe that the current rate of office attendance could persist. First, 
+the rate has remained fairly stable since mid-2022. Second, three key numbers—the number 
+of days per week that survey respondents go to the office (3.5), the number of days they expect 
+to go to the office after the pandemic ends (3.7), and their preferred number (3.2)—are not far 
+apart. Third, 10 percent of the people we surveyed said that they were both likely to quit their 
+jobs if required to work at the office every day and willing to take a substantial pay cut if doing 
+so let them work from home when they wanted. That group contains many senior, high-income 
+employees, suggesting that they may wield influence over companies’ decisions. Nevertheless, it 
+is not certain that the current rate of office attendance will persist; it could change, for example, 
+if labor market dynamics shift or if research conclusively indicates either a negative or a positive 
+relationship between hybrid work and productivity.
+
+3
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateUp to 7 percent of the people in urban cores left for good
+During the pandemic, a wave of households left the urban cores of superstar cities, and fewer 
+households moved in. For example, New York City’s urban core lost 5 percent of its population 
+from mid-2020 to mid-2022, and San Francisco’s lost 7 percent. The main reason was out-
+migration. In the suburbs, by contrast, populations grew, or they shrank less dramatically than 
+populations in the urban cores did. In the United States, suburbanization had already been 
+happening before the pandemic, and the shock accelerated an existing trend; by contrast, in 
+most of the European and Japanese cities we studied, urbanization gave way to suburbanization 
+(Exhibit E2). 
+
+Exhibit E2 
+During the pandemic, most suburbs grew more quickly than their urban cores.
+
+Difference between urban and suburban population growth rates, percentage points
+
+Through the pandemic
+2020–22 CAGR
+
+Through the pandemic
+2020–21 CAGR 
+(2022 data not yet available)
+
+Prepandemic
+2015–19 CAGR
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1
+
+Suburban growth
+stronger
+
+Urban growth
+stronger
+
+Country
+
+US
+US
+US
+US
+US
+US
+US
+Spain
+France
+US
+US
+US
+Germany
+Germany
+Germany
+Germany
+Germany
+US
+Japan
+Japan
+Japan
+
+Metro 
+area
+
+Dallas
+Houston
+New York City
+San Francisco
+Washington, DC
+Boston
+Chicago
+Madrid
+Paris
+Atlanta
+Philadelphia
+Los Angeles
+Cologne
+Frankfurt
+Berlin
+Munich
+Düsseldorf
+Seattle
+Tokyo
+Osaka
+Nagoya
+
+UK
+China
+China
+
+London
+Beijing
+Shanghai
+
+Note: Results shown for London are based on census revisions made for 2021 by the United Kingdom’s Office for National Statistics.
+Source: Beijing Municipal Bureau of Statistics; Eurostat; National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); 
+E-Stat (Japan); Office for National Statistics (United Kingdom); Shanghai Municipal Bureau of Statistics; US Census Bureau; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+4
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThe urban cores where population growth was smallest in relation to their suburbs tended to 
+be those with expensive homes, high office density, a high share of workers in the knowledge 
+economy, and limited retail presence—some of the same characteristics that shaped office 
+attendance. London, Dallas, New York, San Francisco, and Boston were the most affected. In 
+general, US urban cores were more affected than European and Japanese ones, which tend to 
+have more mixed-use development, in which office, residential, and retail space exist alongside 
+one another. The migration trends in Beijing were primarily shaped by prepandemic efforts 
+to control the population size in urban cores by encouraging out-migration, efforts that were 
+paused during the pandemic. 
+
+Hybrid work seems to have contributed significantly to out-migration. In our survey, among respondents 
+who moved after March 2020, 20 percent said that their move was possible only because they could 
+now work from home more frequently. In the United Kingdom and the United States, people who had 
+moved from urban cores to suburbs, and who said that their move was possible only because they could 
+now work from home, said that they were drawn by housing conditions: better neighborhoods, the 
+prospect of homeownership, and outdoor space. In Japan and China, wanting to own a home was far and 
+away the strongest factor motivating people’s moves to the suburbs.
+
+Out-migration from urban cores of superstar cities seems to have slowed, but it is still above 
+prepandemic levels. From 2019 to 2021, net out-migration from US superstar city cores doubled; 
+then it fell in 2022, although it remained above 2019 rates. In other words, the people who moved 
+out during the pandemic are not moving back, and others keep leaving. 
+
+Shopping remains depressed, especially in urban cores
+As people stayed home during the pandemic, they radically shifted the way they shopped. Foot 
+traffic plummeted near stores in the cities we studied, and online spending as a share of retail 
+spending spiked. 
+
+More recently, foot traffic near stores in metropolitan areas has risen again, but it is still 10 to 
+20 percent lower than it was before the pandemic. A major reason for the decline is that online 
+spending as a share of retail spending, which admittedly grew more slowly after the initial spike, 
+nevertheless remains higher than it was in 2019. 
+
+Retailers in urban cores face particularly acute challenges in attracting customers. As of October 
+2022, foot traffic had recovered noticeably less near those stores than near suburban ones 
+(Exhibit E3). In New York, for example, foot traffic near suburban stores was 16 percent lower 
+than it had been in January 2020, but foot traffic near urban stores was 36 percent lower. And 
+office-dense neighborhoods in urban cores are facing even more challenges. The reason seems 
+to be that when people come to the office less often, they shop less often near the office. In our 
+survey, respondents in the United States who worked at the office no more than one day per 
+week reported doing much less of their total retail spending near the office than did those who 
+worked in the office two to five days a week. 
+
+Out-migration from urban cores 
+of superstar cities seems to 
+have slowed, but it is still above 
+prepandemic levels.
+
+5
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit E3
+
+Foot traffic near stores is recovering more quickly in the suburbs 
+than in urban cores. 
+
+Change in foot traffic near stores from January 2020, %¹
+
+Suburban
+
+Urban
+
+Note: Cities are defined as follows: the New York–Newark–Jersey City metropolitan statistical area (MSA); the Greater London area; Île-de-France; 
+the San Francisco–Oakland–Hayward MSA; the Houston–The Woodlands–Sugar Land MSA; and the Kanto Region (Tokyo).
+1 Stores include retail and recreation locations but not grocery stores or pharmacies.
+Source: Google’s Community Mobility Reports; McKinsey Global Institute analysis  
+
+McKinsey & Company
+
+6
+
+New York City2020202120220-100-50London2020202120220-100-50Paris2020202120220-100-50San Francisco2020202120220-100-50Houston2020202120220-100-502020202120220-100-50TokyoMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+The impact on real estate
+
+The behavioral changes caused by the pandemic—lower office attendance, accelerated 
+out-migration from cities, and less shopping in office-heavy neighborhoods—will push down 
+demand for real estate in most superstar cities. By 2030, in the scenarios we modeled, 
+demand for office and retail space is generally lower than it was in 2019 (Exhibit E4). 
+Residential space is less affected, though the price differences between urban cores and 
+suburbs are narrower than they used to be. (Note that our model does not consider price 
+elasticity; that is, it does not account for the fact that when demand decreases, prices fall, 
+pushing demand partway back up. For more information about the model, see the  
+technical appendix.)
+
+Exhibit E4
+
+In a moderate scenario, demand for office and retail space falls sharply 
+between 2019 and 2030.
+
+Change in demand for real estate before prices adjust, 2019–30, %
+
+Change resulting from factors unrelated to the pandemic 
+
+Change resulting from pandemic-driven behavior
+
+Office space
+
+Residential space 
+in urban cores1
+
+Retail space 
+in urban cores
+
+–20
+
+–10
+
+0
+
+10
+
+0
+
+10
+
+20
+
+30
+
+–20
+
+–10
+
+0
+
+10
+
+San
+Francisco
+
+−20
+
+London
+
+−11
+
+New York City
+
+−16
+
+Houston
+
+Paris
+
+Munich
+
+Tokyo
+
+Beijing
+
+−13
+
+−16
+
+−9
+
+2
+
+2
+
+6
+
+6
+
+−2
+
+−4
+
+8
+
+5
+
+12
+
+−17
+
+−22
+
+−14
+
+26
+
+−3
+
+−9
+
+−4
+
+−2
+
+−9
+
+Shanghai
+
+−14
+
+3
+
+1
+
+ Note: For more information about the scenario, see the technical appendix.
+¹Demand for residential space in superstar cities is highly price elastic, so in the long run, these shifts would probably lead to a rebalancing of prices rather than 
+an actual reduction in demand.  
+Source: Beijing Municipal Bureau of Statistics; BNP Paribas; Colliers; Commercial Real Estate Intelligence Solutions; CoStar; Department for Levelling Up, 
+Housing and Communities (United Kingdom); E&G Real Estate; E-Stat (Japan); Eurostat; EW & Associates Realty; Federal Statistical Office (Germany); German
+Property Partners; Kastle; Ministry of Beijing; Mitsui Fudosan; National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); 
+Office for National Statistics (United Kingdom); RealAdvisor; Sanko Estate Company; Shanghai Municipal Bureau of Statistics; Statistics Bureau of Japan; Tokyo
+Metropolitan Government; US Bureau of Labor Statistics; US Census Bureau; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+7
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+$800 bn
+
+Value of office space  
+at stake by 2030
+
+There will be 13 percent less demand for office space in the median city we studied
+Demand for office space has already declined, partly because of the increase in remote work and 
+partly because of a challenging macroeconomic environment. Vacancy rates have increased in all 
+the cities we studied. In the US cities, transaction volume (the total dollar value of all sales) fell by 
+57 percent, average sale price per square foot fell by 20 percent, and asking rents fell by nearly 
+22 percent (all in real terms) from 2019 to 2022. In San Francisco, the most strongly affected city 
+in the United States, the share of office space that was vacant was ten percentage points higher 
+in 2022 than it was in 2019, transaction volume was 79 percent lower, sale prices per square foot 
+were 24 percent lower, and asking rents were 28 percent lower (also in real terms). The decline 
+in demand has prompted tenants—wary about current macroeconomic conditions, uncertain 
+about how much their workers will come to the office, and therefore uncertain about how much 
+space they will need—to negotiate shorter leases from owners. Shorter leases, in turn, may make 
+it more difficult for owners to obtain financing or may cause banks to adjust valuation models, 
+which rely in part on the duration of existing leases. 
+
+In the scenarios we modeled, the amount of office space demanded in most cities does not return 
+to prepandemic levels for decades. By 2030, demand is as much as 20 percent lower than it was 
+in 2019, depending on the city.2 That estimate is what our model yields in a moderate scenario—
+one in which, by 2025, office attendance is higher than it is now but still lower than it was before 
+the pandemic, and that partial recovery continues indefinitely.3 In a more severe scenario, in 
+which attendance for all office workers in 2030 falls to the rate already seen in large firms in 
+the knowledge economy, demand is as much as 38 percent lower than it was in 2019, again 
+depending on the city. 
+
+Falling demand will drive down value. In the nine cities we studied, a total of $800 billion (in real 
+terms) in value is at stake by 2030 in the moderate scenario. On average, the total value of office 
+space declines by 26 percent from 2019 to 2030 in the moderate scenario and by 42 percent in 
+the severe one. The impact on value could be even stronger if rising interest rates compound it. 
+Similarly, the impact could be stronger if troubled financial institutions decide to more quickly 
+reduce the price of property they finance or own.
+
+Falling demand will also result in a surplus of office space, particularly in the lower-quality and 
+older buildings that the real estate industry calls Class B and Class C. From 2020 to 2022, rents, 
+demand, and sometimes prices generally grew more quickly (or fell less sharply) for Class A 
+buildings than for Class B buildings in US superstar cities. For example, in New York City during 
+that period, the average sale price per square foot rose 3 percent for Class A buildings but fell 
+by 8 percent for Class B buildings.4 There are a number of reasons for this “flight to quality.” One 
+is that many employers see high-quality space as a way to encourage office attendance among 
+their employees. Another is that Class B and Class C office space is often not suited to hybrid 
+work; for example, it may have less sophisticated audiovisual equipment. Also, now that hybrid 
+work has reduced the total amount of space that employers need, they can spend their budgets 
+on smaller amounts of higher-quality space rather than larger amounts of lower-quality space.
+
+2  When we projected demand for office space in Beijing and Shanghai, we studied only the urban cores of those cities. When 
+we projected demand for office space in the other superstar cities, we studied larger areas, usually but not always the entire 
+metropolitan areas.
+
+3  Our model considers peak weekly attendance rather than average weekly attendance. It also takes into account the continued 
+trend toward more desks in less space as well as projections of population growth, shifts in urban migration, and the share of 
+office workers as the knowledge economy grows but feels the impact of automation.
+
+4  Data from CoStar.
+
+8
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateDemand growth for residences will be muted, especially in urban cores 
+During the pandemic, partly because of out-migration, demand for residences grew less 
+quickly in superstar urban cores than it did in suburbs and other cities. Residential vacancy 
+rates increased from 2019 to 2022 in every superstar urban core that we studied, from a 
+0.8-percentage-point increase in Tokyo to a 9.9-percentage-point increase in London; 
+meanwhile, in the suburbs, vacancy rates grew much less or even declined.5 Prices followed suit, 
+rising eight percentage points more slowly in US superstar urban cores than in their suburbs and 
+13 percentage points more slowly than in non-superstar urban cores. In San Francisco, nominal 
+prices in some neighborhoods fell by 12 percent from the end of 2019 to 2022. Residences in San 
+Francisco’s urban core are now worth $750 billion less than they would have been if prices there 
+had risen at the national average rate. The effect seems to be a global phenomenon. 
+
+Before price adjustments are accounted for, the demand for residences in superstar urban 
+cores that we modeled is up to 10 percent lower by 2030 than it would have been if not for the 
+pandemic. It is nevertheless higher than it was in 2019 in every city we studied except San 
+Francisco and Paris. That estimate rests on the assumption that the wave of residents who left 
+urban cores will not return but that population growth in each city will return to its prepandemic 
+rate by 2024. Should population growth remain depressed for longer, the impact on demand 
+would be even bigger. 
+
+However, prices will probably adjust, and so will rents. Again, our model does not account for 
+such price adjustments, so we could not create demand scenarios that incorporated them. But 
+we can say that homes in urban cores are unlikely to stay empty. Residential space differs from 
+office space in that regard: once prices and rents fall, any available floor space is usually taken 
+up quickly. Indeed, vacancy rates in urban cores have already increased less sharply than urban 
+out-migration would suggest. Unfortunately, the downward pressure on prices and rents is 
+unlikely to make residences in superstar cities—many of which suffer from expensive housing 
+and homelessness—much more affordable.
+
+There will be 9 percent less demand for retail space in the median city we studied
+Because of reduced foot traffic near urban stores during the pandemic, vacancy in retail space 
+has increased and rents have declined, particularly in office-dense locations. As with office and 
+residential space, vacancy rates increased from 2019 to 2022 in all the superstar urban cores we 
+studied, ranging from a 1.8-percentage-point increase in San Francisco to a 6.2-percentage-
+point increase in London. From 2019 to 2022, asking retail rents declined an average of  
+5.4 percent (in real terms) in the cities we studied. The rents that were actually paid may have 
+fallen even more.
+
+Before price adjustments are accounted for, the demand for retail space in superstar urban cores 
+that we modeled is lower in 2030 than it was in 2019, putting downward pressure on rents.6 In 
+San Francisco’s urban core, for example, demand will be 17 percent lower. That estimate is what 
+our model yields in a scenario in which there is a partial return to office (and therefore a partial 
+recovery of retail spending near the office), people’s adoption of online shopping returns to its 
+prepandemic rate of growth by 2025, and people who moved during the pandemic do not move 
+back. In a more severe scenario, the decline in demand in San Francisco’s urban core would be as 
+high as 26 percent. In most superstar urban cores, demand would be projected to decline even if 
+the pandemic had not happened; the reasons are population trends and the increasing move to 
+online shopping. As with residential real estate, however, prices are likely to adjust. 
+
+5  Estimate excludes China because of data limitations.
+6  Our model accounts for population growth, shifts toward remote work, per capita spending growth, increasing online 
+
+spending as a share of retail spending, shifts in migration patterns, and increased shopping in the suburbs.
+
+9
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateWhat strongly affected neighborhoods and cities have in common
+
+A review of various components of this research—regression analyses, survey responses, and 
+literature reviews—suggests that cities where the pandemic has strongly affected real estate 
+demand tend to have certain characteristics. (We were unable to determine which of those 
+characteristics correlated most strongly with the impact on demand.)
+
+Some of the characteristics are related to the business mix in a city. Specifically, cities with 
+a larger share of workers in the knowledge economy, a higher number of large firms, a higher 
+ratio of commuters to residents, and more cultural acceptance of remote work have tended to 
+experience a greater impact on demand. Those factors lead to lower rates of office attendance, 
+which reduce demand for office space directly, reduce demand for retail space by diminishing the 
+number of office workers shopping at urban stores, and reduce demand for residential space by 
+prompting people to move out of cities’ urban cores.
+
+Other characteristics that correlate with the impact on demand are related to the  
+urban structure of a city. Specifically, cities with office-dense real estate and little mixed-use 
+development, as well as expensive housing and little green space, have tended to experience a 
+greater impact on demand. Such characteristics make places less desirable for working, living, 
+and shopping.
+
+Two of those characteristics seem to correlate with the impact on demand at the neighborhood 
+level as well. We examined neighborhoods defined by zip codes in Manhattan and San 
+Francisco County (Exhibit E5). According to our analysis, the larger the share of real estate in a 
+neighborhood that was occupied by offices, the more out-migration from that neighborhood. 
+Similarly, home prices correlated with out-migration: pricier neighborhoods experienced more 
+out-migration. (Data limitations prevented us from finding out whether the other characteristics 
+also correlated with demand at the neighborhood level.) 
+
+The larger the share of real  
+estate in a neighborhood that  
+was occupied by offices, the  
+more out-migration from that 
+neighborhood. 
+
+10
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit E5
+
+Expensive, office-dense neighborhoods have tended 
+to suffer more out-migration.
+
+San Francisco
+
+Manhattan,
+New York City
+
+Share of real estate occupied by office buildings in 2019, %
+
+0
+
+100
+
+87
+
+98
+
+83
+
+89
+
+Lower East Side
+
+Financial 
+District
+
+San Francisco, postal zip codes
+
+Manhattan, postal zip codes
+
+Typical home value in 2019, $
+
+371K
+
+2.9M
+
+1M
+
+2M
+
+2.1M
+
+1.9M
+
+Net out-migration in 2020–22, % of residents
+
+≤0
+
+≥ 25
+
+37
+
+27
+
+2.9M
+
+2.7M
+
+39
+
+40
+
+Note: Estimates of out-migration are based on permanent and temporary change-of-address requests to the US Postal Service—not on data from the 
+US Census Bureau, as in some other exhibits in this report—because the postal data are more up-to-date and describe smaller geographical areas.
+Source: US Census Bureau; US Postal Service; Zillow Home Value Index; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+11
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateBusiness mix and urban structure make a difference at the neighborhood level
+Two very different Manhattan neighborhoods show that business mix and urban structure 
+correlate with demand at the neighborhood level. The business mix of the first neighborhood, 
+the Financial District, is heavily skewed toward the knowledge economy; 50 percent of all office 
+space there is occupied by knowledge-economy tenants. The Financial District’s urban structure 
+is office dense: 80 percent of real estate is dedicated to offices. And the average price of a home 
+is roughly $1.5 million. Now consider the nearby Lower East Side, where just 22 percent of office 
+space is dedicated to the knowledge economy, 7 percent of all space is dedicated to offices, and 
+the average home price is about $1.0 million.
+
+80%
+
+Share of real estate in 
+New York’s Financial 
+District dedicated to 
+offices
+
+Those factors help us understand why the pandemic has driven such different outcomes in the 
+two neighborhoods. The domestic out-migration rate from the start of 2020 to the start of 2022 
+was 2.2 times higher in the Financial District than in the Lower East Side, for example. It stands to 
+reason that residents of the Financial District could easily work from home, as the prevalence of 
+the knowledge economy there suggests, and were therefore likelier to move to bigger homes far 
+from their offices; meanwhile, expensive housing may have given them another reason to leave.
+
+At the city level too, business mix and urban structure drive differences
+San Francisco’s business mix helps explain the pandemic’s heavy impact there. The city has 
+long cultivated a technology-focused economy with a large population of office workers, 
+especially knowledge-economy workers. It has many inbound commuters, as the employment-
+to-population ratio shows: that ratio, a proxy for the prevalence of commuters, is 0.87 in San 
+Francisco, starkly higher than the national average of 0.48. And the city’s employers, many of 
+which are in the technology industry, may have been more likely to be aware of and adopt remote 
+work technology when the pandemic began. San Francisco’s urban structure also helps explain 
+why the pandemic affected demand so strongly there. Home prices in San Francisco County are 
+five times higher than the national average and almost twice as high as prices in the suburbs. 
+Furthermore, San Francisco has limited mixed-use development: offices represent 30 percent or 
+more of all real estate in nine of San Francisco’s 26 neighborhoods. 
+
+The pandemic has affected demand less strongly in Paris than in San Francisco. Paris’s business 
+mix helps show why: unlike San Francisco, which is heavily dependent on tech firms and the 
+knowledge economy, Paris is home to companies that are global leaders in a wide variety of 
+industries, such as beauty, hospitality, and consumer retail. But the city’s urban structure has 
+features that push residents away as well as those that pull them in. On the one hand, home 
+prices are twice as high in Paris’s urban core as in its suburbs and four times higher than the 
+national average. On the other hand, Paris has a great deal of mixed-use development. 
+
+Finally, consider Tokyo, where real estate demand has been affected less than in most cities we 
+studied. Most of Tokyo’s workers are in wholesale and retail trade, in contrast with technology-
+dependent San Francisco. Like Paris, Japan has a culture that values being present in the office, 
+in particular among employees of small and medium-size businesses; in our survey, respondents 
+in Tokyo said that they expected to be required to be in the office 3.7 days per week, a response 
+noticeably higher than Paris’s 3.3. Loyalty to employers is also common in Japan, as are lower 
+rates of technology adoption than in San Francisco. Furthermore, online spending as a share 
+of retail spending was lower in Japan than in any other country we studied; that may have 
+contributed to higher office attendance and continued in-person retail shopping. And in Tokyo, 
+home prices in the urban core are 2.1 times higher than the national average—a starkly smaller 
+number than Paris’s 4.1 and San Francisco’s 5.0. 
+
+12
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThriving in hybrid places
+
+Superstar cities are facing a new reality in which hybrid work worsens vacancy rates, threatens 
+the vibrancy of neighborhoods, and thus makes urban cores less attractive to employers, 
+employees, and residents. To adapt to that new reality, urban stakeholders could consider 
+adopting more hybrid approaches themselves. At the neighborhood and building levels, and even 
+in the design of the floors of buildings, choosing diversity, adaptability, and flexibility rather than 
+homogeneity can help cities thrive. 
+
+At the neighborhood level, consider mixed-use development
+One way cities could adapt is through mixed-use neighborhoods—that is, neighborhoods that are 
+not dominated by a single type of real estate (especially offices) but instead incorporate a diverse 
+mix of office, residential, and retail space. Such hybrid neighborhoods were becoming more 
+popular even before the pandemic. And now that the pandemic has reduced demand for offices, 
+cities have been left with vacant space that could be converted to other uses. Furthermore, our 
+research shows that mixed-use neighborhoods have suffered less during the pandemic than 
+office-dense neighborhoods have. That resilience gives investors, developers, and cities still 
+more reason to engage in placemaking. 
+
+Redeveloping neighborhoods is an enormous undertaking, of course, so mobilizing the many 
+stakeholders is important. Governments may be particularly helpful in reforming restrictive 
+zoning policies. Investors would be needed to finance redevelopment. And developers would be 
+the ones to turn mixed-use visions into realities.
+
+Suburbs can benefit from hybridity as well. City dwellers, untethered from their daily commutes 
+and thus less concerned about living far from urban cores, are increasingly seeking larger homes 
+in greener areas. More housing and retail in the suburbs could help satisfy their preferences. 
+More multifamily housing could be particularly beneficial because it would accommodate more 
+people than single-family homes do. So long as the apartments are larger and more comfortable 
+than apartments in urban cores, they could attract urbanites seeking space. Suburban policy 
+makers could consider encouraging multifamily development by adjusting zoning, offering 
+incentives to developers, and reexamining regulations that prevent housing from being built, 
+such as those governing minimum dwelling sizes and window requirements. 
+
+Redeveloping neighborhoods is 
+an enormous undertaking, of 
+course, so mobilizing the many 
+stakeholders is important. 
+
+13
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateFurthermore, multifamily housing is more energy-efficient than single-family homes, so it could 
+help push down carbon emissions. And because it accommodates many people, it could help 
+alleviate the shortage of housing that many metropolitan areas suffer from, making living in those 
+areas more affordable.
+
+At the building level, construct space that is adaptable and flexible
+To adapt to declining demand for traditional office and retail space, developers could create 
+hybrid buildings. The most ambitious vision is a universal, “neutral-use” building whose design, 
+infrastructure, and technology could be easily modified to serve different uses. Imagine a 
+medical building that could be easily converted into, say, a hotel or an apartment building if 
+customers’ preferences changed. More modestly, buildings could be designed to accommodate 
+different degrees of collaborative and individual work or different arrangements of open and 
+closed offices. They could also include technology that promotes flexibility, such as sensors to 
+track patterns of usage that could inform an employer’s approach to hybrid work.
+
+Hybrid buildings would bring at least two advantages. One is that they would protect owners from 
+shifts in preferences that are impossible to predict now. The second relates to a current trend 
+toward shorter leases in the office sector. Because tenants will now be moving in and out more 
+frequently, buildings might become more valuable if they grow more adaptable.
+
+Developers could also try to convert offices into the kinds of space for which there is more 
+demand, such as apartments, hotels, and schools. Conversions are very hard, however. 
+Obstacles include rezoning, renegotiating existing lease commitments to allow for renovations, 
+and dealing with physical limitations. Furthermore, in the cities we studied, even if all excess 
+office space were converted into housing, the amount of residential space in each city would 
+grow by less than 3 percent.7 Still, for owners facing the prospect of lower occupancy and lower 
+rents in their office buildings, the opportunity cost of conversion has fallen, and the number of 
+successful conversions may grow. 
+
+Turning empty spaces into hybrid 
+places could be a way to transform 
+superstar cities and prepare them 
+for a dynamic, prosperous future.
+
+7  Excess office space means space projected to be vacant beyond what would result from the structural vacancy rate  
+
+(defined as the average vacancy rate from 2014 to 2019).
+
+14
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateDevelopers of retail space too could keep adaptability in mind. Of late, retail tenants have been 
+evaluating their footprints with a stricter eye, shutting down stores or moving into smaller spaces. 
+If developers built more adaptable spaces, they would be likelier to remain relevant to tenants’ 
+shifting needs. Developers might also offer new store formats, such as spaces intended for 
+delivery and fulfillment or for logistics rather than traditional retail. Or they might design buildings 
+that are more integrated with their environments—for example, with dining spaces that extend 
+onto sidewalks.
+
+At the floor level, design space that is modular and multiuse 
+Tenants in urban cores—both the employers who rent office space and the merchants who rent 
+retail space—may have to start “earning the commute” from office workers and shoppers who 
+would otherwise visit less often. Here too, thinking flexibly and adaptably can help. For example, 
+the office does not have to be just a place to work; it can also be a place where employees 
+genuinely enjoy spending time or where they can take part in compelling events and activities. 
+Office tenants might try to attract them by building magnetic, hospitality-oriented workplaces. 
+Office tenants might also design more modular spaces that can adapt to changes in work 
+patterns from week to week. And the most forward-thinking tenants will provide an efficient, 
+digital way to organize hybrid work patterns and preferences.
+
+Retailers too may have to “earn the commute” by designing spaces that cater to many different 
+uses. A prime example is stores that easily accommodate omnichannel retail—a single, seamless 
+experience for customers, whether they shop online or in person. Similarly, stores can provide 
+experiential retail. For example, one department store brand is launching smaller stores where 
+customers can pick up products bought online, get clothes altered, find style advice, and 
+patronize a beauty salon. 
+
+Indeed, it is not hard to imagine more “hybrid floors” in which offices, residences, and stores exist 
+side by side. For floors—as for buildings and neighborhoods—turning empty spaces into hybrid 
+places may not simply be a way to counter the damage wrought by the pandemic. It could be a 
+way to transform superstar cities and prepare them for a dynamic, prosperous future.
+
+15
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© Carey Shaw/Stocksy
+
+1.  How hybrid work 
+has changed the 
+way people work, 
+live, and shop
+
+When the COVID-19 pandemic began in 2020, daily life changed for billions of people in 
+countless ways. The most important, from the perspective of real estate in superstar cities, was a 
+sudden and massive shift to remote work, a change that was enabled by widespread adoption of 
+videoconferencing and file-sharing technology. In the blink of an eye, millions of employees were 
+working not at their offices downtown but from their bedrooms and couches.
+
+That shift affected their behavior in three main ways. First, of course, it changed where they 
+worked. Second, it changed where they lived; untethered from their daily commutes, many of 
+them moved away from urban cores. Third, it changed where they shopped, as online shopping 
+and stores near home became more attractive than urban establishments. Those three 
+behavioral changes, in turn, affected the three classes of real estate—office, residential, and 
+retail—that we discuss in the next chapter.
+
+The three changes were not all permanent, but they have left cities permanently altered. In this 
+chapter, we examine them in detail. Our research suggests that remote work will continue, that 
+accelerated urban out-migration is slowing but not reversing, and that shopping in cities will 
+remain weaker than it used to be.
+
+Hybrid work is here to stay
+
+After abandoning their offices at the start of the pandemic, employees are now working there 
+more often—though still far less than they used to. Office attendance varies by city; for example, 
+it tends to be lower in cities with expensive housing and a large share of knowledge-economy 
+workers. It also varies by industry and workers’ demographic characteristics. There are several 
+reasons to think that office attendance has stabilized and will continue at current rates.
+
+Office attendance is still 30 percent lower than it was before the pandemic
+In early 2020, office attendance plummeted for workers in superstar cities. Lockdowns, 
+office closures, and uncomfortable masks gave them a reason to work remotely, and existing 
+technology gave them the means. Office attendance fell by 90 percent in New York City and  
+San Francisco.8 The drops in Austin, Dallas, Houston, and Los Angeles were less severe but still 
+stark at about 70 percent.
+
+8  Data from Kastle, a company that manages access to office buildings in the United States.
+
+17
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThree years later, remote work has given way to hybrid work (a combination of in-office 
+and remote work), and office attendance has rebounded substantially. But as of fall 2022, 
+workers were going to the office an average of just 3.5 days per week, some 30 percent below 
+prepandemic norms, according to our survey. (For more information about the survey, see the 
+technical appendix.) 
+
+Of all the survey respondents, 37 percent go to the office every day (Exhibit 1). An additional  
+56 percent have hybrid work arrangements and thus spend one to four days per week in the 
+office. And 7 percent work fully remotely.
+
+Exhibit 1
+
+Most office employees report having hybrid work arrangements.
+
+Distribution of survey respondents by reported days of office attendance per week, %
+
+0 days
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Reported office attendance by city, working days per week
+
+0 1 2 3 4 5
+
+San Francisco
+London 
+New York City
+Houston 
+Paris
+Munich
+Tokyo 
+Beijing
+Shanghai
+
+3.0
+
+3.2
+
+3.4
+
+3.6
+
+3.8
+
+4.0
+
+Note: Percentages do not add up to 100 because of rounding. Survey respondents were asked, “On average, how many days of the week do you work in the 
+office currently?” These results exclude respondents who said that they were not “currently employed and in the office workforce.” They also exclude 
+respondents who said that they were not currently working full time.
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+As of fall 2022, workers were  
+going to the office just 3.5 days per 
+week, on average, some 30 percent 
+below prepandemic norms.
+
+18
+
+7711191837McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateOffice attendance is lower in metropolitan areas with expensive housing and a large share 
+of knowledge-economy workers
+Office attendance varies among metropolitan areas. Employees in Beijing, for example, go to 
+the office 3.9 days per week, on average, while those in London go just 3.1 days per week. The 
+other metropolitan areas we studied ranked between those extremes and were mostly clustered 
+around 3.3 to 3.6 days in the office. Similarly, the percentage of workers who do not work from 
+home at all varies by country. In Japan, more than half of all office workers spend five days per 
+week in the office. In the United Kingdom, just 28 percent do. 
+
+Two urban characteristics seem to matter most in determining office attendance in a 
+metropolitan area: its proportion of knowledge-economy workers and its housing costs  
+(Exhibit 2). According to our regression analysis of US counties, the higher a county’s ratio of 
+knowledge-economy workers to other workers, the lower its average office attendance.  
+(We define the knowledge economy as the professional services, information technology, and 
+finance industries.) Similarly, the higher home prices are in an urban core relative to its suburbs, 
+the lower the metro area’s average office attendance is (see Box E1, “How we define cities,”  
+in the executive summary). Other characteristics of US counties with lower office attendance, 
+according to our analysis, are a larger share of commuters and a smaller share of retail 
+employees (which suggests a more limited retail presence). It seems reasonable to think that 
+those relationships would also exist in superstar cities elsewhere in the world, but we were not 
+able to confirm that.
+
+Culture and government policy also play a role in office attendance. For example, Chinese cities’ 
+high rates of office attendance today can probably be explained by the widespread “996” office 
+culture (for “9 a.m. to 9 p.m. in the office, six days a week”). And Beijing’s and Shanghai’s citywide 
+lockdowns reduced office attendance to near zero when they were in effect. 
+
+Exhibit 2
+
+In the United States, office attendance is lower in expensive, 
+knowledge economy–oriented counties.
+
+Change in foot traffic near offices, January 2020 to October 2022, %
+
+Urban
+
+Rural
+
+Suburban
+
+Circle size
+
+= 1 million employed workers
+
+Expensive
+
+New York County
+
+New York County
+
+Slower 
+return 
+to offices
+
+San Francisco County
+
+San Francisco County
+
+Note: This exhibit shows counties in the Atlanta, Boston, Chicago, Dallas, Houston, Los Angeles, New York City, Philadelphia, San Francisco, Seattle, and 
+Washington, DC, metropolitan areas.
+Source: Google’s Community Mobility Reports; US Bureau of Labor Statistics; US Census Bureau; Zillow Home Value Index; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+19
+
+141312Natural logarithm of typical home value, 20190–50604020Knowledge-economy workers as a share of all workers, 2019, %0–50McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateOffice attendance is lower in large firms in the knowledge economy 
+Employees at larger firms report significantly lower office attendance than do those at smaller 
+firms (Exhibit 3). For example, at firms with 1,000 to 9,999 employees, workers go to the office 
+3.3 days per week, on average; at firms with 50 to 99 employees, attendance averages 3.7 days. 
+One potential reason is that larger companies tend to have more resources and technology to 
+support working from home. Another is that the sense of community may be stronger at smaller 
+companies, prompting more employees to visit the office. 
+
+Also, client meetings are less of a reason to come to the office for employees at larger 
+companies than for those at smaller ones. At companies with 1,000 to 24,999 employees,  
+25 percent of survey respondents ranked meeting with clients as one of the top three reasons 
+to come to the office, whereas at companies with fewer than 100 employees, 32 percent did.  
+A similar pattern exists for employees in client-facing roles: among salespeople at companies 
+with 1,000 to 24,999 employees, 42 percent go to the office five days per week, a share that 
+grows to 54 percent at companies with 2 to 99 employees.
+
+And employees in the knowledge economy go to the office 0.2 fewer days per week than do 
+those in other industries. One reason could be that knowledge-economy industries are highly 
+digitized and therefore amenable to remote work. Another could be that employees in those 
+
+Exhibit 3
+
+Office attendance is lower in large firms in the knowledge economy.
+
+Office attendance by industry and firm size, working days per week
+
+Days
+
+2.0
+
+2.5
+
+3.0 3.5
+
+4.0
+
+4.5
+
+Note: Survey respondents were asked, “On average, how many days of the week do you work in the office currently?” These results exclude respondents who 
+said that they were not “currently employed and in the office workforce.” They also exclude respondents who said that they were not currently working full time. 
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+20
+
+50–99500–99910–24.9KLarger firms, by employee countGovernmentEducationAgriculture and miningTransportationRetail and wholesale tradeConstructionManufacturingReal estateUtilities and administrationArts and accommodationHealthcareManagementFinanceInformationProfessional services1–9.9K25K+2–49100–249250–499McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateindustries therefore see less need for commuting and have a lower tolerance for it. Even though 
+their commutes are no longer than those of other workers, they were much likelier than other 
+workers to call saving commuting time one of their top three reasons for working from home.
+
+Office attendance varies in subtle ways by age, income, and seniority 
+The average number of days that respondents work in the office does not vary much by age, 
+income, or seniority (Exhibit 4, left side). For example, millennials reported working 3.4 days per 
+week in the office, and members of Generation X and baby boomers reported 3.5. The starkest 
+variation we found was among millennials in senior positions, who go to the office 3.7 days per 
+week, more than any other group we studied.
+
+However, there are some differences in the likelihood of those groups to go to the office a 
+particular number of days per week (Exhibit 4, right side). Two differences in particular stand out. 
+First, baby boomers are much likelier to go to the office five days per week than younger workers 
+
+Exhibit 4
+
+Office attendance varies in subtle ways by age, income, and seniority.
+
+Reported attendance by age, 
+working days per week
+
+Distribution of survey respondents by reported attendance, %
+
+By age and income
+
+By age and job seniority²
+
+Note: Survey respondents were asked, “On average, how many days of the week do you work in the office currently?” These results exclude respondents who 
+said that they were not “currently employed and in the office workforce.” They also exclude respondents who said that they were not currently working full time. 
+Respondents who were 18 to 34 years old when the survey was conducted were classified as millennials, those who were 35 to 54 years old were classified as 
+Generation X, and those who were at least 55 years old were classified as baby boomers.
+¹These averages are unweighted. ²Junior roles include associates and analysts; midlevel roles include directors, managers, and team leaders; senior roles include 
+C-suite executives and vice presidents.
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+21
+
+AverageBaby boomersGen XMillennials66771322222121666611222223237777101717141445778812191915153831315555101919242436Average1212881014141111466677122020191936334410252526263205 days per week23413.3–3.4≥3.73.5–3.6678768111111231915202012333746>$150K$100–$150K$75–$100K$50–$75K<$50KSeniorMidlevelJuniorBaby boomersGen XMillennialsBaby boomersGen XMillennialsBaby boomersGen XMillennialsAverage¹Not remoteWork remotely one ormore days per weekMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateare. Second, junior-level workers are much likelier to go to the office five days per week than 
+midlevel and senior employees are; perhaps counterintuitively, they are also more likely to work 
+entirely remotely, never going to the office at all.
+
+Furthermore, cluster analysis of respondents in the United States reveals statistically significant 
+groups among those who mostly go to the office and those who mostly work from home. There 
+are two such groups among people who mostly go to the office: high-earning male C-suite 
+employees and low-earning female junior employees. There are also two such groups among 
+people who mostly work from home: knowledge-economy workers who earn over $200,000 per 
+year and, again, low-earning female junior employees.
+
+Employees work from home to save commuting time, and they work from the office to see 
+their teams 
+When we asked survey respondents who were able to work from home what their top reason was 
+for doing so, the most popular answer globally, as we expected, was to save commuting time, 
+followed by increasing productivity and saving money (Exhibit 5). The answers varied by country, 
+however. For example, 38 percent of respondents in Japan cited saving commuting time as their 
+top reason, whereas just 11 percent of those in China said the same. Saving money was the top 
+reason for 11 to 15 percent of respondents in Europe but for just 3 percent of those in Japan. In all 
+countries, however, respondents called increasing productivity one of the top reasons. 
+
+The most popular reasons given by workers with flexible work arrangements for choosing to 
+come to the office were to be able to work with their teams, to comply with an employer’s policy, 
+and to increase productivity. (The fact that increasing productivity was cited as a top reason 
+for both going to the office and working from home suggests that where employees feel most 
+productive may differ by individual or task.) Those findings were substantially consistent in 
+France, Germany, the United Kingdom, and the United States. In China and Japan, however, few 
+respondents cited an employer’s policy as their top reason for going to the office. 
+
+Exhibit 5
+
+Employees work from home to save commuting time, and they work in the 
+office to see their teams.
+
+Top reason for working in the office among 
+respondents with flexible work arrangements, %
+
+Top reason for working at home among 
+respondents with flexible work arrangements, %
+
+To increase social 
+time with family
+
+Note: Respondents were asked to name their top reason. Only the five most popular responses are shown, so the percentages do not add up to 100. Also, 
+responses are shown only from respondents who said that they were able to work from home more than one day per month.
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+22
+
+To better accesstools, technologiesTo meet my clientsTo increase myproductivityTo comply with myemployer’s policyTo work with my teamTo work in a more pleasant spaceTo save moneyTo increase my productivityTo save commuting time2012111092011987McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+The current rate of office attendance may persist
+Three indicators suggest that the current rate of office attendance may have stabilized. First, 
+in ten of the most populous cities in the United States, office attendance has held roughly 
+steady since mid-2022, aside from a normal seasonal dip around the winter holidays (Exhibit 
+6).9 Second, three numbers—the number of days per week that survey respondents go to the 
+office, the number of days that they expect to go to the office after the pandemic ends, and their 
+preferred number—are not far apart (Exhibit 7). 
+
+Exhibit 6
+
+Office attendance appears to have stabilized, though it remains below 
+prepandemic levels. 
+
+Office attendance in US cities, indexed to 100 in March 2020, %
+
+Note: The access badges that these data are drawn from are mostly used in large, Class A office buildings.
+Source: Kastle; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+9  Data from Kastle. Note that the access badges that the data are drawn from are mostly used in large, Class A office buildings.
+
+23
+
+20232022202120200100908070605040302010AustinHoustonDallasAverageChicagoLos AngelesNew YorkWashington, DCSan FranciscoSan JosePhiladelphiaMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+ 
+Exhibit 7
+
+Employees already work nearly as few days in the office as they would like.
+
+Reported number of days per week worked in the office
+
+Ideal
+If it were entirely up to you, how many 
+days each week would you work from 
+the office, on average?
+
+Current
+On average, how many days of 
+the week do you work in the 
+office currently?
+
+Expected
+After the pandemic ends, what is your 
+best estimate of how often your employer
+will require you to work in the office?
+
+Metro area
+
+Note: These results exclude respondents who said that they were not “currently employed and in the office workforce.”
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Exhibit 8
+
+Employees who strongly prefer to work from home are comparatively senior 
+and well paid.
+
+Distribution of survey respondents, %
+
+All respondents
+
+Respondents who strongly prefer to work from home¹
+
+By income
+
+By job seniority²
+
+56
+
+16
+
+17
+
+19
+
+22
+
+25
+
+19
+
+25
+
+>$150K
+
+$100K–$150K
+
+$75K–$100K
+
+$50K–$75K
+
+<$50K
+
+16
+
+11
+
+9
+
+33
+
+31
+
+Senior
+
+Midlevel
+
+Junior
+
+6
+
+44
+
+50
+
+1Defined as respondents who said that they were both likely to quit their jobs if required to work at the office every day and willing to trade more than 20 
+percent of their compensation to work their preferred number of days from home.
+2Junior roles include associates and analysts; midlevel roles include directors, managers, and team leaders; senior roles include C-suite executives and vice 
+presidents.
+Source: McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+24
+
+054321 Beijing ShanghaiAverage MunichParisTokyoHoustonLondonSan FranciscoNew York CityMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThird, a sizable and influential group of office workers strongly prefer to continue working 
+remotely. About 10 percent of respondents worldwide said that they were both likely to quit 
+their jobs if required to work at the office every day and willing to trade more than 20 percent 
+of their compensation to work their preferred number of days from home. That group is 
+comparatively senior and well paid; 44 percent of them are in senior roles, and 33 percent  
+of them earn more than $150,000 per year (Exhibit 8). Their seniority and high incomes 
+suggest that they are probably decision makers who can protect remote work at the team or 
+company level.  
+
+Nevertheless, it is not certain that office attendance will stay at its current level. For example, 
+employees might gain bargaining power and reduce the number of days they work in the 
+office, or employers might gain bargaining power (in the event of a recession, for example) and 
+increase that number. Improvements in hybrid work technology and processes could make it 
+less necessary to come to the office. 
+
+Office attendance could also rise if employers find ways to attract workers back to the office. 
+As pandemic restrictions loosened, employers often offered perks, such as free meals and 
+in-office recreational areas, to encourage employees to return. But that approach appears to 
+have succeeded only on a very limited scale; just 3 percent of respondents who were able to 
+choose where to work called such perks their top reason for going to the office. 
+
+In the long run, what chiefly determines the rate of office attendance will be its impact on 
+productivity. If research conclusively indicates either a negative or a positive relationship 
+between hybrid work and productivity, that could push office attendance up or down, 
+respectively. Studies conducted by companies and research institutions have so far shown  
+no negative relationship between hybrid work and productivity.10 For example, a previous MGI 
+report found that about 20 to 25 percent of the workforces in advanced economies could work 
+from home between three and five days a week without a loss of productivity.11 Employees 
+themselves seem to believe that hybrid work helps productivity; in our survey, 87 percent of 
+survey respondents indicated that they would be more productive if they worked their desired 
+number of days at home than if they had to work at the office five days per week. 
+
+Up to 7 percent of the people in urban cores left for good
+
+For more than 20 years, superstar cities were the center of global growth. Just 1 percent of the 
+Earth’s surface was home to more than 50 percent of global GDP growth and population growth 
+from 2000 to 2019.12 The two types of growth reinforced each other: “agglomeration economies” 
+fueled economic and productivity growth in these cities, resulting in high-income jobs that 
+attracted still more people.13 They came even though housing tended to be expensive—especially 
+in superstar cities where the supply of housing was very constrained, such as San Francisco.
+
+10  See The next great disruption is hybrid work—are we ready? Microsoft, March 2021; State of remote work 2020, Buffer, 
+February 2020; and Nicholas Bloom et al., “Does working from home work? Evidence from a Chinese experiment,”  
+The Quarterly Journal of Economics, volume 130, number 1, February 2015.
+11  The future of work after COVID-19, McKinsey Global Institute, February 2021.
+12  Pixels of progress: A granular look at human development around the world, McKinsey Global Institute, December 2022.
+13  See, among others, Greg Howard and Jack Liebersohn, “Why is the rent so darn high? The role of growing demand to live 
+in housing-supply-inelastic cities,” Journal of Urban Economics, volume 124, July 2021; Kathleen Bolter and Jim Robey, 
+Agglomeration economies: A literature review, W. E. Upjohn Institute for Employment Research, June 2020; and  
+Edward L. Glaeser, ed., Agglomeration economics, National Bureau of Economic Research, February 2010. Glaeser defines 
+agglomeration economies as “the benefits that come when firms and people locate near one another together in cities and 
+industrial clusters.”
+
+25
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 9
+
+The pandemic reduced population growth in most cities. 
+
+Population growth per year, %
+
+Prepandemic
+2014–19 change
+
+Through the pandemic
+2020–22 change
+
+Country
+
+US
+US
+US
+US
+US
+US
+US
+Spain
+France
+US
+US
+US
+Germany
+Germany
+Germany
+Germany
+Germany
+US
+Japan
+Japan
+Japan
+
+Metro 
+area
+
+−1
+
+0
+
+1
+
+2
+
+−2
+
+−1
+
+0
+
+1
+
+2
+
+Dallas
+Houston
+New York City
+San Francisco
+Washington, DC
+Boston
+Chicago
+Madrid
+Paris
+Atlanta
+Philadelphia
+Los Angeles
+Cologne
+Frankfurt
+Berlin
+Munich
+Düsseldorf
+Seattle
+Tokyo
+Osaka
+Nagoya
+
+UK
+China
+China
+
+London
+Beijing
+Shanghai
+
+Represents
+2020–21 change 
+(2022 data 
+not yet available)
+
+Source: Beijing Municipal Bureau of Statistics; Eurostat; National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); 
+E-Stat (Japan); Office for National Statistics (United Kingdom); Shanghai Municipal Bureau of Statistics; US Census Bureau; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Then the pandemic began, prompting a wave of households to leave superstar cities and thus 
+driving down population (Exhibit 9). Munich’s population grew by 1.0 percent per year from 2014 
+to 2019, for instance, but it grew by only 0.3 percent per year from 2020 to 2022. In Boston, 
+population growth during the first period turned into population decline during the second. Urban 
+cores were particularly affected. For example, New York City’s urban core lost 5 percent of its 
+population from mid-2020 to mid-2022, and San Francisco’s lost 7 percent. One reason for the 
+surge of out-migration was hybrid work. Now that people were not working at the office, they cared 
+less about living nearby and could instead prioritize better housing conditions. 
+
+Out-migration has since declined, but it has neither ended nor reversed, and it seems to remain 
+higher than it was before the pandemic began. That is, the people who left the urban cores are 
+not coming back, and many others are still leaving. 
+
+During the pandemic, a wave of households in superstar cities moved from the urban cores 
+to the suburbs, a trend that was strongest in the United States
+In all but two of the superstar cities we studied, after the pandemic began, the difference 
+between urban and suburban population growth shifted to the suburbs’ advantage  
+
+26
+
+1.81.4−1.0−1.70.1−0.4−0.8−0.20.3110.0−1.2−0.10.10.20.3−0.10.1−0.1−0.5−0.5−2.3−0.01.91.50.20.00.40.70.91.00.41.61.70.3−0.2−0.11.00.0−0.00.60.80.5−0.20.60.30.00.0McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate(Exhibit 10).14 Exactly how much varied from city to city. The difference between urban and 
+suburban population growth was largest in London, Dallas, Houston, New York City, and San 
+Francisco. In most US cities, suburbanization had already been happening and was simply 
+accelerated by the pandemic. By contrast, all the European cities that we studied except Paris 
+and Munich had been urbanizing before the pandemic, so the suburbanization represented a 
+reversal. The Japanese cities had also been growing more urban before the pandemic, but there, 
+the trend continued even after the pandemic started. 
+
+Exhibit 10
+
+During the pandemic, most suburbs grew more quickly than their urban cores.
+
+Difference between urban and suburban population growth rates, percentage points
+
+Through the pandemic
+2020–22 CAGR
+
+Through the pandemic
+2020–21 CAGR 
+(2022 data not yet available)
+
+Prepandemic
+2015–19 CAGR
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1
+
+Suburban growth
+stronger
+
+Urban growth
+stronger
+
+Country
+
+US
+US
+US
+US
+US
+US
+US
+Spain
+France
+US
+US
+US
+Germany
+Germany
+Germany
+Germany
+Germany
+US
+Japan
+Japan
+Japan
+
+Metro 
+area
+
+Dallas
+Houston
+New York City
+San Francisco
+Washington, DC
+Boston
+Chicago
+Madrid
+Paris
+Atlanta
+Philadelphia
+Los Angeles
+Cologne
+Frankfurt
+Berlin
+Munich
+Düsseldorf
+Seattle
+Tokyo
+Osaka
+Nagoya
+
+UK
+China
+China
+
+London
+Beijing
+Shanghai
+
+Note: Results shown for London are based on census revisions made for 2021 by the United Kingdom’s Office for National Statistics.
+Source: Beijing Municipal Bureau of Statistics; Eurostat; National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); 
+E-Stat (Japan); Office for National Statistics (United Kingdom); Shanghai Municipal Bureau of Statistics; US Census Bureau; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+14  Those two cities are Beijing and Munich. The time in question is the 2020–22 period, except for Beijing, London, and 
+
+Shanghai, where data about population changes in 2022 were not available; for those cities, we studied the 2020–21 period. 
+Also, the month in which the 2020–22 period begins differs from country to country. For example, for the United States, the 
+period begins in July 2020 and ends in July 2022, but for France, it begins in January 2020 and ends in January 2022.
+
+27
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estatePopulation trends in Beijing were very different from those in other cities. For years before the 
+pandemic, the government had relocated Beijing’s residents to suburban areas. During the 
+pandemic, however, it imposed policies restricting movement; as a result, population growth in 
+Beijing’s urban core nearly matched that in its suburbs.15 
+
+The suburbanization effect may have been stronger in US superstar cities than in European 
+and Japanese ones because the urban cores of US superstar cities tend to be office-dense 
+and retail-poor, whereas the European and Japanese urban cores tend to follow a mixed-use 
+model in which office, residential, and retail space exist alongside one another. Supporting that 
+contention is our statistical analysis of US counties, which indicates that those experiencing 
+the highest rates of out-migration during the pandemic tended to have four characteristics: 
+expensive homes, high office density, a high share of workers in the knowledge economy, and a 
+low share of workers in retail, which suggests a more limited retail presence (Exhibit 11).16 
+
+The same patterns held true at the zip code level during the pandemic. When we conducted an 
+analysis of neighborhoods in San Francisco County, New York County (Manhattan), and Harris 
+County (which is mostly Houston), we found that people moved out of expensive, office-dense zip 
+codes and into cheaper ones with more mixed use of real estate. 
+
+The urban cores of US superstar 
+cities tend to be office-dense and 
+retail-poor, whereas the European 
+and Japanese urban cores tend to 
+follow a mixed-use model.
+
+15  In 2020, domestic migration declined by 40 percent in 369 Chinese cities. See Debin Lu et al., “Spatiotemporal patterns and 
+influencing factors of human migration networks in China during COVID-19,” Geography and Sustainability, volume 2, issue 4, 
+December 2021.
+
+16  Specifically, we studied about 130 counties in the Atlanta, Boston, Chicago, Dallas, Houston, Los Angeles, New York City, 
+
+Philadelphia, San Francisco, Seattle, and Washington, DC, metropolitan areas. As a proxy for home price, we used the Zillow 
+Home Value Index at the county level; to measure office density, we used employment as a share of population.
+
+28
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 11
+
+Counties that were expensive, office-dense, knowledge economy–oriented, 
+and retail-weak suffered greater out-migration during the pandemic. 
+
+Net migration, 2020–21, as a share of population , %
+
+Urban
+
+Rural
+
+Suburban
+
+= 1 million employed workers
+
+Net in-migration
+
+Net 
+out-migration
+
+Net 
+in-migration
+
+Net 
+out-migration
+
+Expensive
+
+Office-dense
+
+Knowledge 
+economy–oriented
+
+Retail-weak
+
+ Note: This exhibit shows counties in the Atlanta, Boston, Chicago, Dallas, Houston, Los Angeles, New York City, Philadelphia, San Francisco, Seattle, and 
+Washington, DC, metropolitan areas. 
+¹This measure is a proxy for the share of real estate occupied by office buildings. Higher employment as a share of population suggests a large population of 
+commuters working in office-dense areas. 
+Source: US Bureau of Labor Statistics; US Census Bureau; Zillow Home Value Index; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+29
+
+14131206-60100501505040302006-6909585-60606-6Natural logarithm of typical home value in 2019Employment as a share of population in 2019, %1Nonretail workers  as a share of all workers in 2019, % Knowledge-economy workers  as a share of all workers in 2019, %McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateHybrid work encouraged the out-migration
+To learn more about why people left urban cores during the pandemic, we identified survey 
+respondents who had moved after March 2020 for pandemic-related reasons. They represented 
+the majority of all respondents who had moved after March 2020 (Exhibit 12). Roughly a third of 
+them said that their moves would not have been possible without remote work. 
+
+Pandemic-related out-migration after March 2020 was led by young households, and in 
+particular by young people who had caregiving responsibilities and who valued remote work. 
+Respondents who moved because of the pandemic were younger than those who did not move 
+(averaging 36 years of age as opposed to 43); were more prone to say that they were “likely” 
+or “extremely likely” to quit their jobs if forced to go to the office five days a week (39 percent 
+versus 26 percent); were likelier to be caregivers (59 percent versus 44 percent); and had bigger 
+households, on average (3.1 people versus 2.9). 
+
+Many of these moves happened because employees untethered from their daily commutes 
+began to care less about how far they lived from the office. Of all survey respondents who went 
+to the office less than five days per week, 38 percent said that remote work had made them more 
+willing to live farther from the office. In the United States, 55 percent of respondents who moved 
+during the pandemic went to places that were farther from the office than their previous homes 
+had been, while just 33 percent moved closer. 
+
+Exhibit 12
+
+Young caregivers who valued hybrid work drove pandemic-related moves. 
+
+Distribution of survey respondents, %
+
+Moved for other
+reasons
+
+Characteristics
+
+Did not move
+during the pandemic
+
+Moved for pandemic-
+related reasons
+
+Reported being “likely” or “extremely likely” 
+to quit a job if forced to attend 
+the office five days per week, % 
+
+Reported being a primary caregiver, % 
+
+Average age, years
+
+43
+
+36
+
+Average household size, people
+
+Source: McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+30
+
+19r263944592.93.16912McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateOut-migration has since slowed, but people are still leaving urban cores 
+Out-migration from superstar cities’ urban cores seems to have slowed of late. Between 2020 
+and 2021, 0.32 percent of the US population left superstar urban cores; the following year, that 
+share fell to 0.24 percent (Exhibit 13).17 But that loss is still larger than it was before the pandemic. 
+In other words, the people who moved out during the pandemic are not moving back, at least not 
+yet. The main beneficiaries of out-migration seem to be rural and suburban areas near  
+non-superstar cities. 
+
+Our survey suggests that the people who left urban cores in other countries are not coming back 
+either. In China, 41 percent of pandemic-related movers said that they might move back, but that 
+share was less than a quarter in France, Germany, Japan, and the United Kingdom. Pandemic-
+related movers’ strong preference for hybrid work—and their professed willingness to quit their 
+jobs if denied it—also implies that they are unlikely to move back.
+
+Exhibit 13
+
+Migration from US urban cores has slowed but not stopped since 
+the start of the pandemic. 
+
+Net migration as a share of total US population, %
+
+Net in-migration
+
+Net out-migration
+
+Note: The superstar cities included here are Atlanta, Boston, Chicago, Dallas, Houston, Los Angeles, New York City, Philadelphia, San Francisco, Seattle, 
+and Washington, DC. Net migration in the four categories adds up to zero. 
+Source: US Census Bureau; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+17  Data from the US Census Bureau.
+
+31
+
+20202015201100.4-400.2−0.2Superstar metro areas, urban coreSuperstar metro areas, suburban/ruralOther counties,urban coreOther counties,suburban/ruralUrbanSuburban/ruralMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateShopping remains depressed, especially in urban cores
+
+Just as the shift to hybrid work has changed people’s residential preferences, it has changed 
+their shopping preferences. During the height of the pandemic, foot traffic near brick-and-
+mortar stores plummeted, especially in urban cores. The office workers who used to sustain 
+those stores shopped there far less, shifting their purchases to the internet and to stores near 
+their homes in the suburbs. More recently, foot traffic near urban stores has risen again, but it 
+remains lower than it was before the pandemic, spelling problems for retailers. 
+
+As people stayed home during the pandemic, they radically changed the way they shopped
+In March and April 2020, as the pandemic began, foot traffic near stores plummeted in the 
+superstar cities we studied (Exhibit 14).18 The declines were starkest in London and Paris, 
+where it fell by about 80 percent. In New York City and San Francisco, it fell by 50 to 60 percent 
+during the same period, while in Houston and Tokyo, it declined by only about 30 percent. The 
+different outcomes may have been due to variations in government policies, degrees of tourism, 
+acceptance of remote work, and other cultural norms. For example, the strict lockdowns that 
+London and Paris imposed in March may have contributed to those cities’ precipitous declines. 
+
+Exhibit 14
+
+Foot traffic near stores plunged at the start of the pandemic, particularly 
+in London and Paris. 
+
+Change in foot traffic near stores, indexed to 100 in January 2020, %¹
+
+Tokyo
+Houston
+Paris
+New York City
+London
+San Francisco
+
+32
+
+¹Stores include retail and recreation locations but not grocery stores or pharmacies. 
+ Source: Google’s Community Mobility Reports; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+18  Data from Google’s COVID-19 Community Mobility Reports.
+
+202220212020100020406012080McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+Exhibit 15
+
+Online retail spending spiked in 2020, though it has since returned to 
+prepandemic trends. 
+
+Online spending as a share of all retail spending,
+by country, %
+
+Growth of online spending as a share 
+of all retail spending, percentage points
+
+Average annual
+change, 2016–19
+
+Change,
+2019–20
+
+China
+
+UK
+
+Germany
+
+US
+
+France
+
+Japan
+
+↑ 2.2
+
+↑ 1.5
+
+↑ 0.7
+
+↑ 0.9
+
+↑ 0.7
+
+↑ 0.4
+
+↑ 9.9
+
+↑ 8.9
+
+↑ 2.1
+
+↑ 4.1
+
+↑ 2.4
+
+↑ 1.3
+
+Source: Euromonitor; Ministry of Economy, Trade, and Industry (Japan); Beijing Municipal Bureau of Statistics; Office for National Statistics (United Kingdom); 
+US Census Bureau; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+One trend that helped consumers visit stores less often was a quickening shift to online shopping 
+(Exhibit 15). Online spending as a share of all retail spending had already been growing; in the 
+three years before the pandemic, that share grew by 0.4 percentage point per year in Japan and 
+by 2.2 percentage points per year in China, for example. But then the pandemic began, and the 
+share spiked from the end of 2019 to the end of 2020. The spike occurred in all the countries we 
+studied; it was smallest in Japan (1.3 percentage points) and largest in China (9.9 percentage 
+points). The pandemic effectively accelerated the use of online spending by three to four years. 
+
+An interesting fact is that the countries seeing the sharpest increases, China and the United 
+Kingdom, were the ones where online spending represented the largest share of all retail 
+spending before the pandemic. Perhaps those countries were the most primed for e-commerce 
+growth—with greater customer awareness, more mature distribution, and more adept  
+retailers—and were therefore best able to meet the surge in demand during the pandemic. 
+
+33
+
+202020160403020102019McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateShopping behavior has started to return to prepandemic trends, yet foot traffic and 
+purchasing in stores remain lower 
+Although it spiked during the first year of the pandemic, online spending as a share of retail 
+spending is now at the same level that it would have reached by now if the pandemic had not 
+happened. It has done that either by growing more slowly (as in France and Germany) or by 
+shrinking (as in China and the United States), though of course it remains higher everywhere than 
+it was before the pandemic. 
+
+Yet foot traffic near stores remains down. As of October 2022, it appeared to have stabilized at a 
+level 10 to 20 percent lower than the prepandemic level in the metropolitan areas we studied. 
+
+Spending in stores also remains down, though not as much as foot traffic (Exhibit 16). In most 
+metropolitan areas, it was estimated to be as much as 10 percent lower in 2022 than it had 
+been in 2019 in real terms—though in Beijing, where lockdowns remained in force through most 
+of 2022, it was far lower. Although this is bad news for stores, at least the decline in spending 
+has not been as steep as the decline in foot traffic: shoppers have consolidated trips, making 
+purchases more frequently when they do visit stores and spending more per trip.
+
+Exhibit 16
+
+Spending in stores did not fall as quickly as foot traffic. 
+
+Spending in stores, indexed to 100 in 2019, %
+
+Average annual change, %
+
+2015–19
+
+2019–22
+
+Houston
+
+↑ 1.3
+
+↑ 1.7
+
+Munich
+
+↓ 0.5
+
+↓ 0.3
+
+San Francisco
+
+↑ 0.2
+
+↓ 0.5
+
+New York City
+
+↓ 1.3
+
+↓ 0.4
+
+Paris
+
+Tokyo
+
+London
+
+Beijing
+
+↑ 0.4
+
+↓ 1.3
+
+No data
+
+↓ 1.7
+
+↓ 1.1
+
+↑ 1.2
+
+↓ 2.7
+
+↓ 6.9
+
+Note: These numbers were adjusted for inflation. Values for 2022 are estimates. 
+Source: Beijing Municipal Bureau of Statistics; Euromonitor; Ministry of Economy, Trade, and Industry (Japan); US Census Bureau;
+McKinsey Global Institute analysis  
+
+McKinsey & Company
+
+34
+
+202220192015100908070110McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+Exhibit 17
+
+The pandemic led consumers to spend more on goods, but since 2021, 
+they have been shifting their spending to services. 
+
+US monthly consumer spending, indexed to 100 in December 2015, %
+
+Spending 
+up 15.5%
+
+Goods
+
+Services
+
+Spending 
+recovers
+
+Note: Numbers adjusted for inflation. 
+Source: US Bureau of Economic Analysis; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+And though consumers famously shifted their spending from services to goods during the 
+pandemic, they have been slowly shifting it back to services since mid-2021. In the United States, 
+for instance, spending on goods has stabilized since the end of 2021, but spending on services 
+has continued to grow past prepandemic levels in real terms (Exhibit 17). In France, spending on 
+services grew in 2021 in real terms; in 2022, it grew again, even as spending on goods fell. 
+
+Those trends will pose challenges for brick-and-mortar stores’ sales. The upward march of online 
+sales will eat away at the stores’ revenues, even though that march has slowed since 2020. Lost 
+foot traffic will do the same unless stores find ways to improve their marketing or encourage the 
+customers who do visit to make more and larger purchases. (The most successful retailers are 
+rethinking their store formats to support omnichannel experiences—those in which customers’ 
+in-store and online experiences, including the marketing aimed at them, are integrated.) The 
+spending shift from goods back to services may further reduce foot traffic to stores selling 
+goods. And other trends could further complicate stores’ prospects. For example, “revenge 
+spending,” consumers’ tendency to spend heavily after the pandemic to make up for lost time, 
+will dissipate, or economies around the world could enter recessions. 
+
+35
+
+201320142015201620172018201920202021202220231009080140130120110McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateDeclines in foot traffic near stores have been particularly persistent in urban cores and 
+office-dense neighborhoods
+Retailers in urban cores confront even greater challenges. As of October 2022, foot traffic had 
+recovered noticeably less near those stores than near suburban ones (Exhibit 18). In New York, 
+for example, foot traffic near suburban stores was 16 percent lower than it had been in January 
+2020, but foot traffic near urban stores was 36 percent lower.
+
+And retail traffic has been still lower in cities’ office-dense neighborhoods. For example, the City 
+of London, the borough in London with the highest ratio of office jobs to residents, experienced 
+a nearly 50 percent decrease in foot traffic near stores from February 2020 to June 2022—by 
+far the most severe and sustained decline of any borough in London. Foot traffic near stores 
+was also hurt by declines in tourism, but more mildly; in London, boroughs that are popular with 
+tourists, such as Kensington and Westminster, fared much better than the City of London. 
+
+Exhibit 18
+
+Foot traffic near stores is recovering more quickly in the suburbs 
+than in urban cores. 
+
+Change in foot traffic near stores from January 2020, %1
+
+Suburban
+
+Urban
+
+Note: Cities are defined as follows: the New York–Newark–Jersey City metropolitan statistical area (MSA); the Greater London area; Île de France; 
+the San Francisco–Oakland–Hayward MSA; the Houston–The Woodlands–Sugar Land MSA; and the Kanto Region (Tokyo). 
+ 1Stores include retail and recreation locations but not grocery stores or pharmacies.
+Source: Google’s Community Mobility Reports; McKinsey Global Institute analysis  
+
+McKinsey & Company
+
+36
+
+New York City2020202120220-100-50London2020202120220-100-50Paris2020202120220-100-50San Francisco2020202120220-100-50Houston2020202120220-100-502020202120220-100-50TokyoMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 19
+
+In the United States, employees who work less in the office spend more online. 
+
+Share of weekly retail spending by number of days per week worked in the office, %
+
+Days worked in office
+
+Other
+
+Near workplace
+
+Shopping destination
+
+Near home
+
+Online
+
+Note: Survey respondents were asked, “On average, how many days of the week do you work in the office currently?” and “What proportion of your weekly retail 
+expenditure do you spend at the following locations currently?”  
+Source: McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+Part of the reason for office-dense neighborhoods’ declines in foot traffic seems to be that many 
+of the employees who might shop there spend more time working from home than they used to. 
+In our survey, respondents in the United States who worked at the office no more than one day 
+per week reported doing much less of their total retail spending near the office than those who 
+worked in the office for two to five days a week reported (Exhibit 19).
+
+However, the struggles of stores in urban cores may present opportunities for those in the 
+suburbs. The same survey respondents—those who spent less at stores near the office—also 
+spent more at stores near home. 
+
+37
+
+012345121619171817410101483535282322263634242622251411192424243McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© Victor Torres/Stocksy
+
+38
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate2.  The impact on 
+
+real estate
+
+The pandemic had major effects on office workers in superstar cities, as the previous chapter 
+described. Above all, the pandemic changed their working habits, encouraging many employees 
+to work from home instead of in the office. As they abandoned offices in urban cores, they also 
+started moving to the suburbs in search of larger homes in greener areas. And they shopped less 
+at stores near the office and more online.
+
+Those three changes could have equally significant effects on demand for office, residential, 
+and retail real estate. To find out how large those effects might be, we built a model that 
+projects demand for office, residential, and retail space in a number of scenarios, including a 
+moderate one and a severe one. The model used information from the large global survey that 
+we conducted. We also considered a wide variety of factors, including long-term population 
+trends; employment trends, such as the ongoing effects of automation on employment; office 
+attendance patterns by industry; employee coordination, defined as the maximum share of 
+workers in the office at a given time that employers need to maintain; workers’ ages and incomes; 
+the share of a city’s population that commutes from elsewhere; housing prices; and shopping 
+trends, such as the ongoing increase in online shopping. 
+
+In the scenarios that we modeled, demand for office and retail space is generally lower in 
+2030 than it was in 2019, but the reductions are smaller than those projected by many other 
+researchers. Residential space is less affected, though the price differences between urban 
+cores and suburbs are narrower than they used to be. (For more about the modeling methods and 
+differences among the scenarios, see the technical appendix.)
+
+There will be less demand for office space
+
+Demand for office space in superstar cities has been falling since the start of the pandemic as a 
+result of lower office attendance. Our model suggests that the problem will only worsen over the 
+next seven years, at least in most of the cities we studied.
+
+Demand for office space has already fallen, and vacancy rates have grown by as much as  
+13 percent in the cities we studied
+Since the start of the pandemic, lower office attendance has driven demand for office 
+space down and vacancy rates up. In every city we studied, the percentage of office space 
+that was vacant rose from 2019 to 2022 (Exhibit 20). The increase ranged from two to 
+13 percentage points, depending on the city. Moreover, the size of the increase in the cities we 
+studied correlated with the degree to which office attendance there fell, showing that the two 
+phenomena were related. For example, in San Francisco, which experienced one of the steepest 
+declines in office attendance in our study, office vacancy was more than ten percentage points 
+higher in 2022 than it was in 2019. That change was the largest of the vacancy-rate increases 
+we observed and seven percentage points higher than the national average. It was also a stark 
+reversal of prepandemic conditions: San Francisco was the tightest US market in 2019, when just 
+6 percent of its office space was vacant (four percentage points below the national average).
+
+39
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 20
+
+Office vacancy rates in superstar cities increased between 2019 and 2022. 
+
+Share of office space that was vacant, %
+
+2019
+
+2022
+
+Country
+
+Metro 
+area
+
+US
+
+UK
+
+US
+
+US
+
+San Francisco
+
+London
+
+New York City
+
+Houston
+
+France
+
+Paris
+
+Germany
+
+Munich
+
+Japan
+
+Tokyo
+
+China
+
+Shanghai
+
+China
+
+Beijing
+
+Average
+
+8% 2019
+
+14% 2022
+
+Note: In this exhibit, the cities are defined as follows: the San Francisco–Oakland–Hayward metropolitan statistical area (MSA); the London region; the 
+New York–Newark–Jersey City MSA; the Houston–The Woodlands–Sugar Land MSA; Île-de-France; the Munich MSA; the Tokyo region; the Shanghai region; 
+and the Beijing region.
+Source: BNP Paribas; Colliers; CoStar; E&G Real Estate; German Property Partners; Sanko Estate Company; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+In most superstar cities, lower office attendance has similarly driven down asking rents in real 
+terms.19 Rents in the US cities we studied fell especially sharply—for example, by 28 percent in 
+San Francisco and by 18 percent in New York City from 2019 to 2022. Rents in the European 
+cities we studied have been more resilient. In Paris, London, and Munich, they fell by 10 percent, 
+12 percent, and 9 percent, respectively. In only two of the cities we studied, Munich and  
+Tokyo, did rents actually increase; they grew the most in Tokyo, increasing by 4 percent from 
+2019 to 2022. 
+
+Occupancy and rents may fall further still. Because their employees are coming to the office less 
+often, many employers have downsized spaces to reduce costs. More will do so; thanks to the 
+lengthy nature of leases in the office sector, nearly half of all tenants have not made a renewal 
+decision since the onset of the pandemic, and macroeconomic uncertainty could give them 
+further reasons to downsize. Indeed, some tenants have chosen not to wait for their renewal 
+dates and instead have bought their way out of long-term contracts. Some landlords have 
+offered tenants rent abatements and higher tenant improvement allowances (capital for physical 
+improvements or alterations), but those actions, while they may have propped up occupancy, 
+have reduced effective rent. And though office attendance seems to be stabilizing, tenants may 
+remain hesitant to commit to new long-term leases, unsure of how much space they will need in a 
+few years. 
+
+19  To determine rent changes in real terms, we adjusted rents for inflation in the country where each city was located.
+
+40
+
+0201052515McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThere is historical precedent for rents’ falling further than they have so far. During the global 
+financial crisis of 2007 and 2008, and also when the dot-com bubble burst in the early 2000s, 
+asking rents in London, New York City, and San Francisco fell by more than 30 percent. They 
+dropped by 21 percent, on average, from their peak in the fourth quarter of 2019 to the fourth 
+quarter of 2022.
+
+The decline in demand has allowed tenants—wary about current macroeconomic conditions, 
+uncertain about how much their workers will come to the office, and therefore uncertain about 
+how much space they will need—to negotiate shorter leases from owners. Shorter leases, in turn, 
+may make it more difficult for owners to obtain financing or may cause banks to adjust valuation 
+models, which rely in part on the duration of existing leases.
+
+Also, because of uncertainty about demand, transaction volume—the dollar value of all sales of 
+office buildings—has fallen dramatically. The difference between the prices requested by owners 
+and the bids placed by potential buyers remains wide, financing costs are higher than they were 
+during a frenzied trading environment in 2021, and debt availability remains depressed.20 In 2022, 
+global volume fell in each consecutive quarter, and the total for the year was nearly 28 percent 
+lower than it was in 2019. At the city level, transaction volumes have broadly correlated with sale 
+prices. For example, transaction volume in New York City was 36 percent lower in 2022 than in 
+2019, and the average sale price per square foot fell 13 percent over the same period. Conversely, 
+transaction volume in Atlanta was 31 percent higher in 2022 than in 2019, and price per square 
+foot grew by 37 percent over the same period.21 
+
+Current owners of office buildings hope for a return to prepandemic levels of net operating 
+income. But potential buyers may not share that hope, according to a common indicator of the 
+market outlook for assets. Capitalization rates, which equal properties’ net operating income 
+divided by their current value, have been rising, and that is typically a sign of lower future 
+valuations. In the fourth quarter of 2022, total returns for the office sector in one index were 
+−4.80 percent, distinctly lower than the −3.50 percent returns for all asset classes.22 
+
+Demand for office space in the median city we studied is projected to be 13 percent lower in 
+2030 than in 2019
+According to our model, demand for office space in a moderate scenario will be 13 percent 
+lower in 2030 than it was in 2019 for the median superstar city in our study. Remote work and 
+flexible working arrangements drive that projected decline by reducing office attendance. Also, 
+the amount of space allocated to each office worker is expected to shrink as pandemic-related 
+concerns wane, further reducing demand. However, population growth may partly or fully offset 
+the expected demand decline in some cities. (Our model does not consider price elasticity; that 
+is, it does not account for the fact that when demand decreases, prices fall, pushing demand 
+partway back up.)
+
+In the scenarios we modeled, demand declines most precipitously in San Francisco (Exhibit 21). 
+One reason is that before the pandemic, the share of employees who were office-based in  
+San Francisco was among the highest in the United States, so office attendance there fell 
+unusually sharply. Furthermore, San Francisco had an unusually large share of workers in 
+technology and professional services, who were among the most able to work from home at 
+the start of the pandemic and have subsequently been among those who go to the office least 
+frequently. On their own, those pandemic-driven changes would push down demand for office 
+space in 2030 by 23 percent in the moderate scenario. But population and office employment 
+growth will push demand up and slightly offset that effect so that the net decline in demand is  
+20 percent.
+
+20  In 2021, global office trading volume grew 27 percent each quarter and commercial real estate trading volume grew 38 percent 
+
+each quarter.
+21  Data from CoStar.
+22  That index is the NCREIF Property Index maintained by the National Council of Real Estate Investment Fiduciaries.
+
+41
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 21
+
+In most superstar cities, demand for office space will be lower in 2030 than it 
+was in 2019.
+
+Projected change in office space demand before prices adjust, 2019–30, %
+
+Change resulting from factors unrelated to the pandemic 
+Change resulting from pandemic-driven behavior 
+
+Moderate scenario
+
+Severe scenario
+
+−20
+
+−10
+
+0
+
+10
+
+–40
+
+–30
+
+–20
+
+–10
+
+0
+
+10
+
+20
+
+San
+Francisco
+
+London
+
+−20
+
+−38
+
+−11
+
+New York City
+
+−16
+
+Houston
+
+Paris
+
+Munich
+
+Tokyo
+
+Beijing
+
+−13
+
+−16
+
+−9
+
+2
+
+2
+
+Shanghai
+
+−14
+
+−31
+
+−31
+
+−10
+
+−22
+
+−26
+
+−19
+
+–18
+
+–21
+
+Note: Cities are defined as follows: the San Francisco–Oakland–Hayward metropolitan statistical area (MSA); the London region; the New York–Newark–Jersey 
+City MSA; the Houston–The Woodlands–Sugar Land MSA; Île-de-France; the Munich MSA; the Tokyo region; the Beijing region; and the Shanghai region. For 
+more information about the scenarios, see the technical appendix. 
+Source: BNP Paribas; Colliers; Commercial Real Estate Intelligence Solutions; CoStar; E&G Real Estate; Federal Statistical Office (Germany); German Property 
+Partners; Kastle; Ministry of Beijing; Mitsui Fudosan; Sanko Estate Company; Tokyo Metropolitan Government; US Bureau of Labor Statistics; McKinsey Global 
+Institute analysis 
+
+McKinsey & Company
+
+Houston, by contrast, shows the strongest future demand for office space among cities in our 
+study. In the moderate scenario, such demand is projected to grow by 2 percent between 2019 
+and 2030. That growth is partly owing to Houston’s high office attendance; pandemic-driven 
+changes in people’s working behavior are thus projected to reduce demand for office space in 
+Houston by just 10 percent, a smaller drop than in some other cities. But it is also owing to strong 
+population growth. Houston has long benefited from a broader trend of migration to US Sunbelt 
+cities, and that trend, by pushing up total office employment, should boost demand by a powerful 
+13 percent, more than offsetting the pandemic-driven changes.
+
+42
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateOur model also estimates a severe scenario for office-space demand, one in which office 
+attendance remains at current levels indefinitely and out-migration from urban cores is higher.  
+In that scenario too, San Francisco fares worst among the cities we studied and Houston best.  
+In San Francisco, demand for office space would be 38 percent lower in 2030 than it was in 2019. 
+In Houston, demand would be 10 percent lower. 
+
+The demand shortfall that we project, along with growing supply resulting from the completion of 
+new office buildings, will boost vacancy rates. In 2030, in the superstar cities we studied, there will 
+be excess supply of office space of 7 to 21 percent, according to our model’s moderate scenario 
+(Exhibit 22). We define excess supply as the percentage of office space that is vacant beyond 
+structural vacancy (the average from 2014 to 2019). In essence, it represents the part of projected 
+vacancies attributable to the pandemic. It will be at least 15 percent in more than half the cities we 
+studied and be particularly high in San Francisco, Shanghai, Beijing, London, and Munich. 
+
+Excess supply is caused by two factors: decreasing demand for office space (discussed above) 
+and continued supply growth (that is, new office buildings entering the market). For example, 
+in Houston, excess supply is projected to be low (7 percent) because, although supply growth 
+will be about as high as in several other cities, demand is actually expected to grow, thanks to 
+employment growth and in-migration. By contrast, excess supply will be 20 percent in Shanghai, 
+driven by a relatively severe decline in demand and relatively high supply growth.
+
+Exhibit 22
+
+Excess supply in superstar cities is highest in San Francisco, Shanghai, Beijing, 
+London, and Munich .
+
+Projected change in demand for office 
+space before prices adjust, 2019–30, %
+
+Projected growth in 
+supply, 2019–30, %
+
+Projected vacancy rate, 
+2030, %
+
+6
+
+6
+
+8
+
+7
+
+3
+
+9
+
+13
+
+17
+
+15
+
+7
+
+14
+
+15
+
+17
+
+10
+
+3
+
+18
+
+20
+
+1The percentage of space that is vacant beyond the structural vacancy rate.
+2For most cities, the average vacancy rate from 2014 to 2019; for Beijing, Paris, and Shanghai, the average from 2017 to 2019. 
+Note: In this exhibit, the cities are defined as follows: the San Francisco–Oakland–Hayward metropolitan statistical area (MSA); the London region; the New 
+York–Newark–Jersey City MSA; the Houston–The Woodlands–Sugar Land MSA; Île-de-France; the Munich MSA; the Tokyo region; the Beijing region; and the 
+Shanghai region.
+Source: BNP Paribas; Colliers; Commercial Real Estate Intelligence Solutions; CoStar; E&G Real Estate; Federal Statistical Office (Germany); German Property 
+Partners; Kastle; Ministry of Beijing; MitsuiFudosan; Sanko Estate Company; Tokyo Metropolitan Government; US Bureau of Labor Statistics; WFH Associates; 
+McKinsey Global Institute analysis
+
+McKinsey & Company
+
+43
+
+0−20−10ShanghaiBeijingTokyoMunichParisHoustonNew York CityLondonSan Francisco0201021Structuralvacancy rate²Excess supply¹McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThe total vacancy rate in the cities we studied will be considerably higher than the excess supply. 
+It will be more than 20 percent in all cities except Tokyo and Munich in 2030. Tokyo’s projected 
+vacancy rate, 13 percent, is the lowest in our study, which may be due to Tokyo’s transit-oriented 
+design and general resiliency against the pandemic’s effects.
+
+Excess supply can be reduced in only two ways: boosting demand (say, by attracting companies 
+and jobs to fill vacant spaces) or shrinking supply (by demolishing office buildings or converting 
+them to other uses). We discuss those possibilities in chapter 4. 
+
+In the cities we studied, $800 billion in office-space value is at stake
+In the nine cities we studied, a total of $800 billion in office-space value (in real terms) is at 
+stake by 2030 in the moderate scenario. On average, the total value of office space declines by 
+26 percent in the moderate scenario and by 42 percent in the severe one from 2019 to 2030. 
+The impact on value could be even greater if rising interest rates compound it. Similarly, the 
+impact could increase if troubled financial institutions decide to more quickly reduce the price of 
+property they finance or own.
+
+Although other factors could drive a decline in value, our model uses only the impact of changing 
+demand. We assume in both scenarios that market capitalization rates will remain constant from 
+2022 onward. In the moderate scenario, we assume that rents will remain constant in real terms 
+from 2022 through 2030. In the severe scenario, by contrast, we assume that rents will be  
+30 percent lower in 2025 than they were in 2019 and then remain constant in real terms  
+until 2030.23 
+
+The decline in value is already occurring: capitalization rates for office space in the United States 
+have risen from 5.8 percent to 8.0 percent over the past three years, implying value erosion of 
+more than 35 percent before accounting for net operating income decline.24 In the worst case, 
+falling property values could lead to a “doom loop” for some buildings. A doom loop begins when 
+a building’s value declines and its owner consequently holds less equity in relation to debt. That 
+shifting capital structure makes it harder for the owner to secure financing. As a result, aging and 
+low-quality properties may remain unrenovated or not repurposed, further reducing property 
+values. That phenomenon could be exacerbated by office tenants’ increased preference for 
+higher-quality spaces (see Box 1, “The ‘flight to quality’ in office space”).
+
+A ‘doom loop’ could be 
+exacerbated by office tenants’ 
+increased preference for  
+higher-quality spaces.
+
+23  Also, our model used five-year rolling average rents to calculate value in order to account for traditionally long lease terms. 
+However, tenants have started to opt for shorter and more flexible leases, both because they are uncertain about their 
+workers’ behavior and because providers of flexible office space have emerged, offering tenants more choices. Shorter leases 
+without a commensurate rent premium can impair value, as an astute investor will pay less for lower certainty in cash flows.  
+So if shorter leases become the norm, the value destruction that we have calculated may prove to be an underestimate.
+
+24  Green Street, 2023.
+
+44
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateBox 1
+The ‘flight to quality’ in office space
+
+The decline in demand for office space has been accompanied 
+by a shift in tenants’ preferences toward high-quality space. 
+From 2020 to 2022, rents and demand for Class A space grew 
+more quickly than those for Class B space in many major US 
+cities (Exhibit 23). 
+
+While many tenants are downsizing to save money, others are 
+paying more per square foot to provide attractive space to their 
+employees. Some are doing both: a large professional services 
+firm recently consolidated its footprint in New York City, closing 
+two older spaces covering 800,000 square feet and setting up a 
+new space in 450,000 square feet of top-quality space.
+
+There are a number of reasons for this “flight to quality.” One 
+is that older office space is often not suited to hybrid work; for 
+example, it may have less sophisticated audiovisual equipment. 
+Also, now that hybrid work has reduced the total amount of 
+
+space that employers need, they can spend their budgets on 
+smaller amounts of higher-quality space rather than larger 
+amounts of lower-quality space. The main reason, though, 
+is that many employers see high-quality space as a way to 
+encourage office attendance among their employees. (Among 
+other things, Class A buildings tend to be near transit and thus 
+can reduce commuting time.) 
+
+The survey described in chapter 1 provides some evidence that 
+the strategy could be successful. Among the respondents who 
+said that they would be willing to trade more than 20 percent 
+of their income to work their desired number of days in the 
+office rather than go every day, one of the top reasons given for 
+sometimes going to the office was to work in a more pleasant 
+space. That is, even the people least inclined to work at the 
+office seem to be attracted to quality space.
+
+Exhibit 23
+Since 2020, rents and demand have grown more quickly for Class A office 
+space than for Class B in many US cities. 
+
+Difference in demand and rent growth between Class A and Class B office space, 2020–22, 
+percentage points
+
+Class B
+
+Faster demand growth 
+
+Class A
+
+Class A
+
+Faster rent 
+growth 
+
+Class B
+
+45
+
+Source: CompStak; CoStar; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+03-32-21-102010-10BaltimoreBostonChicagoDenverDetroitHoustonLos AngelesMiamiNew York CityPhiladelphiaPhoenixSan DiegoSan FranciscoTampa Washington, DCAustinNashvilleBirminghamMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateDemand growth for residences will be muted, especially in urban cores 
+
+Before the pandemic, housing prices generally rose more quickly in superstar urban cores than 
+in their suburbs. (For the definition of urban cores, see Box E1, “How we define cities,” in the 
+executive summary.) The pandemic reversed that trend, making prices rise more quickly in the 
+suburbs. Our model projects that housing demand in urban cores will nevertheless be greater in 
+2030 than it was in 2019.
+
+Demand and prices for residential real estate have grown more slowly in superstar urban 
+cores than in suburbs and other cities 
+In every superstar urban core that we studied, the percentage of residential real estate that was 
+vacant grew between 2019 and 2022. The increase varied from 0.8 percentage point in Tokyo to 
+9.9 percentage points in London (Exhibit 24). 
+
+Exhibit 24
+
+Residential vacancy rates rose more quickly in urban cores than in suburbs 
+during the pandemic. 
+
+Change in residential vacancy rate, 2019–22, percentage points 
+
+Urban core
+
+Suburbs
+
+Source: Beijing Municipal Bureau of Statistics; Department for Levelling Up, Housing and Communities (United Kingdom); Eurostat; EW & Associates Realty; 
+Federal Statistical Office (Germany); E-Stat (Japan); National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); 
+Office for National Statistics (United Kingdom); RealAdvisor; Shanghai Municipal Bureau of Statistics; Statistics Bureau of Japan; US Census Bureau; 
+McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+46
+
+0San FranciscoNew York CityHoustonLondonParisMunichTokyoAverage6.24.00.99.92.51.90.83.82.3−0.2−1.1−0.31.31.40.10.5McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateFurthermore, in every city we studied, the vacancy rate for residences rose more in the urban core 
+than in the suburbs. A major reason was increased suburbanization. As we discussed in  
+chapter 1, in most of the cities we studied, population growth in the suburbs relative to that in the 
+urban cores sped up during the pandemic. In London, New York City, and San Francisco, where 
+that phenomenon was especially severe, the difference in vacancy-rate increases between urban 
+cores and suburbs was correspondingly large. In Munich, Tokyo, and Paris, where suburbanization 
+was less dramatic, the vacancy rate increased at roughly the same rate in urban cores and suburbs, 
+driven by pandemic-related deaths and lower immigration from other countries. 
+
+Home prices followed the same pattern, rising eight percentage points more slowly in US 
+superstar urban cores than in their suburbs from the end of 2019 to 2022 (Exhibit 25). Prices also 
+rose 13 percentage points more slowly in the US superstar urban cores than in non-superstar 
+urban cores. It was not an exclusively American phenomenon; an OECD report found that the 
+pandemic caused a global acceleration of home price growth outside major city centers.25 
+
+Exhibit 25
+
+Home prices in the United States have risen far more slowly in superstar urban 
+cores than elsewhere. 
+
+Typical home price, indexed to 100 in January 2020, through December 2022, %¹
+
++5
+
++8
+
+1A smoothed, seasonally adjusted measure of the typical value of homes in the 35th to 65th percentiles. 
+Source: US Census Bureau; Zillow Home Value Index; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+25  Rudiger Ahrend et al., Changes in the geography housing demand after the onset of COVID-19: First results from large 
+metropolitan areas in 13 OECD countries, OECD Economics Department Working Papers, number 1713, April 2022.
+
+47
+
+202010080140120AverageSuperstar metro areas , urbanOther counties, suburban/ruralOther counties, urbanSuperstar metro areas,  suburban/ruralMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+Similarly, prices grew more quickly in zip codes farther away from city centers, according to our 
+analysis (Exhibit 26). In fact, many cities experienced what has been called the “doughnut effect”: 
+rising prices in the suburbs and falling prices in city centers.26 In San Francisco, nominal prices 
+in the most strongly affected neighborhoods fell by 12 percent from the end of 2019 to 2022. 
+Residences in San Francisco’s urban core are now worth $750 billion less than they would have 
+been if prices there had risen at the national average rate. 
+
+Exhibit 26
+
+San Francisco has demonstrated the ‘doughnut effect’: rising prices in the 
+suburbs and falling prices in city centers.
+
+Typical home price growth by zip code, December 2019–December 2022, %1
+
+−12
+
+0
+
+≥ 30
+
+San Francisco
+
+San Francisco County
+
+Alameda 
+County
+
+San Mateo
+County
+
+1A smoothed, seasonally adjusted measure of the typical value of homes in the 35th to 65th percentiles.
+Source: Zillow Home Value Index; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+26  Arjun Ramani and Nick Bloom, The donut effect: How COVID-19 shapes real estate, Stanford Institute for Economic Policy 
+
+Research, January 2021.
+
+48
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateBy 2030, projected demand for residential real estate in superstar urban cores is greater 
+than it was in 2019, despite the pandemic 
+In most superstar urban cores, even though demand for residential real estate has been weak,  
+it will be greater in 2030 than it was in 2019 in a moderate scenario, according to our model 
+(Exhibit 27). Houston, Munich, and Tokyo experience the strongest projected demand growth. 
+The two exceptions are Paris and San Francisco, where population in the urban core is shrinking; 
+demand in those two cities is expected to be lower in 2030 than it was in 2019. Although 
+the effects of the pandemic figure into all our demand projections, they are responsible for 
+significantly lower demand by 2030 in only three cities—London, New York City, and  
+San Francisco. 
+
+Exhibit 27
+
+In a moderate scenario, demand for residential space is higher in 2030 
+than it was in 2019 in most superstar cities. 
+
+Projected change in residential space demand before 
+prices adjust, 2019–30,¹ %
+
+Projected excess supply, 2030,² %
+
+Change resulting from factors unrelated to the pandemic 
+
+Change resulting from pandemic-driven behavior 
+
+Urban core
+
+Suburbs
+
+San Francisco
+
+−2
+
+London
+
+New York City
+
+6
+
+6
+
+Houston
+
+Paris
+
+Munich
+
+Tokyo
+
+Beijing
+
+Shanghai
+
+−4
+
+8
+
+5
+
+12
+
+3
+
+1.9
+
+3.5
+
+0.4
+
+8.8
+
+−2.7
+
+7.8
+
+−0.4
+
+26
+
+1.1
+
+−6.1
+
+8.9
+
+−0.7
+
+0.5
+
+−0.7
+
+Complete data unavailable 
+for these metro areas
+
+Note: For more information about the scenario, see the technical appendix. 
+1Demand for residential space in superstar cities is highly price elastic, so in the long run, these shifts would probably lead to a rebalancing of prices rather than 
+an actual reduction in demand.
+2The percentage of space that is vacant beyond the structural vacancy rate (defined as the average vacancy rate from 2014 to 2019).
+Source: Beijing Municipal Bureau of Statistics; Department for Levelling Up, Housing and Communities (United Kingdom); Eurostat; EW & Associates Realty;
+Federal Statistical Office (Germany); E-Stat (Japan); National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); Office 
+for National Statistics (United Kingdom); RealAdvisor; Shanghai Municipal Bureau of Statistics; Statistics Bureau of Japan; US Census Bureau; 
+McKinsey Global Institute analysis
+
+McKinsey & Company
+
+49
+
+0203010−109.8McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+Although demand is projected to grow in most urban cores, it is projected to grow still more in the 
+suburbs. As a result, excess supply in our model is far greater in the cores than in the suburbs. 
+(Recall that we define excess supply as the percentage of space that is vacant beyond the 
+average from 2014 to 2019—in essence, the part of projected vacancy that is attributable to the 
+pandemic in our model.) The mismatch would lead to strong price corrections, ultimately reducing 
+the difference in vacancy rates between the urban core and the suburbs. 
+
+To better understand how our model estimates demand, consider the moderate scenario for 
+London (Exhibit 28). In both the urban core and the suburbs, the population and the size of the 
+average home are expected to grow, adding to total demand. Furthermore, the number of people 
+in an average household is expected to decline, also adding to total demand. But the effects 
+of migration differ: migration out of the urban core is projected to drive down demand there, 
+whereas migration into the suburbs is projected to drive up demand there. 
+
+Exhibit 28
+
+Demand for residential space is largely driven by population growth, which 
+has been affected by pandemic-induced out-migration .
+
+Demand for residential space in London, moderate scenario ,
+million square meters
+
+Change in urban 
+core, 2019–30
+
+Change in suburbs, 
+2019–30
+
+Effects of population growth that would
+have happened  without the pandemic 
+
+Effects of population change resulting from
+pandemic-induced domestic migration
+
+Effects of changes in 
+average household size 
+
+Effects of changes in the 
+average size of a home 
+
+Change in 2030
+
+Total in urban core
+
+2019
+
+2030, projected
+
+Total in suburbs
+
+2019
+
+2030, projected
+
+Note: For more information about the scenario, see the technical appendix.
+Source: Office for National Statistics (United Kingdom); Department for Levelling Up, Housing and Communities (United Kingdom); 
+McKinsey Global Institute analysis
+
+McKinsey & Company
+
+50
+
+0.32.02.47.6185.5133.0140.7222.2−11.717.014.66.613.236.8McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+In a severe scenario, pandemic-driven domestic out-migration is higher than in the moderate 
+one. As a result, demand in 2030 is lower in that scenario than in the moderate one for most 
+cities (Exhibit 29). But even in the severe scenario, net demand increases in most cities.
+
+Both scenarios rest on the assumptions that out-migration will continue to be higher than it was 
+from 2015 to 2019 and that the wave of residents who left cities in the past three years will not 
+return. Those assumptions are supported by our survey results, as we discussed in chapter 1.  
+But if they prove incorrect, housing demand in superstar urban cores could be greater than we 
+have estimated. 
+
+Exhibit 29
+
+Even in a severe scenario, demand for residential space is higher in 2030 than 
+it was in 2019 in most superstar cities. 
+
+Projected change in residential space demand before 
+prices adjust, 2019–30, %¹
+
+Projected excess supply, 2030, %²
+
+Change resulting from factors unrelated to the pandemic 
+
+Change resulting from pandemic-driven behavior 
+
+Urban core
+
+Suburbs
+
+San Francisco
+
+−9
+
+London
+
+−5
+
+New York City
+
+1
+
+Houston
+
+Paris
+
+Munich
+
+Tokyo
+
+Beijing
+
+Shanghai
+
+26
+
+−4
+
+11
+
+8
+
+5
+
+2
+
+5.0
+
+0.2
+
+3.9
+
+0.9
+
+18.3
+
+−7.0
+
+13.3
+
+1.4
+
+9.7
+
+−0.2
+
+−13.4
+
+−0.8
+
+Complete data unavailable
+for these metro areas
+
+1Demand for residential space in superstar cities is highly price elastic, so in the long run, these shifts would probably lead to a rebalancing of prices rather than 
+an actual reduction in demand.
+2The percentage of space that is vacant beyond the structural vacancy rate (defined as the average vacancy rate from 2014 to 2019).
+Source: Beijing Municipal Bureau of Statistics; Department for Levelling Up, Housing and Communities (United Kingdom); Eurostat; EW & Associates Realty; 
+Federal Statistical Office (Germany); E-Stat (Japan); National Institute of Statistics and Economic Studies (France); National Statistics Institute (Spain); Office 
+for National Statistics (United Kingdom); RealAdvisor; Shanghai Municipal Bureau of Statistics; Statistics Bureau of Japan; US Census Bureau; 
+McKinsey Global Institute analysis   
+
+McKinsey & Company
+
+51
+
+1.416.202010−10McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateAlso, recall that our model does not consider price elasticity. That is, the projections are for a 
+situation in which prices have not yet adjusted. But ample research suggests that price elasticity 
+in superstar cities is high, so any available floor space will probably be taken up quickly.27 In other 
+words, lower demand is likely to push down prices and rents, and those lower prices and rents 
+would quickly attract new residents and encourage existing ones to buy or rent more space, 
+preventing vacancy from growing. 
+
+Unfortunately, the downward pressure on prices and rents is unlikely to make residences in 
+superstar cities—many of which suffer from expensive housing and homelessness—much more 
+affordable. From December 2019 to December 2022, home prices in the United States rose by 
+40 percent, more than twice as fast as inflation. In US superstar cities’ urban cores, prices grew 
+more slowly, by 25 percent—but still faster than inflation. Housing there will probably become 
+less expensive than it would have been without the pandemic, but home prices will continue to 
+increase and will remain out of reach for many.
+
+Retail space will continue to be challenged
+
+A great deal of retail space in urban cores became vacant during the pandemic, and there is 
+reason to think that vacancy rates will keep rising. Our model projects that demand for retail 
+space in urban cores will be lower in 2030 than it was in 2019 and that some cities will be hit 
+much harder than others. 
+
+Retail vacancy has increased and rents have declined, particularly in office-dense locations
+Retail real estate has struggled since the start of the pandemic. From 2019 to 2022, vacancy 
+rates in the urban cores we studied increased by an average of 3.3 percentage points  
+(Exhibit 30). The increase was largest in London at 6.2 percentage points, albeit from a relatively 
+low starting point. During the same period, asking rents decreased 5.4 percent, on average, in 
+real terms. The rents that were actually paid may have fallen even more.
+
+Those changes were less acute in the suburbs. From 2019 to 2022, vacancy rates in London’s 
+suburbs increased by just 0.2 percentage point. Similarly, vacancy rates increased by  
+3.0 percentage points in Manhattan but by only 0.7 percentage point in the surrounding suburbs. 
+Lower foot traffic near stores in urban cores may help explain the variation.
+
+A great deal of retail space in 
+urban cores became vacant 
+during the pandemic, and there is 
+reason to think that vacancy rates 
+will keep rising.
+
+27  See Greg Howard and Jack Liebersohn, “Why is the rent so darn high? The role of growing demand to live in housing-supply-
+
+inelastic cities,” Journal of Urban Economics, volume 124, July 2021.
+
+52
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 30
+
+Retail space in urban cores became more vacant from 2019 to 2022, 
+and rents fell. 
+
+Increase in retail vacancy rate for urban core, 
+2019–22, percentage points1
+
+Decrease in asking retail rents for urban core,
+2019–22, in real terms, %1
+
+1The 2022 values underlying these increases are official estimates for London and Paris and estimates for the remaining cities. 
+Note: Urban cores are defined here as follows: the boroughs of Inner London, the department of Paris, the eight inner districts of Shanghai, the eight inner 
+districts of Beijing, New York County, Harris County, and San Francisco County.
+Source: CoStar; Cushman & Wakefield; IVD–Gewerbe–Preisspiegel; Japan Real Estate Institute; Knight Frank; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+From December 2019 to December 
+2022, home prices in the United 
+States rose by 40 percent, more 
+than twice as fast as inflation. 
+
+53
+
+AverageSan FranciscoHoustonNew York CityBeijingShanghaiParisLondon3.31.81.92.62.93.74.16.25.45.51.03.15.75.79.87.0AverageMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateAsking rents for retail space grew the least in office-dense neighborhoods. In Manhattan, for 
+example, the neighborhoods where office space represented the greatest share of all real estate, 
+such as the Financial District and the area around Grand Central Terminal, had some of the 
+smallest increases in asking retail rent from 2019 to 2022 (Exhibit 31). 
+
+There are several reasons to think that vacancy rates could keep rising. First, many retailers’ 
+leases have yet to reach their renewal date, so those retailers have not yet had an opportunity 
+to downsize. Second, landlords have made concessions designed to keep stores from closing 
+permanently, such as deferring rent payments and allowing retailers to pay rents calculated 
+as a percentage of in-store sales. Those concessions have probably encouraged retailers to 
+delay closing, despite drops in the profitability of their stores, but it is unlikely that they will 
+delay forever. Third, though spending in brick-and-mortar stores rebounded in 2022, economic 
+uncertainty and waning consumer confidence may slow such spending in the future. 
+
+Exhibit 31
+
+In the New York City metropolitan area, retail rents grew most slowly in 
+office-dense neighborhoods.  
+
+Share of real estate occupied by office buildings in 2019, % 
+
+Slower-growing 
+retail rents
+
+More
+offices
+
+Source: CoStar; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+54
+
+0108642Change in asking retail rents from 2019 to 2022, percentage points010080604020BronxCentral QueensClarkstownColumbus CircleDowntown BrooklynFinancial DistrictGrand CentralHudson waterfrontMiddletownPassaic urban regionSohoSouth EdisonSouth QueensTeaneck/RidgefieldTimes SquareUN PlazaUpper ParkwayUpper suburban PassaicUpper West SideMcKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateDemand for retail space in the median city we studied is projected to be 9 percent lower in 
+2030 than in 2019
+According to our model, in the urban cores we studied, demand for retail space in 2030 will be 
+as much as 22 percent lower than it was in 2019 in a moderate scenario (Exhibit 32). In a severe 
+scenario in which various pandemic-driven effects are stronger, demand will be up to 31 percent 
+lower. Once again, our model does not consider price elasticity.
+
+Exhibit 32
+
+In nearly all superstar urban cores, demand for retail space will be lower in 
+2030 than it was in 2019.
+
+Projected change in retail space demand before prices adjust, 2019–30, %
+
+Change resulting from factors unrelated to the pandemic 
+
+Change resulting from pandemic-driven behavior 
+
+Moderate scenario
+
+Severe scenario
+
+San Francisco
+
+London
+
+−17
+
+−22
+
+New York City
+
+−14
+
+−26
+
+−31
+
+−22
+
+Houston
+
+Paris
+
+Munich
+
+Tokyo
+
+Beijing
+
+Shanghai
+
+−9
+
+−9
+
+−3
+
+−4
+
+−2
+
+1
+
+−5
+
+−16
+
+−11
+
+−10
+
+−11
+
+−19
+
+Note: Urban cores are defined here as follows: San Francisco County, the boroughs of Inner London, New York County, Harris County, the department of Paris, 
+the city of Munich, the prefecture of Tokyo, the eight inner districts of Beijing, and the eight inner districts of Shanghai. For more information about the scenari-
+os, see the technical appendix.
+Source: CoStar; Cushman & Wakefield; Euromonitor; IVD–Gewerbe–Preisspiegel; Japan Real Estate Institute; Knight Frank; National Institute of Statistics and 
+Economic Studies (France); Office for National Statistics (United Kingdom); US Bureau of Labor Statistics; US Census Bureau; McKinsey Global Institute 
+analysis
+
+McKinsey & Company
+
+55
+
+0−30−2010−100−30−2010−10McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 33
+
+In London, the main factor pushing down demand for retail space is the 
+ongoing shift toward online shopping.
+
+Demand for retail space in London, moderate scenario ,
+million square meters
+
+Change in urban 
+core, 2019–30
+
+Change in suburbs, 
+2019–30
+
+Effects of population growth
+
+Effects of consumer spending growth that would
+have happened without the pandemic
+
+Effects of the change in spending at physical stores 
+resulting from increased remote work 
+
+Effects of the increase
+in online shopping 
+
+Interaction of the 
+effects above
+
+Change in 2030
+
+Total in urban core
+
+2019
+
+2030, projected
+
+Note: For more information about the scenario, see the technical appendix.
+Source: McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+Total in suburbs
+
+2019
+
+2030, projected
+
+Differences in projected demand among cities can be attributed to the relative contribution of 
+the growth drivers that our model used, including population growth, per capita retail spending, 
+and online spending as a share of all retail spending. For example, in London’s urban core, 
+population outflows from 2019 to 2022 were among the largest that we studied, so population 
+growth is not projected to boost demand much (Exhibit 33). And retail spending in London is 
+projected to decrease by 2.2 percent per year through 2030, more slowly than in any other city 
+in our sample. As a result, such spending does not contribute much to demand for retail space 
+in London. What does have a major effect on demand is online spending as a share of all retail 
+spending, which is higher in the United Kingdom than in any other country we studied except 
+China. 
+
+56
+
+4.30.9−1.1−25.51.312.21.01.3−29.0−3.2100.3103.80081.2117.9−22.6−17.6McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 34
+
+In Paris, a shifting population reduces demand for retail space in the urban core 
+but increases it in the suburbs. 
+
+Demand for retail space in Paris, moderate scenario ,
+million square feet
+
+Change in urban 
+core, 2019–30
+
+Change in suburbs, 
+2019–30
+
+Effects of population growth
+
+Effects of consumer spending growth that would 
+have happened without the pandemic
+
+Effects of the change in spending at physical stores 
+resulting from increased remote work 
+
+Effects of the increase in online shopping 
+
+Interaction of the effects above
+
+Change in 2030
+
+Total in urban core
+
+2019
+
+2030, projected
+
+Total in suburbs
+
+2019
+
+2030, projected
+
+Note: For more information about the scenario, see the technical appendix.
+Source: McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+Demand for retail space may also vary between urban cores and their suburbs. For example, in 
+Paris, projected demand decreases by 7.6 million square feet in the urban core but increases by 
+5.6 million square feet in the suburbs (Exhibit 34). Net out-migration from urban cores to suburbs 
+is a strong driver of this variation; the differences in foot traffic and spending discussed in  
+chapter 1 are others. In some superstar cities, as office attendance declined, workers shopped 
+less near the office. However, in Paris, that behavioral shift was muted and did not drive 
+significant differences in demand between the urban core and the suburbs.
+
+57
+
+−0.7−9.1−0.37.7−5.2−1.9−18.30.315.510.18678.4173.2178.8−7.65.6McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© Alexander Spatari/Getty Images
+
+58
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate3.  What strongly affected 
+neighborhoods and 
+cities have in common
+
+In the previous chapters, we described the behavioral shifts that the pandemic has caused 
+in superstar cities and analyzed their impact on real estate demand. Although the shifts have 
+happened everywhere we looked, the degree of change and the pace of recovery have varied 
+significantly from city to city. A review of various components of this research—regression 
+analyses, survey responses, and literature reviews—suggests that cities where the pandemic has 
+strongly affected real estate demand tend to have certain characteristics. (We were unable to 
+determine which of those characteristics correlated most strongly with the impact on demand.)
+
+Here, we take a closer look at a few neighborhoods and cities, focusing on those characteristics, 
+which fall into two categories. Some of them are related to the business mix in a city. Specifically, 
+cities with a larger share of workers in the knowledge economy, a higher number of large firms, a 
+higher ratio of commuters to residents, and more cultural acceptance of remote work tended to 
+experience a greater impact on demand.28 Those factors lead to lower rates of office attendance, 
+which reduce demand for office space directly, reduce demand for retail space by diminishing the 
+number of office workers shopping at urban stores, and reduce demand for residential space by 
+prompting people to move out of urban cores.
+
+The other characteristics that correlate with the impact on demand are related to the urban 
+structure of a city. Specifically, cities with office-dense real estate and little mixed-use 
+development, as well as expensive housing and little green space, tended to experience greater 
+impact on demand.29 Such characteristics make places less desirable for working, living,  
+and shopping.
+
+Two of those characteristics correlate with the impact on demand not just at the city level but also 
+at the neighborhood level. We examined neighborhoods (defined by zip codes) in Manhattan, San 
+Francisco County, and Harris County (home of Houston). According to our analysis, the larger the 
+share of real estate in a neighborhood that was occupied by offices, the more out-migration from 
+that neighborhood. Similarly, home prices correlated with out-migration: pricier neighborhoods 
+experienced more out-migration. (Data limitations prevented us from finding out whether the 
+other characteristics also correlated with demand at the neighborhood level.)
+
+In this chapter, we focus on two Manhattan neighborhoods to see how those effects worked at 
+the local level. We then study them in San Francisco, Paris, and Tokyo, cities whose real estate 
+was affected very differently by the pandemic.
+
+28  In this chapter, we define the knowledge economy as the finance and insurance, professional services, real estate and 
+
+rental leasing services, and information industries, as well as the industry that the US Census Bureau calls “management of 
+companies and enterprises.”
+
+29  The relationship between demand and green space in cities is described in Rudiger Ahrend et al., Changes in the geography 
+
+housing demand after the onset of COVID-19: First results from large metropolitan areas in 13 OECD countries, OECD 
+Economics Department Working Papers, number 1713, April 2022.
+
+59
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateBusiness mix and urban structure make a 
+difference at the neighborhood level
+
+Two very different Manhattan neighborhoods show that business mix and urban structure 
+correlate with demand at the neighborhood level. The business mix of the first neighborhood, 
+the Financial District, is heavily skewed toward the knowledge economy; 50 percent of all office 
+space there is occupied by knowledge-economy tenants, especially those in business services. 
+The Financial District’s urban structure is office-dense: 80 percent of real estate is dedicated 
+to offices, 17 percent to residences, and just 2 percent to retail. The average price of a home is 
+roughly $1.5 million.
+
+Now consider the nearby Lower East Side. The business mix is very different from the Financial 
+District’s: just 22 percent of office real estate space is dedicated to the knowledge economy. 
+The urban structure is different as well. Just 7 percent of all space on the Lower East Side is 
+dedicated to offices, while 84 percent is residences and 9 percent is retail. The average home 
+price, about $1.0 million, is considerably lower than in the Financial District.30 
+
+Those factors help us understand why the two neighborhoods were affected so differently during 
+the pandemic. The domestic out-migration rate from the start of 2020 to the start of 2022 was 
+2.2 times higher in the Financial District than on the Lower East Side, for example. It stands to 
+reason that residents of the Financial District could easily work from home, as the prevalence of 
+the knowledge economy there suggests, and were therefore likelier to move to bigger homes far 
+from their offices; meanwhile, expensive housing gave them another reason to leave.
+
+At the city level too, business mix and urban structure drive differences
+
+Three cities whose real estate was affected very differently by the pandemic—San Francisco, 
+Paris, and Tokyo—demonstrate how business mix and urban structure explain pandemic-driven 
+differences in demand for real estate (Exhibit 35). For example, in San Francisco, a city where the 
+proclivity for remote work was high and mixed-use development was rare, demand was affected 
+strongly. In Tokyo, a city different in both respects, the reverse was true.
+
+In San Francisco, a city where the 
+proclivity for remote work was 
+high and mixed-use development 
+was rare, demand was affected 
+strongly by the pandemic.
+
+30  Data about office space and real estate classes in these two paragraphs are from CoStar and the US Census Bureau’s 
+
+American Community Survey; data about home prices are from Zillow’s Home Value Index.
+
+60
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 35
+
+Differences in the business mix and urban structure of cities help explain 
+why they were affected differently by the pandemic.
+
+Circle size = magnitude of impact on demand for office, residential, and retail real estate
+
+More disrupted
+by the pandemic
+
+New York City
+
+London
+
+San Francisco
+
+Business mix
+
+Higher
+
+Share of workers in
+the knowledge economy
+
+Number of large firms
+
+Ratio of inbound
+commuters to residents
+
+Cultural acceptance
+of remote work and
+necessary technology
+
+Lower
+
+Munich
+
+Tokyo
+
+Houston
+
+Paris
+
+Less disrupted 
+by the pandemic
+
+Urban structure
+
+More residences and stores
+
+More office buildings
+
+Flatter price gradient¹
+
+Steeper price gradient¹
+
+More green space
+
+Less green space
+
+1A flatter price gradient means that the difference in home prices between urban cores and suburbs is smaller. A steeper price gradient means that the 
+difference is larger.
+Source: McKinsey Global Institute analysis
+
+McKinsey & Company
+
+61
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateSan Francisco, a bastion of the knowledge economy, has been strongly affected  
+by the pandemic 
+In San Francisco, the pandemic has led to particularly strong behavioral shifts. Office attendance 
+has stabilized at about 50 percent of the prepandemic level, the third-weakest recovery among 
+the ten largest US metropolitan areas.31 Migration out of San Francisco’s urban core reduced 
+the population by a cumulative 5.8 percent from mid-2020 to mid-2022, and even the suburbs 
+suffered out-migration and a population decline of 0.6 percent. Foot traffic near stores in the  
+San Francisco metro area remains 24 percent below prepandemic levels. 
+
+As a result, real estate has experienced higher vacancy rates in San Francisco than in most  
+of the cities we studied. From 2019 to 2022, the vacancy rate for office space increased by  
+13 percentage points (the largest change among the cities we studied), and the vacancy rate for 
+residential space increased by 5.0 percentage points (a far larger change than the US average of 
+0.4 percentage point). Furthermore, during the same period, home prices grew by just 13 percent 
+in San Francisco, much more slowly than they did in the United States as a whole (43 percent).
+
+San Francisco’s business mix helps explain the impact. The city has long cultivated a technology-
+focused economy with a large population of office workers, especially knowledge-economy 
+workers. It has many inbound commuters, as the employment-to-population ratio shows: that 
+ratio, a proxy for the prevalence of commuters, is 0.87, starkly higher than the national average 
+of 0.48. Furthermore, San Francisco’s employers, many of which are in the technology industry, 
+may have been more likely to be aware of and adopt remote work technology when the pandemic 
+began. And in our survey, respondents in San Francisco said that their ideal number of days to 
+work in the office was 2.7, the lowest number in the cities we studied. 
+
+San Francisco’s urban structure also helps explain why the pandemic affected its demand so 
+strongly. Home prices in San Francisco County are five times higher than the national average 
+and almost twice as high as prices in the suburbs. And San Francisco has limited mixed-use 
+development: offices represent 30 percent or more of all real estate in nine of San Francisco’s  
+26 neighborhoods, a far greater share than in Houston, where that is the case in only five of  
+39 neighborhoods. 
+
+Our model shows a dire outlook for San Francisco’s future. Residential vacancy rates there could 
+be at least seven percentage points higher than their 2010–19 average by 2030. Demand for 
+office space could be 20 percent lower than it was in 2019, and demand for retail space could be 
+17 percent lower. Demand for residential space could be 2 percent lower in 2030 than it was in 
+2019—the smallest such increase among the cities we modeled. (The model does not consider 
+price elasticity; that is, it does not account for the fact that when demand decreases, prices fall, 
+pushing demand partway back up. For more about the model, see chapter 2 and the technical 
+appendix.)
+
+Paris, more diversified and less expensive than San Francisco, was less strongly affected
+Pandemic-caused behavioral shifts have been less striking in Paris than in San Francisco. 
+Office attendance in Paris has dropped to an average of 3.4 days per week, only slightly below 
+the overall average in our survey (3.5 days). Net out-migration during the pandemic was not 
+much greater than before. The city’s overall population trends have not changed much either; 
+population continues to decline in the urban core and grow in the suburbs. But foot traffic near 
+stores in the metro area remains 16 percent below prepandemic levels. 
+
+The behavioral shifts have increased vacancies and reduced projected real estate demand in 
+Paris, though not as sharply as in San Francisco. From 2019 to 2022, vacancy rates in Paris 
+increased by two percentage points for office space, two percentage points for residential 
+space, and four percentage points for retail space. 
+
+31  Based on data from Kastle. The ten metropolitan areas are Austin, Chicago, Dallas, Houston, Los Angeles, New York City, 
+
+Philadelphia, San Francisco, San Jose, and Washington, DC.
+
+62
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 36
+
+Expensive housing in Paris’s urban core gives people 
+a reason to move elsewhere. 
+
+Paris
+
+Île-de-France region, excluding Paris
+
+France, including Île-de-France region
+
+Price of existing multifamily homes, 
+indexed to 100 in 2010, %
+
+Population, indexed to 100 in 2010, %
+
+Source: National Institute of Statistics and Economic Studies; OECD; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Business mix helps explain why Paris was affected less severely by the pandemic than San 
+Francisco was. Paris’s industry composition is diverse. Unlike San Francisco, which is heavily 
+dependent on the knowledge economy, Paris is home to companies that are global leaders in a 
+wide variety of industries, such as beauty, hospitality, consumer retail, defense, and finance.32 
+
+But Paris’s urban structure has features that push residents away as well as those that pull them 
+in. On the one hand, home prices are twice as high in Paris’s urban core as in its suburbs and four 
+times higher than the national average, perhaps explaining the out-migration from the urban core 
+that has been happening since at least 2010 (Exhibit 36). On the other hand, Paris has a great 
+deal of mixed-use development. 
+
+According to our model, demand for office space in Paris in 2030 could be 13 percent lower than 
+it was in 2019, and demand for retail space could be 9 percent lower. Demand for residential 
+space in the suburbs could be 9 percent higher in 2030 than in 2019, while demand in the urban 
+core could fall by 4 percent. 
+
+32  Paris region facts & figures 2022, Choose Paris Region, L’Institut Paris Region, and Paris Île-de-France Regional Chamber of 
+
+Commerce and Industry, March 2022.
+
+63
+
+202320202010100801801601401202023202020101009011095115105McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate 
+Tokyo, industrially diverse and relatively inexpensive, was affected only lightly  
+by the pandemic
+The pandemic-induced behavioral shifts in Tokyo have been among the smallest we studied. 
+As in Paris, office attendance has dropped to 3.4 days per week, only slightly below the overall 
+average of 3.5. From October 2020 to October 2022, Tokyo’s urban core and suburbs grew at 
+about the same pace—in stark contrast with most of the cities we studied, where the suburbs 
+grew much more quickly. However, despite those relatively small shifts in office attendance and 
+migration, foot traffic near stores remains 9 percent lower than it was before the pandemic in 
+Tokyo as a whole. It is down 4 percent in the suburbs and 20 percent in the urban core. 
+
+Demand for real estate has therefore been affected less in Tokyo than in most of the cities we 
+studied. While the vacancy rate for office space increased by six percentage points, residential 
+vacancy was unaffected. Strong home demand in Tokyo’s urban core led home prices there to 
+grow slightly faster than the national average rate from 2020 to 2022 (Exhibit 37). 
+
+Tokyo’s business mix is partly responsible for the city’s muted behavioral shifts and relatively 
+rosy outcomes. The most common industry for workers to be employed in is wholesale and retail 
+trade, in contrast with technology-dependent San Francisco.33 Like Paris, Japan has a culture 
+that values being present in the office, in particular among employees of small and medium-size 
+businesses; in our survey, respondents in Tokyo said that they expected to be required to be in 
+the office 3.7 days per week, higher than Paris’s 3.3 days. Loyalty to employers is also common 
+in Japan, as are lower rates of technology adoption than in San Francisco.34 Furthermore, online 
+spending as a share of retail spending was lower in Japan than in any other country we studied; 
+that may have contributed to higher office attendance and continued in-person retail shopping.
+
+And with regard to urban structure, while Tokyo suffers from the same affordability problems 
+that other superstar cities do, they are somewhat less severe. In Tokyo, home prices in the urban 
+core are 2.1 times higher than the national average. In Paris, they are 4.1 times higher, and in San 
+Francisco, they are 5.0 times higher.
+
+Our model estimates that future demand for real estate will be healthier in Tokyo than in most of 
+the cities we studied. Demand for office space is projected to fall by just 9 percent from 2019 to 
+2030. Projected demand for residential space grows by 12 percent from 2019 to 2030 (lagging 
+behind only Houston and New York City), and projected demand for retail space falls by just  
+2 percent (lagging behind only Shanghai). 
+
+Tokyo’s business mix is partly 
+responsible for the city’s muted 
+behavioral shifts and relatively 
+rosy outcomes.
+
+33  Industry and employment in Tokyo: A graphic overview, Bureau of Industrial and Labor Affairs, Tokyo Metropolitan 
+
+Government, August 2022.
+
+34  Peter A. Hall and David Soskice, Varieties of capitalism: The institutional foundations of comparative advantage,  
+
+Oxford University Press, 2001.
+
+64
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateExhibit 37
+
+Housing prices in Tokyo have grown only slightly faster than the national 
+average rate since the start of the pandemic. 
+
+Prefecture
+
+Tokyo-to 
+
+Tokyo (other)
+
+Aichi-ken
+
+Osaka-fu 
+
+Home prices, 
+indexed to 100 in 2010, through Q3 2022, %
+
+Japan
+
+Population, 
+indexed to 100 in 2010, through 2022, %
+
++17.6%
+
++16.6%
+
+Source: OECD; E-Stat (Japan); McKinsey Global Institute analysis
+
+McKinsey & Company
+
+In Tokyo, home prices in the 
+urban core are 2.1 times higher 
+than the national average. In 
+Paris, they are 4.1 times higher, 
+and in San Francisco, they are  
+5.0 times higher.
+
+65
+
+202320202010100801801601401202023202020101009011095115105McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© Julian Elliott Photography/Getty Images
+
+66
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate4.  Thriving in 
+hybrid places
+
+The pandemic has dramatically changed the way people work, live, and shop in superstar 
+cities. As we described earlier in this report, the rise of hybrid work has encouraged people to 
+work at the office less, move to homes that are farther from the office, and shop less in urban 
+cores. The result is higher vacancy rates, which threaten the vibrancy of neighborhoods and 
+make urban cores less attractive to employers, employees, and residents (see Box E1, “How 
+we define cities,” in the executive summary). 
+
+These are challenges, to be sure, but they also present an opportunity for historic transformation 
+in superstar cities. To adapt to a new reality in which hybrid work is widespread and permanent, 
+urban stakeholders could consider adopting more hybrid approaches themselves. At the 
+neighborhood and building levels, and even in the design of the floors of buildings, choosing 
+diversity, adaptability, and flexibility rather than uniformity can help cities thrive.
+
+At the neighborhood level, consider mixed-use development
+
+One way cities could adapt is through mixed-use neighborhoods—that is, neighborhoods 
+that are not dominated by a single type of real estate (especially offices) but instead 
+accommodate a diverse mix of office, residential, and retail space. Such hybrid 
+neighborhoods were becoming more popular even before the pandemic. And now that the 
+pandemic has reduced demand for offices, cities have been left with vacant space that could 
+be converted to other uses. Furthermore, our research shows that mixed-use neighborhoods 
+have suffered less during the pandemic than have office-dense neighborhoods. That 
+resilience gives investors, developers, and cities still more reason to engage in placemaking. 
+
+Redeveloping neighborhoods is an enormous undertaking, of course, so mobilizing the many 
+stakeholders is important. Governments may be particularly helpful in reforming restrictive 
+zoning policies. Investors would be needed to finance redevelopment (see Box 2, “Investing 
+in the future of urban real estate”). And developers would be the ones to turn mixed-use 
+visions into realities. Before they break ground on a mixed-use project, leading developers 
+carefully consider the different types of journeys they want to enable for residents, 
+employees, and shoppers—for example, how a resident might proceed from her apartment to 
+a café to a subway station in the morning, or how an office employee might shop for groceries 
+on his way home from work.
+
+To adapt to a new reality in which 
+hybrid work is permanent, urban 
+stakeholders could adopt hybrid 
+approaches themselves.
+
+67
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateBox 2
+Investing in the future of urban real estate
+
+Declines in demand for urban real estate could have an 
+enormous financial impact, lowering prices substantially— 
+and the impact could be magnified by rising interest rates 
+and expanding capitalization rates. In a recent report, MGI 
+showed that the total market value of US real estate grew 
+by 3.1 percent a year in real terms between 2000 and 2022. 
+Such growth could continue, but different outcomes are also 
+plausible, as several scenarios modeled in that report make 
+clear. In a scenario in which inflation and interest rates stay 
+elevated, total property values in the United States shrink 
+by 1 percent per year in real terms between now and 2030. 
+They shrink by as much as 4 percent per year in a scenario 
+in which strong interest rate hikes and growing financial and 
+economic uncertainty lead to sharp asset corrections.1 
+
+Facing this reality and recognizing any property losses—
+either by selling properties at a loss or by marking down 
+the value of those properties on their balance sheets—will 
+be the critical first step in redevelopment. That is because 
+owners who ignore losses are not investing in properties 
+in the meantime. But some will be reluctant to recognize 
+their losses because doing so requires them to raise 
+fresh equity. They may prefer to wait, hoping for prices to 
+recover and meanwhile smoothing out their losses over a 
+long period. Even when owners are prepared to recognize 
+losses, they sometimes feel pressure not to do so from 
+
+shareholders or partners. Policy makers may want to 
+consider encouraging loss recognition by regulating it or by 
+offering owners incentives and recapitalization support to 
+accelerate it. 
+
+Recapitalization will need to follow. Any losses—especially 
+once they are recognized—could challenge the balance 
+sheets of banks and other financial-services firms that 
+have lent heavily to real estate projects. Those institutions 
+already face rising interest rates, which push down the 
+value of property and make defaults on loans more likely. 
+If banks also suffer deposit withdrawals on a large scale, 
+they might be forced to conduct a fire sale of their assets, 
+making existing problems worse. Financial institutions and 
+governments should closely monitor the situation.
+
+This can be both a challenge and an opportunity for 
+investors and financiers. Significant capital will be needed 
+to finance redevelopment and to heal damaged balance 
+sheets. However, in a world of widespread hybrid work, 
+they will need to rethink the way they appraise the value of 
+properties. At a minimum, they should continue investing 
+in analytical capabilities—for example, to understand 
+which properties are salvageable and which are not. 
+Neither historical trends nor traditional analyses of market 
+comparables will be enough to make accurate forecasts.
+
+1  For a more detailed description of the scenarios, see The future of wealth and growth hangs in the balance, McKinsey Global Institute, May 2023.
+
+Lower Manhattan might serve as a model of how to encourage mixed uses. After the  
+September 11 attacks there, many newly vacant office buildings were converted into residential 
+buildings. The city and state governments encouraged those conversions by streamlining the 
+zoning and permitting processes and by providing tax incentives. But not every attempt to 
+diversify a neighborhood needs to be that ambitious, as is shown by another New York example—
+the High Line, an old railroad slated for demolition that was converted into a widely acclaimed 
+urban park. 
+
+Suburbs can benefit from hybridity as well. City dwellers, untethered from their daily commutes 
+and thus less concerned about living far from urban cores, are increasingly seeking larger 
+homes in greener areas. More housing and retail in the suburbs could help satisfy their 
+preferences. More multifamily housing could be particularly beneficial because it would 
+accommodate more people than single-family homes do. So long as the apartments are larger 
+and more comfortable than apartments in urban cores, they could attract urbanites seeking 
+space. Suburban policy makers could consider encouraging multifamily development by 
+adjusting zoning, offering incentives to developers, and reexamining regulations that prevent 
+housing from being built, such as those governing minimum dwelling sizes. Furthermore, denser 
+suburbs would bring social and environmental benefits (see Box 3, “Affordable, sustainable real 
+estate after the pandemic”).
+
+68
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateBox 3
+Affordable, sustainable real estate after the pandemic
+
+Affordability and sustainability are two of the most pressing 
+problems of our time. Housing shortages in superstar cities  
+have long resulted in prices that many people cannot afford.  
+And buildings generate a large share of global carbon emissions.
+
+hence the impact on overall affordability in cities, will be limited. 
+In the cities we studied, even if all excess office space were 
+converted into housing, the amount of residential space would 
+grow by less than 3 percent (Exhibit 38).
+
+The pandemic-induced shifts that we discuss in this report 
+could be good news on both fronts if well handled. Begin with 
+affordability. Residents are shifting their housing preferences 
+toward suburbs and non-superstar cities, where prices are 
+lower—and where new units can be created more easily and 
+at lower cost. In urban cores, in turn, developers could convert 
+newly vacant office buildings into residences, boosting the 
+supply of housing there. But the scale of such conversions, and
+
+On the sustainability front, redevelopment resulting from the 
+pandemic is an opportunity to replace older buildings with new 
+ones that are more energy-efficient. And fewer days in the 
+office mean fewer commutes. Yet pandemic-induced migration 
+to suburbs also means longer commutes and lower-density 
+units that tend to be less energy- and transit-efficient. Transit-
+oriented, walkable, multifamily, and mixed-use developments in 
+suburbs could help.
+
+Exhibit 38
+
+If all excess office space were converted into residences, housing stock in 
+superstar cities would grow by less than 3 percent. 
+
+Increase in housing stock if all excess office space were converted into residences by 2030, %1
+
+¹Excess office space means space projected to be vacant beyond what would result from the structural vacancy rate (defined as the average vacancy rate 
+from 2014 to 2019). 
+Source: McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+69
+
+SanFranciscoLondonNewYork CityHoustonParisMunichTokyoBeijingShanghaiAtlantaBostonChicagoToronto03211.52.11.00.40.51.41.01.62.60.82.51.40.7McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateAt the building level, construct space that is adaptable and flexible
+
+To adapt to declining demand for traditional office and retail space, developers could create 
+hybrid buildings. The most ambitious vision is a universal, “neutral-use” building whose design, 
+infrastructure, and technology could be easily modified to serve different uses. Imagine a 
+medical building that could be easily converted into, say, a hotel or an apartment building if 
+customers’ preferences changed. More modestly, buildings could be designed to accommodate 
+different degrees of collaborative and individual work or different arrangements of open and 
+closed offices. They could also include technology that promotes flexibility, such as sensors to 
+track patterns of usage, which can inform an employer’s approach to hybrid work.
+
+Hybrid buildings would bring at least two advantages. One, of course, is that they would protect 
+owners from shifts in preferences that are impossible to predict now. The second relates to a 
+trend toward shorter leases in the office sector. Because tenants will now be moving in and out 
+more frequently, buildings might become more valuable if they grow more adaptable.
+
+Developers could also try to convert offices into kinds of space for which there is more demand, 
+such as apartments, hotels, and schools. Conversions are very hard, however. Obstacles include 
+rezoning, renegotiating existing lease commitments to allow for renovations (for example, if just 
+a few tenants remain in a building but they have a lot of time left on their leases), and dealing with 
+physical limitations (for example, the usual layout of office buildings, which is difficult to divide 
+into apartment-sized dwellings that receive natural light). Conversions are also not a panacea: 
+even a large number of them would not meaningfully improve affordability (see Box 3, “Affordable, 
+sustainable real estate after the pandemic”). Still, for owners facing the prospect of lower 
+occupancy and lower rents in their office buildings, the opportunity cost of conversion has fallen, 
+and the number of successful conversions may grow.
+
+Developers of retail space too could keep adaptability in mind. Of late, retail tenants have 
+been evaluating their footprints with a stricter eye, shutting down stores or moving into smaller 
+spaces. For example, the average size of a store fell from about 3,400 square feet in 2019 to 
+about 3,000 square feet in 2021.35 That shift was probably caused partly by the closure of large 
+stores and partly by the opening of new store types, such as the mix of “grab and go” stores, 
+pharmacy-focused stores, and “general stores” that a leading drugstore chain has recently 
+launched to cater to different customer segments. If developers built more adaptable spaces, 
+they would be likelier to remain relevant to tenants’ shifting needs. Developers might also 
+offer new store formats, such as spaces intended for delivery and fulfillment or for logistics 
+rather than traditional retail. Or they might design buildings that are more integrated with their 
+environments—for example, with dining spaces that extend onto sidewalks.
+
+Office-to-housing conversions 
+are not a panacea: even a 
+large number of them would 
+not meaningfully improve 
+affordability.
+
+35  Brandon Svec, “Doing more with less: Average retail lease size continues to decline,” CoStar, November 12, 2021.
+
+70
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateAt the floor level, design space that is modular and multiuse 
+
+Tenants in urban cores—both the employers who rent office space and the merchants who rent 
+retail space—may have to start “earning the commute” from office workers and shoppers who 
+would otherwise visit less often. They can do that by providing more attractive experiences. Here 
+too, thinking flexibly and adaptably can help.
+
+For example, the office does not have to be just a place to work; it can also be a place where 
+employees enjoy amenities provided by their employers, such as outdoor communal spaces and 
+compelling events. Office tenants might try to attract them by building magnetic, hospitality-
+oriented workplaces. (Those that find it difficult to create such an environment in their own 
+offices might rely on providers of coworking space or landlord-provided community workspaces.) 
+Office tenants might also design more modular spaces that can adapt to changes in work 
+patterns from week to week. And the most forward-thinking tenants will provide an efficient, 
+digital way to organize hybrid work patterns and preferences.
+
+Retailers too may have to “earn the commute” by designing spaces that cater to many different 
+uses. A prime example is stores that easily accommodate omnichannel retail—a single, seamless 
+experience for customers, whether they shop online or in person. The omnichannel experience 
+is quickly becoming the industry standard. Similarly, stores can provide experiential retail. For 
+example, a leading US sporting goods company is testing a new type of store that doubles as 
+a community sports center, and a department store brand is launching smaller stores where 
+customers can pick up products bought online, get clothes altered, find style advice, and 
+patronize a beauty salon. 
+
+Indeed, it is not hard to imagine more “hybrid floors” in which offices, residences, and stores exist 
+side by side. For floors—as for buildings and neighborhoods—turning empty spaces into hybrid 
+places may not simply be a way to counter the damage wrought by the pandemic. It could be a 
+way to transform superstar cities and prepare them for a dynamic, prosperous future.
+
+Retailers may have to ‘earn the 
+commute’ by designing spaces 
+that cater to many different uses.
+
+71
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© Marco Bottigelli/Getty Images
+
+Technical appendix
+
+This appendix offers information about two important components of our research: the survey 
+that we conducted to understand the behavioral shifts caused by the pandemic, and the models 
+that we built to project demand for office, residential, and retail space in several scenarios.
+
+Our survey
+
+In chapter 1, we describe many pandemic-induced behavioral shifts. We deduced some of those 
+shifts from a large international survey that we conducted in October and November 2022 to 
+learn how office workers’ behavior had changed—in ways that could affect real estate—during 
+the pandemic. We surveyed nearly 13,000 full-time office workers, all of them at least 18 years 
+old, in six countries: China (about 2,600 people), France (1,400), Germany (1,900), Japan (1,700), 
+the United Kingdom (2,300), and the United States (3,200).
+
+We ensured that the initial set of respondents who received the survey had the same distribution 
+of age and sex as their country did. In the United States, where we had more information about 
+potential respondents, we were also able to account for income, ethnicity, and region (that is, the 
+Northeast, Midwest, South, and West).
+
+We considered responses only from people who met certain requirements, such as being  
+full-time office workers or remote workers performing office-related duties. That group was 
+called the target audience.
+
+Then, in order to increase the number of responses, we sent the survey to a larger set of 
+respondents, one whose demographic characteristics matched those of the target audience. We 
+then weighted respondents from each country to reflect the country’s distribution of age and sex 
+within the population of office workers (a distribution that we determined by examining the target 
+audience’s responses). Once again, we were able to weight US respondents by income, ethnicity, 
+and region as well. Where we present global averages, we simply averaged results from the 
+countries we studied rather than weighting those results by population.
+
+We intentionally overrepresented certain groups. First, we overrepresented respondents from  
+17 cities of particular interest to make sure that we had enough information about those cities. 
+The cities were Atlanta (where we surveyed about 480 people), Beijing (540), Berlin (400), 
+Chicago (460), Chongqing (70), Hong Kong (500), Houston (440), London (840), Los Angeles 
+(440), Munich (550), New York City (440), Osaka (490), Paris (730), San Francisco (410),  
+Shanghai (560), Shenzhen (490), and Tokyo (560).36 Second, we overrepresented people who 
+had moved after the pandemic began to make sure that we had enough information about 
+migration patterns.
+
+36  Those numbers do not add up to 13,000 because we also surveyed people from other cities.
+
+73
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateThe questions that we asked covered the following areas:
+
+ — Respondents’ personal characteristics (for example, “What is the highest degree or level  
+
+of school you have completed?”).
+
+ — Employment information (for example, “What is your typical commute time to the office, 
+
+one-way?”).
+
+ — Office attendance and factors motivating working from home (for example, “On average, 
+how many days of the week did you work in the office pre-COVID [late 2019]?” and “Why do 
+you typically choose to work in the office, on days you do not work from home?”).
+
+ — Trade-offs related to working from home (for example, “How much of your compensation 
+[as a percentage of your pretax salary and bonus] would you be willing to forgo to be able to 
+work from home for your ideal number of days per week versus being in the office  
+every day?”).
+
+ — Space needs (for example, “For the time that you are in the office today, how has your 
+
+allocation of time among types of spaces changed relative to how you utilized spaces before 
+the pandemic [that is, late 2019]?”).
+
+ — Retail spending (for example, “How has your share of retail expenditure at the following 
+
+locations shifted today [fall 2022] versus pre-COVID [late 2019]?”).
+
+ — Most recent move and motivating factors (for example, “In what ways did the pandemic 
+
+influence your move?”).
+
+ — Impact of move on preferences and persistence (for example, “In what ways has working 
+
+from home changed your preferences around where you live and what kind of space  
+you need?”).
+
+Finally, we ensured that each part of our analysis had a sufficiently large sample. For example, 
+every industry shown in Exhibit E1 had at least 300 respondents.
+
+Our models
+
+In chapter 2, we offer projections of demand for real estate in 2030. Those projections were 
+generated by three interrelated models we built, one apiece for office, residential, and retail 
+space. We used each model to project demand in three scenarios—called reversion, moderate, 
+and severe—in which the pandemic’s effects were increasingly strong. The factors that each 
+model took into account (some of which were drawn from another model’s output) and the ways 
+the scenarios differ from one another are described below.
+
+Office space model
+Our model for projecting demand for office space considered the following four factors:
+
+ — Office employment, defined as the total number of office workers in an urban core.
+
+ — Office attendance, defined as employees’ current office attendance as a percentage of 
+
+their office attendance before the pandemic. For example, if an employee went to the office 
+five days a week before the pandemic but now goes to the office three days a week, that 
+employee’s office attendance is 60 percent.
+
+74
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate — Employee coordination, defined as the maximum share of workers in the office at a given 
+time that employers need to provide space for. This factor is important because office 
+attendance figures alone may overstate the degree to which demand for office space has 
+fallen. If all employees go to the office only once a week, but all are present on Tuesday, 
+demand will be no smaller than it was when they worked in the office daily. By contrast, if 
+all employees go to the office three days a week, but the company coordinates attendance 
+so that no more than 60 percent of employees are present on any day, demand for space 
+is reduced by 40 percent. Our model assumes that employers will enforce coordination to 
+capture half of the space savings from reduced office attendance. For example, if attendance 
+decreases by 40 percent, the model assumes that demand for square footage will drop by  
+20 percent.
+
+ — Space per seat, defined as the total usable square footage allocated to each office worker. 
+
+Space per seat was declining even before the pandemic.
+
+We varied the values for the first two of those four factors to estimate demand in three scenarios.
+
+ — In the reversion scenario, we essentially assume that the world will revert to its condition 
+
+before the pandemic. Office attendance returns to its prepandemic level by 2022 and stays at 
+that level through 2030. Office employment growth is based on the historic rate of population 
+growth as well as shifts in labor force participation rates and in the share of office workers. 
+Employee coordination and space per seat are held constant at their current levels.
+
+ — In the moderate scenario, the pandemic’s effects on population, and therefore on office 
+
+employment and office attendance, are stronger. (The effects on population are drawn from 
+the moderate scenario in our model for residential space, which is described below.) By 2025, 
+office attendance is higher than it is now but still lower than it was before the pandemic, and 
+that partial recovery continues indefinitely. Employee coordination and space per seat are 
+again held constant at their current levels.
+
+ — In the severe scenario, the pandemic’s effects are long-lasting and reduce population 
+
+growth, so the effects on office employment and office attendance are even stronger. (The 
+effects on population are drawn from the severe scenario in our model for residential space.) 
+Office attendance remains at current levels indefinitely. Employee coordination and space 
+per seat are again held constant at their current levels.
+
+Residential space model
+Our model for projecting demand for residential space considered the following three factors:
+
+ — Population, defined as the current number of residents in an area. We modeled population 
+
+separately for the urban core and suburbs of each city (see Box E1, “How we define cities,” in 
+the executive summary). During the pandemic, increased out-migration from urban cores to 
+suburbs disrupted population growth.
+
+ — Average household size, defined as the average number of members in each household. We 
+assumed that through 2030, average household size would change at its historical rate from 
+2010 to 2020.
+
+ — Average size of home, defined as the average number of rooms per home in the United 
+
+States and the average number of square feet per home in the other countries we studied. 
+Here too, we assumed that through 2030, average household size would grow at its historical 
+rate from 2010 to 2020.
+
+75
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estateWe varied the values for the first of those three factors to estimate demand in three scenarios.
+
+ — In the reversion scenario, people who moved during the pandemic return to their original 
+residences in urban cores or suburbs by 2025, driven by a full return to prepandemic rates 
+of office attendance. Because of their return, excess migration, which we define as out-
+migration from urban cores during the pandemic that exceeded the 2015–19 average, falls 
+below zero. After 2025, population growth returns fully to its prepandemic rate (that is, the 
+annual rate from 2010 to 2020).
+
+ — In the moderate scenario, people who moved during the pandemic do not move back, 
+because hybrid work is now the standard working model. Excess migration continues, 
+but it is small and gradually falls to zero, and population growth in most cities returns to its 
+prepandemic rate by 2030.
+
+ — In the severe scenario, people who moved during the pandemic do not move back. Excess 
+migration continues, is high, and does not fall to zero until after 2030. As a result, population 
+growth in most of the cities we studied is much lower than it was before the pandemic.
+
+Retail space model
+Our model for projecting demand for retail space considered the following six factors:
+
+ — Population, defined as the current number of residents in an area. We modeled population 
+
+separately for the urban core and suburbs of each city.
+
+ — Impact of remote work on spending, defined as the change in retail spending in physical 
+stores resulting from changes in office attendance as commuters come to workplaces less 
+often and spend less money in stores near them.
+
+ — E-commerce penetration, defined as online spending as a share of total retail spending. 
+In the early years of the pandemic, e-commerce penetration grew more quickly than it had 
+historically because of quarantines, social distancing, and increased remote work.
+
+ — Sales productivity, defined as in-store retail sales per square foot of occupied retail space. 
+For example, if a store with 100 square feet of space generated $1,000 in annual sales, sales 
+productivity would be $10 per square foot.
+
+ — In-store retail sales, defined as annual retail sales that occur in a physical store within 
+a metropolitan area. To determine the growth of in-store retail sales, we began with the 
+projected rate of general consumer spending at the city level through 2030 and adjusted it 
+for population change, the impact of remote work on spending, and e-commerce penetration.
+
+ — Commuters, defined as the number of people who commute to the urban core for work. We 
+assumed that the ratio of commuters (but not the number of commutes) to the population of 
+the urban core would remain constant at its 2019 value through 2030.
+
+We varied the values for the first four of those six factors to estimate demand in three scenarios.
+
+ — In the reversion scenario, as a result of employees’ full return to the office, office commuters’ 
+
+retail spending near the office returns to prepandemic levels by 2025. The population 
+assumptions are drawn from the reversion scenario in our residential space model, and the 
+office attendance assumptions that inform the impact of remote work on spending are pulled 
+from the reversion scenario in our office space model. E-commerce penetration returns to its 
+prepandemic trend line by 2025. Sales productivity remains at its 2019 level.
+
+ — In the moderate scenario, employees engage in only a partial return to the office. The 
+population assumptions are drawn from the moderate scenario in our residential space 
+model, and the office attendance assumptions that inform the impact of remote work on 
+spending are pulled from the moderate scenario in our office space model. E-commerce 
+
+76
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estatepenetration again returns to its prepandemic trend line by 2025. Sales productivity remains 
+constant at its 2019 level in all cities except Beijing and Shanghai, where recent growth gives 
+us reason to expect a future increase.
+
+ — In the severe scenario, retail spending remains at its current level. The population 
+
+assumptions are drawn from the severe scenario in our residential space model, and the 
+office attendance assumptions that inform the impact of remote work on spending are 
+pulled from the severe scenario in our office space model. Pandemic-induced increases 
+in e-commerce penetration continue, except in cities where e-commerce penetration has 
+already returned to prepandemic rates of growth. Sales productivity grows slightly in all cities.
+
+77
+
+McKinsey Global Institute | Empty spaces and hybrid places: The pandemic’s lasting impact on real estate© EschCollection/Getty Images
+
+Acknowledgments
+
+This report is a collaborative effort by the McKinsey Global Institute and McKinsey’s  
+Real Estate Practice.
+
+The research was led by Jan Mischke, an MGI partner in Zurich; Ryan Luby, a senior knowledge 
+expert and associate partner in New York; Brian Vickery, a McKinsey partner in Boston;  
+Jonathan Woetzel, an MGI director and senior partner in Shanghai; Olivia White, an MGI director 
+and senior partner in San Francisco; Aditya Sanghvi, a McKinsey senior partner in New York City; 
+Rob Palter, a McKinsey senior partner in Toronto; André Dua, a McKinsey senior partner in Miami; 
+and Sven Smit, a McKinsey senior partner in Amsterdam and MGI chairman. The project team 
+was led by Jinnie Rhee, a consultant in San Francisco; Anna Fu, a consultant in New York;  
+Isabella Mayorga, an alumna; and Chris Longman, an alumnus. The team included Cristina 
+Barrantes, Maclaine Fields, Lily Highman, Ricardo Huapaya, Marty Kang, Gaby Pierre, 
+Jose Maria Quiros, Akanksha Raina, Surya Tahliani, Paula Trejos, Valeria Valverde, Caitlin 
+Wischermann, and Cody Wollin. 
+
+We thank Nicholas Bloom, professor, Stanford University; Michael Joyce, senior managing 
+director, Greystar; Jonathan Lurie, managing partner, Realty Corporation; Janet Pogue McLaurin, 
+global director of workplace research, Gensler; Andrew Min, senior vice president, RXR;  
+Alan M. Taylor, professor, University of California, Davis; and Ko Wang, professor, Johns Hopkins 
+Carey Business School, for kindly sharing their insights.
+
+The project benefited immensely from the expertise and perspectives of many McKinsey 
+colleagues especially Colleen Baum, Gemma D’Auria, Kevin Heidenreich, Phil Kirschner, Dymfke 
+Kuijpers, Adrian Kwok, Daniel Läubli, James Patchett, Ben Safran, Anthony Shorris,  
+and Alex Wolkomir.
+
+The report was edited by MGI senior editor Benjamin Plotinsky, together with senior data 
+visualization editor Chuck Burke and editorial operations manager Vasudha Gupta. We also thank 
+our colleagues David Batcheck, Cecilia Bayer, Tim Beacom, Amanda Covington, Shannon Ensor, 
+Vero Henze, Karen Jones, Stephen Landau, Janet Michaud, Diane Rice, Rebeca Robboy,  
+Rachel Robinson, Katie Shearer, and Nathan Wilson for their support.
+
+This research contributes to MGI’s mission to help business and policy leaders understand the 
+forces transforming the global economy. As with all MGI research, it is independent and has not 
+been commissioned or sponsored in any way by any business, government, or other institution.
+
+McKinsey Global Institute 
+July 2023 
+Copyright © McKinsey & Company 
+Designed by the McKinsey Global Institute
+
+www.mckinsey.com/mgi
+
+ @McKinsey_MGI 
+ @McKinseyGlobalInstitute 
+       @McKinseyGlobalInstitute
+
+Subscribe to MGI’s podcast, Forward Thinking: 
+mck.co/forwardthinking
+
+ 
+ 
+

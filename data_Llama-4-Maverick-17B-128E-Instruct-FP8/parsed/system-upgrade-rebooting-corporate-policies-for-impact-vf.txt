@@ -1,0 +1,3518 @@
+M
+E
+T
+S
+Y
+S
+
+EREBOOTING CORPORATE 
+D
+POLICIES FOR IMPACT
+A
+R
+G
+P
+U
+
+In partnership with
+
+ 
+TABLE OF CONTENTS
+
+Preface
+
+Foreword 
+
+Acknowledgments 
+
+Executive summary
+
+Chapter 1 – Setting the stage 
+In the face of uncertainty, talent is crucial to a company’s ability to 
+compete and win in tech
+
+Want to know why focusing on Black, 
+Latina, and Native American women 
+may be the most efficient use of your 
+limited resources?  G O H E R E
+
+Chapter 2 – Supporting BLNA women 
+Why it’s important to focus on Black, Latina, and Native American 
+women in technical roles
+
+Want to know why the time to act is 
+now?  G O H E R E
+
+Chapter 3 – Sustaining progress 
+Companies must intervene to ensure the gains made for BLNA 
+women in computing education start translating to growth in the 
+workplace
+
+Ready to act? G O H E R E to learn how 
+to start  
+
+Chapter 4 – Seizing the opportunity 
+How companies can serve BLNA women, and all employees, more 
+effectively
+
+Conclusion 
+
+Tools and resources
+
+Scope and methodology  
+
+Endnotes 
+
+About the authors 
+
+03
+
+04
+
+05
+
+06
+
+11
+
+15
+
+24
+
+32
+
+49
+
+51
+
+57
+
+63
+
+65
+
+2
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTPREFACE
+
+One of the greatest strengths of our society is our diversity. The United States is 
+made up of people with so many different perspectives, and we are collectively more 
+innovative as a result. Ironically, though, a lack of diversity remains a defining feature 
+in the tech industry and broader technical workforce, which are supposed to be at the 
+forefront of innovation. Barely more than 25 percent of employees in the sector are 
+women, and just over 4 percent are Black, Latina, or Native American (BLNA) women.1 
+
+Pivotal Ventures is committed to expanding women’s power and influence. To achieve 
+that goal, we invest in helping women—especially women of color—advance in key 
+professions where they have been systematically underrepresented. That’s why we 
+support the Reboot Representation Tech Coalition.
+
+The coalition was formed by 11 companies in 2018 to double the 
+number of BLNA women graduating with computing degrees by 
+2025. Less than five years later, the coalition has expanded to 21 
+members and six partners and has collectively pledged more than 
+$26 million to BLNA women in computing. With help from many 
+partners,  they’ve  almost  achieved  their  doubling  goal.  That’s 
+the good news. There are more BLNA technologists than ever 
+graduating from college, ready to step into the workforce. 
+
+The  bad  news  is  that,  despite  these  gains,  BLNA  women’s 
+representation in technical roles in the workforce is actually shrinking; 
+it’s dropped by more than 10 percent in the past four years.2
+
+The Reboot Coalition’s success at the college level proves that rapid 
+progress is possible with a strong commitment, thoughtful strategy, 
+and deep collaboration. The next step is to get similar results in the 
+workplace so that BLNA computing graduates don’t just get degrees 
+but actually get jobs in tech, thrive in their roles, and advance to 
+leadership positions. 
+
+Technology jobs can give millions of people new opportunities 
+and keep our economy healthy—but only if all technologists get 
+the support they need at every step in their professional journeys. 
+Reboot is working hard to make sure they do.
+
+M EL I N DA  FR EN C H  G AT E S
+F O U N D E R , P I VOTA L V E N T U R E S
+
+3
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTFOREWORD
+
+What makes a good company great? 
+
+A relentless commitment to the long term. An ability to use insightful 
+data to make informed decisions. And probably most important, a 
+continued investment in its people. Companies that invest in talent 
+don’t just stay afloat in difficult times; they thrive in the long run.
+
+Today, technology transcends industry. Across sectors, technologists 
+bring innovation, growth, and advancements to companies of all 
+shades. What’s more, technology jobs continue to be engines of 
+economic growth and social mobility. 
+
+When we published our first Rebooting Representation report in 
+2018, the share of Black, Latina, and Native American (BLNA) 
+women  receiving  computing  degrees  was  declining.  But  the 
+efforts of our partners and countless other organizations across 
+the ecosystem helped turn that around. The number of computing 
+degrees awarded to BLNA women nearly doubled between 2016 
+and 2021, but continued intentional investments will be required to 
+sustain and propel these efforts. 
+
+More BLNA women are ready to enter the technical workforce, 
+but corporations have failed to realize gains by retaining them. In 
+fact, representation of BLNA women in the technical workforce is 
+shrinking; it dropped by more than 10 percent in the past four years.3 
+Further, tech women’s attrition more than doubled in 2022, with 
+BLNA women technologists exiting their companies at the highest 
+rates.4 
+
+Through a recent survey of more than 2,000 employees in technical roles, we identified 
+cornerstone policies that drive the most impact while addressing employee needs. We also sought 
+to understand company perspectives and uncover gaps in current offerings. 
+
+As companies face constrained resources, we are excited to share a practical and feasible set 
+of critical talent investment steps that will also enable companies to capitalize on the growing 
+number of BLNA women graduating with computing degrees.
+
+It is our hope that this analysis will arm companies with concrete guidance for adding new 
+cornerstone policies and practices or enhancing the ones they already have. This will allow 
+companies to better recruit and retain BLNA women and enhance opportunities for all their 
+employees.
+
+DWA N A  FR A N K L I N - DAV I S
+C EO, R E B O OT R E P R E S E N TAT I O N
+
+4
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTACKNOWLEDGMENTS
+
+We wish to thank the many people and companies who contributed to this research. We are especially grateful to the following: 
+
+The 27 companies that participated 
+in our survey and interviews, sharing 
+data on the policies and practices 
+they are currently using across the 
+entire talent life cycle to engage and 
+support  Black,  Latina,  and  Native 
+American women technologists
+
+The 2,076 BLNA women and others 
+who  responded  to  our  sur vey  or 
+shared  their  time  and  personal 
+experiences with us through one-on-
+one interviews
+
+The core team that helped spearhead 
+the research and development of this 
+report—including Caroline Candido, 
+Maria Castex, Karla Gomes de Souza, 
+Adriana  Gomez  Penin,  and  Hilary 
+Nguyen  at  McKinsey—and  Emily 
+Milanowski  and  Laurel  Yamaguchi 
+at Pivotal Ventures, who are critical 
+supporters of Reboot (for a list of 
+authors, see page 65) 
+
+We also appreciate the data sets and research from McKinsey and LeanIn.org’s Women in the Workplace study that have helped 
+inform this work.
+
+5
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTEXECUTIVE SUMMARY
+
+All great leaders want and need their people to thrive at work. Companies that 
+consistently invest in their core talent tend to outperform their competitors and are 
+more likely to thrive long term.
+
+For years, companies have invested significant time and resources 
+in improving representation and inclusion in the workplace. Yet 
+there is still little concrete and lasting progress, particularly when 
+it comes to the inclusion of Black, Latina, and Native American 
+(BLNA) women in the technical workforce. This report is an effort 
+to understand why, as well as what works to change that reality. 
+
+When we published the first Rebooting Representation report in 
+2018, the number of BLNA women receiving computing degrees 
+wasn’t just low—it was declining. The collective power of the 
+Reboot Representation Tech Coalition partners and countless 
+others across the ecosystem helped turn those numbers around. 
+The number of computing degrees awarded to BLNA women 
+nearly doubled between 2016 and 2021. That’s worth celebrating. 
+
+We’ve come a long way, and we know where to double down 
+next: retention in the workplace. In the same moment that we see 
+an increase in degree conferrals, BLNA women’s representation 
+in the technical workforce is shrinking—dropping by more than 10 
+percent in the past four years (from 4.6 percent in 2018 to 4.1 
+percent in 2022)5—compared with 16.5 percent in the working-
+age population as a whole.6 To consolidate educational gains and 
+build a workforce of thriving technologists, companies need to act. 
+
+Companies must be more intentional about ensuring that their talent strategies 
+explicitly address employee needs at the intersection of gender and race or ethnicity. 
+This is a smart way to prioritize talent efforts and get the most out of the investments 
+companies are already making in their talent, especially at a time in which companies 
+are being asked to stretch resources. When done right, this effort could lay the 
+foundation for a more supportive workplace for additional groups that face steep 
+barriers in the technical workforce and, ultimately, help all employees thrive. 
+
+6
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCompanies have a clear and tangible opportunity to reverse the decline in BLNA 
+women’s representation in the technical workforce. We surveyed more than 2,000 
+BLNA women in technical roles and their peers from other demographic groups about 
+38 specific policies and practices at their organizations. In addition to our survey, 
+this report builds on existing research, much of which focuses on the experiences of 
+BLNA women (such as their sense of belonging at work). We found that, while current 
+policies and practices aren’t quite hitting the mark for BLNA women in technology, 
+there are concrete actions employers can take that would positively affect the 
+workplace experience for BLNA women—and all employees—in technical roles. Our 
+research shows the following:
+
+•  Companies are offering policies and practices that aren’t being used. 
+Only 32 percent of BLNA women said they used more than half of 
+the policies and practices referenced in the survey, compared with 43 
+percent of all other demographic groups. That means the investments 
+companies are making in offering these policies and practices are not 
+yet achieving their full potential for impact.
+
+•  Companies should prioritize nine cornerstone policies and practices. BLNA women said nine policies and 
+practices had the most impact on their ability to join their company, stay there, or advance within it.7 These nine 
+interventions address three key employee needs: 
+
+Democratizing access to information 
+to level the playing field:
+
+Increasing flexibility, enabling employees 
+to work the way they work best:
+
+01 Share salary ranges so people 
+
+know what they can expect.
+
+02
+
+Create an accessible 
+internal jobs board so 
+employees can understand 
+opportunities across the 
+organization.
+
+03 Assign mentors to support 
+
+candidates in the interview 
+process by clarifying the pro-
+cess, answering questions, 
+and helping candidates pre-
+pare for interviews.
+
+all employees.
+
+benefits such as personal leave.
+
+04 Provide paid sick leave to 
+05 Offer expanded mental health 
+06 Give employees the option to 
+07 Enable employees to flex 
+
+their working hours—for 
+example, through compressed 
+workweeks, alternative work 
+schedules, and job sharing. 
+
+work remotely, hybrid, or on-site.
+
+•  An investment in these cornerstone policies is an investment in 
+employee retention. BLNA women whose organizations offer all nine 
+cornerstone policies and practices reported being more than 75 percent 
+more likely to stay at their companies than BLNA women at companies 
+that do not offer all nine.
+
+•  These policies benefit the entire workforce. Employees from all other 
+demographic groups reported being nearly 80 percent more likely to 
+be satisfied with their work experience at organizations that offered all 
+nine cornerstone policies and practices.
+
+Demystifying development by 
+charting clear pathways for employee 
+career advancement:
+
+08
+
+Offer professional-development 
+programs to help employees 
+expand their networks and 
+grow (for example, career 
+accelerators, job shadowing, 
+and rotation opportunities).
+
+09
+
+Provide actionable next steps 
+for development and/or 
+advancement directly following 
+a performance review.
+
+7
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTJust 36 percent of all respondents reported that their 
+company currently offered all nine cornerstone policies 
+and practices.8 Offering the full package is a crucial start 
+for leaders who want to move the needle for BLNA women 
+in the technical workforce.
+
+Companies that do offer the cornerstone policies have 
+an opportunity to take advantage of data disaggregated 
+simult aneously  by  race  or  ethnicit y  and  gender. 
+Disaggregated data enables companies to increase the 
+return on their investment in policies and practices by 
+uncovering hidden barriers to impact. Only 46 percent 
+of BLNA women reported that their employer’s average 
+existing cornerstone policies were designed to be accessible 
+and effective for them, 16 percentage points lower than 
+what their peers reported.9 That might not be surprising: the 
+significant majority of companies surveyed and interviewed 
+for this research had not yet set goals, measured progress, 
+or tracked outcomes at the intersection of race and gender.
+
+By exploring existing policies and practices from both 
+corporate  and  technologist  perspectives,  this  report 
+provides a road map to help companies prioritize the tactics 
+that will make the most of limited time and resources. It 
+includes key opportunities for action along with tools and 
+resources to support companies in creating environments 
+in which all employees feel supported and contribute fully.   
+
+TOOLS INCLUDED IN THIS REPORT
+
+•  The business case for investing in BLNA women (page 52) 
+
+•  Short list of the nine cornerstone policies 
+and practices that are most impactful to 
+BLNA women technologists (page 56)
+
+If you are ready to act 
+but don’t know where 
+to start, flip to H E R E
+
+•  Key design questions that leaders should 
+
+consider when implementing new 
+policies or practices to ensure they are 
+intentionally designed to be accessible 
+and effective for BLNA women in the 
+technical workforce (page 53)
+
+If your company already 
+offers the short list of 
+9 cornerstone policies 
+and practices, flip to 
+H E R E  to learn how to 
+make the most of them
+
+•  Guide to applying key design questions to create 
+
+a paid sick leave policy that is accessible and effective  
+for BLNA women (page 54)
+
+•  A three-part road map for companies to root their 
+
+strategies in disaggregated data, implement cornerstone 
+policies, and optimize policies for maximum impact  
+(page 56)    
+
+To create lasting progress, business leaders must tap into three familiar (but critical) 
+factors for success: collecting and disaggregating data at the intersection of race 
+or ethnicity and gender to sharpen decision making; delivering results and fulfilling 
+the promises that have been made to employees by focusing on the highest-impact 
+practices; and iterating and improving continuously by centering the needs of BLNA 
+women technologists to create a workplace in which all employees can truly thrive.
+
+8
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCALL TO ACTION
+
+Join us in creating a workplace that better supports BLNA women (and thereby all 
+employees) by taking three critical steps:
+
+A.
+            Leverage disaggregated data
+Use data disaggregated simultaneously by race or ethnicity, gender, and role (for 
+example, technical versus nontechnical) to build a fact base, identify root causes and 
+areas of opportunity, and measure progress across the organization in the following 
+areas:
+
+•  Uptake of policies and practices
+
+•  Satisfaction with policies and practices
+
+•  Interim outcomes (for example, promotions among those who had used 
+
+a professional-development program)
+
+•  Ultimate outcomes (such as representation and lower turnover at each 
+
+seniority level of the organization and for technical-specific roles)  
+
+Review results of disaggregated analyses at least quarterly with senior leaders to plan 
+action steps.
+
+9
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTB.
+             Deliver results 
+Implement the nine cornerstone policies 
+and practices in your organization:  
+
+Democratize access to information to level the playing field
+
+01 Share salary ranges so 
+
+people know what they 
+can expect.
+
+02 Maintain an accessible internal jobs 
+
+board so people can understand 
+opportunities across the organization.
+
+03 Assign mentors to support candidates in the interview process by 
+
+clarifying the process, answering questions, and helping candidates 
+prepare for interviews.
+
+Increase flexibility, enabling employees to work the way they work best
+
+04 Provide paid sick leave 
+
+to all employees.
+
+05 Offer expanded mental health benefits 
+
+such as personal leave.
+
+06 Give employees the 
+
+option to work remotely, 
+hybrid, or on-site.
+
+07 Enable employees to flex their 
+
+working hours—for example, through 
+compressed workweeks, alternative 
+work schedules, and job sharing.
+
+Demystify development by charting clear pathways for employee 
+development and career advancement
+
+09 Provide actionable next steps for 
+
+development or advance ment directly 
+following a performance review.
+
+08 Offer professional-
+
+development programs 
+to help employees 
+expand their networks 
+and grow (for example, 
+career accelerators, job 
+shadowing, and rotation 
+opportunities).
+
+C.
+             Improve continuously 
+Intentionally design policies and practices to be accessible and effective for BLNA 
+women in technical roles, using data to define clear markers of success: 
+
+•  Use quantitative and qualitative data to bring in the perspectives of 
+
+BLNA women to identify how pain points differ for each group.
+
+•  Offer employees multiple relevant options.
+
+•  Ensure all options are accessible and easy to use.
+
+•  Communicate frequently and clearly about this policy or practice.
+
+•  Promote a culture that encourages adoption.
+
+•  Continuously measure impact and course-correct as needed.
+
+10
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTR
+
+E
+
+T
+
+A
+
+P
+
+01C
+
+H
+
+SETTING THE STAGE
+
+In the face of uncertainty, talent is crucial to a 
+company’s ability to compete and win in tech
+
+‘We don’t have a choice but to 
+invest in talent long term if 
+we want to stay competitive in 
+our line of business.’ 
+
+V P O F  TA L EN T,  T EC H N O LO G Y  H A R DWA R E CO M PA N Y 
+
+11
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACT42 percent of all surveyed technical 
+employees say they are ‘very likely’ or 
+‘somewhat likely’ to look for a new job 
+in the next 12 months.
+
+In an uncertain and challenging macroeconomic environment, many 
+companies are facing pressure to scale back organizational-health 
+efforts. 
+
+It’s critical that companies resist implementing strategies that put 
+short-term gains ahead of the development and retention of their key 
+talent. The normal cycle of business has historically included periods of 
+contraction quickly followed by expansion, and it will likely continue to 
+do so. Companies that prioritize effective and intentional investments in 
+their core talent during an economic downturn are poised to come out 
+ahead, retaining employees with the most essential skills and reaping 
+benefits that could allow them to outperform their competitors and 
+thrive in the long term.
+
+Companies that look past the short term and focus 
+on the long term can reap significant benefits
+Organizations that consistently focused their decision making on the 
+long-term implications of their strategy (as opposed to the pursuit of 
+short-term gains) earned 47 percent more revenue and saw 36 percent 
+higher earnings growth over a 15-year period, according to McKinsey 
+research.10 Results were good for workers as well—the same companies 
+added nearly 12,000 more jobs (on average per company) than their 
+peers over the same period of time.11  
+
+Companies are facing a challenging environment, and many may need 
+to cut costs to relieve the pressure. But the most successful companies 
+are the ones that continue investing in innovation and other key 
+differentiators—such as technical talent—even as they reduce costs 
+elsewhere. 
+
+DEFINING ‘TECH’
+
+This report focuses on the technical workforce in 
+the United States, which means those with the skills 
+to drive technological innovation, including roles in 
+software, IT services, data science, and engineering. 
+
+Technical  workers  are  at  the  cut ting  edge  of 
+reshaping the economy—an economy that is not 
+currently structured to serve or to support Black, 
+Latina,  and  Native  American  women.  The  work 
+of employees in technical roles can grow or shrink 
+societal  disparities—and  can  have  that  impact 
+through  channels  as  varied  as  how  algorithms 
+distribute  opportunities  to  whose  needs  novel 
+inventions serve.
+
+In  today’s  world,  technology  often  transcends 
+industry. We looked at how companies are engaging 
+the technical workforce in businesses that sell goods 
+and services in electronics, software, computers, AI, 
+and other IT-related industries, as well as companies 
+in other industries that rely on technologies such 
+as physical infrastructure, hardware, and software 
+to deliver value directly to customers or improve 
+internal operations. 
+
+The insights included in this report focus on the 
+United  States,  but  many  of  the  companies  that 
+participated in this research have operations across 
+the globe. These international operations may have 
+different needs given regional market and cultural 
+dynamics.
+
+1 2
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTTaking a long-term view involves real trade-offs, which can be 
+difficult for business leaders to navigate in an economic downturn. 
+However, intentionally investing in areas (such as talent retention)
+that fuel long-term growth can help companies maximize profits 
+in the long run. In practice, it means investing more (and more 
+consistently) even when everyone else seems to be scaling back.  
+
+Companies that invest in core talent are more 
+likely to thrive long term
+Consistently investing in talent is crucial and gives companies 
+the best chance to compete during times of growth and remain 
+resilient during cycles of uncertainty. 
+
+Research published by the McKinsey Global Institute based on an 
+analysis of 1,800 companies found that companies that invested 
+in human capital “are more consistent and resilient performers.”12 
+
+The  study  highlighted  two  subsets  of  companies:  People  + 
+Performance Winners, which excel at creating opportunities for 
+employees to build skills (measured by internal mobility, training 
+hours,  and  organizational-health  scores)  while  consistently 
+outperforming competitors financially, and Performance-Driven 
+Companies, which can achieve above-average financial results but 
+put less emphasis on people and culture. The companies in the 
+first category significantly outranked all other companies when it 
+came to consistency and resilience, as measured by their likelihood 
+to outperform competitors and their peak pandemic revenue 
+growth.13
+
+CASE STUDY 
+
+How investment during a crisis enabled 
+a stronger position once the turmoil 
+subsided 
+During the 2000 recession, one large retailer shuttered 
+some underperforming facilities but grew its workforce 
+by 10 percent to support new high-end products and 
+services. 
+
+One of its core competitors, on the other hand, reduced its 
+workforce by 6 percent. Despite creating new incentives 
+to boost sales, the competitor’s sales growth fell from 19 
+percent before the downturn to 8 percent after.
+
+The retailer that made investments in people, by contrast, 
+came out of the recession stronger and more profitable—
+sales doubled between 1997 and 2003. On average, 
+the company that invested was about 30 percent more 
+profitable than its competitor three years after the crisis.1 
+
+1  Ranjay Gulati, Nitin Nohria, and Franz Wohlgezogen, “Roaring out of 
+
+recession,” Harvard Business Review, March 2010.
+
+Even in times of acute crisis (such as the COVID-19 pandemic), People + Performance 
+Winners were more likely to avoid taking major hits. They were 11.0 percentage points 
+less likely than Performance-Driven Companies to see return on invested capital drop 
+by 0.5 percentage points or more from 2019 to 2020. Notably, they were also able to 
+grow revenue twice as fast (8 percent versus 4 percent).14
+
+Despite headlines to the contrary, the race for technical 
+talent is far from over
+The layoffs of more than 260,000 workers since fall 2022 across both technical roles 
+and other roles in the technology sector have garnered big headlines.15 
+
+But it would be a mistake for companies to think the competition for technical talent 
+is over. The majority (59 percent) of technical workers are employed by companies 
+outside of the formal tech sector, where the layoff risk is lower.16 
+
+13
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTEven with the layoffs, the number of people working in technical 
+occupations is at an all-time high, at more than 6.6 million people,17 and 
+unemployment remains strikingly low—2.2 percent compared with 3.6 
+percent for all jobs in March 2023.18 
+
+Companies that want to remain competitive—and position themselves 
+to excel in the future—will benefit from holding on to their core 
+technical talent. In the fast-moving world of technology, this means not 
+only helping people with technical skills enter the workforce but also 
+helping them stay there and thrive. 
+
+Companies can commit to a through-cycle 
+vision of success by continuing to invest in their 
+technical talent
+With the constant rise of new technologies, companies need technical 
+talent to unlock growth. Technology businesses can’t expect to win 
+without ensuring they have the right people—not just for the short 
+term but also for the long term—to enable consistently fast action. 
+
+And this technical talent may be at risk: our research shows that 
+42 percent of all technical employees say they are “very likely” or 
+“somewhat likely” to look for a new job in the next 12 months. 
+
+The cost of not committing to a through-cycle approach is high. The 
+departure of an employee can cost a company approximately 1.5 to 2.0 
+times the employee’s annual salary, because resources must shift to 
+recruit, onboard, and train someone new (an often lengthy and time-
+consuming process).19 At the same time, productivity suffers while the 
+role remains unfilled or as the replacement ramps up. A VP of talent at 
+a large technology company shared, “The products that we make are 
+cutting-edge, and there is a long ramp-up for onboarding and building 
+the necessary level of expertise within our technical workforce. We 
+don’t have a choice but to invest in talent long term if we want to stay 
+competitive in our line of business.”
+
+Companies that consistently invest in their people are investing in their 
+ability to compete and win.  
+
+In this challenging climate, continuing to invest in talent can seem 
+difficult. Companies are forced to make tough decisions, and business 
+leaders are asked to do more with less. But technology companies 
+already possess the core strengths they need to navigate potential 
+downturns successfully—their ability to collect and disaggregate data, 
+deliver results, and iterate and improve continuously. 
+
+The chapters that follow offer tools to help organizations prioritize the 
+right set of talent efforts. 
+
+14
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTR
+
+E
+
+T
+
+A
+
+P
+
+02C
+
+H
+
+SUPPORTING 
+BLNA WOMEN
+
+Why it’s important to focus on Black, Latina, 
+and Native American women in technical roles
+
+‘We have tons of data, but we 
+don’t have a lens into the 
+breakdown of our “people 
+of color” category. This is a 
+problem for us because it can be 
+misleading and doesn’t help us 
+pinpoint where representation 
+issues really lie.’ 
+
+D I R EC TO R , T EC H N O LO G Y PRO D U C T A N D  S ERV I C E S CO M PA N Y
+
+1 5
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBlack, Latina, and Native American women 
+are the most severely underrepresented 
+demographic group in the technical workforce. 
+Despite accounting for  16.5 percent  of the total 
+working-age population in the United States, 
+they represent only  4.1 percent  of all technical 
+roles.20
+
+In the face of uncertainty, companies should be intentional about allocating valuable 
+resources. 
+
+Implementing a through-cycle people strategy to support core talent through the 
+natural upswings and downturns of the business cycle may feel overwhelming given 
+that companies already face many other challenges and constraints. However, an 
+organizing framework—designing strategies to respond to the needs of groups facing 
+the greatest challenges—can help, and it ultimately benefits the entire workforce.
+
+Solving  for  those  who  face  some  of  the  steepest 
+barriers enables leaders to address the needs of other 
+employee groups facing a milder version of some of the 
+same challenges without microsegmenting their entire 
+workforce to identify and address a huge variety of 
+pain points. When it comes to technical talent, leaders 
+can be most strategic with their resources by designing 
+efforts with a specific focus on Black, Latina, and Native 
+American women.  
+
+CASE STUDY 
+
+What do targeted approaches that benefit 
+everyone look like in practice?
+Pressed by disability rights activists in the early 1970s, the city 
+of Berkeley, California, installed its first official “curb cut” at an 
+intersection on Telegraph Avenue. Curb cuts—small ramps that 
+are built into the curb of a sidewalk—were originally designed to 
+address the specific needs of wheelchair users, who face some of 
+the highest barriers to mobility in public spaces.1 
+
+As curb cuts became more prevalent throughout the country, 
+they not only improved mobility for wheelchair users but also 
+improved safety and ease of movement for all users—people 
+pushing strollers or carts, wheeling luggage, riding bicycles, and 
+even running or walking.   
+
+This is a simple but powerful example of how a tailored approach 
+to address the specific challenges and needs experienced by one 
+community or audience (in this case, wheelchair users) can create 
+an environment that enables everyone to participate more fully. 
+
+1  Angela Glover Blackwell, “The curb-cut effect,” Stanford Social Innovation Review, 
+
+Winter 2017. This case study is an illustrative example of how targeted approaches 
+can work in practice. It is not a road map or direct analogy for corporate practices 
+addressing the intersection of race and gender.
+
+16
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTA targeted, intentional approach that focuses on BLNA women should be a priority for 
+corporate leaders for three reasons:
+
+•  Diverse companies tend to outperform others.
+
+•  BLNA women are underrepresented in the US technical workforce and 
+
+face compounded barriers at the intersection of race and gender.
+
+•  Centering  on  the  needs  of  BLNA  women  offers  companies  an 
+opportunity to make serious commitments to talent and make the most 
+of their resources. 
+
+In the spirit of efficiency, some companies may be tempted to deprioritize the needs 
+of BLNA women as an underrepresented portion of the technical workforce (4.1 
+percent). But focusing on the needs of those with the lowest representation is one 
+of the most efficient decisions leaders can make if they are serious about investing in 
+talent.
+
+In addressing the challenges that BLNA women experience in the technical workforce, 
+companies can create environments that enable all their employees to feel supported 
+and contribute fully, while expending fewer resources.  
+
+As one director at a large technology company put it, “We were looking at our 
+advancement data and saw imbalances in our rates of promotion across races/
+ethnicities and genders. We ended up implementing a review process 
+where when a colleague [a White man] is up for promotion, we look for 
+other employees who have similar professional profiles but may identify 
+themselves differently to see if they are ready for promotion too. Even 
+if they aren’t, it’s an opportunity for us to build out more intentional 
+promotion readiness plans for our employees. From this, we didn’t just 
+see more equitable rates of promotion, but we also saw more employees 
+getting promoted! When you solve for the most marginalized groups, 
+you tend to see a benefit for others as well.”   
+
+Diverse companies tend to outperform others
+
+The strong and positive correlation between diversity and organizational 
+performance has been well documented in research. There is no trade-
+off between the two—in fact, more-diverse companies on average 
+have higher profits. And the business imperative for improving the 
+representation and inclusion of traditionally underrepresented groups 
+has only increased over time.
+
+For example, a McKinsey study found that companies in the top quartile 
+in terms of the representation of women were 25 percent more likely 
+than others to have above-average financial returns, and the companies 
+in the top quartile for racial or ethnic representation were 36 percent 
+more likely than others to have financial returns above their national 
+industry median.21 
+
+17
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTThis analysis also found that the likelihood of gender-diverse companies outperforming 
+competitors was increasing over time. The likelihood of the most gender-diverse 
+companies seeing above-average financial returns rose from 15 percent in 2014 to 
+25 percent in 2019 (Exhibit 1).22 
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 1
+Exhibit <1> of <11>
+
+Diverse companies are more likely to ﬁnancially outperform.
+
+Likelihood of ﬁnancial outperformance,1 %
+
+By gender diversity
+
+By ethnic diversity
+
+Why diversity 
+matters2
+
+Delivering 
+through 
+diversity3
+
+Diversity 
+wins4
+
+Why diversity 
+matters5
+
+Delivering 
+through 
+diversity6
+
+Diversity 
+wins7
+
+Average likelihood of outperformance
+
++15%
+
++21%
+
++25%
+
++35%
+
++33%
+
++36%
+
+60
+
+50
+
+40
+
+30
+
+1Likelihood of ﬁnancial outperformance vs the national industry median; p-value < 0.05, except 2014 data, where p-value < 0.10.
+2Dame Vivian Hunt, Dennis Layton, and Sara Prince, “Why diversity matters,” McKinsey, January 1, 2015; n = 383; Latin American, UK, and US; EBIT 
+margin 2010–13.
+3Sundiatu Dixon-Fyle, Dame Vivian Hunt, Sara Prince, and Lareina Yee, “Delivering through diversity,” McKinsey, January 18, 2018; n = 991; Australia, 
+Brazil, France, Germany, India, Japan, Mexico, Nigeria, Singapore, South Africa, UK, and US; EBIT margin 2011–15.
+4Sundiatu Dixon-Fyle, Kevin Dolan, Dame Vivian Hunt, and Sara Prince, “Diversity wins: How inclusion matters,” McKinsey, May 19, 2020; n = 1,039; 2017 
+companies for which gender data was available in 2019, plus Denmark, Norway, and Sweden; EBIT margin 2014–18.
+5“Why diversity matters,” January 1, 2015; n = 364; Latin America, UK, US; EBIT margin 2010–13.
+6“Delivering through diversity,” January 18, 2018; n = 589; Brazil, Mexico, Singapore, South Africa, UK, and US; EBIT margin 2011–15.
+7“Diversity wins,” McKinsey, May 19, 2020; n = 533; Brazil, Mexico, Nigeria, Singapore, South Africa, UK, and US, where ethnicity data available in 2019; 
+EBIT margin 2014–18.
+Source: Diversity Wins data set, 2019
+
+18
+
+201420172019201420172019Bottom quartile in executive diversityTop quartile in executive diversitySYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCorrelation is not the same as causation, but this research does indicate that 
+companies committed to diversity tend to be more successful. A range of interrelated 
+factors may contribute to this result: 
+
+•  Diverse companies tend to be more innovative. Companies with above-
+average diversity outperformed competitors by 19 percent in terms of 
+innovation revenues (products less than three years old), on average.23
+
+•  Teams with multiple perspectives are more likely to make 
+better decisions. Companies whose teams reflect the makeup 
+of potential consumers are more likely to anticipate shifts in 
+consumer needs and consumption patterns.24
+
+As one global head of diversity, equity, inclusion, and belonging 
+at a financial services company said, “We need to be able to 
+create diversified products, identifying new opportunities 
+through a deep understanding of all the customers we are 
+currently serving, as well as those we could potentially serve in 
+the future. The only way to do that is to hire an employee base 
+that actually represents all those communities.” 
+
+•  Companies  committed  to  diversity  may  be  better  able 
+to attract and retain top talent.  Seventy-two percent of 
+respondents from demographic groups other than BLNA 
+women reported that an employer’s commitment to diversity, 
+equity, and inclusion (DEI) is important to them. 
+
+Women leaders are 1.5 times as likely as their male counterparts to say 
+they left a job in the past because they wanted to work at a company 
+more committed to DEI—and these factors are especially important to 
+younger candidates. Women under 30 are ten percentage points more 
+likely than their more senior counterparts to say DEI has become more 
+important to them in the past two years.25
+
+•  Companies that invest in DEI tend to see greater employee satisfaction 
+and retention. Organizations with DEI departments saw higher levels 
+of employee satisfaction (across all employee groups) than companies 
+without them, receiving approximately 6 percent higher ratings in terms 
+of culture and values and about 4 percent higher ratings overall.26 
+
+But merely increasing diversity through hiring will not suffice. Given the current 
+slowdown in hiring, there are other ways to commit to ongoing organizational 
+investments in inclusion to attract new employees when recruitment does ramp 
+up. Companies can benefit from being intentional about how they are engaging 
+and supporting employees—particularly those who are most underrepresented in 
+the technical workforce—to retain them and enable them to thrive. This is not only 
+the right thing to do; it can also be a competitive advantage, allowing companies to 
+unlock the immense value of attracting and retaining people with a wide range of lived 
+experiences. 
+
+19
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTOVER THE PAST SEVERAL YEARS, COMPANIES HAVE 
+MADE PROMINENT COMMITMENTS TO SUPPORTIVE 
+AND INCLUSIVE WORKPLACE ENVIRONMENTS
+
+Corporate commitments to advance diversity, equity, inclusion, and belonging (DEIB) 
+soared in response to the murders of George Floyd, Breonna Taylor, and others; the 
+rise of the Black Lives Matter movement in the summer of 2020; and decades of 
+disinvestment. Publicly, more than 2,400 CEOs signed a pledge asserting that diversity 
+and inclusion are priorities.1 And according to some estimates, companies committed 
+upwards of $340 billion to support racial justice between May 2020 and October 
+2022.2 These commitments include the following examples: 
+
+Committing $175 million to Black businesses and promising 
+to diversify leadership 
+
+Making a $10 million donation to ‘groups working 
+on racial justice’
+
+Setting goals to increase the number of Black employees by 20 percent 
+
+Dedicating more than $1 billion to initiatives for closing 
+the racial wealth gap 
+
+Investing more than $100 million in lenders promoting 
+racial equality 
+
+Committing to spending more than $2 billion with Black-owned 
+businesses by 2025
+
+However, support has started to wane. While there has been growth in total 
+committed amounts, the pace of monetary commitments has slowed year over year 
+(down 32 percent since 2021).3 Further, additional research suggests that the actual 
+amount of funding deployed is only a small fraction of what was pledged.4 This report 
+provides an opportunity for companies, especially those that have already made public 
+commitments, to stay true to their words and take action on those pledges.
+
+1  Home page of CEO Action for Diversity & Inclusion, accessed June 15, 2023.
+2  Megan Armstrong, Eathyn Edwards, and Duwain Pinder, “Corporate commitments to racial justice: An update,” 
+
+McKinsey Institute for Black Economic Mobility, February 21, 2023.
+
+3  Ibid.
+4  Meghan Hoyer, Tracy Jan, and Jena McGregor, “Corporate America’s $50 billion promise,” Washington Post, 
+
+August 23, 2021.
+
+2 0
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBlack, Latina, and Native American women are severely 
+underrepresented in the US technical workforce
+Despite accounting for 16.5 percent of the total working-age population in the United 
+States,27 BLNA women are the most severely underrepresented demographic group in 
+the technical workforce, representing only 4.1 percent of all technical roles.28
+
+Historically, many efforts to improve representation in the technical workforce 
+have treated women largely as a monolithic group, and people of color as a separate 
+monolithic group. For example, a director at a technology product and services 
+provider shared, “We have tons of data, but we don’t have a lens into the breakdown 
+of our ‘people of color’ category. This is a problem because it can be misleading and 
+doesn’t help pinpoint where representation issues really lie.” 
+
+Although this monolithic approach may seem efficient and straightforward, it 
+leaves value on the table and means companies aren’t getting as much out of their 
+investments as they could be. Just as companies collect and analyze data for different 
+customer segments while developing and marketing new products, they can do the 
+same to ascertain what their employees really need.
+
+Looking at overall workforce trends alone makes it difficult 
+to surgically diagnose gaps, since needs and preferences 
+across different communities can vary greatly. But there 
+is room to take a more tailored approach when designing 
+or prioritizing solutions within an organization. As one 
+vice president at an IT services company cautioned, “By 
+not taking a more nuanced approach to data, we may 
+be missing the immense diversity of the barriers certain 
+communities are facing within our company.”
+
+BLNA women in the technical workforce 
+face steep barriers
+In  par t  because  BLNA  women  are  so  significantly 
+underrepresented in the technical workforce, they face 
+steeper barriers and challenges at the intersection of race 
+and gender than many of their peers (see sidebar “BLNA 
+women experience a host of challenges and barriers that 
+make it more difficult to thrive in the technical workplace”). 
+Therefore, deeply tuning into the needs of BLNA women 
+can benefit not only them but also others who have been 
+systemically excluded from the technology sector.
+
+THE IMPORTANCE OF TAKING AN 
+INTERSECTIONAL APPROACH
+
+All  of  the  27  companies  that  provided  data  said  they  set 
+organizational goals, measured areas of progress, or tracked 
+outcomes related to diversity, equity, and inclusion by either race 
+and ethnicity or gender.
+
+By stark contrast, the significant majority of companies surveyed 
+or interviewed said they did not set goals, measure progress, or 
+track outcomes at the intersection of race or ethnicity and gender, 
+even for their internal purposes. This aligns with findings from 
+the 2022 Top companies for women technologists report from 
+AnitaB.org, which found that only 12.5 percent of companies 
+published representation data at the intersection of race and 
+gender.1
+
+Companies can effectively take action to support Black, Latina, 
+and Native American women only if they understand the pain 
+points and outcomes for them specifically. Disaggregating data 
+with an intersectional approach is a central first step.
+
+1  Top companies for women technologists: 2022 key findings and insights, AnitaB.org, 
+
+2022.
+
+21
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBLNA WOMEN EXPERIENCE A HOST OF CHALLENGES 
+AND BARRIERS THAT MAKE IT MORE DIFFICULT TO 
+THRIVE IN THE TECHNICAL WORKPLACE  
+
+Black, Latina, and Native American (BLNA) women face challenges 
+and barriers related to both their gender and their race or ethnicity. 
+For  example,  they  experience  more  microaggressions,  lack 
+support from supervisors when it comes to their development and 
+advancement, and feel an increased sense of isolation and lack of 
+belonging.1 In our research, approximately 40 percent of BLNA 
+women reported experiencing prejudice related to gender or race 
+at work.2 These biases can range from having their competence 
+and expertise questioned to being penalized for certain types of 
+behaviors based on racial or gender stereotypes. 
+
+‘I don’t see other Black women at work, so I 
+often feel like I’m not really supposed to be 
+there or like I can’t be myself. It’s hard to make 
+connections with the team … you can’t really be 
+your authentic self when everyone around you 
+makes you feel different.’ 
+B L AC K  WO M A N , S E N I O R  P R O D U C T M A N AG E R , 
+
+S TA R T- U P
+
+Lack of representation of BLNA women in the technical workforce 
+leads to isolation.  At  work,  BLNA  women  interact  with  very 
+few colleagues who look like them, which can lead to feelings of 
+isolation and being “othered.” Women may struggle to maintain a 
+sense of identity or self and feel they need to adjust their behavior 
+to assimilate. This can have a negative impact on their sense of 
+belonging and overall experience at work. 
+
+‘When you’re starting out, you don’t always 
+know who to go to, how to navigate things [like] 
+being assertive or [navigating motherhood]. 
+There isn’t too much support or too many role 
+models.’ 
+N AT I V E A M E R I C A N  WO M A N , T EC H N I C A L  I N T E R N
+
+BLNA women receive less support from supervisors and sponsors. 
+Biases show up not just in daily interactions with team members 
+and colleagues but also in how BLNA women in technical roles 
+receive support from managers. According to our research, only 
+26 percent of BLNA women felt their manager or another leader 
+was supportive, compared with 35 percent of all other demographic 
+groups in technical roles.3 
+
+‘I have had to make it a point to talk to my current 
+manager about sponsorship. I’m not sure that my male 
+colleagues have had to do the same. There’s a difference 
+between mentorship and sponsorship. I feel like 
+managers are always game to mentor, and that’s great, 
+but I don’t need guidance and advice—what I need is for 
+someone to open doors for me; to promote and advocate 
+for my work with the people I don’t have access to.’ 
+L AT I N A , S O F T WA R E  E N G I N E E R , F I N T EC H
+
+‘As a Black woman in tech, I feel that my 
+managers and teammates automatically profile 
+me. I feel that I am challenged more than my 
+male counterparts—my input is questioned, 
+my advice is brushed off. In every single 
+organization I’ve worked for, the reality is that I 
+feel that I need to prove myself ten times over.’ 
+B L AC K  WO M A N , S YS T E M S  A N A LYS T, CO N S U M E R   
+
+P R O D U C T S CO M PA N Y
+
+‘When I first joined the team, I felt like my skill 
+sets weren’t aligned with the type of work my 
+supervisor was assigning to me. It felt like 
+a lot of administrative work. I kept getting 
+complimented for being ‘so organized.’ That’s 
+great, but that’s not my skill set—that’s not 
+what I went to school for and what the company 
+hired me to do.’
+L AT I N A , T EC H N O LO G Y A N A LYS T,   
+F I N A N C I A L S E R V I C E S
+
+1  “Women in the Workplace 2022,” LeanIn.org and McKinsey, 2022.
+2  Question asked on a 5-point scale; percentage reflects the share of respondents who selected 4 or 5.
+3  Question asked on a 5-point scale; percentages reflect the share of respondents who selected 5.
+
+2 2
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCompanies can make the most of their resources by focusing 
+on the needs of the most underrepresented population in 
+technical roles: BLNA women 
+To truly get their talent strategy right (and make the most of the resources they are 
+spending), companies should seek to center their policies and practices on the experiences 
+of the groups that have historically been most overlooked and underrepresented. In 
+doing so, organizations stand to create impact for those who face the largest challenges, 
+while simultaneously delivering value to all other employees as well. 
+
+In tech, this means addressing the specific needs of BLNA women. To reach and engage 
+BLNA women effectively, companies must be more intentional about ensuring their 
+talent strategy explicitly addresses employee needs at the intersection of gender and 
+race or ethnicity. Doing so would enable companies to address a significant majority of 
+the barriers faced by other employees. It would also lay the foundation to deepen the 
+intersectional approach in the future and help to create a more supportive workplace in 
+which all employees can thrive.  
+
+2 3
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTR
+
+E
+
+T
+
+A
+
+P
+
+03C
+
+H
+
+SUSTAINING PROGRESS
+
+Companies must intervene to ensure the gains 
+made for BLNA women in computing education 
+start translating to growth in the workplace
+
+‘Nobody in our organization 
+wants Black, Latina, and 
+Native American women to 
+fail. It’s insidious—it happens 
+without us knowing that it’s 
+going on. But that’s not a good 
+enough excuse.’ 
+
+M A N AG ER  O F  O RG A N IZ AT I O N A L D E V ELO PM EN T
+
+24
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTThe representation of BLNA women in the 
+technical workforce fell more than  10 percent 
+from 2018 to 2022.
+
+The number of BLNA women earning computing degrees nearly doubled from 2016 
+to 2021. 
+
+As these women graduate and enter the workforce, they will face a grim reality: in the 
+technical workforce, the needle has moved, but not in the right direction.  
+
+This backsliding is particularly concerning given the rhetoric and resources businesses 
+have devoted to improving representation in the workplace in the past several years; 
+companies spent an estimated $7.5 billion on DEI-related efforts in 2020.29 And it’s 
+a huge loss for companies that are competing for scarce talent and stand to benefit 
+greatly from the expertise and diverse perspectives of BLNA women technologists. 
+
+There is still time to reverse this trend. But companies need to act.
+
+‘Companies need to be more 
+proactive about helping [BLNA 
+women] navigate the path to 
+career advancement—being 
+told to “be good at your job and 
+it’ll figure itself out” is just not 
+enough for me.’ 
+
+N AT I V E A M ER I C A N  WO M A N , T EC H N I C A L  I N T ER N 
+
+2 5
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTMore BLNA women stand ready to enter the technical 
+workforce
+Until recently, representation of BLNA women among computing graduates was 
+moving in the wrong direction: our 2018 Rebooting Representation report found that 
+the share of computing degrees going to BLNA women decreased by one-third (from 
+6 percent to 4 percent) between 2006 and 2016.30 
+
+But there is reason for optimism: the past five years have witnessed an increasing 
+number of BLNA women ready to enter the technical workforce. The number of 
+computing degrees awarded to BLNA women increased by 1.83 times between 
+2016 and 2021 (2,815 versus 5,151), an increase that was far faster than their overall 
+growth in the US population (Exhibit 2).
+
+Two primary factors drove this growth: a significant uptick in overall computing 
+degrees, which increased by 62.5 percent between 2016 and 2021 across all 
+demographics, and an increase in the share of computing degrees earned by BLNA 
+women specifically (see sidebar “Progress has been fueled in part by the collective 
+commitment of companies and other organizations”).
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 2
+Exhibit <2> of <11>
+
+The number of 
+computing degrees 
+awarded to BLNA 
+women  increased by 
+1.83 times  between 
+2016 and 2021.
+
+The number of computing degrees awarded to Black, Latina, and Native 
+American women has outpaced their growth in the population overall.
+
+Increase in demographic, indexed to 2016, %
+
+Increase in computing degrees1
+
+Increase in college-
+aged population2
+
+Black
+
+Latina
+
+Native American
+
+2016
+
+2021
+
+2016
+
+2021
+
+2016
+
+2021
+
+1Computing degrees deﬁned as CIP 11, ﬁrst and second majors.
+2College-aged deﬁned as ages 15–34.
+Source: Integrated Postsecondary Education Data System; US Census Bureau data
+
+26
+
+010203040506070809010011070.31.3103.09.210.41.5SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTPROGRESS HAS BEEN FUELED IN PART BY THE 
+COLLECTIVE COMMITMENT OF COMPANIES AND OTHER 
+ORGANIZATIONS  
+
+The Reboot Representation Tech Coalition comprises 27 coalition members and 
+partners committed to doubling the number of Black, Latina, and Native American 
+(BLNA) women graduating with computing bachelor’s degrees by 2025. Since its 
+founding, the coalition has harnessed the power of targeted philanthropy, combining 
+contributions from multiple companies to create a larger grantmaking fund that’s 
+dedicated to expanding the pipeline of BLNA women in computing. Members have 
+collectively pledged more than $26 million to support BLNA women in computing, 
+including pooled contributions of $16 million regranted by Reboot. 
+
+Reboot’s grantmaking programs have focused on recruiting BLNA women to study 
+computing and on bolstering support to ensure they are successful on their journey. 
+
+Recruitment. Reboot developed a program with the KIPP 
+Charter School Network to increase the organization’s capacity 
+to provide computer science (CS) education and recruit more 
+BLNA girls into CS classrooms. To do this, Reboot funded 
+a weeklong summer training session to equip educators to 
+teach AP Computer Science, assigning participants to monthly 
+cohorts of peer teachers for continued support. Reboot also 
+provided financial incentives to drive student recruitment; 
+schools that reached gender parity in AP CS courses received 
+additional funds. 
+
+As a result of this program, KIPP increased enrollment in AP CS 
+from approximately 120 students to 791 students, including 
+389 girls, 368 of whom (95 percent) identified as Black or Latina.
+
+Retention. Reboot’s grantmaking has focused on four key areas 
+of retention in computing education: addressing academic 
+needs, building a community of peers, increasing students’ 
+access to career and professional development, and funding 
+incentives  for  completing  coursework.  Many  of  Reboot’s 
+grantees run programs that cut across multiple areas. 
+
+Reboot  par t nere d  wit h  Rewr it ing  t he  Code  (RTC),  a 
+membership-based organization of more than 20,000 women 
+in  technical  fields,  including  undergraduate  and  graduate 
+students as well as early-career professionals. To help RTC fuel 
+retention among existing members, Reboot’s grant funds two 
+affinity groups—Black Wings and Latinas de RTC. Reboot’s 
+support has enabled RTC to grow the two groups to 2,100 and 
+1,228 members, respectively.
+
+27
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTThe growth in absolute numbers is certainly worth celebrating. But there’s still a 
+lot more to do (see sidebar “The COVID-19 pandemic also threatens to reverse 
+educational progress”). 
+
+While the decrease in representation from 2006 to 2016 has slowly started to 
+reverse, BLNA women still only represented 4.7 percent of all computing degree 
+graduates in 2021 (compared with 4.2 percent in 2016) and remain underrepresented 
+in comparison with other demographic groups (Exhibit 3).
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 3
+Exhibit <3> of <11>
+
+Despite recent gains, Black, Latina, and Native American women remain 
+severely underrepresented among computing graduates.
+
+Representation across all computing degrees earned in the US in 2021,1 %
+
+16.5%
+
+BLNA women make up 
+16.5% of the working-age 
+population2
+
+1Computing degrees deﬁned as CIP 11, ﬁrst and second majors.
+2Total population aged 18–64.
+Source: Integrated Postsecondary Education Data System; US Census Bureau data
+
+THE COVID-19 PANDEMIC ALSO THREATENS TO REVERSE 
+EDUCATIONAL PROGRESS 
+
+The entire ecosystem may suffer due to the educational setbacks caused by the COVID-19 pandemic. 
+The full extent of the pandemic’s long-term effects is difficult to quantify, but learning loss and enrollment 
+declines may disproportionately affect Black, Latina, and Native American (BLNA) women. For example, 
+recent evidence found that the pandemic exacerbated educational inequities for Black and Latino 
+students. Before COVID-19 vaccines became available, 11 percent of Latino students and 10 percent 
+of Black students canceled their postsecondary education plans for the fall of 2021 (compared with 6.4 
+percent of the total population).1 
+
+1  Maria Carrasco, “COVID disproportionately impacted Black and Latino students,” Inside Higher Ed, March 17, 2022.
+
+2 8
+
+All other menAll other womenBlack, Latino, and NativeAmerican menBlack, Latina, and NativeAmerican women62.617.615.14.7SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBLNA women’s representation in the technical workforce is 
+declining, even as they make educational gains
+Despite their gains in computing education, BLNA women’s representation in the 
+technical workforce has fallen—dropping by more than 10 percent in the past four 
+years, from 4.6 percent in 2018 to 4.1 percent in 2022 (Exhibit 4).31
+
+This implies that, despite their efforts, companies have not been successful at 
+recruiting and retaining the wave of new BLNA women technologists entering the 
+workforce at the scale needed to hold representation steady, much less increase it. 
+What’s more, tech women’s attrition more than doubled in 2022, with BLNA women 
+technologists exiting their companies at the highest rates.32
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 4
+Exhibit <4> of <11>
+
+More Black, Latina, and Native American women are earning computing 
+degrees, but their share of the tech workforce is going down.
+
+Representation of Black, Latina, and Native American (BLNA) women,1 %
+
+Years with available data
+
+BLNA women’s 
+representation in the 
+tech workforce 
+declined from 4.6% in 
+2018 to 4.1% in 2022
+
+Note: Data based on most recent available years.
+1Change in representation of BLNA women occurs in small increments given the fraction of the overall population their representation starts at.
+2Computing degrees deﬁned as CIP 11, ﬁrst and second majors.
+Source: Integrated Postsecondary Education Data System; Women in the Workplace Employee Experience Survey, LeanIn.org and McKinsey, 
+2018 (n > 64,000) and 2022 (n > 40,000)
+
+2 9
+
+201820192020202120224.04.14.24.34.44.54.64.74.84.95.0Computing-degreegraduates2US techworkforceparticipantsSYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTThe current economic uncertainty may threaten to further 
+derail representation if companies continue on their current 
+course
+Belt-tightening in preparation for a challenging macroeconomic climate may be 
+discouraging some companies from prioritizing efforts to support all kinds of 
+underrepresented groups in the technology sector. These actions appear to be 
+affecting women and people of color disproportionately. 
+
+For example, early data as tech industry layoffs began to gain 
+steam  in  fall  2022  showed  that  women  accounted  for  46 
+percent  of  layoffs  in  the  technology  industry,  though  they 
+make up only 39 percent of workers in the industry overall.33 
+Similar  early  analysis  over  the  same  time  period  found  that 
+Black and Latino workers were laid off at a higher rate than their 
+baseline industry representation.34 While the impact of layoffs 
+is still being measured (and still shifting month by month), early 
+indications of a disproportionate effect on groups that are already 
+underrepresented will be a critical area to keep a close eye on 
+as the data emerges. And of the employees holding technical 
+roles across industries who completed our survey in February 
+and March 2023, 51 percent of BLNA women reported being 
+concerned about being laid off, compared with only 41 percent of 
+all other demographic groups.
+
+‘In the past several years I have seen a shift—a 
+groundswell of support and commitment across 
+the corporate landscape that was very inspiring. 
+But I always feared that it would be temporary, 
+and I feel that fear may be coming true. I have 
+been really discouraged to see companies pulling 
+back—I feel the urgency we once felt around these 
+issues has waned.’ 
+
+H E A D  O F  D I V E R S I T Y A N D  B E LO N G I N G , T EC H N O LO G Y 
+
+CO M PA N Y
+
+This  may  be  par tially  because 
+the  average  tenure  of  workers 
+who  lost  jobs  in  2022  was  just 
+over one year.35 Some companies 
+may have adopted a “last in, first 
+out” approach to the process for 
+neutralit y.  However,  adopting 
+layoff policies based on position 
+and tenure may also increase the 
+likelihood that underrepresented 
+employees are let go, particularly 
+as many companies increased their 
+efforts in diverse hiring in recent 
+years. 
+
+COMPANIES SHOULD NOT RELY SOLELY ON HIRING TO 
+IMPROVE REPRESENTATION
+
+Moments of significant hiring and of mass layoffs provide the most immediate 
+opportunities to see significant changes in representation numbers—for good or for ill. 
+
+But simply hiring diverse talent is not the full solution to improving workforce rep-
+resentation. Companies must also examine their cultures to truly engage and retain 
+Black, Latina, and Native American employees, both those newly hired and those who 
+have a history with the organization.
+
+‘For far too long, organizations have focused on hiring, but they haven’t 
+focused on changing the conditions once people have been hired. One 
+of the standard approaches to DEI is to say, “We just need to hire more 
+women and people of color.” That’s a really important initiative; I 
+totally endorse it. But it’s not the answer. What we have seen over the 
+past 25 years is many organizations hiring women and hiring people 
+of color and then having them leave. The really important message is 
+that you have to interrupt bias in your basic business systems—not only 
+in hiring but in performance evaluations. Where patterns of bias very 
+commonly play out.’
+
+J OA N  C . W I L L I A M S , F O U N D I N G  D I R EC TO R , C E N T E R  F O R  WO R K L I F E L AW
+
+3 0
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBusiness leaders have a choice
+Both BLNA women and their employers stand to lose—or gain—from this inflection 
+point. 
+
+The situation is simple: despite the rhetoric about addressing workplace equity and 
+inclusion, things have gotten worse for BLNA women in the technical workforce. 
+BLNA women’s representation in the technical workforce today is lower than it was 
+five years ago, and that is not acceptable. 
+
+Companies  have  a  choice.  They  can 
+attempt to ensure that the educational 
+gains achieved so far translate to lasting 
+progress in the workplace. Or they can 
+maintain the status quo—and risk turning 
+back the clock on an entire generation of 
+talented BLNA women. As one manager 
+of  organizational  development  for  a 
+technology solutions company shared, 
+“Nobody in our organization wants Black, 
+Latina, and Native American women to 
+fail. It’s insidious—it happens without us 
+knowing that it’s going on. But that’s not 
+a good enough excuse. If we don’t start 
+doing better, we are going to keep losing 
+valuable talent.” 
+
+The leaders who take a through-cycle 
+approach even in a temporary economic 
+downturn will benefit from the technical 
+talent of a far greater number of BLNA 
+women who will be equipped to enter 
+the sector in the next couple of years. 
+This will be a competitive advantage—
+companies  that  make  this  investment 
+will have far more BLNA women who 
+can become role models and continue to 
+attract and inspire future generations of 
+top BLNA talent (see sidebar “Employers’ 
+actions  may  have  more  influence  on 
+retention of BLNA women than on that 
+of other groups”). 
+
+EMPLOYERS’ ACTIONS MAY HAVE MORE INFLUENCE 
+ON RETENTION OF BLNA WOMEN THAN ON THAT OF 
+OTHER GROUPS
+
+More than 70 percent of Black, Latina, and Native American (BLNA) women said 
+they had not yet decided whether to seek a new job in the next year or stay at their 
+current organization (exhibit). By contrast, other technical employees were more 
+likely to already be convinced of a set path, and respondents in the control group 
+were more likely to be set on seeking a new job in the next year. 
+
+This indicates that BLNA women may be more responsive to company action. 
+Companies willing to invest have a real opportunity to retain valuable employees. 
+Those that miss the moment to act will risk losing key talent and further exacerbating 
+the underrepresentation of BLNA women. 
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T
+Exhibit <5> of <11>
+
+Black, Latina, and Native American women may be more 
+responsive to corporate action as they contemplate 
+future employment decisions.
+
+Employees who reported they are persuadable1 on looking for a new job in the next 
+12 months, %
+
+Black, Latina, and 
+Native American women 78%
+
+All other technical employees  57%
+
+1Question asked on a 5-point scale; percentages reﬂect the share of respondents who reported "somewhat 
+unlikely," "neither unlikely nor likely," or 'somewhat likely." 
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+31
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTR
+
+E
+
+T
+
+A
+
+P
+
+04C
+
+H
+
+SEIZING THE 
+OPPORTUNITY
+
+How companies can serve BLNA women, 
+and all employees, more effectively
+
+‘As a Latina and the daughter 
+of immigrants, I had to figure 
+out how to get ahead on my 
+own—no one did that for me. 
+It would have been a big leg up 
+if my employer had created 
+access to networks and circles 
+of information that I would 
+miss out on otherwise.’ 
+
+L AT I N A ,  PR I N C I PA L , T EC H N O LO G Y CO M PA N Y
+
+3 2
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTOur research found that BLNA women who work 
+at organizations that offer all nine cornerstone 
+policies and practices were more than  
+75 percent more likely to stay longer than BLNA 
+women at companies that did not offer all nine.
+
+Many organizations are deeply committed to accelerating progress that 
+enables all their employees to thrive. Some companies are gaining traction 
+by investing in policies and practices that have a positive impact on BLNA 
+women in technical roles (see sidebar “Defining ‘policies and practices’”). 
+
+But there is still a lot of work left to do to refine these policies and practices.
+
+The path to action may feel ambiguous and overwhelming, particularly 
+when companies are facing other challenges and constraints. The goal of 
+this report is to offer a clear road map so that organizations can prioritize 
+and tailor the most crucial actions that move the needle for BLNA women 
+in the technical workforce. 
+
+‘[I would] appreciate more insight on 
+navigating the workplace. Part of it can be 
+the people you talk to and what they know. 
+You may not know the unwritten things 
+that you’re supposed to be doing—like how 
+to navigate conflict or what it looks like to 
+progress.’ 
+
+N AT I V E A M E R I C A N  WO M A N ,  CO M P U T E R 
+
+S C I E N C E S T U D E N T
+
+The recommendations in this chapter are based on the nine cornerstone policies and 
+practices that BLNA women identified as most impactful. These policies and practices 
+fall into three themes:
+
+•  Democratize access to information to level the playing field
+
+•  Increase flexibility, empowering employees to work the way they work best
+
+•  Demystify development by charting clear pathways for employee career 
+
+advancement
+
+3 3
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTOnly 36 percent of BLNA women reported that their companies currently offer all 
+nine cornerstones. Companies can take the first step in turning these insights into 
+action by offering all nine.
+
+For  companies  that  seize  this  oppor tunit y, 
+the impact could be significant. At companies 
+that offered all nine cornerstone policies and 
+practices, BLNA women reported being over 75 
+percent more likely to stay at their organization 
+longer than BLNA women at companies that did 
+not offer all nine.
+
+Collectively, these policies and practices have 
+substantial  benefits  for  all  employees,  not 
+just  BLNA  women:  employees  from  all  other 
+demographic  groups  were  nearly  80  percent 
+more  likely  to  be  satisfied  with  their  work 
+experience when their companies offered all nine 
+cornerstones.
+
+To  be  clear,  simply  of fering  these  policies 
+and practices will not achieve the full impact. 
+However, ensuring they are accessible to BLNA 
+women  will.  While  the  policies  seem  basic, 
+ensuring  accessibility  is  a  crucial  and  often 
+overlooked step. This chapter will also provide an 
+initial road map for companies on how to get the 
+greatest value out of the policies and practices 
+they are already investing in.
+
+DEFINING ‘POLICIES AND PRACTICES’
+
+This report uses the term “policies and practices” to refer to the internal 
+efforts and initiatives offered by business leaders to provide support 
+throughout the employee life cycle, from hiring to employee engagement, 
+career development, and advancement. 
+
+Our employee survey focused on 38 distinct policies and practices 
+identified through extensive external research and expert interviews (for 
+a detailed list, see “Scope and methodology” on page 57). We focused on 
+policies and practices that are visible to employees, as opposed to ones 
+that take place entirely behind the scenes or out of view of employees 
+below senior leadership levels. Surveyed practices include HR practices 
+such as having diverse candidate pools for open roles, employee benefits 
+such as personal leave or childcare subsidies, and initiatives such as formal 
+mentorship or sponsorship programs that include training and resources 
+for mentors or sponsors. 
+
+In addition to our survey, this report builds on existing research, much of 
+which focuses on the subjective experiences of Black, Latina, and Native 
+American (BLNA) women (such as their sense of belonging at work). By 
+contrast, this report creates a more tactical set of recommendations that 
+are within an organization’s immediate control. 
+
+WHY THESE POLICIES AND PRACTICES MATTER 
+TO THE BOTTOM LINE 
+
+When done well, these immediate actions can lead to increased feelings 
+of belonging and satisfaction at work. This is good for business: higher 
+employee satisfaction has been shown to be associated with improved 
+company performance, including in the areas of customer experience, 
+turnover, profitability, and productivity.1 Research published by Harvard 
+Business Review showed that when employees reported being happy or 
+satisfied, their employers saw average increases of 37 percent in sales, 
+31 percent in productivity, and 19 percent in accuracy on tasks.2 
+
+1  Jan-Emmanuel De Neve, Christian Krekel, and George Ward, “Happy employees and their impact 
+
+on firm performance,” LSE Business Review, July 15, 2019.
+
+2  Shawn Achor, “The happiness dividend,” Harvard Business Review, June 23, 2011.
+
+3 4
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTFiguring out where to focus resources can be overwhelming 
+for leaders balancing competing priorities
+The list of things to do when it comes to creating more supportive and inclusive 
+work environments may seem infinite. But companies may already offer many of 
+the policies and practices surveyed. On average, BLNA women reported that their 
+employer offered 29 of the 38 policies and practices. 
+
+With limited time and resources, leaders must focus on the efforts that will have the 
+greatest impact—and identifying those interventions is extremely challenging. As a 
+diversity and belonging leader at a tech company shared, “Sometimes I feel like we 
+have way too much information. You might think that’s a good thing—but we often 
+don’t know how to use it. It doesn’t end up meaningfully informing our priorities or 
+decision making.” 
+
+Companies should prioritize three key employee needs
+BLNA women identified nine cornerstone policies and practices as the ones that were 
+most impactful to their ability to join, stay, or advance at their company. These nine 
+interventions address three key employee needs: democratizing access to information 
+to level the playing field; increasing flexibility by giving employees the choice to work 
+the way they work best; and demystifying development by charting clear pathways 
+for development and advancement. 
+
+The pages that follow review each key employee need, the policies that companies 
+can implement to support it, and why each one matters for BLNA women—and for all 
+employees. The result is a road map for companies to develop talent strategies that 
+enable all their people to thrive at work.
+
+NINE INTERVENTIONS ADDRESS THREE KEY NEEDS
+
+Democratize access to information 
+to level the playing field:
+
+Increase flexibility, enabling employees 
+to work the way they work best:
+
+01 Share salary ranges so people 
+
+know what they can expect.
+
+02
+
+Create an accessible 
+internal jobs board so 
+employees can understand 
+opportunities across the 
+organization.
+
+03 Assign mentors to support 
+
+candidates in the interview 
+process by clarifying the pro-
+cess, answering questions, 
+and helping candidates pre-
+pare for interviews.
+
+all employees.
+
+benefits such as personal leave.
+
+04 Provide paid sick leave to 
+05 Offer expanded mental health 
+06 Give employees the option to 
+07 Enable employees to flex 
+
+their working hours—for 
+example, through compressed 
+workweeks, alternative work 
+schedules, and job sharing. 
+
+work remotely, hybrid, or on-site.
+
+Demystify development by charting 
+clear pathways for employee career 
+advancement:
+
+08
+
+Offer professional-development 
+programs to help employees 
+expand their networks and 
+grow (for example, career 
+accelerators, job shadowing, 
+and rotation opportunities).
+
+09
+
+Provide actionable next steps 
+for development and/or 
+advancement directly following 
+a performance review.
+
+35
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTDemocratize access to information to level the playing field: 
+
+01 Share salary ranges so 
+
+people know what they 
+can expect.
+
+02 Create an accessible internal jobs 
+
+board so employees can understand 
+opportunities across the organization.
+
+03 Assign mentors to support candidates in the interview process by 
+
+clarifying the process, answering questions, and helping candidates 
+prepare for interviews.
+
+Social capital, or the connections and relationships we form in both our 
+personal and professional lives, provides information and resources 
+that can significantly influence our ability to successfully navigate the 
+workplace. 
+
+Personal networks made up of family, friends, and others in our immediate 
+communities (“people like me”) can connect us to opportunities as well 
+as provide information about cultural and organizational norms (such as 
+self-promotion or negotiating compensation). But access to this type of 
+social capital is not distributed evenly, which can have a direct impact on 
+economic outcomes over time for those who are shut out.36 BLNA women 
+(and many other underrepresented communities) may have fewer and less-
+influential connections because of inequities in education and income, 
+which can reduce access to crucial information that other employees may 
+be able to leverage.37 
+
+‘When I’m navigating the job application 
+process, I don’t have people in my corner to 
+help me understand my worth. 
+
+‘My mom may be college educated, but as a 
+Black woman looking for work in the 1970s, 
+opportunities were limited. Her advice was 
+“Be happy you have an offer, and take the 
+job.” So I never asked for more. 
+
+‘When you show me the [salary] range, 
+you’re empowering me with information.  
+At least I know what I should expect.’
+
+B L AC K  WO M A N ,  P R O D U C T  M A N AG E R ,  S TA R T- U P
+
+At work, employees form similar social networks by connecting around shared 
+identities and mutual interests, often through casual interactions such as coffee 
+chats, happy hours, and team events. Although informal, these interactions are often 
+a key source of less “official” organizational knowledge or advice and can also create 
+additional opportunities for those who are “in the know.” 
+
+3 6
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBut BLNA women technologists face double exclusion based on their gender and race 
+or ethnicity, which may make it difficult to create the informal social peer networks 
+that might provide other employee in-groups with 
+key information, resources, or other contacts to help 
+them advance within their organization.
+
+A gainst  this  backdrop,  BLNA  women  told  us 
+that policies related to democratizing access to 
+information  were  among  the  most  impac t ful 
+(Exhibit 5). 
+
+‘Access to information is huge for me at work. I have seen 
+leaders, people who have influence, present opportunities to 
+some of my male counterparts, whether it’s an open role or a big 
+project. I’m the only Black female here, so I just don’t have the 
+same access to these insider relationships. Tech still feels like 
+a boys’ club, but increasing transparency gives everyone a fair 
+chance to raise their hand.’ 
+
+B L AC K  WO M A N , S YS T E M S  A N A LYS T, CO N S U M E R  P R O D U C T S CO M PA N Y
+
+‘When job applicants are coming from an underrepresented 
+group with limited access to information and mentorship, 
+they need feedback that they’re really not getting. I see job 
+interviews as being a lot harder than the actual job at hand. 
+Having a mentor would be beneficial.’ 
+
+B L AC K  WO M A N , DATA  A N A LY T I C S , S TA R T- U P CO M PA N Y
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 5
+Exhibit <6> of <11>
+
+Democratizing access to information can level the playing ﬁeld.
+
+Respondents who reported that the policies and practices they used were impactful in joining, staying at, 
+or advancing in their companies, %
+
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+38%
+
+Average likelihood of BLNA women 
+rating each of a long list of policies and 
+practices as impactful
+
+37
+
+Share salary ranges so people know whatto expectHave an accessible internal jobs board sopeople can understand opportunitiesacross the organizationAssign mentors to support candidateswhen they are going through interviews544641363528Black, Latina, and Native American (BLNA) womenOther technical employeesSYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTIncrease flexibility, enabling employees to work the way 
+they work best:
+
+04 Provide paid sick leave 
+
+to all employees.
+
+05 Offer expanded mental health benefits 
+
+such as personal leave.
+
+06 Give employees the 
+
+option to work remotely, 
+hybrid, or on-site.
+
+07 Enable employees to flex their 
+
+working hours—for example, through 
+compressed workweeks, alternative 
+work schedules, and job sharing. 
+
+Well-designed benefits such as paid sick leave and expanded mental health supports 
+provide a critical safety net for all employees. But they can also create particularly 
+welcome flexibility to support the needs of systemically underrepresented groups. 
+BLNA women face some of the most significant barriers to the social and economic 
+resources that can help balance caregiving needs with the demands of a career.38
+
+These types of benefits aren’t just good for workers: paid sick leave can help reduce 
+presenteeism (when an employee goes to work despite not feeling well and not in a 
+position to be productive) while also improving employee satisfaction and reducing 
+turnover.39 But companies need to create cultures that feel psychologically safe and 
+encourage employees to make use of these benefits as they see fit.
+
+As one Latina data analyst at a Fortune 500 company shared, 
+“Flexible work hours have been majorly important to me. I 
+never feel pushed to work when I feel sick. This is a large 
+part of the company culture, and each of my managers has 
+reinforced the practice.” 
+
+Similarly, companies that support their employees’ mental 
+health  see  better  engagement  outcomes  overall—for 
+example, workers who felt they had support for their mental 
+health were 26 percent less likely to report at least one 
+symptom of a mental health condition. They also tended to 
+perform better and have higher job satisfaction, intention to 
+stay, and more positive views of their company and leaders.40
+
+Mental  health  struggles  can  sometimes  feel  isolating 
+and surrounded by stigma, but these conditions are very 
+common across all communities: more than 75 percent of 
+employees in the United States have struggled with at least 
+one issue that affected their mental health in the past.41 This 
+is compounded by the fact that BLNA women are more likely 
+to face difficulties in getting access to necessary treatment 
+and  support  as  a  result  of  misconceptions  and  gaps  in 
+screening and diagnosis. 
+
+3 8
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBLNA women were more likely than other demographics to report high impact from 
+policies related to empowering them to work the way they work best (Exhibit 6). 
+
+‘I have really benefited from being a remote worker. A lot of the small talk that happens 
+in the workplace centers around a culture that I am not a part of and can’t relate to. Being 
+remote, I feel I have more control. I can protect myself from daily microaggressions, which 
+are super draining, and can carve out time for what’s most productive and energizing for 
+me as an employee.’ 
+
+A F R O - C A R I B B E A N  WO M A N , P R O D U C T M A N AG E R , S O F T WA R E CO M PA N Y
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 6
+Exhibit <7> of <11>
+
+Empowering ﬂexibility can give employees the choice to work the way they 
+work best.
+
+Respondents who reported that the policies and practices they used were impactful in joining, staying at, or 
+advancing in their companies, %
+
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+38%
+
+Average likelihood of BLNA women 
+rating each of a long list of policies and 
+practices as impactful
+
+3 9
+
+Provide all employees paid sick leaveGive employees the option to workremotely, hybrid, or on-siteGive employees the option of ﬂexibleworking hours (eg, compressedworkweek, job sharing)Oﬀer expanded mental health beneﬁts,such as personal leave6052504950464438Black, Latina, and Native American (BLNA) womenOther technical employeesSYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCOMPANIES SHOULD TAKE A FEW EXTRA STEPS TO MAKE SURE THEIR FLEXIBILITY 
+OPTIONS SUPPORT EMPLOYEES—NOT HARM THEIR ADVANCEMENT 
+
+BLNA women employees reported that policies and practices that offer them the flexibility to work the way they work best had 
+a greater impact than most other employer policies in their ability to join, remain at, or advance at a company. 
+
+At the same time, when implemented without thoughtfulness about a company’s unique circumstances, flexibility programs risk 
+stigmatizing or reducing the likelihood of advancement for those who make use of them. For example, employees who work in 
+person at the office could benefit from a higher volume of opportunities to develop sponsorship relationships and receive more 
+extensive coaching and apprenticeship from colleagues.
+
+Therefore, companies implementing the cornerstone policies and practices around flexibility should take a few additional “value 
+assurance” steps to ensure those policies or practices have a positive effect not only on retention but also on advancement:
+
+•  Closely monitor rates of both retention and advancement—as well as overall satisfaction—for employees 
+who make use of different types of flexibility programs compared with those who do not (particularly remote 
+work and shifted hours). Monitoring on a quarterly basis using a short pulse survey can provide an early 
+signal if any shifts are required to ensure the programs are working well and not inadvertently generating 
+inequitable outcomes.
+
+•  Hold “hybrid team” trainings with managers on equitable ways to assign stretch projects and to provide 
+feedback, coaching, and mentorship to their teams when they are managing some workers in person and 
+some who are working remotely.
+
+IT’S NOT JUST ABOUT OFFERING POLICIES; 
+IT’S ABOUT INTENTIONAL DESIGN 
+
+The vast majority of companies with significant technical workforces 
+already offer paid sick leave benefits. But there is still opportunity to 
+improve the design and implementation of these policies to increase 
+equity and efficacy. 
+
+As one Latina software engineer at a fintech company shared, “I chose 
+my current company in part because of the benefits. But once you’re in 
+the job it’s different. I joined less than a year ago, so I’m hustling—I don’t 
+feel like I have the time and space to take care of myself. I feel like my 
+company could be more proactive about supporting us. Just offering the 
+benefits isn’t enough if I’m going to feel like I need to be on all the time.” 
+
+Flip to page 53 to learn about an approach that can help companies 
+ensure that their design of these policies and practices is accessible and 
+useful for BLNA women.
+
+4 0
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTDemystify development by charting clear pathways for 
+employee career advancement: 
+
+08
+
+Offer professional-development 
+programs to help employees expand 
+their networks and grow (for example, 
+career accelerators, job shadowing, and 
+rotation opportunities).
+
+09
+
+Provide actionable next 
+steps for development 
+and/or advancement 
+directly following a 
+performance review.
+
+Research shows that women of color, specifically BLNA women, are significantly 
+less likely to have opportunities for advancement and promotion to senior positions. 
+According to McKinsey and LeanIn.org’s 2022 Women in the Workplace report, the 
+first step up to manager proves a big obstacle to many. For example, assuming equal 
+numbers of women and men at entry level, only 75 Latinas are promoted to manager 
+for every 100 men. This number is even lower for Native Hawaiian, Pacific Islander, 
+and Indigenous women. Yet this “broken rung” in the ladder is not for lack of ambition. 
+The same report found that 40 percent of Latinas and 37 percent of Black women 
+want to be top executives, compared with 27 percent of White women.42
+
+Internal processes to evaluate performance and determine who gets promotions, raises, 
+and access to opportunities are often affected by bias (which can be unintentional).43 
+For BLNA women in technical roles, these biases can have a direct impact on their 
+ability to grow professionally. When done well, internal review processes can provide 
+clear “step up” opportunities, concrete feedback, and actionable next steps so that 
+employees know what they need to do to improve and develop their careers. But 
+that’s not the reality for many BLNA women in tech, who tend to report receiving less 
+honest and less constructive feedback than White women. 
+
+‘Companies need to help us understand expectations at every 
+level. In my experience, that bar for making it to that next 
+rung of the ladder is super unclear. Just tell me what I need to 
+do so that there aren’t surprises—I think that’s the biggest 
+opportunity in terms of making things more equal for us as 
+women of color.’ 
+
+A F R O - C A R I B B E A N  WO M A N , P R O D U C T M A N AG E R , S O F T WA R E 
+
+CO M PA N Y
+
+‘I’m just starting out in my career, so I don’t have a good sense 
+of what it takes to go from entry level to senior engineer, 
+which is where I want to be in the future. Companies need 
+to be more proactive about helping us navigate the path 
+forward—you can ask managers and mentors for help, but 
+in my experience, the answer is usually, “Be good at your job 
+and it’ll figure itself out.” That’s just not enough for me.’
+
+N AT I V E A M E R I C A N  WO M A N , T EC H N I C A L I N T E R N
+
+41
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBLNA women in our survey reported that policies related to providing clarity 
+around how to grow in their current roles (actionable next steps) and future roles 
+(professional-development programs) were highly impactful in their ability to advance 
+at their organizations (Exhibit 7). 
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 7
+Exhibit <8> of <11>
+
+Charting clear pathways for development and advancement can demystify 
+growth.
+
+Respondents who reported that the policies and practices they used were impactful in joining, staying at, or 
+advancing in their companies, %
+
+38%
+
+Average likelihood of BLNA women 
+rating each of a long list of policies and 
+practices as impactful
+
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+42
+
+Oﬀer professional-developmentprograms to help employees expand theirnetwork and grow (eg, careeraccelerators, job shadowing, rotationopportunities)Provide actionable next steps fordevelopment or advancement right aftera performance review49454541Black, Latina, and Native American (BLNA) womenOther technical employeesSYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTOffering all nine cornerstone policies and practices could 
+improve employee satisfaction and retention of BLNA 
+women
+Although the cornerstones may seem basic, only 36 percent of survey respondents 
+said their company offered all nine of these supports.44 As a first step, companies 
+that don’t currently have these in place should consider implementing them using the 
+checklist and best practices included at the end of this chapter. 
+
+At  companies  that  of fered  all  nine 
+cornerstone policies and practices, Black, 
+Latina,  and  Native  American  women 
+reported being over 75 percent more 
+likely to stay at their organization longer 
+than BLNA women at companies that did 
+not offer all nine.
+
+Collectively, these policies and practices 
+have substantial benefits for employees 
+beyond BLNA women: employees from 
+all other demographic groups were nearly 
+80 percent more likely to be satisfied 
+with their work experience when their 
+companies offered all nine cornerstones.
+
+4 3
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTOFFERING THE FIVE POLICIES WITH THE MOST OUTSIZE 
+IMPACT FOR BLNA WOMEN, COMPARED WITH THEIR 
+PEERS, CAN BE ANOTHER STARTING PLACE
+
+Leaders with limited resources who want to be even more focused on moving toward 
+a more equitable talent strategy could consider prioritizing the subset of five policies 
+that Black, Latina, and Native American (BLNA) women were significantly more likely 
+than other demographic groups to say were impactful in their ability to join, stay, or 
+advance at a company.1
+
+These policies all fall within the two themes of democratizing access to information to 
+level the playing field and increasing flexibility, giving employees the choice to work 
+the way they work best (exhibit).
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T
+Exhibit <9> of <11>
+
+A subset of cornerstone practices had outsize impact for Black, Latina, 
+and Native American women compared with their peers.
+
+Respondents who reported that the policies and practices they used were impactful, percentage point (p.p.) 
+diﬀerence between Black, Latina, and Native American (BLNA) women and other technical employees
+
+Outsize impact for Black, Latina, and Native American (BLNA) women1
+
+Democratize 
+access to 
+information
+
+Increase 
+ﬂexibility
+
+Demystify 
+development
+
+1Outsize impact is deﬁned as a > 10-percentage-point diﬀerence for BLNA women compared to the control group.
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+McKinsey & Company
+
+1  Question was asked on a 5-point scale; percentage is based on the share of respondents who selected 4 or 5.
+
+4 4
+
+Share salary ranges so people know what to expectAssign mentors to support candidates when they aregoing through interviews to help clarify the process,answer questions, and prepare for interviewsHave an accessible internal job board so people canunderstand opportunities across the organizationOffer expanded mental health benefits, such as personalleaveProvide paid sick leave to all employeesGive employees the option of flexible working hours (eg,compressed workweek, job sharing)Give employees the option to work remotely, hybrid, oron-siteProvide actionable next steps for development oradvancement right after a performance reviewOffer professional-development programs to helpemployees expand their network and grow (eg, careeraccelerators, job shadowing, rotation opportunities)18 p.p.13 p.p.11 p.p.11 p.p.10 p.p.6 p.p.6 p.p.5 p.p.4 p.p.SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTInterventions that have an outsize impact for BLNA women compared with other 
+employees are essential for companies that want to transform the demographics of 
+their technical workplaces.
+
+Additionally, given that BLNA women face some of the highest exclusions and 
+barriers among demographic groups today, the types of interventions that have the 
+most outsize impact for them compared with other groups could also help other 
+communities that are underrepresented in the technical workforce. 
+
+Companies are leaving value on the table
+Simply having policies and practices doesn’t mean they are as useful as they could be, 
+especially for BLNA women. That holds companies back from realizing the potential 
+full value from the investments they are already making.
+
+POLICY DESIGN SHOULD ACCOUNT FOR HIDDEN BARRIERS
+
+Many companies may say, ‘Well, we already have these policies and practices,’ and think that 
+their work is done. 
+
+But what companies may not see are the hidden barriers that BLNA women are particularly 
+likely to face when trying to use them—some of which originate from forces far outside the 
+company walls. That prompts a need to carefully design policies and practices to account for 
+those barriers. 
+
+All employees come into the workplace with their own set of lived experiences that influence 
+how they navigate their role, teams, and company. For me, growing up, my family always told 
+me that, because I was a Black woman, I needed to work three times as hard, and always be on, 
+to get half as far as my coworkers. 
+
+That means that when I got to the workforce, I felt like I risked others questioning my dedication 
+to my role and my work ethic when I took any time off at all. This voice in my head is part of the 
+reason why even today, as a CEO, I will absolutely encourage and support my team to take the 
+time they need, but I have a hard time taking the time myself. 
+
+That is why it’s so important for companies to go beyond just offering the policy to truly 
+and deeply listen to employees. That can help companies understand what pain points 
+these policies and practices may be solving, how employees access and use the policies, any 
+potential barriers that may exist, and what the company culture may communicate, implicitly or 
+otherwise, to employees who choose to use these policies or practices. 
+
+DWA N A  F R A N K L I N  DAV I S , C EO, R E B O OT R E P R E S E N TAT I O N
+
+45
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTIntentionally designing policies to be accessible is crucial. Only 46 percent of BLNA 
+women reported that their employer’s average existing cornerstone policies were 
+designed to be accessible and effective for them, 16 percentage points lower than 
+what their peers reported. 
+
+Designing policies to reduce barriers to use is a key challenge 
+for companies. Across the 38 policies and practices surveyed, 
+there was substantial divergence between BLNA women and 
+their peers from other demographics in the degree to which 
+they found existing employer policies to be accessible. For 
+example, BLNA women are 23 percentage points less likely 
+than their peers to think that their employer’s current sick 
+leave policies were designed with the needs of someone like 
+them in mind (Exhibit 8). Clearly, much work is left to do to 
+make all policies and practices more equitable and accessible. 
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 8
+Exhibit <10> of <11>
+
+‘I think that stress and other mental health conditions 
+show up for us in different ways. You can’t assume 
+you know what everybody needs. Companies invest a 
+lot of money in providing retention benefits. If you’re 
+going to do it, do it correctly.’
+
+B L AC K  WO M A N , DATA  A N A LY T I C S , S TA R T- U P CO M PA N Y
+
+Many of the policies that companies offer today are not yet designed for 
+the needs of Black, Latina, and Native American women. 
+
+Respondents who reported that each existing cornerstone policy and practice oﬀered by their employer 
+was designed thinking about the needs of someone like them,1 %
+
+Not exhaustive
+
+Black, Latina, and Native American (BLNA) women
+
+Other technical employees
+
+1Question: “For each policy or practice oﬀered, to what extent do you feel that this policy or practice was designed thinking about the needs of someone like 
+you?” Respondents answered on a scale of 1–5. Percentage based on share of respondents who selected 4 or 5, with 5 being “it is very relevant for me.”
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+McKinsey & Company
+
+4 6
+
+304050607080Give employees the option to workremotely, hybrid, or on-siteProvide paid sick leave to all employeesShare salary ranges so people know whatto expectGive employees the option of ﬂexibleworking hoursAssign mentors to support candidateswhen they are going through interviewsHave an accessible internal job board sopeople can understand opportunitiesacross the organization414647484043696865645658SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTBLNA women are not currently using the policies and practices being offered to them 
+at the same rate as other demographic groups. This may be related to the fact that 
+they don’t perceive those efforts as being designed to be accessible and effective for 
+them. 
+
+Describing why she did not feel that she could take sick days or personal leave, one 
+Latina associate principal at a tech consulting company shared the barriers she saw to 
+using her company’s existing policies. “People perceive asking for help suggests a lack 
+of performance or capability. Asking for help means someone else could be doing the 
+job better. If I take time off, I’m weak; I’m less competent.”
+
+Only 32 percent of BLNA women reported using more than half of the policies and 
+practices in our full set, compared with 43 percent of all other demographic groups, 
+meaning that companies’ investments in these policies and practices are not yet 
+achieving their full impact potential (Exhibit 9).
+
+Web <2023>
+<Black, Latina, and Native women>
+E X H I B I T 9
+Exhibit <11> of <11>
+
+Black, Latina, and Native American women in tech use fewer of the 
+policies and practices their companies offer than their peers do.
+
+Respondents who reported using 20 or more policies and practices oﬀered by their employer, %
+
+Black, Latina, and 
+Native American women 32%
+
+Other technical employees  43%
+
+Source: McKinsey employee survey, Feb–Mar 2023, n = 2,076
+
+McKinsey & Company
+
+47
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTT h i s   d a t a   i n d i c a t e s   t h a t   i t ’s   n o t 
+always about offering more; it’s about 
+strengthening existing talent strategies 
+to ensure that policies and practices are 
+responsive to the specific barriers that 
+BLNA women in technical roles face and 
+that they’re informed by the things that 
+matter most to them. 
+
+By improving design, leaders will likely 
+also be able to drive uptake as well as 
+impact, ensuring that resources are being 
+employed  efficiently  and  effectively 
+(see sidebar “Why designing policies to 
+be  accessible  and  effective  for  them 
+matters, according to BLNA women”). 
+
+WHY DESIGNING POLICIES TO BE ACCESSIBLE AND 
+EFFECTIVE FOR THEM MATTERS, ACCORDING TO 
+BLNA WOMEN 
+
+‘It was so nice to go to one of these things [development program 
+focused on Black leaders] and finally see myself reflected in the 
+programming. So often, there aren’t pictures of people who look 
+like me in the materials or relevant examples to work through.’ 
+
+B L AC K  WO M A N ,  E X EC U T I V E
+
+‘When it comes to taking well-being days, seeing that my manager 
+is taking them is seriously helpful. When I see leadership talking 
+a lot about their own well-being days, this helps me feel like I can 
+take them too.’ 
+
+B L AC K  WO M A N ,  M A N AG E R , S O F T WA R E  CO M PA N Y
+
+4 8
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCONCLUSION
+
+‘I’m excited for the 
+future. If companies 
+continue to do the 
+work to support us—
+to help us get a foot in 
+the door and stay once 
+we’re in—then I think 
+more and more people 
+like me will be able to 
+claim their seat at the 
+table. Having all these 
+different perspectives 
+when making decisions 
+will only make tech 
+companies stronger.’ 
+
+N AT I V E A M ER I C A N  WO M A N ,  S T U D EN T
+
+49
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTWhat’s at stake when companies don’t invest in policies and practices that include 
+BLNA  women?  Engaged  talent,  innovative  and  welcoming  workplaces,  and 
+employee retention. 
+
+Since the Reboot Representation Tech Coalition launched in 2018, companies have 
+demonstrated the motivation, capability, and opportunity to do better—which is why 
+the collective power of the coalition has helped create industry-wide change in a 
+competitive, fast-moving landscape. 
+
+Companies can build on those gains and transform the technical workforce. The 
+research in this report demonstrates how company action positively affects employee 
+satisfaction and retention across all demographic groups. 
+
+Companies can help close the gap for BLNA women in the technical workforce. They 
+can use data disaggregated by race or ethnicity and gender, be part of the movement 
+to implement our cornerstone policies and practices, and relentlessly commit to the 
+work of iterating, optimizing, and designing these policies so they work for BLNA 
+women today and tomorrow.
+
+Building an inclusive workforce, intentionally, isn’t always easy—and it can’t be done 
+alone. That’s why the actions recommended in this report are tactical, well within 
+reach, and an efficient place to start amid competing priorities. These tools can give 
+companies the resources to move beyond checking a box to truly build inclusive 
+cultures where all employees feel that they belong. 
+
+This period in time is marked by uncertainty. But one thing is certain: companies 
+can transform the technical workforce experience to the benefit of BLNA women, 
+individual companies, and the entire sector. 
+When  companies  rise  to  this  challenge, 
+the ripple effect is a truly inclusive culture 
+underpinned by well-designed and intentional 
+policies and practices. This culture has the 
+power to reshape representation for BLNA 
+women  and  other  communities  that  have 
+historically been excluded from the technical 
+workforce. It also has the power to reshape 
+an industry into one that innovates, disrupts, 
+and leads the way. 
+
+Getting this right is a business imperative. 
+We have an opportunity to commit to a new 
+horizon  and  unleash  the  full  potential  of 
+BLNA women’s technical talent.
+
+READY TO TAKE ACTION?  
+HERE ARE THREE STEPS YOU CAN TAKE: 
+
+•  Share the report with your colleagues and introduce them to the nine 
+cornerstone  policies  and  practices  that  all  companies  committed  to 
+investing in the workforce should implement. 
+
+•  Connect  with  the  Reboot  Representation  team  to  discuss 
+implementing  the  nine  cornerstone  policies.  If  you’re  ready  to  act, 
+we want to partner with you! You can reach out directly to someone 
+from  the  team  for  help  or  to  share  stories  of  success.  Contact  us  at 
+impact@rebootrepresentation.org.
+
+•  Join  the  Rebooting  Representation  Tech  Coalition  and  20-plus 
+leading companies that are transforming the industry. Contact us at 
+info@rebootrepresentation.org.
+
+5 0
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTTOOLS AND RESOURCES: 
+HOW COMPANIES CAN 
+MOVE TOWARD ACTION
+
+51
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTSUMMARIZING THE 
+BUSINESS CASE 
+Investing in Black, Latina, and 
+Native American (BLNA) women 
+
+RETURN ON TALENT INVESTMENT
+
+INNOVATION THROUGH DIVERSITY
+
+Investing in talent may pay off. 
+According to research 
+published by the McKinsey 
+Global Institute based on an 
+analysis of 1,800 companies, 
+companies that invest in 
+
+human capital “are more consistent and resilient 
+performers.”1 For example, from 2019 to 2021, 
+People + Performance Winners grew revenue twice 
+as fast as Performance-Driven Companies (8 
+percent versus 4 percent).
+
+ATTRACT TOP TALENT
+
+Companies committed to 
+diversity may be better 
+able to attract and retain 
+top talent. Seventy-two 
+percent of respondents from 
+demographic groups other 
+
+than BLNA women reported that their employer’s 
+commitment to DEI is important to them.3
+
+Diverse companies tend 
+to be more innovative. 
+Companies with above-
+average diversity 
+outperformed competitors 
+by 19 percent in terms of 
+innovation revenues (products less than three 
+years old), on average.2
+
+REDUCE TURNOVER
+
+Employee turnover is 
+costly. An employee’s 
+departure can cost a 
+company approximately 
+1.5 to 2.0 times the 
+employee’s annual salary 
+
+because resources must shift to recruit, 
+onboard, and train someone new (an often 
+lengthy and time-consuming process).4 At the 
+same time, productivity can suffer while  
+the role remains unfilled or as the 
+replacement ramps up.
+
+1 “Performance through people: Transforming human capital into competitive advantage,” McKinsey Global Institute, February 2, 2023.
+2 Rocio Lorenzo and Martin Reeves, “How and where diversity drives financial performance,” Harvard Business Review, January 30, 2018.
+3 System upgrade: Rebooting corporate policies for impact, McKinsey and Reboot Representation, 2023.
+4 Kate Heinz, “The true costs of employee turnover,” Built In, updated June 23, 2023.
+
+52
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACT6 DESIGN QUESTIONS 
+TO GUIDE YOUR 
+POLICIES
+
+Organizations can ensure 
+their policies and practices are 
+accessible and effective—and 
+thereby efficient—by making sure 
+they are accounting for potential 
+pain points across the employee 
+life cycle and experience. 
+
+Six key design questions that leaders 
+and their teams should consider  
+when conceiving of or implementing 
+new policies or practices: 
+
+relevant options? 
+
+accessible and easy to use? 
+
+How can we use quantitative and 
+qualitative data to identify how pain 
+points differ for each group? 
+
+01
+02 How can we offer employees multiple 
+03 Have we ensured that all options are 
+04 How are we communicating frequently 
+05 How are we promoting a culture that 
+06 How are we continuously measuring 
+
+impact and iterating as needed? 
+
+and clearly about this practice? 
+
+encourages adoption? 
+
+5 3
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTINTENTIONAL POLICY 
+DESIGN IN PRACTICE
+
+The following is an 
+
+example of how  
+
+an organization 
+
+could apply 
+
+the key design 
+
+questions to 
+
+paid sick leave, 
+
+one of the nine 
+
+cornerstone 
+
+policies and 
+
+practices. 
+
+Use quantitative and qualitative data to identify how pain points 
+differ for each group:  
+• Gather inputs from different types of employees, such as parents, single parents, and 
+
+caregivers of adult dependents (including different gender and racial or ethnic identities) 
+through various channels such as listening sessions, focus groups, and anonymous surveys.
+
+• Ask employees about the barriers they see to using or getting the most out of today’s policies, 
+as well as what they would like to see in the future. What makes them hesitate to use sick time 
+when they need it?
+
+• Make sure to disaggregate data at the intersection of race or ethnicity, gender, and other 
+
+sub-categories to understand how pain points may affect Black, Latina, and Native American 
+women differently. (For instance, how might pain points affect a Black senior manager at your 
+company who is a single parent?) 
+
+Offer employees multiple relevant options: 
+• Offer sick days that can be used in multiple ways, such as “sick hours” to attend medical 
+
+appointments during the workday or sick days to care for a dependent who is ill. 
+
+Ensure all options are accessible and easy to use: 
+• Eliminate unnecessary barriers, such as requiring employees to request approval within a 
+
+certain time frame or the requirement to submit a doctor’s note as documentation.
+
+• Be clear about the channels of communication (such as email, Slack, text message, or phone 
+call) that are acceptable for notifying supervisors and HR of an absence, and specify what 
+information employees need to share.
+
+• Make sure that the policy (and any related instructions or information) is easy to find and that 
+
+there is a single source of truth.
+
+• Give employees access to their sick leave balance so they can keep track without needing to 
+
+reach out to a supervisor or HR.
+
+• If possible, provide a “buddy coverage” system so employees can take a sick day without 
+
+feeling that they’re letting their team down, because their buddy can cover their workload for 
+the day.
+
+• Do not set expectations that a sick employee should attend meetings remotely.
+
+5 4
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTINTENTIONAL POLICY 
+DESIGN IN PRACTICE
+
+(CONTINUED)
+
+Communicate frequently and clearly about the practice: 
+• Communicate with employees about sick leave benefits throughout the year, not just during 
+
+open enrollment (for example, send reminders in the fall around back-to-school time).
+
+• Ensure that communications clearly state what sick leave can and cannot be used for 
+
+(for instance, employee illness or injury, a loved one’s illness or injury, preventive care, or 
+caregiving).
+
+• Use various communication channels to reach employees with different preferences, including 
+nudges via email, webinars, in-person town halls, corporate intranet, and employee resource 
+group events or communications.
+
+Promote a culture that encourages adoption:
+• Ensure that teams are supportive of colleagues when they are out by establishing a clear 
+
+plan regarding work responsibilities or assigning buddies to cover certain critical tasks during 
+absences.
+
+• Eliminate stigma by encouraging senior leaders and people managers to role model by being 
+
+transparent about their use of these benefits.
+
+• Reward senior leaders and people managers who have consistently strong engagement and/or 
+
+well-being scores (for instance, through pulse checks or employee engagement surveys).
+
+• Train senior leaders and people managers to talk to their teams about why taking time off 
+(especially during illness) is a business imperative—such as speeding time to recovery and 
+reducing the chance of infecting others.
+
+Continuously measure impact through disaggregated data and 
+iterate as needed: 
+• Analyze uptake across different segments of the population to identify trends (such as team, 
+geography, and employee demographics), and ask employees what is useful about the current 
+policy or what continued pain points they are experiencing.
+
+55
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTA ROAD MAP TO ACTION
+
+The policies and practices that Black, Latina, and Native American (BLNA) women report as having the highest 
+impact for them today, combined with the pressing need to address hidden barriers to access, point to a clear 
+prioritized three-part road map for companies ready to take action.
+
+Leverage disaggregated data
+Use data disaggregated simultaneously by race or ethnicity, gender, and role (for example, technical versus 
+nontechnical) to build a fact base, identify root causes and areas of opportunity, and measure progress across the 
+organization in the following areas:
+
+• Uptake of policies and 
+
+• Interim outcomes (for example, 
+
+practices
+
+• Satisfaction with policies 
+
+and practices
+
+promotions among those who used a 
+professional-development program)
+
+• Ultimate outcomes (such as representation and 
+lower turnover at each seniority level of the 
+organization and for technical-specific roles) 
+
+Review results of disaggregated analyses at least quarterly with senior leaders to plan action steps.
+
+Deliver Results 
+Implement the nine cornerstone policies and practices in your organization: 
+
+Democratize access to information 
+to level the playing field
+
+Increase flexibility, enabling employees to 
+work the way they work best
+
+know what they can expect.
+
+01 Share salary ranges so people 
+02 Maintain an accessible 
+
+internal jobs board so 
+people can understand 
+opportunities across the 
+organization.
+
+03 Assign mentors to support 
+
+candidates in the interview 
+process by clarifying the 
+process, answering ques-
+tions, and helping candidates 
+prepare for interviews.
+
+to all employees.
+
+benefits such as personal leave.
+
+04 Provide paid sick leave 
+05 Offer expanded mental health 
+06 Give employees the option to 
+07 Enable employees to flex 
+
+their working hours—for 
+example, through compressed 
+workweeks, alternative work 
+schedules, and job sharing.
+
+work remotely, hybrid, or on-site.
+
+Demystify development by charting 
+clear pathways for employee develop­
+ment and career advancement
+
+08 Offer professional-
+
+development programs to 
+help employees expand their 
+networks and grow (such 
+as career accelerators, job 
+shadowing, and rotation 
+opportunities).
+
+09 Provide actionable next steps 
+
+for development or  
+advance ment directly 
+following a performance 
+review.
+
+Improve continuously 
+Intentionally design policies and practices to be accessible and effective for BLNA women in technical roles, using 
+data to define clear markers of success: 
+
+• Use quantitative and qualitative data to bring in the 
+
+• Communicate frequently and clearly about this policy  
+
+perspectives of BLNA women to identify how pain points 
+differ for each group.
+
+• Offer employees multiple relevant options.
+
+or practice.
+
+• Promote a culture that encourages uptake.
+
+• Continuously measure impact, and course-correct  
+
+• Ensure all options are accessible and easy to use.
+
+as needed.
+
+5 6
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTSCOPE
+
+This report is focused specifically on the needs of Black, Latina, and Native American 
+(BLNA) women in the technical workforce. We focused on this population because 
+technical jobs are among the fastest growing and highest paying45—yet BLNA women 
+continue to be excluded from these roles.
+
+As a result of this dramatic lack of representation, BLNA women in technical roles face 
+particularly acute challenges in the workplace and experience greater marginalization. 
+We believe that by centering our research (and solutions) on better meeting the needs 
+of this population, we can help tech workers of all identities to thrive. 
+
+It is important to recognize that not all BLNA women 
+face  the  same  experiences.  Many  women  may 
+experience discrimination due to other aspects of 
+their identity in addition to their gender or race or 
+ethnicity, including sexual orientation or a disability 
+(among countless others). 
+
+We hope that by spurring efforts to identify and 
+address  the  needs  of  employees  at  the  most 
+underrepresented intersection of gender and race 
+or ethnicity, we will encourage further research on 
+understanding how other forms of intersectionality 
+affect experiences within the workplace. 
+
+5 7
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTMETHODOLOGY
+
+Key sources of input
+Employee survey
+Our employee experience survey canvassed 2,076 employees holding technical roles. 
+Survey questions covered multiple themes (for example, policies and practices in place 
+to support employees, perception of the policies and practices they both do and do 
+not use, and overall sentiment about their employer) as well as demographic questions 
+(such as gender, race/ethnicity, age, employment status, and role). The primary focus 
+of this survey was to identify the policies and practices that are perceived to be most 
+effective and to uncover gaps between companies’ current offerings and BLNA 
+women’s specific needs. 
+
+Demographics of our sample
+BLNA women in technical roles
+• Total respondents: 1,087
+
+• 42 percent in technical roles in the tech sector; 58 percent in technical roles in other 
+
+sectors
+
+• 67 percent employed by small companies; 33 percent by medium-size and large 
+
+companies*
+
+• 58 percent Black/African American women; 32 percent Hispanic/Latina women; 10 
+
+percent Native American/Alaska Native/First Nations women
+
+Other technical employees
+•  Total respondents: 989
+
+•  57 percent in technical roles in the tech sector; 43 percent in technical roles in other 
+
+sectors 
+
+• 68 percent employed by small companies; 32 percent by medium-size and large 
+
+companies*  
+
+• 53 percent non-BLNA men; 26 percent non-BLNA women; 20 percent BLNA men**
+
+Our employee experience survey included 38 employee-facing policies and practices 
+aimed at attracting and recruiting candidates, as well as retaining and advancing 
+employees (see sidebar “Full list of policies and practices included in the survey”). We 
+identified this set of policies and practices based on a review of existing literature as 
+well as interviews with subject matter experts. All employee experience survey data 
+was collected between February 15 and March 9, 2023. 
+
+BLNA women interviews
+Between  March  5  and  March  31,  2023,  we  interviewed  BLNA  women  with 
+experience in technical roles. Our interviews focused on the workplace experiences 
+of individuals to gain a deeper understanding of the quantitative findings from the 
+employee experience survey. Within quotations, some identifying details may have 
+been removed to protect the speaker’s anonymity. Quotations may have been edited 
+for clarity. 
+
+*Small companies defined as 5,000 employees or 
+fewer; medium and large companies defined as more 
+than 5,000 employees.
+
+**Figures may not sum to 100%, because of rounding.
+
+5 8
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTCompany survey and interviews
+This report is based on research on 27 companies across the United States. For the 
+purposes of our research, we focused on companies within the technology sector 
+whose primary business is selling technology or technological services to consumers 
+or businesses, as well as companies outside of that industry that have sizable technical 
+workforces. 
+
+HR leaders provided information on DEI priorities as well as the internal policies and 
+practices in place within their organizations to recruit, retain, and advance BLNA 
+women in technical roles. We defined technical roles as those that are related to 
+computing, programming, software development, IT services, data science, and 
+engineering, among others. 
+
+Our company survey included 40 internal and employee-facing policies and practices 
+aimed at attracting and recruiting candidates, as well as retaining and advancing 
+employees. We identified this set of policies and practices based on a review of 
+existing literature as well as interviews with subject matter experts. 
+
+All company survey data was collected between February 23 and March 14, 2023. 
+
+Additionally, we conducted interviews with HR and/or DEI practitioners from 12 
+companies between March 2 and April 12, 2023. Quotations may have been edited 
+for clarity. 
+
+59
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTKey analyses
+Employee survey comparative analysis
+Many  of  the  analyses  in  this  report  involved  comparative 
+analyses, using answers for both BLNA women and the control 
+group. All comparative differences stated in this report were 
+significant considering a confidence interval at 95 percent. 
+Whenever an overall average is presented, it refers to the simple 
+average across the 38 policies and practices for each of our 
+two population samples. Many of the questions offered a five-
+point labeled response scale (for example, “strongly disagree” 
+to  “strongly  agree”).  Unless  otherwise  specified,  analyses 
+aggregated the top two and bottom two boxes of the response 
+scale (for instance, “somewhat agree” and “strongly agree”).
+
+The nine cornerstone policies and practices included in chapter 
+four were identified based on what BLNA women ranked as the 
+most “impactful.” “Impactful” was determined by calculating 
+the percentage of BLNA women who used a given policy or 
+practice and ranked it as either “likely substantially impacting” 
+their ability to get or accept an offer or stay or advance at their 
+organizations, or as “I likely would not have gotten or accepted 
+an offer/stayed/advanced without this.”
+
+Technical workforce representation analysis 
+The representation of different groups at the intersection of race and ethnicity and 
+gender was calculated using data from the Women in the Workplace Experience 
+Survey (EES), LeanIn.org and McKinsey, 2018 and 2022. The 2018 EES surveyed 
+more than 64,000 employees from 81 companies. The 2022 EES surveyed more than 
+40,000 respondents from 55 companies. 
+
+This is a different data source than the BLS-driven workforce numbers for BLNA 
+women used to cover an earlier time period in the 2018 Rebooting Representation 
+report.
+
+Additional key definitions
+Across analyses, the report sometimes refers to percent changes and sometimes 
+to differences in percentage points. Percent changes measure the rate of change 
+between two percentages. Percentage point differences measure the arithmetic 
+difference between the two percentages. 
+
+When looking at computing degree graduates, the report considers Integrated 
+Postsecondary Education Data System (IPEDS) coding of CIP 11 first and second 
+majors. When looking at the US working population, the report considers the 
+population aged 18 to 64 from the US Census Bureau. When looking at the US 
+college-aged population, the report considers the population aged 15 to 34 from the 
+US Census Bureau. 
+
+6 0
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTFULL LIST OF POLICIES AND PRACTICES INCLUDED IN THE SURVEY
+
+H I R I N G
+
+H I R I N G
+
+H I R I N G
+
+Partner with local organizations that encourage talent from underrepresented groups to pursue 
+careers in tech (eg, community colleges, workforce training institutions, community-based 
+organizations) 
+
+Alternative pathways for people to develop skills and relationships to enter tech roles (eg, 
+apprenticeships, “returnships”)
+
+Use employee resource groups (ERGs) as a source for referrals to help attract qualified candidates 
+from diverse backgrounds
+
+H I R I N G
+
+Include salary ranges in all job descriptions*
+
+H I R I N G
+
+Use structured and standard rubrics for resume reviews and interviews 
+
+H I R I N G
+
+Include practical exercises in the interview process to assess skills and competencies relevant to the 
+role (eg, debugging code to assess technical skills)
+
+H I R I N G
+
+Avoid questions unrelated to the job—eg, about “culture” or “fit” in job interviews
+
+H I R I N G
+
+Interviews conducted by multiple employees with diverse identities (gender, race) 
+
+H I R I N G
+
+H I R I N G
+
+Opportunities for candidates to connect with existing employees they might identify with (eg, 
+buddies, coffee chats) 
+
+Mentors assigned to support candidates through the hiring process (eg, coaching and preparation 
+for interviews)* 
+
+R E T EN T I O N
+
+Anti-racism and/or allyship training for all employees
+
+R E T EN T I O N
+
+R E T EN T I O N
+
+R E T EN T I O N
+
+Mandatory manager trainings (for you or your manager) on how to support employee career 
+development (eg, feedback conversations) and/or team experience (eg, minimizing burnout, checking 
+in on well-being)
+
+Mandatory manager training (for you or your manager) on how to foster a sense of inclusion and 
+belonging, facilitate conversations about DEI, and/or remove bias in everyday interactions
+
+Mandatory manager training (for you or your manager) on how to manage and include remote and/
+or hybrid employees
+
+R E T EN T I O N
+
+Opportunity to participate in ERGs 
+
+R E T EN T I O N
+
+Formal rewards or recognition for ERG leaders (eg, through compensation and/or performance 
+evaluations, regular face time with executive team)
+
+R E T EN T I O N
+
+Formal mentorship programs that include training and resources for both mentors and mentees 
+
+R E T EN T I O N
+
+Formal sponsorship programs that include training and resources for both sponsors and sponsorees 
+
+R E T EN T I O N
+
+Sufficient channels for anonymous reporting and handling of sexual harassment and/or misconduct
+
+61
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTR E T EN T I O N
+
+Audit processes in place to ensure that investigations regarding allegations of sexual harassment 
+and/or misconduct are thorough and sanctions are appropriate
+
+R E T EN T I O N
+
+Option for employees to choose whether to work remotely, hybrid, or on-site*
+
+R E T EN T I O N
+
+R E T EN T I O N
+
+R E T EN T I O N
+
+Option for employees to work flexible hours (eg, compressed workweeks, alternative work 
+schedules, job sharing)*  
+
+Expanded benefits for parents (eg, paid parental leave beyond what is required by law, on-site 
+childcare, childcare subsidies)
+
+Expanded benefits for caregivers of adults such as aging parents (eg, extended leave, caregiver 
+reimbursements)
+
+R E T EN T I O N
+
+Provide paid sick leave to all employees*
+
+R E T EN T I O N
+
+Expanded benefits specifically focused on mental health (eg, personal leave)*
+
+R E T EN T I O N
+
+Formalized off- and on-ramping programs to help ensure smooth transitions for employees taking 
+and/or returning from extended leave
+
+R E T EN T I O N
+
+Entrance and/or exit interviews with new employees or those who are leaving the company
+
+A DVA N C EM EN T
+
+Formal training programs focused on the skills needed to advance in the organization (eg, 
+networking, self-advocacy, technical skills)
+
+A DVA N C EM EN T
+
+Professional-development programs to help employees increase their visibility and/or “step up” (eg, 
+career accelerators, job shadowing, rotation opportunities)*
+
+A DVA N C EM EN T
+
+Access to and/or sponsorship of relevant industry certifications or continuing education (eg, 
+executive leadership training)
+
+A DVA N C EM EN T
+
+Publish roles, responsibilities, and career pathways (including salary ranges) to ensure that 
+expectations are clear across all levels and functions 
+
+A DVA N C EM EN T
+
+Central and accessible internal jobs board that provides visibility into open roles across the 
+organization*  
+
+A DVA N C EM EN T
+
+Use structured and standard rubrics for performance reviews and promotion decisions  
+
+A DVA N C EM EN T
+
+Share performance assessment criteria with employees at the beginning of each evaluation cycle 
+
+A DVA N C EM EN T
+
+Interviews for promotion decisions and/or performance review committees that are led by multiple 
+employees with diverse identities (gender, race) 
+
+A DVA N C EM EN T
+
+Collect multiple sources of feedback (eg, 360-degree evaluations sent to everyone an employee 
+worked with) in the performance review process
+
+A DVA N C EM EN T
+
+Provide actionable next steps for development or advancement to all employees immediately 
+following the performance review process* 
+
+*The main report uses simplified descriptions of some of the cornerstone policies and practices 
+for easier reading.
+
+62
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTENDNOTES
+
+1  Representation for women as a whole: “Employed persons by detailed 
+
+19  Kate Heinz, “The true costs of employee turnover,” Built In, updated 
+
+occupation, sex, race, and Hispanic or Latino ethnicity,” Current 
+Population Survey, US Bureau of Labor Statistics, 2022. Representation 
+for BLNA women: Women in the Workplace 2022 Experience Survey 
+(n > 40,000), LeanIn.org and McKinsey, 2022.
+
+2  Women in the Workplace 2022 Experience Survey, 2022.
+
+June 23, 2023.
+
+20  Based on McKinsey analysis of June 2022 US Census Bureau 
+
+Population Division data. Working-age population is defined as being 
+ages 18–64; “Women in the Workplace,” 2022.  
+
+21  “Diversity wins: How inclusion matters,” McKinsey, May 19, 2020. 
+
+3 
+
+Ibid.
+
+22  Ibid.
+
+4  Top companies for women technologists: 2022 key findings and insights, 
+
+AnitaB.org, 2022.
+
+5  Women in the Workplace 2022 Experience Survey, 2022.
+
+6  Based on McKinsey analysis of June 2022 US Census Bureau 
+
+Population Division data. Working-age population is defined as being 
+ages 18–64.
+
+7 
+
+“ Impactful” was determined by calculating the percentage of BLNA 
+women who used a given policy or practice and ranked it as either 
+“likely substantially impacting” their ability to get or accept an offer/
+stay/advance at their organizations, or as “I likely would not have 
+gotten or accepted an offer/stayed/advanced without this.” Please see 
+“Scope and methodology” for additional details.
+
+8  Across both BLNA women and all other demographic groups.
+
+9  Throughout this report, insights are expressed as percent changes or 
+differences in percentage points. Percent changes measure rate of 
+change between two percentages. For example, if representation of 
+women over 50 in tech went from 10 percent to 20 percent, there was 
+a 100 percent increase in representation. Percentage point differences 
+measure the arithmetic difference between the two percentages. For 
+example, if 10 percent of women over 50 in tech were excited to be 
+senior leaders, but 20 percent of women under 30 in tech were excited 
+to be senior leaders, women under 30 in tech were 10 percentage 
+points more likely to be excited to be senior leaders. Note: all data in the 
+aforementioned example is illustrative.
+
+23  Rocio Lorenzo and Martin Reeves, “How and where diversity drives 
+financial performance,” Harvard Business Review, January 30, 2018.
+
+24  “Diversity wins: How inclusion matters,” May 19, 2020. 
+
+25  Women in the Workplace, 2022. 
+
+26  Paulina Aceves, Reyhan Ayas, and Devan Rawlings, “Cutting costs at 
+
+the expense of diversity,” Revelio Labs, February 7, 2023.
+
+27  Based on McKinsey analysis of June 2022 US Census Bureau 
+
+Population Division data. Working-age population is defined as being 
+ages 18–64.
+
+28  Women in the Workplace, 2022. 
+
+29  “Diversity, Equity and Inclusion Lighthouses 2023,” McKinsey, January 
+
+13, 2023.
+
+30  Rebooting Representation, Pivotal Ventures and McKinsey, 2018.
+
+31  Women in the Workplace 2022 Experience Survey, 2022.
+
+32  Top companies for women technologists, 2022.
+
+33  Hakki Ozdenoren and Devan Rawlings, “Who gets laid off?,” Revelio 
+Labs, September 6, 2022; Naomi Nix, “After layoffs, Meta, tech 
+companies face uphill battle to boost diversity,” Washington Post, 
+January 28, 2023. Note: This data is about both technical and 
+nontechnical roles in the tech industry (the rest of this report focuses 
+on technical roles across industries).
+
+10  Tim Koller, James Manyika, and Sree Ramaswamy, “The case against 
+corporate short termism,” McKinsey Global Institute, August 4, 2017.
+
+34  Ibid.
+
+11  Ibid.
+
+12  “Performance through people: Transforming human capital into 
+
+competitive advantage,” McKinsey Global Institute, February 2, 2023.
+
+13  Ibid. 
+
+14  Ibid. 
+
+35  Benish Shah, “Why layoffs hit workers of colour so hard,” BBC, March 
+
+14, 2023.
+
+36  Social capital and economic mobility, Opportunity Insights, August 2022.
+
+37  Marissa Abbott and Aaron Reilly, The role of social capital in supporting 
+economic mobility, Office of the Assistant Secretary for Planning and 
+Evaluation, US Department of Health and Human Services, May 2019.
+
+15  “Layoffs tracker,” data from September 2022 to April 19, 2023, 
+
+Layoffs.fyi, accessed June 15, 2023.  
+
+38  Paid family and medical leave: A racial justice issue—and opportunity, 
+
+National Partnership for Women & Families, August 2018.
+
+16  State of the tech workforce, CompTIA, 2022; Job Loss Risk Index, 
+
+39  “Paid sick leave is good for business,” A Better Balance, updated May 
+
+Conference Board, April 2023.
+
+17  The tech jobs report, CompTIA, April 2023.
+
+18  “Table A-1. Employment status of the civilian population by sex and 
+
+age,” US Bureau of Labor Statistics, updated June 2, 2023; The tech jobs 
+report, April 2023.
+
+12, 2023.
+
+40  Julia Anas and Kelly Greenwood, “It’s a new era for mental health at 
+
+work,” Harvard Business Review, October 4, 2021.
+
+41  Mental health: A workforce crisis, American Heart Association CEO 
+
+Roundtable, March 2019.
+
+6 3
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACT42  “Women in the Workplace,” 2022. 
+
+43  K. A. DeCelles et al., “Whitened résumés: Race and self-presentation 
+
+in the labor market,” Administrative Science Quarterly, September 2016, 
+Volume 61, Number 3.
+
+44  Both BLNA women and all other demographic groups.
+
+45  Based on data from the US Bureau of Labor Statistics’ Occupational 
+Outlook Handbook; nine of the 56 fastest-growing (“faster than 
+average” or “much faster than average” projected growth rate) and 
+highest-paying (2021 median pay of $80,000 or more) occupations 
+included technical roles such as computer and information systems 
+managers, data scientists, database administrators, and software 
+developers.
+
+6 4
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACTABOUT THE AUTHORS
+
+Linda Calvin
+Linda Calvin is a 20-year veteran of the private IT sector with 
+strengths in communication, law, and global tech leadership. 
+She is the chief impact officer for Reboot Representation, 
+where she collaborates with Reboot Representation Tech 
+Coalition partners to create cultures that attract and retain 
+Black, Latina, and Native American women in tech. A certified 
+scrum master, Linda is pursuing a certificate in HR and diversity 
+through Cornell University online. Linda graduated cum laude 
+from Butler University with a bachelor’s degree in journalism 
+and earned her JD from Indiana University in 2008. 
+
+Dwana Franklin­Davis
+Dwana Franklin-Davis is the CEO of Reboot Representation. 
+She is a collaborative and compelling visionary leading the Tech 
+Coalition’s pooled philanthropic investments that will enable 
+more Black, Latina, and Native American women to graduate 
+with computing degrees by 2025 and reduce the diversity gap 
+in tech. Dwana joined Reboot Representation in 2019 after 
+working in IT, software engineering, and leadership positions 
+for Mastercard, May Department Store Companies, and IBM. 
+Based in New York City, Dwana holds a BS in management from 
+Purdue University, an MS in information management from 
+Washington University in St. Louis, and a certificate in project 
+management from Washington University in St. Louis.
+
+Tiffany Burns 
+Tiffany  Burns  is  a  senior  partner  and  managing  partner 
+of  McKinsey’s  Atlanta  Office.  She  has  experience  leading 
+performance transformations in the retail and consumer sectors 
+with programs spanning retail formats and geographies. In 
+addition, Tiffany helped lead the creation of McKinsey’s 10 
+Actions, a portfolio of initiatives and efforts to improve racial 
+equity within the firm and around the world. In the context of 
+this work, Tiffany was a core architect of the Next 1B program 
+focused on increasing capability and growth acceleration for 
+Black founders. She has a BS in industrial engineering from the 
+Georgia Institute of Technology, an MBA from Harvard Business 
+School, and a JD from Harvard Law School.
+
+Sarah Gitlin
+Sarah Gitlin is an associate partner in McKinsey’s Washington, 
+DC, office, where she is a leader of McKinsey’s work on gender 
+equity.  Sarah  works  with  clients  to  increase  their  impact 
+in  removing  barriers  women  face  to  exerting  their  power 
+and influence. She develops strategies to support women’s 
+advancement into leadership in critical sectors, particularly in 
+technical roles. Sarah is a leader of McKinsey’s gender research, 
+harnessing methodologies ranging from large-scale surveys 
+of companies and individuals to interviews with hundreds 
+of stakeholders to detailed reviews of the evidence base on 
+the efficacy of particular interventions. She holds a BA from 
+Columbia University and a JD from Harvard Law School.
+
+Tracy Nowski
+Tracy Nowski is a partner in McKinsey’s Washington, DC, 
+office and the global leader of McKinsey’s Women and Girls 
+service line. She has extensive experience developing effective 
+strategies to advance the status of women, partnering with 
+corporations, foundations and nonprofits to remove barriers 
+to advance gender equality, with a particular focus on women’s 
+economic empowerment and women’s health. Tracy has a 
+BA from Harvard College in studies of women, gender and 
+sexuality, and a JD from Yale Law School.
+
+65
+
+SYSTEM UPGRADE: REBOOTING CORPORATE POLICIES FOR IMPACT

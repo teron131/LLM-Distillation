@@ -1,0 +1,645 @@
+Steady progress in approaching 
+the quantum advantage 
+
+Quantum technology could create value worth trillions of dollars within the next 
+decade. The third annual Quantum Technology Monitor synthesizes the latest 
+opportunities in this burgeoning field. 
+
+This report is a collaborative effort by Michael Bogobowicz, Kamalika Dutta, Martina Gschwendtner, Anna Heid, 
+Mena Issler, Niko Mohr, Henning Soller, Rodney Zemmel, and Alex Zhang, representing views from McKinsey Digital.
+
+April 2024
+
+© Getty Images
+
+A year of strong funding coupled with sturdy 
+underlying fundamentals and significant 
+technological advances reflected strong 
+momentum in quantum technology (QT).
+
+Updated McKinsey analysis for the third annual 
+Quantum Technology Monitor reveals that four 
+sectors—chemicals, life sciences, finance, and 
+mobility—are likely to see the earliest impact 
+from quantum computing and could gain up to 
+$2 trillion by 2035 (see sidebar “What is quantum 
+technology?”).
+
+years ago, reflecting a shift in investments toward 
+more-established and promising start-ups, with a 
+focus on scaling them. 
+
+In contrast to the private sector, public 
+investments increased more than 50 percent over 
+2022, making up almost a third of all investments 
+in quantum technology. A range of countries, led 
+by Germany, the United Kingdom, and South 
+Korea, have announced significant new funding 
+for QT development, bringing the global public 
+funding total to date to about $42 billion. 
+
+Private and corporate funding for quantum 
+technology start-ups in pursuit of that value, 
+however, took a notable dip. Investments 
+decreased 27 percent from the previous year, 
+with the biggest drop in quantum sensing start-
+ups. This decline, however, was smaller than the 
+38 percent decline in all start-up investment 
+worldwide. Notably, the majority of funding (62 
+percent) went to companies founded five or more 
+
+Underscoring this momentum was continued 
+strong growth in QT foundations. There was a 
+wave of new or enhanced offerings (for example, 
+start-ups that made their quantum computing 
+accessible through the cloud) and significant 
+technological advancements—especially in 
+quantum error correction and mitigation—as well 
+as a small increase in patents filed. In addition, we 
+found a notable increase in quantum technology 
+
+What is quantum technology?
+
+Quantum technology encompasses three subfields:
+
+ — Quantum computing (QC) is a new computing paradigm leveraging the laws of quantum mechanics to provide significant 
+performance improvement for certain applications and to enable new territories of computing compared to existing 
+classical computing.
+
+ — Quantum sensing (QS) includes a new generation of sensors, based on quantum systems, that provide measurements of 
+various quantities (for example, electromagnetic fields, gravity, or time) and that are orders of magnitude more sensitive 
+than classical sensors.
+
+ — Quantum communication (QComm) is the secure transfer of quantum information across distances, and it could ensure 
+
+security of communication even in the face of unlimited (quantum) computing power.¹
+
+1 Quantum cryptography draws on the exchange of a secret key to encrypt messages based on the quantum mechanical phenomenon of entanglement. Unlike any 
+classical cryptographic protocol, it is in principle not possible to “eavesdrop” on messages exchanged with quantum cryptography without detection. However, 
+early implementations have been shown to have some weaknesses due to, for example, physical implementations of the protocols.
+
+2
+
+Steady progress in approaching the quantum advantage 
+
+programs offered by universities, with the European 
+Union taking the lead in the number of graduates in 
+QT-related fields.
+
+In this article, we’ll go into these and other findings in 
+greater detail (for more on the research, see sidebar 
+“About the Quantum Technology Monitor research”).
+
+compared to the 38 percent decrease for all start-
+ups globally. The slowdown in the number of new 
+QT start-ups founded continues (13 in 2023 versus 
+23 in 2022). Deal sizes have decreased as well, with 
+the average deal size being $40 million in 2023 
+compared to $105 million in 2022 and $107 million 
+in 2021. In line with this development, deal counts 
+dropped to 171 in 2023 from 206 in 2022.
+
+Private investment dropped while 
+public investment surged, with a focus 
+on scaling established start-ups 
+In 2023, $1.71 billion was invested in QT start-ups, 
+which represents a 27 percent decrease from 
+the all-time high of $2.35 billion in 2022 (Exhibit 
+1). Nonetheless, the decrease is smaller when 
+
+There are several factors causing the decrease in 
+private investment into QT, including a significant 
+shift in focus toward generative AI as well as lingering 
+perceptions of QT being a long-term technology 
+whose potential in various sectors is still being 
+understood and evaluated. 
+
+Web <year>
+<Title>
+Exhibit <x> of <x>
+Exhibit 1 
+Total investments in quantum technology start-ups decreased by 27 
+Total investments in quantum technology start-ups decreased by 27 percent 
+percent year-over-year in 2023.
+year-over-year in 2023.
+
+Annual raised start-up investment,¹ $ million 
+
+>74%
+
+of total investment
+allocated to QC start-ups
+
+2022: $2.35 billion
+
+2023: $1.71 billion
+
+–27%
+
+Annual change
+in QT start-up
+investment
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+2002
+
+2006
+
+2010
+
+2014
+
+2018
+
+2022
+
+1Based on public investment data recorded in PitchBook; actual investment is likely higher.
+Source: PitchBook
+
+McKinsey & Company
+
+Steady progress in approaching the quantum advantage 
+
+3
+
+About the Quantum Technology Monitor research
+
+Our research covers the three main areas of quantum technologies: quantum computing, quantum sensing, and quantum 
+communication. The analysis is based on inputs from various data sources, including publicly available data sources and expert 
+interviews. Because not all deal values are publicly disclosed, this research does not provide a definitive or exhaustive list of 
+start-up and funding activities. Minor data deviations may exist as databases are updated.
+
+Public funding for quantum technologies, on 
+the other hand, jumped more than 50 percent 
+over 2022. While China and the United States 
+have previously dominated QT public investment, 
+new announcements from Australia, Canada, 
+Germany, India, Japan, the Netherlands, South 
+Korea, and the United Kingdom reflected a 
+growing realization among a broader range of 
+governments of the importance of QT; South 
+Korea and the United Kingdom, in particular, 
+made significant increases to their funding levels 
+(Exhibit 2).
+
+Most of these national initiatives aim to establish 
+technological leadership and sovereignty and 
+spur private investments for quantum technology 
+development. For example, the aim of the United 
+Kingdom’s National Quantum Strategy, which 
+includes $3.1 billion in public funding over ten 
+years, is not only to allow the United Kingdom to 
+be a leading quantum-enabled economy but also 
+to generate $1.3 billion in private investment in 
+quantum technologies. 
+
+Where did the funding go? The vast majority of 
+investments have been in US companies (more 
+than two times the amount compared to the next 
+country), followed by companies in Canada and 
+the United Kingdom. The majority of venture 
+capital funding went to scaling up established 
+start-ups, with more than 75 percent of the total 
+investment value going to series B or later funding 
+rounds. This suggests the establishment of more-
+mature technological platforms for quantum 
+
+computing and signals investors’ potential risk 
+aversion to early-stage start-ups and unproven 
+technologies or approaches—which also partially 
+explains the 43 percent drop in new start-ups 
+compared to 2022.
+
+With quantum talent growing, 
+countries need to focus on broad 
+collaborations to build strong 
+capabilities 
+Talent development took a notable step forward 
+in 2023, reflecting a positive focus on building 
+QT’s foundations. There were 367,000 people 
+who graduated in 2023 with QT-relevant degrees. 
+Meanwhile, the number of universities with QT 
+programs increased 8.3 percent, to 195, while 
+those offering master’s degrees in QT increased 
+by 10.0 percent, to 55. The European Union and 
+the United Kingdom have the highest number and 
+density, respectively, of graduates in QT-relevant 
+fields. This surge helps explain why scientists 
+from EU institutions contributed most often to 
+quantum-relevant publications.
+
+Building off of this talent and these investments 
+to generate value is still a challenge because 
+of limited access to state-of-the-art hardware 
+and infrastructure, limited awareness and 
+adoption of quantum technologies, and a 
+lack of interdisciplinary coordination (such as 
+between academia and industry) required to 
+bring technologies to market. Collaboration 
+between industry, academia, and government is 
+
+4
+
+Steady progress in approaching the quantum advantage 
+
+Web <year>
+<Title>
+Exhibit <x> of <x>
+
+Exhibit 2 
+Global public investments in quantum technology reached $42 billion
+Global public investments in quantum technology reached $42 billion in 2023.
+in 2023.
+
+Announced government investment,¹ $ billion
+
+Announced before 2023
+
+Announced in 2023
+
+China
+
+15.3
+
+15.3
+
+Germany
+
+2.9
+
+2.3
+
+5.2
+
+United Kingdom
+
+1.2
+
+3.1
+
+4.3
+
+United States
+
+3.8
+
+3.8
+
+0.1
+
+South Korea
+
+2.3
+
+2.4
+
+France
+
+2.2
+
+2.2
+
+<0.1
+
+Japan
+
+1.8
+
+1.8
+
+India
+
+1.0
+
+0.7
+
+1.7
+
+0.4
+
+Canada
+
+1.0
+
+1.4
+
+0.1
+
+Netherlands
+
+0.9
+
+1.0
+
+Russia
+
+0.8
+
+0.8
+
+0.4
+
+Israel
+
+0.4
+
+Others
+
+1.8
+
+1.8
+
+1Total historic announced investment; timelines for investment vary by country.
+
+McKinsey & Company
+
+essential to accelerating development of quantum 
+technology to industrialize technology, manage 
+intellectual property, and overcome talent gaps. 
+
+talent, as well as access to the latest scientific 
+breakthroughs.
+
+To address this issue, “innovation clusters” 
+are emerging worldwide. These clusters are 
+coordinated networks of partnerships between 
+researchers, industry leaders, and government 
+entities that contribute to the technological 
+advancement of quantum technologies and drive 
+regional value creation (Exhibit 3). 
+
+ — Government support. Government support for 
+innovation clusters comes in the form of public 
+funding to support technology development at 
+institutions and start-ups, as well as funding 
+infrastructure for national research centers 
+such as national labs, dedicated facilities, 
+and capabilities for quantum technology 
+development.
+
+Most clusters share the following elements:
+
+ — Academic hubs. Large academic institutions 
+provide vibrant research ecosystems and 
+
+ — Entrepreneurship. Start-ups are typically 
+spun off from academic groups but retain 
+ties to academic groups and take advantage 
+of infrastructure within research institutions. 
+
+Steady progress in approaching the quantum advantage 
+
+5
+
+Web <year>
+<Title>
+Exhibit <x> of <x>
+Exhibit 3 
+Building innovation ecosystems and clusters requires a range of support 
+Building innovation ecosystems and clusters requires a range of support 
+actions from stakeholders.
+actions from stakeholders.
+
+Support actions by ecosystem stakeholder
+
+Government
+• Develop national 
+quantum strategy
+
+• Identify priority 
+
+innovation areas 
+for investment
+• Address policy 
+
+challenges 
+
+• Foster effective 
+local ecosystems
+
+Research institutions
+• Develop beyond-the-
+
+state-of-the-art
+quantum technologies
+• Partner with relevant 
+players to collaborate 
+on full-stack quantum 
+solutions
+
+Corporate end users
+• Develop quantum 
+
+adoption road maps
+
+• Co-develop
+technology
+• Build quantum
+
+workforce 
+
+• Utilize quantum as
+
+a service
+
+Start-up accelerator 
+programs
+• Operate as exclusively 
+
+quantum-focused 
+programs to grow 
+quantum start-ups
+• Offer coaching and 
+
+necessary platform for 
+start-ups to take ideas 
+into implementation
+
+Infrastructure
+• State-of-the-art 
+
+equipment
+
+• Capital
+
+investments
+
+• Talent
+• Physical space
+• Training and
+education
+
+Quantum companies
+• Experiment with proofs of
+
+concept
+
+• Build strategic road map to
+
+integrate into business
+
+• Build internal quantum workforce
+• Start-ups: 
+
+• Obtain funding
+• Receive mentorship from
+
+network
+
+Academia (education 
+and research)
+• Train and educate the 
+next generation of 
+talent in quantum and 
+related areas 
+
+• Produce cutting-edge 
+
+research
+
+• Design study programs 
+
+for quantum
+
+Investors
+• Access expertise in 
+
+technology to inform 
+investment avenues
+
+• Prioritize high-
+
+potential technologies
+
+• Access cluster's 
+start-up network
+for investment
+
+Administrative organization
+• Interface with cluster members 
+for strategic partnerships in 
+research, knowledge and
+technology transfer, and
+workforce and ecosystem 
+development
+
+• Manage a portfolio of industry 
+partners to spur the creation 
+and growth of ventures
+
+McKinsey & Company
+
+Start-ups also benefit significantly from 
+mentorship (for example, through accelerators 
+and tech transfer organizations) to develop and 
+commercialize innovations.
+
+ — Industry partnerships. Local companies or large 
+corporate entities that are interested in applying 
+quantum technologies provide funding or 
+dedicated infrastructure to researchers.
+
+Developing and scaling such regional innovation 
+ecosystems (including research consortiums) will be 
+
+a determining factor for achieving wide adoption and 
+commercialization of quantum technology.
+
+Technology breakthroughs, 
+particularly in fault-tolerant quantum 
+computing, reflect meaningful 
+progress
+The past year marked continued advances for all 
+quantum technologies, with a range of enhanced 
+and new QT offerings coming to the market. One 
+advance was the transition from the NISQ1 era to the 
+
+1 NISQ stands for noisy intermediate-scale quantum, an era in quantum computing characterized by use of quantum processors containing up to 
+1,000 qubits, which were prone to noise and error.
+
+6
+
+Steady progress in approaching the quantum advantage 
+
+FTQC2 era. Other key breakthroughs included the 
+following:
+
+ — Quantum computing. Quantum error-correction 
+
+proposals and demonstrations by large 
+companies show promise of steps toward 
+large-scale, fault-tolerant quantum computing. 
+Record qubit fidelity of 99.5 percent (by QuEra, 
+MIT, and Harvard) and, most recently, 99.9 
+percent (by Microsoft and Quantinuum) were 
+achieved by combining new error-correction 
+schemes and groundbreaking architectures for 
+logical qubits. Shifting the focus from hardware 
+alone to software and architecture-based 
+schemes for error mitigation and correction 
+promises to significantly reduce the hardware 
+overhead (for example, physical qubit counts for 
+each logical qubit) and accelerate timelines for 
+the advent of universal fault-tolerant quantum 
+computers. 
+
+ — Quantum sensing. Researchers are developing 
+improved techniques to control ensembles 
+of solid-state spins for a range of sensing 
+applications. Researchers at MIT, for example, 
+developed a novel technique that could 
+significantly improve the sensitivity of quantum 
+
+sensing devices. Quantum sensing technology’s 
+capabilities in monitoring, imaging, navigation, 
+and identification will have a significant impact, 
+both on their own and as enablers of processes. 
+Our analysis shows that private sectors such 
+as oil and gas, automotive and assembly, 
+aerospace and defense, medtech, and media 
+and entertainment, as well as the public sector, 
+could experience disruptive impact from 
+quantum sensing after 2030.
+
+ — Quantum communication. Researchers are 
+improving the performance of quantum key 
+distribution, demonstrating longer transmission 
+distances and increased data rates using 
+innovative techniques. China and Russia both 
+successfully tested the longest established 
+quantum communication, which was over a 
+distance of 3,800 kilometers. Researchers 
+are also developing platforms for quantum 
+memories using trapped ions, rare earth ions, 
+and atomic vapors, and they are using trapped 
+ions to demonstrate quantum repeaters, which 
+operate at telecom wavelengths.
+
+For the full set of insights and data, download the 
+entire Quantum Technology Monitor.
+
+Michael Bogobowicz is a partner in McKinsey’s New York office, where Rodney Zemmel is a senior partner; Kamalika 
+Dutta is a specialist in the Berlin office; Martina Gschwendtner is a consultant in the Munich office; Anna Heid is an 
+associate partner in the Zurich office; Mena Issler is an associate partner in the Bay Area office, where Alex Zhang is a 
+consultant; Niko Mohr is a partner in the Düsseldorf office; and Henning Soller is a partner in the Frankfurt office.
+
+Copyright © 2024 McKinsey & Company. All rights reserved.
+
+2 FTQC stands for fault-tolerant quantum computing, an era in quantum computing in which computation involves low logical error rates.
+
+Steady progress in approaching the quantum advantage 
+
+7
+
+

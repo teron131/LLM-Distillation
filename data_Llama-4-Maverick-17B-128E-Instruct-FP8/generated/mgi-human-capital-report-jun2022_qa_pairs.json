@@ -1,0 +1,2977 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe McKinsey Global Institute's report \"Human capital at work: The value of experience\" explores the importance of human capital in the workforce, focusing on the role of work experience and skill acquisition in individual career trajectories. The research uses longitudinal data to analyze the impact of work experience on earnings and career advancement. The report highlights the significance of organizations in developing and augmenting human capital, and raises questions for business leaders on how to create conditions that foster upward mobility and skill development. The research was conducted jointly by the McKinsey Global Institute and McKinsey's People & Organizational Performance Practice.",
+  "qa_pairs": [
+    {
+      "question": "When was the McKinsey Global Institute established?",
+      "answer": "1990."
+    },
+    {
+      "question": "What is the mission of the McKinsey Global Institute?",
+      "answer": "To provide leaders in the commercial, public, and social sectors with the facts and insights on which to base management and policy decisions."
+    },
+    {
+      "question": "What are the current research themes of the McKinsey Global Institute?",
+      "answer": "Growth and competition; labor markets and work; financial markets and investment; consumers, behavior, and health; resources and sustainability; technology and innovation; and society and institutions."
+    },
+    {
+      "question": "What is the focus of McKinsey's People & Organizational Performance Practice?",
+      "answer": "To equip people and organizations to unleash sustained performance."
+    },
+    {
+      "question": "What does human capital represent?",
+      "answer": "The collective knowledge, attributes, skills, experience, and health of the workforce\u2014and also the potential residing within each person."
+    },
+    {
+      "question": "What is the focus of the research in the report 'Human capital at work: The value of experience'?",
+      "answer": "How work experience and the acquisition of skills pay off for the individual, using longitudinal data to trace actual career trajectories."
+    },
+    {
+      "question": "Who led the research on human capital and career trajectories?",
+      "answer": "Anu Madgavkar, Bill Schaninger, Sven Smit, Jonathan Woetzel, Hamid Samandari, Davis Carlin, and Jeongmin Seong."
+    },
+    {
+      "question": "Which organizations collaborated on this research?",
+      "answer": "The McKinsey Global Institute and McKinsey\u2019s People & Organizational Performance Practice."
+    },
+    {
+      "question": "What type of data was used to trace actual career trajectories?",
+      "answer": "Longitudinal data."
+    },
+    {
+      "question": "Who led the working team for this research?",
+      "answer": "Kanmani Chockalingam."
+    },
+    {
+      "question": "Who were the academic advisers for this research?",
+      "answer": "Christopher Pissarides, Michael Spence, Matthew Slaughter, Martin Baily, and Rakesh Mohan."
+    },
+    {
+      "question": "What was the focus of the research on human capital?",
+      "answer": "The research focused on what happens after people enter the workforce, specifically how work experience and the acquisition of skills pay off for the individual."
+    },
+    {
+      "question": "What is human capital?",
+      "answer": "The knowledge, attributes, skills, experience, and health of the workforce."
+    },
+    {
+      "question": "What percentage of an individual's total wealth is represented by human capital?",
+      "answer": "Roughly two-thirds."
+    },
+    {
+      "question": "How many de-identified online professional profiles were analyzed in the research?",
+      "answer": "Four million."
+    },
+    {
+      "question": "In which countries were the online professional profiles analyzed?",
+      "answer": "The United States, Germany, the United Kingdom, and India."
+    },
+    {
+      "question": "What is central to upward mobility according to the research?",
+      "answer": "Taking on new roles with expanded skills."
+    },
+    {
+      "question": "Who are critical engines of mobility according to the research?",
+      "answer": "Employers."
+    },
+    {
+      "question": "How many de-identified online professional profiles were analyzed in the study?",
+      "answer": "Four million."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience on average?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "In which country does work experience contribute the most to average lifetime earnings?",
+      "answer": "India, where it contributes 58 percent."
+    },
+    {
+      "question": "How often do workers switch roles on average, depending on the country?",
+      "answer": "Every two to four years."
+    },
+    {
+      "question": "What is the median skill distance per role move?",
+      "answer": "25 percent or more."
+    },
+    {
+      "question": "What percentage of role moves involve joining new organizations?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to skills derived through experience for those who move up in their careers?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "How does the average skill distance of role moves differ between upwardly mobile cohorts and those who stay flat?",
+      "answer": "Upwardly mobile cohorts made moves with an average skill distance of 30 to 40 percent, while those who stayed flat averaged only 20 to 30 percent."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to experience for 'experience seekers' and 'early movers' in advanced economies?",
+      "answer": "60 to 70 percent."
+    },
+    {
+      "question": "What percentage of lifetime earnings is accounted for by experience for individuals in advanced economies?",
+      "answer": "60 to 70 percent."
+    },
+    {
+      "question": "What is the main factor that explains the variation in experience-linked earnings among individuals?",
+      "answer": "Time spent early in a career with an effective organization."
+    },
+    {
+      "question": "What are the three priorities for employers to attract and retain the best talent?",
+      "answer": "Evaluate current employees and candidates for their potential and capacity to learn, embrace mobility by considering candidates with different backgrounds and creating career paths, and strengthen coaching and on-the-job training."
+    },
+    {
+      "question": "What percentage of a person's human capital is contributed by work experience?",
+      "answer": "Almost half."
+    },
+    {
+      "question": "What is the average skill distance of role moves made by people who advance into higher earning brackets?",
+      "answer": "30\u201340%."
+    },
+    {
+      "question": "What percentage of job moves are across companies?",
+      "answer": "80%."
+    },
+    {
+      "question": "What is human capital composed of?",
+      "answer": "The collective knowledge, attributes, skills, experience, and health of the workforce."
+    },
+    {
+      "question": "At what stage does human capital development start?",
+      "answer": "Early childhood."
+    },
+    {
+      "question": "What percentage of a person's human capital is contributed by work experience?",
+      "answer": "Almost half."
+    },
+    {
+      "question": "What are the three stages in the evolution of human capital that influence a worker's lifetime earnings?",
+      "answer": "Early childhood development, Education, and Work experience."
+    },
+    {
+      "question": "What percentage of lifetime earnings is associated with work experience?",
+      "answer": "40%\u201358%."
+    },
+    {
+      "question": "What is 'skill distance' defined as?",
+      "answer": "The weighted share of the skills required for a new job that do not overlap with those in the immediately previous job."
+    },
+    {
+      "question": "What is the average skill distance of role moves made by people who advance into higher earning brackets?",
+      "answer": "30\u201340%."
+    },
+    {
+      "question": "What percentage of job moves are across companies?",
+      "answer": "80%."
+    },
+    {
+      "question": "What is the largest component of wealth?",
+      "answer": "Human capital, which is two-thirds of per capita net worth."
+    },
+    {
+      "question": "What percentage of workers in the US, Germany, and the UK are on a path to move up one or more quintiles in estimated lifetime earnings?",
+      "answer": "Roughly a third."
+    },
+    {
+      "question": "What is required for individuals to make bold career moves?",
+      "answer": "An employer must see their potential and take a chance on them in hiring."
+    },
+    {
+      "question": "How does work experience contribute to human capital?",
+      "answer": "Work experience adds to the value of human capital by allowing workers to gain knowledge and new capabilities that they carry with them for the remainder of their careers."
+    },
+    {
+      "question": "What is the relationship between formal education and lifetime earnings?",
+      "answer": "Formal education is an important driver of an individual\u2019s lifetime earnings, with each additional year of education consistently increasing earnings."
+    },
+    {
+      "question": "How do organizations contribute to the development of their employees?",
+      "answer": "Organizations set up working environments with systems and practices that help employees become more productive, and provide structured learning programs and daily coaching on the job."
+    },
+    {
+      "question": "What is the definition of work experience according to the research?",
+      "answer": "The accumulated knowledge that individuals gain by being in the labor market, which can occur through doing the work itself, formal employer-provided learning and development programs, and job changes that better match someone\u2019s existing skills or enable them to add new skills."
+    },
+    {
+      "question": "How do researchers track the link between role moves and the addition of skills to lifetime earnings?",
+      "answer": "By tracking the new skills associated with role changes and making assumptions about how the salaries for each role link to new versus entry-level skills over the course of each individual\u2019s work history."
+    },
+    {
+      "question": "What data set is used for the research?",
+      "answer": "A detailed data set covering all of the job moves made by about a million workers in each of four focus countries: the United States, Germany, the United Kingdom, and India."
+    },
+    {
+      "question": "How is 'skill distance' quantified?",
+      "answer": "As the share of new or nonoverlapping skills associated with the new job, reflecting someone\u2019s opportunity to acquire or deploy additional skills in the new role."
+    },
+    {
+      "question": "How are lifetime earnings estimated?",
+      "answer": "As the sum total of nominal salaries received over a 30-year working life, combining salaries associated with roles during an individual\u2019s observed work history plus projections for the remaining years of that person\u2019s working life."
+    },
+    {
+      "question": "How is the share of each new role's salary attributed to work experience?",
+      "answer": "In proportion to the share of new or nonoverlapping skills that role introduces, relative to entry-level skills."
+    },
+    {
+      "question": "What percentage of an individual's total wealth is represented by their human capital?",
+      "answer": "Roughly two-thirds."
+    },
+    {
+      "question": "What is the average percentage of human capital contributed by skills acquired or deployed through work experience?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "What is the range of the contribution of work experience to a worker's human capital?",
+      "answer": "40 to 60 percent."
+    },
+    {
+      "question": "How does the contribution of work experience to lifetime earnings vary across the United States, Germany, and the United Kingdom?",
+      "answer": "It contributes 40 percent in the United States, and 43 percent in both Germany and the United Kingdom."
+    },
+    {
+      "question": "How is the value of human capital measured?",
+      "answer": "As the present value of all future earnings for the average individual."
+    },
+    {
+      "question": "According to the World Bank, what percentage of global wealth is accounted for by human capital wealth?",
+      "answer": "Roughly two-thirds."
+    },
+    {
+      "question": "What is the percentage of global wealth accounted for by human capital wealth in high-income OECD countries?",
+      "answer": "As much as 70 percent."
+    },
+    {
+      "question": "How is skill distance measured in the given data?",
+      "answer": "As the share of non-overlapping skill requirements between two roles."
+    },
+    {
+      "question": "What is the source of the data used to identify skill requirements for each role?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records."
+    },
+    {
+      "question": "In the United States, what is the share of earnings associated with work experience over a lifetime?",
+      "answer": "60%."
+    },
+    {
+      "question": "In Germany, what is the share of earnings associated with entry-level skills at year 10?",
+      "answer": "49%."
+    },
+    {
+      "question": "How many times the initial salary is the average career salary projected to be in the United States at year 9?",
+      "answer": "3\u00d7."
+    },
+    {
+      "question": "In India, what is the share of earnings associated with work experience over a lifetime?",
+      "answer": "42%."
+    },
+    {
+      "question": "What percentage of global wealth is accounted for by human capital wealth according to the World Bank?",
+      "answer": "Roughly two-thirds."
+    },
+    {
+      "question": "In high-income OECD countries, what percentage of wealth is attributed to human capital?",
+      "answer": "As much as 70 percent."
+    },
+    {
+      "question": "What is the source of the data used to identify skill requirements for each role?",
+      "answer": "Job posting data."
+    },
+    {
+      "question": "How is the skill distance measured?",
+      "answer": "As the share of non-overlapping skill requirements between two roles."
+    },
+    {
+      "question": "What is the share of earnings associated with work experience in the United States over a lifetime?",
+      "answer": "61%."
+    },
+    {
+      "question": "How many years are observed on average in the United States sample?",
+      "answer": "Not explicitly stated, but data is given for years 10, 20, and 30."
+    },
+    {
+      "question": "What is the multiple of initial salary at the end of 9 years in the United States?",
+      "answer": "3\u00d7."
+    },
+    {
+      "question": "In India, what is the share of earnings associated with work experience at year 20?",
+      "answer": "67%."
+    },
+    {
+      "question": "What percentage of average lifetime earnings is attributed to work experience in advanced economies?",
+      "answer": "40 to 43 percent."
+    },
+    {
+      "question": "What percentage of average lifetime earnings is attributed to work experience in India?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "How are lifetime earnings defined?",
+      "answer": "The sum of nominal salaries over an individual\u2019s 30-year working life."
+    },
+    {
+      "question": "What is the basis for calculating lifetime proportions?",
+      "answer": "The area under the curve."
+    },
+    {
+      "question": "How many individual career profiles were used in the sample for the US?",
+      "answer": "410,000."
+    },
+    {
+      "question": "Why is work experience a more important driver of income in India?",
+      "answer": "Because access to education remains a key challenge and only 12 percent of the population had tertiary education as of 2020."
+    },
+    {
+      "question": "What percentage of average lifetime earnings is contributed by work experience in India?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "What percentage of India's population had tertiary education as of 2020?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "For people who start in occupations with lower educational requirements, what drives the greater share of their lifetime earnings?",
+      "answer": "Work experience."
+    },
+    {
+      "question": "What percentage of lifetime earnings is determined by entry-level skills for chiropractors?",
+      "answer": "85 percent."
+    },
+    {
+      "question": "What percentage of lifetime earnings is determined by work experience for food batchmakers?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What percentage of high school graduates have higher earnings potential than the median holders of associate degrees in the United States?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What percentage of associate degree holders could earn more than median bachelor\u2019s degree holders over their lifetimes?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "What percentage of high school graduates have higher earnings potential than the median holders of associate degrees?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What percentage of US workers are on track to move from the bottom lifetime earnings quintile to the top?",
+      "answer": "6.1 percent."
+    },
+    {
+      "question": "In which countries, apart from the US, did the study find similar shares of workers being upwardly mobile?",
+      "answer": "Germany and the United Kingdom."
+    },
+    {
+      "question": "What percentage of workers in India are on a path to move into higher earnings brackets?",
+      "answer": "23 percent."
+    },
+    {
+      "question": "What proportion of lifetime earnings is attributable to experience for the cohort that moved up in earnings?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "What are some of the barriers that prevent people from making leaps in their earnings?",
+      "answer": "Biases, the lasting effects of unequal education, and the lack of professional networks."
+    },
+    {
+      "question": "What percentage of lifetime earnings does experience account for in the cohort that moved up?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "What is the main difference in educational attainment between the most experience-driven and least experience-driven occupations in the United States?",
+      "answer": "The most experience-driven occupations have a greater share of high school graduates and associate degree holders, while the least experience-driven occupations have a greater share of college graduates."
+    },
+    {
+      "question": "How does the share of lifetime earnings associated with work experience vary between occupations with lower education requirements and those with higher education requirements?",
+      "answer": "Work experience accounts for a greater share of lifetime earnings in occupations with lower education requirements."
+    },
+    {
+      "question": "What is the share of lifetime earnings associated with work experience for restaurant servers in the United States?",
+      "answer": "57 percent."
+    },
+    {
+      "question": "What is the main reason for the difference in lifetime earnings between individuals who moved up the career ladder and those who stayed flat or dropped down?",
+      "answer": "Experience accounts for a larger percentage of lifetime earnings for the upwardly mobile group (60-80%) compared to those who stayed flat or dropped down (35-55%)."
+    },
+    {
+      "question": "What are the structural and social barriers that prevent people from advancing in their careers?",
+      "answer": "Biases, the lasting effects of unequal education, and the lack of professional networks."
+    },
+    {
+      "question": "In the United States, which occupations have a greater share of college graduates?",
+      "answer": "STEM professionals and Business and legal professionals."
+    },
+    {
+      "question": "What is the relationship between work experience and lifetime earnings in occupations with lower education requirements?",
+      "answer": "Work experience accounts for a greater share of lifetime earnings."
+    },
+    {
+      "question": "How is the share of lifetime earnings associated with work experience calculated?",
+      "answer": "By combining estimates based on salaries of roles held by a person during the observed work history plus projections for the remaining years of that person\u2019s working life."
+    },
+    {
+      "question": "In India, which occupation has a greater share of postgraduate degree holders?",
+      "answer": "Health professionals."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey\u2019s proprietary Organizational Data Platform, US Bureau of Labor Statistics, India\u2019s National Sample Survey Organisation and Periodic Labour Force Survey, and McKinsey Global Institute analysis."
+    },
+    {
+      "question": "How often does the average person switch roles according to the data set?",
+      "answer": "Every two to four years."
+    },
+    {
+      "question": "What is the median skill distance when a person switches roles?",
+      "answer": "25 to 45 percent, depending on the country."
+    },
+    {
+      "question": "What is the average wage increase when a person makes a role move?",
+      "answer": "6 to 10 percent."
+    },
+    {
+      "question": "What percentage of role moves involve pay increases?",
+      "answer": "Forty to 50 percent."
+    },
+    {
+      "question": "By how much do workers who make role moves with pay increases boost their earnings on average?",
+      "answer": "30 to 45 percent."
+    },
+    {
+      "question": "How are lifetime earnings calculated?",
+      "answer": "The sum of nominal salaries over an individual\u2019s 30-year working life, combining estimates based on salaries of roles held during the observed work history plus projections for the remaining years of a working life."
+    },
+    {
+      "question": "What is the definition of starting occupation?",
+      "answer": "The first role after the latest education reported on a public, de-identified online worker profile."
+    },
+    {
+      "question": "What is the average wage increase for role moves in the data set?",
+      "answer": "6 to 10 percent."
+    },
+    {
+      "question": "What percentage of role moves involved pay increases?",
+      "answer": "Forty to 50 percent."
+    },
+    {
+      "question": "By how much did workers who made role moves with pay increases boost their earnings on average?",
+      "answer": "30 to 45 percent."
+    },
+    {
+      "question": "What percentage of role moves involved someone leaving one employer for another?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What is the median skill distance for salary-increasing moves across countries?",
+      "answer": "35 to 50 percent."
+    },
+    {
+      "question": "How many moves did upwardly mobile individuals in the United States average during the observed period?",
+      "answer": "4.6 moves."
+    },
+    {
+      "question": "What was the average skill distance for upwardly mobile individuals in the United States and India?",
+      "answer": "30 to 40 percent."
+    },
+    {
+      "question": "What is the term used to describe moves involving high skill distances?",
+      "answer": "The term used is 'bold'."
+    },
+    {
+      "question": "What is the average boost in earnings when someone changes roles for higher pay?",
+      "answer": "The average boost is 30-45%."
+    },
+    {
+      "question": "What is the characteristic of 'Experience seekers' in terms of their career moves?",
+      "answer": "They start with lower-than-average wages but propel themselves upward by moving roles more frequently than their peers and stretching their capabilities substantially each time."
+    },
+    {
+      "question": "What is the characteristic of 'Early movers' in terms of their career moves?",
+      "answer": "They make bigger leaps in the first part of their career, quickly realizing their passion lies elsewhere and getting a break that enables them to move into a new field."
+    },
+    {
+      "question": "What percentage of workers in the United States are on track to move into a higher earning quintile?",
+      "answer": "32% is not stated for the US, but it is stated that 'In each country we studied, experience and role moves enable a significant share of workers to move into higher earning quintiles.' The US percentage is not directly stated, but the Germany section states 32%."
+    },
+    {
+      "question": "How is 'Experience capital' defined?",
+      "answer": "It is defined as the share of lifetime earnings associated with skills learned through experience."
+    },
+    {
+      "question": "What are 'Role moves' defined as?",
+      "answer": "Role moves are changes in an individual's job, occupation, occupation category, or organization, including promotions or lateral moves within the same organization as well as moves from one employer to another."
+    },
+    {
+      "question": "How is 'Average skill distance' measured?",
+      "answer": "It is measured as the share of nonoverlapping skill requirements between two roles, showing the proportion of new skills required when someone moves into a new role."
+    },
+    {
+      "question": "What are role moves in the context of an individual's career?",
+      "answer": "Changes in an individual\u2019s job, occupation, occupation category, or organization, including promotions or lateral moves within the same organization as well as moves from one employer to another."
+    },
+    {
+      "question": "How is average skill distance measured?",
+      "answer": "As the share of nonoverlapping skill requirements between two roles, which shows the proportion of new skills required when someone moves into a new role."
+    },
+    {
+      "question": "What is the basis for calculating lifetime earnings?",
+      "answer": "The sum total of the nominal salaries an individual receives over a 30-year working life, combining estimates based on salaries of roles held by a person during the observed work history plus projections for the remaining years of that person\u2019s working life."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018-19 job posting records; US Bureau of Labor Statistics; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What enables a significant share of workers to move into higher earning quintiles?",
+      "answer": "Experience and role moves."
+    },
+    {
+      "question": "How are skill requirements for each role identified?",
+      "answer": "Skill requirements for each role are identified from job posting data, weighted by skill frequency."
+    },
+    {
+      "question": "What is the basis for lifetime earnings estimates?",
+      "answer": "Lifetime earnings estimates are based on the sum total of nominal salaries an individual receives over a 30-year working life, combining observed work history and projections."
+    },
+    {
+      "question": "What are the three categories of career movers identified in the text?",
+      "answer": "The three categories are: Early movers, Late movers, and Lock-ins."
+    },
+    {
+      "question": "What characterizes the career path of 'Lock-ins'?",
+      "answer": "Lock-ins change jobs less frequently and make less dramatic changes when they do move, resulting in slower wage growth."
+    },
+    {
+      "question": "What factors help companies attract and retain talent?",
+      "answer": "Companies can attract and retain talent by recognizing potential, embracing mobility, and strengthening learning, particularly through structured training and opportunities for internal advancement."
+    },
+    {
+      "question": "What is the role of work experience in lifetime earnings for 'Lock-ins'?",
+      "answer": "Work experience accounts for about 30 percent of lifetime earnings for 'Lock-ins', compared to 60-70 percent for experience seekers and early movers."
+    },
+    {
+      "question": "What percentage of role moves made by individuals involved changing employers?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What are the three priorities companies can focus on to help individuals build their experience capital?",
+      "answer": "Understand the potential in people as well as their current knowledge and skills, Embrace mobility, and Strengthen coaching, and emphasize the new or first manager\u2019s role."
+    },
+    {
+      "question": "What is the benefit of early career experience at top companies?",
+      "answer": "It helps employees go on to become more upwardly mobile."
+    },
+    {
+      "question": "How can employers evaluate candidates beyond their current skills?",
+      "answer": "By evaluating candidates based on their capacity to learn, their intrinsic capabilities, and their transferable skills."
+    },
+    {
+      "question": "What percentage of role moves undertaken by individuals involved a skill distance of more than 25 percent?",
+      "answer": "More than half."
+    },
+    {
+      "question": "How can organizations support the development of employees?",
+      "answer": "By setting the expectation that part of a manager\u2019s job is developing people who will go on to other things, and creating clear paths toward future roles."
+    },
+    {
+      "question": "What percentage of human capital is accumulated over a working life through day-to-day skills development on the job?",
+      "answer": "almost half"
+    },
+    {
+      "question": "What are the factors associated with most of the differences in individuals' experience capital?",
+      "answer": "early exposure to an effective organization, followed by bold role moves"
+    },
+    {
+      "question": "What is the definition of 'bold' role moves?",
+      "answer": "moves involving high skill distances, which is the share of nonoverlapping skill requirements between two roles"
+    },
+    {
+      "question": "How long should formal onboarding last, according to the text?",
+      "answer": "six-month to one-year period"
+    },
+    {
+      "question": "What percentage of US workers consider learning new skills as an extremely or very important factor in deciding whether to take a new job or stay at their current job?",
+      "answer": "65 percent for taking a new job and 61 percent for staying at their current job"
+    },
+    {
+      "question": "What is the benefit of providing ongoing opportunities to learn for employees?",
+      "answer": "higher morale and reduced attrition"
+    },
+    {
+      "question": "What percentage of US workers said that learning new skills is an extremely or very important factor in deciding whether to take a new job?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "According to the US Bureau of Labor Statistics, how many Americans quit their jobs in 2021?",
+      "answer": "47 million."
+    },
+    {
+      "question": "What is associated with 50 percent of the variation in how experience adds to earnings?",
+      "answer": "Time spent early in a career with an effective organization."
+    },
+    {
+      "question": "Why are workers switching jobs, apart from higher pay?",
+      "answer": "Many people are also looking for better working environments and flexibility."
+    },
+    {
+      "question": "What determines whether a job move will pay off in the longer term?",
+      "answer": "Broader considerations."
+    },
+    {
+      "question": "What do companies that are true learning organizations do to make formal learning and development programs effective?",
+      "answer": "They build their own formulas, customized to their needs."
+    },
+    {
+      "question": "Who coined the term 'human capital'?",
+      "answer": "Jacob Mincer, Theodore Schultz, and Gary Becker."
+    },
+    {
+      "question": "Why did Jane have more career options than Jeanne five years after starting their jobs?",
+      "answer": "Jane's work experience was the differentiator that equipped her with skills and a track record that she could continue to leverage for decades."
+    },
+    {
+      "question": "What was the main difference between Jeanne's and Jane's workplaces?",
+      "answer": "Jeanne's workplace had outdated IT systems and a founder who delegated low-value tasks and rarely offered feedback, while Jane's workplace had cutting-edge BIM modeling tools and a principal who became her mentor."
+    },
+    {
+      "question": "What is the focus of the report discussed in the text?",
+      "answer": "The report focuses on how work experience enhances the value of human capital, taking a micro lens to the topic by drawing on millions of individual work histories."
+    },
+    {
+      "question": "Why did some critics object to the term 'human capital'?",
+      "answer": "They argued that it reduces the many complex dimensions of a person to an input of production that a company can 'acquire'."
+    },
+    {
+      "question": "What is human capital?",
+      "answer": "Human capital is simply the qualities and abilities that make people productive, defined as the knowledge, skills, competencies, and attributes individuals accumulate throughout their lives."
+    },
+    {
+      "question": "Why was the term 'human capital' initially met with criticism?",
+      "answer": "Some critics objected to the phrase, arguing that it reduces the many complex dimensions of a person to an input of production that a company can 'acquire', treating people as machines."
+    },
+    {
+      "question": "Who are the key economists associated with the concept of human capital?",
+      "answer": "Jacob Mincer, Theodore Schultz, and Gary Becker published seminal works framing education and training as investments in 'human capital'."
+    },
+    {
+      "question": "How does human capital differ from other forms of capital?",
+      "answer": "Human capital is unlike other forms of capital that a company owns and deploys at its own discretion, as individuals can choose to do something different even when employed by a company."
+    },
+    {
+      "question": "How does human capital develop?",
+      "answer": "Human capital develops in a dynamic process that begins in childhood and continues throughout education and an individual's working life."
+    },
+    {
+      "question": "What factors influence human capital?",
+      "answer": "Human capital is heavily influenced by contextual settings and develops over much of an individual's lifetime, starting with a set of personal characteristics, some of which are innate and some of which are instilled."
+    },
+    {
+      "question": "When does human capital development begin and continue throughout?",
+      "answer": "Human capital development begins in childhood and continues throughout education and an individual\u2019s working life."
+    },
+    {
+      "question": "What is a major determinant of where people start in the labor market?",
+      "answer": "Formal education is a major determinant of where people start in the labor market."
+    },
+    {
+      "question": "How do early influences affect human capital development?",
+      "answer": "Early influences have lifelong effects on human capital. Childhood advantages and disadvantages influence the later stages of human capital development, affecting the choices people make in their education and careers."
+    },
+    {
+      "question": "What role do families and communities play in human capital development?",
+      "answer": "Families and communities may nurture or neglect a child\u2019s development, fostering positive or negative traits that impact human capital."
+    },
+    {
+      "question": "What is necessary for people to thrive throughout a lifetime?",
+      "answer": "Health and well-being are necessary preconditions for people to thrive throughout a lifetime."
+    },
+    {
+      "question": "What can yield tremendous returns over a lifetime?",
+      "answer": "Early childhood education programs that establish a strong foundation for cognitive, linguistic, social, and emotional skills can yield tremendous returns over a lifetime."
+    },
+    {
+      "question": "What are the three stages of human capital development over a healthy, productive lifespan?",
+      "answer": "Early childhood development, education, and work experience."
+    },
+    {
+      "question": "What is the relationship between health and income at the macro level?",
+      "answer": "Health and income tend to improve in tandem, and studies have documented a correlation between countries with poor public health and countries that are poor."
+    },
+    {
+      "question": "What can alter human capital development at every stage?",
+      "answer": "Life experiences and individual decisions."
+    },
+    {
+      "question": "What are some life events that can adversely affect educational attainment and economic outcomes?",
+      "answer": "Events such as teenage pregnancy and losing parents before adulthood."
+    },
+    {
+      "question": "Who becomes the major incubator of skills development for adults?",
+      "answer": "Employers."
+    },
+    {
+      "question": "What is the role of employers in skills development for adults?",
+      "answer": "Employers become the major incubators of skills development for adults."
+    },
+    {
+      "question": "How do people accumulate experience and skills throughout their working life?",
+      "answer": "People accumulate experience and skills with each role they perform throughout a working life."
+    },
+    {
+      "question": "What is the definition of experience according to the research?",
+      "answer": "Experience is defined holistically as the accumulated knowledge workers gain by being in the labor market, whether through doing the work itself, formal employer-provided learning and development programs, and job changes that better match existing skills or offer opportunities to learn entirely new skills."
+    },
+    {
+      "question": "What is the value gained by workers from interacting with organizational practices and systems?",
+      "answer": "Workers gain valuable knowledge and experience from interacting with them\u2014and they carry these new capabilities wherever they go for the remainder of their career."
+    },
+    {
+      "question": "What is the outcome of combining human capital with physical, organizational, and other intangible capital?",
+      "answer": "The combination pays off immediately for companies (in the form of growth, profits, and innovation) and for workers (in the form of wages and life satisfaction linked to work)."
+    },
+    {
+      "question": "What determines the ease with which someone can find rewarding work?",
+      "answer": "Culture, values, and the health of the broader economy, including the level of unemployment, determine the ease with which someone can find rewarding work."
+    },
+    {
+      "question": "What is the role of work experience in signaling human capital's value?",
+      "answer": "Work experience is an important signal of human capital's value."
+    },
+    {
+      "question": "Why do prospective employers view a college degree as a desirable qualification?",
+      "answer": "Prospective employers view a college degree as a signal of a job seeker's intelligence and potential, generally assuming that more highly educated individuals will be more productive employees."
+    },
+    {
+      "question": "How did the sports reporter get his first job after graduating from college?",
+      "answer": "He got his first job solely on the strength of writing skills developed in school, both in formal English and journalism classes and at his college newspaper."
+    },
+    {
+      "question": "What factors contributed to the sports reporter's success in getting hired by subsequent publications?",
+      "answer": "The quality of his recent stories and the help of newsroom mentors who aided him in becoming a better interviewer and storyteller."
+    },
+    {
+      "question": "What role do newsroom mentors play in the development of a young writer?",
+      "answer": "Newsroom mentors help the young writer become a better interviewer and storyteller."
+    },
+    {
+      "question": "What is the effect of a spotty work history on a job candidate's prospects, despite having a degree from a prestigious university like Cambridge?",
+      "answer": "A spotty work history that does not show evidence of keeping skills current makes it less likely for a prospective employer to be swayed by the candidate's degree."
+    },
+    {
+      "question": "How can work experience serve as an alternative signal to education in the job market?",
+      "answer": "Work experience can enable better matches between job seekers and job vacancies by providing a signal of a person's capabilities through their acquired skills."
+    },
+    {
+      "question": "What is the challenge in measuring human capital?",
+      "answer": "Human capital is hard to measure because it reflects the human experience in all its complexity and its investment typically pays off over the very long term."
+    },
+    {
+      "question": "What are the two main approaches to measuring human capital?",
+      "answer": "The two main approaches are: 1) focusing on indicators, such as educational attainment or health status, and 2) measuring the value of human capital in monetary terms, such as the cost of investment or outcomes and returns attributed to it."
+    },
+    {
+      "question": "How did Robert Solow's model contribute to understanding the value of human capital?",
+      "answer": "Robert Solow constructed a model to illustrate how various inputs affect economic growth, and a residual portion could not be attributed to easily quantifiable factors, which later led to the inclusion of human capital as a critical driving force."
+    },
+    {
+      "question": "What are the two measurement approaches to human capital?",
+      "answer": "The first focuses on indicators, and the second attempts to measure the value of human capital in monetary terms."
+    },
+    {
+      "question": "What is the 'residual' in the context of measuring human capital?",
+      "answer": "A portion of economic growth that could not be attributed to easily quantifiable factors such as the savings rate or population growth."
+    },
+    {
+      "question": "Who constructed a model to illustrate how various inputs affect economic growth?",
+      "answer": "Robert Solow."
+    },
+    {
+      "question": "How can the monetary returns to human capital be estimated?",
+      "answer": "By measuring the present value of the labor force's future earnings."
+    },
+    {
+      "question": "What is job matching theory?",
+      "answer": "A theory that captures how outcomes in the labor market are the result of a two-sided dynamic of employers looking for workers and job seekers looking for work."
+    },
+    {
+      "question": "Why do workers make role moves according to the text?",
+      "answer": "To learn, advance, and build their experience capital, or to find roles that better match their work preferences or utilize latent capabilities."
+    },
+    {
+      "question": "What happens to the match between a worker's abilities and job requirements when a customer service representative is hired into a real estate broker role after gaining relevant skills and knowledge?",
+      "answer": "The move improves the match between her existing abilities and the skills required by the position."
+    },
+    {
+      "question": "Why does turnover occur according to the text?",
+      "answer": "Turnover occurs either when new information is acquired about the individual\u2019s current job or about a possible alternative job."
+    },
+    {
+      "question": "What is meant by the term 'experience goods' in the context of jobs?",
+      "answer": "The term 'experience goods' conveys that the only means of determining the quality of a given match is by making it and living it out."
+    },
+    {
+      "question": "How does turnover probability relate to job tenure and career stage?",
+      "answer": "Turnover declines with job tenure because new information that would result in someone quitting or being fired is introduced early on, and turnover probability could be highest at the beginning of a career."
+    },
+    {
+      "question": "What is the common thread in the study of human capital?",
+      "answer": "A common thread in the study of human capital is its association with education."
+    },
+    {
+      "question": "What did Robert Barro's study on human capital and economic growth find?",
+      "answer": "Robert Barro found a strong positive correlation between initial levels of human capital and subsequent growth in per capita GDP."
+    },
+    {
+      "question": "What is a common thread in the study of human capital?",
+      "answer": "Its association with education."
+    },
+    {
+      "question": "What have multiple studies concluded about additional years of schooling and formal skills training?",
+      "answer": "They are associated with increased income."
+    },
+    {
+      "question": "What did Robert Barro examine in his study and what did he find?",
+      "answer": "He examined 98 countries over a quarter century and found a strong positive correlation between their initial levels of human capital and their subsequent growth in per capita GDP."
+    },
+    {
+      "question": "What is another important aspect of human capital besides education?",
+      "answer": "Health."
+    },
+    {
+      "question": "How have health improvements affected the pace of economic growth in industrialized countries over the past century?",
+      "answer": "They increased the pace of economic growth by about one-third."
+    },
+    {
+      "question": "What is the focus of the research mentioned in the text?",
+      "answer": "Observed individual behavior, tracing the journeys of millions of workers to understand how work experience adds to their human capital over time."
+    },
+    {
+      "question": "What is the main driver of lifetime earnings besides formal education?",
+      "answer": "Work experience and the skills gained through it."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to accumulated work experience?",
+      "answer": "Roughly half."
+    },
+    {
+      "question": "How does the 'experience effect' vary across different groups?",
+      "answer": "It varies substantially across geographies, occupations, and sectors."
+    },
+    {
+      "question": "Who is more reliant on work experience to grow their earnings over time?",
+      "answer": "People with lower educational attainment."
+    },
+    {
+      "question": "Why is adding learning and skills through work experience important for some individuals?",
+      "answer": "For those who start without the advantage of credentials that signal value to potential employers, it is the primary strategy for getting ahead in the labor market."
+    },
+    {
+      "question": "What factors can constrain someone's options for gaining work experience and skills?",
+      "answer": "Factors ranging from family caregiving obligations to biases in hiring."
+    },
+    {
+      "question": "Who found that an additional year of education adds more to an individual\u2019s lifetime earnings than experience?",
+      "answer": "Jacob Mincer."
+    },
+    {
+      "question": "What is the approximate proportion of total wealth that human capital makes up per capita in the countries studied?",
+      "answer": "Roughly two-thirds."
+    },
+    {
+      "question": "How is the value of human capital approximated?",
+      "answer": "By lifetime earnings."
+    },
+    {
+      "question": "What happens to human capital when individuals earn wages?",
+      "answer": "Their human capital goes from being latent potential to realized economic value."
+    },
+    {
+      "question": "What is the shape of the curve representing returns to schooling?",
+      "answer": "A linear curve."
+    },
+    {
+      "question": "According to the text, what percentage of the previously unexplained increase in earnings for US workers is explained by returns to the education of workers?",
+      "answer": "36 to 70 percent."
+    },
+    {
+      "question": "What percentage of total wealth per capita is made up of human capital in the countries studied?",
+      "answer": "Roughly two-thirds."
+    },
+    {
+      "question": "How is the value of an individual's human capital expressed?",
+      "answer": "By looking at lifetime earnings."
+    },
+    {
+      "question": "Why is human capital not generally recognized as capital on the balance sheets of nations?",
+      "answer": "Because it cannot be owned and traded by an institution and is not normally accounted for as a capital asset."
+    },
+    {
+      "question": "How was the capitalized value of human capital approximated in the research?",
+      "answer": "By discounting the stream of nominal salaries a worker can be expected to receive over a 30-year working life."
+    },
+    {
+      "question": "What is the estimated value of an average worker's human capital in the United States?",
+      "answer": "In the range of $890,000 to $1,060,000."
+    },
+    {
+      "question": "What percentage of per capita wealth is accounted for by human capital in the United States, Germany, the United Kingdom, and India?",
+      "answer": "60 to 70 percent."
+    },
+    {
+      "question": "What is the average per capita net worth in the United States?",
+      "answer": "About $272,000."
+    },
+    {
+      "question": "How is lifetime earnings measured in the research?",
+      "answer": "The sum total of the nominal salaries an individual receives over a 30-year working life."
+    },
+    {
+      "question": "What is included in the estimate of lifetime earnings?",
+      "answer": "Salaries associated with roles held by a person during the observed work history and estimates for the remaining years of that person's working life."
+    },
+    {
+      "question": "How are future estimates of lifetime earnings calculated?",
+      "answer": "By applying national average salary growth to the wages associated with the individual's final observed occupation, assuming no additional role moves."
+    },
+    {
+      "question": "What is the source of the data used to estimate lifetime earnings?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, US Bureau of Labor Statistics, and McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What is observed in the data regarding lifetime earnings across different occupations?",
+      "answer": "Lifetime earnings vary widely by occupation, even within the same occupational category."
+    },
+    {
+      "question": "How is lifetime earnings measured in the research?",
+      "answer": "The sum total of the nominal salaries an individual receives over a 30-year working life."
+    },
+    {
+      "question": "What is included in the estimate of lifetime earnings?",
+      "answer": "Salaries associated with roles held by a person during the observed work history plus estimates for the remaining years of that person's working life."
+    },
+    {
+      "question": "How are future estimates of lifetime earnings calculated?",
+      "answer": "By applying national average salary growth to the wages associated with the individual's final observed occupation, assuming no additional role moves."
+    },
+    {
+      "question": "What is a limitation of using wages to express the economic value of human capital?",
+      "answer": "It is a narrow measurement that does not capture all of the benefits of education and all of the ways in which individuals contribute to others and to society."
+    },
+    {
+      "question": "Why might someone choose not to pursue a better-paying job?",
+      "answer": "For a variety of reasons, including passion for a particular field or activity, desire for autonomy and flexibility, or personal caregiving responsibilities."
+    },
+    {
+      "question": "What are the two major sets of factors that make someone employable?",
+      "answer": "First, the attributes and capabilities they bring to their first job; and second, skills added or deployed through work experience."
+    },
+    {
+      "question": "How do the authors estimate the share of lifetime earnings that can be attributed to work experience?",
+      "answer": "By tracking the new skills associated with role changes and making assumptions about how the salaries for each role link to new versus entry-level skills."
+    },
+    {
+      "question": "What data set do the authors draw on to analyze work histories?",
+      "answer": "A detailed data set covering the work histories of more than a million workers each in the United States, Germany, the United Kingdom, and India."
+    },
+    {
+      "question": "How is 'skill distance' between two roles measured?",
+      "answer": "As the number of nonoverlapping skills between the two roles, identified from job postings and weighted by skill frequency."
+    },
+    {
+      "question": "What is the focus of the authors' approach to understanding labor market dynamics?",
+      "answer": "How work experience builds on the foundation of formal education and adds to lifetime earnings."
+    },
+    {
+      "question": "How is skill distance measured when someone makes a role move?",
+      "answer": "Skill distance is measured as the number of nonoverlapping skills between the two roles."
+    },
+    {
+      "question": "What is the skill distance for a US worker moving from office clerk to shift manager?",
+      "answer": "The skill distance is 42 percent."
+    },
+    {
+      "question": "How are skills identified for each role?",
+      "answer": "Skills are identified for each role from job postings, weighted by skill frequency."
+    },
+    {
+      "question": "What is the definition of salaries used in the context?",
+      "answer": "Salaries are defined as the average yearly compensation provided for physical and knowledge work, not including benefits like health insurance, subsidies, and tax transfers."
+    },
+    {
+      "question": "What is the skill distance for a US worker moving from shift manager to store manager?",
+      "answer": "The skill distance is 54 percent."
+    },
+    {
+      "question": "How are salaries defined in the context of the text?",
+      "answer": "Salaries are defined as the average yearly compensation provided for physical and knowledge work, not including benefits like health insurance, subsidies, and tax transfers."
+    },
+    {
+      "question": "How is skill distance measured when someone makes a role move?",
+      "answer": "Skill distance is measured as the number of nonoverlapping skills between the two roles."
+    },
+    {
+      "question": "What is the source of the data used to identify skill requirements for each role?",
+      "answer": "The source is McKinsey's proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "How are skills identified for each role?",
+      "answer": "Skills are identified from job postings, weighted by skill frequency, which gives more weight to skills that are specialized to a particular role rather than common across roles."
+    },
+    {
+      "question": "What does the size of the circle represent in the illustration of skill distance?",
+      "answer": "The size of the circle represents the level of specialization of skills to a given role, with bigger circles indicating more specialized skills."
+    },
+    {
+      "question": "What is the source of the data used to estimate a typical starting salary for each role?",
+      "answer": "350 million job posting records over 2018 and 2019 from more than 50,000 job boards."
+    },
+    {
+      "question": "How many workers' data were used in the analysis for each of the four countries?",
+      "answer": "Approximately a million workers each in the United States, Germany, the United Kingdom, and India."
+    },
+    {
+      "question": "Why were the four countries chosen for the analysis?",
+      "answer": "To represent advanced economies with a variety of different labor markets plus a large and diverse developing economy."
+    },
+    {
+      "question": "How was the sample reweighted?",
+      "answer": "To reflect each country's occupational mix, drawing on data from national labor agencies."
+    },
+    {
+      "question": "What was done to the data to ensure accurate comparisons of roles, salaries, and skills?",
+      "answer": "All data have been de-duplicated, cleaned, and harmonized using a proprietary algorithm."
+    },
+    {
+      "question": "Why were the focus countries chosen for the analysis?",
+      "answer": "The focus countries were chosen to represent advanced economies with a variety of different labor markets plus a large and diverse developing economy."
+    },
+    {
+      "question": "How often did individuals in the data set change roles?",
+      "answer": "Individuals in the data set changed roles every two to four years."
+    },
+    {
+      "question": "What proportion of role moves resulted in higher earnings?",
+      "answer": "Half of their moves resulted in higher earnings."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey\u2019s proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; US Bureau of Labor Statistics; Germany\u2019s Federal Employment Agency, BA; India\u2019s National Sample Survey Organisation and Periodic Labour Force Survey; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What is one limitation of the analysis?",
+      "answer": "Self-reporting, as online professional profiles are self-reported and could reflect biases due to selective reporting of work and education histories."
+    },
+    {
+      "question": "How was the sample reweighted?",
+      "answer": "The sample was reweighted to reflect each country\u2019s occupational mix, drawing on data from national labor agencies."
+    },
+    {
+      "question": "What was the average increase in salary per move for salary-increasing moves only in India?",
+      "answer": "46%."
+    },
+    {
+      "question": "Why might online professional profiles under-represent internal role moves?",
+      "answer": "Because individuals may not update their profiles for internal promotions but are more likely to do so when moving to a new employer."
+    },
+    {
+      "question": "What percentage of workers are estimated to be missing from the sample in the United States?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "Why might the experience effect be underestimated in India?",
+      "answer": "Because workers missing from the sample are predominantly in low-paid and highly experience-reliant occupations and are seeing the highest wage growth, most of which can be attributed to work experience."
+    },
+    {
+      "question": "What is a potential bias in reweighting underweighted low-paid occupations?",
+      "answer": "Reweighting based on the behavior of a small, digitally savvy subset of workers may lead to overestimating the experience effect."
+    },
+    {
+      "question": "How do the authors capture the effect of work experience on salary when there is no role change?",
+      "answer": "By attributing average yearly raises for the occupation (based on historical rates of wage growth) to work experience for the period of time someone stays in a given role."
+    },
+    {
+      "question": "What personal and demographic characteristics are not captured in the data set?",
+      "answer": "Gender, race, age, place, health, family and economic circumstances, social networks, personal traits, and motivations."
+    },
+    {
+      "question": "What information is available in the data set about workers?",
+      "answer": "Country, occupation, sector, and organizational affiliations."
+    },
+    {
+      "question": "What is the data set drawn from?",
+      "answer": "De-identified online professional profiles."
+    },
+    {
+      "question": "How do the authors estimate lifetime earnings?",
+      "answer": "By combining salaries associated with each role during the observed work history with future projections to span a 30-year working life."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience on average in the four focus countries?",
+      "answer": "46 percent."
+    },
+    {
+      "question": "How does the contribution of work experience to lifetime earnings vary across countries?",
+      "answer": "The contribution looks strikingly similar across the United States, Germany, and the United Kingdom, but is far higher in India."
+    },
+    {
+      "question": "What is the role of education in determining a worker's earnings?",
+      "answer": "Education is a major determinant of a worker's starting point, and there is a strong correlation between higher education and higher earnings."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience in the United States?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "How does the contribution of work experience to lifetime earnings in India compare to other countries?",
+      "answer": "The effect is far higher in India."
+    },
+    {
+      "question": "What is the average share of lifetime earnings linked to work experience in advanced economies?",
+      "answer": "40-43%."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience in Germany and the United Kingdom?",
+      "answer": "43 percent."
+    },
+    {
+      "question": "How does the share of the population with tertiary education in Germany compare to the United States and the United Kingdom?",
+      "answer": "Germany has a notably lower share of the population with tertiary education (around 30 percent) compared to the United States and the United Kingdom (around 50 percent)."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience in India?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "What is the average share of lifetime earnings linked to work experience in advanced economies?",
+      "answer": "40-43%"
+    },
+    {
+      "question": "How is lifetime earnings calculated?",
+      "answer": "Lifetime earnings are the sum of nominal salaries over an individual\u2019s 30-year working life."
+    },
+    {
+      "question": "What is the basis for attributing wage increases to work experience or entry-level skills?",
+      "answer": "Wage increases while in the same job are attributed to work experience, as is a proportion of new salary after a role move, based on the share of new skills required in the new role. The ability to acquire the first job, and therefore the first job\u2019s salary, is entirely attributed to entry-level skills."
+    },
+    {
+      "question": "How many individual career profiles were sampled for the US?",
+      "answer": "410,000"
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey\u2019s proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; US Bureau of Labor Statistics; Germany\u2019s Federal Employment Agency, BA; India\u2019s National Sample Survey Organisation and Periodic Labour Force Survey; McKinsey Global Institute analysis"
+    },
+    {
+      "question": "What percentage of average lifetime earnings is attributed to work experience in advanced economies?",
+      "answer": "40 to 43 percent."
+    },
+    {
+      "question": "What percentage of average lifetime earnings is attributed to work experience in India?",
+      "answer": "58 percent."
+    },
+    {
+      "question": "How is the proportion of lifetime earnings attributable to work experience and entry-level skills calculated?",
+      "answer": "Based on the area under the curve of wage increases over an individual's 30-year working life."
+    },
+    {
+      "question": "What is the source of the data used to analyze lifetime earnings?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; US Bureau of Labor Statistics; Germany's Federal Employment Agency, BA; India's National Sample Survey Organisation and Periodic Labour Force Survey; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "Why is work experience a more important driver of income in India?",
+      "answer": "Because access to education remains a key challenge, with only 12 percent of working-age adults having tertiary education in 2020."
+    },
+    {
+      "question": "What is the focus of the analysis in the given text?",
+      "answer": "The proportion of lifetime earnings attributable to entry-level skills versus experience."
+    },
+    {
+      "question": "Why is work experience a bigger determinant for some people?",
+      "answer": "For people who start in occupations without significant credentialing barriers."
+    },
+    {
+      "question": "How do lifetime earnings vary across occupations?",
+      "answer": "Lifetime earnings vary enormously across occupations, and so does the relative importance of entry-level skills and work experience in those earnings."
+    },
+    {
+      "question": "What is the relationship between educational barriers and lifetime earnings?",
+      "answer": "People who start out in occupations with higher educational and credentialing barriers (such as lawyers and dentists) earn more over their lifetimes."
+    },
+    {
+      "question": "What percentage of a food batchmaker's lifetime earnings is linked to work experience?",
+      "answer": "87%."
+    },
+    {
+      "question": "What is the average share of lifetime earnings linked to work experience in India?",
+      "answer": "58%."
+    },
+    {
+      "question": "How much of a chiropractor's lifetime earnings is attributed to work experience?",
+      "answer": "Only 15 percent."
+    },
+    {
+      "question": "What is the average share of lifetime earnings linked to work experience in India?",
+      "answer": "58%."
+    },
+    {
+      "question": "What percentage of a food batchmaker's lifetime earnings is linked to work experience?",
+      "answer": "87%."
+    },
+    {
+      "question": "In the United States, what is the experience share of lifetime earnings if an individual continues to make role moves with the same frequency and skill distance as in the observed period?",
+      "answer": "44 percent."
+    },
+    {
+      "question": "What type of occupations in the United States have a greater share of high school graduates and associate degree holders?",
+      "answer": "Most experience-driven occupations, such as Agriculture."
+    },
+    {
+      "question": "In India, what type of degree holders are more prevalent in the 'Most experience-driven' occupations like Builders?",
+      "answer": "High school, associate, and bachelor's degree holders."
+    },
+    {
+      "question": "What is the average skill distance per role move for physicians in the United States?",
+      "answer": "25 percent."
+    },
+    {
+      "question": "How many times do commercial pilots move on average, and what is their average skill distance per move?",
+      "answer": "3.1 times, with an average skill distance of 65 percent per move."
+    },
+    {
+      "question": "On average, how many times do workers move in their careers?",
+      "answer": "3.1 times."
+    },
+    {
+      "question": "What is the average skill distance per move for workers?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "Do occupations with higher lifetime earnings have a larger or smaller share attributable to work experience?",
+      "answer": "A smaller share."
+    },
+    {
+      "question": "In which country is the experience effect lowest for nursing assistants?",
+      "answer": "India."
+    },
+    {
+      "question": "What is the R-squared value for the correlation between lifetime earnings and share attributable to work experience in the United States?",
+      "answer": "0.48."
+    },
+    {
+      "question": "What percentage of lifetime earnings is associated with work experience for psychiatric technicians in the United Kingdom?",
+      "answer": "21 percent."
+    },
+    {
+      "question": "For which occupation is the experience effect highest in Germany?",
+      "answer": "Grounds maintenance workers."
+    },
+    {
+      "question": "What is the sample weighted average share of lifetime earnings associated with work experience in the United States?",
+      "answer": "40%."
+    },
+    {
+      "question": "What is the correlation between the two indicators represented in the data?",
+      "answer": "The correlation between the two indicators (R-squared) is -0.48."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "The data is sourced from McKinsey\u2019s proprietary Organizational Data Platform, US Bureau of Labor Statistics, and McKinsey Global Institute analysis."
+    },
+    {
+      "question": "How is 'Lifetime earnings' defined in the context of this analysis?",
+      "answer": "Lifetime earnings are the sum of nominal salaries over an individual\u2019s 30-year working life."
+    },
+    {
+      "question": "What is the share of earnings associated with work experience and entry-level skills for Restaurant servers over their lifetime?",
+      "answer": "For Restaurant servers, the share of earnings associated with work experience is 57% and entry-level skills is 43% over their lifetime."
+    },
+    {
+      "question": "How is the attribution of salary to entry-level skills and work experience done?",
+      "answer": "The ability to acquire the first job, and therefore the first job\u2019s salary, is attributed entirely to entry-level skills. Wage increases while in the same job are attributed to work experience, as is a proportion of new salary after a role move, based on the share of new skills required in the new role."
+    },
+    {
+      "question": "How are lifetime earnings defined?",
+      "answer": "Lifetime earnings are the sum of nominal salaries over an individual\u2019s 30-year working life."
+    },
+    {
+      "question": "What data sources are used to estimate lifetime earnings?",
+      "answer": "McKinsey\u2019s proprietary Organizational Data Platform, UK Office for National Statistics, US Bureau of Labor Statistics, Germany\u2019s Federal Employment Agency, BA, India\u2019s National Sample Survey Organisation and Periodic Labour Force Survey, and McKinsey Global Institute analysis."
+    },
+    {
+      "question": "Do occupations or sectors have a greater impact on determining the role of work experience in building human capital?",
+      "answer": "Occupations matter more than sectors in determining the role of work experience in building human capital."
+    },
+    {
+      "question": "Why do sectors have smaller differences in the share of lifetime earnings associated with work experience?",
+      "answer": "Sectors aggregate many occupations, and each sector employs people in a wide range of occupations with varying education requirements."
+    },
+    {
+      "question": "What percentage of lifetime income is derived from work experience in the US internet and software services sector?",
+      "answer": "27 percent."
+    },
+    {
+      "question": "Which sector has the highest experience effect in the United Kingdom?",
+      "answer": "The consumer durables and apparel (leisure products) sector, at 52 percent."
+    },
+    {
+      "question": "In which sector is the experience effect highest in the consumer durables and apparel industry?",
+      "answer": "The experience effect is highest in the consumer durables and apparel (leisure products) sector, at 52 percent in general, and 75 percent in India."
+    },
+    {
+      "question": "What is the share of lifetime income derived from work experience in Germany's airline sector?",
+      "answer": "The share of lifetime income derived from work experience in Germany's airline sector is 54 percent."
+    },
+    {
+      "question": "What occupations drive the higher share of lifetime income from work experience in the consumer durables and apparel sector?",
+      "answer": "Occupations like retail salesperson and operations managers drive the higher share in general, and sales representatives and new accounts clerks in India."
+    },
+    {
+      "question": "How can individuals maximize the experience effect?",
+      "answer": "Individuals can maximize the experience effect by making choices that involve changing roles, particularly into new roles that offer the chance to learn and take on new types of responsibilities."
+    },
+    {
+      "question": "What is the correlation between additional years of schooling and income?",
+      "answer": "Multiple studies have found a strong correlation between additional years of schooling and increased income."
+    },
+    {
+      "question": "What is the difference in lifetime earnings between US high school graduates and college graduates from 1979 to 2012?",
+      "answer": "The gap in earnings between US high school graduates and college graduates doubled in size from 1979 to 2012."
+    },
+    {
+      "question": "Do less educated workers see the same rate of wage growth as more educated workers?",
+      "answer": "On average, less educated workers see roughly the same rate of wage growth as more educated workers."
+    },
+    {
+      "question": "What do many employers rely on as a signal of a candidate's employability?",
+      "answer": "College degrees."
+    },
+    {
+      "question": "Do less educated workers see the same rate of wage growth as more educated workers?",
+      "answer": "Yes, on average, less educated workers see roughly the same rate of wage growth as more educated workers."
+    },
+    {
+      "question": "What percentage of high school graduates have higher earning potential than the median holders of associate degrees?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What percentage of associate degree holders could earn more than the median holders of bachelor's degrees over their lifetimes?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "What proportion of workers in advanced economies have the potential to move up one or more earning quintiles from their career starting point?",
+      "answer": "Roughly one-third."
+    },
+    {
+      "question": "What percentage of workers in the United States have the potential to move up one or more earning quintiles from their career starting point?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What percentage of high school graduates have higher earning potential than the median holders of associate degrees?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What percentage of associate degree holders could earn more than the median holders of bachelor\u2019s degrees over their lifetimes?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "What percentage of workers in the United States have the potential to move up one or more earning quintiles from their career starting point?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What percentage of lifetime earnings is linked to work experience for the upwardly mobile cohort?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "How often does the average person in the data set change roles?",
+      "answer": "Every two to four years."
+    },
+    {
+      "question": "What percentage of role moves involve someone joining a new employer?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What percentage of US workers are on track to move from the bottom to the top quintile in earnings?",
+      "answer": "6.1 percent."
+    },
+    {
+      "question": "What percentage of US children were able to move into a higher income quintile than their parents, according to other research?",
+      "answer": "36.7 percent."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience for individuals who experience career advancement?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "How often do people change roles on average according to the data set?",
+      "answer": "Every two to four years."
+    },
+    {
+      "question": "What is the average salary increase for each role move in the data set?",
+      "answer": "6 to 10 percent."
+    },
+    {
+      "question": "What percentage of role moves involved wage increases?",
+      "answer": "40 to 50 percent."
+    },
+    {
+      "question": "By how much did the earnings of individuals who made salary-increasing moves increase on average with each job change?",
+      "answer": "30 to 45 percent."
+    },
+    {
+      "question": "What percentage of role moves involved someone moving from one organization to another?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What percentage of role moves in the US involved leaps in skill distances of more than 80 percent?",
+      "answer": "About 10 percent."
+    },
+    {
+      "question": "What was the median number of years a US wage and salary worker had been with their current employer in January 2020?",
+      "answer": "4.1 years."
+    },
+    {
+      "question": "What is the term used to describe moves involving high skill distances?",
+      "answer": "Bold."
+    },
+    {
+      "question": "What was the median skill distance for wage-enhancing job moves across countries?",
+      "answer": "35 to 50 percent."
+    },
+    {
+      "question": "What percentage of role moves involved a skill distance greater than 25 percent?",
+      "answer": "More than half."
+    },
+    {
+      "question": "Why do individuals often have to go to a new environment to take on more senior roles?",
+      "answer": "Because many employers do not have internal advancement tracks that are wide enough to keep most people growing and working toward higher rewards over time."
+    },
+    {
+      "question": "What is the '80-20 dynamic' referred to in the text?",
+      "answer": "80 percent of individuals get promoted into more senior roles or branch into different specializations within their existing organizations, while the remaining percentage do not."
+    },
+    {
+      "question": "What is the definition of 'skill distance' between two roles?",
+      "answer": "The nonoverlapping portion of their respective skill requirements."
+    },
+    {
+      "question": "How is 'skill distance' measured when someone makes a role move?",
+      "answer": "As the number of skills that are not retained from the preceding role as a proportion of the number of skills required in the current role."
+    },
+    {
+      "question": "What is considered a 'bolder' role move?",
+      "answer": "One in which the skill distance is in the top quartile."
+    },
+    {
+      "question": "What was the average increase in salary per role move according to the data?",
+      "answer": "The text does not provide a direct answer, but it mentions that role moves boosted earnings by up to 30 to 45 percent."
+    },
+    {
+      "question": "What is the median skill distance for wage-reducing role moves across countries?",
+      "answer": "Only 20 to 40 percent."
+    },
+    {
+      "question": "What is involved in an upward career move?",
+      "answer": "Gaining the opportunity to take on new challenges and maintain upward momentum in the future, and may involve a major learning opportunity or a better match to deploy existing skills."
+    },
+    {
+      "question": "What is the median skill distance for wage-reducing role moves across countries?",
+      "answer": "20 to 40 percent."
+    },
+    {
+      "question": "What is characteristic of the most upwardly mobile cohorts in the sample?",
+      "answer": "They make more frequent and bolder moves."
+    },
+    {
+      "question": "How many moves did upwardly mobile people in the United States average during the observed period?",
+      "answer": "4.6 moves."
+    },
+    {
+      "question": "What was the average skill distance of moves made by upwardly mobile US workers?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "Why may women be less likely to apply for roles unless they are fully qualified?",
+      "answer": "This is supported by studies such as LinkedIn Talent Insights and Harvard Business Review, which suggest women tend to be more cautious in applying for jobs."
+    },
+    {
+      "question": "What enabled the hypothetical billing clerk to move up in his career?",
+      "answer": "He made bold moves by taking on new roles, such as being promoted to accountant and then becoming a credit analyst at a regional bank."
+    },
+    {
+      "question": "What percentage of lifetime earnings is associated with skills learned through experience?",
+      "answer": "The share of lifetime earnings associated with skills learned through experience is discussed in Exhibit 1, but the exact percentage is not directly stated in the given text. However, according to the text, '45 Human capital at work: The value of experience' and 'In each country we studied, experience and role moves enable a significant share of workers to move into higher earning quintiles,' it implies the importance of experience."
+    },
+    {
+      "question": "What is the average number of role moves per person made over 10 years?",
+      "answer": "The average number of role moves per person made over 10 years is referred to as 'Role moves\u00b2' in the tables provided for different countries, such as the United States and Germany."
+    },
+    {
+      "question": "How is 'Average skill distance' measured?",
+      "answer": "Average skill distance is measured as the share of nonoverlapping skill requirements between two roles, showing the proportion of new skills required when someone moves into a new role."
+    },
+    {
+      "question": "What is the share of workers who are on track to move into a higher quintile in the United States?",
+      "answer": "30% and 32% of individuals are on track to move into a higher quintile according to the charts 'Where they started Where they end up\u2074' for the United States."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "The data used in the analysis is sourced from McKinsey's proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records, UK Office for National Statistics, US Bureau of Labor Statistics, Germany's Federal Employment Agency, BA, India's National Sample Survey Organisation, and Periodic Labour Force Survey."
+    },
+    {
+      "question": "How are role moves measured in the given context?",
+      "answer": "Role moves are measured as the share of nonoverlapping skill requirements between two roles, showing the proportion of new skills required when someone moves into a new role."
+    },
+    {
+      "question": "What data sources are used by McKinsey's proprietary Organizational Data Platform?",
+      "answer": "McKinsey's proprietary Organizational Data Platform draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; US Bureau of Labor Statistics; Germany\u2019s Federal Employment Agency, BA; India\u2019s National Sample Survey Organisation and Periodic Labour Force Survey."
+    },
+    {
+      "question": "What is the significance of experience and role moves in the countries studied?",
+      "answer": "In each country studied, experience and role moves enable a significant share of workers to move into higher earning quintiles."
+    },
+    {
+      "question": "How is the average skill distance defined?",
+      "answer": "Average skill distance is measured as the proportion of new skills required when someone moves into a new role, weighted by skill frequency."
+    },
+    {
+      "question": "What percentage of individuals in the UK are on track to move into a higher quintile?",
+      "answer": "34% of individuals in the UK are on track to move into a higher quintile."
+    },
+    {
+      "question": "What percentage of individuals in India are on track to move into a higher quintile?",
+      "answer": "23% of individuals in India are on track to move into a higher quintile."
+    },
+    {
+      "question": "How often did Indian workers change roles over their careers?",
+      "answer": "Indian workers changed roles every 4.2 years over their careers."
+    },
+    {
+      "question": "How does the frequency of role moves in India compare to advanced economies?",
+      "answer": "Workers in advanced economies moved every 2.5 to 3.4 years, more frequently than Indian workers who moved every 4.2 years."
+    },
+    {
+      "question": "What was the average skill distance for upwardly mobile workers in India?",
+      "answer": "The average skill distance for upwardly mobile workers in India was 30 percent."
+    },
+    {
+      "question": "What percentage of customer service representatives in the UK start in the bottom quintile of earnings?",
+      "answer": "Three-quarters of customer service representatives in the UK start in the bottom quintile of earnings."
+    },
+    {
+      "question": "What percentage of customer service representatives in the UK remained in the bottom quintile of lifetime earnings?",
+      "answer": "42 percent of customer service representatives in the UK remained in the bottom quintile of lifetime earnings."
+    },
+    {
+      "question": "What new skills did customer service representatives in the UK acquire when they moved roles?",
+      "answer": "They acquired new skills like digital design engineering, solution architecture, and operating systems and visualization."
+    },
+    {
+      "question": "What percentage of UK customer service representatives who started in the lowest earnings bracket are expected to move into the top two quintiles?",
+      "answer": "A quarter."
+    },
+    {
+      "question": "What was the average number of years of post-education work experience for the UK customer service representatives analyzed?",
+      "answer": "6.8 years."
+    },
+    {
+      "question": "What new skills did customer service representatives who moved into computer occupations acquire?",
+      "answer": "Digital design engineering, solution architecture, operating systems, and visualization."
+    },
+    {
+      "question": "What percentage of customer service representatives remained in the same role?",
+      "answer": "42% remained."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, UK Office for National Statistics, and McKinsey Global Institute analysis."
+    },
+    {
+      "question": "How is skill distance measured?",
+      "answer": "Skill distance is measured as the share of nonoverlapping skill requirements between two roles."
+    },
+    {
+      "question": "What data sources were used for McKinsey's analysis?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What percentage of individuals who began in the bottom quintile of starting wages remained in the same role?",
+      "answer": "42% remained in the same role."
+    },
+    {
+      "question": "What new skills were acquired by individuals who moved into sales representatives, sales managers, or management analysts roles?",
+      "answer": "Process management, customer research, data analytics."
+    },
+    {
+      "question": "What was the outcome for a quarter of low-paid customer service representatives in the UK?",
+      "answer": "They would vault into the top two earnings quintiles."
+    },
+    {
+      "question": "What was the outcome for half of the service sales representatives in India who started in the bottom quintile of earnings?",
+      "answer": "They would remain at the bottom in projected lifetime earnings."
+    },
+    {
+      "question": "What new skills were acquired by service sales representatives in India who advanced into higher lifetime earnings brackets?",
+      "answer": "General operational capabilities, process management, and leadership."
+    },
+    {
+      "question": "What percentage of service sales reps in India who started in the bottom quintile of earnings remained in the bottom quintile?",
+      "answer": "52%"
+    },
+    {
+      "question": "What skills did service sales representatives in India acquire who moved into higher quintiles of earnings?",
+      "answer": "Leadership, general operations, process management, and external communications for those who moved to top or 2nd quintile; data analytics, digital marketing, and performance management for those who moved to senior sales representatives or financial analysts; organizational skills and accounting software programs for those who remained in the same quintile."
+    },
+    {
+      "question": "What was the average number of role moves made per person over 10 years for service sales representatives in India?",
+      "answer": "2.68 for those who moved to top or 2nd quintile, 2.67 for those who remained in the same or lower quintile, and 2.5 for those who stayed in the same quintile."
+    },
+    {
+      "question": "What percentage of people in computer occupations in the United States who started in the third quintile of earnings moved into higher quintiles?",
+      "answer": "11%"
+    },
+    {
+      "question": "What skills did individuals in computer occupations in the United States deploy when they moved into higher quintiles of earnings?",
+      "answer": "Higher-level technical skills such as solution architecture and use of development tools as computer programmers."
+    },
+    {
+      "question": "What percentage of the original cohort dropped to the lowest earning quintile?",
+      "answer": "Almost a quarter."
+    },
+    {
+      "question": "What type of work did some people who dropped down to lower earning quintiles take on?",
+      "answer": "Administrative office work."
+    },
+    {
+      "question": "How many years of post-education work experience did the individuals in the US occupational example have on average?",
+      "answer": "15 years."
+    },
+    {
+      "question": "How is lifetime earnings calculated?",
+      "answer": "The sum total of the nominal salaries an individual receives over a 30-year working life."
+    },
+    {
+      "question": "What is 'skill distance' measured as?",
+      "answer": "The share of nonoverlapping skill requirements between two roles."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey's proprietary Organizational Data Platform, US Bureau of Labor Statistics, and McKinsey Global Institute analysis."
+    },
+    {
+      "question": "How many people were in the smaller universe of data set analyzed to identify distinct archetypes?",
+      "answer": "20,000 to 60,000 people."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey\u2019s proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; US Bureau of Labor Statistics; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience for 'experience seekers'?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "How do 'experience seekers' boost their earnings?",
+      "answer": "By switching jobs more frequently and stretching their capabilities substantially each time."
+    },
+    {
+      "question": "What are the characteristics of individuals who are likely to be 'experience seekers'?",
+      "answer": "More adaptable, confident, restless, and risk-tolerant personalities."
+    },
+    {
+      "question": "In how many countries were the patterns of the four archetypes consistent?",
+      "answer": "Four countries: the United States, the United Kingdom, India, and Germany."
+    },
+    {
+      "question": "What percentage of lifetime earnings is attributed to work experience for 'early movers'?",
+      "answer": "60 to 80 percent."
+    },
+    {
+      "question": "What is the average number of role moves made by 'experience seekers'?",
+      "answer": "5.2 per person."
+    },
+    {
+      "question": "Which group makes bolder moves after 5 years in their career?",
+      "answer": "'Late movers'."
+    },
+    {
+      "question": "What is the share of the sample attributed to 'experience seekers'?",
+      "answer": "46.1%."
+    },
+    {
+      "question": "How is 'skill distance' measured?",
+      "answer": "As the share of nonoverlapping skill requirements between two roles."
+    },
+    {
+      "question": "What is the largest group of workers in the sample?",
+      "answer": "The largest group of workers in the sample are those who leave one industry or profession and go into another, such as a journalist going into corporate communications or a mechanical engineer going into aerospace."
+    },
+    {
+      "question": "What percentage of lifetime earnings is accounted for by work experience for 'lock-ins'?",
+      "answer": "About 30 percent."
+    },
+    {
+      "question": "What is the main factor that propels 'experience seekers' and 'early movers' to higher earnings?",
+      "answer": "Early, bold, and frequent movement."
+    },
+    {
+      "question": "Why is facilitating learning and role moves gaining urgency?",
+      "answer": "Because the adoption of automation technologies is accelerating and significant shares of the workforce will need to adapt to changing job requirements or change roles altogether."
+    },
+    {
+      "question": "Which occupations are more susceptible to automation?",
+      "answer": "Individuals starting their careers in lower-pay, experience-reliant occupations, such as construction laborers, food servers, and pharmacy technicians."
+    },
+    {
+      "question": "How has the COVID-19 pandemic affected the way people work?",
+      "answer": "It accelerated the technological shift toward remote and hybrid work."
+    },
+    {
+      "question": "How many occupations have both high remote work potential and high reliance on experience?",
+      "answer": "134 occupations contributing to 15 percent of the labor force."
+    },
+    {
+      "question": "What is the criteria for an occupation to be considered as having high remote work potential?",
+      "answer": "21 percent or more of time can be spent remotely."
+    },
+    {
+      "question": "What is the criteria for an occupation to be considered as having high reliance on experience?",
+      "answer": "More than 40 percent of lifetime earnings are associated with work experience."
+    },
+    {
+      "question": "What is the correlation between the share of lifetime earnings associated with work experience and automation potential?",
+      "answer": "The correlation between the two indicators (R-squared) is -0.48."
+    },
+    {
+      "question": "What is a potential risk associated with a distributed and virtual world of work?",
+      "answer": "On-the-job training may become more challenging due to reduced face-to-face interaction and fewer unplanned coaching 'moments'."
+    },
+    {
+      "question": "What is the source of the data used in the analysis?",
+      "answer": "McKinsey\u2019s proprietary Organizational Data Platform, which draws on licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; US Bureau of Labor Statistics; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What is the correlation between the two indicators?",
+      "answer": "The correlation between the two indicators (R-squared) is -0.48."
+    },
+    {
+      "question": "What is the risk associated with on-the-job training in a distributed and virtual world of work?",
+      "answer": "The risk is that on-the-job training may become more challenging due to reduced face-to-face interaction and fewer unplanned coaching \u201cmoments.\u201d Sponsorship may be weaker for remote workers relative to those who work on-site."
+    },
+    {
+      "question": "What type of occupations have the lowest remote working potential?",
+      "answer": "Individuals starting their careers in lower-pay, highly experience-reliant occupations have the lowest remote working potential."
+    },
+    {
+      "question": "What percentage of the labor force is in occupations with low potential for remote work?",
+      "answer": "17 percent of the labor force is in 166 occupations with low potential for remote work."
+    },
+    {
+      "question": "What has David Autor found regarding the majority of jobs performed in 2018?",
+      "answer": "David Autor has found that the majority of jobs performed in 2018 did not exist in 1940."
+    },
+    {
+      "question": "What is the need that remains unchanged according to the text?",
+      "answer": "The need to make it feasible for workers to acquire new skills and make more seamless transitions."
+    },
+    {
+      "question": "What kind of occupations have limited potential for remote work?",
+      "answer": "Occupations that are more reliant on work experience and have lower lifetime earnings."
+    },
+    {
+      "question": "What is attributed to work experience in terms of salary?",
+      "answer": "Wage increases while in the same job, and a proportion of new salary after making a role move, based on the share of new skills required in the new role."
+    },
+    {
+      "question": "What was Alice's job before she became a computer support specialist?",
+      "answer": "A service sales representative for a midsize regional sales company in Manchester."
+    },
+    {
+      "question": "Why did Alice take four short online courses?",
+      "answer": "To expand her digital skills and improve her job prospects."
+    },
+    {
+      "question": "What did Alice do to improve her job prospects?",
+      "answer": "She took four short online courses to expand her digital skills."
+    },
+    {
+      "question": "Why was Alice frustrated with her job as a computer support specialist?",
+      "answer": "Her company had eliminated all internal talent development initiatives due to a push for cost savings."
+    },
+    {
+      "question": "What role did Alice get after leaving her computer support specialist job?",
+      "answer": "She became a marketing associate."
+    },
+    {
+      "question": "Why did Alice leave her marketing job?",
+      "answer": "Her partner was offered a rotation at his company's London office, and they decided to move."
+    },
+    {
+      "question": "What is Alice's current job title?",
+      "answer": "She is a senior marketing manager."
+    },
+    {
+      "question": "Why did Karla leave her administrative job at her friend's local real estate business?",
+      "answer": "She tired of her friend's unstructured management."
+    },
+    {
+      "question": "What opportunity did Karla's new employer offer her?",
+      "answer": "They offered her a broker position, sent her to training seminars, and paired her with a senior broker."
+    },
+    {
+      "question": "What is Karla's current job title?",
+      "answer": "She is a regional sales manager."
+    },
+    {
+      "question": "Why did Karla's previous employer not promote her to become a broker?",
+      "answer": "Her manager passed her off to the human resources department, which never followed up."
+    },
+    {
+      "question": "What training and support did Karla receive from her firm when she was offered the job?",
+      "answer": "The firm sent her to a series of training seminars to sharpen her sales skills and paired her up with a more senior broker who could teach her the ins and outs of the closing process."
+    },
+    {
+      "question": "What was Karla's position after being promoted twice in six years?",
+      "answer": "She was regional sales manager."
+    },
+    {
+      "question": "What is Dhruv's current occupation?",
+      "answer": "He is a taxi driver."
+    },
+    {
+      "question": "Why is Dhruv's job as a taxi driver challenging?",
+      "answer": "It is uncomfortable work that exposes him to the noise, heat, and pollution of Kolkata's streets, and he is often trapped in traffic jams."
+    },
+    {
+      "question": "What skills has Dhruv developed as a taxi driver?",
+      "answer": "He has become a capable driver and navigator and has developed good customer service skills."
+    },
+    {
+      "question": "What is Bill's initial occupation?",
+      "answer": "He is a warehouse worker."
+    },
+    {
+      "question": "How did Bill's skills from his warehouse job help him in his quality controller position?",
+      "answer": "The organizational skills and awareness of safety and process he learned in the warehouse would serve him well in the company's plant."
+    },
+    {
+      "question": "What steps did Bill take to transition into a new career as an electrician?",
+      "answer": "He took a course in electrical installation at the local community college, quit his factory job to take on a paid apprenticeship, and eventually branched out on his own as an electrician."
+    },
+    {
+      "question": "What event triggered Bill's idea to start his own energy-efficiency consultancy?",
+      "answer": "A client made a chance remark about how the inefficiency of legacy electrical power and control systems is unlikely to put him out of a job anytime soon."
+    },
+    {
+      "question": "What was the outcome for Bill after he made pitches for his energy-efficiency consultancy?",
+      "answer": "Fast-forward a year, and Bill is now the founder and CEO of a business specializing in smart building installations and operations."
+    },
+    {
+      "question": "According to the analysis, what is the most influential factor for individuals to maximize the effect of work experience?",
+      "answer": "Spending time in an effective organization early in a career."
+    },
+    {
+      "question": "What percentage of role moves made by individuals involved changing employers?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What is the benefit of worker mobility within the economy?",
+      "answer": "It provides benefits to workers and companies alike, allows workers to increase their earnings and advance their careers, and ensures that businesses can quickly find the new employees they need to respond to growth opportunities."
+    },
+    {
+      "question": "What percentage of role moves involve changing employers?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What is the primary way for an individual to maximize the experience effect?",
+      "answer": "To join an organization that strengthens their development."
+    },
+    {
+      "question": "What percentage of variation in how experience adds to individuals' earnings is explained by spending time early in a career with an effective organization?",
+      "answer": "50 percent."
+    },
+    {
+      "question": "What percentage of vocational training is provided by small and medium-size enterprises (SMEs) in Germany?",
+      "answer": "An estimated 90 percent."
+    },
+    {
+      "question": "How does organizational health impact individual employees' upward mobility in earnings?",
+      "answer": "37 percent of employees with early career experience in top-quintile companies see upward mobility in earnings, compared to 25 percent in bottom-quintile companies."
+    },
+    {
+      "question": "How many hours of training per full-time employee are offered annually by top-quintile companies?",
+      "answer": "More than 60 hours."
+    },
+    {
+      "question": "What percentage of employees with early career experience in companies that devote more time to training are on the path to move into higher earning brackets?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "What percentage of all moves are internal moves at companies in the top quintile for career advancement?",
+      "answer": "47 percent."
+    },
+    {
+      "question": "How does the percentage of employees on an upwardly mobile path compare between companies offering more internal career growth and those in the bottom quintile?",
+      "answer": "34 percent compared to 27 percent."
+    },
+    {
+      "question": "How many hours of training per year do top-quintile companies offer per full-time employee?",
+      "answer": "More than 60 hours."
+    },
+    {
+      "question": "How many hours of training per year do bottom-quintile companies offer per full-time employee?",
+      "answer": "Only 5 hours."
+    },
+    {
+      "question": "What percentage of employees with early career experience in companies that devote more time to training are on the path to move into higher earning brackets?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "What percentage of employees who worked for companies offering more internal career growth are on an upwardly mobile path?",
+      "answer": "34 percent."
+    },
+    {
+      "question": "What percentage of all moves at companies in the top quintile for career advancement are internal moves?",
+      "answer": "47 percent."
+    },
+    {
+      "question": "What is required for companies to maximize the value of human capital for themselves and their workers?",
+      "answer": "Focusing simultaneously on multiple fronts."
+    },
+    {
+      "question": "What is the starting point for companies to become an employer of choice?",
+      "answer": "Offering fair terms to employees."
+    },
+    {
+      "question": "What is associated with most of the differences in individuals' experience capital?",
+      "answer": "Early exposure to an effective organization, followed by bold role moves."
+    },
+    {
+      "question": "How is boldness of role moves defined?",
+      "answer": "Moves involving high skill distances are described as 'bold', where skill distance is the share of nonoverlapping skill requirements between two roles."
+    },
+    {
+      "question": "What is the source of McKinsey's Organizational Data Platform?",
+      "answer": "Licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; US Bureau of Labor Statistics; India's National Sample Survey Organisation and Periodic Labour Force Survey; Germany's Federal Employment Agency, BA; Organizational Health Index by McKinsey; Refinitiv; McKinsey's Corporate Performance Analytics; S&P Global; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What do top-quintile firms have in terms of average training hours per full-time employee compared to bottom-quintile firms?",
+      "answer": "The text does not provide a direct comparison, but Exhibit 18 shows that top-quintile firms have higher average training hours per full-time employee."
+    },
+    {
+      "question": "Who provides the bulk of vocational training in Germany?",
+      "answer": "SMEs (Small and Medium-sized Enterprises) provide the bulk of vocational training in Germany."
+    },
+    {
+      "question": "What is used to identify skill requirements for each role?",
+      "answer": "Job posting data, weighted by skill frequency."
+    },
+    {
+      "question": "What is the source of the data used by McKinsey's proprietary Organizational Data Platform?",
+      "answer": "Licensed, de-identified public professional profile data, as well as 2018\u201319 job posting records; UK Office for National Statistics; US Bureau of Labor Statistics; India's National Sample Survey Organisation and Periodic Labour Force Survey; Germany's Federal Employment Agency, BA; Organizational Health Index by McKinsey; Refinitiv; McKinsey's Corporate Performance Analytics; S&P Global; McKinsey Global Institute analysis."
+    },
+    {
+      "question": "What is the link between work and happiness according to the literature?",
+      "answer": "A fundamental link exists between work and both happiness and life satisfaction, as work creates spillover effects in areas such as family relationships and physical and mental health."
+    },
+    {
+      "question": "What influences a person's level of satisfaction at work?",
+      "answer": "The degree to which work meets basic human needs for autonomy, a sense of competence, and connected relationships."
+    },
+    {
+      "question": "Why is competitive compensation considered a must for organizations?",
+      "answer": "Because there is more pay transparency than ever before."
+    },
+    {
+      "question": "What percentage of respondents who had left their jobs cited the need to take care of family as an influential factor in their decision?",
+      "answer": "45 percent."
+    },
+    {
+      "question": "What type of organizations are magnets for talent according to the text?",
+      "answer": "Great learning organizations that position themselves as 'skills academies'."
+    },
+    {
+      "question": "What is necessary for companies to attract and retain talent besides competitive compensation?",
+      "answer": "A healthy work environment where people can thrive, grow, and feel a sense of purpose."
+    },
+    {
+      "question": "What can companies consider expanding to support employees with family care responsibilities?",
+      "answer": "Childcare, nursing services, or other family-focused programs."
+    },
+    {
+      "question": "How can poor management practices affect an organization?",
+      "answer": "They can drive attrition, erode morale, and hinder productivity."
+    },
+    {
+      "question": "What percentage of role moves involve changing employers?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "What is the core of both hiring and deploying the workforce internally?",
+      "answer": "The ability to evaluate someone\u2019s skills, spot talent, and match people to the right tasks and teams."
+    },
+    {
+      "question": "What percentage of role moves undertaken by individuals involved a skill distance of more than 25 percent?",
+      "answer": "More than half."
+    },
+    {
+      "question": "What kind of lens do employers need to recognize the ability of workers to evolve?",
+      "answer": "A new lens."
+    },
+    {
+      "question": "What should companies evaluate candidates on, apart from their current responsibilities?",
+      "answer": "Their transferable skills, their intrinsic capabilities, and their potential to succeed in new roles."
+    },
+    {
+      "question": "Why should organizations understand the capabilities of their current employees before looking for external candidates?",
+      "answer": "Because organizations typically pay a premium for external talent and cannot always know if a candidate will be a cultural fit."
+    },
+    {
+      "question": "What percentage of IBM's job postings contained a degree requirement, according to a study by the Harvard Business School and Emsi Burning Glass?",
+      "answer": "Only 29 percent."
+    },
+    {
+      "question": "Why should organizations consider internal candidates before looking for external talent?",
+      "answer": "Because organizations typically pay a premium for external talent and cannot always know if a candidate will be a cultural fit."
+    },
+    {
+      "question": "What is one way companies can refine their criteria for hiring and better predict performance outcomes?",
+      "answer": "By analyzing the profiles and career outcomes of candidates hired versus those not hired."
+    },
+    {
+      "question": "What type of hiring model are some employers moving towards, according to a study by the Harvard Business School and Emsi Burning Glass?",
+      "answer": "A model of hiring that is based on skills rather than educational credentials."
+    },
+    {
+      "question": "What is an example of a new technique for assessing applicants in skills-based hiring?",
+      "answer": "Using 'gamified' options for pre-employment testing."
+    },
+    {
+      "question": "What is a characteristic of candidates who have a track record of acquiring new skills over time?",
+      "answer": "They are probably capable of adding more skills."
+    },
+    {
+      "question": "What can help an organization refine its hiring criteria and better predict performance outcomes?",
+      "answer": "Analyzing the profiles and career outcomes of candidates hired versus those not hired."
+    },
+    {
+      "question": "What type of skills should the hiring process emphasize for a given role?",
+      "answer": "Core, must-have skills."
+    },
+    {
+      "question": "What is an example of a company that offers programs for people looking to change their career trajectory?",
+      "answer": "The BBC's Apprentice Hub."
+    },
+    {
+      "question": "Why can establishing internal career tracks be beneficial for employers?",
+      "answer": "It can reduce the likelihood that good employees have to go elsewhere to move up."
+    },
+    {
+      "question": "What percentage of surveyed talent acquisition professionals agreed that internal recruiting improves retention?",
+      "answer": "81 percent."
+    },
+    {
+      "question": "How do employees who work for companies that regularly promote from within tend to behave?",
+      "answer": "They stay 41 percent longer."
+    },
+    {
+      "question": "Why is it beneficial for companies to celebrate employees who move on?",
+      "answer": "Celebrating them as success stories."
+    },
+    {
+      "question": "What percentage of US workers who left their job without a new one cited lack of career development as a reason for quitting?",
+      "answer": "One-third."
+    },
+    {
+      "question": "What percentage of US workers consider the opportunity to learn new skills important when deciding to take a new job?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "How have companies like Abbott, Mastercard, and Honeywell addressed the opportunity for lateral movement?",
+      "answer": "By creating rotational programs that offer recent graduates exposure to multiple functions for one to two years."
+    },
+    {
+      "question": "What is the purpose of internal digital platforms like the one used by Infosys?",
+      "answer": "To enable employees to access learning modules and find their next role."
+    },
+    {
+      "question": "Why did Schneider Electric introduce its internal Open Talent Market?",
+      "answer": "After learning that 47 percent of people who were leaving the company said they couldn\u2019t find their next career opportunity there."
+    },
+    {
+      "question": "Why did Schneider introduce a new platform?",
+      "answer": "Schneider introduced this platform after learning that 47 percent of people who were leaving the company said they couldn\u2019t find their next career opportunity there."
+    },
+    {
+      "question": "What percentage of US workers cited lack of career development as a reason for quitting their job in a 2020 McKinsey survey?",
+      "answer": "One-third of respondents cited lack of career development and advancement potential as one of their top three reasons for quitting."
+    },
+    {
+      "question": "How important is the opportunity to learn new skills in deciding whether to take a new job or stay at the current job, according to a June 2021 Gallup survey?",
+      "answer": "65 percent of respondents said that the opportunity to learn new skills is an extremely or very important factor in deciding whether to take a new job, and 61 percent said it was extremely or very important in deciding whether to stay at their current job."
+    },
+    {
+      "question": "What type of program does Siemens offer to help people starting their careers develop technical skills?",
+      "answer": "Siemens offers a robust apprenticeship and dual study program."
+    },
+    {
+      "question": "How long should the onboarding process be, according to the research?",
+      "answer": "Thinking of it as a six-month to one-year process, with a thoughtfully created journey, is much more effective."
+    },
+    {
+      "question": "What is included in Roivant Sciences' analyst program for new employees?",
+      "answer": "The program pairs new employees with executives and experienced professionals to learn their processes for big-picture decision-making and solving complex tasks."
+    },
+    {
+      "question": "What is the recommended timeframe for a thoughtfully created journey for employee development?",
+      "answer": "Six-month to one-year process."
+    },
+    {
+      "question": "How does Roivant Sciences support the development of new employees?",
+      "answer": "Through an analyst program that pairs new employees with executives and experienced professionals."
+    },
+    {
+      "question": "What is the percentage of corporate learning that is considered effective according to a meta-analysis?",
+      "answer": "10 percent."
+    },
+    {
+      "question": "What approach to delivering structured learning has been found to work best according to McKinsey research?",
+      "answer": "A varied and multichannel approach."
+    },
+    {
+      "question": "What types of learning modules can be employed for effective structured learning?",
+      "answer": "A mix of different types, including forums, hands-on fieldwork, and self-paced digital modules."
+    },
+    {
+      "question": "What type of learning opportunities can organizations offer to employees to add value to their career trajectories?",
+      "answer": "External learning opportunities, such as externships and secondments (temporary roles in separate organizations, such as vendors, subsidiaries, or nonprofits)."
+    },
+    {
+      "question": "What is an example of a company that has partnered with a community college to develop vocational curricula?",
+      "answer": "Intel, which partnered with Arizona's Maricopa County Community College District to offer an accelerated course in semiconductor manufacturing."
+    },
+    {
+      "question": "What benefit does Walmart offer to its employees to further their education?",
+      "answer": "Tuition reimbursement, fully covering tuition for employees to obtain an array of associate or bachelor's degrees."
+    },
+    {
+      "question": "What is the potential negative signal sent to potential employers when someone frequently switches jobs?",
+      "answer": "That they are difficult to work with or lack focus."
+    },
+    {
+      "question": "At what point do role moves become a negative indicator rather than a sign of healthy development and dynamism?",
+      "answer": "When someone bounces from job to job without ever gaining traction for longer than a year."
+    },
+    {
+      "question": "What happens when job switching becomes excessive?",
+      "answer": "Someone who bounces from job to job without ever gaining traction for longer than a year eventually begins to send a negative signal to potential employers that they are difficult to work with or lack focus."
+    },
+    {
+      "question": "What can be a symptom of economic insecurity in the job market?",
+      "answer": "Job switching can be a symptom of economic insecurity, involving layoffs, terminations, or people walking away from poor working conditions."
+    },
+    {
+      "question": "What are the consequences of high turnover rates for organizations?",
+      "answer": "Turnover is costly and time-consuming, and losing high-performing employees can harm productivity, morale, and institutional memory."
+    },
+    {
+      "question": "What is the main reason behind the Great Resignation?",
+      "answer": "Many people have reassessed their lives during the pandemic and have been voting with their feet by quitting bad jobs, particularly low-wage service jobs, and landing better jobs or becoming entrepreneurs."
+    },
+    {
+      "question": "What factors can limit someone's ability to make role moves that result in higher pay and better opportunities?",
+      "answer": "Precarious finances, unaffordable housing, lack of digital infrastructure, caregiving responsibilities, and a lack of strong social and professional networks can all affect someone's ability to make moves."
+    },
+    {
+      "question": "Who are particularly affected by limitations in making role moves?",
+      "answer": "Women and minorities in low-earning, experience-reliant occupations, who may face biases and structural barriers in the labor market."
+    },
+    {
+      "question": "Why is it difficult for workers to move into better job opportunities in economies with many low-wage service and production jobs?",
+      "answer": "It is not always easy for workers to trade up into better opportunities in economies with a high proportion of low-wage service and production jobs, particularly for women and minorities who may face biases and structural barriers in the labor market."
+    },
+    {
+      "question": "What signal is the Great Resignation sending to the labor market?",
+      "answer": "The Great Resignation is sending a clear signal that many people have reassessed their lives during the pandemic and become aware of the real economic and personal costs of remaining in a stagnant job."
+    },
+    {
+      "question": "What factors, apart from higher pay, motivate people to change jobs?",
+      "answer": "Broader considerations such as work-life balance and working conditions also motivate people to make a job change."
+    },
+    {
+      "question": "What can help workers make better and more informed decisions when changing jobs?",
+      "answer": "More transparency about which employers offer effective training, growth opportunities, and good management can help workers make better and more informed decisions."
+    },
+    {
+      "question": "How can workers acquire new skills if their current employers lack learning opportunities?",
+      "answer": "Workers can tap into a growing array of free and low-cost online courses to seek out new skills on their own."
+    },
+    {
+      "question": "What is a 'skills passport' and how can it benefit workers?",
+      "answer": "A skills passport, especially one focused on digital skills, can offer a sort of do-it-yourself credential to boost both employability and technical proficiency."
+    },
+    {
+      "question": "What can boost employability and technical proficiency according to McKinsey Global Institute?",
+      "answer": "A credential focused on digital skills can offer a sort of do-it-yourself credential to boost both employability and technical proficiency."
+    },
+    {
+      "question": "What type of occupations are more susceptible to automation?",
+      "answer": "Low-earning, more experience-reliant occupations are more susceptible to automation."
+    },
+    {
+      "question": "How can governments support workforce training?",
+      "answer": "Governments can provide incentives to encourage corporate investment in human capital, in line with incentives provided for R&D and physical capital investment."
+    },
+    {
+      "question": "What was the effect of California's Employment Training Panel on participating companies?",
+      "answer": "The program had positive and significant effects on the sales and growth of participating companies."
+    },
+    {
+      "question": "What is the European Commission's Pact for Skills?",
+      "answer": "The Pact for Skills is a strategy launched in 2020, working with European auto companies to train 700,000 workers each year with \u20ac7 billion in annual private and public investment."
+    },
+    {
+      "question": "Who are the partners in the Markle Foundation's Rework America Alliance?",
+      "answer": "The Rework America Alliance is a partnership of civil rights organizations, nonprofits, employers, labor unions, educators, and state governments."
+    },
+    {
+      "question": "What is the European Commission's Pact for Skills, and what are its goals?",
+      "answer": "The European Commission launched the Pact for Skills in 2020, working with European auto companies on a strategy to train 700,000 workers each year, with \u20ac7 billion in annual private and public investment."
+    },
+    {
+      "question": "What is the purpose of the Europass Digital Credentials system?",
+      "answer": "The Europass Digital Credentials system enables students and workers from across the European Union to establish a file that employers across countries can understand."
+    },
+    {
+      "question": "What is the T3 Innovation Network, and what are its goals?",
+      "answer": "The T3 Innovation Network is a project launched by the US Chamber of Commerce Foundation and the Lumina Foundation to create an open data ecosystem to centralize information on skills, credentialing, and the needs of the economy, with one of its goals being to standardize how skills are defined across industries and employers."
+    },
+    {
+      "question": "What is the Credential Engine, and what is its purpose?",
+      "answer": "The Credential Engine is a US nonprofit creating an online registry to make information about the thousands of varying credentials across the country more transparent and searchable."
+    },
+    {
+      "question": "Why is it important to reassess labor market regulations?",
+      "answer": "Labor market regulations should be periodically reassessed to ensure that they support a healthy dynamic and reflect current realities, as rigid regulations can make seamless transitions to new opportunities more difficult."
+    },
+    {
+      "question": "What are some barriers to healthy worker mobility?",
+      "answer": "Barriers to healthy worker mobility include licensing requirements, noncompete contracts, and high housing costs, which can hinder the matching process between job seekers and vacancies."
+    },
+    {
+      "question": "Why should regulation be periodically reassessed?",
+      "answer": "To ensure that it supports a healthy dynamic and reflects current realities."
+    },
+    {
+      "question": "What can hinder the matching process between job seekers and vacancies?",
+      "answer": "Licensing requirements and noncompete contracts."
+    },
+    {
+      "question": "What is a challenge faced by workers in developing economies during the Great Resignation?",
+      "answer": "Vaccine rollouts have lagged and pandemic-related disruptions have persisted, hindering employment recovery."
+    },
+    {
+      "question": "How has the recovery from the pandemic-related downturn in Latin America and the Caribbean been characterized?",
+      "answer": "By growth in low-wage informal jobs."
+    },
+    {
+      "question": "What is the priority for the poorest countries to create opportunities for rewarding work and upward mobility?",
+      "answer": "Investing in childhood health and improving education systems."
+    },
+    {
+      "question": "What is the definition of a 'role' in the context of work?",
+      "answer": "A combination of an individual's job, occupation, occupation category, and the organization in which they work."
+    },
+    {
+      "question": "What is a 'role move'?",
+      "answer": "A change in an individual's job, occupation, or organization, including promotions, lateral moves, or moves to a different employer."
+    },
+    {
+      "question": "How do entry-level skills relate to an individual's educational qualification or specialization?",
+      "answer": "Many entry-level skills may have been acquired through education, but they are measured as the skills required for the starting role."
+    },
+    {
+      "question": "How is skill distance measured?",
+      "answer": "Skill distance is measured as the weighted measure of skills that are newly acquired or deployed in the current role with respect to the preceding role as a proportion of the weighted measure of skills required in the current role."
+    },
+    {
+      "question": "What is work experience driven skills?",
+      "answer": "Work experience\u2013driven skills are the additional skills gained or demonstrated at all subsequent roles after the starting role, as well as the deepening of existing skills."
+    },
+    {
+      "question": "How is lifetime earnings defined?",
+      "answer": "Lifetime earnings is a summation of an individual\u2019s salaries over a 30-year working life."
+    },
+    {
+      "question": "What is experience capital?",
+      "answer": "Experience capital is the share of lifetime earnings associated with skills learned through experience."
+    },
+    {
+      "question": "How are occupational categories defined?",
+      "answer": "Occupational categories are groupings of occupations requiring a similar set of knowledge, skills, and abilities."
+    },
+    {
+      "question": "What determines an individual's role trajectory?",
+      "answer": "Role trajectory is determined by the type of role moves someone makes (incremental versus bolder) and the timing of those moves (throughout their working life versus early versus late versus seldom)."
+    },
+    {
+      "question": "What is the difference between an incremental move and a bolder move?",
+      "answer": "An incremental move is one where skill distance is in the bottom quartile of the sample, whereas a bolder move is one in the top quartile."
+    },
+    {
+      "question": "What data sources were used to estimate the typical starting salary and skill requirements of each role?",
+      "answer": "McKinsey's Organizational Data Platform and 350 million job posting records from more than 50,000 job boards over 2018 and 2019."
+    },
+    {
+      "question": "How many workers were included in the 'worker data set' for the four countries?",
+      "answer": "Approximately a million workers each in the United States, Germany, the United Kingdom, and India, totaling around four million workers."
+    },
+    {
+      "question": "What was the criteria for selecting the focus countries for the analysis?",
+      "answer": "The focus countries were chosen to represent advanced economies with varying labor markets plus a large and diverse developing economy."
+    },
+    {
+      "question": "How many individuals were included in the subset with some education listed for lifetime earnings analysis?",
+      "answer": "Around 410,000 individuals in the United States, 230,000 in the United Kingdom, 280,000 in Germany, and 230,000 in India, totaling 1.15 million workers."
+    },
+    {
+      "question": "What was the restriction on observations for estimating lifetime earnings?",
+      "answer": "Only roles held after an individual obtains his or her latest educational degree were considered."
+    },
+    {
+      "question": "How many workers were in the 'worker data set' created?",
+      "answer": "About four million workers in four countries."
+    },
+    {
+      "question": "How was the sample reweighted?",
+      "answer": "To reflect each country's occupational mix, drawing on data from national labor agencies."
+    },
+    {
+      "question": "How many individuals were in the subset used for lifetime earnings analysis?",
+      "answer": "1.15 million workers (~410,000 individuals in the United States, ~230,000 in the United Kingdom, ~280,000 in Germany, and ~230,000 in India)."
+    },
+    {
+      "question": "Why was the sample reweighted?",
+      "answer": "To give more weight to individuals in underrepresented occupations and less weight to individuals in overrepresented occupations, making it possible to draw conclusions about all workers."
+    },
+    {
+      "question": "What data sources were used to reweight the sample?",
+      "answer": "US Bureau of Labor Statistics, the UK Office for National Statistics, the German Federal Employment Agency, BA, and India's National Sample Survey Organisation and Periodic Labour Force Survey."
+    },
+    {
+      "question": "What is the formula used to calculate the weight given to an individual?",
+      "answer": "\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc61\ud835\udc61! =  \ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43  \ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43  \ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c  \ud835\udc56\ud835\udc56\ud835\udc56\ud835\udc56  \ud835\udc61\ud835\udc61\u210e\ud835\udc52\ud835\udc52  \ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c  \ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59\ud835\udc59  \ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53\ud835\udc53  \ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43\ud835\udc43  \ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c\ud835\udc5c  \ud835\udc56\ud835\udc56\ud835\udc56\ud835\udc56  \ud835\udc61\ud835\udc61\u210e\ud835\udc52\ud835\udc52  \ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc60"
+    },
+    {
+      "question": "What is the formula for Lifetime earnings?",
+      "answer": "\ud835\udc3f\ud835\udc3f\ud835\udc4a\ud835\udc4a\ud835\udc3f\ud835\udc3f\ud835\udc4a\ud835\udc4a\ud835\udc61\ud835\udc61\ud835\udc4a\ud835\udc4a\ud835\udc3f\ud835\udc3f\ud835\udc4a\ud835\udc4a \ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52 = \ud835\udc38\ud835\udc38\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52 \ud835\udc61\ud835\udc61\ud835\udc61\ud835\udc61 \ud835\udc51\ud835\udc51\ud835\udc52\ud835\udc52\ud835\udc61\ud835\udc61\ud835\udc4a\ud835\udc4a + \ud835\udc43\ud835\udc43\ud835\udc52\ud835\udc52\ud835\udc61\ud835\udc61\ud835\udc43\ud835\udc43\ud835\udc4a\ud835\udc4a\ud835\udc43\ud835\udc43\ud835\udc61\ud835\udc61\ud835\udc4a\ud835\udc4a\ud835\udc51\ud835\udc51 \ud835\udc3f\ud835\udc3f\ud835\udc53\ud835\udc53\ud835\udc61\ud835\udc61\ud835\udc53\ud835\udc53\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a \ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52\ud835\udc4a\ud835\udc4a\ud835\udc52\ud835\udc52"
+    },
+    {
+      "question": "How is the weight given to an individual of a current occupation calculated?",
+      "answer": "The weight is calculated using the formula \ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc4a\ud835\udc61\ud835\udc61! = !\"#$%&'!( \ud835\udc5d\ud835\udc5d! )%*\"+ \ud835\udc5d\ud835\udc5d!, where \ud835\udc5d\ud835\udc5d! is the proportion of people with occupation reported in the overall labor force and \ud835\udc5d\ud835\udc5d! is the proportion of people with occupation observed in the sample."
+    },
+    {
+      "question": "What is the definition of occupation used in the text?",
+      "answer": "Occupation is defined as the seven-digit O*NET code and is harmonized across the observed work histories and government statistics."
+    },
+    {
+      "question": "How are lifetime earnings estimated?",
+      "answer": "Lifetime earnings are estimated as an individual\u2019s total earnings over a 30-year working life, calculated as the sum of earnings to date and projected future earnings."
+    },
+    {
+      "question": "What is the base source for salaries used to estimate earnings to date?",
+      "answer": "Job postings are used as the base source for salaries, supplemented with reported statistics from government agencies."
+    },
+    {
+      "question": "How are salary estimates made in India?",
+      "answer": "In India, salary estimates are based on government-reported statistics alone, as job posting data are not available."
+    },
+    {
+      "question": "How are salary estimates for job postings with salary ranges typically calculated?",
+      "answer": "The simple average of the minimum and maximum salaries reported is taken."
+    },
+    {
+      "question": "What is used to define occupations in the model?",
+      "answer": "A seven-digit O*NET code is used for all countries."
+    },
+    {
+      "question": "How are local occupation codes mapped in countries where the primary occupation code is not O*NET?",
+      "answer": "The local occupation code is first mapped to O*NET."
+    },
+    {
+      "question": "How are salaries per occupation estimated?",
+      "answer": "Using a log-linear model with a specific specification."
+    },
+    {
+      "question": "What is assumed for yearly salary increases for an occupation?",
+      "answer": "Standard yearly salary increases based on historical rates of wage growth for the occupation in their country."
+    },
+    {
+      "question": "How are work histories of individuals mapped to salaries?",
+      "answer": "By mapping their job role at every point in time to the corresponding salaries."
+    },
+    {
+      "question": "How are salary estimates supplemented in countries where job posting data are not available?",
+      "answer": "With reported statistics from government agencies."
+    },
+    {
+      "question": "What is done with job postings that report hourly wages or other non-salary numbers?",
+      "answer": "A filter is imposed that drops any job posting whose listed salary figure is below an expected minimum earning in the given country."
+    },
+    {
+      "question": "What happens to unresolved codes for India and Germany in the analysis?",
+      "answer": "They are dropped from the analysis."
+    },
+    {
+      "question": "How are salaries per occupation estimated?",
+      "answer": "Using a log-linear model."
+    },
+    {
+      "question": "What is used to estimate required skills for each role?",
+      "answer": "Job posting data, specifically a data set of 20.9 million aggregated job postings from more than 50,000 job boards."
+    },
+    {
+      "question": "How are skill distances per role move calculated?",
+      "answer": "By looking at the skill requirements associated with jobs that an individual holds, restricted to role moves that occurred after an individual obtained their latest educational degree."
+    },
+    {
+      "question": "What is the sample size for calculating skill distance per role move?",
+      "answer": "~3.3 million workers (~920,000 in the United States, ~790,000 in Germany, ~930,000 in the United Kingdom, and ~650,000 in India)."
+    },
+    {
+      "question": "How are lifetime earnings indexed in exhibits?",
+      "answer": "To 100 (with average across sample = 100) for ease of analysis."
+    },
+    {
+      "question": "How are projected future earnings estimated?",
+      "answer": "By applying an average salary growth at an occupation level in the corresponding countries to the final observed role, assuming no further role moves."
+    },
+    {
+      "question": "What is the minimum percentage of job listings required for a skill to be considered required for a given role?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What percentage of job listings for a role must a skill appear in to be considered a required skill?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "How many workers' online professional profiles were analyzed to calculate skill distance per role move?",
+      "answer": "3.3 million workers."
+    },
+    {
+      "question": "In how many countries were the workers' profiles analyzed?",
+      "answer": "Four countries: United States, Germany, United Kingdom, and India."
+    },
+    {
+      "question": "What is the approximate number of workers analyzed in the United States?",
+      "answer": "~920,000."
+    },
+    {
+      "question": "What data sources are used to estimate salary change over time for each role?",
+      "answer": "US Bureau of Labor Statistics, UK Office for National Statistics, Germany's Federal Employment Agency, BA, and India's National Sample Survey Office and Periodic Labour Force Survey."
+    },
+    {
+      "question": "How is skill distance per move calculated?",
+      "answer": "By dividing the weighted number of new skills by the total skills required for the individual's new role."
+    },
+    {
+      "question": "What is the skill distance for a role move where four out of ten skills are new?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "How are skills weighted in the analysis?",
+      "answer": "By skill frequency, using an inverse-frequency measure that gives more weight to skills specialized to a particular role."
+    },
+    {
+      "question": "What is the inverse frequency weight (IF-weight) used for?",
+      "answer": "The IF-weight is used to measure the skill distance between the source and destination occupation."
+    },
+    {
+      "question": "How is the skill distance between the source and destination occupation calculated?",
+      "answer": "The skill distance is calculated as the sum of IF-weights of skills that are present in the destination occupation and not in the source occupation divided by the sum of the IF-weights of all skills in the destination occupation."
+    },
+    {
+      "question": "What is the formula for calculating the inverse frequency weight (IF-weight)?",
+      "answer": "IF-weight = log(1 + number of occupations that do not require the skill / number of occupations that require the skill)."
+    },
+    {
+      "question": "Why do the authors restrict their observations to role moves occurring after an individual obtains their latest educational degree?",
+      "answer": "To draw insights on upward mobility for workers and understand the financial incentives for moving roles."
+    },
+    {
+      "question": "How do the authors calculate the percent change in salaries between the source and destination jobs?",
+      "answer": "The percent change in salaries is calculated as (salary in current role - salary in previous role) / salary in previous role."
+    },
+    {
+      "question": "Why do the authors find that 50 to 60 percent of role moves led to a decrease in average salaries?",
+      "answer": "Because they apply average salary information gleaned from online job postings and national statistics, rather than actual salary data."
+    },
+    {
+      "question": "What percentage of role moves led to a decrease in average salaries?",
+      "answer": "50 to 60 percent."
+    },
+    {
+      "question": "What percentage of all moves resulted in a decrease in salary of less than 10 percent?",
+      "answer": "About 20 percent."
+    },
+    {
+      "question": "How many workers were in the subset containing information on education?",
+      "answer": "1.15 million workers."
+    },
+    {
+      "question": "In how many countries were the workers in the subset located?",
+      "answer": "Four countries: the United States, Germany, the United Kingdom, and India."
+    },
+    {
+      "question": "How is the starting salary for an individual's first job attributed?",
+      "answer": "Fully attributed to entry-level skills that the person brought into the labor force."
+    },
+    {
+      "question": "What is attributed to work experience in terms of salary?",
+      "answer": "Any remaining salary after attributing to entry-level skills, standard yearly salary raises, and future projected wage growth."
+    },
+    {
+      "question": "How is the experience share of lifetime earnings measured?",
+      "answer": "The experience share of lifetime earnings is measured in absolute terms as the sum of the product of skill distance per role move and earnings in the newer role."
+    },
+    {
+      "question": "What is the rationale for attributing all future projected wage growth to work experience?",
+      "answer": "The rationale is that any increase in salary in a given role is considered to represent the individual becoming better at deploying the skills needed for the job."
+    },
+    {
+      "question": "What happens to the experience share of lifetime earnings if an individual continues to make role moves during the projected period?",
+      "answer": "The experience share of lifetime earnings would increase."
+    },
+    {
+      "question": "What is the average experience share of lifetime earnings in the United States, assuming continued role moves during the projected period?",
+      "answer": "44 percent."
+    },
+    {
+      "question": "How is experience capital calculated in percentage terms?",
+      "answer": "Experience capital is calculated by dividing the experience share of lifetime earnings in absolute terms by lifetime earnings."
+    },
+    {
+      "question": "Why does the share of earnings from entry-level skills dip around the third year of work history?",
+      "answer": "This is because an average individual makes a role move about every three years, involving a skill distance of about 30 percent, resulting in a dip in the share of entry-level skills."
+    },
+    {
+      "question": "What happens to the share of entry-level skills roughly three years into a work history?",
+      "answer": "There is a dip in the share of entry-level skills roughly three years into the work history."
+    },
+    {
+      "question": "How are increases in earnings attributed in a given role?",
+      "answer": "Any increase in salary in a given role is considered to be representative of the individual becoming better at deploying the skills needed for the job through on-the-job learning, and is attributed to work experience."
+    },
+    {
+      "question": "What is the trend in the proportion of entry-level skills after the first role move?",
+      "answer": "After the first role move, every role move is on average slightly more distant from the entry-level skills, and therefore the proportion of entry-level skills continues to decrease."
+    },
+    {
+      "question": "What is the share of total lifetime earnings attributed to experience and entry-level skills over a 30-year period?",
+      "answer": "The share of total lifetime earnings attributed to experience is 67 percent and the share attributed to entry-level skills is 33 percent."
+    },
+    {
+      "question": "How many individuals were included in the subset for the regression analysis on experience capital?",
+      "answer": "~48,000 individuals in the United States, ~11,000 individuals in the United Kingdom, ~1,000 individuals in Germany, and ~5,000 individuals in India."
+    },
+    {
+      "question": "What is considered to be representative of an individual becoming better at deploying the skills needed for a job?",
+      "answer": "Any increase in salary in a given role."
+    },
+    {
+      "question": "What happens to the proportion of entry-level skills after the first role move?",
+      "answer": "The proportion of entry-level skills continues to decrease."
+    },
+    {
+      "question": "What is the share of total lifetime earnings attributed to experience over a period of 30 years?",
+      "answer": "67 percent."
+    },
+    {
+      "question": "How many individuals were included in the subset for the regression analysis in the United States?",
+      "answer": "~48,000 individuals."
+    },
+    {
+      "question": "What were the control variables considered for the regression analysis on experience capital?",
+      "answer": "First wage, latest wage, years of post-education observed experience, average experience capital for a given occupation, sector, and organization."
+    },
+    {
+      "question": "What is the total number of observations (individuals) used in the regression analysis?",
+      "answer": "65,554 individuals in 362 companies."
+    },
+    {
+      "question": "What happens to the proportion of entry-level skills as a person makes role moves?",
+      "answer": "The proportion of entry-level skills continues to decrease."
+    },
+    {
+      "question": "What is the salary and percentage of entry-level skills for the marketing assistant in Y1?",
+      "answer": "Salary = 100, Entry-level skills = 100 (100%)."
+    },
+    {
+      "question": "What is the projected salary in Y30 and the share of entry-level skills?",
+      "answer": "Salary = 355, Share of entry-level skills = 79 (22%)."
+    },
+    {
+      "question": "What is the total share of lifetime earnings attributed to experience and entry-level skills over 30 years?",
+      "answer": "Share of total lifetime earnings attributed to experience is 67 percent and the share attributed to entry-level skills is 33 percent."
+    },
+    {
+      "question": "How many individuals and companies were considered in the regression analysis for the United States?",
+      "answer": "~48,000 individuals in the United States worked for 299 companies."
+    },
+    {
+      "question": "What is the R-squared value when regressing experience capital with metrics associated with early-career exposure to effective organizational practices?",
+      "answer": "27 percent."
+    },
+    {
+      "question": "How many individuals were included in the subset for the United States?",
+      "answer": "~48,000 individuals."
+    },
+    {
+      "question": "What was the total number of observations (individuals) used in the regression analysis?",
+      "answer": "65,554 individuals."
+    },
+    {
+      "question": "How many companies were included in the analysis for the United States?",
+      "answer": "299 companies."
+    },
+    {
+      "question": "What was the R-squared value when regressing experience capital on metrics associated with early-career exposure to effective organizational practices?",
+      "answer": "27 percent."
+    },
+    {
+      "question": "What was the R-squared value when including metrics associated with role mobility and bolder role moves in the regression analysis?",
+      "answer": "54 percent."
+    },
+    {
+      "question": "What was the difference in R-squared values between the first and second model attributed to?",
+      "answer": "Role mobility and bolder role moves."
+    },
+    {
+      "question": "What was the total number of companies included in the analysis across all countries?",
+      "answer": "362 companies."
+    },
+    {
+      "question": "In what year was the Quarterly Journal of Economics article 'Employer learning and statistical discrimination' by Pierret published?",
+      "answer": "2001."
+    },
+    {
+      "question": "Who is the author of 'Human capital: A theoretical and empirical analysis, with special reference to education'?",
+      "answer": "Gary Becker."
+    },
+    {
+      "question": "What is the title of the Richard T. Ely lecture by David H. Autor published in AEA Papers and Proceedings?",
+      "answer": "Work of the past, work of the future."
+    },
+    {
+      "question": "In what volume and issue of Science was David H. Autor's article 'Skills, education, and the rise of earnings inequality among the \u2018other 99 percent\u2019' published?",
+      "answer": "Volume 344, issue 6186."
+    },
+    {
+      "question": "What is the topic of the research paper by Bai, Yang, published in Information Economics and Policy?",
+      "answer": "The impact of internet speed on employment."
+    },
+    {
+      "question": "Who are the authors of 'New frontiers: The origins and content of new work, 1940\u20132018'?",
+      "answer": "David Autor, Anna Salomons, and Bryan Seegmiller."
+    },
+    {
+      "question": "What is the title of the Harvard Business Review article by Baym, Larson, and Martin?",
+      "answer": "What a year of WFH has done to our relationships at work."
+    },
+    {
+      "question": "In what year was Robert J. Barro's article 'Economic growth in a cross section of countries' published in the Quarterly Journal of Economics?",
+      "answer": "1991."
+    },
+    {
+      "question": "What is the topic of the research paper by Beer, Finnstrom, and Schrader published as a Harvard Business School research paper?",
+      "answer": "The great training robbery."
+    },
+    {
+      "question": "Who are the editors of the Handbook of labor economics in which 'Recent developments in intergenerational mobility' by Black and Devereux was published?",
+      "answer": "Orley Ashenfelter and David Card."
+    },
+    {
+      "question": "Who wrote 'Human capital: A theoretical and empirical analysis, with special reference to education'?",
+      "answer": "Gary Becker."
+    },
+    {
+      "question": "In what year was the second edition of 'Human capital: A theoretical and empirical analysis, with special reference to education' published?",
+      "answer": "1971."
+    },
+    {
+      "question": "What is the title of the research paper series published by Michael Beer, Magnus Finnstrom, and Derek Schrader in 2016?",
+      "answer": "The great training robbery."
+    },
+    {
+      "question": "Who studied the impact of caring on informal carers' employment, income, and earnings using a longitudinal approach?",
+      "answer": "Michael Bittman, Trish Hill, and Cathy Thomson."
+    },
+    {
+      "question": "What is the topic of the working paper 'Searching for STARS: Work experience as a job market signal for workers without bachelor\u2019s degrees'?",
+      "answer": "Work experience as a job market signal for workers without bachelor\u2019s degrees."
+    },
+    {
+      "question": "Who discussed 'Recent developments in intergenerational mobility'?",
+      "answer": "Sandra E. Black and Paul J. Devereux."
+    },
+    {
+      "question": "What is the topic of the discussion paper 'Health and economic growth'?",
+      "answer": "Health and economic growth."
+    },
+    {
+      "question": "Who wrote about 'The returns to higher education in Britain: Evidence from a British cohort'?",
+      "answer": "Richard Blundell et al."
+    },
+    {
+      "question": "What is the title of the lecture given by David H. Autor in 2019?",
+      "answer": "Work of the past, work of the future."
+    },
+    {
+      "question": "Who studied the job satisfaction\u2013productivity nexus using matched survey and register data?",
+      "answer": "Petri B\u00f6ckerman and Pekka Ilmakunnas."
+    },
+    {
+      "question": "Who are the authors of the paper 'New frontiers: The origins and content of new work, 1940\u20132018'?",
+      "answer": "David Autor, Anna Salomons, and Bryan Seegmiller."
+    },
+    {
+      "question": "In what year was the paper 'The impact of caring on informal carers\u2019 employment, income and earnings: A longitudinal approach' published?",
+      "answer": "2007."
+    },
+    {
+      "question": "What is the title of Gary Becker's 1964 book?",
+      "answer": "Human capital: A theoretical and empirical analysis, with special reference to education."
+    },
+    {
+      "question": "Who wrote 'The great training robbery'?",
+      "answer": "Michael Beer, Magnus Finnstrom, and Derek Schrader."
+    },
+    {
+      "question": "What is the topic of the paper 'The job satisfaction\u2013productivity nexus: A study using matched survey and register data'?",
+      "answer": "The relationship between job satisfaction and productivity."
+    },
+    {
+      "question": "In what volume and number of the Economic Journal was 'The returns to higher education in Britain: Evidence from a British cohort' published?",
+      "answer": "Volume 110, number 461."
+    },
+    {
+      "question": "Who are the authors of 'The economic value of college majors'?",
+      "answer": "Anthony P. Carnevale, Ban Cheah, and Andrew R. Hanson."
+    },
+    {
+      "question": "What is the title of Robert J. Barro's 1991 paper in the Quarterly Journal of Economics?",
+      "answer": "Economic growth in a cross section of countries."
+    },
+    {
+      "question": "In what year was the NBER working paper 'Searching for STARS: Work experience as a job market signal for workers without bachelor\u2019s degrees' published?",
+      "answer": "2020."
+    },
+    {
+      "question": "Who wrote 'The health and wealth of nations'?",
+      "answer": "David E. Bloom and David Canning."
+    },
+    {
+      "question": "Who edited the Handbook of Labor Economics where Devereux published 'Recent developments in intergenerational mobility'?",
+      "answer": "Orley Ashenfelter and David Card."
+    },
+    {
+      "question": "What is the title of the NBER working paper published by Blair et al. in March 2020?",
+      "answer": "Searching for STARS: Work experience as a job market signal for workers without bachelor\u2019s degrees."
+    },
+    {
+      "question": "In what year was the Annual Review of Economics publication 'Health, human capital, and development' by Bleakley published?",
+      "answer": "2010."
+    },
+    {
+      "question": "Who are the authors of 'The returns to higher education in Britain: Evidence from a British cohort' published in the Economic Journal?",
+      "answer": "Richard Blundell et al."
+    },
+    {
+      "question": "What is the topic of the discussion paper number 11939 published by IZA Institute of Labor Economics in November 2018?",
+      "answer": "Health and economic growth."
+    },
+    {
+      "question": "According to Carucci, what should companies do to retain new hires?",
+      "answer": "Spend more time onboarding them."
+    },
+    {
+      "question": "What is the title of the publication by Chetty et al. in Science, volume 356, number 6336, April 2017?",
+      "answer": "The fading American dream: Trends in absolute income mobility since 1940."
+    },
+    {
+      "question": "Who published 'The economic value of college majors'?",
+      "answer": "Georgetown University, Center on Education and the Workforce."
+    },
+    {
+      "question": "What is the title of the literature review published by Choudhury et al. in ITIHAS \u2013 The Journal of Indian Management?",
+      "answer": "Employee happiness, employee engagement, and organisational commitment: A literature review."
+    },
+    {
+      "question": "What is the main legacy of COVID-19 according to The Conference Board's report in March 2021?",
+      "answer": "Remote work and its implications for the postpandemic labor market in the US."
+    },
+    {
+      "question": "Who wrote the article 'Skills-based hiring is on the rise'?",
+      "answer": "Joseph Fuller, Christina Langer, and Matt Sigelman."
+    },
+    {
+      "question": "In what year was the survey on the use and value of educational credentials in hiring conducted?",
+      "answer": "2018."
+    },
+    {
+      "question": "What was the title of the study conducted by Gallup and Amazon in 2021?",
+      "answer": "The American upskilling study: Empowering workers for the jobs of tomorrow."
+    },
+    {
+      "question": "Who edited 'The Handbook of Cliometrics' in which Claudia Goldin's work 'Human capital' was published?",
+      "answer": "Claude Diebolt and Michael Haupert."
+    },
+    {
+      "question": "What was the topic of Eric D. Gould, Avi Simhon, and Bruce A. Weinberg's research in the Journal of Labor Economics?",
+      "answer": "The transmission of human capital using variation in parental influence from death, divorce, and family size."
+    },
+    {
+      "question": "In what year was Michael Grossman's work 'On the concept of health capital and the demand for health' published?",
+      "answer": "1972."
+    },
+    {
+      "question": "What was the focus of Jarrod M. Haar et al.'s study across seven cultures?",
+      "answer": "Outcomes of work-life balance on job satisfaction, life satisfaction, and mental health."
+    },
+    {
+      "question": "Who wrote 'Skill formation and the economics of investing in disadvantaged children'?",
+      "answer": "James J. Heckman."
+    },
+    {
+      "question": "What was the title of the publication by International Labour Organization in 2018?",
+      "answer": "Women and men in the informal economy: A statistical picture, third edition."
+    },
+    {
+      "question": "Who compared intergenerational earnings mobility in the Nordic countries, the United Kingdom, and the United States?",
+      "answer": "Markus J\u00e4ntti et al."
+    },
+    {
+      "question": "Who are the authors of the publication 'Driving innovation: Public policy and human capital'?",
+      "answer": "Helena Lenihan, Helen McGuirk, and Kevin R. Murphy."
+    },
+    {
+      "question": "What is the title of the working paper published by NBER with number 27561?",
+      "answer": "A brief introduction to human capital measures."
+    },
+    {
+      "question": "In what year was the 'Inclusive wealth report 2018: Measuring progress towards sustainability' published?",
+      "answer": "2018."
+    },
+    {
+      "question": "Who are the authors of the publication 'A contribution to the empirics of economic growth'?",
+      "answer": "N. Gregory Mankiw, David Romer, and David N. Weil."
+    },
+    {
+      "question": "What is the title of the report published by McKinsey Global Institute in February 2021?",
+      "answer": "The future of work after COVID-19."
+    },
+    {
+      "question": "Who is the author of 'Investment in human capital and personal income distribution'?",
+      "answer": "Jacob Mincer."
+    },
+    {
+      "question": "What is the title of the OECD Review of Vocational Education and Training published in 2010?",
+      "answer": "Learning for jobs."
+    },
+    {
+      "question": "Who are the authors of 'The rise of the Western world: A new economic history'?",
+      "answer": "Douglass C. North and Robert P. Thomas."
+    },
+    {
+      "question": "In what volume and issue was 'Job creation and job destruction in the theory of unemployment' published?",
+      "answer": "Review of Economic Studies, volume 61, number 3."
+    },
+    {
+      "question": "Who published 'State-level policies to incentivize workplace learning: Impacts of California\u2019s incumbent worker training program'?",
+      "answer": "Brookings Institution."
+    },
+    {
+      "question": "Who wrote 'A contribution to the empirics of economic growth'?",
+      "answer": "Weil."
+    },
+    {
+      "question": "What is the title of the publication by Maurizio, Roxana, published in September 2021?",
+      "answer": "Employment and informality in Latin America and the Caribbean: An insufficient and unequal recovery."
+    },
+    {
+      "question": "In what year did McKinsey Global Institute publish 'The future of work after COVID-19'?",
+      "answer": "2021."
+    },
+    {
+      "question": "Who authored 'Investment in human capital and personal income distribution'?",
+      "answer": "Jacob Mincer."
+    },
+    {
+      "question": "What is the title of the publication by OECD in May 2001?",
+      "answer": "The well-being of nations: The role of human and social capital."
+    },
+    {
+      "question": "Who wrote 'Job market signaling'?",
+      "answer": "Michael Spence."
+    },
+    {
+      "question": "What is the title of the publication by McKinsey & Company published in July 2020?",
+      "answer": "Reimagining the postpandemic workforce."
+    },
+    {
+      "question": "In what journal was 'Investment in human capital' published?",
+      "answer": "American Economic Review."
+    },
+    {
+      "question": "Who are the authors of 'The rise of the Western world: A new economic history'?",
+      "answer": "Douglass C. North and Robert P. Thomas."
+    },
+    {
+      "question": "What is the title of the publication by Robert M. Solow, published in February 1956?",
+      "answer": "A contribution to the theory of economic growth."
+    },
+    {
+      "question": "Who published the book 'Successful onboarding' in 2010?",
+      "answer": "Stein, Mark, and Lilith Christiansen, McGraw-Hill Professional Publishing."
+    },
+    {
+      "question": "What is the title of the research published by the McKinsey Global Institute in November 2021?",
+      "answer": "The rise and rise of the global balance sheet: How productively are we using our wealth?"
+    },
+    {
+      "question": "In what year was the World Development Report 'Investing in health' published by the World Bank?",
+      "answer": "1993."
+    },
+    {
+      "question": "What is the main finding of the research 'Jobs lost, jobs gained: Workforce transitions in a time of automation' published in December 2017?",
+      "answer": "As many as 375 million workers around the world may need to find jobs in new occupations, requiring the acquisition of new skills."
+    },
+    {
+      "question": "Who authored the article 'Revisiting the link between job satisfaction and life satisfaction: The role of basic psychological needs'?",
+      "answer": "Unanue, Wenceslao, et al."
+    },
+    {
+      "question": "What is the title of the Economic Letter published by the Federal Reserve Bank of San Francisco in 2015?",
+      "answer": "Higher education, wages, and polarization."
+    },
+    {
+      "question": "What is the title of the report published by McKinsey Global Institute in June 2022?",
+      "answer": "Human capital at work: The value of experience"
+    },
+    {
+      "question": "What is the main finding of the research titled 'Jobs lost, jobs gained: Workforce transitions in a time of automation'?",
+      "answer": "As many as 375 million workers around the world may need to find jobs in new occupations, requiring the acquisition of new skills."
+    },
+    {
+      "question": "What is the paradox revealed by the research titled 'The rise and rise of the global balance sheet: How productively are we using our wealth?'",
+      "answer": "Bricks and mortar make up most of net worth, even as economies turn digital and intangible."
+    },
+    {
+      "question": "What is the focus of the report 'The future of work in America: People and places, today and tomorrow'?",
+      "answer": "Assessing how the health of local economies will affect their ability to adapt and thrive in the automation age."
+    },
+    {
+      "question": "In how many economies did the research 'The future of work after COVID\u201119' examine the long-term impact of COVID-19 on work?",
+      "answer": "Eight economies: China, France, Germany, India, Japan, Spain, the United Kingdom, and the United States."
+    }
+  ]
+}

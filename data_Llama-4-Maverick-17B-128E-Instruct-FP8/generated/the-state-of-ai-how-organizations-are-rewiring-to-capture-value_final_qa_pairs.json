@@ -1,0 +1,521 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses how organizations are restructuring to capture value from generative AI (gen AI). According to a McKinsey Global Survey, companies are redesigning workflows, elevating governance, and mitigating risks to achieve bottom-line impact from gen AI. Larger companies are leading the way, with CEOs often overseeing AI governance and organizations selectively centralizing elements of AI deployment, such as risk and compliance. The survey findings suggest that effective AI implementation requires a top-down approach, with C-suite leadership and engaged boards driving transformation and change management.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of respondents report that their CEO is responsible for overseeing AI governance?",
+      "answer": "Twenty-eight percent."
+    },
+    {
+      "question": "What is the element most correlated with higher self-reported bottom-line impact from an organization's gen AI use?",
+      "answer": "A CEO's oversight of AI governance."
+    },
+    {
+      "question": "What has the biggest effect on an organization's ability to see EBIT impact from its use of gen AI?",
+      "answer": "The redesign of workflows."
+    },
+    {
+      "question": "What percentage of respondents reporting gen AI use say their organizations have fundamentally redesigned at least some workflows?",
+      "answer": "Twenty-one percent."
+    },
+    {
+      "question": "Which companies are changing more quickly in terms of organizational changes related to gen AI?",
+      "answer": "Companies with at least $500 million in annual revenue."
+    },
+    {
+      "question": "What percentage of respondents reporting gen AI use by their organizations say their organizations have fundamentally redesigned at least some workflows?",
+      "answer": "Twenty-one percent."
+    },
+    {
+      "question": "Who is responsible for overseeing AI governance in 28% of organizations that use AI?",
+      "answer": "The CEO."
+    },
+    {
+      "question": "What was the R-squared value yielded by the Johnson\u2019s Relative Weights regression analysis?",
+      "answer": "0.20."
+    },
+    {
+      "question": "How many attributes were considered in the correlation analyses?",
+      "answer": "25."
+    },
+    {
+      "question": "What is the recommended approach for effective AI implementation according to Alexander Sukharevsky?",
+      "answer": "A top-down process starting with a fully committed C-suite and, ideally, an engaged board."
+    },
+    {
+      "question": "What is considered a recipe for failure in AI implementation according to Alexander Sukharevsky?",
+      "answer": "Delegating implementation to the IT or digital department."
+    },
+    {
+      "question": "How many gen AI adoption and scaling best practices were considered in the analysis?",
+      "answer": "12."
+    },
+    {
+      "question": "What percentage of respondents reported that their organizations have fundamentally redesigned at least some workflows due to gen AI use?",
+      "answer": "Twenty-one percent."
+    },
+    {
+      "question": "According to Alexander Sukharevsky, what is essential for effective AI implementation?",
+      "answer": "A fully committed C-suite and, ideally, an engaged board."
+    },
+    {
+      "question": "Why is C-suite leadership essential for AI implementation, as per Alexander Sukharevsky?",
+      "answer": "Because getting real value out of AI requires transformation, not just new technology, and successful change management and mobilization."
+    },
+    {
+      "question": "How many gen AI adoption and scaling best practices are mentioned in the text?",
+      "answer": "12."
+    },
+    {
+      "question": "What is one of the gen AI adoption and scaling best practices mentioned?",
+      "answer": "Establishing a dedicated team to drive gen AI adoption."
+    },
+    {
+      "question": "How are organizations structuring their AI deployment efforts?",
+      "answer": "Organizations are selectively centralizing elements of their AI deployment."
+    },
+    {
+      "question": "What is the typical model used for risk and compliance in AI deployment?",
+      "answer": "A fully centralized model, such as a center of excellence, is often used for risk and compliance."
+    },
+    {
+      "question": "How do organizations typically handle tech talent in AI deployment?",
+      "answer": "Respondents most often report using a hybrid or partially centralized model for tech talent."
+    },
+    {
+      "question": "What percentage of respondents review all content created by gen AI before it is used?",
+      "answer": "Twenty-seven percent of respondents say employees at their organizations review all content created by gen AI before it is used."
+    },
+    {
+      "question": "What is the expected role of leadership as organizations become more fluent with AI?",
+      "answer": "Leadership is expected to focus on higher-level tasks like impact monitoring and talent development rather than on implementation."
+    },
+    {
+      "question": "How do respondents most often report managing tech talent and adoption of AI solutions?",
+      "answer": "Using a hybrid or partially centralized model, with some resources handled centrally and others distributed across functions or business units."
+    },
+    {
+      "question": "What is the degree of centralization for risk and data governance in deploying AI solutions?",
+      "answer": "Risk and data governance are two of the most centralized elements."
+    },
+    {
+      "question": "What percentage of respondents say employees review all content created by gen AI before it is used?",
+      "answer": "27% of respondents say employees review all content created by gen AI before it is used."
+    },
+    {
+      "question": "How do organizations with less than $500 million in annual revenues manage tech talent and adoption of AI solutions compared to others?",
+      "answer": "Organizations with less than $500 million in annual revenues are more likely to report fully centralizing these elements."
+    },
+    {
+      "question": "What share of respondents says that 20 percent or less of gen-AI-produced content is checked?",
+      "answer": "A similar share to those who say all content is reviewed, around 27%, says that 20 percent or less of gen-AI-produced content is checked."
+    },
+    {
+      "question": "When was the McKinsey Global Survey on the state of AI conducted?",
+      "answer": "July 16\u201331, 2024."
+    },
+    {
+      "question": "How many participants were in the McKinsey Global Survey on the state of AI?",
+      "answer": "1,491 participants at all levels of the organization."
+    },
+    {
+      "question": "What percentage of respondents said their organizations review all gen AI outputs?",
+      "answer": "27%."
+    },
+    {
+      "question": "What are the three gen-AI-related risks that respondents most commonly say have caused negative consequences for their organizations?",
+      "answer": "Inaccuracy, cybersecurity, and intellectual property infringement."
+    },
+    {
+      "question": "Have organizations experienced a change in negative consequences from gen AI use since early 2024?",
+      "answer": "Little change; 47% say their organizations have experienced at least one consequence, compared with 44% in early 2024."
+    },
+    {
+      "question": "What is the key lesson learned about generative AI over the past two years according to Alex Singla?",
+      "answer": "It pays to think big and build a genuine and lasting competitive advantage by thinking in terms of wholesale transformative change."
+    },
+    {
+      "question": "What is the most important lesson for organizations building a competitive advantage from their AI efforts?",
+      "answer": "It pays to think big and pursue wholesale transformative change that alters their business models, cost structures, and revenue streams."
+    },
+    {
+      "question": "What approach do organizations that are successful with AI efforts take when deploying gen AI systems?",
+      "answer": "They pursue end-to-end solutions to transform entire domains, rather than taking a piecemeal, use-case-by-use-case approach."
+    },
+    {
+      "question": "What is the benefit of having an overarching, enterprise-level transformative vision for AI?",
+      "answer": "It opens up possibilities down the line, influences the data captured and models built, and allows further functionality to be deployed faster and more cheaply."
+    },
+    {
+      "question": "Why is transformative thinking important for successful AI transformations?",
+      "answer": "It forces the CEO and top team to be aligned, which is critical because successful transformations require siloed parts of the enterprise to come together in a single orchestrated effort."
+    },
+    {
+      "question": "What percentage of respondents report that their organizations are following most of the 12 adoption and scaling practices for gen AI?",
+      "answer": "Less than one-third."
+    },
+    {
+      "question": "What is the practice with the most impact on the bottom line for gen AI solutions?",
+      "answer": "Tracking well-defined KPIs for gen AI solutions."
+    },
+    {
+      "question": "What is another practice that has a significant impact on the bottom line for larger organizations deploying gen AI?",
+      "answer": "Establishing a clearly defined road map to drive adoption of gen AI."
+    },
+    {
+      "question": "What is the gen AI practice with the most impact on the bottom line?",
+      "answer": "Tracking well-defined KPIs for gen AI solutions."
+    },
+    {
+      "question": "What is another practice that has a significant impact on the bottom line in larger organizations?",
+      "answer": "Establishing a clearly defined road map to drive adoption of gen AI."
+    },
+    {
+      "question": "What percentage of respondents report that their organizations are following most of the 12 adoption and scaling practices for gen AI?",
+      "answer": "Less than one-third."
+    },
+    {
+      "question": "Are larger organizations more likely to report using adoption and scaling practices for gen AI?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What is the difference between larger and smaller organizations in terms of establishing a clearly defined road map to drive adoption of gen AI solutions?",
+      "answer": "Those at larger organizations are more than twice as likely as their small-company peers to say their organizations have established clearly defined road maps."
+    },
+    {
+      "question": "What percentage of respondents from larger organizations report having established a dedicated team to drive gen AI adoption?",
+      "answer": "52%"
+    },
+    {
+      "question": "What percentage of respondents from smaller organizations report having established a dedicated team to drive gen AI adoption?",
+      "answer": "23%"
+    },
+    {
+      "question": "How do larger organizations compare to smaller ones in terms of tracking well-defined KPIs for gen AI solutions?",
+      "answer": "14% of respondents from larger organizations report tracking well-defined KPIs for gen AI solutions, compared to 8% from smaller organizations."
+    },
+    {
+      "question": "What percentage of larger organizations have established a dedicated team to drive gen AI adoption?",
+      "answer": "52%"
+    },
+    {
+      "question": "How do larger organizations compare to smaller organizations in terms of following gen AI adoption and scaling best practices?",
+      "answer": "Larger organizations are following more adoption and scaling best practices for gen AI deployment than are smaller organizations."
+    },
+    {
+      "question": "What percentage of larger organizations have a mechanism to incorporate feedback on the performance of gen AI solutions and improve them over time?",
+      "answer": "23%"
+    },
+    {
+      "question": "What is one significant difference between companies that are capturing value from gen AI and those that are not?",
+      "answer": "Companies that are capturing value from gen AI focus as much on driving adoption and scaling as they do on the up-front technology development."
+    },
+    {
+      "question": "According to the McKinsey commentary, what are companies that report capturing value from gen AI doing to their business processes?",
+      "answer": "They are 'rewiring' their business processes to effectively embed gen AI solutions while appropriately incorporating human-in-the-loop mechanisms to validate models and outputs and effectively mitigating risks associated with the technology."
+    },
+    {
+      "question": "What percentage of larger organizations have established role-based capability training courses for gen AI?",
+      "answer": "31%"
+    },
+    {
+      "question": "How are executives adjusting their AI investment strategies, according to the McKinsey commentary?",
+      "answer": "They are paring back their strategies from trying to apply gen AI everywhere to prioritizing the domains that have the greatest potential."
+    },
+    {
+      "question": "What management practices enable companies to be successful in scaling gen AI?",
+      "answer": "Developing a clear road map for scaling, establishing and tracking KPIs, and driving change management by ensuring senior leaders are actively engaged in driving gen AI adoption."
+    },
+    {
+      "question": "What are companies that report capturing value from gen AI doing to effectively embed gen AI solutions?",
+      "answer": "They are 'rewiring' their business processes to effectively embed gen AI solutions while incorporating human-in-the-loop mechanisms to validate models and outputs and mitigate risks."
+    },
+    {
+      "question": "Have organizations' hiring practices for AI-related roles changed in the past 12 months?",
+      "answer": "Respondents working for organizations that use AI are about as likely as they were in the early 2024 survey to say their organizations hired individuals for AI-related roles in the past 12 months, except for data-visualization and design specialists, which respondents are significantly less likely to report hiring."
+    },
+    {
+      "question": "What new risk-related roles are becoming part of organizations' AI deployment processes?",
+      "answer": "AI compliance specialists and AI ethics specialists, with 13% and 6% of respondents reporting hiring for these roles, respectively."
+    },
+    {
+      "question": "Which AI-related role will be in high demand in the year ahead?",
+      "answer": "AI data scientists, with half of respondents whose organizations use AI saying their employers will need more data scientists over the next year."
+    },
+    {
+      "question": "Have respondents' perceptions of the difficulty in hiring for AI-related roles changed over the past two years?",
+      "answer": "Yes, a smaller share of respondents than in the past two years describe hiring for many AI-related roles as 'difficult' or 'very difficult'."
+    },
+    {
+      "question": "Do organizations expect to undertake more AI-related reskilling in the next three years?",
+      "answer": "Yes, many respondents say that they expect to undertake more AI-related reskilling in the next three years than they conducted in the past year."
+    },
+    {
+      "question": "How do respondents report using the time saved by deploying gen AI?",
+      "answer": "Respondents most often report that employees are spending the time saved via automation on entirely new activities. They also often say that employees are spending more time on existing responsibilities that have not been automated."
+    },
+    {
+      "question": "What is the trend in the difficulty of hiring for AI-related roles according to the survey?",
+      "answer": "Smaller shares of respondents report difficulty in hiring for AI-related roles, compared with previous years."
+    },
+    {
+      "question": "What do respondents expect to do regarding AI-related reskilling in the next three years?",
+      "answer": "Many respondents expect to undertake more AI-related reskilling in the next three years than they conducted in the past year."
+    },
+    {
+      "question": "What is one of the organizational attributes with the largest impact on bottom-line value realized from gen AI?",
+      "answer": "Head count reductions are one of the organizational attributes with the largest impact on bottom-line value realized from gen AI."
+    },
+    {
+      "question": "What share of employees have been reskilled in the past year due to AI use?",
+      "answer": "44% of respondents reported that up to 5% of their employees were reskilled in the past year due to AI use."
+    },
+    {
+      "question": "What share of employees are expected to be reskilled over the next 3 years due to AI use?",
+      "answer": "19% of respondents expect that more than 50% of their employees will be reskilled over the next 3 years due to AI use."
+    },
+    {
+      "question": "What is one of the organizational attributes with the largest impact on bottom-line value realized from gen AI?",
+      "answer": "Head count reductions."
+    },
+    {
+      "question": "What percentage of respondents expect to reskill more than 50% of their employees over the next 3 years due to AI use?",
+      "answer": "19%."
+    },
+    {
+      "question": "What is the expectation of a plurality of respondents regarding the impact of gen AI on their organization's workforce size in the next three years?",
+      "answer": "They predict it will have little effect."
+    },
+    {
+      "question": "Which industry's survey respondents are more likely to expect a workforce reduction than no change due to gen AI?",
+      "answer": "Financial services."
+    },
+    {
+      "question": "In which business functions do respondents most often predict decreasing head count due to gen AI use?",
+      "answer": "Service operations and supply chain and inventory management."
+    },
+    {
+      "question": "In which business functions are respondents more likely to expect increasing head count due to gen AI?",
+      "answer": "IT and product development."
+    },
+    {
+      "question": "What is the expected change in head count in service operations due to gen AI use?",
+      "answer": "Respondents most often predict that gen AI use will lead to decreased head count in service operations."
+    },
+    {
+      "question": "In which business functions do respondents expect an increase in the number of employees due to gen AI use?",
+      "answer": "Respondents are actually anticipating an increase in the number of employees in functions including software engineering and product development."
+    },
+    {
+      "question": "What percentage of respondents reported using AI in at least one business function in 2024?",
+      "answer": "78 percent of respondents say their organizations use AI in at least one business function."
+    },
+    {
+      "question": "Which business function saw the largest increase in AI use in the past six months?",
+      "answer": "The business function that saw the largest increase in AI use in the past six months is IT."
+    },
+    {
+      "question": "How many business functions are organizations using AI in, on average?",
+      "answer": "Organizations are using AI in an average of three business functions."
+    },
+    {
+      "question": "How many business functions are organizations using AI in on average, according to the survey?",
+      "answer": "Three business functions."
+    },
+    {
+      "question": "What percentage of respondents reported using gen AI in at least one business function in the second half of 2024?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "In which business functions are organizations most often using gen AI?",
+      "answer": "Marketing and sales, product and service development, service operations, software engineering, and IT."
+    },
+    {
+      "question": "Has the use of AI in organizations accelerated in the past year?",
+      "answer": "Yes, it has accelerated markedly."
+    },
+    {
+      "question": "How has the definition of AI use changed over the years according to the survey?",
+      "answer": "The definition changed from using AI in a core part of the organization's business or at scale in 2017, to embedding at least 1 AI capability in business processes or products in 2018-19, to adopting AI in at least 1 function since 2020."
+    },
+    {
+      "question": "What percentage of respondents reported that their organizations regularly use gen AI in at least one business function in early 2024?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "In which business functions are organizations most often using gen AI?",
+      "answer": "Marketing and sales, product and service development, service operations, and software engineering."
+    },
+    {
+      "question": "Do gen AI deployment patterns vary by industry?",
+      "answer": "Yes, deployment within other functions varies greatly according to industry."
+    },
+    {
+      "question": "How does gen AI deployment vary by company size?",
+      "answer": "Companies with more than $500 million in annual revenues are using gen AI throughout more of their organizations than smaller companies are."
+    },
+    {
+      "question": "What is the percentage of respondents using gen AI in marketing and sales across different industries?",
+      "answer": "The percentages vary by industry, but all industries have begun to use gen AI in marketing and sales."
+    },
+    {
+      "question": "What was the percentage of respondents reporting regular gen AI use in at least one business function by the time of the survey after early 2024?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "In which business functions are organizations most often using gen AI?",
+      "answer": "Marketing and sales, product and service development, service operations, and software engineering."
+    },
+    {
+      "question": "Do larger companies use gen AI more than smaller companies?",
+      "answer": "Yes, companies with more than $500 million in annual revenues are using gen AI throughout more of their organizations than smaller companies are."
+    },
+    {
+      "question": "What percentage of C-level executives are regularly using gen AI at work?",
+      "answer": "53%"
+    },
+    {
+      "question": "Which group is using gen AI more, C-level executives or midlevel managers?",
+      "answer": "C-level executives"
+    },
+    {
+      "question": "What is the trend in individual use of gen AI among respondents from 2023 to 2024?",
+      "answer": "Individual use of gen AI increased significantly in 2024."
+    },
+    {
+      "question": "In which industry is the use of gen AI in 'Marketing and sales' the highest?",
+      "answer": "Technology"
+    },
+    {
+      "question": "What percentage of surveyed executives say they are regularly using gen AI at work?",
+      "answer": "53 percent."
+    },
+    {
+      "question": "How does the percentage of executives using gen AI compare to midlevel managers?",
+      "answer": "53 percent of executives compared to 44 percent of midlevel managers."
+    },
+    {
+      "question": "Is there a variation in individuals' use of gen AI across industries and regions?",
+      "answer": "Yes, there is variation in individuals' use of gen AI across industries and regions."
+    },
+    {
+      "question": "How has the use of gen AI changed over time according to respondents?",
+      "answer": "Respondents are much more likely now than in 2023 and in early 2024 to say they are using gen AI."
+    },
+    {
+      "question": "What is the source of the data presented in the exhibit?",
+      "answer": "McKinsey Global Surveys on the state of AI, 2023\u201324."
+    },
+    {
+      "question": "What was the sample size for respondents born in 1964 or earlier in 2024 part 2?",
+      "answer": "n = 171"
+    },
+    {
+      "question": "What was the source of the data presented in the exhibit?",
+      "answer": "McKinsey Global Surveys on the state of AI, 2023\u201324"
+    },
+    {
+      "question": "In which year did respondents start using gen AI tools more frequently?",
+      "answer": "2024"
+    },
+    {
+      "question": "What was the percentage of respondents in the technology industry who had tried gen AI tools at least once in July 2024?",
+      "answer": "The exact percentage is not directly stated, but it can be inferred from the data that it was a significant portion of the 199 respondents."
+    },
+    {
+      "question": "What was the total number of respondents from the financial services industry in July 2024?",
+      "answer": "n = 193"
+    },
+    {
+      "question": "Which region had the highest percentage of respondents regularly using gen AI tools for work in July 2024?",
+      "answer": "The exact percentage is not directly comparable across regions, but North America had 22% of respondents regularly using gen AI tools for work."
+    },
+    {
+      "question": "What percentage of respondents report that their organizations use gen AI to create text outputs?",
+      "answer": "63 percent."
+    },
+    {
+      "question": "What percentage of respondents report that their organizations use gen AI to create images?",
+      "answer": "More than one-third, or 36 percent."
+    },
+    {
+      "question": "What percentage of respondents report that their organizations use gen AI to create computer code?",
+      "answer": "More than one-quarter, or 27 percent."
+    },
+    {
+      "question": "In July 2024, how many respondents were from the technology sector?",
+      "answer": "199."
+    },
+    {
+      "question": "What is the source of the data presented in the text?",
+      "answer": "McKinsey Global Surveys on the state of AI, 2023\u201324."
+    },
+    {
+      "question": "In which year were analyses updated to include additional industries within advanced industries and energy and materials?",
+      "answer": "2023."
+    },
+    {
+      "question": "What is the total number of participants in the McKinsey Global Survey on the state of AI in July 2024?",
+      "answer": "1,491."
+    },
+    {
+      "question": "What percentage of respondents reported a revenue increase of more than 10% from gen AI use in the business function of 'Software engineering' in the second half of 2024?",
+      "answer": "9%"
+    },
+    {
+      "question": "In the second half of 2024, what percentage of respondents reported cost reductions of 20% or more from gen AI use in the 'Supply chain and inventory management' function?",
+      "answer": "7%"
+    },
+    {
+      "question": "What is the overall trend in respondents' reports of revenue increases from gen AI use between early 2024 and the second half of 2024?",
+      "answer": "Larger shares of respondents say that their organizations' gen AI use cases have increased revenue within the business units deploying them."
+    },
+    {
+      "question": "According to the survey, what percentage of respondents reported that their organization's use of gen AI had a tangible impact on enterprise-level EBIT?",
+      "answer": "Less than 20% (17% say 5 percent or more of their organization's EBIT in the past 12 months is attributable to the use of gen AI)"
+    },
+    {
+      "question": "In the business function of 'Marketing and sales', what percentage of respondents reported a revenue increase of 6-10% from gen AI use in the second half of 2024?",
+      "answer": "12%"
+    },
+    {
+      "question": "What percentage of respondents reported that their organizations aren't seeing a tangible impact on enterprise-level EBIT from their use of gen AI?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "In which business function did half of the respondents who reported gen AI use say it had reduced costs?",
+      "answer": "HR."
+    },
+    {
+      "question": "What percentage of respondents say 5 percent or more of their organization's EBIT in the past 12 months is attributable to the use of gen AI?",
+      "answer": "17 percent."
+    },
+    {
+      "question": "In the second half of 2024, what percentage of respondents reported a decrease of \u226520% in costs within business units using gen AI in supply chain and inventory management?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "According to the survey, who are leading in their own use of gen AI?",
+      "answer": "C-level executives."
+    },
+    {
+      "question": "Who are the global coleaders of QuantumBlack, AI by McKinsey?",
+      "answer": "Alex Singla and Alexander Sukharevsky."
+    },
+    {
+      "question": "How many participants responded to the online survey conducted by McKinsey?",
+      "answer": "1,491 participants."
+    },
+    {
+      "question": "What percentage of respondents work for organizations with more than $500 million in annual revenues?",
+      "answer": "Forty-two percent."
+    },
+    {
+      "question": "How were the survey data adjusted?",
+      "answer": "The data are weighted by the contribution of each respondent\u2019s nation to global GDP."
+    },
+    {
+      "question": "When was the online survey conducted?",
+      "answer": "From July 16 to July 31, 2024."
+    }
+  ]
+}

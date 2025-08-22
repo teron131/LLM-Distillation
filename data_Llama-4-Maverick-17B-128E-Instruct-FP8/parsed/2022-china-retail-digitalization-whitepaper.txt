@@ -1,0 +1,4645 @@
+2022 China Retail 
+Digitalization Whitepaper
+The next frontier of digital transformation in China’s 
+retail industry
+
+September 2022
+
+Executive 
+summary
+
+As China wrestles with macro-economic 
+uncertainty amid persistent outbreaks of 
+COVID-19, retailers are under increasing 
+pressure to adapt to slowing sales growth 
+and heightened competitive intensity. 
+
+McKinsey research conducted in 
+partnership with the China Chain Store 
+& Franchise Association suggests that, 
+despite significant investment in omni-
+channel expansion, retailers are struggling 
+to turn a strategic focus on digital into 
+improved financial performance. 
+
+This white paper provides a compelling 
+snapshot of China’s retail market and 
+essential guidance for executives seeking 
+to navigate the next phase of growth by 
+implementing digital transformations. Key 
+takeaways include: 
+
+ — A majority (85 percent) of retailers 
+have not fully realized the benefits 
+of investing in digital, and are caught 
+between expanding online operations 
+and implementing ‘digital intelligence’ 
+initiatives. 
+
+ — Most retailers are focused on building 
+
+front-end digital capacity. Digitalizing the 
+mid and back-end of the value chain, or 
+core business modules and back office 
+infrastructure, remains a challenge. 
+
+ — Driving return on investment is proving 
+problematic. While many retailers have 
+invested heavily in digital transformation 
+and appointed C-suite executives to lead 
+the process, fewer than half expect to 
+recoup their costs within three years.
+
+ — Two-thirds of retailers believe that 
+
+redesigning organizational structure 
+and operating models to support digital 
+transformation is one of three keys to 
+successful digitalization.
+
+ — Implementing organizational change is 
+difficult and slows down the process; 
+more than half of retail executives lack 
+a clear plan for what they are trying to 
+achieve, not to mention the digital talent 
+necessary to implement change. 
+
+ — Four trends are reshaping Chinese retail: 
+The potential for digital transformation 
+to improve efficiency is expanding as 
+market growth slows; the era of the 
+online ‘traffic dividend’ has ended, 
+demanding greater effort to attract and 
+retain customers; retailers are intently 
+focused on merchandise quality to drive 
+sales; and stores are embracing more 
+diverse roles as they turn into experience 
+and online fufillment centers. 
+
+ — Each type of retail format, ranging 
+
+from hypermarkets to supermarkets, 
+convenience stores, shopping malls, 
+and specialty stores, faces market 
+challenges that can be addressed 
+through targeted digital interventions. 
+This paper provides a breakdown of 
+the challenges in each segment and 
+examples of digital initiatives that can 
+best address them. 
+
+ — Successful retail digital transformations 
+are united in requiring four key enablers 
+to be implemented in tandem: a 
+multifaceted ‘middle office’, a complete 
+cultural, organizational, and mindset 
+shift, the implementation of artificial 
+intelligence at scale, and the deployment 
+of affordable in-store technology that 
+serves as a data source for new digital 
+initiatives.
+
+Preface 
+
+Over the past decade, China’s retail industry 
+has weathered seismic disruptions triggered 
+by near ubiquitous smartphone ownership. 
+Mobile commerce has surged, spurring the 
+rise of the ‘new retail’ concept that blends 
+offline and digital commerce. More recently, 
+the onset of COVID-19 has accelerated 
+the adoption of new retail technologies 
+and online channels have flourished and 
+fragmented. 
+
+Encouraged by the digital shift, China’s 
+Internet firms have stepped into retail and 
+now vie for market share against offline 
+incumbents. Retailers of both types 
+recognize that the nature of their industry 
+has changed forever, and are remolding 
+their operations through digitalization – the 
+reorganization of business activities around 
+digital technologies. 
+
+But a narrow emphasis on omni-channel 
+expansion has succeeded only in 
+depressing retail profits without achieving 
+significant earnings growth. The true 
+benefits of digital transformation have 
+yet to be realized. Awareness is growing 
+among retail executives that successful 
+digitalization is not merely about expanding 
+online channels, but rather requires a 
+fundamental transformation so that digital 
+thinking and technology work in concert 
+across business units. 
+
+Meanwhile, the latest indicators suggest 
+that the global macro-economic 
+environment is entering a period of deep 
+turbulence, and China is no exception. 
+Persistent outbreaks of COVID-19 continue 
+to hold back China’s GDP growth, weighing 
+on consumption spending and retail 
+
+revenues, and shaping consumer behavior. 
+
+Market participants are racing to convert 
+existing digital investments into top 
+and bottom-line breakthroughs before 
+commercial pressures take their toll. In 
+our view, the uncertainty presents both a 
+challenge and an opportunity for Chinese 
+retailers intent on completing their 
+digitalization journey.
+
+This "2022 China Retail Digitalization White 
+Paper", jointly published by McKinsey 
+and the China Chain Store & Franchise 
+Association (CCFA), aims to assist retail 
+executives in putting digital at the heart of 
+their corporate structure and culture, data 
+collection and storage, operating principles, 
+and technology. 
+
+We present new research on the current 
+state of digitalization among China’s 
+retailers and an analysis of four major 
+trends reshaping Chinese retail. We also 
+provide a breakdown of the challenges 
+affecting hypermarkets, convenience 
+stores, shopping malls, and specialty stores 
+– and suggest digital solutions to overcome 
+them. Finally, we conduct a deep-dive into 
+the key enablers of a successful digital 
+transformation: middle office development, 
+digital organization, artificial intelligence (AI) 
+at scale, and in-store technology. We focus 
+on areas in which these changes can make 
+the most impact – the essential elements of 
+retail success: product strength, consumer 
+experience, and supply chain efficiency.
+
+The "2022 China Retail Digitalization Whitepaper" is jointly developed by 
+McKinsey China and China Chain Store and Franchise Association (CCFA) for 
+industry reference.
+
+Kevin Jianzhen Peng 
+Secretary General of CCFA
+
+Alex Sawaya
+Senior Partner  
+McKinsey Hong Kong office 
+
+Dr. ChenAn Xia 
+Partner
+McKinsey Shanghai office
+
+Table of 
+contents
+
+Chapter 1: The status quo: Digital transformation in China's retail industry
+
+Chapter 2: Four trends reshaping Chinese retail 
+
+Chapter 3: Market challenges and digitalization 
+
+3.1 Hypermarkets and supermarkets: Omni-channel answers to a triple 
+threat
+
+3.2 Convenience stores: Seizing digital opportunities to win the next phase
+
+3.3 Shopping malls: Embracing breakthrough digitalization
+
+3.4 Specialty stores: Advancing the value chain amid accelerating 
+digitalization
+
+Chapter 4: Four digital enablers that are key to digital transformation
+
+4.1 The middle office: Improving operational efficiency to enable diversified 
+expansion
+
+4.2 Organizational transformation: Embracing agile and reshaping culture
+
+4.3 AI at scale: Making rapid impacts across business domains 
+
+4.4 In-store technology: Reimagining future stores
+
+2
+
+8
+
+12
+
+13 
+
+23
+
+29
+
+35 
+
+38
+
+39 
+
+45
+
+51
+
+57
+
+Chapter 1
+
+The status quo: Digital 
+transformation in 
+China's retail industry
+
+2
+
+2022 China Retail Digitalization WhitepaperWe conducted in-depth interviews with 
+business leaders from more than 20 retail 
+companies and delivered questionnaires to 
+C-suite executives at nearly 40 domestic 
+retailers. Our research divided the 
+digitalization process into four stages:
+
+Digitalization 1.0: Informatization: This 
+includes IT infrastructure upgrades and 
+transformation, as well as business process 
+systematization and informatization.
+
+Digitalization 2.0: Online operations: 
+Comprising online channel expansion to 
+achieve omni-channel operations, and 
+leveraging data insights to assist business 
+decision making.
+
+Digitalization 3.0: Digital intelligence: 
+This refers to applying big data analysis to 
+drive decision making across the business, 
+automating processes and decisions, and 
+
+implementing cost reduction and efficiency 
+improvements on a large scale.
+
+Digitalization 4.0: Platform-based 
+operations and ecosystem building: 
+Covering the integration of industries or 
+value chains, development of a digital 
+business ecosystem, and the promotion and 
+empowerment of data-driven new business 
+models and industries.
+
+Our research suggests that retailers 
+are exploring online operations 
+(Digitalization 2.0) and moving towards 
+digital intelligence (Digitalization 3.0) 
+in terms of their digital transformation 
+journey. Interviews we conducted support 
+this finding: 85 percent of Chinese retailers 
+are poised somewhere between the online 
+operations and digital intelligence stages of 
+digitalization (Exhibit 1). 
+
+Exhibit 1
+! 1
+Exhibit 1
+
+4 stages of digital transformation
+4 stages of digital transformation 
+
+1.0
+
+2.0
+
+3.0
+
+4.0
+
+1.0 Informatization
+
+2.0 Online
+
+3.0 Intelligence
+
+IT infrastructure 
+upgrade and 
+transformation, 
+business process 
+systematization, and 
+informatization
+
+5%
+Interviewed 
+retailers
+
+Online channel 
+expansion to achieve 
+omni-channel 
+operations
+
+55%
+Interviewed 
+retailers
+
+Apply big data analysis-
+based business decision-
+making on all fronts, 
+achieve automation and 
+intelligence, cut costs 
+and improve efficiency 
+on a large scale
+
+30%
+Interviewed 
+retailers
+
+4.0 Platform-based 
+operations/ecosystem 
+building
+Integrate upstream 
+and downstream, build 
+a business ecosystem, 
+drive emerging 
+business with data 
+technologies, and 
+empower industries
+
+10%
+Interviewed 
+retailers
+
+Source: China Retail Digitalization CXO Survey, March – April 2022, n=33; McKinsey analysis
+
+3
+
+2022 China Retail Digitalization WhitepaperMost retailers are still focused on building 
+out front-end digital capacity and traffic 
+operations. Currently, retail enterprises 
+remain intent on developing digital direct-
+to-consumer capabilities. Digitalizing the 
+
+mid and back-end of the value chain, or 
+core business modules and back office 
+infrastructure, remains a challenge, 
+according to our research (Exhibit 2).
+
+Exhibit 2
+! 2
+Exhibit 2
+
+Most retailers still focus on front-end channels and traffic operations
+Most retailers still focus on front-end channels and traffic operations
+
+Digital capability building focuses (multiple choice, ≤ 3)
+
+70%
+
+70%
+
+Online channels and self-owned 
+platforms
+
+Omni-channel membership 
+operations
+
+Digital marketing
+
+Digital supply chain
+
+Data-driven commodity management 
+(assortment, pricing, promotion, new 
+product development)
+Data-driven store operations decisions 
+(intelligent site selection, scheduling, 
+automatic inventory replenishment)
+
+Digital and unmanned experience in 
+stores
+
+Digital internal back-office 
+management
+
+36%
+
+36%
+
+33%
+
+21%
+
+12%
+
+12%
+
+Source: China Retail Digitalization CXO Survey, March – April 2022, n=33
+
+Retailers have chosen digital 
+transformation as a key strategic focus, 
+and are investing heavily to achieve their 
+aims. Our survey suggests the majority of 
+retailers are adopting digital transformation 
+as a key strategic direction for their future 
+development, and are investing more than 
+
+3 percent of total revenue on digital. Some 
+respondents indicated they are committing 
+as much as 10 percent of revenue to their 
+digitalization program. While they expect 
+significant returns in terms of business 
+performance, the return on that investment 
+is not yet clear (Exhibits 3 and 4). 
+
+4
+
+2022 China Retail Digitalization Whitepaper! 3
+Exhibit 3
+
+Exhibit 3
+Retailers are making digital transformation a strategic focus and expect 
+big returns in terms of growth and cost savings
+Retailers are making digital transformation a strategic focus and expect
+big returns in terms of growth and cost savings
+
+94%
+
+79%
+
+Include digitalization as one of 
+their three most important 
+strategic initiatives
+
+Expect digitalization to 
+contribute at least 1/5 of results 
+growth in the next three years
+
+58%
+
+Top leaders directly lead the 
+digital transformation across the 
+company, with responsibility for 
+the planning and implementation 
+of digitalization projects
+
+76%
+
+Expect digitalization to 
+contribute at least 1/5 of cost 
+savings in the next three years
+
+Source: China Retail Digitalization CXO Survey, March – April 2022, n=33
+
+! 4
+Exhibit 4
+Exhibit 4
+…However, ROI remains a challenge
+…However, ROI remains a challenge
+
+Time for digital investment to pay for itself given current business development
+
+3+ years
+
+25%
+
+Cost recovered
+in 3 years
+
+42%
+
+33%
+
+Not yet recovered cost,
+hard to estimate
+
+45%
+
+Enterprises said one of the three 
+toughest challenges in digital 
+transformation is the highly 
+uncertain ROI. Online 
+channels/D2D business, for 
+example, have difficulty 
+achieving profit
+
+Source: China Retail Digitalization CXO Survey, March – April 2022, n=33
+
+5
+
+2022 China Retail Digitalization WhitepaperRetailers are also encountering 
+difficulties redesigning their 
+organizational structure and talent 
+acquisition processes to drive digital 
+transformation. Two-thirds of retailers 
+believe that redesigning organizational 
+structure and operational models to 
+support digital transformation is one of 
+
+three keys to successfully implementing the 
+process. In reality, advancing organizational 
+change is difficult and slows down digital 
+transformation; more than half lack a clear 
+plan for what they are trying to achieve, not 
+to mention the digital talent necessary to 
+implement change (Exhibit 5).
+
+! 5
+Exhibit 5
+Exhibit 5
+Retailers are actively reforming organization and talent acquisition, but 
+Retailers are actively reforming organization and talent acquisition, but
+this process is beset with difficulties (2/2)
+this process is beset with difficulties
+
+Challenges in digital transformation
+
+Lacking a clear strategy, goal and plan; unclear focuses for digital 
+transformation
+
+Insufficient talent due to inability to “select, nurture, and retain” 
+digital talent
+
+Highly uncertain ROI (for example, online channels have difficulty 
+achieving profit)
+
+Slow and rigid existing organization and processes that are difficult 
+to adapt to agile digital transformation
+
+Insufficient awareness and motivation of frontline employees for 
+digitalization
+
+24%
+
+Source: China Retail Digitalization CXO Survey, March – April 2022, n=33
+
+58%
+
+52%
+
+45%
+
+36%
+
+Clearly, Chinese retailers have a way to go 
+to complete their digital transformation. 
+In the following sections, we analyze 
+the digital transformation processes 
+of supermarkets and hypermarkets, 
+convenience stores (CVS), shopping malls, 
+
+and specialty stores, before extrapolating 
+best practices and sharing insights into how 
+China’s retail players can best advance the 
+digitalization process.
+
+Authors:
+Alex Sawaya is a senior partner in McKinsey’s Hong Kong office; Bruce Xia is a partner in the Shanghai office 
+where Johnny Ho is an associate partner; Dr. ChenAn Xia is a partner in the Shenzhen office
+
+6
+
+2022 China Retail Digitalization Whitepaper7
+
+2022 China Retail Digitalization WhitepaperChapter 2
+
+Four trends reshaping 
+Chinese retail
+
+8
+
+2022 China Retail Digitalization WhitepaperDeep-dive research across multiple regions 
+and channels unearthed four trends that are 
+redefining China’s retail market. Based on 
+these trends, we identify four main insights 
+for retail enterprises:
+
+1.  The scope of digital transformation 
+is widening as market growth slows
+
+     As retail growth eases and profits 
+
+decline (Exhibit 6), digital transformation 
+is evolving beyond channel expansion 
+to encompass leaner store operations 
+across both merchandise and the supply 
+chain to reduce costs and improve 
+efficiency. 
+
+! 6
+Exhibit 6
+Exhibit 6
+
+Total retail sales of consumer goods and growth rate (2016-2021)
+Total retail sales of consumer goods and growth rate (2016-2021)
+
+RMB billions
+
++3.9% p.a.
+
++6.8% p.a.
+
+32,662
+
+5,481
+
+33,827
+
+7,020
+
+36,493
+
+8,524
+
+35,245
+
+9,759
+
+39,393
+
+10,804
+
+29,652
+
+4,194
+
+Online retail
+
+Offline consumer 
+goods retail
+
+2016-2018 
+CAGR
+
+2019-2021 
+CAGR
+
+29.4%
+
+12.6%
+
+25,457
+
+27,181
+
+26,807
+
+27,969
+
+25,486
+
+28,589
+
+2.6%
+
+1.1%
+
+2016
+
+17
+
+18
+
+19
+
+20
+
+2021
+
+Source: National Bureau of Statistics of China
+
+     Supermarkets and hypermarkets’ 
+profits have significantly declined 
+amid a surge in store closures in the 
+past year, placing them at a survival 
+inflection point. In 2021, most listed 
+supermarkets and hypermarkets saw 
+year-on-year revenues and profits 
+decrease. 
+
+2.  The ‘traffic dividend’ era has 
+
+concluded 
+
+     Early digital adopters no longer benefit 
+from the shift of consumer traffic to 
+
+online channels, and it is no longer 
+sustainable to issue discounts to lock-in 
+long-term customers. With the migration 
+to online now fully complete, retailers are 
+turning their attention to improving core 
+competitiveness in order to retain existing 
+customers and attract new ones. Refining 
+omni-channel and user operations is now 
+essential for retail enterprises to monetize 
+traffic. 
+
+     As traffic dividends disappear, online 
+platforms are competing for users 
+with increasing intensity. According to 
+
+9
+
+2022 China Retail Digitalization Whitepaperthe China Internet Network Information 
+Center (CNNIC), Internet penetration 
+hit 72 percent in 2021, approaching 
+saturation when viewed in light of 
+a national urbanization level of 64 
+percent. Acquiring public domain traffic 
+is increasingly expensive, which has 
+elevated Internet-based platforms’ user 
+operation costs. For example, Alibaba’s 
+e-commerce user operation costs 
+increased by nearly 88 percent from 2017 
+to 2020.
+
+     Brick-and-mortar store traffic is 
+
+trending downward under the impact 
+of COVID-19 and traffic diversion to 
+e-commerce and door-to-door (D2D) 
+services. Previous McKinsey research 
+shows that foot traffic in retail stores had 
+not recovered to pre-COVID levels two 
+months after the peak of the pandemic 
+in 2020, with supermarkets and CVS 
+experiencing a 20 percent and 12 percent 
+drop, respectively. COVID-19 flare-ups 
+in multiple provinces and cities since the 
+beginning of 2022 have continued to hit 
+offline stores. 
+
+     Customer touchpoints and shopping 
+
+channels have fragmented both online 
+and offline, making it more complicated 
+for retailers to manage traffic domains. 
+Retailers need to not only manage online 
+communities, WeChat official accounts, 
+and WeChat enterprise accounts in 
+private domains, but also create strategies 
+for social platforms (such as Xiaohongshu) 
+and short video livestreaming platforms 
+(e.g. Douyin and Kuaishou).
+
+     User growth has plateaued, making 
+the management of existing users 
+more important. Retail enterprises 
+should build an omni-channel and refined 
+user management system. According 
+to McKinsey’s China consumer survey, 
+conducted in mid-2022, more than 89 
+
+percent of consumers changed their 
+shopping habits in the past year, by 
+trying new shopping apps and social 
+e-commerce channels, or changing the 
+stores where they normally shop. As 
+consumers become less loyal, retailers are 
+having to widen their channel offerings 
+and go to greater lengths to retain 
+customers. 
+
+3.  Retailers are refocusing on 
+
+merchandise and doubling-down 
+on quality
+
+     As consumers make more rational and 
+individualized choices, retailers need to 
+emphasize product strengths to meet 
+their needs. McKinsey’s 2022 Global 
+Consumer Sentiment Survey shows that 
+consumption upgrades and downgrades 
+are happening concurrently in the Chinese 
+grocery market. Retailers thus face both a 
+challenge and an opportunity around the 
+need to accurately match customer needs 
+with merchandise at the individual level. 
+
+     Merchandise competitiveness depends 
+
+on whether retailers can work out detailed 
+assortment and pricing strategies for 
+different customer groups. On the other 
+hand, competitiveness also relies on 
+their ability to innovate and differentiate 
+merchandise by developing own-brand 
+products, while keeping abreast of market 
+trends and iterating products. 
+
+4.  Retail stores are embracing 
+
+multiple roles 
+
+     Retail outlets are no longer just shopping 
+channels but instead serve as venues for 
+user experiences and operations. Such 
+customer-centric operations, including 
+content creation and delivery, campaign 
+organization, and lead retention and 
+conversion, are crucial to deepening the 
+bond between a brand and its customers. 
+
+10
+
+2022 China Retail Digitalization Whitepaperiii.  ‘Last mile’ delivery: A favorable layout, 
+front- and back-warehouse planning, as 
+well as order-pickup area design, can 
+play a key role in improving the efficiency 
+and reducing the costs of ‘last mile’ 
+delivery.
+
+iv.   Delivering value-added services: 
+
+Shop-floor staff not only serve as the 
+human point of connection between 
+the enterprise and consumers, but are 
+also vital for additional service delivery. 
+For shopping malls and specialty stores 
+(cosmetics, pharmacies, and mother 
+and baby stores), frontline workers and 
+shopping assistants play a crucial role in 
+driving uptake of additional services.
+
+Stores also serve as sources of instant 
+delivery and as fulfillment centers. 
+Retailers urgently need to upgrade the 
+management of stores and frontline 
+personnel through digital transformation 
+in order to cater to the following fast-
+evolving roles:
+
+i.  Hosting consumer experiences: 
+
+According to McKinsey research, 85 
+percent of consumers prefer to make a 
+purchase decision in offline stores. No 
+matter whether they choose to experience 
+and evaluate goods at stores before 
+buying elsewhere, or they buy directly 
+in stores, their preference attests to the 
+importance of creating a good shopping 
+experience at offline stores.
+
+ii.  Omni-channel user operations: Stores 
+can foster a sense of community that will 
+increase the visit frequency and loyalty 
+of customers by providing convenient 
+and user-friendly services and facilities. 
+For example, CVS can offer eating areas, 
+collection and delivery of parcels and 
+group purchases, as well as bill-payment 
+services. 
+
+Authors:
+Alex Sawaya is a senior partner in McKinsey’s Hong Kong office; Bruce Xia is a partner in the Shanghai office 
+where Johnny Ho is an associate partner; Dr. ChenAn Xia is a partner in the Shenzhen office
+
+11
+
+2022 China Retail Digitalization WhitepaperChapter 3
+
+Market challenges 
+and digitalization 
+
+12
+
+2022 China Retail Digitalization Whitepaper3.1 Hypermarkets and 
+supermarkets:  
+Omni-channel answers 
+to a triple threat
+
+In the following section, we identify threats 
+facing hypermarkets and supermarkets1 and 
+present thoughts on how to leverage digital 
+to address them.
+
+Hypermarkets experienced flat growth 
+in the past year, while supermarkets 
+experienced pressure on both revenues and 
+profits (Exhibit 7).
+
+I.  Consumer fragmentation, low 
+
+profitability, and rising costs are 
+major challenges
+
+For traditional hypermarkets and 
+supermarkets in China, disruptive 
+transformation is imperative amid 
+flatlining growth: In 2021, China’s 
+hypermarket and supermarket footprint 
+totaled RMB 3 trillion, but the market 
+recorded sluggish growth overall. 
+
+Moreover, these topline numbers 
+obscure a pernicious threat to traditional 
+supermarkets revealed by recent McKinsey 
+surveys in China, namely that they are 
+struggling to address the triple challenges 
+of consumer base fragmentation, 
+profitability issues in their online business, 
+and rising operating costs. Below we 
+explore solutions for each of the three 
+challenges in turn: 
+
+1      Hypermarkets in China are retail outlets with a commercial space of over 5,000sqm that primarily sell food, beverages, tobacco, and 
+
+other groceries. Hypermarkets also sell a range of non-grocery merchandise and typically have upwards of 10,000 stock keeping units 
+(SKUs). Supermarkets are smaller, defined as selling groceries in a selling space of between 400-3000sqm, excluding discounters, CVS 
+and independent grocery stores. They primarily sell food groceries and carry about 8-10,000 SKUs.
+
+13
+
+2022 China Retail Digitalization WhitepaperExhibit 7
+! 7
+Exhibit 7
+China hypermarket and supermarket market size and CAGR (2018-2021)
+China hypermarket and supermarket market size and CAGR (2018-2021)
+
+RMB millions
+
++2.6% p.a.
+
+2,865,919
+
+2,954,834
+
+3,050,982
+
+3,091,181
+
+2018-2021 
+CAGR
+
+2,224,418
+
+2,320,338
+
+2,417,328
+
+2,457,049
+
+3.4%
+
+641,501
+
+634,496
+
+633,654
+
+634,132
+
+-0.4%
+
+2018
+
+19
+
+20
+
+2021
+
+S
+u
+p
+e
+r
+m
+a
+r
+k
+e
+t
+
+H
+y
+p
+e
+r
+m
+a
+r
+k
+e
+
+t
+
+Source: Euromonitor; McKinsey analysis
+
+1: The consumer base is fragmenting 
+amid weak value propositions and a 
+plethora of alternatives 
+
+The grocery market is among the most 
+complicated and fast-growing in China in 
+terms of the competitive landscape and 
+pace of innovation. On the demand side, 
+the market is trending towards polarized 
+consumption where trading up and down is 
+commonplace, hyper-convenience, and an 
+
+expanding number of purchasing scenarios. 
+On the supply side, the challenges revolve 
+around responding to group buying and 
+e-commerce platforms’ cost and quality 
+advantages, as well as a failure to upgrade 
+brick-and-mortar stores’ stock-keeping 
+arrangements and layouts (Exhibit 8).
+
+14
+
+2022 China Retail Digitalization Whitepaper! 8
+Exhibit 8
+
+Exhibit 8
+Fragmented grocery formats and channels present multiple challenges
+Fragmented grocery formats and channels present multiple challenges
+
+Traditional 
+hypermarket and 
+supermarket
+
+E-commerce 
+platform
+
+Front warehouse 
+(fresh food)
+
+New retail
+
+Pricing/promotion
+
+Pricing/promotion
+
+Pricing/promotion
+
+Pricing/promotion
+
+Convenience/
+timeliness
+
+Convenience/
+timeliness
+
+Product 
+strength
+
+Convenience
+/timeliness
+
+Product 
+strength
+
+Convenience/
+timeliness
+
+Product 
+strength
+
+Product 
+strength
+
+Shopping 
+experience
+
+Service
+
+Shopping 
+experience
+
+Service
+
+Shopping 
+experience
+
+Service
+
+Shopping 
+experience
+
+Service
+
+Community 
+group buying
+
+Convenience 
+store
+
+Member’s club
+
+Pricing/promotion
+
+Pricing/promotion
+
+Pricing/promotion
+
+Convenience/
+timeliness
+
+Product 
+strength
+
+Convenience/
+timeliness
+
+Product 
+strength
+
+Convenience/
+timeliness
+
+Product 
+strength
+
+Shopping 
+experience
+
+Service
+
+Shopping 
+experience
+
+Service
+
+Shopping 
+experience
+
+Service
+
+Source: McKinsey analysis
+
+On the demand side, hypermarkets and 
+supermarkets are struggling to respond 
+to three seismic shifts in consumer 
+preferences and market competition: 
+
+Polarized consumption: On the one hand, 
+consumers are increasingly seeking the 
+most cost-efficient daily necessities; on 
+the other hand, they are prepared to pay a 
+high premium for products with which they 
+have a strong emotional connection or that 
+command a brand premium. For example, 
+14 percent of Chinese consumers are 
+trading up when buying alcohol and beauty 
+products, whereas 17 percent of consumers 
+are trading down for daily necessities and 
+white goods.
+
+Heightened demand for hyper-
+convenience: Previously, consumers 
+would walk or take a half-hour bus ride to 
+hypermarkets, but now they prefer to shop 
+nearby, or buy online for home delivery. 
+
+Diversified purchasing occasions: 
+Like the wider retail market, grocery 
+consumption has splintered across multiple 
+purchase scenarios, covering one-stop 
+stockpiling, spur of the moment purchasing 
+in-store and via home delivery, and routine 
+shopping. This places greater pressure on 
+hypermarkets and supermarkets to adapt 
+by engaging consumers through  
+omni-channel.  
+
+15
+
+2022 China Retail Digitalization WhitepaperOn the supply side, hypermarket and 
+supermarkets’ value proposition has 
+become unclear, making it difficult to 
+survive competition with other businesses 
+that outperform them in several areas, 
+including:  
+
+Convenience and timeliness: Traditional 
+hypermarkets and supermarkets mostly 
+serve ‘planned’ in-store purchases. Thus, 
+it is difficult to withstand competition 
+from new retail enterprises that are better 
+equipped to respond to rising consumer 
+demand for flexibility and speed in terms of 
+purchasing products.
+
+Cost performance: Traditional 
+hypermarkets and supermarkets struggle 
+to compete with community-based group 
+buying and integrated e-commerce 
+platforms in terms of online order fulfillment 
+costs. Mainstream integrated e-commerce 
+platforms have also had a considerable 
+impact on offline supermarkets by offering 
+lower prices in standard categories like 
+packaged snacks, mother and baby 
+products, toiletries, and household cleaning 
+products. Fresh products, an important 
+source of foot traffic in supermarkets, have 
+been disrupted by group buying – for some 
+products, the group buying price is 15-25 
+percent lower compared with supermarkets. 
+
+Product strengths: Although hypermarkets 
+and supermarkets are positioned to 
+provide a full range of products, their 
+product range and quality are inferior when 
+compared with integrated e-commerce 
+platforms. Outdated assortments and 
+mediocre product selection are increasingly 
+prominent problems. 
+
+Service and experience: Some regional 
+hypermarkets and supermarkets in lower-
+tier cities still depend heavily on manual 
+cash registers, resulting in long waiting 
+times and a poor experience. Some stores’ 
+spatial arrangement, traffic flow planning, 
+
+and shelf allocation are not consumer-
+friendly, which also weakens the shopping 
+experience.
+
+2: Omni-channel expansion is 
+accelerating, but D2D business 
+profitability is a concern 
+
+Door-to-door (D2D) service, an important 
+omni-channel business for fresh products, 
+currently relies on subsidies for growth. 
+Even leading traditional hypermarkets are 
+operating at a loss or earning low profits 
+due to high fulfillment costs. Indeed, for 
+traditional hypermarkets and supermarkets, 
+D2D business contributes to growth rather 
+than to profits, with many participants 
+reporting that the more products they 
+sell, the more money they lose. Even for 
+industry leaders, new stores (open for 
+less than six months) are suffering a loss 
+in earnings before interest and tax (EBIT) 
+of 10-15 percent. Therefore, D2D order 
+growth actually lowers hypermarket and 
+supermarket profitability. 
+
+3: Operating costs continue to rise
+
+Supermarkets and hypermarkets’ single-
+store sales are on the decline, while 
+single-store costs such as those for rent, 
+renovations, labor, and utilities keep rising. 
+This further depresses profit margins. 
+According to statistics from Chinese 
+economic data source CEIC, the average 
+salary in China’s wholesale and retail 
+industry increased by 30 percent in 2020 
+compared with 2017. Furthermore, spending 
+on protective and disinfectant supplies 
+for employees and stores amid COVID-19 
+outbreaks increased the cost burden on 
+supermarkets and hypermarkets. Finally, 
+these stores previously possessed an 
+advantage in attracting foot traffic, and 
+could obtain favorable rental terms from 
+commercial property companies, which 
+viewed their presence as a boon for their 
+overall portfolio. However, a rise in rental 
+
+16
+
+2022 China Retail Digitalization Whitepapersmaller stores allow for improved cost 
+control across procurement, warehousing, 
+logistics, store operation, and rents. 
+
+Developing multiple formats and 
+banners: By pursuing multi-brand and 
+multi-format development,  grocers can 
+create differentiated value propositions to 
+meet divergent consumer demands. 
+
+2: Deploy user operations across all 
+channels to maximize customer value 
+The first step to grow sales and profits is to 
+increase average transaction value (ATV) 
+and units per transaction (UPT) through 
+deploying omni-channel, and refining 
+user operations. Companies should aim 
+to complete transformation in these areas 
+before optimizing costs, because the value 
+of omni-channel users is significantly higher 
+than that of single-channel users in terms 
+of ATV and purchase frequency. According 
+to the D2D business data of leading chain 
+supermarkets in China, the average annual 
+spending of omni-channel users is 30 
+percent higher than that of single-channel 
+users. Supermarkets should improve user 
+operations capabilities through digital 
+operations to help achieve the following 
+aims: 
+
+i.   Deliver a tailored, data-driven and 
+
+segmented operations strategy: For 
+example, a leading new retailer divides 
+its customers into several tiers based on 
+purchase frequency and monitors daily 
+expenditure allocation and conversion in 
+each tier. This allows the retailer to map 
+out user operations strategies targeting 
+customers in each segment, such as 
+offering coupons to regular customers 
+who refer new ones to offline stores.
+
+costs appears inevitable as store leases 
+expire, and as foot traffic has declined amid 
+the proliferation of alternative purchasing 
+models.
+
+II.  Digital transformation for 
+
+hypermarkets and supermarkets: 
+5 initiatives for successful omni-
+channel growth
+
+The points above illustrate a challenging 
+status quo for traditional supermarkets. In 
+the following section, we explore five ways 
+in which hypermarkets and supermarkets 
+can tap various digitalization benefits to 
+address these issues, and turn their omni-
+channel expansion from a cost center into a 
+profit driver.
+
+1: Differentiate online and offline 
+business value propositions to stand 
+out from the market
+We have seen various players transform 
+and revitalize their value propositions with 
+positive results, and believe that a mature 
+value proposition should be differentiated in 
+at least one dimension. Here are some key 
+points to consider when reevaluating value 
+propositions: 
+
+Improving timeliness and convenience 
+through omni-channel fulfillment is 
+essential. Hypermarkets and supermarkets 
+should provide flexible delivery options to 
+meet consumers’ needs, such as 30-minute 
+delivery, as well as next-day deliveries in a 
+designated time slot, and deliveries several 
+days later.
+
+Smaller store formats and refined 
+SKUs improve product strength and 
+experience. As a legacy of their role 
+catering for one-stop shoppers, traditional 
+hypermarkets and supermarkets cover a 
+huge area and have a large number of SKUs. 
+As a result, these retailers struggle to afford 
+high rents when foot traffic decreases. 
+Simplified, narrower SKUs applicable to 
+
+17
+
+2022 China Retail Digitalization WhitepaperEnhance upstream control along the 
+fresh product supply chain, and explore 
+key product categories in depth: 
+Supermarkets can enhance upstream 
+control by moving into direct procurement 
+and setting up warehouses and processing 
+centers at product source in order to build 
+differentiated and exclusive advantages in 
+supply.
+
+Tap into private-brand value through 
+consumer insights: Leading new retailers 
+are able to leverage massive real-time 
+consumption data to quickly understand 
+consumer demand and support the 
+development of private-brand products. 
+After launching new products, they collect 
+consumer feedback and retain only the 
+most suitable seasonal products, while 
+optimizing staples. Meanwhile, they can 
+observe and respond to dynamic consumer 
+trends, opening potential to deliver 
+bestselling private-brand products.
+
+Adopt data-driven intelligent product 
+selection: Currently, the intelligent 
+product selection model combines 
+manual operations and algorithms. An 
+experienced product selection team makes 
+an algorithm model and refines it based on 
+customer insights and store data, thereby 
+determining the product portfolio. In future, 
+algorithm models will likely surpass human 
+decision-making, further improving product 
+selection and decision-making quality and 
+responsiveness.
+
+ii.  Achieve the following user operations-
+
+enabled goals:
+
+Attract new customers: For traditional 
+hypermarkets and supermarkets, leveraging 
+offline store traffic is conducive to rapidly 
+growing D2D business in the initial 
+stage. However, given the traffic growth 
+bottleneck this strategy entails, retailers still 
+need to place ads on new media and social 
+platforms to drive additional referral traffic.
+
+Increase ATV: Hypermarkets and 
+supermarkets can utilize large consumption 
+data sets to analyze customer behavior 
+and recommend suitable products, points 
+redemption ideas at checkout, price-
+break discounts or gifts, and ways to get 
+free shipping when customers make a 
+purchasing decision, thereby elevating ATV 
+and transaction volume.
+
+Stimulate repurchases and improve 
+customer loyalty: Social media-based 
+community operations, especially 
+WeChat groups, are an effective means 
+for hypermarkets and supermarkets to 
+establish a customer community, develop 
+loyal customers, and form a closed loop of 
+traffic.
+
+3: Elevate the appeal of stores and 
+products
+Powerful merchandising is a natural weapon 
+in the battle to attract new customers and 
+improve customer loyalty, especially for 
+popular fresh products. It is not sustainable 
+for hypermarkets and supermarkets to 
+drive customer growth solely by issuing 
+shopping subsidies; customer retention 
+ultimately depends on the competitive 
+edge of their merchandise. Hypermarkets 
+and supermarkets can strengthen their 
+merchandise management capabilities 
+through digital transformation initiatives by 
+doing the following:
+
+18
+
+2022 China Retail Digitalization Whitepaper4: Reduce store operating costs in key 
+business areas
+Hypermarkets and supermarkets should aim 
+to leverage digitalization to markedly lower 
+store operating costs, aiming to address the 
+following areas as a priority:   
+
+i.  Refining fresh product operations to 
+
+reduce losses
+
+Consumers frequently purchase fresh food 
+and this drives foot traffic to hypermarkets 
+and supermarkets. However, fresh food is 
+burdened by low gross profit margins, short 
+expiry dates, as well as high handling losses, 
+all of which weigh on profitability. As such, 
+hypermarkets and supermarkets should 
+prioritize refining operations in the segment 
+through digital transformation across the 
+stocking, sales, and storage process, so as to 
+increase shelf sales and reduce losses. Some 
+examples include:
+
+Sales volume forecasts and order 
+suggestions: These leverage algorithmic 
+data on store locations and surrounding 
+populations to measure the ‘penetration 
+rate’ of each category (such as the number 
+of surrounding customer groups that need 
+to buy green leafy vegetables), and generate 
+ordering suggestions. In this way, store sales 
+volume can be predicted more accurately, and 
+at the same time, stockouts and the capital 
+occupation and waste caused by overordering 
+can be avoided.
+
+Digitalized product ratings and quality 
+management: Each store evaluates product 
+quality via a store clerk app when receiving 
+goods. Fresh products can be graded so as to 
+carry out subsequent pricing and assortment 
+operations, and products can be discounted 
+immediately to accelerate turnover. This 
+ensures that consumers’ shopping experience 
+is maintained, while avoiding slow-sale losses. 
+Over the longer term, persistent product 
+quality problems can be referred back to the 
+
+purchasing team to intervene on quality 
+control.
+
+Sales progress monitoring: The system 
+automatically analyzes fresh food sales. If 
+progress is too slow, it will arrange limited 
+promotions to reduce the stock of unsold 
+goods left over after peak sales periods.
+
+Promotion optimization: Algorithms select 
+which items to put in the promotion area 
+(such as on the end shelf), to maximize the 
+efficient use of space, speed up product 
+turnover, reduce losses, and improve capital 
+utilization. The algorithm covers indicators 
+such as whether the product is in season, 
+past customer coverage and acceptance 
+(products that are too niche are not suitable 
+for promotion), consumer price sensitivity, 
+and other indicators. It then deploys a multi-
+dimensional scoring system that allows 
+for a one-vote veto of key factors such as 
+low gross profit and insufficient inventory. 
+Finally, the algorithm automatically pushes 
+the product promotion adjustment task 
+notification to employees via an app.
+
+Intelligent loss identification and 
+stocktaking, and efficient inventory 
+management: AI image recognition 
+identifies and automatically reports damage 
+to goods, improving the accuracy of loss 
+identification and management efficiency. 
+The system monitors and identifies 
+products with abnormal turnover rates and 
+notifies shop assistants to take inventory, 
+enabling the more efficient utilization of 
+staff.  
+
+ii.  Reducing fulfillment costs for D2D 
+
+business
+
+Hypermarkets and supermarkets should 
+choose the best D2D business fulfillment 
+model, which in our experience means 
+adopting an integrated store-warehouse 
+model. Some regional players can 
+
+19
+
+2022 China Retail Digitalization Whitepaperstrategically establish a ‘dark store’ – a 
+community-based transit warehouse that 
+fulfills online orders – but it is difficult for 
+a standalone warehouse to be profitable. 
+Here are the key elements of each model: 
+
+Integrated store-warehouse: This is 
+a store-based D2D delivery model that 
+can effectively redirect in-store traffic 
+online, and unifies online-and-offline 
+inventory management to accelerate 
+inventory turnover and reduce losses. One 
+disadvantage is that regions without an 
+offline store footprint are excluded.
+
+A hybrid, integrated store-warehouse and 
+dark store model: This holds the advantage 
+of covering a wider area, and can expand to 
+non-core areas in cities where it is difficult 
+to open new stores. The disadvantage lies 
+in that single warehouses are not profitable 
+below a certain order quantity. Insufficient 
+orders are likely to cause losses and 
+negatively affect corporate cash flows.
+
+In any case, hypermarkets and 
+supermarkets should conduct unified 
+inventory management across all channels 
+to accelerate inventory turnover and reduce 
+inventory costs. Under the integrated store-
+warehouse model, there are two inventory 
+management methods available:
+
+Fully unified management: Under this 
+model, the front shop and back warehouse 
+seamlessly fulfill online and offline orders. 
+Inventory for each SKU is consistent across 
+the online app/applet and store.
+
+Exclusive inventory for online bestsellers: 
+SKUs with strong online demand and 
+quick turnover can command an exclusive 
+area devoted to online delivery in the back 
+warehouse.
+
+iii. Reduce in-store labor costs
+
+Reducing labor costs is the key to achieving 
+single-store profitability as they constitute 
+
+a high proportion of total expenditures. For 
+example, labor accounts for 15 percent-
+plus of a traditional supermarket’s total 
+costs. Use cases show that traditional 
+supermarkets can reduce labor costs by 
+around 10 percent through digitalized labor 
+management. Two examples are:
+
+Using algorithmic insights to dynamically 
+schedule store labor: Some leading 
+companies use algorithms to intelligently 
+schedule store employees, and bring in 
+dynamic labor to reduce costs and improve 
+labor efficiency. BetterLife, a grocery chain 
+based in Hunan Province, for example, has 
+developed a dynamic employment platform, 
+including an order-taking system that 
+charges by the hour, which connects with 
+external personnel recruitment platforms 
+to increase stores’ per capita efficiency 
+by more than 30 percent. Meanwhile, 
+leading new retail companies are adopting 
+intelligent shift scheduling models, using 
+algorithms to predict peak hours, and 
+sending dynamic instructions to store 
+employees to direct them to key tasks at 
+different times. In this way, the average 
+number of employees in the store can be 
+reduced by nearly half. 
+
+Using algorithmic insights to increase 
+order-picking efficiency: A leading new 
+retail enterprise leverages an algorithm to 
+recommend the inventory placement of 
+each single product SKU (front store or back 
+warehouse). At the same time, the algorithm 
+automatically assigns picking orders to 
+the corresponding employees' personal 
+digital assistants (PDAs) based on product 
+display locations, order quantities, and labor 
+data, helping in-store employees complete 
+picking with the highest efficiency.
+
+20
+
+2022 China Retail Digitalization Whitepaperii.   Advanced analytics and supply chain 
+
+automation technology
+
+Leading players automate warehousing 
+and production in processing centers 
+and fresh food factories. Take Liqun as 
+an example: Its warehouse and logistics 
+system has been fully automated with a 
+robotic palletizer, and automated systems 
+for storage and retrieval (ASRS), guided 
+vehicles (AGV), and sortation. The fresh 
+food factory and central kitchen have also 
+introduced automated equipment for data-
+based production scheduling. 
+
+iii.  Cross-department decision-making 
+
+mechanisms
+
+As front-end channels and businesses 
+diversify and supply chains become 
+more complicated, hypermarkets and 
+supermarkets are demanding more 
+cross-department collaboration. 
+Consider establishing a cross-functional 
+supply chain operations room and a 
+real-time KPI board to ensure efficient 
+communication. This should aid timely 
+decision making in key areas, including 
+managing exceptional and problem cases, 
+and supply-demand coordination.
+
+5: Improve supply chain efficiency
+Hypermarkets and supermarkets can 
+improve the efficiency of their supply chains 
+by introducing the following automated and 
+digital systems:  
+
+i.   An integrated and differentiated omni-
+
+channel supply chain system
+
+Online and offline integrated 
+warehousing and distribution 
+significantly lowers costs. In some 
+supermarkets, online-to-offline, cross-
+channel and cross-model warehousing, 
+and logistics systems are siloed. Take a 
+supermarket as an example: Its offline 
+stores and integrated e-commerce business 
+(such as its flagship store on Tmall) use 
+two separate warehousing and distribution 
+systems, with stores covered by a central/
+regional distribution center (CDC/RDC), 
+and e-commerce business supported by an 
+independent warehouse. The two systems 
+are disconnected, and lack a mechanism to 
+share and coordinate tasks and inventory. 
+If the online and offline logistics systems 
+were integrated—if the CDC covered 
+demand from the RDC, offline store, and 
+e-commerce warehousing via unified omni-
+channel management, for example—costs 
+could be substantially reduced.
+
+Differentiated supply chain design 
+can enhance customer response 
+capability. For products that favor quick-
+turnover promotions, hypermarkets and 
+supermarkets can set up a warehouse near 
+the store and set aside stock to frequently 
+replenish inventory in small amounts. For 
+long-tail products, and in cities and stores 
+that are less strategically important, a 
+different, lower frequency CDC or supplier 
+can save costs and ease pressure on the 
+overall stockout rate.
+
+Authors:
+Dr. ChenAn Xia is a partner in McKinsey’s Shenzhen office and Johnny Ho is an associate partner in the 
+Shanghai office
+
+21
+
+2022 China Retail Digitalization Whitepaper22
+
+2022 China Retail Digitalization Whitepaper3.2 Convenience stores:  
+Seizing digital 
+opportunities to win 
+the next phase
+
+In this section, we address how digitally 
+enabled convenience stores2 (CVS) can 
+weather oncoming market challenges:
+
+I. Strong overall growth masks an 
+increasingly fragmented and lopsided 
+market 
+Strong consumer demand and policy 
+guidance are driving steady growth amid 
+huge market potential. Over the past 
+five years, the CVS market has registered 
+a compound annual growth rate (CAGR) 
+of 12 percent, and the sector has scaled 
+up steadily (Exhibit 9). While new retail is 
+developing rapidly and negatively impacting 
+traditional supermarkets, CVS have 
+sustained remarkable sales growth through 
+
+inherent their advantages of convenience 
+and timeliness.
+
+Meanwhile, lower-tier market expansion 
+is occurring rapidly amid extremely 
+unbalanced development. CVS 
+competitive dynamics, including the rate at 
+which some are converting to chain stores, 
+is incredibly uneven across Chinese cities 
+of different sizes. In tier-one cities, where 
+the market grew rapidly and matured early 
+on, competition is intense. In contrast, large 
+market gaps exist in lower-tier cities 
+ (Exhibit 10).
+
+2    CVS are a small grocery format that usually covers less than 400sqm and carry 1,500-2,000 SKUs.
+
+23
+
+2022 China Retail Digitalization Whitepaper! 9
+Exhibit 9
+Exhibit 9
+China’s convenience store sector has enjoyed double-digit growth
+China’s convenience store sector has enjoyed double-digit growth
+
+Industry size1  (RMB billions)
+
+China’s convenience store market has grown at a 
+double-digit CAGR (+12%) since 2017, representing 
+a steady expansion of business scale
+
+Number of convenience stores over the years 
+(10,000s)
+
+China’s convenience store market has sustained 
+double-digit growth (+18%) since 2017; growth in the 
+number of stores has slowed down due to COVID-19 
+outbreaks
+
++9% p.a.
+
+435
+
++18% p.a.
+
+21
+
+19
+
++12% p.a.
+
+304
+
+12
+
+13
+
+11
+
+2017
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+2017
+
+18
+
+19
+
+20
+
+2021
+
+1. Includes traditional convenience stores, platform-enabled convenience stores, and quasi-convenience stores; traditional convenience 
+stores include regular chain stores, franchised stores, and gas station-type stores; platform-enabled convenience stores refer to non-
+traditional chain stores that are empowered by Internet companies or their platforms; quasi-convenience stores refer to small retail 
+stores, fresh food stores, fruit stores, and drug stores that provide similar categories and services as convenience stores.
+
+Source: Development Report of China’s Convenience Stores in 2021 jointly issued by CCFA and KPMG; 
+Euromonitor
+
+Exhibit 10
+! 10
+Exhibit 10
+Lower-tier market expansion is a trend amid extremely unbalanced
+Lower-tier market expansion is a trend amid extremely unbalanced 
+development of China’s convenience stores
+development of China’s convenience stores
+
+Population covered by a single convenience store
+1,000s
+
+Tier-1 cities
+
+Tier-2 cities
+
+Tier-3/4 cities
+
+8.9
+
+3.8
+
+2.8
+
+1.2
+
+1.4
+
+1.6
+
+2.0
+
+2.4
+
+3.3
+
+3.5
+
+u
+o
+h
+z
+g
+n
+a
+u
+G
+
+i
+
+a
+h
+g
+n
+a
+h
+S
+
+g
+n
+
+i
+j
+i
+
+e
+B
+
+n
+a
+u
+g
+g
+n
+o
+D
+
+a
+h
+s
+g
+n
+a
+h
+C
+
+n
+a
+u
+y
+a
+T
+
+i
+
+n
+a
+h
+s
+g
+n
+o
+h
+Z
+
+u
+o
+h
+z
+u
+H
+
+i
+
+u
+d
+g
+n
+e
+h
+C
+
+u
+o
+h
+z
+g
+n
+a
+H
+
+1.7
+
+n
+e
+h
+z
+n
+e
+h
+S
+
+16.8
+
+10.7
+
+18.8
+
+16.9
+
+10.0
+
+8.3
+
+7.6
+
+6.6
+
+5.9
+
+5.4
+
+5.7
+
+4.4
+
+3.1
+
+o
+a
+d
+g
+n
+Q
+
+i
+
+i
+
+g
+n
+n
+n
+a
+N
+
+i
+
+g
+n
+m
+n
+u
+K
+
+n
+a
+
+’
+i
+
+X
+
+i
+
+g
+n
+q
+g
+n
+o
+h
+C
+
+n
+
+i
+j
+
+n
+a
+T
+
+i
+
+i
+
+q
+u
+m
+u
+u
+W
+
+l
+
+e
+t
+o
+a
+h
+e
+h
+u
+H
+
+n
+a
+u
+h
+c
+n
+Y
+
+i
+
+g
+n
+a
+h
+c
+Y
+
+i
+
+n
+a
+i
+t
+u
+P
+
+i
+
+g
+n
+n
+X
+
+i
+
+n
+e
+f
+n
+L
+
+i
+
+Source: Development Report of China’s Convenience Stores in 2021 jointly issued by CCFA and KPMG
+
+24
+
+2022 China Retail Digitalization WhitepaperA ‘tripartite’ competitive landscape is 
+taking shape amid accelerated market 
+integration. Unlike Japan, where the top 
+three local CVS brands share more than 80 
+percent of the market, the Chinese market 
+is characterized by multiple players, low 
+concentration, and distinct regionalization. 
+Typical market players include the following 
+three types (excluding forecourt/gas-
+station-based CVS): 
+
+i.  Premium CVS, exemplified by Japanese 
+
+stores in tier-one cities: Such stores 
+present two major benefits that favor fast 
+expansion: one is standardized, high-
+quality services; the other is high gross 
+profits, driven by differentiated products 
+with a high proportion of fresh food and 
+high-quality private-brand assortments. 
+
+ii.  Local community grocery stores: Local 
+CVS’ penetration and characteristics 
+depend on the regional market. They 
+exist on a spectrum from tobacco shops 
+or mom-and-pop stores, scaling up to 
+chain stores, and then those established 
+by department stores, supermarkets, and 
+other retail enterprises to extend market 
+penetration. The latter have local market 
+advantages in terms of store layout, 
+brand recognition, and supply chain 
+fundamentals. Traditional grocery stores 
+rely heavily on sales of tobacco, alcohol, 
+and beverages, while providing a smaller 
+assortment of fresh food and private-
+brand products. As a result, they report  
+gross profit margins (GPM) of about 25 
+percent, lower than the ~35 percent 
+GPM of premium CVS. Moreover, their 
+operations management systems and 
+franchise support mechanisms remain 
+immature and in need of standardization.
+
+iii.  New digital-enabled stores rooted in 
+
+technology, algorithms, and efficiency: 
+For example,  Bianlifeng, a fast-growing 
+
+CVS chain, is actively developing 
+stores that lean heavily on data-driven 
+technology and capabilities. The 
+company aims for a more standardized, 
+automated, and data-driven operation 
+along the value chain of traditional CVS, 
+including merchandising, logistics, store 
+operation, and marketing.
+
+II. Facing the future: 3 major 
+challenges loom 
+Although the CVS industry boasts 
+remarkable growth potential, market players 
+are encountering three primary challenges:
+
+i.  Slowing customer traffic growth 
+
+amid a squeeze on daily store sales 
+and profitability: Industry leaders are 
+rushing to claim market share, especially 
+in first-tier cities, increasing store density 
+and competition. As fewer locations can 
+generate additional customer traffic, new 
+stores no longer enjoy traffic dividends. 
+Meanwhile, the popularity of instant retail 
+and food delivery is also depressing offline 
+CVS traffic.
+
+ii.  High reliance on manual labor, 
+
+operations management difficulties, 
+and variable single-store daily sales 
+and cost controls: CVS’ performance 
+is directly related to store managers 
+and supervisors’ performance, but it 
+takes a long time to train a qualified 
+store manager and their churn rate 
+is high. This makes it difficult to find 
+competent store managers and 
+supervisors to drive at-scale expansion. 
+The standardization of services, which 
+drives overall efficiency, also takes a 
+long time to mature. Moreover, at-scale 
+expansion of CVS is highly dependent on 
+the franchise model. Large CVS brands 
+often oversee numerous franchisees 
+with vastly different levels of efficiency 
+
+25
+
+2022 China Retail Digitalization Whitepaperand operations management ability. As a 
+result, the performance of different stores 
+under the same CVS brands can range 
+from very profitable to heavily lossmaking. 
+
+iii.  Diverse regional and customer 
+characteristics demand refined 
+management: Chain CVS operate 
+under a single brand but serve customer 
+groups in different locations with unique 
+consumption and shopping scenario 
+demands, and product preferences. A 
+single model for thousands of stores 
+cannot meet the individual needs of 
+local customer groups. Instead, scaled-
+up CVS must refine or adapt their 
+store formats and management to suit 
+particular regions or customer groups. 
+
+III. Digital-enabled CVS reduce costs 
+and increase efficiency
+Digitalization is assisting leading CVS in 
+improving efficiency across site selection, 
+operations, merchandising, and the supply 
+chain, maximizing consumer conversion 
+and ATV. In the following section, we delve 
+into four major advantages of the digital 
+approach:
+
+i.  Precise site selection ensures ample 
+
+footfall 
+
+     Digital tools and processes can help 
+CVS to collect and analyze customer 
+traffic data, develop profiles of potential 
+consumers, and incorporate location 
+features into a model that recommends a 
+store site. For example, Meiyijia, a leading 
+CVS player with a presence across China, 
+analyzes data such as local consumer 
+habits, the composition of residents 
+and commuters, the characteristics of 
+the location itself (such as the presence 
+of hospitals, communities, commercial 
+centers and other surrounding formats), 
+the competitive situation, and the 
+
+proximity of public transport, to calculate a 
+score and inform site selection decisions.
+
+ii.  Data-driven merchandising 
+
+management improves store ATV and 
+GPM
+
+     Under an extensive merchandising 
+
+management model, stores mainly focus 
+on the site and the goods within the store, 
+but have a more passive attitude toward 
+consumers’ needs and experiences. 
+However, the refined management model 
+that digital CVS embrace prioritizes 
+people, designing and planning stores in a 
+customer-centric way. Stores select more 
+suitable products, better allocate shelf 
+space, and conduct pricing and marketing 
+in a more targeted manner, in order to 
+increase sales while improving GPM.
+
+     For example, a leading CVS has adopted 
+a product selection strategy based on 
+store type. When determining what 
+products to put on shelves, it first divides 
+products into daily necessities, specialty 
+categories, and other categories, and then 
+groups stores based on the surrounding 
+environment, including whether there are 
+hospitals, schools, and transportation 
+hubs in the area. This helps generate 
+accurate consumer profiles and cross-
+matching of product and store categories. 
+A scorecard for each SKU based on 
+historical sales and consumer loyalty 
+determines final selection and product 
+mix.
+
+iii.  Intelligent demand forecasting and 
+automatic inventory replenishment 
+reduces wastage and stockouts
+
+     A leading convenience store has 
+
+established a digital demand forecast 
+model based on basic store elements, 
+weather conditions, cyclical sales 
+characteristics, and other factors (such 
+
+26
+
+2022 China Retail Digitalization Whitepaperas holidays), and translated the forecast 
+results into SKU purchase guidelines. At 
+the same time, a CDC-linked automatic 
+replenishment system has cut chain-wide 
+inventory days—or the average number of 
+days SKUs are warehoused—by 20 days, 
+without increasing the stockout rate.
+
+iv.  Digital store management empowers 
+staff, supervisors, and operations 
+personnel to improve efficiency
+
+     Algorithmic store workloads enable CVS 
+
+managers to optimize labor arrangements 
+and task plans, so as to minimize work 
+hours without affecting store service 
+quality and experience. Even if employees 
+encounter unexpected conditions, the 
+system can quickly adjust to ensure 
+normal store operations. Once staff 
+scheduling is confirmed, the system 
+automatically issues task orders to 
+efficiently guide staff work arrangements.
+
+Authors:
+Johnny Ho and Yixin Ma are associate partners in McKinsey’s Shanghai office
+
+27
+
+2022 China Retail Digitalization Whitepaper28
+
+2022 China Retail Digitalization Whitepaper3.3 Shopping malls: 
+Embracing breakthrough 
+digitalization
+
+Shopping malls come in a variety of sizes 
+in China but are united in controlling 
+large commercial premises with multiple 
+retail tenants. In this section, we suggest 
+that while recent market conditions have 
+been buoyant, there are several imminent 
+challenges that will require shopping malls 
+to embrace digital transformation in order to 
+achieve sustainable performance:
+
+I. Upbeat growth presents 
+opportunities despite the wider foot 
+traffic crisis 
+Solid growth momentum has created 
+a safe harbor for offline retail in this 
+segment. In 2021, the market size of 
+
+China’s shopping malls reached RMB 
+1.4 trillion after five years of double-digit 
+growth (Exhibit 11). Despite e-commerce 
+competition and recurring COVID-19 
+outbreaks, they evolved and strengthened 
+compound advantages of large scale, 
+multiple channels, and retail experience. 
+Looking ahead, shopping malls should 
+continue to expand and capture secondary 
+growth opportunities around consumption 
+upgrading and improved shopping 
+experience.
+
+29
+
+2022 China Retail Digitalization Whitepaper! 11
+Exhibit 11
+Exhibit 11
+Market size and growth forecasts for China’s shopping malls
+Market size and growth forecasts for China’s shopping malls
+
+Market size1 and growth forecasts for China’s shopping malls,
+
+RMB trillions 
+
+8% p.a.
+
+16% p.a.
+
+1.9
+
+1.2
+
+1.1
+
+1.4
+
+1.0
+
+0.8
+
+0.7
+
+2016
+
+17
+
+18
+
+19
+
+20
+
+21
+
+2025E
+
+1. Market size calculated using retail terminal sales of commercial properties; small-sized community-based 
+
+supermarkets and outlets are not included
+
+Source: Euromonitor; desk research; McKinsey analysis 
+
+In an era of plateauing traffic growth and 
+heightened focus on managing existing 
+customers, challenges and opportunities 
+coexist for shopping malls. Although the 
+segment as a whole is stable and improving, 
+it is facing increasingly serious structural 
+problems. The commercial property market 
+is entering an era defined by competition for 
+an existing customer base characterized by 
+excess supply and low quality. 
+
+China’s shopping mall market also shows 
+an obvious ‘80-20’ distribution, quality 
+operators are scarce, and the long-tail 
+is prominent. The profitability of about 
+80 percent of projects is lower than the 
+average.
+
+Shopping malls face 5 major challenges:
+
+i.  Property developers have slowed their 
+expansion as asset-heavy operating 
+models have become unsustainable amid 
+strained cashflows. Asset securitization 
+and light-asset operations have become 
+a trend as developers seek to streamline 
+their operations.
+
+ii.  The government’s requirements for 
+
+corporate ESG (Environmental, Social 
+and Governance) disclosures continue to 
+escalate, making green and sustainable 
+development imperative.
+
+iii.  Given high homogenization, shopping 
+malls face pressure to differentiate 
+operations and innovate on content 
+marketing.
+
+30
+
+2022 China Retail Digitalization Whitepaperiv.  Merchants’ value proposition is weak. 
+
+Shopping malls need to consider how to 
+pivot from passive to active management, 
+and implement digital-enabled lean 
+operations for merchants.
+
+v.  The regional resurgence of COVID-19 
+
+adds uncertainty to the recovery of offline 
+traffic.
+
+In the following section, we summarize three 
+core initiatives that should help shopping 
+malls accelerate their digital transformation 
+and win in the new era of retail competition.
+
+II. Digital initiatives that can drive 
+sustainable shopping mall success
+The organic traffic dividend in which 
+newly built shopping malls attracted 
+large customer flows is a thing of the 
+past – shopping malls are experiencing 
+slowing sales. These enterprises thus need 
+to leverage digital to improve operational 
+capabilities, raise profitability, and achieve 
+sustainable growth. As a first step, shopping 
+malls should launch an IT infrastructure 
+transformation – connecting the siloed 
+and legacy operations systems used in 
+the traditional retail industry through 
+standard operating procedures and a digital 
+management system. 
+
+Subsequently, by introducing advanced 
+data analysis and Internet-of-Things (IoT) 
+systems, shopping malls can promote 
+digital intelligence-based business decision 
+making, boost revenue growth, and reduce 
+operating costs and energy consumption. 
+Two example initiatives include:
+
+Intelligent rental pricing and tenant mix 
+management: Leveraging advanced data 
+analytics, operators of shopping malls 
+can effectively and dynamically predict 
+the traffic and sales of different floors 
+and locations in the mall, and then adjust 
+tenant composition and rental management 
+accordingly.
+
+Smart building and green energy 
+consumption solutions: In order to meet 
+fast-evolving regulatory demands on 
+ESG and carbon neutrality, commercial 
+property enterprises should review their 
+original development model and use 
+digital management tools to incorporate 
+environmental responsibility into all aspects 
+of investment and operations.
+
+A new era in which the market focuses 
+on managing existing customers 
+has dawned. Shopping malls should 
+return to the essence of retail, and 
+leverage consumer insights to develop a 
+differentiated, customer-centric positioning. 
+Constant optimization of products and 
+service experience is necessary to carve 
+a niche, amid increasingly homogeneous 
+competition in top-tier cities, where 
+saturation is pinching market share. Below, 
+we detail three ways that leading players are 
+innovating to reshape content and develop a 
+unique positioning: 
+
+i.  Investing in independent, tailored, and 
+differentiated business operations: A 
+leading shopping center is targeting the 
+Shanghai middle class and consumers 
+with high disposable income. With this 
+customer group in mind, the shopping 
+center integrated retail and art in an 
+independent installation, offering a 
+cultural experience around the theme of 
+environmental protection, and sparking a 
+trend of similarly differentiated business 
+operations in China.
+
+ii.  Developing new consumer businesses: 
+
+SCPG Longbai Capital New Chain 
+Business Fund is supporting SCPG 
+(Vanke), a leading commercial property 
+platform, to invest in data-driven, 
+innovative consumer businesses. SCPG 
+then integrates the enterprises’ business 
+and resources within its ecosystem, 
+promoting rapid growth, and ultimately 
+
+31
+
+2022 China Retail Digitalization Whitepaperforming a new and differentiated 
+commercial property and consumer 
+business ecosystem.
+
+iii.  Exploring multi-channel integration 
+that reinvents service experience: 
+Hangzhou-based Yintai Retail Group, 
+which has a portfolio of department 
+stores, shopping malls, and an 
+ecommerce business, is developing their 
+omni-channel capabilities to improve 
+their collection of consumption data 
+and explore value-added and after-sale 
+services. For example, when consumers 
+buy shoes and bags, their system offers 
+consumers shoe and bag care, cleaning, 
+and after-sales services, which help 
+improve the shopping experience and 
+enhance consumer stickiness.
+
+Meanwhile, digital intelligence can help 
+merchants to operate more efficiently, 
+and shopping malls to explore ecological 
+value co-creation. Leading shopping malls 
+have transformed from being mere lessors 
+of space to ‘mentors’, providing merchants 
+with diversified solutions and digitally 
+empowering them across consumption 
+scenarios. Some are now actively probing 
+new commercial property innovations, 
+such as offline ‘intelligent operations’ 
+empowerment platforms, which provide 
+merchants with tools such as precision 
+marketing and operations diagnostics.
+
+Authors:
+Dr. ChenAn Xia is a partner in McKinsey’s Shenzhen office and Sophia Wang is an associate partner in the 
+Shanghai office
+
+32
+
+2022 China Retail Digitalization Whitepaper33
+
+2022 China Retail Digitalization Whitepaper34
+
+2022 China Retail Digitalization Whitepaper3.4 Specialty stores: 
+Advancing the value 
+chain amid accelerating 
+digitalization
+
+Specialty stores specialize in the sale of 
+specific types of products – a narrow range 
+but long product lines provide consumers 
+with richer options. They also often provide 
+more comprehensive services, such as 
+consulting, delivery, and after-sales services. 
+Typical formats include 3C electrical stores, 
+pharmacies, cosmetics stores, mother and 
+baby stores, glasses stores, and specialty 
+food stores. In this section, we suggest that 
+specialty stores should focus on leveraging 
+digital to improve value chain efficiency and 
+customer experience:  
+
+1. Efficiency and user experience drive 
+value creation
+The rise of specialty stores is a result of 
+‘consumption upgrading’, a trend that 
+describes how Chinese consumers are 
+demanding higher quality goods and services. 
+This has led to segmented demand and 
+retail specialization. Compared with large, 
+integrated retail businesses, specialty stores 
+
+focus on specialty products and exceptional 
+service to shape the value chain, providing 
+higher-quality and more distinctive products 
+as well as broader and better services. 
+
+Building a competitive edge in this segment 
+means refining operations along each 
+specific link in the value chain, while 
+adopting a dual focus on front-end and 
+back-end operations. The emphasis 
+at the front-end should be providing 
+a rich consumer experience across all 
+touchpoints. At the back-end, elevating 
+operational efficiency, especially supply 
+chain management, is key. Enterprises 
+should also concentrate on improving 
+customer lifetime value (CLV). A value 
+chain coordination matrix, with efficiency 
+and the user as the two axes, can help 
+companies define their position in relation to 
+competitive factors in their vertical  
+(Exhibit 12).
+
+35
+
+2022 China Retail Digitalization WhitepaperExhibit 12
+! 12
+Exhibit 12
+Specialty retail value creation is driven by efficiency and user experience
+Specialty retail value creation is driven by efficiency and user experience
+
+Efficiency first
+
+User + efficiency-driven
+
+Furnishing
+
+3C electronics
+
+E
+
+f
+f
+i
+c
+i
+e
+n
+c
+y
+d
+r
+i
+v
+e
+n
+
+User driven
+
+Source: McKinsey analysis
+
+Retail 
+pharmacy
+
+Footwear 
+& apparel
+
+Food
+
+Cosmetics
+
+Mom & baby
+User experience first
+
+Below, we flesh out scenarios under which 
+various specialty store types can focus 
+on different aspects of the value matrix to 
+improve performance: 
+
+3C electronics stores should prioritize 
+efficiency to gain competitive advantage: 
+3C electronics products are relatively 
+high value, so it is crucial to have efficient 
+circulation and cost control at the middle 
+and back end of the supply chain. Moreover, 
+as typical 3C electronics retailers operate 
+a large and complicated distribution 
+system, channel inventory turnover and 
+management transparency are often 
+bottlenecks. Therefore, retailers should 
+focus on lean franchise management, for 
+example reducing the number of distributors 
+and streamlining their networks, if they want 
+to establish a competitive advantage and 
+expand business scale.
+
+For beauty and mother and baby stores, 
+increasing CLV drives breakthroughs. 
+Specialty stores sell goods with a shorter 
+
+lifecycle and a more direct purchase-
+decision chain. Impulse buying is more 
+common, so it is necessary to develop 
+comprehensive user operations based on 
+consumer insights to elevate customer 
+experience. Delivering exceptional targeted 
+content marketing and service experience 
+can drive customer loyalty and thus raise 
+CLV. 
+
+Footwear and apparel stores, and retail 
+pharmacies, can focus on both value 
+chains and users to drive operational 
+efficiency. For example, retail pharmacies 
+are competing intensely for existing 
+customers, so lean franchise management 
+plus an efficient product supply system 
+will play an important role in accelerating 
+at-scale integration. Consumers’ health 
+awareness is also increasing, driving higher 
+requirements among pharmaceutical 
+care providers. At the same time, product 
+categories sold at pharmacies are expected 
+to become more consumption-oriented, 
+
+36
+
+2022 China Retail Digitalization Whitepaper 
+ensuring consumer insights and operations 
+will be critical to differentiating from the 
+competition. Accordingly, retail pharmacies 
+need to broaden their imagination when it 
+comes to launching value-added services, 
+and deciding product assortment.
+
+Authors:
+Bruce Xia is a partner in McKinsey’s Shanghai office and Dr. ChenAn Xia is a partner in the Shenzhen office
+
+37
+
+2022 China Retail Digitalization WhitepaperChapter 4
+
+Four digital enablers 
+that are key to digital 
+transformation
+
+38
+
+2022 China Retail Digitalization Whitepaper4.1 The middle office: 
+Improving operational 
+efficiency to enable 
+diversified expansion
+
+CXOs now view middle-office (middle 
+platform) capacity building as key to 
+increasing the operational efficiency 
+of chain retail while supporting multi-
+channel business development. Alibaba 
+pioneered the “middle office” concept in 
+2015, spurring other Internet enterprises 
+to follow suit and construct their own 
+middle-office architecture. According to 
+our research, about two-thirds of retail 
+enterprises have announced their intention 
+to build a middle office, while the remainder 
+are factoring this into their near-term 
+planning.
+
+For retail enterprises, there are three 
+primary reasons to build a middle office: 
+
+i. 
+
+ To develop common, reusable business 
+capabilities and avoid creating 
+information silos across business units, 
+systems, and data platforms, so as to 
+reduce costs and improve efficiency;
+
+ii.   To help expand new channels, regions, 
+and customer sources, and incubate 
+new and fast-growing businesses by 
+providing consistent and shareable 
+front-office capabilities;
+
+iii.   To reduce labor costs, standardize 
+
+operations, and improve efficiency– 
+middle offices reduce reliance on senior 
+store managers for rapid store expansion 
+by divesting the responsibility for sharing 
+knowledge and experience from stores 
+while unifying operational decision 
+making.
+
+Explainer: Digital middle offices in 
+the retail industry
+A complete middle office architecture 
+is usually composed of the business 
+middle office, data middle office, and 
+technology middle office, and requires 
+multi-dimensional support across business 
+units and the wider organizational structure, 
+underpinned by technology and data.
+
+39
+
+2022 China Retail Digitalization WhitepaperIn the retail industry, the front office usually 
+refers to channel touchpoints, such as 
+stores, apps, and applets that interface 
+directly with consumers. The middle office 
+serves as the operations center, providing 
+replicable, plug-and-play business 
+operations support or technical solutions 
+for front offices, such as those for supply 
+chain and product management. The back 
+office is a company’s long-term stable 
+infrastructure and shared services platform, 
+with finance and human resources serving 
+as two primary examples.
+
+For retail enterprises, the business middle 
+office is the main bearer of enterprise-
+level reusable capabilities. The data middle 
+office serves the data needs of the business 
+middle office and front office through 
+the collection, storage, processing, and 
+product-oriented use of large-scale data. 
+The technology middle office facilitates the 
+rapid build out of the business middle office 
+and data middle office through a unified 
+and convenient infrastructure and interface 
+(Exhibit 13).
+
+Exhibit 13
+! 14
+Exhibit 14
+Examples of retail middle office architecture
+Examples of retail middle office architecture
+
+Front office: store, APP, applet...
+
+Request
+
+Decision execution
+
+Data access
+
+Data scraping
+
+Business middle office
+
+User operations center
+
+Member 
+benefits
+
+Customer 
+service/
+after-sales 
+management
+
+User 
+insights & 
+analysis
+
+User lifecycle
+management
+
+User profile
+
+User 
+experience
+monitoring / 
+indicator 
+design
+
+Omnichannel 
+marketing 
+management
+
+Content 
+creation and 
+operations
+
+Store operations middle office
+
+Site 
+selection/
+network 
+planning
+
+Store 
+preparation 
+& design
+
+Employee 
+empowerm
+ent & 
+training
+
+Paym
+ents
+
+D2D 
+fulfillment
+/return 
+manageme
+nt
+
+Order
+ing
+reple
+nishm
+ent
+
+Shelf 
+manageme
+nt (traffic 
+flow, shelf 
+map)
+
+Scheduling
+/work plan
+
+Workflow/
+monitoring/
+warning/co
+mmand 
+issuance
+
+Store 
+operations 
+analysis
+
+Product innovation & commodity management middle office
+
+Market insight 
+and competitor 
+analysis
+
+Product R&D
+innovation
+
+Category 
+planning
+
+Product 
+selection and 
+mix
+
+Product 
+lifecycle 
+management
+introduction -
+withdraw
+
+Pricing and 
+price
+management
+
+Promotions 
+management
+
+Supply chain middle office
+
+Sourcing
+
+Purchase order
+
+Inventory 
+management
+
+Warehouse 
+management
+
+Logistics 
+management
+
+Supplier 
+management
+
+Data middle office (data 
+assets, storage, tag, 
+algorithmic platforms)
+
+Member data
+
+Merchandise 
+data
+
+Data
+Output
+
+Tag 
+profiling
+
+Spending/
+activity
+
+Categ
+ory/S
+KU
+
+Sales/
+order
+
+Price
+
+Store data
+
+Corporate data
+
+Store 
+oper
+ation
+data
+
+Empl
+oyee 
+tag
+
+BI dashboard
+
+Underlying technology support
+
+Underlying technology support
+
+Technology middle office (PaaS, infrastructure)
+
+Back office: human resources, finance...
+
+Source: McKinsey analysis
+
+40
+
+2022 China Retail Digitalization Whitepaperplanogram (visualization of optimal store 
+layouts) staff scheduling and work plans, 
+operation process  monitoring and order 
+issuance, payment, home delivery and 
+return management, and store operation 
+analysis.
+
+Merchandising middle office: These 
+focus on improving product gross profit and 
+single-store sales, while reducing product 
+operating costs. Regular modules covered 
+comprise category planning, assortment, 
+product life cycle management (from 
+introduction to removal), pricing and price 
+management, promotion management, and 
+other functions.
+
+Supply chain middle office: Such offices 
+centralize procurement to reduce costs, 
+and leverage large scale to establish stable 
+cooperative relationships with upstream 
+suppliers, and secure supply advantages 
+across differentiated and novel products. 
+Meanwhile, intensive and intelligent 
+warehouse management reduces supply 
+chain costs while optimizing inventory to 
+reduce capital occupation and inventory 
+depletion. Regular modules covered 
+include procurement sourcing, purchase 
+orders, inventory management, warehouse 
+management, logistics management, 
+supplier management, and other functions. 
+
+The business middle office: The 
+linchpin of digital enterprises’ 
+operational efficiency
+The business middle office is crucial to 
+improving operational efficiency and 
+carries the core competencies of the 
+retail value chain. A thorough middle 
+office strategy requires retailers to shift 
+away from an operating model in which 
+front offices shoulder a heavy operational 
+burden, instead centralizing some front-
+end operations capabilities in the business 
+middle office, thereby creating a lighter 
+operating model that makes regions and 
+stores more agile.
+
+Notably, there is no prevailing definition of 
+middle office functions, and their scope may 
+vary across different types of businesses, 
+and even across different enterprises in 
+the same industry. Taking hypermarkets, 
+supermarkets, CVS, and other grocery 
+retailers as examples, the business middle 
+office can be broadly divided into the 
+following types:
+
+User operations middle office: These aim 
+to increase the number of users, ARPU, 
+and CLV, as well as customer retention 
+and satisfaction rates. Regular modules 
+incorporated include loyalty program and 
+membership benefits, consumer insights 
+and segmentation, customer life cycle 
+management, customer service and 
+after-sales management, user experience 
+monitoring and index design, and omni-
+channel marketing management.
+
+Store operations middle office: These 
+improve single-store sales and inventory 
+turnover, and reduce store labor and 
+product shrinkage. Regular modules 
+covered include store location and network 
+planning, store preparation and design, 
+staff empowerment and training, order 
+replenishment, display management, 
+
+41
+
+2022 China Retail Digitalization WhitepaperKey considerations for retailers when 
+building a business middle office  
+The business middle office is not a 
+shared service center, but is jointly 
+responsible for business metrics with 
+front offices. Compared with a traditional 
+shared service center, the middle office is 
+defined by business needs and changes 
+with the evolution of the business. Unlike 
+the shared service center as a cost center, 
+which often only assesses “business 
+response/satisfaction” KPIs, the middle 
+office undertakes KPI objectives in 
+tandem with supported front offices. For 
+example, the user operations center should 
+be responsible for the number of active 
+members of a retailer’s CRM, as well as 
+ARPU, while the store operations center 
+should be responsible for stores’ gross 
+profit and sales.
+
+The middle office not only supports 
+front offices but also plays a supervisory 
+and coaching role. For example, the 
+user operations middle office is geared to 
+develop enterprise-level user experience-
+related indicators, monitor and review 
+the user experience KPIs of different 
+front-office business departments and 
+channels/stores, and make suggestions for 
+improvement.
+
+Clarifying responsibilities and areas 
+for collaboration between the business 
+middle office and front office is key. The 
+division of responsibilities between front 
+and middle offices should be determined 
+on a case-by-case basis according to 
+
+functions such as procurement, pricing, and 
+promotion, and in line with the individual 
+business. The extent to which the middle 
+office is given the power to coordinate, or 
+whether the front office is given decision-
+making flexibility, should be considered 
+from three main aspects:
+
+i. 
+
+ The degree to which the business 
+scenario is close to the consumer, where 
+a quick response to market changes is 
+required;
+
+ii.   Whether the business scenario or 
+
+product attributes are highly regional/
+localized and less standardized;
+
+iii.   Scenario complexity: For example, in 
+
+terms of product selection and portfolio, 
+the middle office of supermarkets and 
+hypermarkets can employ weak control 
+to grant certain decision-making power 
+to stores; whereas CVS can conduct 
+strong control after the data foundation 
+is mature and the selection model is 
+tested and iterated, with the middle 
+office making unified, pan-franchise 
+decisions on product selection.
+
+Building the middle office is a long-term, 
+complex and modular project that cannot 
+be accomplished in one move. There is 
+no standard solution for a business middle 
+office and each should be built in phases 
+that align with the individual business, 
+taking the maturity of its capabilities into 
+consideration during each phase.
+
+Authors:
+Bruce Xia is a partner in McKinsey’s Shanghai office and Dr. ChenAn Xia is a partner in the Shenzhen office
+
+42
+
+2022 China Retail Digitalization Whitepaper43
+
+2022 China Retail Digitalization Whitepaper44
+
+2022 China Retail Digitalization Whitepaper4.2  Organizational 
+transformation: 
+Embracing agile and 
+reshaping culture
+
+To make the most of digitalization, 
+retail enterprises need a compatible 
+organizational structure. Internal hurdles 
+must be removed to unleash the full value 
+of business innovation and transformation 
+when reinventing business models and 
+value chains. Organizational structure 
+thus needs to evolve in step with the major 
+stages of retail digitalization (Exhibit 14).
+
+When retail enterprises proceed towards 
+a later stage of Digitalization 3.0, digital 
+intelligence capabilities should be deeply 
+integrated with operations and product 
+teams, creating a versatile middle 
+office while promoting omni-channel 
+transformation and upgrades across the 
+value chain.
+
+45
+
+2022 China Retail Digitalization WhitepaperExhibit 14
+! 15
+Exhibit 15
+Digital organizations mature across multiple stages
+Digital organizations mature across multiple stages
+
+Organizations leading 
+digital transformation
+
+Data use case planning 
+and implementation
+
+Data 
+governance
+
+Data 
+warehouse 
+management
+
+Algorithms
+
+Digital product 
+manager
+
+Digitization 1.0: 
+informatization
+
+Digitization 2.0: online
+
+Digitization 3.0: intelligence
+
+Digitiza
+tion 
+progres
+s and 
+charact
+eristics
+
+Organizat
+ional
+structure
+
+Progress: complete informatization of 
+business processes
+
+Progress: complete omni-channel business 
+system construction
+
+Progress: intelligent management decision based on 
+big data analysis
+
+Data characteristics: data-centered 
+business operations
+
+System characteristics: traditional 
+ERP as the core system
+
+Middle office characteristics: no 
+middle office
+
+Data characteristics: user data has been 
+extended, but cross-channel data is still 
+fragmented
+
+System characteristics: incubate digital 
+products (mainly user-side)
+
+Data characteristics: data integration across all 
+channels and the entire value chain, especially 
+upstream business domain data (stores, supply 
+chain, etc.) to get complete, instant and rich data
+
+System characteristics: mature algorithm platform
+
+Middle office characteristics: capacity building 
+for some modules (e.g. user operations)
+
+Middle office characteristics: building complete 
+middle office capabilities, with multi-dimensional 
+support of organizational capabilities, data and 
+technology
+
+CEO
+
+CEO
+
+CEO
+
+R
+e
+
+t
+
+a
+
+i
+l
+
+IT
+
+…
+
+R
+e
+
+t
+
+a
+
+i
+l
+
+O
+
+f
+f
+l
+i
+
+n
+e
+
+Digital 
+Venture
+
+IT
+
+…
+
+COO
+
+IT 
+(CTO)
+
+…
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+M
+e
+m
+b
+e
+r
+s
+h
+p
+
+i
+
+E
+-
+c
+o
+m
+m
+e
+r
+c
+e
+
+O
+2
+O
+B
+u
+s
+n
+e
+s
+s
+
+i
+
+i
+
+D
+g
+i
+t
+a
+
+l
+
+P
+r
+o
+d
+u
+c
+t
+
+D
+a
+t
+a
+A
+n
+a
+y
+s
+s
+
+l
+
+i
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+O
+n
+
+l
+i
+
+n
+e
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+S
+t
+o
+r
+e
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+U
+s
+e
+r
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+C
+o
+m
+m
+o
+d
+i
+t
+y
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+…
+
+Fully integrate omni-channel 
+digital-related innovation capacity 
+building
+
+…
+
+D
+a
+t
+a
+B
+P
+
+l
+
+S
+u
+p
+p
+y
+C
+h
+a
+n
+
+i
+
+l
+
+S
+u
+p
+p
+y
+C
+h
+a
+n
+
+i
+
+G
+r
+o
+u
+p
+
+I
+n
+t
+e
+g
+r
+a
+t
+i
+o
+n
+
+D
+a
+t
+a
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+O
+n
+
+l
+i
+
+n
+e
+
+O
+p
+e
+r
+a
+t
+i
+o
+n
+s
+
+S
+t
+o
+r
+e
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+M
+e
+r
+c
+h
+a
+n
+d
+s
+e
+
+i
+
+M
+a
+n
+a
+g
+e
+m
+e
+n
+t
+
+UI/UX
+
+Data 
+Algorithms
+
+Technical 
+Engineering/D
+evelopment
+
+Digital 
+role 
+types
+
+IT is completely separated 
+from the business and takes 
+on the basic data governance 
+and underlying data warehouse 
+management roles.
+
+The digital role and business are 
+partially integrated in the Digital 
+Venture, and the data use case and 
+digital product roles are initially 
+derived.
+
+Digital capabilities and business 
+capabilities are fully integrated. Data use 
+case development and data governance 
+capabilities stem from the business 
+department, while common capabilities such 
+as products, algorithms and technology 
+platforms are undertaken by the CTO.
+
+Source: McKinsey analysis
+
+46
+
+2022 China Retail Digitalization Whitepaper 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Embracing agile work
+As retailers accelerate digital 
+transformation, adopting agile ways of 
+working is essential. Organizations in the 
+digital era should be ‘hard and soft’ – a 
+hard organizational structure provides the 
+frame for a ‘soft’ and agile working culture 
+– in order to adapt to a fast-changing 
+
+retail environment and increasingly blurred 
+business boundaries. For traditional retail 
+enterprises, agile transformation cannot 
+be achieved overnight, but requires 
+differentiated working methods tailored 
+to different business scenarios and 
+organizational structures (Exhibit 15).
+
+! 16
+Exhibit 16
+Exhibit 15
+Agile working models evolve according to application/ business scenario
+Agile working models evolve according to application/ business scenario
+
+No agile model
+
+Project-based virtual team
+
+Fully agile – Cross-functional “agile team”
+
+Product manager-led
+
+▪
+
+Agile model’s endgame for 
+retailers
+
+Agile 
+working 
+model
+
+Description Organizational structure 
+is divided by traditional 
+functional lines, with clear 
+hierarchy and vertical 
+management
+
+Applicable 
+areas
+
+Routine work involving 
+a single department,
+such as operations
+
+Source: McKinsey analysis
+
+Cross-department 
+meeting
+
+The business is still 
+managed through the 
+functional line-based 
+organizational structure, 
+with the help of virtual 
+agile teams; cross 
+business meetings are 
+held weekly.
+Internal and innovative 
+business/product 
+demand in traditional 
+business functions
+
+Marketing
+Analysis
+Operation
+IT
+▪ Determine the make-up of 
+
+3
+m
+a
+e
+T
+
+1
+m
+a
+e
+T
+
+2
+m
+a
+e
+T
+
+4
+m
+a
+e
+T
+
+5
+m
+a
+e
+T
+
+cross-functional teams, clearly 
+define power, responsibilities, and 
+the reporting mechanism, and 
+take full responsibility for the 
+development and operations of 
+specific innovative products and 
+businesses
+
+▪ Expand innovative new 
+
+business with high cross-
+departmental collaboration 
+needs, such as digital 
+innovation business and 
+emerging business
+
+Reshaping corporate culture 
+Digital transformation requires a 
+comprehensive change in corporate 
+culture to fully rejuvenate the company and 
+regenerate growth momentum. Below we 
+list three key changes that are important for 
+organizations to implement so that working 
+culture moves in step with organizational 
+change: 
+
+i. 
+
+ Embracing a management mindset 
+shift from top-down leadership 
+towards an inclusive model: 
+
+While industry changes may bring 
+unpredictable challenges, reshaping and 
+enhancing management team leadership 
+provides a backstop or failsafe for 
+retailers during digital transformation. 
+The adjustment helps leaders effectively 
+balance active and passive roles, so 
+that they can lead by example while 
+delegating powers to employees, and 
+ensuring that the latter feel comfortable 
+communicating problems and 
+suggesting solutions along the way.  
+
+47
+
+2022 China Retail Digitalization Whitepaper 
+ 
+ 
+ 
+ 
+ii.   Empowering employees: Leaders are 
+a catalyst for action. They should guide 
+the team to figure out the value, content, 
+and business impact of their actions 
+rather than excessively interfering in the 
+working process. A servant-leadership 
+model fully empowers employees to take 
+responsibility for their work and career 
+development, helping the business 
+optimally deploy staffing resources. 
+
+iii.  Adopting a hands-on approach and 
+a ‘can do’ attitude: Leaders also need 
+to deeply understand the business 
+frontline, keep an open mind, and learn 
+and experiment with employees. They 
+are expected to encourage an open and 
+transparent working environment by 
+taking the initiative to share experiences 
+and express their thoughts, before 
+inviting others to do the same. 
+
+Managing organizational change 
+Achieving digital organizational change 
+for retail enterprises is a long and arduous 
+journey. Apart from a clear vision, retailers 
+also have to clarify the path of change 
+and align related businesses so they 
+progress as one. It usually takes 18-24 
+months to truly internalize organizational 
+change and achieve comprehensive digital 
+transformation.
+
+Finally, digital organizational change is 
+intimately linked to talent and capability 
+development. To build a digital talent team, 
+improving the recruitment process for key 
+roles in digital transformation, particularly 
+for the director of the digital innovation 
+center and the chief procurement officer, 
+is a priority. A talent-to-value approach 
+can effectively guide retailers to accurately 
+identify and match digitalization talent. 
+Our research suggests 2 percent of staff 
+positions can contribute 80 percent of value 
+creation for future digital transformation 
+initiatives.
+
+Authors:
+Dr. ChenAn Xia is a partner in McKinsey’s Shenzhen office and Sophia Wang is an associate partner in the 
+Shanghai office
+
+48
+
+2022 China Retail Digitalization Whitepaper49
+
+2022 China Retail Digitalization Whitepaper50
+
+2022 China Retail Digitalization Whitepaper4.3 AI at scale:  
+Making rapid impact 
+across business domains
+
+Deploying AI at scale is a key enabler of 
+the benefits of digital transformation, and 
+a core element of the various initiatives 
+and business scenarios discussed in 
+the previous sections. However, in our 
+experience, many companies have not yet 
+figured out how to fully capture the promise 
+of AI, and struggle with implementing the 
+technology in a manner that generates 
+immediate and significant impact. In the 
+following section, we suggest several 
+steps that retailers can take to scale AI 
+successfully.3
+
+1. Set the strategy first 
+It is important to start with a plan, including 
+deciding which business domain to start 
+with, selecting the right people to drive 
+things forward, and choosing the data and 
+technology that will underpin success. 
+Different domains along the value chain 
+can improve either the company’s bottom 
+line or customer or employee experiences. 
+
+Start with the domain that has the biggest 
+potential impact. One retailer determined 
+that it had nine main business domains that 
+could benefit from digitalization: revenue 
+management, e-commerce, customer 
+experience, store format, store footprint, 
+sales force, operations, logistics, and talent. 
+
+There are two main criteria for picking 
+the best domain to begin with from this 
+comprehensive list – the quality and 
+composition of the team and the reusability 
+of data and technology. In the first case, it 
+is important to have an internal business 
+champion responsible for the entire value 
+chain. Senior business executives can then 
+act as ‘product owners’ (people responsible 
+for solution delivery), translators (who 
+bridge the analytics and business realms), 
+and ‘change leads’ (responsible for change 
+management efforts). In addition, a team of 
+AI practitioners, such as data science and 
+engineering experts, designers, business 
+analysts, and a scrum master (all of whom 
+
+3    See “Getting AI to Scale”; Fountaine, McCarthy, and Saleh; Harvard Business Review (May-June 2021)
+
+51
+
+2022 China Retail Digitalization Whitepapermay also be drawn from a central team 
+in the organization) is required. From an 
+implementation point of view, a cross-
+functional team with representation from 
+the sales force, marketing, and category 
+managers should be responsible for day-to-
+day activities. 
+
+For the data and technology aspect, 
+companies usually have components in 
+place that can be used by different domains. 
+Mapping the data and technology and 
+planning on how to reuse aspects where 
+they overlap can dramatically reduce 
+development time and cost; data and 
+technology act as enablers, not obstacles, 
+of progress. It is unnecessary to have the 
+perfect data and technical backbone in 
+place before testing and implementing use 
+cases. On the contrary, starting with the 
+business use case – or the problem you 
+want to solve or improvement you want to 
+make – and working backwards will hone 
+understanding of the data and digital tools 
+that are required, and avoid costly and time-
+consuming mistakes. 
+
+2. Reimagine business as usual
+Getting the most from AI requires 
+reinventing business models, roles and 
+responsibilities, and operational processes, 
+and using new ways of thinking and working. 
+The ultimate goal is to make AI part of 
+business as usual. It is not enough to just to 
+try an enhance an existing process using 
+AI. Companies need to rethink the entire 
+process itself to maximize the benefit of 
+new analytical techniques. 
+
+A good example is how retailers allow their 
+store managers to manage assortment 
+dynamically. Today, retailers operate 
+national and international chains with 
+customers who are demographically 
+diverse, and constantly changing their 
+
+channel affinities. This means it is important 
+to know what customers want, what kind 
+of products to put in the store, and how to 
+allocate shelf space across massive-scale 
+SKUs.  
+
+The legacy approach was plagued by 
+store manager guesswork as they tried 
+to estimate customer preferences, with 
+inaccurate forecasting leading to stockouts 
+of popular products and requiring the 
+use of open-to-buy (OTB) dollars to 
+replenish stock. Over-ordering was also 
+commonplace, increasing waste. At the 
+same time, they also struggled to test new 
+products as there was no space on the 
+shelves, or they could not predict customer 
+preferences.    
+
+In one company, store managers identified 
+and understood the issues with the existing 
+processes before mapping out what an ideal 
+alternative might look like. They identified 
+problems to solve and improvements they 
+wanted to see. The company then built an 
+AI prototype dashboard by compiling data 
+from point-of-sale (POS) systems, loyalty 
+programs, and syndicated data sources 
+to indicate which SKUs were driving 
+each category. Managers were given the 
+opportunity and power to rapidly choose 
+assortments that more precisely aligned 
+with customer needs, as well as access to 
+intuitive dashboards that visualize how many 
+and which products should be offered in 
+each category. They can view information 
+showing how adding or removing an SKU 
+would change category sales. Integrated 
+feedback loops enable the AI systems 
+to refine, update, and make product 
+recommendations based on what works, 
+rather than relying on intuition or personal 
+experience. 
+
+52
+
+2022 China Retail Digitalization Whitepaper3. Adapt to an agile way of working 
+In most cases, significant organizational 
+change is needed to adapt to the 
+interdisciplinary collaboration and the 
+agile working methods required to scale 
+AI successfully. Leaders like the CEO 
+and domain managers need to act as role 
+models, reaching across organizational 
+boundaries to make the new behavior 
+sustainable. Moving to a sound agile 
+operating model requires leadership to 
+transform from ‘masterminds’ who delegate 
+tasks and instructions in a top-down 
+manner, to ‘catalysts and collaborators’ 
+who meet with the team on a daily basis and 
+ensure the delivery of impact. 
+
+The traditional technology/IT delivery 
+model, with heavy upfront planning and little 
+flexibility, should install agile feedback loops 
+that enable a test-and-learn approach, 
+with constant reiterations refining output. 
+Organizations can then transition from a 
+focus on scheduling and protocols to one 
+that concentrates on producing better 
+products and business models. As a result, 
+businesses need interdisciplinary teams 
+that own a specific product or customer 
+journey, and take full responsibility for 
+building the right pathways.4
+
+4.  Leverage Machine Learning 
+
+Operations to industrialize AI 
+capabilities
+
+Once we have the AI prototype and process 
+in place and pilots have proven impact, the 
+next important step is to industrialize the 
+AI capability. To build, deploy, and manage 
+analytics/AI applications with speed and 
+efficiency at scale, a rapidly expanding 
+stack of technologies and services is 
+required. This enables teams to move from a 
+manual and development-focused approach 
+to one that’s more automated, modular, 
+and fit to address the entire AI lifecycle. 
+
+This best-in-class working framework, 
+often called MLOps (Machine Learning 
+Operations), enables organizations to take 
+advantage of these advances and create 
+a standard, company-wide AI ‘factory’ 
+capable of achieving scale. It ensures your 
+AI modeling and implementation withstands 
+the test of time, and that the performance 
+of your AI solutions does not degrade to the 
+point of inutility. MLOps is relatively new and 
+still evolving, and encompasses the entire 
+AI lifecycle – data management, model 
+development, and deployment, and live 
+model operations. 
+
+Building an MLOps capability will materially 
+shift how data scientists, engineers, and 
+technologists work as they move from 
+bespoke builds to a more industrialized 
+production approach. The business impact 
+of MLOps is not just about productivity 
+and speed, but also improving reliability 
+and reducing risk while refining talent 
+acquisition and retention. 
+
+5. Scale to other business domains
+Once the business sees proof of impact and 
+the organization becomes familiar with the 
+new agile way of working, the company is 
+ready to scale AI to other domains. Ideally, 
+these are domains in which either data or 
+assets can be reused, such as expanding a 
+supply chain across multiple business units, 
+or else where similar customer journey 
+mapping can be applied to another area of 
+the business. A good example of the latter 
+are typical customer value management 
+levers like next-product-to-buy or churn 
+forecasting. 
+
+Successful implementation typically also 
+means fostering a team of ‘advanced 
+analytics’ practitioners, which comes with 
+its own potential pitfalls. Depending on the 
+starting point, it can be hard to hire and 
+
+4   See ‘Why an agile transformation office is your ticket to real and lasting impact’; Anand, Kaur, Narula and Vazquez-McCall; McKinsey.com 
+
+June 30, 2021)
+
+53
+
+2022 China Retail Digitalization Whitepaperdevelop the right talent and capabilities 
+internally. We suggest that analytics 
+translators, or the people who determine 
+corporate problems that can be solved 
+through analytics solutions and work to 
+implement them, be hired or fostered 
+internally. Analytical modeling for initial use 
+cases can be outsourced to specialized 
+vendors, to speed up delivery and impact. 
+In parallel, companies can hire their own 
+analytics talent and build an internal team 
+in tandem with implementing more use 
+cases, gradually scaling existing models 
+and developing new AI applications. This 
+tends to work better than a “big bang” 
+approach of acquiring a boutique AI firm, 
+where valuations tend to be outsized and 
+integration issues are myriad.
+
+Authors:
+Alex Sawaya and Kevin Wei Wang are senior partners in McKinsey’s Hong Kong office; Dr. Daniel Zipser is 
+a senior partner in the Shenzhen office; Tiffany Kwok is a partner in the Tokyo office; and Wouter Maes is a 
+partner in the Shanghai office
+
+54
+
+2022 China Retail Digitalization Whitepaper55
+
+2022 China Retail Digitalization Whitepaper56
+
+2022 China Retail Digitalization Whitepaper4.4 In-store technology: 
+Reimagining future stores 
+
+Labor costs and labor shortages are a top 
+concern for CVS, especially in tier-one 
+Chinese cities. The average monthly salary 
+in Shanghai rose to over 11,000 RMB in 
+2021, up ~10 percent compared with the 
+previous year. Such labor cost pressure is 
+likely to only further intensify as competition 
+ripples out to lower tier cities, too. 
+
+according to McKinsey research. In the 
+store of the future, non-value-added work 
+will be rapidly digitalized and automated, 
+including cashiering, replacing shelf labels, 
+labor scheduling, and ordering, among other 
+functions. Automation of in-store operations 
+also enables stores to extend their opening 
+hours to 24/7 without additional labor costs.
+
+Adopting digital and automation solutions 
+can alleviate this pressure by improving 
+operational efficiency while elevating 
+shopping experience. Over the past year, 
+we have been working with retail partners 
+to explore future-store possibilities, and 
+have identified several key areas where 
+automation and analytics technology can 
+bring value to retailers:
+
+i. 
+
+ Improving efficiency and precision 
+in-store operations
+
+Automated store operations and 
+extended opening hours: About half of 
+the activities in retail can be automated, 
+
+Standardized store operations and 
+precision store management: Store 
+operations activities that cannot be 
+automated will be standardized in the 
+form of tasks with defined procedures and 
+protocols. IoT equipment (including cameras 
+and sensors) facilitate the automatic 
+generation and assignment of tasks to staff 
+using real-time in-store data (for example, 
+on-shelf product availability, cleanliness 
+issues, products close to expiration date). 
+At the same time, store and field managers 
+will be equipped with remote-management 
+tools to track performance in a more 
+convenient and accurate manner.
+
+57
+
+2022 China Retail Digitalization WhitepaperDigitalized store operations and impact 
+quantification: Retailers can use each 
+store’s unique data to create a ‘digital twin’ 
+store to digitalize its operations and quantify 
+their impact. For example, advanced 3D 
+depth-sensing cameras camera with 
+hand tracking and gesture recognition 
+technologies can track detailed customer 
+shopping behaviors (such as browsing, 
+or pick-up and return), enabling online 
+conversion funnel analysis in offline stores. 
+The conversion rate at each stage of the 
+customer journey can be calculated, from 
+walk-in, to stop-by, to pick-up, and final 
+purchase. Moreover, operations impact can 
+be measured, for example, how many more 
+customers are attracted by new on-shelf 
+signage.
+
+ii.   Providing a seamless and personalized 
+
+customer shopping experience
+
+Seamless checkout: About 37 percent 
+of shoppers find waiting in lines to be their 
+top frustration when shopping offline, our 
+research suggests. In future, friction across 
+key customer journeys will be reduced. 
+Consumers empowered by “grab-and-go” 
+technology will no longer have to wait in line, 
+and can instead complete a purchase in less 
+than a minute. 
+
+Personalized assortment and 
+promotions: Data collected by IoT devices 
+in store allows retailers to better understand 
+consumer preferences based on their 
+shopping behaviors. The application of 
+AI will help retailers tailor assortments 
+to consumer needs and personalize 
+recommendations for future purchases. 
+With better demand forecasting, stockouts 
+will also be reduced. 
+
+Consumer-centric store layout: Retailers 
+can derive insights from customer traffic 
+flows and visit duration to optimize store 
+layout design. Consumers should be able to 
+
+find what they are looking for more easily, 
+and at the same time will be more likely 
+to spend extra time and money on other 
+products.
+
+The economic argument for 
+automated stores 
+Automated stores can improve economic 
+performance, providing an uplift of the 
+store operating margin by 3-5 percent. 
+Value is predominantly derived from labor 
+cost reductions as well as operational 
+improvements, such as: 
+
+Using autonomous checkout technology: 
+About 25 percent of store staff work can 
+be released and reallocated (typically ~5 
+percent cost reduction on a CVS’ profit and 
+loss). Additionally, store operations can be 
+expanded to 24/7 without elevating labor 
+costs.
+
+Operational improvements driven by 
+data and analytics: High-impact use 
+cases include membership and loyalty 
+programs, personalized promotions, 
+pricing optimization, assortment and 
+merchandising, planogram optimization, 
+stockout replenishment, and precision store 
+management. 
+
+As technologies mature, the store of the 
+future has become more affordable. Over 
+the past five years, the cost of in-store 
+technology solutions has fallen rapidly – to 
+just a few hundred thousand RMB for a 
+100m2 CVS (compared with over $1 million 
+for an Amazon Go store in the United 
+States). 
+
+With reduced investment costs driving 
+improved returns, a typical new store 
+is expected to recoup the incremental 
+investment within 2-3 years (on par with 
+the average 2-3-year breakeven time for 
+opening a traditional CVS store).
+
+58
+
+2022 China Retail Digitalization WhitepaperAutomating offline stores: 4 factors 
+essential for success 
+To implement next-generation in-store 
+technology smoothly and at-scale, 
+retailers should take into consideration the 
+following elements: CEO-backed change 
+management, customer-centricity, the 
+necessary level of supporting investment, 
+and pragmatic implementation:
+
+CEO/CDO backing: The CEO/CDO needs 
+to drive change management across the 
+entire organization. Implementing new 
+technology is not simply a matter of ‘plug-
+and-play’, but requires tailored operational 
+change, and adaptation to new operating 
+models across different functions, 
+demanding buy-in from store associates 
+and supervisors, as well as regional 
+managers.  
+
+Customer-centricity: Customer-facing 
+use cases should guide the technological 
+foundation in the knowledge that there is no 
+single formula for success. Companies can 
+prioritize two or three high-value use cases 
+that are tailored to customers’ needs, easy 
+to implement, and able to carve out strong 
+near-term differentiation.
+
+Sufficient investment: Despite the 
+advantages technology can bring, retailers 
+are still heavily underinvesting in IT and 
+digital. Traditional CVS retailers typically 
+spend 0.2-0.6 percent of their revenues 
+on IT, compared with 5 percent in business 
+
+and professional services, and 7 percent 
+in banking, according to McKinsey 
+research. Substantially more investment is 
+required to succeed and deliver a complete 
+transformation.
+
+Pragmatic implementation: Developing 
+the store of the future requires a pragmatic 
+process of piloting and continuous iteration. 
+It is common to start with a small pilot with 
+a cross-functional agile team, and establish 
+a dynamic loop that allows for feedback 
+and improvements. Successful models are 
+then scaled up in batches and rolled out 
+gradually.
+
+Conclusion
+Clearly, the aforementioned digital enablers 
+of a middle office, at-scale AI, digital 
+organization, and in-store technology, 
+are all essential elements of a successful 
+digital transformation. They are also closely 
+intertwined. For example, AI-enabled 
+in-store technology is redundant if a retailer 
+lacks the organizational structure and 
+middle office capabilities to make the most 
+out of the insights IoT devices can derive. 
+Retailers and stores of the future should 
+seek to deploy the enablers in synchronized 
+fashion to drive optimum performance and 
+address the multifarious challenges present 
+in China’s retail market.
+
+Authors:
+Dr. Kai Shen is a partner in McKinsey’s Shenzhen office; Dr. Ian Yu and Johnny Ho are associate partners in 
+the Shanghai office
+
+59
+
+2022 China Retail Digitalization WhitepaperABOUT THE AUTHORS
+
+Kevin Jianzhen Peng 
+Secretary General of the 
+China Chain Store & Franchise 
+Association (CCFA)
+
+Minshi Sun 
+Director of the Industry Innovation
+and Development Department of the China Chain 
+Store & Franchise Association (CCFA)
+
+Alex Sawaya 
+Senior Partner  
+McKinsey Hong Kong office
+
+Bruce Xia
+Partner
+McKinsey Shanghai office
+
+Dr. ChenAn Xia
+Partner 
+McKinsey Shanghai office
+
+Dr. Daniel Zipser
+Senior Partner
+McKinsey Shenzhen office
+
+Dr. Ian Yu
+Associate Partner
+McKinsey Shanghai office
+
+Johnny Ho 
+Associate Partner
+McKinsey Shanghai office
+
+Dr. Kai Shen
+Partner
+McKinsey Shenzhen office
+
+Kevin Wei Wang 
+Senior Partner
+McKinsey Hong Kong office
+
+Sophia Wang
+Associate Partner
+McKinsey Shanghai office
+
+Tiffany Kwok
+Partner
+McKinsey Tokyo office
+
+Wouter Maes
+Partner 
+McKinsey Shanghai office
+
+Yixin Ma
+Associate Partner
+McKinsey Shanghai office
+
+The authors wish to thank the following colleagues for their contributions:
+Aimee Zhou, Associate; Alice Scalco, Engagement Manager; Claire Gu, Capabilities and Insight Specialist; Esme Zhang, 
+Engagement Manager; Isaac Liao, Junior Associate; Jasmine Qin, Associate; Lei Xu, Senior Knowledge Expert; Rodin Luo, 
+Implementation Coach; Suri Song, Senior Analytics Fellow; Zheng Sun, Associate Partner
+
+Contact:
+sms@ccfa.org.cn
+China_Retail@McKinsey.com 
+
+

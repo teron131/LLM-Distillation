@@ -1,0 +1,5637 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe report \"Uniquely Austin: Stewarding growth in America's boomtown\" examines the rapid growth of the Greater Austin region and the challenges that come with it. The region has experienced significant economic growth, with its GDP nearly doubling since 2010, and has become a hub for entrepreneurship and innovation. However, this growth has also led to issues such as affordability, infrastructure, and inclusivity, which were identified as top challenges by over 90% of community leaders surveyed. The report suggests that bold leadership, visionaries, and policymakers must work together to address these challenges and ensure sustainable and inclusive growth. The report provides a fact-based, nonpartisan perspective on the region's growth and challenges, and aims to galvanize the conversation around stewardship of the region's growth.",
+  "qa_pairs": [
+    {
+      "question": "When did McKinsey formally open its Austin office?",
+      "answer": "May 2022.",
+      "rating": 8
+    },
+    {
+      "question": "What is the objective of the 'Uniquely Austin: Stewarding growth in America\u2019s boomtown' report?",
+      "answer": "To provide a fact-based, nonpartisan perspective on Greater Austin\u2019s growth and to galvanize the conversation about how the Austin community can steward growth that is both sustainable and inclusive.",
+      "rating": 9
+    },
+    {
+      "question": "How many senior business and civic leaders were interviewed for the report?",
+      "answer": "More than 100.",
+      "rating": 7
+    },
+    {
+      "question": "What is the current ranking of Austin among the largest cities in the United States?",
+      "answer": "11th largest.",
+      "rating": 7
+    },
+    {
+      "question": "By what percentage has the population of Greater Austin grown since 2010?",
+      "answer": "36 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many students are there in the higher-education system in Greater Austin?",
+      "answer": "More than 160,000.",
+      "rating": 8
+    },
+    {
+      "question": "How many unicorns are headquartered or founded in Greater Austin?",
+      "answer": "More than 20.",
+      "rating": 7
+    },
+    {
+      "question": "How has venture capital investment in Greater Austin changed since 2016?",
+      "answer": "It has increased fivefold.",
+      "rating": 9
+    },
+    {
+      "question": "What is the current ranking of the city in terms of size in the United States?",
+      "answer": "The city is today the 11th largest in the United States.",
+      "rating": 8
+    },
+    {
+      "question": "What has been the percentage growth of the population of the Greater Austin metropolitan statistical area (MSA) since 2010?",
+      "answer": "The population has grown by 36 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many students are there in the higher-education system of Greater Austin?",
+      "answer": "More than 160,000 students.",
+      "rating": 9
+    },
+    {
+      "question": "What is the number of unicorns (privately held startup companies with a value of more than $1 billion) that have their headquarters or founding location in Greater Austin?",
+      "answer": "More than 20 unicorns.",
+      "rating": 8
+    },
+    {
+      "question": "How have venture capital investments in the Greater Austin region changed since 2016?",
+      "answer": "Venture capital investments in the region have increased fivefold since 2016.",
+      "rating": 9
+    },
+    {
+      "question": "What are some of the challenges that Greater Austin is facing due to its rapid growth?",
+      "answer": "Significant challenges persist around everything from infrastructure to affordability and inclusivity.",
+      "rating": 8
+    },
+    {
+      "question": "Who is required to relieve Austin's growing pains according to the text?",
+      "answer": "Bold leaders, visionaries, and policy makers acting together.",
+      "rating": 8
+    },
+    {
+      "question": "What was identified as the top challenge for Greater Austin by community leaders?",
+      "answer": "Affordability was identified as the top challenge for Greater Austin by more than 90 percent of community leaders.",
+      "rating": 9
+    },
+    {
+      "question": "By how much has the average home price in the Austin MSA risen since 2010?",
+      "answer": "The average home price in the Austin MSA has rocketed 170 percent since 2010.",
+      "rating": 9
+    },
+    {
+      "question": "What was the percentage growth of the Greater Austin metropolitan statistical area's population from 2010 to 2021?",
+      "answer": "The Greater Austin metropolitan statistical area's population grew by 36 percent from 2010 to 2021.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of community leaders pointed to the need to act now to address Greater Austin's challenges?",
+      "answer": "More than 90 percent of community leaders pointed to the need to act now.",
+      "rating": 8
+    },
+    {
+      "question": "What is the ranking of Austin in terms of congestion costs per commuter among midsize US cities?",
+      "answer": "Austin has the second-highest congestion costs per commuter among all midsize US cities.",
+      "rating": 9
+    },
+    {
+      "question": "What was the population growth rate of the Greater Austin metropolitan statistical area from 2010 to 2021?",
+      "answer": "36 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How did Austin's economy perform during the pandemic?",
+      "answer": "Austin added almost 100,000 jobs as its economy grew by 8.6 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the real GDP growth of the Greater Austin metropolitan statistical area between 2010 and 2022?",
+      "answer": "The real GDP nearly doubled.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three mutually beneficial elements that leaders need to focus on to steward Greater Austin's future?",
+      "answer": "Growth, sustainability, and inclusivity.",
+      "rating": 9
+    },
+    {
+      "question": "What are the six strategic pillars required to drive the region's future?",
+      "answer": "Economic development and business climate; a talented workforce; affordability; diversity, equity, and inclusion; infrastructure; and environmental sustainability.",
+      "rating": 10
+    },
+    {
+      "question": "How does Austin rank in terms of congestion costs per commuter among midsize US cities?",
+      "answer": "Austin has the second-highest congestion costs per commuter.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main driver of recent economic growth in Austin?",
+      "answer": "The private sector has been the most pronounced driver of recent economic growth.",
+      "rating": 9
+    },
+    {
+      "question": "How has total private employment grown compared to government employment in Austin?",
+      "answer": "Total private employment has grown four times as fast as government employment.",
+      "rating": 9
+    },
+    {
+      "question": "What is the current business landscape in Austin?",
+      "answer": "Today's business landscape features a unique mix of unicorns, venture capital and private equity, home-grown midcap companies, relocated technology giants, and new satellite offices of trillion-dollar companies.",
+      "rating": 9
+    },
+    {
+      "question": "What were the top employment sectors in Austin MSA in 1990?",
+      "answer": "The top employment sectors in 1990 were Government (29%), All other industries (40%), Retail, Accommodation and food, Professional services, and Healthcare.",
+      "rating": 8
+    },
+    {
+      "question": "What were the top employment sectors in Austin MSA in 2021?",
+      "answer": "The top employment sectors in 2021 were Professional services (16%), All other industries (44%), Healthcare (12%), Accommodation and food (10%), and Retail (9%).",
+      "rating": 9
+    },
+    {
+      "question": "What was the GDP growth rate of the Austin MSA from 2020 to 2022?",
+      "answer": "20 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the projected total population of Greater Austin by 2050?",
+      "answer": "4.4 million residents.",
+      "rating": 8
+    },
+    {
+      "question": "How did the GDP of the Austin MSA grow from 2010 to 2020 compared to the national average?",
+      "answer": "Nearly three times the national average.",
+      "rating": 8
+    },
+    {
+      "question": "What are the top 5 employment sectors in Austin MSA in 2021?",
+      "answer": "Healthcare, Professional services, Government, Accommodation and food, Retail.",
+      "rating": 7
+    },
+    {
+      "question": "What does 'growth' mean in the context of Greater Austin's development?",
+      "answer": "Increased prosperity and well-being, including profitable growth for the region's private sector and GDP growth across the region.",
+      "rating": 9
+    },
+    {
+      "question": "What is meant by 'inclusion' in the context of Greater Austin's growth?",
+      "answer": "Equality of opportunity and broad-based progress of outcomes for all, especially sufficiency of living standards, and the narrowing of inequalities among genders, ages, ethnicities, family backgrounds, and places of residence.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of 'sustainability' in the context of Greater Austin's growth?",
+      "answer": "Sustained growth, including infrastructure to support economic growth, and environmental resilience, starting with reducing climate risk, emissions goals, and broader preservation of natural capital as well as intergenerational fairness.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three elements considered important for overall economic growth?",
+      "answer": "The three elements are growth, inclusion, and sustainability.",
+      "rating": 8
+    },
+    {
+      "question": "How does greater inclusion impact economic outcomes?",
+      "answer": "Greater inclusion means that more people share in increased economic outcomes and life satisfaction while growth is promoted through new demand and investment opportunities.",
+      "rating": 9
+    },
+    {
+      "question": "What is the top challenge for Greater Austin according to its leaders?",
+      "answer": "Affordability is the top challenge for Greater Austin.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of respondents reported affordability as a top challenge for Greater Austin?",
+      "answer": "91% of respondents reported affordability as a top challenge.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between overall economic growth and capital investment?",
+      "answer": "Overall economic growth encourages capital investment, which in turn spurs productivity, wages, and growth.",
+      "rating": 9
+    },
+    {
+      "question": "How does sustainability enable continued increases in inclusion and growth?",
+      "answer": "Sustainability enables continued increases in both inclusion and growth while lowering the cost of energy, which increases both accessibility and productivity.",
+      "rating": 8
+    },
+    {
+      "question": "What is Greater Austin defined as?",
+      "answer": "The Austin MSA, which includes Travis, Williamson, Hays, Bastrop, and Caldwell Counties.",
+      "rating": 9
+    },
+    {
+      "question": "What is the top challenge for Greater Austin according to its leaders?",
+      "answer": "Affordability.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of respondents reported affordability as a top challenge for Greater Austin?",
+      "answer": "91%.",
+      "rating": 9
+    },
+    {
+      "question": "How has Greater Austin performed compared to its high-growth peers and Texas peer averages across key economic measures?",
+      "answer": "Greater Austin has outperformed both high-growth peers and Texas peer averages.",
+      "rating": 8
+    },
+    {
+      "question": "What is a challenge for the region's future according to local business and community leaders?",
+      "answer": "Political divisiveness, especially when it comes to cross-jurisdiction, regional collaboration, and talent attraction and retention.",
+      "rating": 9
+    },
+    {
+      "question": "What are the five principal challenges identified for Greater Austin to steward tomorrow's growth?",
+      "answer": "The text does not explicitly list the five principal challenges, but mentions that they were identified and include aspects such as affordability, infrastructure, workforce and education, diversity, equity, and inclusion, and climate resiliency.",
+      "rating": 7
+    },
+    {
+      "question": "What is the cumulative real GDP growth percentage for Austin?",
+      "answer": "+94.8.",
+      "rating": 10
+    },
+    {
+      "question": "What is the cumulative population growth percentage for Austin?",
+      "answer": "+37.1.",
+      "rating": 10
+    },
+    {
+      "question": "What is the cumulative productivity growth percentage (GDP per worker) for Austin?",
+      "answer": "+28.9.",
+      "rating": 10
+    },
+    {
+      "question": "What did local business and community leaders cite as a challenge for the region's future?",
+      "answer": "Political divisiveness, especially when it comes to cross-jurisdiction, regional collaboration, and talent attraction and retention.",
+      "rating": 9
+    },
+    {
+      "question": "How many principal challenges were identified to provide a path for Greater Austin to steward tomorrow's growth?",
+      "answer": "Five.",
+      "rating": 8
+    },
+    {
+      "question": "How has Greater Austin performed compared to its high-growth peers and Texas peer averages across key economic measures?",
+      "answer": "Greater Austin has outperformed both high-growth peers and Texas peer averages.",
+      "rating": 8
+    },
+    {
+      "question": "What was Austin's cumulative real GDP growth, according to Exhibit 3?",
+      "answer": "+94.8.",
+      "rating": 7
+    },
+    {
+      "question": "What was Austin's job growth rate from 2016 to 2021?",
+      "answer": "nearly 17 percent",
+      "rating": 8
+    },
+    {
+      "question": "How did Austin's job growth compare to its population growth from 2016 to 2021?",
+      "answer": "Austin's job growth outpaced its population growth by nearly 3 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is notable about Austin's academic research and development spending per capita in Texas?",
+      "answer": "It is the highest in Texas.",
+      "rating": 8
+    },
+    {
+      "question": "How many unicorns (privately financed companies valued at more than $1 billion) have Austin as their headquarters or foundation location?",
+      "answer": "more than 20",
+      "rating": 7
+    },
+    {
+      "question": "How much venture capital was invested in Austin-area companies between 2019 and 2021?",
+      "answer": "$11.6 billion",
+      "rating": 9
+    },
+    {
+      "question": "How does Austin rank among the top ten metropolitan areas for investment dollars per person nationally?",
+      "answer": "seventh",
+      "rating": 8
+    },
+    {
+      "question": "How did Austin's venture capital investment per capita compare to Dallas and Houston from 2019 to 2021?",
+      "answer": "Austin saw 8x more capital invested per capita than either Dallas or Houston.",
+      "rating": 9
+    },
+    {
+      "question": "How much venture capital was invested in Austin-area companies between 2019 and 2021?",
+      "answer": "$11.6 billion.",
+      "rating": 9
+    },
+    {
+      "question": "How does Austin rank among metropolitan areas for investment dollars per person?",
+      "answer": "Seventh among the top ten.",
+      "rating": 8
+    },
+    {
+      "question": "How much more capital was invested per capita in Austin compared to Dallas or Houston from 2019 to 2021?",
+      "answer": "8 times more.",
+      "rating": 8
+    },
+    {
+      "question": "What was the total venture capital invested in the Greater Boston area in 2021?",
+      "answer": "$33.2 billion.",
+      "rating": 9
+    },
+    {
+      "question": "Why is Boston successful in VC investment?",
+      "answer": "Due to Massachusetts's renowned healthcare innovation ecosystem and significant National Institutes of Health (NIH) funding.",
+      "rating": 8
+    },
+    {
+      "question": "How much VC investment was made in the Bay Area from 2019 to 2021?",
+      "answer": "$230 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the total VC investment made in the Greater Boston area in 2021?",
+      "answer": "$33.2 billion.",
+      "rating": 9
+    },
+    {
+      "question": "How much NIH funding did Boston receive, and how does it rank nationally?",
+      "answer": "$2.3 billion, the second highest in the nation.",
+      "rating": 9
+    },
+    {
+      "question": "What is the composition of Austin's VC ecosystem in terms of industry?",
+      "answer": "Primarily IT companies (47 percent of capital invested) and business-to-business (B2B) companies (27 percent).",
+      "rating": 9
+    },
+    {
+      "question": "How many accelerators and incubators are there in Austin compared to Boston?",
+      "answer": "53 in Austin compared to 63 in Boston.",
+      "rating": 8
+    },
+    {
+      "question": "What is one challenge faced by Austin's start-ups according to a local VC leader?",
+      "answer": "A distinct lack of late-stage capital available to local start-ups.",
+      "rating": 9
+    },
+    {
+      "question": "What is a potential threat to business and talent acquisition in Austin?",
+      "answer": "Ambiguity about policy.",
+      "rating": 7
+    },
+    {
+      "question": "What makes the overall cost of doing business in Austin the highest among its high-growth peers?",
+      "answer": "The combination of high labor, office, and energy costs.",
+      "rating": 8
+    },
+    {
+      "question": "How many NPOs are there in Greater Austin?",
+      "answer": "More than 13,500 organizations.",
+      "rating": 9
+    },
+    {
+      "question": "What is the issue with the large number of NPOs in Austin?",
+      "answer": "Funds and strategic thinking are being fractured to a point of being ineffective.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of adult residents in Austin have a bachelor's degree or higher?",
+      "answer": "Fifty percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Austin's residents are aged 25 to 44?",
+      "answer": "33 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How did Austin's population grow between 2016 and 2021 compared to its peer MSAs?",
+      "answer": "Austin's population grew faster than that of any peer MSA.",
+      "rating": 8
+    },
+    {
+      "question": "Why did some people originally move to Austin?",
+      "answer": "Many point to the University of Texas (UT) as the reason they originally moved to Austin.",
+      "rating": 7
+    },
+    {
+      "question": "What is needed to ensure that the workers emerging from Greater Austin's schools and universities are equipped to excel in local jobs?",
+      "answer": "Action at all levels from pre-K to tertiary education to develop a workforce prepared to meet the needs of Austin's future economy.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of adult residents in Austin have a bachelor's degree or higher?",
+      "answer": "Fifty percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the age demographic that makes up the largest percentage of Austin's population?",
+      "answer": "Residents aged 25 to 44, at 33 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the primary source of new residents in Austin, contrary to popular belief?",
+      "answer": "Other Texas MSAs, specifically Houston, Dallas, and San Antonio.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three actions that may help build Greater Austin's workforce of the future?",
+      "answer": "Supporting greater equity in education, leveraging higher-education institutions, and reskilling and retaining homegrown talent.",
+      "rating": 9
+    },
+    {
+      "question": "What has been the trend in Austin's unemployment rate and labor force participation rate compared to other Texas MSAs?",
+      "answer": "Austin has consistently had the lowest unemployment rate and highest labor force participation rate among Texas MSAs.",
+      "rating": 9
+    },
+    {
+      "question": "What is a distinct competitive advantage for Greater Austin according to top local CEOs?",
+      "answer": "Greater Austin's talent is a distinct competitive advantage.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three actions that may help build Greater Austin's workforce of the future?",
+      "answer": "Supporting greater equity in education, leveraging higher-education institutions, and reskilling and retaining homegrown talent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of students in the Austin Independent School District (AISD) are classified as economically disadvantaged?",
+      "answer": "52 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How much did AISD contribute in recapture payments to the State of Texas in the 2020-21 school year?",
+      "answer": "$707 million (around $10,000 per student).",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of EISD graduates are considered college-, career-, or military-ready?",
+      "answer": "Around 93.0 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of HCISD graduates were ready for college, a career, or the military in the 2021-22 school year?",
+      "answer": "51 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many career-ready workers did Austin miss the opportunity to add to its local economy from just one HCISD graduating class?",
+      "answer": "650.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of Greater Austin's residents have a bachelor's degree or higher?",
+      "answer": "More than 50 percent",
+      "rating": 7
+    },
+    {
+      "question": "How much revenue did the University of Texas at Austin's football team generate in the academic year 2021-22?",
+      "answer": "$162 million",
+      "rating": 8
+    },
+    {
+      "question": "What is the six-year graduation rate at the University of Texas at Austin?",
+      "answer": "88 percent",
+      "rating": 9
+    },
+    {
+      "question": "How can business leaders contribute to making Austin's K-12 education more effective?",
+      "answer": "Business leaders can collaborate with local school districts to align curriculum and credentials with the skills needed for local jobs, help accelerate access to high-quality tutoring, provide citywide summer acceleration academies, support telehealth services for students, provide leadership training for principals, and create a community of practice for school leaders.",
+      "rating": 9
+    },
+    {
+      "question": "Which city has the highest share of STEM graduates relative to all fields of study compared with Greater Austin?",
+      "answer": "Raleigh, North Carolina",
+      "rating": 8
+    },
+    {
+      "question": "How much does the University of Texas at Austin spend annually on research and development?",
+      "answer": "More than $780 million",
+      "rating": 8
+    },
+    {
+      "question": "What is the six-year graduation rate at UT Austin?",
+      "answer": "88 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How much does UT Austin spend annually on research and development?",
+      "answer": "More than $780 million.",
+      "rating": 8
+    },
+    {
+      "question": "How many students were enrolled in colleges within a 60-mile radius of downtown Austin as of 2019?",
+      "answer": "172,000.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Greater Austin's residents have a bachelor's degree or higher?",
+      "answer": "More than 50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How does Greater Austin rank in terms of producing STEM graduates relative to other high-growth peers?",
+      "answer": "Second-highest, trailing only Raleigh, North Carolina.",
+      "rating": 9
+    },
+    {
+      "question": "What is proposed as a way to leverage Greater Austin's higher-education landscape as a catalyst of innovation?",
+      "answer": "Creating a collaborative vision and brand centered around innovation, such as Kendall Square or Raleigh\u2013Durham's Research Triangle.",
+      "rating": 8
+    },
+    {
+      "question": "Which institution is suggested as a potential anchor for building a collaborative brand and vision for innovation in Austin?",
+      "answer": "UT Austin, given that its Dell Medical School is already an anchor of the growing downtown Innovation District.",
+      "rating": 9
+    },
+    {
+      "question": "What is the demand-to-supply gap for workers in the manufacturing sector in Austin?",
+      "answer": "1.5 times.",
+      "rating": 7
+    },
+    {
+      "question": "What is the demand-to-supply gap for workers in the manufacturing sector in Austin?",
+      "answer": "Demand for workers in the manufacturing sector exceeds supply by 1.5 times.",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of promoting community-building efforts for transplanted employees in Austin?",
+      "answer": "To make Austin feel like home and improve talent retention in the region.",
+      "rating": 9
+    },
+    {
+      "question": "What type of occupations have grown in importance with Austin's population increase?",
+      "answer": "Traditional noncollege occupations such as mechanics, welders, and carpenters.",
+      "rating": 9
+    },
+    {
+      "question": "How many jobs in good, viable occupations accessible to low-income workers are predicted to be created by 2025?",
+      "answer": "13,000 jobs.",
+      "rating": 7
+    },
+    {
+      "question": "What is the Rework America Alliance?",
+      "answer": "The Rework America Alliance is a nationwide collaboration of employers, not-for-profits, educators, government entities, and public and private organizations dedicated to opening opportunities for unemployed and low-wage workers to move into good-quality jobs.",
+      "rating": 9
+    },
+    {
+      "question": "How many jobs in good, viable occupations accessible to low-income workers are predicted to be created by 2025?",
+      "answer": "13,000 jobs.",
+      "rating": 7
+    },
+    {
+      "question": "What are the top viable occupations for low-income workers in Austin?",
+      "answer": "Software developers and software quality assurance analysts, registered nurses, and service sales representatives.",
+      "rating": 8
+    },
+    {
+      "question": "What is the average increase in annual salary for 'origin' workers in the top viable occupations?",
+      "answer": "$21,000.",
+      "rating": 8
+    },
+    {
+      "question": "What skills gaps exist for 'origin' workers looking to transition into the top good, viable occupations?",
+      "answer": "Significant skills gaps exist for skills such as leadership, management, and proficiency with the Microsoft Office suite.",
+      "rating": 9
+    },
+    {
+      "question": "What is the cost of living index for Greater Austin?",
+      "answer": "117.",
+      "rating": 7
+    },
+    {
+      "question": "How has the cost of living in Greater Austin changed from 2008 to 2020?",
+      "answer": "The cost of living index rose 11 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the median family income (MFI) in Greater Austin in 2022?",
+      "answer": "$110,300.",
+      "rating": 8
+    },
+    {
+      "question": "What is the cost of living index for Greater Austin?",
+      "answer": "117",
+      "rating": 7
+    },
+    {
+      "question": "How much did the cost of living index for Greater Austin rise from 2008 to 2020?",
+      "answer": "11 percent",
+      "rating": 8
+    },
+    {
+      "question": "What was the median family income (MFI) in Greater Austin in 2022?",
+      "answer": "$110,300",
+      "rating": 8
+    },
+    {
+      "question": "What is the annual self-sufficiency wage for a family of four in Greater Austin in 2021?",
+      "answer": "$66,723",
+      "rating": 8
+    },
+    {
+      "question": "By what percentage did the cost of childcare rise from 2018 to 2021 in Greater Austin?",
+      "answer": "47 percent",
+      "rating": 8
+    },
+    {
+      "question": "By what percentage did the cost of healthcare rise from 2018 to 2021 in Greater Austin?",
+      "answer": "57 percent",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of households in Greater Austin make less than $50,000?",
+      "answer": "29 percent",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of interviewees pointed to affordability as the most pressing issue facing Greater Austin?",
+      "answer": "About 91 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the median home valuation in Austin in 2022?",
+      "answer": "$632,000.",
+      "rating": 9
+    },
+    {
+      "question": "How many affordable and available housing units are available for every 100 extremely low-income families in Greater Austin?",
+      "answer": "22.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of new housing units built since 2018 in the City of Austin are affordable to extremely low-income families?",
+      "answer": "0.9 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the City of Austin's goal regarding affordable units for extremely low-income families, and how much progress has been made towards it?",
+      "answer": "The City of Austin set a goal to produce 20,000 affordable units within ten years, but in four years, only 295 affordable units have been added, or just 4 percent of the prorated target.",
+      "rating": 9
+    },
+    {
+      "question": "How does the population growth in suburban counties compare to Travis County during the past three years?",
+      "answer": "Population growth in suburban counties is up to three times higher than in Travis County.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of renters in 2021 were cost-burdened in Austin?",
+      "answer": "48 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the relative share of new residents to total population in the Austin MSA compared to its peers?",
+      "answer": "The Austin MSA leads all peers in the relative share of new residents to total population.",
+      "rating": 8
+    },
+    {
+      "question": "By what percentage did median home valuations rise in some of the best school districts from 2021 to 2022?",
+      "answer": "Median home valuations rose nearly 70 percent in some of the best school districts from 2021 to 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of renters in Austin were cost-burdened in 2021?",
+      "answer": "48 percent of renters in 2021 were cost-burdened.",
+      "rating": 9
+    },
+    {
+      "question": "How many affordable and available housing units are available for every 100 families classified as extremely low income in Greater Austin?",
+      "answer": "There are only 22 affordable and available housing units for every 100 families classified as extremely low income in Greater Austin.",
+      "rating": 9
+    },
+    {
+      "question": "What was the City of Austin's goal regarding affordable units for extremely low-income families, and how much progress has been made towards it?",
+      "answer": "The City of Austin set a goal to produce 20,000 affordable units for extremely low-income families within ten years, but in four years, only 295 affordable units have been added, or just 4 percent of the prorated target.",
+      "rating": 9
+    },
+    {
+      "question": "What was the median sale price of a single-family home in the LA MSA in the final three months of 2022?",
+      "answer": "The median sale price of a single-family home in the LA MSA was $829,000.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of new housing units built in Los Angeles since 2014 are affordable to Angelenos earning less than the area's median income?",
+      "answer": "Only 9 percent of new housing units built since 2014 are affordable to Angelenos earning less than the area's median income.",
+      "rating": 9
+    },
+    {
+      "question": "What is one recommended action to accelerate the progress of building affordable housing, as suggested by a 2019 McKinsey report?",
+      "answer": "Create a fully integrated and cross-jurisdiction plan.",
+      "rating": 8
+    },
+    {
+      "question": "What is cited as a major challenge to housing development by developers in both Austin and LA?",
+      "answer": "Long approval processes for obtaining land and building permits.",
+      "rating": 9
+    },
+    {
+      "question": "By how much could the total development time in LA be reduced by fully digitalizing and integrating the approval and permitting processes?",
+      "answer": "As much as 35 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated cost reduction of multifamily housing when standardized construction techniques, such as prefabricated development, are adopted at scale?",
+      "answer": "5 to 15 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What innovative technique is used by ICON Technology, a startup in Greater Austin?",
+      "answer": "3-D printing modular homes.",
+      "rating": 9
+    },
+    {
+      "question": "Why is it unlikely that developers will voluntarily add affordable-housing units to market-driven projects?",
+      "answer": "Without higher set-aside requirements.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of Greater Austin's extremely low-income families face severe housing cost burdens?",
+      "answer": "More than 80 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the percentage growth of Greater Austin's Hispanic or Latino population between 2010 and 2021?",
+      "answer": "43 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the growth rate of Greater Austin's White population between 2010 and 2021 compared to other racial groups?",
+      "answer": "The slowest of every major racial group, growing by 23 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How did the Asian population in Greater Austin change between 2010 and 2021?",
+      "answer": "The Asian population nearly doubled to 160,000 residents, growing 2.5 times as fast as the overall population.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of the Austin MSA's population was Hispanic or Latino in 2021?",
+      "answer": "Nearly 33 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the racial composition of Greater Austin in 2021?",
+      "answer": "A majority-minority region, with non-Hispanic White residents accounting for 49 percent of the total population.",
+      "rating": 9
+    },
+    {
+      "question": "What was the percentage change in the Asian population in Austin from an unspecified initial year to 2021?",
+      "answer": "The Asian population nearly doubled to 160,000 residents.",
+      "rating": 7
+    },
+    {
+      "question": "How fast did the Asian population grow compared to the overall population?",
+      "answer": "The Asian population grew 2.5 times as fast as the overall population.",
+      "rating": 10
+    },
+    {
+      "question": "What was the percentage growth of the Black population in Austin from an unspecified initial year to 2021?",
+      "answer": "The Black population grew 28 percent, reaching nearly 155,000 residents in 2021.",
+      "rating": 7
+    },
+    {
+      "question": "What was the historical context for the segregation of Black and Latino Austinites to present-day East Austin?",
+      "answer": "The 1928 Master Plan led to the segregation of Black and Latino Austinites to present-day East Austin.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of the Martin Luther King neighborhood was Black in 2010?",
+      "answer": "52 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the percentage of Black residents in the Martin Luther King neighborhood by 2020?",
+      "answer": "30 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How did the monthly median mortgage costs change in the Martin Luther King neighborhood from 2010 to 2020?",
+      "answer": "Monthly median mortgage costs rose at 17 times the national average.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of residents were Black in the neighborhood of Huston-Tillotson University by the time of the report?",
+      "answer": "13 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the percentage of Black residents in the Martin Luther King neighborhood in 2010?",
+      "answer": "52 percent.",
+      "rating": 8
+    },
+    {
+      "question": "By how much did monthly mortgage costs rise in the Martin Luther King neighborhood compared to the national average in the decade following 2010?",
+      "answer": "17 times the national average.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of residents in the neighborhood surrounding Huston-Tillotson University are Black?",
+      "answer": "13 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How do the poverty rates of Latino and Black residents compare to White Austinites?",
+      "answer": "Latino and Black residents are twice as likely to be living in poverty relative to White Austinites.",
+      "rating": 9
+    },
+    {
+      "question": "What proportion of Austin's businesses are owned by minorities?",
+      "answer": "One-fourth.",
+      "rating": 7
+    },
+    {
+      "question": "At what rate has US Latino household spending increased annually over the past decade?",
+      "answer": "6 percent annually.",
+      "rating": 8
+    },
+    {
+      "question": "What was the total US Latino household spending in 2021?",
+      "answer": "$1 trillion.",
+      "rating": 8
+    },
+    {
+      "question": "By how much has Austin's total homeless population risen annually since 2015?",
+      "answer": "8 percent annually.",
+      "rating": 9
+    },
+    {
+      "question": "What is the per capita rate of people experiencing homelessness in Austin compared to other cities in Texas?",
+      "answer": "Austin has Texas's highest per capita rate.",
+      "rating": 8
+    },
+    {
+      "question": "Approximately how many people were experiencing homelessness in Travis County in 2022?",
+      "answer": "3,150.",
+      "rating": 7
+    },
+    {
+      "question": "What is the per capita rate of homelessness in Austin compared to other Texas cities?",
+      "answer": "Austin has Texas's highest per capita rate of people experiencing homelessness.",
+      "rating": 9
+    },
+    {
+      "question": "How many people were experiencing homelessness in Travis County in 2022?",
+      "answer": "Approximately 3,150 people were experiencing homelessness in Travis County in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the homeless population in Austin is male?",
+      "answer": "56 percent of the homeless population in Austin is male.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of people experiencing homelessness in Austin are military veterans?",
+      "answer": "9 percent of people experiencing homelessness in Austin are military veterans.",
+      "rating": 8
+    },
+    {
+      "question": "What was the result of reinstating the public-camping ban in Austin in 2021?",
+      "answer": "The number of visible tents in downtown Austin decreased, but homelessness actually increased.",
+      "rating": 9
+    },
+    {
+      "question": "By how much has the homeless population in Houston MSA decreased over the past ten years?",
+      "answer": "The Houston MSA's homeless population has decreased by 56 percent over the past ten years.",
+      "rating": 9
+    },
+    {
+      "question": "What strategy has been successful in reducing chronic homelessness in Houston?",
+      "answer": "A housing-first strategy has been successful in reducing chronic homelessness in Houston.",
+      "rating": 9
+    },
+    {
+      "question": "What is credited as the reason for Houston's success in reducing homelessness?",
+      "answer": "Cross-organization coordination led by The Coalition for the Homeless is credited as the reason for Houston's success.",
+      "rating": 9
+    },
+    {
+      "question": "By what percentage has the Houston MSA's homeless population decreased over the past ten years?",
+      "answer": "56 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the Houston MSA's homeless population in 2012 and 2022?",
+      "answer": "7,200 individuals in 2012 and 3,150 in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What event occurred in Houston in February 2023 related to homelessness?",
+      "answer": "Houston closed its largest homeless encampment, moving most of its residents into a new housing navigation center.",
+      "rating": 9
+    },
+    {
+      "question": "What is the Coalition for the Homeless credited with achieving in Houston?",
+      "answer": "Uniting the efforts of local partners into a cohesive and focused homelessness response.",
+      "rating": 8
+    },
+    {
+      "question": "According to former Houston mayor Annise Parker, what is the reason for Houston's success in reducing homelessness?",
+      "answer": "Nearly everybody in Houston involved in homelessness got together around what works.",
+      "rating": 8
+    },
+    {
+      "question": "What are the three stages of homelessness interventions mentioned in the text?",
+      "answer": "Preventing entry to homelessness, sheltering and supporting people experiencing homelessness, and improving exits to permanent housing.",
+      "rating": 9
+    },
+    {
+      "question": "How can business leaders support their at-risk employees according to the text?",
+      "answer": "By providing in-house support services such as flexible work schedules, transportation to and from work, and personal-finance planning.",
+      "rating": 9
+    },
+    {
+      "question": "What is one potential way to help people experiencing homelessness make the shift to self-sustained housing?",
+      "answer": "Dedicating some public housing to rehoming the homeless with support from programs such as housing vouchers.",
+      "rating": 9
+    },
+    {
+      "question": "How does Austin's annual congestion cost per auto commuter compare to Dallas?",
+      "answer": "It is 14 percent more.",
+      "rating": 8
+    },
+    {
+      "question": "What is happening to the population center of the Austin MSA?",
+      "answer": "It is shifting further from Central Austin.",
+      "rating": 9
+    },
+    {
+      "question": "What is the result of the infrastructure not expanding quickly enough to support the burgeoning suburban population outside Austin?",
+      "answer": "Significant road congestion.",
+      "rating": 9
+    },
+    {
+      "question": "How much does congestion cost the average Austin commuter annually?",
+      "answer": "$1,520.",
+      "rating": 8
+    },
+    {
+      "question": "How does Austin's annual congestion cost per commuter compare to Dallas?",
+      "answer": "Austin's annual congestion cost per commuter is 14 percent more than Dallas.",
+      "rating": 9
+    },
+    {
+      "question": "How does Austin's annual congestion cost per commuter compare to Raleigh?",
+      "answer": "Austin's annual congestion cost per commuter is 80 percent more than Raleigh.",
+      "rating": 8
+    },
+    {
+      "question": "What was Austin's ranking in terms of traffic congestion cost per commuter among high-growth peers pre-COVID-19?",
+      "answer": "Austin had the highest traffic congestion cost per commuter among high-growth peers.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of workers from Williamson County and other suburban counties travel across county lines to get to work?",
+      "answer": "About 50 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What is the recommended approach to combating congestion according to the Texas A&M Transportation Institute?",
+      "answer": "A balanced approach that focuses on more of everything, including policies, programs, projects, flexibility, options, and understanding.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the Austin MSA population is serviced by CapMetro as of 2021?",
+      "answer": "59 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated cost of Project Connect?",
+      "answer": "$10.3 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of suburban commuters report using personal vehicles to commute?",
+      "answer": "96 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of residential areas within one mile of Project Connect's proposed rail lines classify as active resident displacement risk?",
+      "answer": "Nearly 39 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the current usage of public transit in Austin compared to pre-COVID-19 ridership levels?",
+      "answer": "About 50 percent.",
+      "rating": 9
+    },
+    {
+      "question": "According to the Texas A&M Transportation Institute, what is the recommended approach to combating congestion?",
+      "answer": "A balanced approach that focuses on more of everything; more policies, programs, projects, flexibility, options, and understanding.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main reason for the growth in public-transit ridership in Seattle?",
+      "answer": "The growth in public-transit ridership in Seattle can largely be attributed to Seattle's transit demand management (TDM) policies, the buy-in of private local employers, and a new fare district to subsidize struggling bus routes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the One Regional Card for All (ORCA) and what does it enable commuters to do?",
+      "answer": "The One Regional Card for All (ORCA) enables commuters to pay for different transit options (for example, ferries and buses) across the region under one account.",
+      "rating": 9
+    },
+    {
+      "question": "What requirement was imposed on owners or tenants of large commercial buildings in Seattle since 2015?",
+      "answer": "Since 2015, owners or tenants of large commercial buildings have been required to offer transit pass subsidies of at least 50 percent to all building employees.",
+      "rating": 9
+    },
+    {
+      "question": "How was the Seattle Transit Benefit District (STBD) funded?",
+      "answer": "The Seattle Transit Benefit District (STBD) was funded via a 0.1 percent increase in sales tax and a $60 city vehicle registration fee.",
+      "rating": 9
+    },
+    {
+      "question": "What largely contributed to the growth in Seattle's public-transit ridership?",
+      "answer": "Seattle's transit demand management (TDM) policies, the buy-in of private local employers, and a new fare district to subsidize struggling bus routes.",
+      "rating": 9
+    },
+    {
+      "question": "What is the One Regional Card for All (ORCA) and when was it launched?",
+      "answer": "The One Regional Card for All (ORCA) enables commuters to pay for different transit options across the region under one account and was launched in 2009.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Seattle commuters traveled to work via public transit by 2019?",
+      "answer": "Nearly 11 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What was the change in the proportion of Seattle's downtown workers commuting via transit in 2019 compared to driving alone?",
+      "answer": "Nearly half of Seattle's downtown workers commuted via transit, or nearly double the proportion who drove alone.",
+      "rating": 9
+    },
+    {
+      "question": "What was the result of Seattle's transit transformation by 2019?",
+      "answer": "A dramatic increase in Seattle's public-transit ridership and a decrease in the proportion of car commuters before the COVID-19 pandemic.",
+      "rating": 9
+    },
+    {
+      "question": "What was the change in the percentage of workers commuting via automobiles in the Seattle area from 2015 to 2019?",
+      "answer": "A 2.3 percent decrease.",
+      "rating": 8
+    },
+    {
+      "question": "What was passed by Seattle voters in 2016?",
+      "answer": "A $53.8 billion transportation bill called Sound Transit 3 (ST3).",
+      "rating": 9
+    },
+    {
+      "question": "What is the purpose of the Sound Transit 3 (ST3) plan?",
+      "answer": "To expand the city's light-rail network by 62 miles to less-accessible neighborhoods and other cities in the region.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to Austin's road usage during the COVID-19 pandemic?",
+      "answer": "Total road usage across the Austin MSA decreased dramatically in 2020.",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the project aimed at alleviating congestion on I-35 in Austin?",
+      "answer": "The I-35 Capital Express project.",
+      "rating": 9
+    },
+    {
+      "question": "How much is the I-35 Capital Express project expected to cost?",
+      "answer": "$5.6 billion.",
+      "rating": 9
+    },
+    {
+      "question": "What was the total number of passengers served by Austin-Bergstrom International Airport in 2022?",
+      "answer": "Almost 21.1 million.",
+      "rating": 9
+    },
+    {
+      "question": "What is the designed capacity of Austin-Bergstrom International Airport following expansions in 2017?",
+      "answer": "17.1 million total annual passengers.",
+      "rating": 8
+    },
+    {
+      "question": "What was the total road usage in the Austin MSA in 2021 compared to pre-COVID-19 highs?",
+      "answer": "96 percent of its pre-COVID-19 highs.",
+      "rating": 9
+    },
+    {
+      "question": "Where is Austin's worst congestion concentrated?",
+      "answer": "The Interstate 35 (I-35) north\u2013south corridor.",
+      "rating": 9
+    },
+    {
+      "question": "What is the I-35 Capital Express project designed to do?",
+      "answer": "Alleviate congestion on I-35.",
+      "rating": 8
+    },
+    {
+      "question": "How much is the I-35 Capital Express project expected to cost?",
+      "answer": "$5.6 billion.",
+      "rating": 8
+    },
+    {
+      "question": "What is the current operational capacity of Austin-Bergstrom International Airport per month?",
+      "answer": "1.20 million passengers.",
+      "rating": 7
+    },
+    {
+      "question": "How many total annual passengers did Austin-Bergstrom International Airport serve in 2022?",
+      "answer": "Almost 21.1 million.",
+      "rating": 8
+    },
+    {
+      "question": "By what year does the AUS 2040 Master Plan aim to serve 31.0 million passengers?",
+      "answer": "2040.",
+      "rating": 7
+    },
+    {
+      "question": "At the 2017-2022 growth rate, when is Austin-Bergstrom International Airport expected to eclipse 31 million passengers?",
+      "answer": "2027.",
+      "rating": 8
+    },
+    {
+      "question": "What is Austin's self-proclaimed title?",
+      "answer": "The 'Live Music Capital of the World'.",
+      "rating": 9
+    },
+    {
+      "question": "Why are some artists and musicians leaving East Austin?",
+      "answer": "Due to a lack of affordable studio space.",
+      "rating": 8
+    },
+    {
+      "question": "What is one of the challenges facing Austin as it grows?",
+      "answer": "Retaining its unique identity and 'X factor'.",
+      "rating": 9
+    },
+    {
+      "question": "What is one of the less tangible costs of growth in Austin?",
+      "answer": "The loss of its unique atmosphere and cultural identity.",
+      "rating": 9
+    },
+    {
+      "question": "What do some local leaders suggest doing to support the music scene?",
+      "answer": "Enhancing support grants for music venues, subsidizing creative spaces for artists, providing professional development workshops and training, and supporting public\u2013private partnerships that promote 'music hubs'.",
+      "rating": 9
+    },
+    {
+      "question": "Why are up-and-coming artists in Austin having trouble finding studio space?",
+      "answer": "Due to a lack of affordable studio space, with the only available places being in backhouses and garage apartments.",
+      "rating": 8
+    },
+    {
+      "question": "What are some proposed solutions to help artists in Austin overcome the lack of affordable studio space?",
+      "answer": "Enhancing support grants for music venues, subsidizing creative spaces, providing professional development workshops, and supporting public\u2013private partnerships that promote 'music hubs'.",
+      "rating": 9
+    },
+    {
+      "question": "How did Austin's violent and property crime rates compare to its high-growth peers in 2019?",
+      "answer": "Austin had the third-lowest violent crime rate but the third-highest property crime rate compared to its high-growth peers.",
+      "rating": 9
+    },
+    {
+      "question": "What is Austin's ranking in the Trust for Public Land's ParkScore, and how has it changed over time?",
+      "answer": "Austin has a ParkScore of 39, which is the highest among major Texas cities, but its ranking has slipped from 19 in 2012.",
+      "rating": 9
+    },
+    {
+      "question": "How much does Austin spend per capita to maintain and expand its park system, and how does it compare to other cities?",
+      "answer": "Austin spends $178 per capita, which is more than any other major Texas city, but less than cities like Washington, DC ($284) and Minneapolis ($317).",
+      "rating": 9
+    },
+    {
+      "question": "How does Austin's per capita spending on parks compare to other major cities?",
+      "answer": "Austin spends $178 per capita, which is more than any other major Texas city but less than peers such as Washington, DC ($284) and Minneapolis ($317).",
+      "rating": 9
+    },
+    {
+      "question": "What is the target year for Austin Energy to achieve 100 percent carbon-free electric generation?",
+      "answer": "2035.",
+      "rating": 8
+    },
+    {
+      "question": "By how much has the planet warmed above preindustrial levels as of 2021?",
+      "answer": "1.1\u00b0C.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of the Paris Agreement regarding global warming?",
+      "answer": "To limit the Earth's warming to below 2.0\u00b0C and pursue efforts to limit the increase to 1.5\u00b0C above preindustrial levels.",
+      "rating": 10
+    },
+    {
+      "question": "How much has the planet warmed as of 2021 compared to preindustrial levels?",
+      "answer": "1.1\u00b0C above preindustrial levels.",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of the Paris Agreement regarding global warming?",
+      "answer": "To limit the Earth's warming to below 2.0\u00b0C and to limit the increase to 1.5\u00b0C above preindustrial levels.",
+      "rating": 9
+    },
+    {
+      "question": "By what year is Austin Energy targeting 100 percent carbon-free electric generation?",
+      "answer": "2035.",
+      "rating": 8
+    },
+    {
+      "question": "What is the City of Austin's goal regarding net-zero greenhouse-gas emissions under the Climate Equity Plan?",
+      "answer": "To reach net-zero greenhouse-gas emissions by 2040.",
+      "rating": 9
+    },
+    {
+      "question": "What were the largest contributors to GHG emissions in Austin in 2019?",
+      "answer": "Transportation (39 percent), electricity (38 percent), and industrials (8 percent).",
+      "rating": 9
+    },
+    {
+      "question": "What were the largest contributors to GHG emissions in 2019?",
+      "answer": "Transportation (39 percent), electricity (38 percent), and industrials (8 percent).",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of Austin Energy's total generation capacity is from renewables?",
+      "answer": "63 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main source of water for Greater Austin?",
+      "answer": "Texas's Colorado River.",
+      "rating": 8
+    },
+    {
+      "question": "By how much is water stress projected to increase in parts of Greater Austin with an additional 2\u00b0C of global warming?",
+      "answer": "Up to 50 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How many years of hydrological drought is the region projected to experience each decade?",
+      "answer": "Up to seven years.",
+      "rating": 9
+    },
+    {
+      "question": "What happened to agricultural customers on the Texas coast in 2022 due to drought conditions?",
+      "answer": "They were cut off from Highland Lakes water for the year under the Lower Colorado River Authority's Water Management Plan.",
+      "rating": 10
+    },
+    {
+      "question": "Where does the real problem of increased water stress lie in relation to Austin?",
+      "answer": "Upstream of Austin.",
+      "rating": 8
+    },
+    {
+      "question": "What is projected to happen to water stress in some areas upstream of Austin?",
+      "answer": "To see 150 percent increases.",
+      "rating": 9
+    },
+    {
+      "question": "What reduces the inflows to the Colorado River's midbasin?",
+      "answer": "Higher projected temperatures and lower precipitation totals.",
+      "rating": 8
+    },
+    {
+      "question": "Who were cut off from Highland Lakes water in 2022 due to drought conditions?",
+      "answer": "Agricultural customers on the Texas coast (primarily rice farmers).",
+      "rating": 9
+    },
+    {
+      "question": "By how much is water stress in Greater Austin projected to rise?",
+      "answer": "By as much as 50 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of available water would be constituted by baseline water demands under 2\u00b0C warming?",
+      "answer": "38%.",
+      "rating": 8
+    },
+    {
+      "question": "What was the water supply condition as of November 1, 2022?",
+      "answer": "Extraordinary drought.",
+      "rating": 9
+    },
+    {
+      "question": "How many US residents depend on the Colorado River for water?",
+      "answer": "40 million.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Colorado River water supplies are used for agriculture?",
+      "answer": "70 percent.",
+      "rating": 9
+    },
+    {
+      "question": "By how much has the Colorado River flow been reduced in the 21st century due to prolonged record drought?",
+      "answer": "Nearly 20 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What was the projected reduction in Colorado River flow by the end of the century due to continued warming temperatures?",
+      "answer": "35 percent or more.",
+      "rating": 9
+    },
+    {
+      "question": "How much water curtailment was called for by the US Department of Interior in August 2022?",
+      "answer": "Two- to four-million-acre-feet.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage reduction in water use was faced by Arizona in 2023 due to the tier-two water shortage on the Colorado River?",
+      "answer": "21 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the name of the plan hailed by some respondents as a sign of improvement in aquifer management systems?",
+      "answer": "City of Austin's Water Forward plan.",
+      "rating": 8
+    },
+    {
+      "question": "How many US residents depend on the Colorado River for water?",
+      "answer": "Forty million US residents depend on the Colorado River for water.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Colorado River water supplies are used for agriculture?",
+      "answer": "70 percent of Colorado River water supplies are used for agriculture.",
+      "rating": 9
+    },
+    {
+      "question": "By what percentage has the Colorado River flow been reduced in the 21st century due to prolonged record drought?",
+      "answer": "The Colorado River flow has been reduced by an average of nearly 20 percent in the 21st century.",
+      "rating": 9
+    },
+    {
+      "question": "What was announced by the US Department of Interior in August 2022 regarding the Colorado River?",
+      "answer": "The US Department of Interior announced a tier-two water shortage on the Colorado River, calling for a two- to four-million-acre-feet curtailment of water from the river in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "How many midsummer workdays could become unworkable due to high temperatures with 2\u00b0C warming in Austin?",
+      "answer": "Five out of seven midsummer workdays could become unworkable due to high temperatures with 2\u00b0C warming.",
+      "rating": 9
+    },
+    {
+      "question": "By what percentage are heat waves projected to increase in duration in Greater Austin?",
+      "answer": "Heat waves are projected to lengthen in duration by 200 percent in Greater Austin.",
+      "rating": 9
+    },
+    {
+      "question": "What are the biggest opportunities for decarbonizing economic development in Austin?",
+      "answer": "The biggest opportunities lie in power generation, transportation, and buildings.",
+      "rating": 8
+    },
+    {
+      "question": "How long are heat waves projected to last in Greater Austin?",
+      "answer": "Nearly three months of heat wave conditions annually.",
+      "rating": 8
+    },
+    {
+      "question": "What are the biggest opportunities for decarbonizing economic development in Austin?",
+      "answer": "Power generation, transportation, and buildings.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of Austin Energy's generation is now carbon-free?",
+      "answer": "More than 70 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Austin's GHG emissions does the Fayette Power Plant account for?",
+      "answer": "28 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of emissions in Austin comes from transportation?",
+      "answer": "36 percent.",
+      "rating": 9
+    },
+    {
+      "question": "How does Austin rank in EV infrastructure among its national high-growth peers?",
+      "answer": "Second highest, trailing only Salt Lake City.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of Austin's emissions comes from buildings (excluding electricity usage)?",
+      "answer": "12 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many LEED-certified buildings did Austin have as of January 2021?",
+      "answer": "36.",
+      "rating": 8
+    },
+    {
+      "question": "What is one of the ways Ithaca plans to decarbonize its buildings by 2030?",
+      "answer": "Ithaca has partnered with a start-up climate tech company and a private equity firm to secure more than $100 million in funding and is using a city-backed rebate and loan model to reduce the cost up front for homeowners.",
+      "rating": 9
+    },
+    {
+      "question": "How many LEED-certified buildings did Austin have as of January 2021?",
+      "answer": "36",
+      "rating": 8
+    },
+    {
+      "question": "What is the estimated cost of Ithaca's complete retrofit?",
+      "answer": "$600 million",
+      "rating": 8
+    },
+    {
+      "question": "What is one of the measures that could further cut emissions, energy, and bills in households?",
+      "answer": "Insulation retrofitting (for example, R-30 wall insulation, double-paned windows, weather-sealed thresholds)",
+      "rating": 9
+    },
+    {
+      "question": "What is the goal of Ithaca's decarbonization plan?",
+      "answer": "To decarbonize and electrify all its buildings by 2030",
+      "rating": 9
+    },
+    {
+      "question": "What is critical to unlocking Greater Austin's future?",
+      "answer": "Capitalizing on momentum.",
+      "rating": 7
+    },
+    {
+      "question": "What kind of growth is Greater Austin aiming for?",
+      "answer": "Sustainable and inclusive growth.",
+      "rating": 8
+    },
+    {
+      "question": "What is an example of a successful regional civic partnership?",
+      "answer": "The Itasca Project in Minnesota.",
+      "rating": 8
+    },
+    {
+      "question": "What are the four common values shared by successful civic partnerships like Itasca?",
+      "answer": "A fact-based, societal focus; broad, nonpartisan membership; sustained engagement; and an impact orientation.",
+      "rating": 9
+    },
+    {
+      "question": "Why was the Itasca Project formed?",
+      "answer": "It was born from an organic and genuine desire to effect positive social change among Minneapolis's business leaders.",
+      "rating": 8
+    },
+    {
+      "question": "Who led the research for the report 'Uniquely Austin: Stewarding growth in America's boomtown'?",
+      "answer": "Paul Kolter, Steven Smith, and Chris Hachtman.",
+      "rating": 7
+    },
+    {
+      "question": "Who led the research for the report on making Greater Austin a more sustainable and inclusive version of itself?",
+      "answer": "Paul Kolter, Steven Smith, and Chris Hachtman led the research.",
+      "rating": 8
+    },
+    {
+      "question": "What is the main focus of the report 'Uniquely Austin: Stewarding growth in America\u2019s boomtown'?",
+      "answer": "Making Greater Austin an even better steward of its growth and a more sustainable and inclusive version of itself.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did McKinsey formally open its Austin office?"
+      },
+      {
+        "role": "assistant",
+        "content": "May 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the objective of the 'Uniquely Austin: Stewarding growth in America\u2019s boomtown' report?"
+      },
+      {
+        "role": "assistant",
+        "content": "To provide a fact-based, nonpartisan perspective on Greater Austin\u2019s growth and to galvanize the conversation about how the Austin community can steward growth that is both sustainable and inclusive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many senior business and civic leaders were interviewed for the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 100."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current ranking of Austin among the largest cities in the United States?"
+      },
+      {
+        "role": "assistant",
+        "content": "11th largest."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage has the population of Greater Austin grown since 2010?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many students are there in the higher-education system in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 160,000."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many unicorns are headquartered or founded in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 20."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has venture capital investment in Greater Austin changed since 2016?"
+      },
+      {
+        "role": "assistant",
+        "content": "It has increased fivefold."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current ranking of the city in terms of size in the United States?"
+      },
+      {
+        "role": "assistant",
+        "content": "The city is today the 11th largest in the United States."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the percentage growth of the population of the Greater Austin metropolitan statistical area (MSA) since 2010?"
+      },
+      {
+        "role": "assistant",
+        "content": "The population has grown by 36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many students are there in the higher-education system of Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 160,000 students."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the number of unicorns (privately held startup companies with a value of more than $1 billion) that have their headquarters or founding location in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 20 unicorns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How have venture capital investments in the Greater Austin region changed since 2016?"
+      },
+      {
+        "role": "assistant",
+        "content": "Venture capital investments in the region have increased fivefold since 2016."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some of the challenges that Greater Austin is facing due to its rapid growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Significant challenges persist around everything from infrastructure to affordability and inclusivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is required to relieve Austin's growing pains according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bold leaders, visionaries, and policy makers acting together."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was identified as the top challenge for Greater Austin by community leaders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Affordability was identified as the top challenge for Greater Austin by more than 90 percent of community leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much has the average home price in the Austin MSA risen since 2010?"
+      },
+      {
+        "role": "assistant",
+        "content": "The average home price in the Austin MSA has rocketed 170 percent since 2010."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage growth of the Greater Austin metropolitan statistical area's population from 2010 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Greater Austin metropolitan statistical area's population grew by 36 percent from 2010 to 2021."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of community leaders pointed to the need to act now to address Greater Austin's challenges?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 90 percent of community leaders pointed to the need to act now."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the ranking of Austin in terms of congestion costs per commuter among midsize US cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin has the second-highest congestion costs per commuter among all midsize US cities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the population growth rate of the Greater Austin metropolitan statistical area from 2010 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Austin's economy perform during the pandemic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin added almost 100,000 jobs as its economy grew by 8.6 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the real GDP growth of the Greater Austin metropolitan statistical area between 2010 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The real GDP nearly doubled."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three mutually beneficial elements that leaders need to focus on to steward Greater Austin's future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Growth, sustainability, and inclusivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the six strategic pillars required to drive the region's future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Economic development and business climate; a talented workforce; affordability; diversity, equity, and inclusion; infrastructure; and environmental sustainability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin rank in terms of congestion costs per commuter among midsize US cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin has the second-highest congestion costs per commuter."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main driver of recent economic growth in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The private sector has been the most pronounced driver of recent economic growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has total private employment grown compared to government employment in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Total private employment has grown four times as fast as government employment."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current business landscape in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Today's business landscape features a unique mix of unicorns, venture capital and private equity, home-grown midcap companies, relocated technology giants, and new satellite offices of trillion-dollar companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the top employment sectors in Austin MSA in 1990?"
+      },
+      {
+        "role": "assistant",
+        "content": "The top employment sectors in 1990 were Government (29%), All other industries (40%), Retail, Accommodation and food, Professional services, and Healthcare."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the top employment sectors in Austin MSA in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The top employment sectors in 2021 were Professional services (16%), All other industries (44%), Healthcare (12%), Accommodation and food (10%), and Retail (9%)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the GDP growth rate of the Austin MSA from 2020 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "20 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the projected total population of Greater Austin by 2050?"
+      },
+      {
+        "role": "assistant",
+        "content": "4.4 million residents."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the GDP of the Austin MSA grow from 2010 to 2020 compared to the national average?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly three times the national average."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the top 5 employment sectors in Austin MSA in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Healthcare, Professional services, Government, Accommodation and food, Retail."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'growth' mean in the context of Greater Austin's development?"
+      },
+      {
+        "role": "assistant",
+        "content": "Increased prosperity and well-being, including profitable growth for the region's private sector and GDP growth across the region."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is meant by 'inclusion' in the context of Greater Austin's growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Equality of opportunity and broad-based progress of outcomes for all, especially sufficiency of living standards, and the narrowing of inequalities among genders, ages, ethnicities, family backgrounds, and places of residence."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of 'sustainability' in the context of Greater Austin's growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustained growth, including infrastructure to support economic growth, and environmental resilience, starting with reducing climate risk, emissions goals, and broader preservation of natural capital as well as intergenerational fairness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three elements considered important for overall economic growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The three elements are growth, inclusion, and sustainability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does greater inclusion impact economic outcomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater inclusion means that more people share in increased economic outcomes and life satisfaction while growth is promoted through new demand and investment opportunities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top challenge for Greater Austin according to its leaders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Affordability is the top challenge for Greater Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents reported affordability as a top challenge for Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "91% of respondents reported affordability as a top challenge."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between overall economic growth and capital investment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Overall economic growth encourages capital investment, which in turn spurs productivity, wages, and growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does sustainability enable continued increases in inclusion and growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustainability enables continued increases in both inclusion and growth while lowering the cost of energy, which increases both accessibility and productivity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Greater Austin defined as?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Austin MSA, which includes Travis, Williamson, Hays, Bastrop, and Caldwell Counties."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top challenge for Greater Austin according to its leaders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Affordability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of respondents reported affordability as a top challenge for Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "91%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has Greater Austin performed compared to its high-growth peers and Texas peer averages across key economic measures?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater Austin has outperformed both high-growth peers and Texas peer averages."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a challenge for the region's future according to local business and community leaders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Political divisiveness, especially when it comes to cross-jurisdiction, regional collaboration, and talent attraction and retention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five principal challenges identified for Greater Austin to steward tomorrow's growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "The text does not explicitly list the five principal challenges, but mentions that they were identified and include aspects such as affordability, infrastructure, workforce and education, diversity, equity, and inclusion, and climate resiliency."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cumulative real GDP growth percentage for Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "+94.8."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cumulative population growth percentage for Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "+37.1."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cumulative productivity growth percentage (GDP per worker) for Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "+28.9."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did local business and community leaders cite as a challenge for the region's future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Political divisiveness, especially when it comes to cross-jurisdiction, regional collaboration, and talent attraction and retention."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many principal challenges were identified to provide a path for Greater Austin to steward tomorrow's growth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has Greater Austin performed compared to its high-growth peers and Texas peer averages across key economic measures?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater Austin has outperformed both high-growth peers and Texas peer averages."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Austin's cumulative real GDP growth, according to Exhibit 3?"
+      },
+      {
+        "role": "assistant",
+        "content": "+94.8."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Austin's job growth rate from 2016 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "nearly 17 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Austin's job growth compare to its population growth from 2016 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin's job growth outpaced its population growth by nearly 3 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is notable about Austin's academic research and development spending per capita in Texas?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is the highest in Texas."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many unicorns (privately financed companies valued at more than $1 billion) have Austin as their headquarters or foundation location?"
+      },
+      {
+        "role": "assistant",
+        "content": "more than 20"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much venture capital was invested in Austin-area companies between 2019 and 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$11.6 billion"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin rank among the top ten metropolitan areas for investment dollars per person nationally?"
+      },
+      {
+        "role": "assistant",
+        "content": "seventh"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Austin's venture capital investment per capita compare to Dallas and Houston from 2019 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin saw 8x more capital invested per capita than either Dallas or Houston."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much venture capital was invested in Austin-area companies between 2019 and 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$11.6 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin rank among metropolitan areas for investment dollars per person?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seventh among the top ten."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much more capital was invested per capita in Austin compared to Dallas or Houston from 2019 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 times more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total venture capital invested in the Greater Boston area in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$33.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is Boston successful in VC investment?"
+      },
+      {
+        "role": "assistant",
+        "content": "Due to Massachusetts's renowned healthcare innovation ecosystem and significant National Institutes of Health (NIH) funding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much VC investment was made in the Bay Area from 2019 to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$230 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the total VC investment made in the Greater Boston area in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$33.2 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much NIH funding did Boston receive, and how does it rank nationally?"
+      },
+      {
+        "role": "assistant",
+        "content": "$2.3 billion, the second highest in the nation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the composition of Austin's VC ecosystem in terms of industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "Primarily IT companies (47 percent of capital invested) and business-to-business (B2B) companies (27 percent)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many accelerators and incubators are there in Austin compared to Boston?"
+      },
+      {
+        "role": "assistant",
+        "content": "53 in Austin compared to 63 in Boston."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one challenge faced by Austin's start-ups according to a local VC leader?"
+      },
+      {
+        "role": "assistant",
+        "content": "A distinct lack of late-stage capital available to local start-ups."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a potential threat to business and talent acquisition in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ambiguity about policy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What makes the overall cost of doing business in Austin the highest among its high-growth peers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The combination of high labor, office, and energy costs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many NPOs are there in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 13,500 organizations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the issue with the large number of NPOs in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Funds and strategic thinking are being fractured to a point of being ineffective."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of adult residents in Austin have a bachelor's degree or higher?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fifty percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Austin's residents are aged 25 to 44?"
+      },
+      {
+        "role": "assistant",
+        "content": "33 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Austin's population grow between 2016 and 2021 compared to its peer MSAs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin's population grew faster than that of any peer MSA."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did some people originally move to Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Many point to the University of Texas (UT) as the reason they originally moved to Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is needed to ensure that the workers emerging from Greater Austin's schools and universities are equipped to excel in local jobs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Action at all levels from pre-K to tertiary education to develop a workforce prepared to meet the needs of Austin's future economy."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of adult residents in Austin have a bachelor's degree or higher?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fifty percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the age demographic that makes up the largest percentage of Austin's population?"
+      },
+      {
+        "role": "assistant",
+        "content": "Residents aged 25 to 44, at 33 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the primary source of new residents in Austin, contrary to popular belief?"
+      },
+      {
+        "role": "assistant",
+        "content": "Other Texas MSAs, specifically Houston, Dallas, and San Antonio."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three actions that may help build Greater Austin's workforce of the future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Supporting greater equity in education, leveraging higher-education institutions, and reskilling and retaining homegrown talent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What has been the trend in Austin's unemployment rate and labor force participation rate compared to other Texas MSAs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin has consistently had the lowest unemployment rate and highest labor force participation rate among Texas MSAs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a distinct competitive advantage for Greater Austin according to top local CEOs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Greater Austin's talent is a distinct competitive advantage."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three actions that may help build Greater Austin's workforce of the future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Supporting greater equity in education, leveraging higher-education institutions, and reskilling and retaining homegrown talent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of students in the Austin Independent School District (AISD) are classified as economically disadvantaged?"
+      },
+      {
+        "role": "assistant",
+        "content": "52 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did AISD contribute in recapture payments to the State of Texas in the 2020-21 school year?"
+      },
+      {
+        "role": "assistant",
+        "content": "$707 million (around $10,000 per student)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of EISD graduates are considered college-, career-, or military-ready?"
+      },
+      {
+        "role": "assistant",
+        "content": "Around 93.0 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of HCISD graduates were ready for college, a career, or the military in the 2021-22 school year?"
+      },
+      {
+        "role": "assistant",
+        "content": "51 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many career-ready workers did Austin miss the opportunity to add to its local economy from just one HCISD graduating class?"
+      },
+      {
+        "role": "assistant",
+        "content": "650."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Greater Austin's residents have a bachelor's degree or higher?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 50 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much revenue did the University of Texas at Austin's football team generate in the academic year 2021-22?"
+      },
+      {
+        "role": "assistant",
+        "content": "$162 million"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the six-year graduation rate at the University of Texas at Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "88 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can business leaders contribute to making Austin's K-12 education more effective?"
+      },
+      {
+        "role": "assistant",
+        "content": "Business leaders can collaborate with local school districts to align curriculum and credentials with the skills needed for local jobs, help accelerate access to high-quality tutoring, provide citywide summer acceleration academies, support telehealth services for students, provide leadership training for principals, and create a community of practice for school leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which city has the highest share of STEM graduates relative to all fields of study compared with Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Raleigh, North Carolina"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does the University of Texas at Austin spend annually on research and development?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than $780 million"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the six-year graduation rate at UT Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "88 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does UT Austin spend annually on research and development?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than $780 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many students were enrolled in colleges within a 60-mile radius of downtown Austin as of 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "172,000."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Greater Austin's residents have a bachelor's degree or higher?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Greater Austin rank in terms of producing STEM graduates relative to other high-growth peers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Second-highest, trailing only Raleigh, North Carolina."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is proposed as a way to leverage Greater Austin's higher-education landscape as a catalyst of innovation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Creating a collaborative vision and brand centered around innovation, such as Kendall Square or Raleigh\u2013Durham's Research Triangle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which institution is suggested as a potential anchor for building a collaborative brand and vision for innovation in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "UT Austin, given that its Dell Medical School is already an anchor of the growing downtown Innovation District."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the demand-to-supply gap for workers in the manufacturing sector in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.5 times."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the demand-to-supply gap for workers in the manufacturing sector in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Demand for workers in the manufacturing sector exceeds supply by 1.5 times."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of promoting community-building efforts for transplanted employees in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make Austin feel like home and improve talent retention in the region."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of occupations have grown in importance with Austin's population increase?"
+      },
+      {
+        "role": "assistant",
+        "content": "Traditional noncollege occupations such as mechanics, welders, and carpenters."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many jobs in good, viable occupations accessible to low-income workers are predicted to be created by 2025?"
+      },
+      {
+        "role": "assistant",
+        "content": "13,000 jobs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Rework America Alliance?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Rework America Alliance is a nationwide collaboration of employers, not-for-profits, educators, government entities, and public and private organizations dedicated to opening opportunities for unemployed and low-wage workers to move into good-quality jobs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many jobs in good, viable occupations accessible to low-income workers are predicted to be created by 2025?"
+      },
+      {
+        "role": "assistant",
+        "content": "13,000 jobs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the top viable occupations for low-income workers in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Software developers and software quality assurance analysts, registered nurses, and service sales representatives."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average increase in annual salary for 'origin' workers in the top viable occupations?"
+      },
+      {
+        "role": "assistant",
+        "content": "$21,000."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What skills gaps exist for 'origin' workers looking to transition into the top good, viable occupations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Significant skills gaps exist for skills such as leadership, management, and proficiency with the Microsoft Office suite."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of living index for Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "117."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the cost of living in Greater Austin changed from 2008 to 2020?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost of living index rose 11 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the median family income (MFI) in Greater Austin in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$110,300."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of living index for Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "117"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much did the cost of living index for Greater Austin rise from 2008 to 2020?"
+      },
+      {
+        "role": "assistant",
+        "content": "11 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the median family income (MFI) in Greater Austin in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$110,300"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the annual self-sufficiency wage for a family of four in Greater Austin in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$66,723"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage did the cost of childcare rise from 2018 to 2021 in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "47 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage did the cost of healthcare rise from 2018 to 2021 in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "57 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of households in Greater Austin make less than $50,000?"
+      },
+      {
+        "role": "assistant",
+        "content": "29 percent"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of interviewees pointed to affordability as the most pressing issue facing Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 91 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the median home valuation in Austin in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "$632,000."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many affordable and available housing units are available for every 100 extremely low-income families in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "22."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of new housing units built since 2018 in the City of Austin are affordable to extremely low-income families?"
+      },
+      {
+        "role": "assistant",
+        "content": "0.9 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the City of Austin's goal regarding affordable units for extremely low-income families, and how much progress has been made towards it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The City of Austin set a goal to produce 20,000 affordable units within ten years, but in four years, only 295 affordable units have been added, or just 4 percent of the prorated target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the population growth in suburban counties compare to Travis County during the past three years?"
+      },
+      {
+        "role": "assistant",
+        "content": "Population growth in suburban counties is up to three times higher than in Travis County."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of renters in 2021 were cost-burdened in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "48 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relative share of new residents to total population in the Austin MSA compared to its peers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Austin MSA leads all peers in the relative share of new residents to total population."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage did median home valuations rise in some of the best school districts from 2021 to 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Median home valuations rose nearly 70 percent in some of the best school districts from 2021 to 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of renters in Austin were cost-burdened in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "48 percent of renters in 2021 were cost-burdened."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many affordable and available housing units are available for every 100 families classified as extremely low income in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "There are only 22 affordable and available housing units for every 100 families classified as extremely low income in Greater Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the City of Austin's goal regarding affordable units for extremely low-income families, and how much progress has been made towards it?"
+      },
+      {
+        "role": "assistant",
+        "content": "The City of Austin set a goal to produce 20,000 affordable units for extremely low-income families within ten years, but in four years, only 295 affordable units have been added, or just 4 percent of the prorated target."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the median sale price of a single-family home in the LA MSA in the final three months of 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "The median sale price of a single-family home in the LA MSA was $829,000."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of new housing units built in Los Angeles since 2014 are affordable to Angelenos earning less than the area's median income?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only 9 percent of new housing units built since 2014 are affordable to Angelenos earning less than the area's median income."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one recommended action to accelerate the progress of building affordable housing, as suggested by a 2019 McKinsey report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Create a fully integrated and cross-jurisdiction plan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is cited as a major challenge to housing development by developers in both Austin and LA?"
+      },
+      {
+        "role": "assistant",
+        "content": "Long approval processes for obtaining land and building permits."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much could the total development time in LA be reduced by fully digitalizing and integrating the approval and permitting processes?"
+      },
+      {
+        "role": "assistant",
+        "content": "As much as 35 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated cost reduction of multifamily housing when standardized construction techniques, such as prefabricated development, are adopted at scale?"
+      },
+      {
+        "role": "assistant",
+        "content": "5 to 15 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What innovative technique is used by ICON Technology, a startup in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "3-D printing modular homes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it unlikely that developers will voluntarily add affordable-housing units to market-driven projects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Without higher set-aside requirements."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Greater Austin's extremely low-income families face severe housing cost burdens?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 80 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage growth of Greater Austin's Hispanic or Latino population between 2010 and 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "43 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the growth rate of Greater Austin's White population between 2010 and 2021 compared to other racial groups?"
+      },
+      {
+        "role": "assistant",
+        "content": "The slowest of every major racial group, growing by 23 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the Asian population in Greater Austin change between 2010 and 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Asian population nearly doubled to 160,000 residents, growing 2.5 times as fast as the overall population."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Austin MSA's population was Hispanic or Latino in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly 33 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the racial composition of Greater Austin in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "A majority-minority region, with non-Hispanic White residents accounting for 49 percent of the total population."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage change in the Asian population in Austin from an unspecified initial year to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Asian population nearly doubled to 160,000 residents."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How fast did the Asian population grow compared to the overall population?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Asian population grew 2.5 times as fast as the overall population."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage growth of the Black population in Austin from an unspecified initial year to 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Black population grew 28 percent, reaching nearly 155,000 residents in 2021."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the historical context for the segregation of Black and Latino Austinites to present-day East Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 1928 Master Plan led to the segregation of Black and Latino Austinites to present-day East Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Martin Luther King neighborhood was Black in 2010?"
+      },
+      {
+        "role": "assistant",
+        "content": "52 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage of Black residents in the Martin Luther King neighborhood by 2020?"
+      },
+      {
+        "role": "assistant",
+        "content": "30 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did the monthly median mortgage costs change in the Martin Luther King neighborhood from 2010 to 2020?"
+      },
+      {
+        "role": "assistant",
+        "content": "Monthly median mortgage costs rose at 17 times the national average."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of residents were Black in the neighborhood of Huston-Tillotson University by the time of the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "13 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the percentage of Black residents in the Martin Luther King neighborhood in 2010?"
+      },
+      {
+        "role": "assistant",
+        "content": "52 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much did monthly mortgage costs rise in the Martin Luther King neighborhood compared to the national average in the decade following 2010?"
+      },
+      {
+        "role": "assistant",
+        "content": "17 times the national average."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of residents in the neighborhood surrounding Huston-Tillotson University are Black?"
+      },
+      {
+        "role": "assistant",
+        "content": "13 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do the poverty rates of Latino and Black residents compare to White Austinites?"
+      },
+      {
+        "role": "assistant",
+        "content": "Latino and Black residents are twice as likely to be living in poverty relative to White Austinites."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What proportion of Austin's businesses are owned by minorities?"
+      },
+      {
+        "role": "assistant",
+        "content": "One-fourth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At what rate has US Latino household spending increased annually over the past decade?"
+      },
+      {
+        "role": "assistant",
+        "content": "6 percent annually."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total US Latino household spending in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1 trillion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much has Austin's total homeless population risen annually since 2015?"
+      },
+      {
+        "role": "assistant",
+        "content": "8 percent annually."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the per capita rate of people experiencing homelessness in Austin compared to other cities in Texas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin has Texas's highest per capita rate."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Approximately how many people were experiencing homelessness in Travis County in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "3,150."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the per capita rate of homelessness in Austin compared to other Texas cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin has Texas's highest per capita rate of people experiencing homelessness."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many people were experiencing homelessness in Travis County in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Approximately 3,150 people were experiencing homelessness in Travis County in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the homeless population in Austin is male?"
+      },
+      {
+        "role": "assistant",
+        "content": "56 percent of the homeless population in Austin is male."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of people experiencing homelessness in Austin are military veterans?"
+      },
+      {
+        "role": "assistant",
+        "content": "9 percent of people experiencing homelessness in Austin are military veterans."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of reinstating the public-camping ban in Austin in 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number of visible tents in downtown Austin decreased, but homelessness actually increased."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much has the homeless population in Houston MSA decreased over the past ten years?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Houston MSA's homeless population has decreased by 56 percent over the past ten years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What strategy has been successful in reducing chronic homelessness in Houston?"
+      },
+      {
+        "role": "assistant",
+        "content": "A housing-first strategy has been successful in reducing chronic homelessness in Houston."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is credited as the reason for Houston's success in reducing homelessness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cross-organization coordination led by The Coalition for the Homeless is credited as the reason for Houston's success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage has the Houston MSA's homeless population decreased over the past ten years?"
+      },
+      {
+        "role": "assistant",
+        "content": "56 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the Houston MSA's homeless population in 2012 and 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "7,200 individuals in 2012 and 3,150 in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What event occurred in Houston in February 2023 related to homelessness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Houston closed its largest homeless encampment, moving most of its residents into a new housing navigation center."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the Coalition for the Homeless credited with achieving in Houston?"
+      },
+      {
+        "role": "assistant",
+        "content": "Uniting the efforts of local partners into a cohesive and focused homelessness response."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to former Houston mayor Annise Parker, what is the reason for Houston's success in reducing homelessness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly everybody in Houston involved in homelessness got together around what works."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three stages of homelessness interventions mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Preventing entry to homelessness, sheltering and supporting people experiencing homelessness, and improving exits to permanent housing."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can business leaders support their at-risk employees according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "By providing in-house support services such as flexible work schedules, transportation to and from work, and personal-finance planning."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one potential way to help people experiencing homelessness make the shift to self-sustained housing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dedicating some public housing to rehoming the homeless with support from programs such as housing vouchers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin's annual congestion cost per auto commuter compare to Dallas?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is 14 percent more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is happening to the population center of the Austin MSA?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is shifting further from Central Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the result of the infrastructure not expanding quickly enough to support the burgeoning suburban population outside Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Significant road congestion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does congestion cost the average Austin commuter annually?"
+      },
+      {
+        "role": "assistant",
+        "content": "$1,520."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin's annual congestion cost per commuter compare to Dallas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin's annual congestion cost per commuter is 14 percent more than Dallas."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin's annual congestion cost per commuter compare to Raleigh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin's annual congestion cost per commuter is 80 percent more than Raleigh."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was Austin's ranking in terms of traffic congestion cost per commuter among high-growth peers pre-COVID-19?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin had the highest traffic congestion cost per commuter among high-growth peers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of workers from Williamson County and other suburban counties travel across county lines to get to work?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the recommended approach to combating congestion according to the Texas A&M Transportation Institute?"
+      },
+      {
+        "role": "assistant",
+        "content": "A balanced approach that focuses on more of everything, including policies, programs, projects, flexibility, options, and understanding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Austin MSA population is serviced by CapMetro as of 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "59 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated cost of Project Connect?"
+      },
+      {
+        "role": "assistant",
+        "content": "$10.3 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of suburban commuters report using personal vehicles to commute?"
+      },
+      {
+        "role": "assistant",
+        "content": "96 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of residential areas within one mile of Project Connect's proposed rail lines classify as active resident displacement risk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly 39 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current usage of public transit in Austin compared to pre-COVID-19 ridership levels?"
+      },
+      {
+        "role": "assistant",
+        "content": "About 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the Texas A&M Transportation Institute, what is the recommended approach to combating congestion?"
+      },
+      {
+        "role": "assistant",
+        "content": "A balanced approach that focuses on more of everything; more policies, programs, projects, flexibility, options, and understanding."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main reason for the growth in public-transit ridership in Seattle?"
+      },
+      {
+        "role": "assistant",
+        "content": "The growth in public-transit ridership in Seattle can largely be attributed to Seattle's transit demand management (TDM) policies, the buy-in of private local employers, and a new fare district to subsidize struggling bus routes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the One Regional Card for All (ORCA) and what does it enable commuters to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "The One Regional Card for All (ORCA) enables commuters to pay for different transit options (for example, ferries and buses) across the region under one account."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What requirement was imposed on owners or tenants of large commercial buildings in Seattle since 2015?"
+      },
+      {
+        "role": "assistant",
+        "content": "Since 2015, owners or tenants of large commercial buildings have been required to offer transit pass subsidies of at least 50 percent to all building employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was the Seattle Transit Benefit District (STBD) funded?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Seattle Transit Benefit District (STBD) was funded via a 0.1 percent increase in sales tax and a $60 city vehicle registration fee."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What largely contributed to the growth in Seattle's public-transit ridership?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seattle's transit demand management (TDM) policies, the buy-in of private local employers, and a new fare district to subsidize struggling bus routes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the One Regional Card for All (ORCA) and when was it launched?"
+      },
+      {
+        "role": "assistant",
+        "content": "The One Regional Card for All (ORCA) enables commuters to pay for different transit options across the region under one account and was launched in 2009."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Seattle commuters traveled to work via public transit by 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly 11 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in the proportion of Seattle's downtown workers commuting via transit in 2019 compared to driving alone?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly half of Seattle's downtown workers commuted via transit, or nearly double the proportion who drove alone."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the result of Seattle's transit transformation by 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "A dramatic increase in Seattle's public-transit ridership and a decrease in the proportion of car commuters before the COVID-19 pandemic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the change in the percentage of workers commuting via automobiles in the Seattle area from 2015 to 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "A 2.3 percent decrease."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was passed by Seattle voters in 2016?"
+      },
+      {
+        "role": "assistant",
+        "content": "A $53.8 billion transportation bill called Sound Transit 3 (ST3)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the purpose of the Sound Transit 3 (ST3) plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "To expand the city's light-rail network by 62 miles to less-accessible neighborhoods and other cities in the region."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to Austin's road usage during the COVID-19 pandemic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Total road usage across the Austin MSA decreased dramatically in 2020."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the project aimed at alleviating congestion on I-35 in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The I-35 Capital Express project."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is the I-35 Capital Express project expected to cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5.6 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total number of passengers served by Austin-Bergstrom International Airport in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Almost 21.1 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the designed capacity of Austin-Bergstrom International Airport following expansions in 2017?"
+      },
+      {
+        "role": "assistant",
+        "content": "17.1 million total annual passengers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the total road usage in the Austin MSA in 2021 compared to pre-COVID-19 highs?"
+      },
+      {
+        "role": "assistant",
+        "content": "96 percent of its pre-COVID-19 highs."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where is Austin's worst congestion concentrated?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Interstate 35 (I-35) north\u2013south corridor."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the I-35 Capital Express project designed to do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alleviate congestion on I-35."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much is the I-35 Capital Express project expected to cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "$5.6 billion."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the current operational capacity of Austin-Bergstrom International Airport per month?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.20 million passengers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many total annual passengers did Austin-Bergstrom International Airport serve in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Almost 21.1 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what year does the AUS 2040 Master Plan aim to serve 31.0 million passengers?"
+      },
+      {
+        "role": "assistant",
+        "content": "2040."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "At the 2017-2022 growth rate, when is Austin-Bergstrom International Airport expected to eclipse 31 million passengers?"
+      },
+      {
+        "role": "assistant",
+        "content": "2027."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Austin's self-proclaimed title?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'Live Music Capital of the World'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are some artists and musicians leaving East Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Due to a lack of affordable studio space."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the challenges facing Austin as it grows?"
+      },
+      {
+        "role": "assistant",
+        "content": "Retaining its unique identity and 'X factor'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the less tangible costs of growth in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The loss of its unique atmosphere and cultural identity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do some local leaders suggest doing to support the music scene?"
+      },
+      {
+        "role": "assistant",
+        "content": "Enhancing support grants for music venues, subsidizing creative spaces for artists, providing professional development workshops and training, and supporting public\u2013private partnerships that promote 'music hubs'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are up-and-coming artists in Austin having trouble finding studio space?"
+      },
+      {
+        "role": "assistant",
+        "content": "Due to a lack of affordable studio space, with the only available places being in backhouses and garage apartments."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are some proposed solutions to help artists in Austin overcome the lack of affordable studio space?"
+      },
+      {
+        "role": "assistant",
+        "content": "Enhancing support grants for music venues, subsidizing creative spaces, providing professional development workshops, and supporting public\u2013private partnerships that promote 'music hubs'."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How did Austin's violent and property crime rates compare to its high-growth peers in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin had the third-lowest violent crime rate but the third-highest property crime rate compared to its high-growth peers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Austin's ranking in the Trust for Public Land's ParkScore, and how has it changed over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin has a ParkScore of 39, which is the highest among major Texas cities, but its ranking has slipped from 19 in 2012."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much does Austin spend per capita to maintain and expand its park system, and how does it compare to other cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin spends $178 per capita, which is more than any other major Texas city, but less than cities like Washington, DC ($284) and Minneapolis ($317)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin's per capita spending on parks compare to other major cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Austin spends $178 per capita, which is more than any other major Texas city but less than peers such as Washington, DC ($284) and Minneapolis ($317)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the target year for Austin Energy to achieve 100 percent carbon-free electric generation?"
+      },
+      {
+        "role": "assistant",
+        "content": "2035."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much has the planet warmed above preindustrial levels as of 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.1\u00b0C."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Paris Agreement regarding global warming?"
+      },
+      {
+        "role": "assistant",
+        "content": "To limit the Earth's warming to below 2.0\u00b0C and pursue efforts to limit the increase to 1.5\u00b0C above preindustrial levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much has the planet warmed as of 2021 compared to preindustrial levels?"
+      },
+      {
+        "role": "assistant",
+        "content": "1.1\u00b0C above preindustrial levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of the Paris Agreement regarding global warming?"
+      },
+      {
+        "role": "assistant",
+        "content": "To limit the Earth's warming to below 2.0\u00b0C and to limit the increase to 1.5\u00b0C above preindustrial levels."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what year is Austin Energy targeting 100 percent carbon-free electric generation?"
+      },
+      {
+        "role": "assistant",
+        "content": "2035."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the City of Austin's goal regarding net-zero greenhouse-gas emissions under the Climate Equity Plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "To reach net-zero greenhouse-gas emissions by 2040."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the largest contributors to GHG emissions in Austin in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Transportation (39 percent), electricity (38 percent), and industrials (8 percent)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What were the largest contributors to GHG emissions in 2019?"
+      },
+      {
+        "role": "assistant",
+        "content": "Transportation (39 percent), electricity (38 percent), and industrials (8 percent)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Austin Energy's total generation capacity is from renewables?"
+      },
+      {
+        "role": "assistant",
+        "content": "63 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main source of water for Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Texas's Colorado River."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much is water stress projected to increase in parts of Greater Austin with an additional 2\u00b0C of global warming?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many years of hydrological drought is the region projected to experience each decade?"
+      },
+      {
+        "role": "assistant",
+        "content": "Up to seven years."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happened to agricultural customers on the Texas coast in 2022 due to drought conditions?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were cut off from Highland Lakes water for the year under the Lower Colorado River Authority's Water Management Plan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Where does the real problem of increased water stress lie in relation to Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Upstream of Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is projected to happen to water stress in some areas upstream of Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "To see 150 percent increases."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What reduces the inflows to the Colorado River's midbasin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Higher projected temperatures and lower precipitation totals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who were cut off from Highland Lakes water in 2022 due to drought conditions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Agricultural customers on the Texas coast (primarily rice farmers)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much is water stress in Greater Austin projected to rise?"
+      },
+      {
+        "role": "assistant",
+        "content": "By as much as 50 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of available water would be constituted by baseline water demands under 2\u00b0C warming?"
+      },
+      {
+        "role": "assistant",
+        "content": "38%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the water supply condition as of November 1, 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Extraordinary drought."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many US residents depend on the Colorado River for water?"
+      },
+      {
+        "role": "assistant",
+        "content": "40 million."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Colorado River water supplies are used for agriculture?"
+      },
+      {
+        "role": "assistant",
+        "content": "70 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much has the Colorado River flow been reduced in the 21st century due to prolonged record drought?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly 20 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the projected reduction in Colorado River flow by the end of the century due to continued warming temperatures?"
+      },
+      {
+        "role": "assistant",
+        "content": "35 percent or more."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How much water curtailment was called for by the US Department of Interior in August 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two- to four-million-acre-feet."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage reduction in water use was faced by Arizona in 2023 due to the tier-two water shortage on the Colorado River?"
+      },
+      {
+        "role": "assistant",
+        "content": "21 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the plan hailed by some respondents as a sign of improvement in aquifer management systems?"
+      },
+      {
+        "role": "assistant",
+        "content": "City of Austin's Water Forward plan."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many US residents depend on the Colorado River for water?"
+      },
+      {
+        "role": "assistant",
+        "content": "Forty million US residents depend on the Colorado River for water."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Colorado River water supplies are used for agriculture?"
+      },
+      {
+        "role": "assistant",
+        "content": "70 percent of Colorado River water supplies are used for agriculture."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage has the Colorado River flow been reduced in the 21st century due to prolonged record drought?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Colorado River flow has been reduced by an average of nearly 20 percent in the 21st century."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was announced by the US Department of Interior in August 2022 regarding the Colorado River?"
+      },
+      {
+        "role": "assistant",
+        "content": "The US Department of Interior announced a tier-two water shortage on the Colorado River, calling for a two- to four-million-acre-feet curtailment of water from the river in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many midsummer workdays could become unworkable due to high temperatures with 2\u00b0C warming in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Five out of seven midsummer workdays could become unworkable due to high temperatures with 2\u00b0C warming."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By what percentage are heat waves projected to increase in duration in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Heat waves are projected to lengthen in duration by 200 percent in Greater Austin."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the biggest opportunities for decarbonizing economic development in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "The biggest opportunities lie in power generation, transportation, and buildings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How long are heat waves projected to last in Greater Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly three months of heat wave conditions annually."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the biggest opportunities for decarbonizing economic development in Austin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Power generation, transportation, and buildings."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Austin Energy's generation is now carbon-free?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 70 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Austin's GHG emissions does the Fayette Power Plant account for?"
+      },
+      {
+        "role": "assistant",
+        "content": "28 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of emissions in Austin comes from transportation?"
+      },
+      {
+        "role": "assistant",
+        "content": "36 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does Austin rank in EV infrastructure among its national high-growth peers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Second highest, trailing only Salt Lake City."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Austin's emissions comes from buildings (excluding electricity usage)?"
+      },
+      {
+        "role": "assistant",
+        "content": "12 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many LEED-certified buildings did Austin have as of January 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "36."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the ways Ithaca plans to decarbonize its buildings by 2030?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ithaca has partnered with a start-up climate tech company and a private equity firm to secure more than $100 million in funding and is using a city-backed rebate and loan model to reduce the cost up front for homeowners."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many LEED-certified buildings did Austin have as of January 2021?"
+      },
+      {
+        "role": "assistant",
+        "content": "36"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the estimated cost of Ithaca's complete retrofit?"
+      },
+      {
+        "role": "assistant",
+        "content": "$600 million"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the measures that could further cut emissions, energy, and bills in households?"
+      },
+      {
+        "role": "assistant",
+        "content": "Insulation retrofitting (for example, R-30 wall insulation, double-paned windows, weather-sealed thresholds)"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the goal of Ithaca's decarbonization plan?"
+      },
+      {
+        "role": "assistant",
+        "content": "To decarbonize and electrify all its buildings by 2030"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is critical to unlocking Greater Austin's future?"
+      },
+      {
+        "role": "assistant",
+        "content": "Capitalizing on momentum."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of growth is Greater Austin aiming for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sustainable and inclusive growth."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is an example of a successful regional civic partnership?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Itasca Project in Minnesota."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the four common values shared by successful civic partnerships like Itasca?"
+      },
+      {
+        "role": "assistant",
+        "content": "A fact-based, societal focus; broad, nonpartisan membership; sustained engagement; and an impact orientation."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why was the Itasca Project formed?"
+      },
+      {
+        "role": "assistant",
+        "content": "It was born from an organic and genuine desire to effect positive social change among Minneapolis's business leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who led the research for the report 'Uniquely Austin: Stewarding growth in America's boomtown'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Paul Kolter, Steven Smith, and Chris Hachtman."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who led the research for the report on making Greater Austin a more sustainable and inclusive version of itself?"
+      },
+      {
+        "role": "assistant",
+        "content": "Paul Kolter, Steven Smith, and Chris Hachtman led the research."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main focus of the report 'Uniquely Austin: Stewarding growth in America\u2019s boomtown'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Making Greater Austin an even better steward of its growth and a more sustainable and inclusive version of itself."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 310,
+    "filtered": 296,
+    "retention_rate": 0.95,
+    "avg_score": 8.4
+  }
+}

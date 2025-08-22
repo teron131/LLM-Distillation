@@ -1,0 +1,1605 @@
+Sustainability Practice
+
+Net-zero steel in  
+construction: The way 
+forward
+
+Rising demand for greener approaches creates an imperative for the 
+industry to seize the moment, adopt new mindsets, and set standards 
+for the transition to a greener future.
+
+This report is a collaborative effort by Pedro Assunçāo, Brodie Boland, Trevor Burns, Emanuele 
+D’Avolio, Alasdair Graham, Focko Imhorst, Ingrid Koester, Carl Kühl, Rory Sullivan, and Alex Ulanov, 
+representing views from McKinsey’s Metals & Mining and Sustainability Practices and the Energy 
+Transitions Commission.
+
+April 2022
+
+© uchar/Getty Images
+
+From houses to bridges, hospitals, and 
+skyscrapers, the construction industry is 
+responsible for approximately 25 percent of global 
+emissions,1 about a third of which are associated 
+with the construction process.2 One reason for 
+that heavyweight impact is that the industry is a 
+voracious consumer of steel, accounting for more 
+than 50 percent of global demand.3 Steel is a 
+carbon megaproducer due to the energy used in its 
+production4 and is responsible for about a quarter 
+of emissions in the building construction process. 
+Given these powerful impacts, there is an urgent 
+need for decision makers in steel and construction 
+to take stock, consider options for decarbonization, 
+and plot a realistic path forward.
+
+Under the Paris Agreement on climate change, 
+governments pledged to keep global warming 
+below 2°C above preindustrial levels, ideally below 
+1.5°C. To achieve that goal, net human emissions 
+of greenhouse gas (GHG) must fall to zero by 2050. 
+In the construction sector, massive changes are 
+required to align with that pathway. However, a 
+significant step forward would be to shift from high-
+CO2 steel to near-zero-emissions steel.
+
+Partial steel decarbonization is possible with 
+modern furnace technologies—the most efficient 
+of which are powered by natural gas and use 
+comparably energy-efficient direct reduced iron 
+or hot briquetted iron (NG DRI/HBI+EAF) to make 
+steel. These emit much less GHG than coke-fueled 
+blast furnaces or basic oxygen furnaces (BF/
+BOFs), which account for 73 percent of global 
+production and are still dominant in Europe, China, 
+and elsewhere. 
+
+Another route to lower-CO2 steel would be to 
+retrofit BF/BOFs for carbon capture and storage 
+(CCS) or carbon capture and utilization (CCU). This 
+technology can be a near-zero-emissions steel 
+technology, contingent on a CO2 capture rate of 
+90 percent, but the approach is not yet proven at 
+scale and is significantly costly.
+
+The “North Star” for decarbonization would be to 
+scale hydrogen-reduced DRI/HBI EAF furnaces 
+powered with renewable energy. With this 
+combination, producers could make steel with a 
+carbon intensity of less than 0.2 metric tons of 
+CO2 (tCO2) per metric ton of steel. Still, the cost 
+would be high. The steel produced in an EAF using 
+hydrogen-reduced DRI would need to command a 
+“green premium” of about 20 percent over 20 years 
+to fund construction of the DRI plant and EAF (not 
+including the capital expenditure for hydrogen 
+production, transport, and storage).
+
+To demonstrate the potential for construction 
+to adopt greener steel, this paper presents an 
+illustrative marginal-abatement cost curve for 
+the materials and construction of an eight-story 
+commercial office building.5 In a business-as-
+usual scenario, total embodied carbon in the 
+construction phase would be about 1,900 tCO2, of 
+which approximately 85 percent would be from 
+materials.6 Of that, some 25 percentage points 
+would be associated with steel (and 37 percentage 
+points with concrete).7 The analysis shows it would 
+be possible to reduce embodied carbon in the 
+building by about 1,250 metric tons (or 70 percent), 
+using alternative technologies, materials, and 
+steel-production methods that will be widely 
+commercially available by 2030. This would 
+
+1 “Call for action: Seizing the decarbonization opportunity in construction,” McKinsey, July 14, 2021.
+2 “Metals & Mining Insights,” McKinsey, accessed in September 2021; “Real Estate Insights,” McKinsey, accessed in September 2021. Based on 
+2017 emissions.
+3 “Steel facts,” World Steel Association, accessed January 26, 2022.
+4 A significant portion of steel consumption in building and construction is from “long” products, which—in the United States—are most 
+commonly produced through electric-arc furnaces (EAF) that have a lower CO2 emissions intensity per metric ton of steel.
+5 For illustrative purposes only. Regional differences and differences in the construction type of the building (for example, cast-in-place versus 
+hybrid versus structural steel) have a significant impact on both overall emissions and on abatement potential of different levers. 
+6 Carbon emissions associated with buildings’ whole-life materials and construction processes. Nonmaterial emissions include heavy 
+equipment, transport, and small generators.
+7 Mostly rebars used in reinforced concrete.
+
+2
+
+Net-zero steel in construction: The way forwardimply a relatively modest 5 percent real increase 
+in the cost of building materials. A reduction of 
+approximately 25 percent would be achievable with 
+current technologies.
+
+Still, technical and economic feasibility is only 
+half the battle. The other half is implementation, 
+adoption, and scaling. Here we set out five actions 
+the public and private sector must take to drive the 
+green-steel agenda: agree to common standards 
+and promote transparency; encourage participation 
+by fostering visibility; unlock end-user demand 
+(for example, through a buyers’ club for near-zero-
+emissions steel); tilt capital formation toward near-
+zero-emissions steel; and promote learning and 
+disseminate knowledge. In a fast-changing demand 
+landscape, these actions would accelerate the 
+decarbonization of the construction sector, with 
+greener steel playing a leading role.
+
+Steel, construction, and carbon:  
+The state of play 
+Globally, there are two dominant modes of 
+steel production. The first is based on BF/BOF 
+technology, which blows currents of air to turn 
+iron ore, mixed with coal and smelting agents 
+such as limestone, into molten metal. The second 
+dominant mode is electric-arc furnace (EAF) 
+technology. EAFs use electricity passed through 
+giant electrodes to create a fiery arc in which 
+the temperature reaches 3,000°C. The furnaces 
+often process recycled scrap metal and scrap 
+substitutes including pig iron and DRI, which is 
+made using natural gas, to produce steel. Today, 
+BF/BOFs emit around 2.5 tCO2 per metric ton of 
+steel, while NG DRI/HBI+EAFs emit 0.5 tCO2 per 
+metric ton or less, depending on the share of scrap 
+and energy source.8
+
+Steel CO2 emissions intensity is due to three 
+process steps: raw-material preparation, 
+
+ironmaking, and steelmaking. Raw-material 
+preparation requires heating metallurgical or 
+coking coal to 1,100°C to create coke and an 
+agglomeration of iron fines, either producing sinter 
+or pellets. Ironmaking can be in either BF or DRI 
+furnaces. In BF, coke and iron ore sinter or pellets 
+are combined, whereas in DRI, iron ore pellets are 
+directly reduced to purer iron using natural gas. 
+Subsequent steelmaking from iron can be through 
+either combining the iron ore with a small amount of 
+carbon in a basic oxygen furnace or combining DRI-
+based iron, pig iron, or both with scrap in a cleaner 
+electric-arc furnace. Modern versions of BF/BOF 
+technology account for about 73 percent of global 
+steel production, with significant variations by 
+geography. More energy-efficient EAFs account for 
+about 27 percent of production.
+
+Construction companies are not operating in 
+a vacuum. Indeed, they face rising pressure to 
+decarbonize from end buyers, investors, and 
+regulators. In addition, some governments have 
+passed legislation to drive the change agenda. 
+Measures include Denmark’s limit of 12 kilograms of 
+carbon-dioxide equivalent emitted per square meter 
+(CO2e/m2) per year for new buildings larger than 
+1,000 square meters9 and California’s Buy Clean 
+California Act (BCCA), which sets limits on global-
+warming potential for structural steel, concrete-
+reinforcing steel, flat glass, and mineral wool board 
+insulation.10 Amid increased focus on Scope 3 
+emissions, institutional investors are also engaged 
+as they seek to cut emissions from their portfolios. 
+
+Against this background, what is preventing the 
+construction sector from moving to green—or 
+greener—steel? The reality is that, despite tailwinds, 
+companies face significant commercial, structural, 
+and regulatory barriers. The sector’s generally 
+low margins are a limiting factor, dampening 
+steel producers’ appetites for investing in green 
+technologies.11 Established approaches produce 
+
+8 Steeling demand: Mobilising buyers to bring net-zero steel to market before 2030, Material Economics and the Energy Transitions 
+
+Commission, June 2021. 
+
+9 National strategy for sustainable construction, Danish Ministry of the Interior and Housing, April 2021.
+10 “Buy Clean California Act,” California Department of General Services, accessed January 20, 2022.
+11 LEED-certified buildings typically command a higher rent than non-LEED-certified buildings, but this is generally insufficient to offset the 
+
+additional costs of using green steel. “LEED” stands for Leadership in Energy and Environmental Design.
+
+3
+
+Net-zero steel in construction: The way forwardsteel for approximately $400 to $500 per metric 
+ton at the slab level. Near-zero-emissions steel is 
+more expensive, with significant variations based on 
+technology, location, and project. 
+
+to measure embodied carbon (contained in 
+construction materials from extraction to use).12 
+Indeed, no certification or grading system has been 
+widely adopted to date.13
+
+Another barrier to adoption is that individual 
+developers do not routinely count emissions from 
+the steel they consume because of a combination 
+of factors, including a lack of industry standards, 
+patchy regulation, and the absence of tools 
+
+The third significant barrier to adoption 
+is that the steel industry services a highly 
+fragmented construction landscape (Exhibit 1). 
+In North America and Europe, the value chain 
+is characterized by multiple intermediaries—
+
+Web <2022>
+<Net-zero steel construction>
+Exhibit <1> of <6>
+Exhibit 1
+A fragmented value chain is a barrier to the construction industry’s adoption of 
+A fragmented value chain is a barrier to the construction industry’s adoption of 
+greener steel.
+greener steel.
+
+Construction value chain phases
+
+Preparation and design
+Project establishment
+Project definition
+Project design
+
+Developers
+1. Governmental 
+agencies (local
+and federal)
+
+2. Private 
+
+developers 
+
+Government 
+agencies 
+occasionally 
+conduct 
+design phase 
+themselves 
+
+Construction 
+services
+
+Financing sources
+1.  Government 
+authorization 
+and appropriation 
+bills from policy 
+regulations
+
+2. Private investors 
+
+Building
+
+Use
+
+End of life
+
+General contractor
+Contractors occasionally 
+source directly1
+
+Operators
+Owners
+Users or occupiers
+
+Recyclers
+Aging assets 
+can recycle steel 
+components to 
+recapture some 
+initial capital
+
+Fabricators
+
+Subcontrac-
+tors
+
+20%
+
+10%
+
+Finished 
+steel manu-
+facturer 
+
+Distributors
+
+10%
+
+60%
+
+Producers
+For large projects (>$1 billion), 
+owners potentially negotiate 
+directly with producers
+
+Facilitators
+
+Note: Percentages are the share of steel produced.
+1Generally, finished steel, rebar, rods, rolls, and sheet metal.
+
+12 Denmark, France, and the Netherlands have rules regarding embodied carbon, and Finland and Sweden plan to follow suit in 2025 and 
+
+2027. US cities such as Santa Monica, California, have similar legislation in place. “Buy Clean Colorado” and “Buy Clean California” are state 
+legislative acts focused on steel. A shift may be supported by legislation such as the US Bipartisan Infrastructure and Jobs Act, CLEAN Future 
+Act, and SUPER Act of 2021.
+
+13 For example, the Partnership for Carbon Accounting Financials (PCAF) has not yet included embodied carbon emissions in required reporting 
+
+of financed construction emissions due to feasibility constraints.
+
+4
+
+Net-zero steel in construction: The way forwardwith thousands of companies competing for 
+business—and supply chains that consist mainly 
+of small manufacturers and merchants. Against 
+this backdrop, effective change at scale is more 
+difficult to achieve. 
+
+Breakthrough steelmaking 
+technologies: Innovation and incentives
+In some markets, steel decarbonization is already 
+under way, driven by regulatory and commercial 
+factors as well as a desire to test new production 
+processes at scale (Exhibit 2). The potential impact 
+
+Web <2022>
+<Net-zero steel construction>
+Exhibit <2> of <6>
+Exhibit 2
+Innovation will support the transition to near-zero-emissions steel.
+Innovation will support the transition to near-zero-emissions steel.
+
+For the foreseeable future, natural gas direct reduced iron and electric-arc furnaces (NG DRI + EAF) and 
+100% scrap EAF are the most viable options
+
+Approach
+
+Emerging
+example
+
+Potentially considered
+
+as near-zero-emissions steel
+
+BF/BOF2
+Replace iron ore sinter/
+pellets in the BF feed with 
+carbon-free DRI/HBI
+
+Cleveland-Cliffs 
+(CLF), U.S. Steel
+
+Emissions,
+tCO2/t steel1
+
+Scope 1
+Scope 2
+
+2.3
+
+2.5
+
+0.1
+
+BF/BOF + CCUS3
+Add carbon capture 
+and storage/utilization 
+technology to existing 
+BF/BOF plants
+
+NG DRI + EAF4
+Increase scrap 
+utilization and convert 
+NG to 100% 
+renewable power
+
+NG DRI + EAF + CCUS4
+Combine natural-gas-
+based DRI with an EAF, 
+and capture or use CO2 
+emissions
+
+H2 DRI/HBI5 + EAF
+Combine green- 
+hydrogen-based 
+DRI and EAF
+
+100% scrap EAF
+Melt high-quality scrap 
+in EAF (long products 
+only)
+
+U.S. Steel (under 
+consideration) 
+
+ArcelorMittal Contre-
+coeur and Lazaro
+Cardena; Ternium 
+Guerrero; Algoma 
+Steel (future)
+
+DRI/HBI5 wide-
+spread but no US 
+examples + CCS
+
+H2 Green Steel; 
+ArcelorMittal 
+Dofasco (future 
+“hydrogen ready”)
+
+Gerdau, 
+Nucor, SDI
+
+40% AIU6 scrap
+Upwards of 70% scrap 
+possible (flat products only)
+
+Nucor, SDI, 
+SSAB
+
+0.5
+
+0.2 0.2
+
+0.5
+
+0.3 0.2
+
+0.2
+
+0.0
+
+0.2
+
+0.2
+
+0.2 0.0
+
+0.3
+
+0.1
+
+0.2
+
+0.3
+
+0.1
+
+0.2
+
+Logic or limitation
+
+Maturity
+
+Low
+
+High
+
+Not currently a viable 
+investment, as emissions 
+reductions are not 
+large enough to 
+decarbonize steelmaking 
+for a 1.5° pathway
+
+Technology is still in 
+its infancy
+
+Not currently a viable 
+investment, as emissions 
+reductions are not 
+large enough to 
+decarbonize steelmaking 
+for a 1.5° pathway
+
+US steelmaking 
+industry not currently 
+invested in this 
+production route
+
+No CCS 
+cases, minor 
+CCU
+
+Only Emirates 
+Steel
+
+Technology is still 
+in its infancy
+
+Industrial 
+demo plants
+
+Limited by scrap 
+supply, and not all 
+steel products can be 
+produced by this route
+
+Not all steel products 
+can be produced by 
+this route
+
+Note: Figures may not sum, because of rounding. 
+1Metric tons of CO2 per metric ton of steel across Scopes 1 and 2. 2Blast furnace and basic oxygen furnace. 3Carbon capture, utilization, and storage; contingent 
+on 90% CO2 capture rate. 480/20 DRI scrap ratio and contingent on 90% CO2 capture rate. 5Hot briquetted iron; 80/20 DRI/scrap ratio. 6Alternative iron unit.
+Source: McKinsey US Decarbonization Pathways Analysis
+
+5
+
+Net-zero steel in construction: The way forwardof these efforts will be contingent on the pace at 
+which externalities are priced into conventional 
+pathways and how quickly cost reductions are 
+achieved in new production routes. 
+
+produce hydrogen and CO2 and then storing the 
+CO2 underground. A still cleaner approach is to 
+use electrolysis to separate hydrogen from water, 
+producing “green hydrogen.”
+
+One approach to reducing the CO2 intensity of 
+steel is to retrofit existing facilities, using maturing 
+technologies to develop cleaner processes. An 
+example is CCS and CCU. We estimate that 
+1.9 tCO2 per metric ton of steel could be reduced in 
+BF/BOF with CCS and CCU retrofit, if 90 percent 
+CO2 capture rate is achieved. CCS and CCU are 
+maturing technologies and the precise balance 
+of CO2 management and CO2 direct avoidance 
+will depend on location-specific circumstances. 
+However, there are significant limitations to this 
+approach, including public and political skepticism 
+(for example, historical opposition in Germany, a 
+major steelmaking country), potential concerns 
+relating to leakage from long-term geological 
+storage,14 and high capital costs (more than 
+$250 per metric ton of steel).15 Furthermore,  
+while technologies such as CCS will go some 
+way toward greening the steel industry, they are 
+unlikely by themselves to be sufficient to get to 
+net zero. One reason is that they leave residual 
+emissions, due to partial capture rates that can 
+only be abated at a cost. Steel producers need to 
+weigh the costs of achieving higher capture rates 
+and managing residual emissions early in the 
+decision-making process.
+
+Fully decarbonizing steel production requires 
+a more fundamental switch. Among current 
+technologies, the most promising are based on 
+hydrogen. Most hydrogen production consists of 
+“gray hydrogen,” made through a process called 
+steam methane reforming (SMR). This creates a gas 
+composed of about one-tenth hydrogen and nine-
+tenths CO2. By contrast, cleaner “blue hydrogen” 
+involves combining fossil fuels with steam to 
+
+Hydrogen is already used in ironmaking as a 
+reduction agent, but has not yet been deployed 
+at scale in steel production. One use case is as an 
+alternative injection material to PCI (pulverized 
+coal injection, a modern replacement for coke) in 
+BF/BOF environments. This use can cut emissions 
+by up to 30 percent but does not offer carbon-
+neutral potential, because significant coking coal 
+is still required. Conversely, hydrogen-reduced 
+DRI/HBI+EAF and renewable power would have 
+a potential carbon intensity of less than 0.2 tCO2 
+per metric ton of steel, compared with a current NG 
+DRI+EAF (100 percent scrap EAF has limitations in 
+sheet production). 
+
+Offsetting hydrogen’s benefits is its high cost. 
+Despite being one of the most abundant elements 
+on Earth, the gas barely exists in its pure form and 
+must be extracted from compounds in an energy-
+intensive process. No steel producer has found an 
+economically viable way to operate green hydrogen-
+reduced DRI/HBI+EAF (which currently costs 
+approximately $5 per kilogram)16 at scale. However, 
+more than 25 projects are under development.17 
+Other limitations include the availability and quality 
+of scrap, especially outside the United States, 
+and access to renewable power.18 Still, as green-
+hydrogen technologies mature over the coming 
+years, costs are expected to fall.
+
+Apart from green-hydrogen development, several 
+alternative technologies are starting to make 
+a mark. These include ore electrolysis, which 
+separates metallic iron from the oxygen to which 
+it is bonded in iron ore, and ore smelting reduction 
+(to produce pig iron at a lower energy intensity  
+
+14 Christopher R. Jones, Lorraine Whitmarsh, and Dimitrios Xenias, “Framing effects on public support for carbon capture and storage,” Nature, 
+
+February 2019, Volume 5, Number 17.
+
+15 For more on this approach, see “Metals & Mining Insights,” McKinsey, accessed September 2021.
+16 Dyna Mariel Bade, “US Department of Energy announces green hydrogen cost-cutting goal,” Institute for Energy Economics and Financial 
+
+Analysis (IEEFA), June 8, 2021.
+
+17 “Metals,” September 2021; Path to hydrogen competitiveness: A cost perspective, Hydrogen Council, January 20, 2020.
+18 “Scrap use in the steel industry,” World Steel Association, May 2021.
+
+6
+
+Net-zero steel in construction: The way forwardThe commercial development sector is 
+characterized by a relatively low price 
+elasticity of demand. In addition,  
+ESG considerations are becoming an  
+increasingly important differentiator.
+
+than blast furnaces and without coke) combined 
+with CCS.
+
+Decarbonization levers in B&C 
+projects: An illustrative case study
+In the normal course of business, construction 
+projects are broadly categorized as residential, 
+infrastructure, or commercial. In the residential 
+space, demand is mainly driven by factors such as 
+price and location. Infrastructure projects such as 
+bridges, highways, and railways are mostly publicly 
+led investments, so they are subject to the vagaries 
+of policy and funding. A first step toward wider use 
+of greener steel in that space would be a change 
+in procurement terms—requiring a marked shift 
+away from the dominance of least-cost tendering.19 
+Of the three categories, commercial projects offer 
+the most immediate potential for deployment of 
+decarbonized steel at scale. 
+
+an increasingly important differentiator.20 LEED-
+certified21 office buildings in US Class A urban 
+markets have achieved a 21.4 percent higher 
+average market sales price per square foot over the 
+past three years.22 Though embodied carbon is not a 
+mandatory requirement for LEED certification, most 
+LEED-certified office buildings are managed with 
+low-carbon strategies.
+
+To gauge the potential cost of abatement 
+in a commercial setting, we measured the 
+decarbonization potential of an illustrative eight-
+story commercial office building with a footprint 
+of approximately 10,000 square feet (Exhibit 3).23 
+In a business-as-usual scenario, total embodied 
+carbon for the building would be about 1,900 metric 
+tons, of which approximately 85 percent would 
+be from building materials.24 Of that total, some 
+37 percentage points would come from concrete 
+and 25 percentage points from steel.25
+
+A supportive factor for greening of the commercial 
+development sector is that the sector is 
+characterized by a relatively low price elasticity of 
+demand. In addition, environmental, social, and 
+governance (ESG) considerations are becoming 
+
+The analysis shows that alternative technologies, 
+materials, and steel production processes could 
+reduce the embodied carbon in the same building to 
+around 600 metric tons (approximately 70 percent 
+reduction in emissions) by 2030. Given a 10 percent 
+
+19 Dirk Czarnitzki, Paul Huenermund, and Nima Moshgbar, “Public procurement as policy instrument for innovation,” Proceedings, Academy of 
+
+Management, July 2018, Volume 2018, Number 1.
+
+20 George Hammond and Sarah Provan, “Hybrid working and climate fears steer London office demand, say groups,” Financial Times, August 10, 
+
+2021. 
+
+21 LEED stands for Leadership in Energy and Environmental Design.
+22 Green is good: Sustainable office outperforms in Class A urban markets, Cushman & Wakefield, August 2021.
+23 For illustrative purposes only. Regional differences and differences in the construction type of the building (for example, cast-in-place versus 
+
+hybrid versus structural steel) have a significant impact on both overall emissions and on the abatement potential of different levers. 
+
+24 Nonmaterial emissions include heavy equipment, transport, and small generators.
+25 Mostly rebars used in reinforced concrete.
+
+7
+
+Net-zero steel in construction: The way forwardWeb <2022>
+<Net-zero steel construction>
+Exhibit 3
+Exhibit <3> of <6>
+More than 60 percent of embodied emissions for an illustrative eight-story 
+More than 60 percent of embodied emissions for an illustrative eight-story 
+building come from concrete and steel.
+building come from concrete and steel.
+
+CO2 emissions of an 8-story office building,1 metric tons of CO2
+
+Material emissions
+Nonmaterial emissions
+
+Concrete2
+
+Steel3
+
+Tiling and flooring4
+
+Heavy equipment5
+
+Transport6
+
+Windows7
+
+Small generators5
+
+Gypsum8
+
+Insulation and roofing9
+
+Other10
+
+Total11
+
+Emissions, %
+
+700
+
+470
+
+130
+
+110
+
+90
+
+60
+
+60
+
+40
+
+30
+
+1,620
+
+1,620
+
+190
+
+260
+260
+
+1,880
+
+37
+
+25
+
+7
+
+6
+
+5
+
+3
+
+3
+
+2
+
+2
+
+10
+
+100
+
+1~10,000-square-foot footprint building (~900 m2) (rounded numbers). 2Mostly RC40/50—CEM1, RC32/40—50% GGBS, and GEN1—CEM1. Includes emissions 
+from 4% waste concrete. 3Mostly rebars (reinforced concrete) but also hot-dip galvanized steel, global seamless tube, UO pipe, and engineering steel. Includes 
+emissions from 10% waste steel. 4Includes materials such as ceramic, clay, nylon, and carpet. 5Part of “on-site emissions,” heavy equipment is assumed to be 
+6% of total baseline, while small generators are assumed to be 3% of total baseline. 6Transport is assumed to be 5% of total baseline. 7Includes window frames. 
+8Includes 22.5% emissions from gypsum waste. 9Includes materials such as timber, aluminum, polystyrene, bituminous roof membrane, and cellulose. 10Includes 
+a combination of other smaller materials and accounts for simplifications in terms of items, allocating all item emissions to the main material. 11Rounded totals. 
+They do not include electrical cabling, heating system, electrical appliances, etc, which make up <10% of total material emissions of the building.
+Source: Eight-story office building Bill of Quantities emissions model; Building; Commonwealth Scientific and Industrial Research Organisation (CSIRO); 
+Embodied Carbon in Construction Calculator (EC3) database; European Union; Inventory of Carbon and Energy (ICE) database; Bernardino D’Amico, Jim Hart, 
+and Francesco Pomponi, “Whole-life embodied carbon in multistory buildings: Steel, concrete and timber structures,” Journal of Industrial Ecology, April 2021, 
+Volume 25, Number 2; McKinsey analysis
+
+premium on steel (assuming green-hydrogen based 
+DRI EAF represents 40 percent of steel in building 
+and construction), the overall increase in building 
+costs would be 1 percent (Exhibit 4).
+
+In modeling the decarbonization pathway for 
+the office building, we assessed more than 25 
+individual levers.26 These can be grouped under five 
+decarbonization categories (Exhibit 5): 
+
+1.  Seek out efficiency in construction materials 
+and design. These are no-regret priorities 
+that, by definition, will lower material and 
+construction costs. Examples include hollow-
+core buildings, thinner load-bearing walls, 
+and modern insulation. A change in materials 
+mix could also contribute. Moving from 
+“cast in place” buildings to hybrid buildings 
+with concrete core and steel frames could 
+significantly lower embodied CO2 emissions by 
+reducing concrete usage.27
+
+26 The CO2 abatement curve is an illustrative example. Regional differences (for instance, in steel production, technology, or materials availability) 
+
+can significantly change the levers. The mentioned costs are aggregated for the eventual lever. 
+
+27 Seeking out efficiency in construction materials and design, assumes no incremental cost to reduce waste, and only cost saving from 
+
+higher efficiency, including hollow-core design and reduction of bearing-walls. For concrete, typical waste of 4.0 percent can be reduced to 
+2.0 percent with best practices; for steel, typical waste of 10.0 percent can be reduced to 5.0 percent with best practices; for gypsum, typical 
+waste of 22.5 percent can be reduced to 15.0 percent. 
+
+8
+
+Net-zero steel in construction: The way forwardWeb <2022>
+<Net-zero steel construction>
+Exhibit <4> of <6>
+Exhibit 4
+Given a 10 percent premium on steel, the overall increase in building cost 
+Given a 10 percent premium on steel, the overall increase in building cost 
+would be 1 percent.
+would be 1 percent.
+
+Overall share of commercial building costs, %
+
+Steel-related costs
+
+Structural works: Steel
+
+11
+
+Structural works: 
+Concrete
+
+Structural works: Other
+
+Civil works1
+
+Finishing works2
+
+Facade works3
+
+MEFP works4
+
+Other works5
+
+Total
+
+10% green-
+steel premium
+
+Total cost with 
+green-steel premium
+
+23
+
+3
+
+5
+
+8
+
+14
+
+28
+
+7
+
+100
+
+1
+
+101
+
+Note: Figures may not sum to 100%, because of rrounding. Results assume a 40 percent share of green hydrogen-based DRI EAF steel and a 60 percent 
+share of EAF-based secondary steel. In Europe and the United States, many construction applications, such as rebar, are made entirely from secondary steel. 
+However, there are limits to using secondary steel in construction due to supply constraints and metallurgical requirements of certain applications, such as 
+steel sheets in composite slabs, roof purlins, and plate structures. A 20 to 25 percent premium on H2-DRI EAF steel would imply an overall increase in steel 
+premium of 10 percent.
+1 Includes flooring, waterproofing, and masonry. 2Includes flooring and cladding, doors and windows, and cafeteria. 3Includes glass and brick facade works. 
+4Mechanical, electrical, fire protection, and plumbing works. 5Includes external development, car stackers, and furniture.
+
+2.  Migrate to lower-CO2 steel. Moving from BF/
+BOF to EAF steel would have an immediate 
+impact on embodied carbon (more than 
+100 metric tons of embodied CO2 in our 
+example, or more than 8 percent of total 
+abatement potential). However, this measure 
+would not change steel emissions on a 
+macro level, due to leakage of demand to 
+high-CO2 production routes. Breakthrough 
+steelmaking technologies include hydrogen-
+reduced DRI/HBI+EAF and are a potentially 
+
+powerful decarbonization lever. However, 
+this solution carries a larger premium due to 
+lower technology readiness. The green-steel 
+premium is expected to fall as the technology is 
+scaled and adopted.
+
+3.  Migrate to near-zero-emissions concrete, 
+flooring, and tiling: Incorporating CCS 
+technologies in concrete, flooring, and tiling 
+production could enable roughly 25 percent  
+of the abatement potential in our example 
+
+9
+
+Net-zero steel in construction: The way forwardWeb <2022>
+<Net-zero steel construction>
+Exhibit <5> of <6>
+Exhibit 5
+Embodied-carbon reduction demands new technology.
+Embodied-carbon reduction demands new technology.
+
+Abatement cost (2020),1 $ per metric ton of CO2 (tCO2)
+
+Promote 
+electrification of 
+on-site equipment
+
+Substitute steel, 
+concrete, and 
+other materials
+
+Migrate to near-zero-
+emissions concrete, 
+flooring, and tiling
+
+Migrate to 
+lower-CO2 
+steel
+
+Seek out efficiency in 
+construction materials 
+and design
+
+Change BF 
+to 100% 
+scrap EAF + 
+green power
+
+Produce 
+cement with 
+alternative 
+fuels (waste 
+and biomass)
+
+Increase use of 
+cross-laminated 
+timber (CLT) and 
+timber—mainly 
+replacing rein-
+forced concrete 
+
+Adopt new technologies 
+for concrete and flooring 
+or tiling (CCS—oxyfuel 
+and postcombustion, 
+postcombustion bioenergy 
+with carbon capture and 
+storage [BECCS])
+
+BF to 
+BF + CCS
+
+Substitute clinker 
+(eg, slag, fly ash, 
+and pozzolans)
+
+100
+
+200
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1,000
+
+1,100
+
+1,200
+
+Change 
+BF to 
+EAF
+
+Improve 
+recovery 
+rate and 
+recycling 
+of steel
+
+Promote 
+energy 
+efficiency
+
+Use BF to natural 
+gas direct reduced 
+iron with carbon 
+capture and storage 
+(NG DRI + CCS)
+
+Adopt alterna-
+tive building 
+materials 
+and other 
+approaches
+
+Electrify 
+small 
+generators
+
+Electrify 
+transporta-
+tion and 
+on-site heavy 
+equipment
+
+1,450
+
+200
+
+150
+
+100
+
+50
+
+0
+
+–50
+
+–100
+
+–150
+
+–1,900
+
+Reduce 
+steel 
+waste 
+
+Reduce 
+gypsum 
+waste 
+
+BF to green 
+hydrogen DRI
+
+Replace aluminum-
+framed windows 
+with wood-framed 
+windows
+
+Replace traditional insulation 
+with modern materials (eg, stone 
+wool, glass wool, cellulose, or 
+expanded polystyrene)
+
+Improve 
+building 
+footprint 
+by 5%
+
+Design
+optimization 
+of individual 
+components 
+
+Baseline building 
+emissions: 1,880 tCO2
+
+Abatement potential in 2030, tCO2 
+
+Compared with “cast-in-place” buildings, hybrid buildings with a concrete core and steel frame can significantly lower 
+embodied CO2 emissions by reducing concrete usage. Using structural steel instead of reinforced concrete can significantly 
+reduce emissions.
+
+Note: The horizontal axis shows the abatement potential of the technology switches. The vertical axis displays the average abatement cost as $ per metric ton 
+of CO2 (tCO2) for each switch. “Concrete” includes concrete foundations, basement walls, basement slabs, ground-floor slabs, typical floor slabs, columns, 
+load-bearing walls, and concrete blocks for the facade, stairs, and roof screed. This assumes no interactions in emissions abatement among different levers 
+for the same material. This assumes 25% of concrete emissions and 15% of steel emissions are not abatable—eg, due to residual positive emissions from 
+“green-steel” technologies—eg, electric-arc furnaces (EAF), blast furnaces and basic oxygen furnaces with carbon capture and storage (BF/BOF+CCS), 
+etc—and a potential lack of green-steel supply. $10 is a tentative value for the BF to 100% scrap EAF + renewable-power lever. 
+Source: Eight-story office building Bill of Quantities emissions model; Building; Commonwealth Scientific and Industrial Research Organisation (CSIRO); 
+Embodied Carbon in Construction Calculator (EC3) database; European Union website; Inventory of Carbon and Energy (ICE) database; Bernardino D’Amico, 
+Jim Hart, and Francesco Pomponi, “Whole-life embodied carbon in multistory buildings: Steel, concrete and timber structures,” Journal of Industrial Ecology, 
+April 2021, Volume 25, Number 2; McKinsey analysis
+
+10
+
+Net-zero steel in construction: The way forwardbuilding. While the decarbonization opportunity 
+is large, the cost would be relatively high 
+(between approximately $50 and $100 per 
+tCO2 abated).
+
+electrify small generators is slightly lower than 
+that of heavy equipment or transportation, 
+both are approximately $150 to $200 per tCO2, 
+representing a substantial cost.
+
+4.  Substitute steel, concrete, and other materials. 
+Replacing structural steel with glulam beams 
+and cross-laminated timber (CLT)—as well as 
+replacing in-situ concrete slabs with CLT or using 
+timber instead of concrete for load-bearing walls—
+could further reduce building embodied carbon 
+emissions.28 The levers in this methodology could 
+theoretically abate more than 20 percent of 
+embodied carbon emissions, but the cost would 
+be relatively high (often around $50 to $100 per 
+tCO2—but sometimes significantly more).29 This 
+implies a need for market incentives to support 
+uptake beyond lighthouse projects.
+
+5.  Promote electrification of on-site equipment. 
+On-site emissions from small generators, 
+transportation, and heavy equipment could 
+be abated through electrification. The 
+electrification of small generators seems likely 
+in the short term, while the electrification of 
+heavy equipment and transportation poses 
+challenges associated with battery and 
+charging infrastructure. While the cost to 
+
+To put the construction sector on a path to net zero, all 
+of the identified levers need to play a role. However, 
+given the price sensitivity of the construction industry, 
+the cost of several new technologies must be reduced 
+to make the proposed changes feasible at scale. 
+
+Next steps: Five key strategies for 
+greener steel
+To get to net-zero steel and decarbonize the 
+construction sector, both public and private actors 
+need to support the transition. Here, we gather  
+five indispensable strategies that can move the 
+agenda forward:
+
+1. Create common definitions for near-zero-
+emissions steel and promote transparency
+There is no industry alignment on the definition of 
+“green steel,” with industry bodies, steel producers, 
+and consumers often applying their own definitions 
+(see sidebar “Definitions of ‘green steel’ vary”). 
+Priorities should include the following:
+
+28 This assumes no regulatory constraints on the use of cross-laminated timber (CLT) or timber (for example, limited to five-story buildings) and 
+
+no recent price increase—for example, CLT or timber could be applied in in-situ concrete slabs, load bearing walls, or facades.
+
+29 For more, see “Call for action,” July 14, 2021.
+
+Definitions of ‘green steel’ vary
+
+Companies have taken varying approach-
+es to defining the terms of their transitions. 
+Volvo Group announced in 2021 that it 
+had signed an agreement to develop the 
+world’s first vehicles made of “fossil-free” 
+steel, made using fossil-free electricity and 
+
+hydrogen.1 BMW Group said in 2021 that 
+it plans to source steel produced with up 
+to 95 percent less CO2 emissions without 
+requiring fossil resources.2 Steel produc-
+er ArcelorMittal said that “recycled and 
+renewably produced” means that physical 
+
+steel is made with recycled material (scrap) 
+using renewable electricity, leading to a 
+CO2 footprint of as low as approximately 
+300 kilograms of CO2 per metric ton of  
+finished steel when the metallics are 
+100 percent scrap.3
+
+1 “Volvo launches world’s first vehicle using fossil-free steel,” Volvo, October 13, 2021.
+2 “Harnessing wind and hydroelectric power from the Arctic Circle: BMW Group plans to source steel produced with green power and hydrogen from northern Sweden,” BMW 
+Group, October 20, 2021.
+3 “XCarb™ recycled and renewably produced,” ArcelorMittal, accessed January 26, 2022.
+
+11
+
+Net-zero steel in construction: The way forwardThere is limited visibility into Scope 3 
+emissions in the construction value 
+chain, which can reduce the appetite for 
+investment in near-zero-emissions steel.
+
+ — Seek industry alignment on a common 
+
+ — Develop a uniform methodology to track 
+
+definition along the spectrum of greenness. 
+“Green steel” could be defined as having a Scope 
+1, 2, and 3 intensity of less than 0.2 tCO2 per 
+metric ton of steel. Near-zero-emissions steel 
+could be defined as having a Scope 1, 2, and 3 
+intensity of less than 0.5 tCO2 per metric ton 
+of steel. High-CO2 steel could be defined as 
+having a Scope 1, 2, and 3 intensity of more than 
+0.5 tCO2 per metric ton of steel. 
+
+emissions of embodied carbon. This would 
+require increased traceability of material GHG 
+emissions through life cycle assessments 
+(LCAs) and environmental product declarations 
+(EPDs), and standardized reporting of 
+embodied emissions. In effect, this would 
+mean expanding and standardizing embodied 
+calculators, such as EC3.30
+
+ — Define a measurement system. Develop a 
+common CO2 intensity methodology along 
+the lines of European standard EN 19694-2, 
+specifying how industry participants should 
+estimate GHG emissions.
+
+ — Incorporate embodied carbon into standards 
+and certifications. Industry entities could 
+create requirements for low thresholds of 
+embodied carbon emissions in green-building 
+rating systems, such as LEED and BREEAM,31 
+leveraging EPDs and LCAs.
+
+ — Label near-zero-emissions steel. Create 
+
+common labeling or grading of CO2 intensity 
+to support decision making—for example, the 
+ResponsibleSteel label.
+
+2. Foster public- and private-sector demand by 
+creating visibility into embodied carbon 
+There is limited visibility into Scope 3 emissions 
+in the construction value chain, which can reduce 
+the appetite for investment in near-zero-emissions 
+steel. To create visibility, stakeholders should 
+consider the following actions:
+
+ — Set embodied-carbon targets. Actors across 
+the construction value chain could create 
+Scope 3 carbon targets at the portfolio, project, 
+and materials levels. They could prioritize 
+absolute reductions over intensity reductions 
+and align with goals based on Paris Agreement 
+1.5° pathways. They could adopt established 
+calculation methods—for example, from the 
+Science Based Targets initiative.32
+
+ — Translate targets into decision-making 
+
+processes. Owners, financiers, developers, 
+
+30 EC3 is the Embodied Carbon in Construction Calculator, Building Transparency’s free database of construction EPDs and matching building 
+
+impact calculator for use in design and material procurement. 
+
+31 Building Research Establishment Environmental Assessment Method.
+32 The Science Based Targets initiative is a collaboration among CDP, the United Nations Global Compact, World Resources Institute, and the 
+
+World Wide Fund for Nature to help companies set science-based climate targets.
+
+12
+
+Net-zero steel in construction: The way forwardMoving the dial on demand
+
+Executives across the construction in-
+dustry offer a range of perspectives on the 
+challenges ahead:
+
+“If a developer is keen to reduce CO2, they 
+will put on pressure and set requirements. 
+However, developers have only been 
+focused on price.”  
+—VP general contractor
+
+“Currently, within the construction industry, 
+there has been dialogue about low-CO2 
+steel, but there has not been any formal 
+request for low-CO2 steel.” 
+—Director of commercial, distributor
+
+“Construction will be the second mover. 
+When the construction industry starts  
+asking the steel industry for low-CO2  
+
+Source: Expert interviews
+
+products, the steel industry will have  
+already reacted to the automotive industry.” 
+—VP general contractor
+
+or operators could create templates for 
+procurement and reporting in both the 
+public and private sectors. In particular, they 
+could incorporate internal carbon-pricing 
+mechanisms into decision-making processes 
+or significant green-steel quotas into 
+procurement targets. 
+
+3. Unlock demand for near-zero-emissions steel
+Near-zero-emissions steel cannot compete with 
+established technologies on the basis of price 
+alone (see sidebar “Moving the dial on demand”). To 
+unlock demand, developers, operators, owners, and 
+large occupiers could prioritize the following:
+
+ — Develop a buyers’ club for near-zero-emissions 
+
+steel. Bring together developers, owners, 
+operators, occupiers, and other construction 
+value-chain actors willing to buy net-zero (or 
+near-net-zero) steel at a premium. These could 
+signal demand by aggregating future purchase 
+commitments for net-zero steel.
+
+ — Commit to offtake agreements for select 
+
+breakthrough near-zero-emissions steel mills. 
+Construction companies or developers that 
+procure directly from steel producers could 
+
+guarantee a proportion of the output  
+of a “lighthouse” net-zero (or near-net-zero) 
+steel mill project for a predetermined period  
+of time.
+
+ — Unlock funding for steel mill projects. Large 
+developers and owners that buy steel could 
+further derisk net-zero (or near-net-zero) steel mill 
+projects by assembling willing capital providers or 
+becoming equity investors themselves. 
+
+ — Scale and replicate. Scale pilots to potential 
+near-zero-emissions buyers, steel producers 
+focused on breakthrough technology mills, and 
+capital providers willing to invest to reduce the 
+green premium (see sidebar “Demand for near-
+zero-emissions steel: A hydrogen-reduced DRI/
+HBI+EAF mill”).
+
+4. Tilt capital formation toward near-zero-
+emissions steel
+Most capital providers, including banks, 
+infrastructure funds, and pension funds, still do not 
+consider embodied carbon in their investment and 
+underwriting decisions. To marshal capital toward 
+low-emissions steel, they should undertake the 
+following actions:
+
+13
+
+Net-zero steel in construction: The way forwardDemand for near-zero-emissions steel: A hydrogen-reduced DRI/HBI+EAF mill
+
+We estimate the capital expenditure 
+for a greenfield hydrogen-reduced DRI/
+HBI electric-arc furnace (DRI/HBI+EAF) 
+mill to be approximately $1.2 billion. The 
+illustrative mill would have a 1.2 million 
+metric ton capacity, an 85 percent 
+
+utilization rate, and input of 40 percent 
+DRI and 60 percent scrap. The example 
+assumes that North American prices for 
+green hydrogen, including electrolysis, 
+drop from $4.89 per kilogram to $1.62 per 
+kilogram over 20 years.
+
+For the investment to be as economical 
+as BF/BOF production, the steel would 
+require a green premium of 20 to 
+25 percent over a 20-year period (exhibit).
+
+Web <2022>
+<Net-zero steel construction>
+Exhibit <Sidebar> of <6>
+Exhibit
+The required green premium for a new-build hydrogen DRI/HBI+EAF mill 
+The required green premium for a new-build hydrogen DRI/HBI+EAF mill 
+would be 20 to 25 percent over 20 years.
+would be 20 to 25 percent over 20 years.
+
+Preliminary, illustrative North America example
+
+Capital expenditure (capex) included1
+
+EAF2
+
+DRI3
+
+CSP4
+
+Hot mill
+
+Cold
+mill
+
+Galvanized
+line
+
+CCS5
+
+Included
+capex,
+$ billions
+
+Needed green
+premium6 for 
+breakeven vs 
+ongoing BF/BOF7
+
+Route
+Ongoing 
+BF/BOF 
+route8
+
+Hydrogen DRI/
+HBI+EAF route 
+with EAF capex9
+
+Hydrogen DRI/
+HBI+EAF route with 
+EAF and DRI capex
+
+Hydrogen DRI/
+HBI+EAF route with 
+integrated facility capex
+
+Ongoing BF/BOF 
+route with CCS 
+capex
+
+Assumes DRI will be purchased in the market
+
+0.8
+
+5–10%
+
+1.2
+
+20–25%
+
+2.2
+
+40–45%
+
+0.6
+
+40–45%
+
+Note: Cash flows are aggregated from 20 years and terminal value with a discount factor of 8%. Cash flow includes revenues from steel, operating expenditure, 
+and capital expenditure (when applicable). Price of steel assumed to be 2019 average price of hot-rolled coil ($598.74) and adjusted for a constant inflation over 
+time (2% a year). Mills with included capital expenditure have a building time of 2 years (ie, operating expenditure is not included for first two years). All mills 
+have an average 1.2 metric megatons of capacity and 85% utilization rate. Mills including EAF have a distribution of 40% direct reduced iron and 60% scrap.
+1Mills with included capital expenditure divide capex over first two years. 2Electric-arc furnace. 3Direct reduced iron. 4Continuous strip production. 5Carbon 
+capture and storage. 6Green premium is assumed to last for 20 years; does not account for selling, general, and administrative expenses (SG&A). 7Blast furnaces 
+or basic oxygen furnaces. 8Capital expenditure not included for BF/BOF mills due to existing operations and small likelihood of new mills being constructed. 
+BF/BOF operating expenditure is the average of both sinter and pellet mills. 9DRI/HBI+EAF is direct reduced iron and hot briquetted iron plus electric-arc 
+furnaces. Assumes green-hydrogen price steadily decreases from $4.89 per kg in 2021 to $1.62 per kg in 2041. Lower end of price range used due to North 
+American power pricing. 
+
+ — Track and report financed embodied carbon 
+emissions. Estimate and publish investment 
+and underwriting activities associated with 
+emissions, including embodied carbon, while 
+using LCAs and EPDs to track embodied 
+carbon footprints.
+
+ — Track and report the transition risks associated 
+with embodied carbon. Assess exposure to 
+embodied carbon emissions from investing or 
+underwriting activities—for example, in relation 
+to embodied-carbon taxes.
+
+14
+
+Net-zero steel in construction: The way forward — Include embodied criteria in financing 
+
+2.  How is near-zero-emissions steel positioned 
+
+decisions. Take into account embodied carbon 
+in underwriting and financing activities, using 
+references such as an internal carbon price or 
+shadow carbon price. 
+
+ — Tilt funding to near-zero-emissions steel. Create 
+green-debt and green-equity products focused 
+on near-zero-emissions steel. These might 
+include green bonds, transition or emission 
+bonds, green loans, or green revolving-credit 
+facilities, with interest rates linked to output 
+intensity and interest payments pegged to 
+green-steel prices.
+
+versus other abatement options?
+
+3.  When and how can I secure a supply of near-zero-
+emissions steel? Where do competitors stand?
+
+4.  Which engineering processes and systems need 
+
+to be modified, if any?
+
+5.  How can information about the embodied 
+
+emissions of steel products be best shared 
+across the supply chain?
+
+6.  What are the implications for procurement and 
+
+contracting practices?  
+
+5. Disseminate knowledge and awareness
+Not all actors in the construction value chain are 
+aware of construction embodied carbon footprints, 
+the GHG emissions associated with specific 
+materials, or the near-term options for addressing 
+embodied carbon. Market participants should 
+spread the word about carbon footprints, steel 
+carbon footprints, and potential decarbonization 
+solutions. Platforms such as conferences, training 
+sessions, and roundtables would all serve the 
+purpose. Discussions should be backed by science-
+based assessments of quality and performance, 
+case studies, and technical data.
+
+Assuming progress on the five strategies, decision 
+makers considering capturing the decarbonization 
+opportunity should ask themselves six key questions:
+
+1.  How can I capture the true economic cost 
+and value of near-zero-emissions steel in 
+construction projects?
+
+The construction industry is at a crossroads. Rising 
+demand for new approaches and the emergence 
+of viable solutions (albeit at a cost) put the onus 
+on companies and stakeholders to accelerate 
+the process of greening the industry. Green 
+technologies could enable significant reductions 
+by 2030 and almost complete abatement by 2050. 
+However, progress is contingent on collaboration 
+through the value chain, from steel production to 
+choices regarding building design, architecture, 
+and construction. In our example, a concerted 
+effort across a range of levers could reduce 
+embodied carbon in a commercial office building 
+by more than two-thirds. The imperative, therefore, 
+is for the industry to seize the moment, adopt a 
+radical mindset, and prepare for the transition to a 
+greener future.
+
+Pedro Assunçāo is a consultant in McKinsey’s New York office, where Trevor Burns and Ingrid Koester are consultants and 
+Alex Ulanov is a partner; Brodie Boland is a partner in the Washington, DC, office; Emanuele D’Avolio is a consultant in the 
+Chicago office; Focko Imhorst is a partner in the London office; and Rory Sullivan is a consultant in the Dubai office. Alasdair 
+Graham is the head of industry decarbonization for the Energy Transitions Commission in London. Carl Kühl is an analyst for 
+the Energy Transitions Commission in Munich.
+
+The authors would like to thank David Wigan for his editorial support.
+
+This report was co-developed by McKinsey’s Metals & Mining and Sustainability Practices and 
+the Energy Transition Commission for the Mission Possible Partnership 
+
+Designed by McKinsey Global Publishing
+Copyright © 2022 McKinsey & Company. All rights reserved.
+
+15
+
+Net-zero steel in construction: The way forward

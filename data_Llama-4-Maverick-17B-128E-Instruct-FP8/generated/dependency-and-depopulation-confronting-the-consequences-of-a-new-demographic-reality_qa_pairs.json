@@ -1,0 +1,1909 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe McKinsey Global Institute report \"Dependency and depopulation?\" explores the consequences of falling fertility rates and aging populations on economies and societies. Two-thirds of the global population lives in countries with fertility rates below the replacement rate, leading to potential population decline and changes in age structures. The report warns that current economic systems and social contracts are unsustainable and that a combination of higher productivity, more work, effective migration, and higher fertility rates is needed to ensure global prosperity. The demographic shift is expected to impact economic growth, labor markets, consumption, and public finances, with advanced economies and China being the first to feel the effects.",
+  "qa_pairs": [
+    {
+      "question": "What percentage of humanity lives in countries with fertility rates below the replacement rate?",
+      "answer": "Two-thirds."
+    },
+    {
+      "question": "What is the replacement rate of children per family?",
+      "answer": "2.1 children per family."
+    },
+    {
+      "question": "By 2100, what is expected to happen to the populations in some major economies?",
+      "answer": "They will fall by 20 to 50 percent."
+    },
+    {
+      "question": "What is happening to age structures as a result of demographic shifts?",
+      "answer": "They are inverting\u2014from pyramids to obelisks\u2014as the number of older people grows and the number of younger people shrinks."
+    },
+    {
+      "question": "What is expected to happen to the share of people of working age in advanced economies and China by 2050?",
+      "answer": "It will fall to 59 percent from 67 percent today."
+    },
+    {
+      "question": "Which region is the only exception to the demographic shift?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "By 2050, what percentage of global consumption is expected to be accounted for by seniors?",
+      "answer": "One-quarter."
+    },
+    {
+      "question": "In which region is the demographic shift expected to be an exception?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "What is the predicted impact on GDP per capita growth in first wave countries from 2023 to 2050 unless productivity growth increases or people work more?",
+      "answer": "A slowdown of 0.4 percent annually on average, and up to 0.8 percent in some countries."
+    },
+    {
+      "question": "What is required to maintain a stable population?",
+      "answer": "A fertility rate at or above the replacement rate."
+    },
+    {
+      "question": "In how many countries have annual deaths already exceeded births?",
+      "answer": "Three-fifths of countries across advanced economies and China."
+    },
+    {
+      "question": "What are the four factors that can ensure global prosperity in the face of demographic change?",
+      "answer": "Higher productivity, more work per person, effective migration, and higher fertility rates."
+    },
+    {
+      "question": "What is the replacement rate of total fertility?",
+      "answer": "2.1, which is the number of children needed to replace their parents."
+    },
+    {
+      "question": "What percentage of the world's countries have seen a decline in fertility rate over the past quarter century?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What was the global average fertility rate in 2023?",
+      "answer": "2.3 children per woman."
+    },
+    {
+      "question": "Which region is expected to remain above the replacement fertility rate beyond the next quarter century?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "When did China join the countries with fertility rates below replacement?",
+      "answer": "1991."
+    },
+    {
+      "question": "What phenomenon is driving the bulk of the demographic shift?",
+      "answer": "The declining number of young people, or a youth deficit."
+    },
+    {
+      "question": "What is the fertility rate according to demographers?",
+      "answer": "A measure of the average number of children women have throughout their life."
+    },
+    {
+      "question": "How is the total fertility rate measured by the United Nations?",
+      "answer": "The average number of children that would be born alive to a woman during her lifetime, assuming she were to pass through her childbearing years conforming to the age-specific fertility rates in that year."
+    },
+    {
+      "question": "What is the replacement level fertility rate defined by the United Nations?",
+      "answer": "Approximately 2.1 children per woman."
+    },
+    {
+      "question": "In which region of the world do fertility rates remain high and are likely to stay above the replacement rate beyond the next quarter century?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "What happens to the population size of a society with a fertility rate below replacement in the long run, setting migration aside?",
+      "answer": "It is expected to shrink."
+    },
+    {
+      "question": "Why may the total fertility rate differ from the cohort fertility rates?",
+      "answer": "Because age-specific fertility rates change over time."
+    },
+    {
+      "question": "What happens to the population of a society with a fertility rate above replacement in the long run?",
+      "answer": "The population is expected to grow."
+    },
+    {
+      "question": "What is the expected outcome for a population with a fertility rate below replacement?",
+      "answer": "The population is expected to shrink."
+    },
+    {
+      "question": "What factors, apart from fertility rate, affect population size?",
+      "answer": "The number of women of childbearing age and life expectancy."
+    },
+    {
+      "question": "What does the 'effective fertility rate' measure?",
+      "answer": "It accounts for child mortality and brings the replacement rate to 2."
+    },
+    {
+      "question": "In which region has declining total fertility rates compensated for higher survival rates since the 1990s?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "What percentage of the change in age profiles of populations in developed countries since 1960 is explained by greater longevity?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What percentage of the change in the age profiles of populations in developed countries since 1960 is explained by falling fertility rates?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "How many fewer babies were born in Germany from 1960 to 2021 than if fertility rates had remained constant at the 1960 level?",
+      "answer": "26 million."
+    },
+    {
+      "question": "What was the impact of increased life expectancy on Germany's population from 1960 to 2021?",
+      "answer": "7 million more seniors, or about 8 percent of the country's population, were alive at the end of the period."
+    },
+    {
+      "question": "What was the net change in Germany's population in 2021 compared to if both fertility and life expectancy rates had remained constant?",
+      "answer": "The country's population was 23 percent smaller, equivalent to roughly 19 million fewer people."
+    },
+    {
+      "question": "In which developed country did life expectancy have roughly the same impact as fertility on the population change?",
+      "answer": "Japan."
+    },
+    {
+      "question": "What was the average number of babies per woman in Brazil in 1960 and in 2023?",
+      "answer": "6.1 in 1960 and 1.6 in 2023."
+    },
+    {
+      "question": "By how much has global life expectancy extended on average since 1997?",
+      "answer": "Seven years on average since 1997."
+    },
+    {
+      "question": "What is the expected global life expectancy by 2050?",
+      "answer": "77 years."
+    },
+    {
+      "question": "What percentage of the changes in today's total population is explained by falling fertility rates?",
+      "answer": "About 80 percent."
+    },
+    {
+      "question": "What was the average number of babies per woman in Brazil in 1960?",
+      "answer": "6.1 babies."
+    },
+    {
+      "question": "What is the current average number of children per woman in Brazil?",
+      "answer": "1.6 children."
+    },
+    {
+      "question": "What is the fastest-growing age group in percentage terms, according to the United Nations?",
+      "answer": "Centenarians, or those 100 years and older."
+    },
+    {
+      "question": "What shape are population structures taking in more economically advanced regions?",
+      "answer": "Obelisks."
+    },
+    {
+      "question": "What shape are population pyramids expected to take by 2100?",
+      "answer": "Obelisks."
+    },
+    {
+      "question": "At what age do pension entitlements typically kick in in many economies?",
+      "answer": "Between 60 and 67 years of age."
+    },
+    {
+      "question": "How many regions has the world been consolidated into for the demographic analysis?",
+      "answer": "Ten regions."
+    },
+    {
+      "question": "How many countries and areas are individually accounted for in the UN World Population Prospects 2024?",
+      "answer": "237 countries and areas."
+    },
+    {
+      "question": "What percentage of global population is accounted for by the example countries from first wave regions?",
+      "answer": "28 percent."
+    },
+    {
+      "question": "What percentage of the world's nominal GDP is generated by the example countries from first wave regions?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "How long would it take for additional babies to become adults and contribute to economic growth if global fertility rates were to jump to the replacement rate overnight?",
+      "answer": "20 years, give or take."
+    },
+    {
+      "question": "What percentage of the global population do the countries from later wave regions account for?",
+      "answer": "35 percent."
+    },
+    {
+      "question": "What is the source of the future population projections used in the report?",
+      "answer": "The UN World Population Prospects 2024, medium scenario."
+    },
+    {
+      "question": "What percentage of the world's nominal GDP is generated by the initial group of countries mentioned?",
+      "answer": "65 percent."
+    },
+    {
+      "question": "What is the time span covered by the population estimates and projections in the report?",
+      "answer": "From the 1950s to 2100."
+    },
+    {
+      "question": "What is the main approach used in the report's analysis?",
+      "answer": "Ceteris paribus, holding all variables constant except demographic change."
+    },
+    {
+      "question": "Why are the ceteris paribus outcomes in the report not considered predictions?",
+      "answer": "Because they are thought experiments to explore the degree to which current economic systems 'add up' in future demographic realities."
+    },
+    {
+      "question": "What is one of the limitations of the data sources used in the report?",
+      "answer": "Different sources sometimes do not agree, and some gaps in the data require interpolation."
+    },
+    {
+      "question": "What is the range of the UN's low and high scenarios for global population in 2100?",
+      "answer": "From 7 billion humans to 14 billion humans."
+    },
+    {
+      "question": "What is the basis of the projections in this report?",
+      "answer": "The UN medium scenario from 2024."
+    },
+    {
+      "question": "What is the range of the UN's low and high scenarios for global population in 2100?",
+      "answer": "From seven billion humans to 14 billion humans."
+    },
+    {
+      "question": "Why is the UN medium scenario not without its critics?",
+      "answer": "Some contend that it is too optimistic in its forecast that fertility rates will stop falling and slightly rebound in many countries."
+    },
+    {
+      "question": "What is another important variable that UN projections cannot account for?",
+      "answer": "Changes to migration patterns."
+    },
+    {
+      "question": "Why is it hard for the UN to predict changes to migration patterns?",
+      "answer": "Because migration can change suddenly due to changing economic conditions, conflict, or climate, among other factors."
+    },
+    {
+      "question": "How does the actual total fertility rate compare to the UN medium scenario's predictions?",
+      "answer": "The UN medium scenario predicts that the total fertility rate will plateau or even rebound, but so far it keeps declining."
+    },
+    {
+      "question": "What factors can cause sudden changes in migration?",
+      "answer": "Changing economic conditions, conflict, or climate, among other factors."
+    },
+    {
+      "question": "How should the report be read according to the authors?",
+      "answer": "As a scenario to prepare for rather than a prediction."
+    },
+    {
+      "question": "What is the UN medium scenario's prediction regarding the total fertility rate?",
+      "answer": "That it will plateau or even rebound."
+    },
+    {
+      "question": "What is happening to the share of working-age people in first wave regions?",
+      "answer": "It is declining and is projected to drop to about 59 percent by 2050."
+    },
+    {
+      "question": "What are the average total fertility rates in first wave and second wave regions?",
+      "answer": "1.2 children per woman in first wave regions and 2.2 in second wave regions."
+    },
+    {
+      "question": "When is the working-age population share expected to peak in Sub-Saharan Africa?",
+      "answer": "Well into the second half of the century."
+    },
+    {
+      "question": "When is the wave of demographic shift expected to peak in aggregate?",
+      "answer": "The 2030s."
+    },
+    {
+      "question": "What is the average fertility rate in Sub-Saharan Africa today?",
+      "answer": "4.4."
+    },
+    {
+      "question": "When is the working-age population share in Sub-Saharan Africa expected to peak?",
+      "answer": "Well into the second half of the century."
+    },
+    {
+      "question": "What is the overall fertility rate in the United States?",
+      "answer": "1.66."
+    },
+    {
+      "question": "Which state in the United States has a fertility rate closest to the replacement level?",
+      "answer": "South Dakota, with a fertility rate of 2.01."
+    },
+    {
+      "question": "What is the fertility rate in Bihar, India?",
+      "answer": "2.98."
+    },
+    {
+      "question": "How does the fertility rate vary between urban and rural areas in Bihar, India?",
+      "answer": "The urban fertility rate is 2.35, while the rural fertility rate is 3.11."
+    },
+    {
+      "question": "When did the working-age population share peak in Germany, the United States, and China?",
+      "answer": "Germany in 1986, the United States in 2007, and China in 2010."
+    },
+    {
+      "question": "What is the urban fertility rate in Bihar?",
+      "answer": "2.35"
+    },
+    {
+      "question": "What is the rural fertility rate in Bihar?",
+      "answer": "3.11"
+    },
+    {
+      "question": "What was the global support ratio in 1997?",
+      "answer": "9.4"
+    },
+    {
+      "question": "What is the expected global support ratio by 2050?",
+      "answer": "3.9"
+    },
+    {
+      "question": "What is the current global support ratio?",
+      "answer": "6.5"
+    },
+    {
+      "question": "What is the expected support ratio for India by 2050?",
+      "answer": "roughly half of 9.8, which is approximately 4.9"
+    },
+    {
+      "question": "What is the expected support ratio for India by 2100?",
+      "answer": "1.9"
+    },
+    {
+      "question": "What was the support ratio for first wave economies in 1997?",
+      "answer": "6.8"
+    },
+    {
+      "question": "What is the current support ratio for first wave economies?",
+      "answer": "3.9"
+    },
+    {
+      "question": "What is the expected support ratio for first wave economies by 2050?",
+      "answer": "2"
+    },
+    {
+      "question": "When will the world reach its maximum number of annual births?",
+      "answer": "2012, when 146 million babies were born."
+    },
+    {
+      "question": "When is the total number of people on Earth projected to peak?",
+      "answer": "2084, at just above ten billion."
+    },
+    {
+      "question": "When did the total population in first wave regions peak?",
+      "answer": "2020."
+    },
+    {
+      "question": "What percentage of the world's population aged 65 and older resides in first wave regions today?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What is the projected population of Sub-Saharan Africa by 2100?",
+      "answer": "3.5 billion."
+    },
+    {
+      "question": "By what year will the second wave's total population reach its maximum?",
+      "answer": "2071."
+    },
+    {
+      "question": "What percentage of the global population will live in first wave regions by 2050?",
+      "answer": "A quarter."
+    },
+    {
+      "question": "How many of the world's next thousand babies are projected to be born in Sub-Saharan Africa?",
+      "answer": "Almost 300."
+    },
+    {
+      "question": "What is the projected support ratio in India by 2050?",
+      "answer": "Roughly half what it is today."
+    },
+    {
+      "question": "What is the projected support ratio in India by 2100?",
+      "answer": "1.9."
+    },
+    {
+      "question": "By 2100, what percentage of the world's population is expected to live in first wave regions?",
+      "answer": "Less than 20 percent."
+    },
+    {
+      "question": "What region will account for all of the net global population increase by 2100?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "What will be the share of Sub-Saharan Africa in the global population by 2100?",
+      "answer": "34 percent."
+    },
+    {
+      "question": "By 2100, what will be the difference in population between Greater China and North America?",
+      "answer": "170 million."
+    },
+    {
+      "question": "Which regions will account for more than half of global consumption for at least the next quarter century?",
+      "answer": "Countries in later wave regions."
+    },
+    {
+      "question": "What percentage of global consumption is projected to be accounted for by India and Emerging Asia by 2050?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "By 2050, what percentage of global hours worked is expected to be accounted for by Sub-Saharan Africa?",
+      "answer": "18 percent."
+    },
+    {
+      "question": "What is the projected share of the world's work done by Chinese workers by 2050?",
+      "answer": "18 percent."
+    },
+    {
+      "question": "What percentage of global consumption is projected to be accounted for by India and Emerging Asia by an unspecified year?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What was the percentage of global consumption accounted for by India and Emerging Asia in 1997?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "What regions are consumption pools shifting from and to?",
+      "answer": "North America and Western Europe to Emerging Asia and India."
+    },
+    {
+      "question": "How many countries in first wave regions are on track to decline in population by a third or more by 2100?",
+      "answer": "26."
+    },
+    {
+      "question": "What is expected to happen to the populations of countries including China, Poland, and South Korea by 2100?",
+      "answer": "They are expected to shrink by half or more."
+    },
+    {
+      "question": "Why will some countries with fertility rates below replacement, such as France, the United Kingdom, and the United States, continue to have population growth through 2100?",
+      "answer": "Because of positive net migration."
+    },
+    {
+      "question": "What is the projected population decline by 2100 for regions such as Greater China, Advanced Asia, and Western Europe?",
+      "answer": "Greater China is expected to decline by 56%, Advanced Asia by 58%, and Western Europe by 38%."
+    },
+    {
+      "question": "According to the text, what is the expected global population by 2050 and 2100 under the UN medium scenario?",
+      "answer": "The global population is expected to reach 9.6 billion by 2050 and 10.2 billion by 2100."
+    },
+    {
+      "question": "What is the 'replacement floor hypothetical' scenario developed by MGI, and what is its effect on the global population by 2100?",
+      "answer": "The 'replacement floor hypothetical' assumes countries with fertility rates below 2.1 achieve that rate starting in 2024. Under this scenario, the global population would reach 12.6 billion by 2100."
+    },
+    {
+      "question": "How would achieving the 'replacement floor hypothetical' affect the population in Advanced Asia by 2100?",
+      "answer": "Achieving the 'replacement floor hypothetical' would lead to a population of 247 million in Advanced Asia by 2100, more than 1.6 times the population expected under the UN medium scenario."
+    },
+    {
+      "question": "What is the main challenge posed by declining populations according to the text?",
+      "answer": "Declining populations would challenge debt sustainability, the social contract, and the global geopolitical balance, and may also question sustained economic growth essential for the net-zero transition."
+    },
+    {
+      "question": "What would be the population in Advanced Asia by 2100 if fertility rates are raised to the replacement rate?",
+      "answer": "247 million."
+    },
+    {
+      "question": "What is the UN medium scenario population in Advanced Asia by 2100?",
+      "answer": "152 million."
+    },
+    {
+      "question": "By how much would support ratios in first wave regions increase by 2100 if fertility rates are raised to the replacement rate?",
+      "answer": "To about 2.2 people of working age per senior, compared with a ratio of 1.4 under the UN medium scenario."
+    },
+    {
+      "question": "What is the 'Replacement floor hypothetical' case developed by McKinsey Global Institute?",
+      "answer": "A case that assumes countries with fertility rates below the replacement rate of 2.1 children for every woman in 2024 immediately achieve that fertility rate."
+    },
+    {
+      "question": "Have countries that have implemented policies to boost fertility rates been successful in achieving the replacement rate?",
+      "answer": "No, none of the countries mentioned has managed to push fertility rates back to the replacement level."
+    },
+    {
+      "question": "What is the projected population under the two scenarios by 2100?",
+      "answer": "10.2 billion and 12.6 billion, respectively."
+    },
+    {
+      "question": "What challenge do many first wave economies face toward the end of the century according to UN projections?",
+      "answer": "A virtually unprecedented depopulation challenge."
+    },
+    {
+      "question": "What is the shape of population pyramids becoming in first wave regions?",
+      "answer": "Bottom-light and top-heavy."
+    },
+    {
+      "question": "What are the three levers that can offset the headwinds of the youth deficit?",
+      "answer": "Higher labor intensity, more robust productivity growth, and shifts toward a younger age mix via higher fertility and effective migration."
+    },
+    {
+      "question": "What does GDP per capita depend on?",
+      "answer": "The number of hours worked per person and how productive each hour of work is, or productivity."
+    },
+    {
+      "question": "What will result in slower growth in hours worked and reduce GDP per capita growth if left unaddressed?",
+      "answer": "A changing age mix\u2014more older people and fewer working-age people."
+    },
+    {
+      "question": "What are the factors that GDP per capita growth depends on?",
+      "answer": "Productivity growth, shifts in the age mix, and growth in labor intensity among people in each age cohort."
+    },
+    {
+      "question": "What challenge do many first wave economies face toward the end of the century according to UN projections?",
+      "answer": "A virtually unprecedented depopulation challenge."
+    },
+    {
+      "question": "What is the shape of population pyramids becoming in first wave regions?",
+      "answer": "Bottom-light and top-heavy."
+    },
+    {
+      "question": "What are the three levers that can offset the headwinds of the youth deficit?",
+      "answer": "Higher labor intensity, more robust productivity growth, and shifts toward a younger age mix via higher fertility and effective migration."
+    },
+    {
+      "question": "What does GDP per capita depend on?",
+      "answer": "The number of hours worked per person and how productive each hour of work is, or productivity."
+    },
+    {
+      "question": "What will result in slower growth in hours worked and reduce GDP per capita growth if left unaddressed?",
+      "answer": "A changing age mix\u2014more older people and fewer working-age people."
+    },
+    {
+      "question": "What are the factors that GDP per capita growth depends on?",
+      "answer": "Productivity growth, shifts in the age mix, and growth in labor intensity among people in each age cohort."
+    },
+    {
+      "question": "What are the three main factors that drive GDP per capita growth?",
+      "answer": "Growth in productivity, growth in hours worked per person."
+    },
+    {
+      "question": "What determines growth in hours worked per person?",
+      "answer": "Labor intensity growth in each age group and changes in the age mix."
+    },
+    {
+      "question": "What drives labor intensity?",
+      "answer": "The share of the population that seeks work (the labor force participation rate), the share of those who find employment, and the number of hours each worker works."
+    },
+    {
+      "question": "What factors influence the age mix?",
+      "answer": "Fertility rates, longevity, and migration flows."
+    },
+    {
+      "question": "What was the average annual labor intensity growth in Western Europe from 1997 to 2023?",
+      "answer": "0.4 percent."
+    },
+    {
+      "question": "How did the changing age mix affect economic growth in Western Europe from 1997 to 2023?",
+      "answer": "It reduced economic growth by 0.3 percent per year."
+    },
+    {
+      "question": "What was the productivity growth rate in Western Europe from 1997 to 2023?",
+      "answer": "0.8 percent per year."
+    },
+    {
+      "question": "What was the overall GDP per capita growth rate in Western Europe from 1997 to 2023?",
+      "answer": "1 percent a year."
+    },
+    {
+      "question": "Why are labor intensity or productivity expected to grow faster in the future?",
+      "answer": "To maintain past GDP per capita growth, as the age mix will increasingly depress growth."
+    },
+    {
+      "question": "What was the GDP per capita growth target for China in 1997?",
+      "answer": "4.9 percent per year."
+    },
+    {
+      "question": "What was the GDP per capita growth target for South Korea?",
+      "answer": "2.0 percent."
+    },
+    {
+      "question": "What was the average GDP per capita growth in Western Europe in the past quarter century?",
+      "answer": "1 percent per year."
+    },
+    {
+      "question": "At what age does labor intensity start declining?",
+      "answer": "50 years."
+    },
+    {
+      "question": "What are the three main factors driving GDP per capita growth?",
+      "answer": "Age mix, Labor intensity, and Productivity."
+    },
+    {
+      "question": "What is labor intensity measured as?",
+      "answer": "Weekly hours worked per person in an age group."
+    },
+    {
+      "question": "How many hours per capita per week do Germans aged 65 years and older work on average?",
+      "answer": "Two hours."
+    },
+    {
+      "question": "At what age does labor intensity start declining?",
+      "answer": "Labor intensity starts declining when workers are in their 50s."
+    },
+    {
+      "question": "How many hours do Japanese people between 25 and 64 years work on average?",
+      "answer": "Japanese between 25 and 64 years work 30 hours on average."
+    },
+    {
+      "question": "What is Japan's average life expectancy at birth?",
+      "answer": "Japan's average life expectancy at birth is the highest in the world at 84 years."
+    },
+    {
+      "question": "What percentage of Japan's population is 65 years and older today?",
+      "answer": "Today, the age cohort 65 years and older makes up 30 percent of the Japanese population."
+    },
+    {
+      "question": "What is the labor force participation rate among Japanese aged 50 to 65 years?",
+      "answer": "The labor force participation rate among Japanese aged 50 to 65 years is 84 percent."
+    },
+    {
+      "question": "How has Japan's annual labor productivity grown since 1997?",
+      "answer": "Japan's annual labor productivity has grown 1.1 percent per year, on average, since 1997."
+    },
+    {
+      "question": "What is the labor force participation rate among people 65 years and older in Japan?",
+      "answer": "Among people 65 years and older in Japan, the labor force participation rate is 26 percent."
+    },
+    {
+      "question": "How does Japan's GDP per capita growth compare to Western Europe and the United States?",
+      "answer": "Japan's GDP per capita has grown just 0.6 percent, compared with 1 percent in Western Europe and 1.4 percent in the United States."
+    },
+    {
+      "question": "What has been Japan's average annual labor productivity growth since 1997?",
+      "answer": "1.1 percent per year."
+    },
+    {
+      "question": "How does Japan's GDP per capita growth compare to that of Western Europe and the United States?",
+      "answer": "Japan's GDP per capita has grown 0.6 percent, compared with 1 percent in Western Europe and 1.4 percent in the United States."
+    },
+    {
+      "question": "Do Japanese people work more hours on average compared to people in most other first wave economies?",
+      "answer": "Yes, Japanese people work more hours, on average, than people in most other first wave economies."
+    },
+    {
+      "question": "What is the expected change in hours worked per capita per week across first wave regions due to the shift in age mix?",
+      "answer": "The shift in the age mix could slow the growth in hours worked per capita across first wave regions by 2.2 hours per capita per week on average."
+    },
+    {
+      "question": "What has been the trend in the number of older people (65 years and older) in first wave regions from 1997 to 2023?",
+      "answer": "The cohort aged 65 years and older was the fastest-growing age group in every first wave region from 1997 to 2023."
+    },
+    {
+      "question": "By how many hours per capita per week will the shift in age mix slow the growth in hours worked across first wave regions on average?",
+      "answer": "2.2 hours per capita per week."
+    },
+    {
+      "question": "What will be the annual drag on GDP per capita growth due to the age mix shift in first wave regions other than North America from 2023 to 2050?",
+      "answer": "0.4 percent."
+    },
+    {
+      "question": "What is the cumulative reduction in hours per capita per week across first wave economies from 2023 to 2050?",
+      "answer": "2.2 hours."
+    },
+    {
+      "question": "By how much could the shift in age mix slow GDP per capita growth over the next quarter century in Western Europe and Greater China?",
+      "answer": "An average of $10,000 in Western Europe and $6,000 in Greater China."
+    },
+    {
+      "question": "What has been the average annual decrease in GDP per capita growth in Australia due to a changing age mix over the past quarter century?",
+      "answer": "0.2 percent per year."
+    },
+    {
+      "question": "By how many hours per capita per week could age mix deduct in Spain by 2050?",
+      "answer": "2.8 hours."
+    },
+    {
+      "question": "How has the demographic shift affected GDP per capita growth in Australia?",
+      "answer": "The demographic shift has decreased GDP per capita growth by an average 0.2 percent per year over the past quarter century in Australia."
+    },
+    {
+      "question": "What is the forecasted effect of age mix on GDP per capita growth in Spain to 2050?",
+      "answer": "Age mix could deduct 0.8 percent of annual GDP per capita growth to 2050 in Spain."
+    },
+    {
+      "question": "How has labor intensity among women and older people evolved from 1997 to 2023?",
+      "answer": "Labor intensity among women and older people grew consistently in almost every region from 1997 to 2023."
+    },
+    {
+      "question": "What happened to aggregate labor intensity in Western Europe from 1997 to 2023?",
+      "answer": "Aggregate labor intensity increased in Western Europe from 1997 to 2023."
+    },
+    {
+      "question": "Why did most regions have stagnant or falling aggregate labor intensity despite increased labor intensity among older people and women?",
+      "answer": "Most regions had stagnant or falling aggregate labor intensity largely because fewer people younger than 29 years worked."
+    },
+    {
+      "question": "What was the trend in aggregate labor intensity in most first wave regions over the past quarter century?",
+      "answer": "Most regions had stagnant or falling aggregate labor intensity."
+    },
+    {
+      "question": "Which region was the exception to the trend in aggregate labor intensity?",
+      "answer": "Western Europe was the only first wave region where overall labor intensity not only increased but more than completely offset the negative impact of the changing age mix."
+    },
+    {
+      "question": "How did labor intensity evolve in Spain from 1997 to 2023?",
+      "answer": "Overall, weekly hours per capita in Spain grew by an average 0.5 percent per year from 1997 to 2023."
+    },
+    {
+      "question": "What was the main driver of GDP per capita growth in first wave economies over the past quarter century?",
+      "answer": "Productivity growth was the largest contributor to growth over the past quarter century."
+    },
+    {
+      "question": "What will be required to counteract the drag from demographics on future GDP per capita growth?",
+      "answer": "Labor intensity, productivity, or the age mix will need to shift."
+    },
+    {
+      "question": "What has been the main driver of growth in GDP per capita in the past quarter century?",
+      "answer": "Productivity growth."
+    },
+    {
+      "question": "What are the three levers available to neutralize the drag on economic growth caused by shifting age mix?",
+      "answer": "Labor intensity, productivity, and age mix."
+    },
+    {
+      "question": "Why would the impact of higher fertility rates by 2050 be negligible?",
+      "answer": "Because a baby born today would be barely joining the workforce by 2050."
+    },
+    {
+      "question": "What is needed to maintain growth and raise living standards in most countries?",
+      "answer": "A combination of all three levers: labor intensity, productivity, and age mix."
+    },
+    {
+      "question": "What has been trending down for decades in Spain?",
+      "answer": "Weekly hours per Spanish worker."
+    },
+    {
+      "question": "What is the third lever that can be pulled to influence the age mix?",
+      "answer": "Increasing the number of working-age people via migration and higher fertility."
+    },
+    {
+      "question": "Why is the impact of higher fertility rates by 2050 considered negligible?",
+      "answer": "Because a baby born today would be barely joining the workforce by 2050."
+    },
+    {
+      "question": "What is needed to maintain growth and raise living standards in most countries?",
+      "answer": "Using some combination of all three levers: changing the age mix, labor intensity, or productivity."
+    },
+    {
+      "question": "What are the three factors that need to be changed to sustain GDP per capita growth?",
+      "answer": "Age mix, labor intensity, and productivity growth."
+    },
+    {
+      "question": "How is labor intensity defined?",
+      "answer": "How much each individual works, which can be measured by additional labor force participation rate or additional hours worked per week per worker."
+    },
+    {
+      "question": "What is the assumption made about productivity growth for China and South Korea?",
+      "answer": "For China, productivity growth is assumed to be 4.9%, and for South Korea, it is assumed to be 2.0%, as assuming constant productivity growth from the past would be unreasonable due to their high productivity growth in the last quarter century."
+    },
+    {
+      "question": "How is future migration required calculated?",
+      "answer": "As the number of additional migrants required to maintain past growth if productivity growth remains constant."
+    },
+    {
+      "question": "What is China's target GDP per capita growth rate per year?",
+      "answer": "4.9%."
+    },
+    {
+      "question": "Why were China's and South Korea's GDP per capita growth targets reduced?",
+      "answer": "Because replicating their past growth would be an unrealistically high goal given their much more advanced level of development today."
+    },
+    {
+      "question": "How much will Germany's GDP per capita growth be reduced due to changes in age mix?",
+      "answer": "By 0.4 percentage point."
+    },
+    {
+      "question": "How many more hours of work per capita per week are needed in Germany to maintain past GDP per capita growth?",
+      "answer": "2.2 hours."
+    },
+    {
+      "question": "Which population group in Germany needs to work the most additional hours per capita per week to achieve the required labor intensity?",
+      "answer": "Females aged 20-49, with 13.2 hours."
+    },
+    {
+      "question": "How many more hours per week would younger men need to work by 2050 to sustain GDP per capita growth?",
+      "answer": "12.7 hours."
+    },
+    {
+      "question": "What is the current labor force participation rate among younger men in Germany?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "How many hours per week do workers aged 50 to 79 currently work on average?",
+      "answer": "27.0 hours."
+    },
+    {
+      "question": "By how many percentage points would labor force participation among older people need to increase to sustain GDP per capita growth?",
+      "answer": "18 percentage points."
+    },
+    {
+      "question": "What is the current trend in hours worked per worker in Germany?",
+      "answer": "Hours worked have gone in the opposite direction, with German workers working 2.5 hours less per week on average than 25 years ago."
+    },
+    {
+      "question": "What would be the required increase in weekly hours per capita for older people by 2050?",
+      "answer": "6.1 hours."
+    },
+    {
+      "question": "What is the current participation rate of older people in Germany?",
+      "answer": "45 percent."
+    },
+    {
+      "question": "By how many percentage points does Germany need to increase the participation of older people?",
+      "answer": "18 percentage points."
+    },
+    {
+      "question": "Which countries have a somewhat easier task in maintaining GDP per capita growth?",
+      "answer": "Australia, the United Kingdom, and the United States."
+    },
+    {
+      "question": "What is the assumption made about productivity growth in the analysis?",
+      "answer": "It assumes productivity growth continues to increase at the same rate, on average, as it did over the past 25 years."
+    },
+    {
+      "question": "What is Italy's target GDP per capita growth rate?",
+      "answer": "0.4 percent annual growth."
+    },
+    {
+      "question": "How many additional hours per capita per week does Germany need to sustain GDP per capita growth by 2050?",
+      "answer": "1.8 hours."
+    },
+    {
+      "question": "What would be the required growth in hours per capita for Italy to achieve a GDP per capita growth of 1.5 percent?",
+      "answer": "7.9."
+    },
+    {
+      "question": "What is Italy's target annual growth rate?",
+      "answer": "0.4 percent."
+    },
+    {
+      "question": "What productivity growth rate is needed in most first wave countries to maintain past GDP per capita growth?",
+      "answer": "between 1 and 2 percent a year."
+    },
+    {
+      "question": "What was the average annual productivity growth rate in the US over the past decade?",
+      "answer": "0.8 percent."
+    },
+    {
+      "question": "What was the US productivity growth rate from the beginning of 2023 through the second quarter of 2024?",
+      "answer": "top 2 percent per year."
+    },
+    {
+      "question": "Why were different GDP per capita growth targets used for China and South Korea compared to other countries?",
+      "answer": "Because China and South Korea were not as developed in 1997 as other countries, so their targets were reduced based on trajectories followed by other countries at similar stages of development."
+    },
+    {
+      "question": "By how much does productivity in Germany need to increase to maintain past GDP per capita growth, assuming labor intensity grows at past rates?",
+      "answer": "by doubling the past decade's average rate of annual productivity growth of 0.7 percent."
+    },
+    {
+      "question": "What is the required productivity growth rate in Spain to maintain past GDP per capita growth if labor intensity grows at past rates?",
+      "answer": "about four times the past rate."
+    },
+    {
+      "question": "What is China's GDP per capita after adjusting for purchasing power?",
+      "answer": "$21,000."
+    },
+    {
+      "question": "Why is China's population aging faster than almost anywhere else on Earth?",
+      "answer": "Due to its low and declining fertility rate."
+    },
+    {
+      "question": "What productivity growth rate does China need to achieve a 4.9 percent growth target through 2050?",
+      "answer": "5.5 percent a year, on average."
+    },
+    {
+      "question": "What was China's annual productivity growth rate since the pandemic and through 2023?",
+      "answer": "5.2 percent."
+    },
+    {
+      "question": "Can countries rely on a single lever to offset the impact of the demographic shift?",
+      "answer": "No, relying on either labor intensity or productivity growth alone is unlikely to do the job."
+    },
+    {
+      "question": "How can countries maintain GDP per capita growth according to the text?",
+      "answer": "By using a combination of productivity growth and labor intensity (hours of work per capita)."
+    },
+    {
+      "question": "What are the two factors that can be combined to sustain past GDP per capita growth?",
+      "answer": "Productivity growth and hours per capita growth."
+    },
+    {
+      "question": "What is China's GDP per capita growth target per year?",
+      "answer": "4.9%."
+    },
+    {
+      "question": "What is South Korea's GDP per capita growth target per year?",
+      "answer": "2.0%."
+    },
+    {
+      "question": "What is the concept of an 'isoquant' in economics?",
+      "answer": "An economic concept that describes different combinations of inputs\u2014in this case, productivity growth and increased labor intensity\u2014that result in a given level of output; here, GDP per capita growth."
+    },
+    {
+      "question": "What would Spain's GDP per capita growth be if labor intensity and productivity growth stayed the same?",
+      "answer": "0.2 percent per year on average."
+    },
+    {
+      "question": "How many extra hours of work per person per week did Spain have in the past?",
+      "answer": "1.5 extra hours."
+    },
+    {
+      "question": "What productivity growth would Spain need if it maintained its past growth in hours worked?",
+      "answer": "1.4 percent a year."
+    },
+    {
+      "question": "How many hours per week per capita would Spaniards need to add to their current labor intensity levels if productivity growth remained stable at 0.6 percent a year?",
+      "answer": "4.7 hours."
+    },
+    {
+      "question": "What are the three levers to counteract the coming demographic drag mentioned in the text?",
+      "answer": "Not directly stated in the provided snippet, but the third lever mentioned is to influence the age mix itself, shifting the path already projected by the United Nations."
+    },
+    {
+      "question": "How can the age mix be changed according to the text?",
+      "answer": "By changes in fertility rates or migration patterns."
+    },
+    {
+      "question": "What is the required productivity growth rate for Spain to sustain its past GDP per capita growth if hours per capita growth remains the same as in the past?",
+      "answer": "1.4% per year."
+    },
+    {
+      "question": "What would be the GDP per capita growth rate for Spain if it had the same increase in productivity and hours per capita as in the past?",
+      "answer": "0.2% per year."
+    },
+    {
+      "question": "How many more hours per capita per week would Spain need to add if productivity growth were the same as in the past?",
+      "answer": "4.7 hours."
+    },
+    {
+      "question": "What is the historical net migration rate of the United Kingdom as a percentage of its 2023 population?",
+      "answer": "0.4 percent annually."
+    },
+    {
+      "question": "What is the estimated additional number of migrant workers needed annually by the United Kingdom to sustain its past GDP per capita growth rate, assuming all migrants work?",
+      "answer": "140,000."
+    },
+    {
+      "question": "What would be the required annual flow of migrants to the United Kingdom as a percentage of its current population to maintain GDP per capita growth at past levels, assuming 80% of new migrants participate in the workforce?",
+      "answer": "0.7 percent."
+    },
+    {
+      "question": "By what year would as much as half of the populations of advanced economies be foreign-born if they relied on migration alone to maintain support ratios at today's levels?",
+      "answer": "2050."
+    },
+    {
+      "question": "What percentage of new migrants to the United Kingdom are assumed to participate in the workforce?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "How many additional migrants per year are needed to maintain GDP per capita growth in the United Kingdom at past levels?",
+      "answer": "185,000 above historical levels."
+    },
+    {
+      "question": "What is the estimated total number of migrants needed per year to maintain GDP per capita growth in the United Kingdom, as a percentage of the current population?",
+      "answer": "0.7 percent."
+    },
+    {
+      "question": "By 2050, what proportion of the population in many advanced economies could be foreign-born if they relied on migration alone to maintain support ratios?",
+      "answer": "As much as half."
+    },
+    {
+      "question": "What is the term used to describe the difference between total consumption and labor income earned by seniors within a given year?",
+      "answer": "The senior gap."
+    },
+    {
+      "question": "How much does the average German receive in public in-kind transfers per year?",
+      "answer": "$8,000."
+    },
+    {
+      "question": "In 2023, how much more did those 65 years and older spend per capita annually compared to the overall average direct consumption in Western Europe and Advanced Asia?",
+      "answer": "16 percent more."
+    },
+    {
+      "question": "When measuring direct and in-kind consumption together, how much more did seniors 'spend' per capita a year in Western Europe and Advanced Asia?",
+      "answer": "24 percent more in Western Europe and 22 percent more in Advanced Asia."
+    },
+    {
+      "question": "How much more did seniors spend per capita annually in Western Europe and Advanced Asia compared to the overall average direct consumption?",
+      "answer": "16 percent more."
+    },
+    {
+      "question": "What was the discrepancy in total consumption (direct and in-kind) between seniors and the overall average per capita in Western Europe and Advanced Asia?",
+      "answer": "24 percent more in Western Europe and 22 percent more in Advanced Asia."
+    },
+    {
+      "question": "What was the average senior gap per person 65 years and older in the United States in 2023?",
+      "answer": "$60,000."
+    },
+    {
+      "question": "What percentage of total labor income in North America was equivalent to the total consumption of seniors not funded by their own labor income in 2023?",
+      "answer": "26 percent."
+    },
+    {
+      "question": "By what percentage is North America's senior gap expected to rise by 2050?",
+      "answer": "From 26 percent to 34 percent."
+    },
+    {
+      "question": "What will be the senior gap as a percentage of total labor income in Western Europe and Advanced Asia by 2050?",
+      "answer": "46 percent in Western Europe and 48 percent in Advanced Asia."
+    },
+    {
+      "question": "What percentage of the senior gap was covered by public pensions in the United States in 2023?",
+      "answer": "About half."
+    },
+    {
+      "question": "What is the projected senior gap as a percentage of total labor income in North America by 2050?",
+      "answer": "34 percent."
+    },
+    {
+      "question": "In which regions will the aggregate senior gap increase between 1.3 and 1.5 times across regions by 2050?",
+      "answer": "North America, Western Europe, and Advanced Asia."
+    },
+    {
+      "question": "What percentage of the senior gap was covered by government pensions in Spain and France in 2023?",
+      "answer": "Close to 80 percent."
+    },
+    {
+      "question": "How will the senior gap change in Advanced Asia between 2023 and 2050?",
+      "answer": "It will rise from 33 percent to 48 percent."
+    },
+    {
+      "question": "What is the range of the senior gap covered by government pensions in the countries analyzed in 2023?",
+      "answer": "Between 40 and 80 percent."
+    },
+    {
+      "question": "What percentage of the senior gap was covered by public pensions in the United States in 2023?",
+      "answer": "About half."
+    },
+    {
+      "question": "In which countries did public pensions fund close to 80 percent of the senior gap in 2023?",
+      "answer": "Spain and France."
+    },
+    {
+      "question": "What is the range of the share of senior gap covered by government pensions in the countries analyzed in 2023?",
+      "answer": "Between 40 and 80 percent."
+    },
+    {
+      "question": "How have public pensions in most advanced economies been funded?",
+      "answer": "By taxes on current workers through pay-as-you-go systems."
+    },
+    {
+      "question": "What has happened to time spent in retirement since 1970?",
+      "answer": "It has increased substantially, from eleven to 18 years."
+    },
+    {
+      "question": "What are some of the changes being considered or implemented in countries across the developed world regarding pension systems?",
+      "answer": "Increasing the statutory retirement age and switching to defined-contribution systems."
+    },
+    {
+      "question": "What are the three main forms of modern pension systems?",
+      "answer": "Pay-as-you-go systems, defined-contribution systems, and another form mentioned partially in the text as the text is cut off."
+    },
+    {
+      "question": "What are the three main forms of modern pension systems?",
+      "answer": "Pay-as-you-go systems, defined-contribution systems, and personal savings."
+    },
+    {
+      "question": "What type of pension system is Social Security in the US?",
+      "answer": "A pay-as-you-go system."
+    },
+    {
+      "question": "Why are public pension systems around the world under strain?",
+      "answer": "Due to slow economic growth, inadequate contribution rates, and increasing longevity."
+    },
+    {
+      "question": "What was the projected global gap between retirement savings and the amount needed to replace 70% of preretirement income by 2050?",
+      "answer": "Over $400 trillion."
+    },
+    {
+      "question": "When could the fund that supports Social Security benefits in the US be depleted?",
+      "answer": "By 2034."
+    },
+    {
+      "question": "What percentage of civilian workers in the US had access to some form of employee retirement benefits in 2023?",
+      "answer": "73%."
+    },
+    {
+      "question": "What change have many first wave countries made to their pension systems?",
+      "answer": "Many first wave countries have adjusted funding strategies or moved from a defined-benefit to a defined-contribution system."
+    },
+    {
+      "question": "What change did the Netherlands make to its private pensions?",
+      "answer": "The Netherlands passed a systemic reform of private pensions that included a switch from a defined-benefit to a defined-contribution system."
+    },
+    {
+      "question": "What is happening to retirement ages in OECD countries?",
+      "answer": "Current retirement ages are set to increase in three-fifths of OECD countries."
+    },
+    {
+      "question": "What was the change made to the retirement age in China?",
+      "answer": "China increased the retirement age for men to 63 years and for women to 58 years."
+    },
+    {
+      "question": "How does Australia's retirement system work?",
+      "answer": "Australia's retirement system relies on mandatory private savings via superannuation, requiring employers to contribute 9 percent of wages."
+    },
+    {
+      "question": "What was the recent change made by the Internal Revenue Service in the United States?",
+      "answer": "The Internal Revenue Service recently increased the percentage of pretax income workers can contribute to IRAs each year."
+    },
+    {
+      "question": "What is the age range for pension eligibility in Colombia, Luxembourg, and Slovenia?",
+      "answer": "The age requirement for pension eligibility in Colombia, Luxembourg, and Slovenia is 62 years."
+    },
+    {
+      "question": "In the countries studied, what happens to tax revenues and government spending as the population ages?",
+      "answer": "Governments collect most tax revenues from their working-age citizens and spend most of that revenue on the youngest and oldest."
+    },
+    {
+      "question": "What percentage of total tax revenues did seniors contribute in Spain in 2023?",
+      "answer": "Seniors contributed 12 percent of total tax revenues in Spain in 2023."
+    },
+    {
+      "question": "What percentage of government spending did seniors consume in Spain in 2023?",
+      "answer": "Seniors consumed more than 40 percent of government spending in Spain in 2023."
+    },
+    {
+      "question": "What happens to the social contract when there are too few workers to sustain the obligations that societies have to retirees?",
+      "answer": "The social contract is strained."
+    },
+    {
+      "question": "When do government transfers peak in relation to age?",
+      "answer": "Government transfers peak in young and old age."
+    },
+    {
+      "question": "What is the difference between taxes paid and transfers received by the average senior in the United States?",
+      "answer": "$21,000."
+    },
+    {
+      "question": "By how much will the overall per capita deficit increase in Spain in the next quarter century, all else being equal?",
+      "answer": "4.5 times, from $1,700 to $7,900."
+    },
+    {
+      "question": "What percentage of GDP is the US Congressional Budget Office's projected annual deficit for 2050?",
+      "answer": "8.1 percent."
+    },
+    {
+      "question": "In which countries does public debt exceed 100 percent of annual GDP?",
+      "answer": "France, Italy, Japan, Spain, the United Kingdom, and the United States."
+    },
+    {
+      "question": "What is the US Congressional Budget Office's projection for the total deficits as a percentage of GDP in 2050?",
+      "answer": "8.1 percent."
+    },
+    {
+      "question": "Which countries have public debts exceeding 100 percent of annual GDP?",
+      "answer": "France, Italy, Japan, Spain, the United Kingdom, and the United States."
+    },
+    {
+      "question": "What was the average annual increase in healthcare expenditure in the United Kingdom from 1997 to 2021?",
+      "answer": "3.2 percent."
+    },
+    {
+      "question": "How did the spending on Social Security in the United States change from 1997 to 2021?",
+      "answer": "It increased annually by 2.4 percent on average."
+    },
+    {
+      "question": "What percentage of the country's wealth is held by the top 1 percent of households in the US?",
+      "answer": "26 percent."
+    },
+    {
+      "question": "What percentage of the total wealth in the US was held by households where the primary householder is 65 years and older in 2023?",
+      "answer": "43 percent."
+    },
+    {
+      "question": "By what factor did the wealth held by older households (65 years and older) in the US grow from 1997 to 2023?",
+      "answer": "6.6."
+    },
+    {
+      "question": "What percentage of the US population is 65 years and older?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What percentage of the country's total wealth is held by households where the primary householder is 65 years and older?",
+      "answer": "43 percent."
+    },
+    {
+      "question": "By what factor did the wealth held by older households (65 years and older) grow from 1997 to 2023?",
+      "answer": "6.6."
+    },
+    {
+      "question": "What percentage of Americans 65 years and older are homeowners?",
+      "answer": "Almost 80 percent."
+    },
+    {
+      "question": "What percentage of older homeowners (65 years and older) are mortgage-free?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What percentage of total consumption is accounted for by individual consumption of housing and utilities among those 65 years and older?",
+      "answer": "About 40 percent."
+    },
+    {
+      "question": "What was the average annual return from US stock markets after adjusting for inflation from 2013 to 2023?",
+      "answer": "10.8 percent."
+    },
+    {
+      "question": "What percentage of US workers have 401(k) retirement assets?",
+      "answer": "56 percent."
+    },
+    {
+      "question": "What was the average annual return from US stock markets from 2013 to 2023 after adjusting for inflation?",
+      "answer": "10.8 percent."
+    },
+    {
+      "question": "How many times more expensive was the average US single-family home in 2023 compared to 1980?",
+      "answer": "6.6 times."
+    },
+    {
+      "question": "What was the ratio of median home price to median annual household income in 2023?",
+      "answer": "7.1 times."
+    },
+    {
+      "question": "What percentage of US workers have 401(k) retirement assets that benefit from stock market returns?",
+      "answer": "56 percent."
+    },
+    {
+      "question": "What will be the share of the population 65 years and older in first wave countries by 2050?",
+      "answer": "29 percent."
+    },
+    {
+      "question": "Why did Japan experience low real price appreciation in housing prices in recent years?",
+      "answer": "In part due to low population growth, especially in rural areas where housing prices fell faster as populations declined."
+    },
+    {
+      "question": "By 2050, what percentage of total hours worked in first wave economies is expected to be contributed by people 65 years and older?",
+      "answer": "6 percent."
+    },
+    {
+      "question": "What percentage of hours worked are expected to be accounted for by people 50 years and older by 2050 in first wave economies?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "In China, what percentage of hours worked is expected to be accounted for by workers aged 50 and older by 2050?",
+      "answer": "39 percent."
+    },
+    {
+      "question": "What percentage of direct consumption is expected to be accounted for by residents 65 years and older in first wave economies by 2050?",
+      "answer": "31 percent."
+    },
+    {
+      "question": "In Advanced Asia, what is the expected share of direct consumption by older people by 2050?",
+      "answer": "39 percent."
+    },
+    {
+      "question": "What is the projected share of direct consumption by older people in Advanced Asia by 2050?",
+      "answer": "39 percent."
+    },
+    {
+      "question": "In Advanced Asia, how much of every $10 of direct spending is expected to come from seniors by 2050?",
+      "answer": "$4."
+    },
+    {
+      "question": "What is the expected change in the share of consumption by those 65 years and older in first wave regions between 2023 and 2050?",
+      "answer": "The share is expected to rise from 21 to 31 percent."
+    },
+    {
+      "question": "How will the share of consumption among those younger than 30 years change in first wave regions between 2023 and 2050?",
+      "answer": "The share is expected to decrease from 26 percent to 22 percent."
+    },
+    {
+      "question": "What category of goods and services is global consumption set to shift toward due to the aging population?",
+      "answer": "Categories of goods and services consumed in greater quantities by those 65 years and older, such as healthcare."
+    },
+    {
+      "question": "How does healthcare consumption vary over a life cycle in the United States?",
+      "answer": "Healthcare consumption varies from $3,400 a year on average for those younger than 15 years to $11,600 a year for those older than 65."
+    },
+    {
+      "question": "What is the average annual expenditure on education for children younger than 15 years and individuals over 65 years in the United States?",
+      "answer": "$7,000 for children younger than 15 years and $600 for individuals over 65 years."
+    },
+    {
+      "question": "How much does the United States spend on average annually on education for each child younger than 15 years?",
+      "answer": "$7,000."
+    },
+    {
+      "question": "What is the average annual healthcare consumption for individuals older than 65 in the United States?",
+      "answer": "$11,600."
+    },
+    {
+      "question": "In China, how does healthcare consumption change over a life cycle?",
+      "answer": "It more than triples, from $800 to $2,600."
+    },
+    {
+      "question": "Do all countries analyzed have similar patterns of consumption by category over a lifecycle?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Which consumption category will be most increased by demographic shifts in three of the four countries analyzed?",
+      "answer": "Healthcare."
+    },
+    {
+      "question": "By how much could per capita healthcare consumption increase in the United States by 2050 solely due to the shift in age mix?",
+      "answer": "8 percent."
+    },
+    {
+      "question": "What is the expected change in average yearly education consumption per capita in China by 2050 due to age mix shifts?",
+      "answer": "As much as 33 percent lower, or $465 billion less in aggregate."
+    },
+    {
+      "question": "In which category could spending shrink most due to demographic shifts in all four countries?",
+      "answer": "Education."
+    },
+    {
+      "question": "By how much could average yearly education consumption per capita be lower by 2050 due to age mix shifts?",
+      "answer": "4 to 33 percent lower."
+    },
+    {
+      "question": "How much less could China spend on education in aggregate by 2050 solely due to age mix?",
+      "answer": "$465 billion less."
+    },
+    {
+      "question": "What is expected to happen to Japan's population by 2050?",
+      "answer": "Japan's population is expected to shrink by 15 percent."
+    },
+    {
+      "question": "What is projected to happen to the United States' population by 2050?",
+      "answer": "The United States' population is projected to grow by 11 percent."
+    },
+    {
+      "question": "How much could US healthcare expenditures grow by 2050?",
+      "answer": "As much as $1.2 trillion."
+    },
+    {
+      "question": "What percentage of the increase in aggregate consumption has stemmed from rising per capita incomes over the past few decades?",
+      "answer": "More than 80 percent."
+    },
+    {
+      "question": "When is the working-age share of the population in Sub-Saharan Africa expected to decline?",
+      "answer": "Sometime after 2080."
+    },
+    {
+      "question": "When is the working-age share of the population in Latin America expected to decline?",
+      "answer": "In the 2030s."
+    },
+    {
+      "question": "What is the main demographic challenge faced by later wave regions?",
+      "answer": "The need to 'get rich' before their populations 'get old'."
+    },
+    {
+      "question": "Which regions are considered later wave economies?",
+      "answer": "Emerging Asia, India, Latin America and the Caribbean, the Middle East and North Africa, and Sub-Saharan Africa."
+    },
+    {
+      "question": "When is the working-age share of the population expected to decline in Sub-Saharan Africa and Latin America?",
+      "answer": "In Sub-Saharan Africa, the working-age share of the population won't decline until sometime after 2080, while in Latin America, it will do so in the 2030s."
+    },
+    {
+      "question": "What is the current fertility rate in India and T\u00fcrkiye?",
+      "answer": "India's fertility rate is 1.98 and T\u00fcrkiye's is 1.63."
+    },
+    {
+      "question": "In how many countries in later wave regions are fertility rates already below replacement?",
+      "answer": "One-third of the 138 countries in later wave regions."
+    },
+    {
+      "question": "What will happen to fertility rates in 32 more countries in later wave regions by 2050?",
+      "answer": "Fertility rates will drop below the replacement rate."
+    },
+    {
+      "question": "Which region will have an average fertility rate exceeding the replacement rate of 2.1 by 2050?",
+      "answer": "Sub-Saharan Africa, with an average fertility rate of 2.9."
+    },
+    {
+      "question": "What is the World Bank high-income threshold for GDP per capita?",
+      "answer": "$14,000."
+    },
+    {
+      "question": "How many years does Brazil have before it reaches the average support ratio of first wave economies?",
+      "answer": "16 years."
+    },
+    {
+      "question": "What percentage of the high-income threshold is Bangladesh's current GDP per capita?",
+      "answer": "18 percent."
+    },
+    {
+      "question": "What is the estimated GDP per capita in Ethiopia?",
+      "answer": "Roughly $1,200, or 9 percent of the high-income threshold."
+    },
+    {
+      "question": "What percentage of later wave countries are expected not to reach the high-income threshold before their support ratios fall to the current level in first wave regions?",
+      "answer": "More than two-thirds."
+    },
+    {
+      "question": "If all countries in later wave regions underperformed projections by 1 percent a year, what percentage would fail to achieve the high-income threshold?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "What is the average support ratio of first wave economies that later wave countries are expected to reach?",
+      "answer": "3.9."
+    },
+    {
+      "question": "What will happen to the demographic dividend in most regions by 2050?",
+      "answer": "The demographic dividend will diminish or disappear entirely by 2050."
+    },
+    {
+      "question": "In which region will the demographic dividend increase over the next 25 years?",
+      "answer": "Sub-Saharan Africa."
+    },
+    {
+      "question": "How much did the demographic dividend contribute to India's GDP per capita growth over the past quarter century?",
+      "answer": "0.7 percentage point each year on average."
+    },
+    {
+      "question": "What will be the contribution of the demographic dividend to India's GDP per capita growth to 2050?",
+      "answer": "0.2 percent annually on average."
+    },
+    {
+      "question": "By how much will real GDP per capita in Mexico be less in 2050 due to the changing age mix?",
+      "answer": "$2,600."
+    },
+    {
+      "question": "How many people will Sub-Saharan Africa increase its working-age population by between 2023 and 2050?",
+      "answer": "650 million."
+    },
+    {
+      "question": "What percentage of people in Sub-Saharan Africa were informally employed in 2018?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What will be the average annual increase in GDP per capita in Sub-Saharan Africa by 2050?",
+      "answer": "0.7 percent."
+    },
+    {
+      "question": "How many million will the working-age population in Sub-Saharan Africa increase by between 2023 and 2050?",
+      "answer": "650 million."
+    },
+    {
+      "question": "What percentage of people in Sub-Saharan Africa were informally employed in 2018?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What is the median productivity per hour in later wave regions compared to high-income countries?",
+      "answer": "$13 per hour compared to $60 an hour."
+    },
+    {
+      "question": "What is the productivity gap in the lowest decile of later wave regions?",
+      "answer": "$3 per hour."
+    },
+    {
+      "question": "What is required for countries in later wave regions to experience catch-up growth?",
+      "answer": "Creating conditions to raise investment and spurring innovation that generates higher initial returns on new capital."
+    },
+    {
+      "question": "What is the productivity gap between the median of later wave regions and high-income countries?",
+      "answer": "$13 per hour compared with $60 an hour."
+    },
+    {
+      "question": "What is the potential consequence of not increasing productivity in later wave regions?",
+      "answer": "Total average global productivity would drop by 12 percent to 2050, or 0.5 percent a year on average."
+    },
+    {
+      "question": "How much can global productivity growth be reduced by shifts in hours worked towards lower productivity regions?",
+      "answer": "0.5 percent per year."
+    },
+    {
+      "question": "What is the productivity per hour worked in North America and Western Europe?",
+      "answer": "$80 in North America and $73 in Western Europe."
+    },
+    {
+      "question": "What is the productivity per hour worked in India and Sub-Saharan Africa?",
+      "answer": "$9 in India and $6 in Sub-Saharan Africa."
+    },
+    {
+      "question": "What is the potential impact on global productivity growth if total employment grows relatively more in less productive regions?",
+      "answer": "Potentially reducing global productivity growth by 0.5 percent per year."
+    },
+    {
+      "question": "Which regions have the lowest annual productivity growth over the past quarter century?",
+      "answer": "Sub-Saharan Africa and Latin America and the Caribbean, with 1.1 percent and 0.9 percent respectively."
+    },
+    {
+      "question": "What is the average productivity growth rate of 'middle-lane' economies compared to advanced economies?",
+      "answer": "Slightly faster than in advanced economies, at about 2 percent on average."
+    },
+    {
+      "question": "How many people live in 'slow-lane' economies that are at risk of never matching advanced-economy productivity levels?",
+      "answer": "1.4 billion people."
+    },
+    {
+      "question": "What would be the result if Indonesia were to improve its productivity by $5 per hour worked?",
+      "answer": "A 34 percent increase in GDP per capita."
+    },
+    {
+      "question": "What was the average annual productivity growth rate in the Dominican Republic and Rwanda?",
+      "answer": "2.3 percent and 3.8 percent, respectively."
+    },
+    {
+      "question": "How did changes in participation rates in later wave regions affect GDP per capita over the past quarter century?",
+      "answer": "Changes in participation rates offset some of the gains from the demographic dividend."
+    },
+    {
+      "question": "What was the impact of a changing age mix on GDP per capita in India from 1997 to 2023?",
+      "answer": "It helped increase GDP per capita by 0.7 percent on average."
+    },
+    {
+      "question": "What was the female labor force participation rate in the median economy in later wave regions?",
+      "answer": "61 percent."
+    },
+    {
+      "question": "By how much would India's GDP per capita increase if it increased its female labor force by ten percentage points?",
+      "answer": "4 to 5 percent."
+    },
+    {
+      "question": "What would be the effect on Brazil's GDP per capita if it increased its employment-to-population ratio by four percentage points?",
+      "answer": "GDP per capita could increase by 8.7 percent."
+    },
+    {
+      "question": "What is the first objective for later wave countries to successfully navigate their own aging?",
+      "answer": "To leverage the advantages of a youthful population to compete in the global economy."
+    },
+    {
+      "question": "How can later wave countries develop their relatively young populations into highly skilled workforces?",
+      "answer": "By investing in developing human capital, improving nutrition, and providing high-quality and accessible education."
+    },
+    {
+      "question": "Why is developing robust public infrastructure crucial for later wave countries?",
+      "answer": "Developing robust public infrastructure, including on the digital front, is crucial for later wave countries as the center of gravity of global consumers and talent tilts toward these regions."
+    },
+    {
+      "question": "What is required to nurture large, competitive companies in developing economies?",
+      "answer": "Nurturing such businesses requires creating an environment conducive to their growth and innovation, including robust institutions, necessary physical infrastructure, intellectual property protections, and the ability of companies to leverage outside investment and partnerships."
+    },
+    {
+      "question": "What should later wave countries anticipate as they develop in terms of old-age support systems?",
+      "answer": "Old-age support systems in later wave countries are often informal and family-based, but as countries develop, they should anticipate pressure for stronger and better-integrated social support systems for seniors."
+    },
+    {
+      "question": "How can later wave countries ensure fiscal sustainability in their retirement systems?",
+      "answer": "It will be vital to create retirement systems that emphasize fiscal sustainability and acknowledge the realities of declining fertility and increasing longevity as well as their implications for supporting aging populations."
+    },
+    {
+      "question": "What can younger countries do to sidestep burgeoning healthcare costs?",
+      "answer": "Younger countries can invest in the health and well-being of their young to middle-aged populations to keep them thriving well into older age, including investing in access to preventive healthcare and public education to increase 'healthspans'."
+    },
+    {
+      "question": "What is necessary for later wave regions to 'get rich before getting old'?",
+      "answer": "To get rich before getting old, later wave regions will need to pull on all growth levers, with companies and policy makers playing important roles in providing infrastructure and public services."
+    },
+    {
+      "question": "What will happen to workforces, productivity, global trade, family structures, and the social contract as a result of demographic shifts?",
+      "answer": "They will all change."
+    },
+    {
+      "question": "What is the potential impact of depopulation on various sectors of the economy?",
+      "answer": "Depopulation could affect many sectors of the economy in unanticipated ways."
+    },
+    {
+      "question": "What could be the consequence of declining asset prices and shrinking pools of workers?",
+      "answer": "It could challenge debt sustainability and the social contract, sparking struggles that reverberate throughout society."
+    },
+    {
+      "question": "How will shifting global demographics influence global trade flows?",
+      "answer": "Shifting global demographics will influence the reconfiguration of global trade flows."
+    },
+    {
+      "question": "What can businesses consider as an additional factor to shape their global footprint?",
+      "answer": "Talent supply."
+    },
+    {
+      "question": "What are societies increasingly engaging in as the reality of demographic shifts sets in?",
+      "answer": "Social discourse about fertility rates and aging, and debating issues related to population size, growth, and composition."
+    },
+    {
+      "question": "What issues are increasingly becoming the focus of local and national debates due to the demographic shift?",
+      "answer": "Issues to do with population size, growth, and composition."
+    },
+    {
+      "question": "What have policy makers attempted to do to address societal aging?",
+      "answer": "They have implemented family-friendly policies and economic incentives to remove barriers to raising the fertility rate."
+    },
+    {
+      "question": "Have policies to raise fertility rates been successful?",
+      "answer": "No country where the fertility rate has ever fallen below 1.9 has a rate above replacement today, indicating limited success."
+    },
+    {
+      "question": "What are some potential solutions for businesses and policy makers to address the demographic shift in the shorter term?",
+      "answer": "Improved child- and eldercare programs and tailored migration programs can help increase labor force participation and attract workers with in-demand skills."
+    },
+    {
+      "question": "How can businesses and policy makers address the emerging reality of an older population?",
+      "answer": "By doubling down on productivity growth through investment, such as in automation and AI technologies, and strategic reskilling practices."
+    },
+    {
+      "question": "In which sectors is the need for productivity growth strongest?",
+      "answer": "Places, sectors, and skill categories where labor supply is tightening the most, such as healthcare, construction, leisure and hospitality, and professional services."
+    },
+    {
+      "question": "Which occupations will be most affected by the demographic shift according to MGI research?",
+      "answer": "Occupations with historically low productivity and low productivity growth, such as healthcare, construction, leisure and hospitality, and professional services."
+    },
+    {
+      "question": "How can companies manage an older workforce to sustain productivity?",
+      "answer": "By offering more flexible work hours, coaching, and mentorship to older workers, and creating opportunities specifically for seniors."
+    },
+    {
+      "question": "What percentage of respondents aged 65 and older surveyed by the McKinsey Health Institute want to work but are not currently doing so?",
+      "answer": "19 to 25 percent."
+    },
+    {
+      "question": "How is CVS supporting its mature workers?",
+      "answer": "By offering working arrangements like telecommuting, flexible time, job sharing, and compressed work weeks, as well as continuing career education."
+    },
+    {
+      "question": "What strategy did ANZ launch to create a more age-inclusive workplace?",
+      "answer": "An age diversity strategy that includes multiple career extension options, eliminating qualifications-based career advancement, and age-inclusive recruitment ads."
+    },
+    {
+      "question": "What strategy did ANZ bank launch to create a workplace culture where age is no barrier?",
+      "answer": "ANZ launched an age diversity strategy that includes multiple career extension options, eliminating qualifications-based career advancement, and age-inclusive recruitment ads."
+    },
+    {
+      "question": "How will the purchasing power of senior consumers affect businesses?",
+      "answer": "As the purchasing power of senior consumers grows, businesses will face shifts in market sizes, changes in demand at the category level, and within-category shifts, requiring them to gain granular consumer insights to effectively reach varied segments of seniors."
+    },
+    {
+      "question": "What are some examples of companies adapting to the needs of senior consumers?",
+      "answer": "Examples include Nestl\u00e9 Health Science offering supplements and nutritional products for seniors, Vayyar developing sensor technology to detect falls and reduced mobility, Silverts offering adaptive clothing and shoes, and Jumbo Supermarket creating 'chat checkout' lanes to combat loneliness among seniors."
+    },
+    {
+      "question": "How have policy makers encouraged older people to work longer?",
+      "answer": "Policy makers have reformed pension systems, promoted age-friendly workplaces, and encouraged flexible work arrangements to increase workforce participation among older adults."
+    },
+    {
+      "question": "What initiatives have been implemented to expand workforce participation among women?",
+      "answer": "Japan's 'Womenomics' policies, including daycare support and tax incentives, have been implemented to boost female labor force participation."
+    },
+    {
+      "question": "What programs have been established to support lifelong learning and retraining for older workers?",
+      "answer": "Examples include Singapore's SkillsFuture program, which retrains workers 65 years and older, and voluntary welfare organizations that help seniors make career transitions and financial plans for retirement."
+    },
+    {
+      "question": "What policies has Japan implemented to boost female labor force participation?",
+      "answer": "\u201cWomenomics\u201d policies, which include daycare support and tax incentives."
+    },
+    {
+      "question": "By how much did female labor force participation in Japan increase from 2010 to 2023?",
+      "answer": "12 percentage points."
+    },
+    {
+      "question": "What is an example of a program that retrains workers, including those 65 years and older?",
+      "answer": "Singapore\u2019s SkillsFuture program."
+    },
+    {
+      "question": "How can policy makers help citizens save for retirement from a younger age?",
+      "answer": "Via tax-advantaged retirement investment accounts."
+    },
+    {
+      "question": "What urban design strategy can policy makers use to address the demographic profile of the future?",
+      "answer": "Optimizing zoning to account for future needs, such as zoning for smaller housing units."
+    },
+    {
+      "question": "Who led the research for the report?",
+      "answer": "Anu Madgavkar, Marc Canal Noguer, Chris Bradley, Olivia White, Sven Smit, and TJ Radigan."
+    },
+    {
+      "question": "Who were some of the academic advisers that shared insights for the report?",
+      "answer": "Martin Baily, Hans-Helmut Kotz, Rakesh Mohan, Sir Christopher A. Pissarides, and Alan Taylor."
+    },
+    {
+      "question": "Who is the Regius Professor of Economics at the London School of Economics?",
+      "answer": "Pissarides, a Nobel laureate in economics."
+    },
+    {
+      "question": "What is demographic dividend?",
+      "answer": "The benefit a country accrues when the growth rate of its working population outstrips that of minors and seniors, setting the stage for population-driven economic growth and prosperity."
+    },
+    {
+      "question": "What is depopulation?",
+      "answer": "The sustained net decrease in population size in a defined territory over time."
+    },
+    {
+      "question": "What is labor intensity?",
+      "answer": "The amount of work done per person at each age, measured as weekly hours worked per person in an age group (increments of five years) across both workers and nonworkers in the population."
+    },
+    {
+      "question": "What is demographic drag?",
+      "answer": "The opposite of demographic dividend. If fertility rates remain low over the long run, population dynamics negatively affect economic growth, as older cohorts that are not in the labor force grow faster than cohorts of working individuals."
+    },
+    {
+      "question": "Was the MGI research commissioned or sponsored by any institution?",
+      "answer": "No, the MGI research is independent and has not been commissioned or sponsored in any way by any business, government, or other institution."
+    },
+    {
+      "question": "What is the definition of depopulation?",
+      "answer": "The sustained net decrease in population size in a defined territory over time."
+    },
+    {
+      "question": "What is the demographic dividend?",
+      "answer": "The benefit a country accrues when the growth rate of its working population outstrips that of minors and seniors, setting the stage for population-driven economic growth and prosperity."
+    },
+    {
+      "question": "What is the replacement rate?",
+      "answer": "The level of fertility, or live births per woman, at which each generation exactly replaces itself without migration but including mortality up to reproductive ages, typically about 2.1 births per woman when mortality is very low."
+    },
+    {
+      "question": "How is labor productivity defined?",
+      "answer": "Labor productivity is defined as GDP per hour worked."
+    },
+    {
+      "question": "What is the support ratio?",
+      "answer": "A ratio that compares the number of individuals aged 15 to 64 years, or working age, to the population aged 65 and over, providing a rough indicator of the number of working-age people who could support seniors economically and socially."
+    },
+    {
+      "question": "What is the total fertility rate?",
+      "answer": "The average number of live births that a hypothetical cohort of women would have at the end of their reproductive period, assuming that during their whole lives, they had the single-year fertility rates of a given period."
+    },
+    {
+      "question": "What is the age mix?",
+      "answer": "The age composition of a population, representing the proportion of people in different age groups at a specific time."
+    },
+    {
+      "question": "What is the senior gap?",
+      "answer": "The gap between the total consumption and the labor income earned within a given year by seniors aged 65 and over."
+    },
+    {
+      "question": "How is the total fertility rate defined in demographic terms?",
+      "answer": "The total number of children each woman in a population would be expected to have over her lifetime if the fertility rates at each age remained constant over time."
+    },
+    {
+      "question": "What is the replacement-level fertility rate as defined by the United Nations?",
+      "answer": "2.1 children per woman over her lifetime."
+    },
+    {
+      "question": "According to Jes\u00fas Fern\u00e1ndez-Villaverde, what is the current state of the world's fertility rate?",
+      "answer": "The world is already below the replacement rate."
+    },
+    {
+      "question": "How does the International Monetary Fund classify economies?",
+      "answer": "As 'advanced' or 'emerging market and developing' based on factors such as high per capita income, exports of diversified goods and services, and level of integration in the global financial system."
+    },
+    {
+      "question": "How many economies are classified as 'advanced' by the International Monetary Fund?",
+      "answer": "39"
+    },
+    {
+      "question": "What is the 'working-age population' defined as?",
+      "answer": "The share of 15- to 64-year-olds in the total population."
+    },
+    {
+      "question": "What is 'Advanced Asia' composed of?",
+      "answer": "Australia, Japan, New Zealand, Singapore, and South Korea."
+    },
+    {
+      "question": "How is 'weekly hours per capita' calculated?",
+      "answer": "The total annual working hours per person for an entire population divided by 52 weeks."
+    },
+    {
+      "question": "What is the projected increase in Sub-Saharan Africa's population from now to 2100?",
+      "answer": "2.23 billion"
+    },
+    {
+      "question": "Which regions are expected to have declining populations after 2050?",
+      "answer": "China, Germany, Italy, and South Korea are expected to have fewer people in 2050 than today, while Ireland, Sweden, Switzerland, and the United Kingdom will have more people by 2050 but decline thereafter."
+    },
+    {
+      "question": "What is the source of the population projections used in the analysis?",
+      "answer": "World Population Prospects 2024, United Nations, July 2024"
+    },
+    {
+      "question": "How much has South Korea spent on programs to raise fertility rates in the past 16 years?",
+      "answer": "More than $200 billion"
+    },
+    {
+      "question": "What is the world's replacement rate according to the text?",
+      "answer": "Slightly higher than 2.1"
+    },
+    {
+      "question": "How much has South Korea spent on programs to raise fertility rates over the past 16 years?",
+      "answer": "More than $200 billion."
+    },
+    {
+      "question": "What is South Korea's fertility rate status according to Ashley Ahn's article on NPR?",
+      "answer": "South Korea has the world's lowest fertility rate."
+    },
+    {
+      "question": "What is the potential short-term effect of higher fertility rates on GDP per capita growth?",
+      "answer": "Higher fertility rates may reduce GDP per capita growth in the short to medium term because the denominator (number of people) increases without necessarily increasing the numerator (GDP)."
+    },
+    {
+      "question": "What is the source of the data used to calculate general government gross debt?",
+      "answer": "International Monetary Fund (IMF)."
+    },
+    {
+      "question": "What percentage of US adults aged 55 and older moved over a ten-year period from 1985 to 1995 according to Burkhauser, Butrica, and Wasylenko?",
+      "answer": "39 percent."
+    },
+    {
+      "question": "Who conceived the concept of the 'old-age gap'?",
+      "answer": "Andrew Mason and Ronald Lee."
+    },
+    {
+      "question": "What happens to consumption when adjusted for household size?",
+      "answer": "Consumption grows with age."
+    },
+    {
+      "question": "At what age does average individual consumption peak when household size is taken into account?",
+      "answer": "Past age 65."
+    },
+    {
+      "question": "What is assumed about the senior gap when calculating the future aggregate gap?",
+      "answer": "The senior gap stays fixed for each individual."
+    },
+    {
+      "question": "What accounted for about three-quarters of the growth in net worth between 2000 and 2020?",
+      "answer": "Higher asset prices."
+    },
+    {
+      "question": "How is a householder defined by the US Census Bureau?",
+      "answer": "The person (or one of the people) in whose name the housing unit is owned or rented (maintained) or, if there is no such person, any adult member, excluding roomers, boarders, or paid employees."
+    },
+    {
+      "question": "What complicates direct comparisons between countries when estimating the senior gap?",
+      "answer": "Significant differences between countries, such as the prevalence of private employer pensions."
+    },
+    {
+      "question": "Where is total tax revenue and category-level government expenditure data taken from?",
+      "answer": "OECD, UK Office for Budget Responsibility, CaixaBank Research, Tax Foundation, Centers for Medicare and Medicaid Services, Spanish Ministry of Health, and National Transfer Accounts."
+    },
+    {
+      "question": "What sources are used to divide data among age categories in Spain?",
+      "answer": "Sources including the Ministry of Health and NTA."
+    },
+    {
+      "question": "What is the homeownership rate among older individuals compared to the average adult in the US?",
+      "answer": "Older individuals have a homeownership rate of 82 percent compared with 64 percent for average adults."
+    },
+    {
+      "question": "What factor, along with higher homeownership rates, explains why older individuals have more wealth?",
+      "answer": "Most seniors have owned their homes for longer, enabling them to pay off bigger portions of their mortgages and benefit from increasing real estate prices for longer."
+    },
+    {
+      "question": "What percentage of aggregate consumption growth was explained by increasing incomes between 1997 and 2023?",
+      "answer": "Almost 80 percent."
+    },
+    {
+      "question": "Why might the forecast of labor force participation rate among the elderly be conservative?",
+      "answer": "Some evidence suggests that the labor force participation rate among the elderly increases as a country ages, as has been seen in Japan."
+    },
+    {
+      "question": "What percentage of aggregate consumption growth was explained by increasing incomes between 1997 and 2023?",
+      "answer": "Almost 80 percent."
+    },
+    {
+      "question": "What is likely to explain almost all of consumption growth over the next quarter century as population growth stagnates?",
+      "answer": "Higher incomes."
+    },
+    {
+      "question": "What is the World Bank lower threshold for a high-income country in 2023?",
+      "answer": "$14,000, not adjusted for purchasing power."
+    },
+    {
+      "question": "What is the upper threshold for a low-income country according to the World Bank?",
+      "answer": "$1,145."
+    },
+    {
+      "question": "How are category consumption estimates based?",
+      "answer": "On responses to household-level surveys."
+    },
+    {
+      "question": "What model is used to allocate expenditure among age groups?",
+      "answer": "A marginal effects model."
+    },
+    {
+      "question": "What is the World Bank's lower threshold for a high-income country in 2023?",
+      "answer": "$14,000, not adjusted for purchasing power."
+    },
+    {
+      "question": "What is the upper threshold for a low-income country according to the World Bank?",
+      "answer": "$1,145."
+    },
+    {
+      "question": "What projections are used for the analysis after 2030?",
+      "answer": "World Data Lab projections from 2030 to 2050."
+    },
+    {
+      "question": "What is used for the growth rate after November 26, 2024?",
+      "answer": "A constant growth rate."
+    },
+    {
+      "question": "Why can't the estimates be compared directly to the Centers for Medicare & Medicaid Services of National Health Expenditure?",
+      "answer": "Because the Centers for Medicare & Medicaid Services estimates are higher."
+    },
+    {
+      "question": "What assumption is made about age cohorts' spending in the projections for 2050?",
+      "answer": "That each age cohort will continue to spend the same amount on each category."
+    }
+  ]
+}

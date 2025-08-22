@@ -1,0 +1,3260 @@
+Aluminum decarbonization 
+at a cost that makes sense
+
+To reach an emissions pathway consistent with 1.5°C of global 
+warming, the aluminum industry needs to reinvent itself and 
+its production processes.
+
+Sponsored by
+
+Analytical 
+support from 
+McKinsey & 
+Company
+
+PAGE 1
+
+Aluminum Decarbonization at a Cost That Makes SenseAcknowledgements
+
+This report was produced by the Mission Possible Partnership. 
+McKinsey & Company provided fact-based analysis for 
+the report. This work is independent, reflects the views of 
+the authors, and has not been influenced by any business, 
+government, or other institution. McKinsey & Company does 
+not provide investment or policy advice.
+
+Alasdair Graham is the head of industry decarbonization for the 
+Energy Transitions Commission in London, where Marten Ford is 
+sector lead for aluminum and Jason Martins is a senior analyst. 
+
+The authors wish to thank McKinsey for providing analytical 
+support, including Pedro Assunção, Patricia Bingoto, Maimouna 
+Diakhaby, Jeffrey Lorch, Kayla Olson, Reinaldo Penso, Matthias 
+Stürtz, and Alex Ulanov.
+
+All analysis developed in 2022. User can edit inputs to reflect 
+current market conditions.
+
+PAGE 2
+
+Aluminum Decarbonization at a Cost That Makes SensePREPARED BY
+
+Mission Possible Partnership (MPP) 
+Led by the ETC, RMI, the We Mean Business Coalition, and the 
+World Economic Forum, the Mission Possible Partnership (MPP) 
+is an alliance of climate leaders focused on supercharging 
+the decarbonization of seven global industries representing 
+30 percent of emissions: aluminum, aviation, cement and 
+concrete, chemicals, shipping, steel, and trucking. Without 
+immediate action, these sectors alone are projected to exceed 
+the world’s remaining 1.5°C carbon budget by 2030 in a 
+business-as-usual scenario. MPP brings together the world’s 
+most influential leaders across finance, policy, industry, and 
+business. MPP is focused on activating the entire ecosystem 
+of stakeholders across the entire value chain required to 
+move global industries to net-zero emissions. Learn more at 
+missionpossiblepartnership.com.
+
+Energy Transitions Commission (ETC) 
+ETC is a global coalition of leaders from across the energy 
+landscape committed to achieving net-zero emissions by 
+middle of the century, in line with the Paris climate objective 
+of limiting global warming to well below 2°C and ideally to 
+1.5°C. Our commissioners come from a range of organizations—
+energy producers, energy-intensive industries, technology 
+providers, finance players, and environmental nongovernmental 
+organizations—that operate across developed and developing 
+countries and play different roles in the energy transition. 
+This diversity of viewpoints informs our work: our analyses 
+are developed with a systems perspective through extensive 
+exchanges with experts and practitioners. Learn more at 
+energy-transitions.org.
+
+PAGE 3
+
+Aluminum Decarbonization at a Cost That Makes SenseCONTENTS
+
+1. Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+2. Levers to accelerate decarbonization  . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+2.1 
+
+Investment risks   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.1.1 
+
+Financial levers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+5
+
+7
+
+8
+
+10
+
+2.1.2 
+
+Policy levers .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+
+2.1.3  Demand levers   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+
+2.2 
+
+Combining levers: Five scenarios  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+2.2.1 
+
+Scenario 1: Retrofit of smelter in captive plant in the Middle East . . . . . . . . . . . . . . . . . . . . . 
+
+12
+
+13
+
+2.2.2  Scenario 2: Retrofit inert anode on smelter in Europe  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  14
+
+2.2.3  Scenario 3: Retrofit inert anode on smelter in China  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  16
+
+2.2.4  Scenario 4: Retrofit refinery in Oceania with MVR   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  18
+
+2.2.5  Scenario 5. Retrofit South America refinery with electric boiler for  
+
+digestion steam and H2-fired calciner  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+19
+
+3. Roles for stakeholders   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+
+3.1 
+
+3.2 
+
+3.3 
+
+End users .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+
+Governments   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+21
+
+Financial institutions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  21
+
+Appendix  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+
+PAGE 4
+
+Aluminum Decarbonization at a Cost That Makes SensePART 1
+
+Introduction
+
+Infinitely recyclable, immensely strong, lightweight, and 
+malleable: aluminum is the metal that makes modern 
+economies tick. With uses ranging from beverage cans to cars, 
+airplanes, and solar panels, it is also extremely versatile. There 
+is only one real problem: while the metal itself is sustainable, 
+its production usually is not. In fact, the aluminum industry 
+accounts for about 2 percent of global greenhouse-gas (GHG) 
+emissions. Mostly due to its high energy use, the aluminum 
+industry emits around 1.1 billion metric tons (t) of GHGs a year.1 
+
+The aluminum industry as outlined in Mission Possible 
+Pathway’s (MPP) Sector Transition strategy and the 
+International Aluminium Institute’s (IAI) 1.5° work together can 
+deliver a 1.5° pathway–aligned net-zero sector. One of the core 
+challenges to achieving this, however, is that transforming the 
+aluminum sector to a low-carbon sector will require upgrading 
+refining and smelting assets and making significant investments 
+in low-carbon power. 
+
+PAGE 5
+
+Aluminum Decarbonization at a Cost That Makes SenseThe investment case for decarbonizing each individual refinery 
+or smelter will be determined by local circumstances, and local 
+power availability and local policy arrangements will be critical. 
+
+This report and open-sourced investment model outlines the 
+levers that could close the finance gap. Users can generate 
+their own investment case using the underlying analysis from 
+MPP’s Sector Transition strategy with analytical support from 
+McKinsey’s Sustainability and Basic Materials Practices to 
+understand what additional levers from financers, customers, 
+and policy makers may be essential for each investment case.  
+
+How stakeholders can help 
+One of the challenges to aluminum decarbonization is that 
+best currently available fossil-fuel-based technologies have a 
+net present value greater than green alternatives. Overcoming 
+these economic obstacles and risks will require collaborative 
+action among stakeholders. Banks, investors, policy makers, 
+and end customers will each have an important role to play.
+
+The finance sector. Decarbonization won’t be cheap. 
+Cumulative investment of approximately $1 trillion across the 
+primary production value chain will be needed to deliver a net-
+zero sector or a 1.5° pathway. The majority of this investment 
+will be needed in power supply and smelters.2 Aluminum 
+producers will need to retire fossil-fuel-based production 
+and make new investments in low-carbon alternatives, even 
+though these are likely to have a lower return on capital and 
+contain some technology and implementation risks. Financial 
+institutions have the capability to mitigate some of these 
+risks and shift cash flows toward green investments. Given 
+the generally high levels of debt in the aluminum industry, 
+improved interest rates for low-carbon investments and new 
+products such as green loans or bonds used exclusively for 
+climate-friendly projects could be key enablers. Additionally, 
+banks could incorporate climate considerations into their 
+lending decisions, such as those developed by the Center for 
+Climate-Aligned Finance (CAF). Financial partnerships designed 
+to support sustainable investment already exist, such as the 
+Net-Zero Banking Alliance (NZBA), which brings together banks 
+which represent 40 percent of global banking assets.
+
+Governments and policy makers. Governments play a 
+critical role in aluminum decarbonization not only because 
+the government is a relevant end customer of particular 
+aluminum products but also because aluminum is a strategic 
+metal for the energy transition, raising governments as 
+strategic investors in aluminum production and aluminum 
+decarbonization. Governments have several tools to provide 
+incentives for aluminum decarbonization. Government grants 
+to aluminum producers can help offset some of the costs 
+of green investment, while carbon contracts for difference 
+(CCfDs) bring the operational costs of decarbonized operations 
+in line with those of fossil-fuel-based technology. However, 
+our analysis shows that the greatest impact to the economics 
+of decarbonization could come from carbon pricing, whether 
+through trading schemes or carbon taxes. This could spur 
+investment in green aluminum and enable the economics of the 
+industry’s net-zero transition.
+
+Customers. Aluminum users will likely have an important role 
+to play in creating demand and helping shift the industry toward 
+decarbonization. This could including paying what we estimate 
+to be a 5 to 10 percent premium for green aluminum or by 
+making firm advance commitments to purchase it. Such offtake 
+agreements could be negotiated before a factory is constructed 
+or begins operations, or before major retrofits are undertaken, 
+significantly cutting investment risk. For manufacturers that 
+have set decarbonization goals for their sourcing and supply 
+chains, such premiums may be worth paying. Apple, for 
+instance, has announced that its new iPhone SE will use zero-
+carbon aluminum produced from hydropower in Quebec.3
+
+Rising demand for low-carbon products is pushing the 
+aluminum industry away from the carbon-intensive processes 
+that have dominated production for the past 135 years. At the 
+same time, the dynamics of a warming planet are evidence 
+that change needs to happen as fast as possible. To make the 
+green transition a reality, players throughout the aluminum 
+value chain need to seize the moment, work together to support 
+a purposeful transition, and recreate the industry for the 
+demands of the coming decades.
+
+PAGE 6
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+PART II
+
+Levers to accelerate  
+decarbonization
+
+The intensity of GHG emissions associated with alumina 
+refining and aluminum smelting leaves the industry with little 
+choice but to seek out the most efficient way to decarbonize. 
+However, while players across the value chain have been 
+taking steps to align with a 1.5° pathway, more planning and 
+investment are required to significantly reduce emissions 
+associated with aluminum production.
+
+To explore the potential for change, Mission Possible 
+Partnership’s Aluminium for Climate team, with analytical 
+
+support from McKinsey’s Basic Materials Insights and 
+Sustainability Practices, has developed an open-access, 
+open-source investment model for alumina and aluminum 
+plant archetypes. The user-friendly model creates a twin 
+lens on costs and decarbonization options for Scopes 1, 2, 
+and 3 emissions. The model is structured to allow alumina 
+refineries, aluminum producers, OEMs, upstream players, 
+finance players, policy makers, and end-industry users to input 
+their assumptions about decarbonizing alumina refineries and 
+aluminum smelting, and to compare investment scenarios 
+
+PAGE 7
+
+Aluminum Decarbonization at a Cost That Makes Sensewith best available technologies (BAT). Users can select a series 
+of inputs for investment scenarios and run multiple levers to 
+reduce the net-present-value (NPV) gap versus ongoing or 
+BAT operations. The model aims to provide the latest thinking 
+related to the key technologies and processes, evaluate the 
+different options, and inspire decision makers on the options and 
+prerequisites of deploying these technologies in the real world.
+
+2.1 
+
+Investment risks 
+
+The significant investment required to decarbonize the aluminum 
+industry could expose companies and stakeholders to a range of 
+risks. These include market risks, specifically threats to market 
+capitalizations, as well as credit and liquidity risks. There could 
+also be risks associated with executing decarbonization projects 
+and the impacts of policy and regulation (see sidebar “Potential 
+risks associated with aluminum decarbonization”). The industry 
+will need to manage all of these risks to successfully accelerate 
+the decarbonization agenda.
+
+A basic element of risk mitigation strategies will be dedicated 
+to long-term planning, based on an understanding of all 
+available and economically reasonable decarbonization 
+pathways. In addition, there are various financial, policy, and 
+
+“The significant investment required 
+
+to decarbonize the aluminum 
+
+industry could expose companies 
+
+and stakeholders to a range of risks. 
+
+These include market risks as well as 
+
+credit and liquidity risks.”
+
+demand levers that may create a more favorable environment 
+for investment (see sidebar “Finance and policy levers to likely 
+derisk investments”). 
+
+Potential risks associated with aluminum decarbonization
+
+Market risk
+
+An aluminum producer’s shareholder value deteriorates due to a decarbonization investment that carries a lower return on 
+capital compared with business-as-usual investments.
+
+Credit risk
+
+An aluminum producer contracts significant debt to undergo decarbonization investments with high uncertainty on future 
+cash flows and potential for credit downgrading.
+
+Liquidity risk
+
+An aluminum producer has a perceived or actual inability to meet its liabilities due to a cash flow drain from investments in 
+decarbonization efforts, threatening its financial position or even existence.
+
+Technical and execution risk
+
+An aluminum producer invests in a technology or project design that is unproven or that lacks internal tools, systems, 
+processes, and people to successfully develop it, turning investment into stranded asset.
+
+Political and regulatory risk
+
+Trade barriers recently installed in the European Union, such as the carbon border adjustment mechanism, have dramatically 
+changed the prospects of high-CO2e investment exports.
+
+PAGE 8
+
+Aluminum Decarbonization at a Cost That Makes SenseFinance and policy levers to likely derisk investments
+
+The decarbonization of the aluminum value chain needs to be a concerted effort between financial institutions, political 
+institutions, producers, buyers, intermediaries and equipment providers. To successfully meet a 1.5°C scenario, a set of levers 
+could help to stimulate investment in ultra-low-carbon aluminum production.
+
+Finance levers
+
+•  Financial institutions will likely be part of the decarbonization of the aluminum value chain to reduce their financed 
+emissions and at the same time mitigate climate risk by decreasing interest rates, increasing loan duration, or 
+increasing loan to value of loans for players’ decarbonization efforts through issuing: 
+
+ ◦ green loans 
+
+ ◦ green bonds 
+
+ ◦
+
+ ◦
+
+transition bonds 
+
+sustainability-linked loans or bonds1 
+
+Policy levers
+
+•  Setting up carbon prices or taxes. These can take multiple forms, such as locally regulated taxes, exchange-traded 
+emissions systems like those currently installed in several parts of the world, and fees on imports, such as the cross-
+border adjustment mechanism that will be implemented in the European Union. 
+
+•  Offering government grants. For example, a CA $1.8 billion grant (US $1.4 billion) from the Canadian government is 
+
+making possible an ArcelorMittal investment in the steel industry to convert a blast furnace to an electric-arc furnace, 
+resulting in a CO2e emissions reduction of three million metric tons (or 60 percent emissions reduction). The Canadian 
+government has also provided some support to Alcoa and Rio Tinto for development of the ELYSIS technology. 
+
+•  Developing carbon contracts for difference (CCfD). For example, Germany is currently considering providing €43 
+billion funding for CCfD for use in heavy industry (for example, steel, cement, and chemicals). This will be a ten-year 
+agreement resulting in an offset in CO2e emissions of 20 million metric tons per year. A similar CCfD scheme has 
+been implemented in the United Kingdom to accelerate the renewable-energy transition and has already supported 
+16 GW of low-carbon electricity. 
+
+Demand levers
+
+•  Reaching offtake agreements. Offtake agreements often help secure funds for decarbonization, reducing the 
+
+investment risk. Buyers and sellers can reach an agreement to purchase a defined quantity of low-carbon-footprint 
+product at a predefined price or at the cost of the production price. 
+
+•  Accepting green premiums. Due to a lack of balance between supply and demand for low-carbon footprint products, a 
+time-bound green premium can emerge, allowing for supply-side flexibility and coverage of the decarbonization cost. 
+
+1 See, for example, “Hydro Alunorte signs USD 200 million sustainability-linked loan to finance fuel switch project,” Hydro, April 1, 2022.
+
+PAGE 9
+
+Aluminum Decarbonization at a Cost That Makes SenseAll of the levers—on the financial, policy, and demand side—are 
+routes to mitigating and reducing the risks associated with 
+investment. Ideally, they would be combined in various ways so 
+that they are mutually reinforcing. A hybrid approach is likely to 
+be optimal, because no single intervention will be sufficient to 
+unlock sectorwide investment.
+
+Here we consider each category of lever in detail and outline 
+steps that leading players are already taking.
+
+2.1.1  Financial levers
+
+A significant element of the industry’s transition will be a 
+committed program of investment. This reflects the wider 
+reality that the net-zero transition will demand average annual 
+spending of $9.2 trillion across industries by 2050.
+
+Decarbonization of the aluminum industry will require 
+investment in the industry’s operations as well as in the power 
+and recycling sectors. In parallel, investment in fossil-fuel-
+based production will need to decline rapidly. To facilitate this 
+process, the finance sector will need to play a critical role, 
+supported by three key levers: 
+
+• 
+
+improvement in terms for low-carbon investments, 
+through interest rates, debt tenure, or other conditions 
+
+•  bringing new finance products to market and tailoring 
+
+finance to the particular combination of risks inherent in 
+low-carbon products 
+
+•  aligning the climate objectives of finance providers and 
+alumina and aluminum producers through principles of 
+credit provision associated with pathways to 1.5ºC 
+
+Finance providers can also make strategic contributions, 
+leveraging investment expertise across the value chain to take 
+a holistic approach to system change. They can apply lessons 
+learned in other sectors and identify how different projects can 
+be effectively integrated. 
+
+Improved terms. The terms for investment in low-carbon 
+aluminum will be shaped by the mix of investment risks. As 
+capital providers better understand decarbonization levers and 
+project risk profiles, and as offtake commitments are made, 
+more capital is likely to flow to green and brown-to-green 
+investments. Capital providers that proactively work to make 
+a product relevant to a low-emission future will lower their 
+transition risk relative to their peers.
+
+A range of financial instruments. Low-carbon aluminum projects 
+present a different mix of risks than traditional aluminum 
+projects, so tools that have been specifically designed for the 
+green-finance market are likely to be most useful:
+
+•  Green loans are any type of loan instrument exclusively 
+applied to finance or refinance new or existing eligible 
+green projects, in whole or in part. 
+
+•  Green bonds are bonds whose raised funds are applied 
+exclusively to projects and activities that promote 
+climate or other environmental sustainability purposes. 
+According to the Climate Bonds Initiative, nearly $2 
+trillion in green bonds have been issued since market 
+inception in 2007.4 
+
+•  Transition bonds are bonds whose funds are applied 
+exclusively to new and existing projects that support 
+corporate climate strategies. 
+
+•  Sustainability-linked loans and bonds embed “sustain-
+ability performance targets” and trigger a reduction in 
+the cost of debt if certain KPIs are achieved. Unlike green 
+or sustainable bonds, funds raised with this instrument 
+are not tagged to a specific use but are for general cor-
+porate purposes.
+
+The Loan Syndications & Trading Association (LSTA) has 
+defined parameters associated with sustainability-linked 
+lending to support sustainable economic activity.5 Its 
+framework consists of five components: selection of KPIs to 
+assess sustainability and core business strategy; calibration 
+of sustainability performance targets (SPTs), representing 
+an improvement over industry standard operations; loan 
+characteristics, dependent on the borrower meeting SPTs 
+and KPIs; reporting at least annually to allow monitoring of 
+performance of SPTs and KPIs; and verification of performance 
+against SPTs and KPIs, at least annually. A limited number of 
+institutions have explored sustainability-linked lending, but this 
+tool can also support decarbonization.
+
+“Low-carbon aluminum projects 
+
+present a different mix of risks than 
+
+traditional aluminum projects, so 
+
+tools that have been specifically 
+
+designed for the green-finance 
+
+market are likely to be most useful.”
+
+PAGE 10
+
+Aluminum Decarbonization at a Cost That Makes SenseAligning climate objectives of finance providers and alumina 
+and aluminum producers. Lending practices will likely evolve to 
+meet the investment demands of the 1.5°C goal. This will mean 
+boosting investment in low-carbon aluminum but also reducing 
+investment in high-carbon projects. This kind of approach is 
+encapsulated in the Poseidon Principles, a global framework for 
+responsible ship finance that integrates climate considerations 
+in lending decisions.6 In aluminum, the Center for Climate-
+Aligned Finance (CAF) is working with three banking leads, 
+leading aluminum producers, and partner organizations focused 
+on sustainable finance to ensure that the objectives of firms in 
+the aluminum sector and their financial partners are aligned 
+and actionable.7
+
+Bringing the community together. To meet net-zero targets, 
+financial institutions need to work together to provide 
+capital to both greenfield and retrofit projects. These kinds 
+of partnerships are already developing. For example, the 
+Net-Zero Banking Alliance, which brings together banks that 
+are committed to aligning their lending and investments 
+with net-zero emissions by 2050, currently represents 40 
+percent of global banking assets. The Glasgow Financial 
+Alliance for Net Zero (GFANZ) has more than 450 members, 
+representing $130 trillion of assets. GFANZ members will use 
+science-based guidelines to reach net-zero emissions across 
+all emissions scopes by 2050, as well as 2030 interim targets. 
+GFANZ members report on their progress annually, including 
+disclosures in line with the guidelines drafted by the Task Force 
+for Climate-related Financial Disclosures (TCFD).
+
+2.1.2  Policy levers
+
+Governments have a key role to play in facilitating investment 
+in decarbonization solutions as well as in promoting innovation. 
+Mechanisms such as carbon pricing (through trading schemes 
+or carbon taxes) show that policy can have a significant impact 
+on corporate behaviors, while trade-based initiatives such as 
+the European Union’s Carbon Border Adjustment Mechanism 
+use import duties to encourage both domestic and overseas 
+producers to switch to cleaner technologies. Policy instruments 
+such as carbon contracts for difference can create stable access 
+to competitively priced clean electricity. 
+
+Government grants could offset some of the cost of investment. 
+In the steel industry, CA $1.8 billion (US $1.3 billion)8 in federal 
+and provincial grants and loans enabled ArcelorMittal to convert 
+a blast furnace to an electric arc furnace.9 The conversion will 
+lead to three million metric tons (or 60 percent) of emissions 
+reduction.10 The Canadian government has also provided 
+support to Alcoa and Rio Tinto for research and development—
+for example, in relation to ELYSIS inert-anode technology, 
+which promises to eliminate all direct GHGs from the traditional 
+
+smelting process. 11 In Australia, Alcoa received support to test 
+electric calcination, with AU $8.6 million (US $6.4 million) from 
+the Australian Renewable Energy Agency (ARENA) and AU $1.7 
+million (US $1.3 million) from Western Australia’s Clean Energy 
+Future Fund (CEFF).12
+
+Carbon contracts for difference (CCfDs) are a policy lever to 
+help bring the operational costs of decarbonized operations 
+in line with those of conventional technology (Exhibit 
+1). CCfDs typically offset the difference between the market 
+price for emissions allowances (carbon price) and the cost of 
+operating decarbonized technology. A price is selected for the 
+decarbonized technology to level operational costs with those 
+of conventional technology. When the operational costs exceed 
+this level, the state pays the difference. Conversely, if the 
+operational cost is lower than the agreed cost, the decarbonized 
+facility pays the difference. 
+
+While no entity in the aluminum industry has yet used CCfDs, 
+Germany is considering providing €43 billion to support 
+their application in heavy industry. The vision is a ten-year 
+agreement that will result in an offset of 20 million metric 
+tons of CO2e emissions per year.13 A similar scheme has been 
+implemented in the United Kingdom, supporting 16 GW of low-
+carbon electricity (enough to power 15 million homes).14
+
+2.1.3  Demand levers
+
+End users can play a role in supporting green investments by 
+paying more or making firm commitments to purchase. In the 
+former case, private- or public-sector buyers can pay a green 
+premium when carbon emissions are below a certain threshold, 
+such as less than 0.1 tCO2e/t of alumina or below 4.0 tCO2e/t 
+of aluminum. According to Fastmarkets, a cross-commodity 
+price reporting agency, green premiums have reached about 
+1 percent of the London Metal Exchange (LME) price, but they 
+could climb to 5 to 10 percent.15 
+
+“One of the challenges to 
+
+decarbonization is that the current 
+
+best available technology often 
+
+has an NPV that is greater than the 
+
+green-investment scenario.”
+
+PAGE 11
+
+Aluminum Decarbonization at a Cost That Makes SenseA variable premium in the carbon contracts for difference model is the 
+difference between the reference price and strike price.
+
+EXHIBIT 1
+
+The variable premium is the $/MWh of hydrogen subsidized above 
+the market value of low-carbon hydrogen by the UK government
+
+Variable premium
+
+$/MWh
+
+Reference price
+
+Potential 
+payment from 
+producer
+
+Strike price
+
+Revenue from 
+variable 
+premium
+
+Revenue from 
+market
+
+Time
+
+It is the difference between the strike price
+and the reference price
+
+Strike price
+The price that producers need to 
+cover the plant building and operation 
+costs, plus some equity return 
+
+Reference price
+The price that end users can afford 
+and are willing to pay (ie, a proxy for 
+the market price)
+
+Source: Low carbon hydrogen business model: Consultation on a business model for low carbon hydrogen, Section 4.1, UK Department for Business, Energy & Industrial Strategy, 2021.
+
+Offtake agreements are arrangements between buyers and 
+sellers to purchase a quantity of product at a defined price. 
+They may be negotiated before a factory is constructed or 
+begins operating, as well as for major retrofits, significantly 
+cutting investment risk.
+
+To model some likely combinations of levers and technology, 
+this paper presents five scenarios that would either create a 
+green premium or support demand.19 These combinations of 
+levers are illustrative; the user can explore the benefits of these 
+scenarios through the supporting tool.
+
+Many companies are working hard to decarbonize their 
+aluminum supply chains. Apple, for example, is targeting net-
+zero climate impact across all business functions by 203016 
+and has announced that its new iPhone SE will use net-zero 
+aluminum produced by ELYSIS.17 
+
+“Inert-anode technology can have 
+
+2.2  Combining levers: Five scenarios
+
+similar electricity intensity as the 
+
+Hall-Héroult process or as much 
+
+as 20 percent higher, so smelters 
+
+that rely on green electricity are 
+
+suitable to retrofit with inert-anode 
+
+technology.”
+
+One of the challenges to decarbonization is that the current 
+best available technology often has an NPV that is greater 
+than that of the green-investment scenario. Moreover, no 
+single lever will be sufficient to support aluminum industry 
+decarbonization on its own. The most likely scenario is that 
+companies will adopt a mix of levers that facilitate either green 
+investment or demand-side drivers. By combining levers, 
+stakeholders can close the NPV gap for low-carbon investments 
+(achieving a green premium) and secure cash flows. In general, 
+finance will play a relatively minor role in bridging the NPV gap, 
+particularly in cases with less capital expenditure, but it will 
+play a more significant role where capital investment is more 
+dominant—for example, in inert-anode retrofits.18
+
+PAGE 12
+
+Aluminum Decarbonization at a Cost That Makes Sense2.2.1  Scenario 1: Retrofit of smelter in  
+
+captive plant in the Middle East
+
+Smelting operations in the Middle East have seven million 
+metric tons of aluminum capacity, while electricity is mostly 
+derived from natural-gas combined-cycle (NGCC) plants. NGCC 
+is an advanced technology that improves the efficiency of 
+natural gas. The scenario considers retrofitting the smelter and 
+natural-gas facility with CCS. 
+
+•  Best available technology: existing smelter with captive 
+
+gas 
+
+•  Green investment: retrofit CCS on smelter and NG power 
+
+plant
+
+Retrofitting a smelter in the Middle East with CCS would 
+produce a negative NPV of about $3.3 billion (Exhibit 2). Setting 
+
+up a carbon price for both smelter and electricity generation 
+(about $60 per tCO2e as a starting price) and a CCfD for ten 
+years (worth $150 million a year) could improve the investment 
+NPV to offset the increasing operating costs of CCS. Since 
+green-investment operating expenditure is higher than BAT, 
+finance levers would have a smaller impact than demand and 
+policy levers, which would attenuate the increased operating 
+expenditure from CCS.
+
+In this specific illustrative combination of levers, the finance 
+levers make a relatively small contribution to reducing the 
+NPV difference. This is for two reasons. First, significant CCS 
+capital expenditures are required to retrofit the smelter and 
+the natural-gas power plant. Second, there are increased 
+operating expenditures for running the CCS plants, as 
+compared with ongoing operations, where a reduction of 
+interest rate and increase of loan duration are not enough to 
+bridge the NPV difference.
+
+Policy levers could improve the investment case for retroﬁtting a 
+smelter in a captive power plant in the Middle East.
+
+EXHIBIT 2
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate
+
+Debt tenure
+
+Green premium
+
+CO2 price 
+smelter
+
+CO2 price
+electricity
+
+Grant
+
+CCfD1
+
+837
+
+96
+
+3,318
+
+1,654
+
+344
+
+Impact
+
+6
+
+0%
+
+5
+
+0%
+
+377
+
+11%
+
+10%
+
+50%
+
+3%
+
+25%
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+5.1% to 4.1%)
+
+Debt tenure 
+increase by 5 
+years (from 
+20 to 25)
+
+Green 
+premium of 
+$100 per ton 
+aluminum 
+(5% of LME3) 
+for 30 years
+
+Carbon price 
+of $60 per 
+ton CO2 
+emitted for 
+smelter for �
+30 years
+
+Carbon price 
+of $60 per 
+ton CO2
+emitted in 
+captive 
+electricity 
+emissions for �
+30 years
+
+$100 million 
+grant
+
+Remainder of 
+delta NPV 
+covered by 
+CCfD,1 $150 
+million 
+annually for 
+10 years
+
+Note: Assuming green premium on aluminum will last 30 years; assuming carbon price applicable for 30 years and growing 0.5% per year; assuming carbon contracts for difference 
+(CCfD) will last 10 years.
+1 Carbon contracts for difference.
+2 Percentage point.
+3 London Metal Exchange.
+Source: McKinsey analysis
+
+PAGE 13
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+ 
+2.2.2  Scenario 2: Retrofit inert anode on  
+
+smelter in Europe 
+
+Europe’s customers are likely the most advanced globally 
+in pursuing decarbonization targets, which is encouraging 
+smelters to further decarbonize.20
+
+•  Best available technology: existing smelter with captive 
+
+hydro 
+
+•  Green investment: retrofit inert anode 
+
+Inert-anode technology can have similar electricity intensity as 
+the Hall-Héroult process or as much as 20 percent higher, so 
+
+smelters that rely on green electricity are suitable to retrofit 
+with inert-anode technology. Because there is uncertainty 
+around the exact electricity intensity of this solution, we have 
+expanded the analysis to two scenarios: a 15 percent increase 
+over the current average (16 MWh/t of aluminum), and with 
+equivalent consumption to current Hall-Héroult (13.8 MWh/t of 
+aluminum). Retrofitting a smelter in Europe with inert anodes 
+would have a negative NPV of about $1.2 billion when assuming 
+electricity intensity of 16 MWh/t of aluminum (Exhibit 3). Under 
+the second scenario (Hall Héroult–equivalent consumption), 
+a combination of lower electricity intensity, a green premium, 
+and the carbon price would be sufficient to make investment in 
+inert-anode technology NPV neutral (Exhibit 4).
+
+Green premiums and CO2 prices may be required for inert-anode 
+retroﬁt to have equal net present value in the European Union.
+
+EXHIBIT 3
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate
+
+Debt tenure
+
+Green premium
+
+CO2 price 
+
+Grant
+
+CCfD1
+
+87
+
+96
+
+518
+
+1,219
+
+67
+
+6%
+
+Impact
+
+378
+
+72
+
+6%
+
+31%
+
+43%
+
+8%
+
+7%
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+3% to 2%)
+
+Debt tenure 
+increase by 5 
+years (from 
+20 to 25)
+
+Green 
+premium of 
+$100/t 
+aluminum
+
+Carbon price 
+of $60 per 
+ton CO2 
+emitted for 
+smelter 
+process 
+emissions 
+only
+
+$100 million 
+grant
+
+Remainder of 
+delta NPV 
+covered by 
+CCfD,1 $15 
+million 
+annually for 
+10 years
+
+Note: Assuming electricity intensity of 16 MWh/t of aluminum.
+1 Carbon contracts for difference.
+2 Percentage point.
+Source: Mission Possible Partnership
+
+PAGE 14
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+ 
+Green premiums and CO2 prices may likely be required for 
+inert-anode (with electricity intensity of 13.8 MWh/t) retroﬁt 
+investment to have equal net present value in the European Union.
+
+EXHIBIT 4
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate
+
+Debt tenure
+
+Green premium
+
+CO2 price 
+
+Grant
+
+0
+
+CCfD1
+
+0
+
+369
+
+886
+
+377
+
+72
+
+Impact
+
+67
+
+8%
+
+8%
+
+43%
+
+42%
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+3% to 2%)
+
+Debt tenure 
+increase by 5 
+years (from 
+20 to 25)
+
+Green 
+premium of 
+$100/t 
+aluminum
+
+Carbon price 
+of $43 per 
+ton CO2 
+emitted for 
+smelter 
+process 
+emissions 
+only
+
+Note: Assuming electricity intensity of 13.8 MWh/t of aluminum.
+1 Carbon contracts for difference.
+2 Percentage point.
+Source: Mission Possible Partnership
+
+0%
+
+N/A
+
+0%
+
+N/A
+
+PAGE 15
+
+Aluminum Decarbonization at a Cost That Makes Sense2.2.3  Scenario 3: Retrofit inert anode on  
+
+smelter in China 
+
+China has the largest aluminum smelting capacity and one of 
+the largest aluminum CO2e footprints, and it is deploying the 
+most solar, off-shore wind, and nuclear energy capacity.21 Our 
+analysis thus focuses on inert anodes powered by a green grid. 
+Given the uncertainty around the electricity intensity of inert-
+anode technology, we use two scenarios.
+
+•  Best available technology: existing smelter with captive 
+
+coal 
+
+•  Green investment: retrofit inert anode plus grid
+
+Retrofitting a smelter in China with inert-anode technology 
+and connecting it to the grid would have a negative NPV of 
+$1.2 billion when assuming inert-anode electricity intensity of 
+16 MWh/t of aluminum (Exhibit 5). If similar intensity to Hall-
+Héroult is assumed, the negative NPV would be about $400 
+million (Exhibit 6). Since the base case is a coal-fired smelter, 
+policy levers applied to electricity generation could have a 
+significant impact.
+
+Policy levers such as CO2 pricing are needed to enable investments 
+in inert anodes (electricity intensity of 16 Mwh/t) in China.
+
+EXHIBIT 5
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate
+
+Debt tenure
+
+Green premium
+
+CO2 price 
+smelter
+
+CO2 price
+electricity
+
+Grants
+
+0
+
+CCfD1
+
+0
+
+403
+
+1,215
+
+63
+
+5%
+
+Impact
+
+621
+
+51
+
+77
+
+4%
+
+3%
+
+27%
+
+60%
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+5.1% to 4.1%)
+
+Debt tenure 
+increase by 5 
+years (from 
+20 to 25)
+
+Green 
+premium of 
+$100 per ton 
+Al (5% of 
+LME) for 30 
+years
+
+Carbon price 
+of $60 per 
+ton CO2 
+emitted for 
+smelter for �
+30 years
+
+Carbon price 
+of $7 per ton 
+CO2 emitted 
+captive 
+electricity  
+emissions for �
+30 years
+
+0%
+
+N/A
+
+0%
+
+N/A
+
+Note: Assuming electricity intensity of 16 MWh/t of aluminum; assuming green premium on aluminum to last 30 years; assuming carbon price applicable for 30 years and growing 0.5% 
+per year; assuming carbon contracts for difference to last 10 years.
+1 Carbon contracts for difference.
+2 Percentage point.
+Source: Mission Possible Partnership
+
+PAGE 16
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+ 
+Policy levers such as CO2 pricing are needed to enable investments 
+in inert anodes (electricity intensity of 13.8 MWh/t) in China.
+
+EXHIBIT 6
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate
+
+Debt tenure
+
+Green premium
+
+CO2 price 
+smelter
+
+CO2 price
+electricity
+
+0
+
+Grants
+
+0
+
+CCfD1
+
+0
+
+179
+
+99
+
+392
+
+51
+
+63
+
+Impact
+
+16%
+
+13%
+
+25%
+
+46%
+
+0%
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+5.1% to 4.1%)
+
+Debt tenure 
+increase by 5 
+years (from 
+20 to 25)
+
+Green 
+premium of 
+$100 per ton 
+Al (5% of 
+LME3) for 30 
+years
+
+Carbon price 
+of $21 per 
+ton CO2 
+emitted for 
+smelter for �
+30 years
+
+Carbon price 
+of $60 per 
+ton CO2 
+emitted 
+captive 
+electricity  
+emissions for �
+30 years
+
+0%
+
+N/A
+
+0%
+
+N/A
+
+Note: Assuming electricity intensity of 13.8 MWh/t of aluminum; assuming green premium on aluminum will last 30 years; assuming carbon price applicable for 30 years and growing 
+0.5% per year; assuming carbon contracts for difference will last 10 years.
+1 Carbon contracts for difference.
+2 Percentage point.
+3 London Metal Exchange.
+Source: Mission Possible Partnership
+
+PAGE 17
+
+Aluminum Decarbonization at a Cost That Makes Sense2.2.4  Scenario 4: Retrofit refinery in Oceania  
+
+with MVR
+
+Since the base case is an NG-based calciner, policy levers 
+applied to heavy emitters could have a significant impact.
+
+Oceania is the second-largest producer of alumina, and the 
+Australian Renewable Energy Agency (ARENA) has deployed 
+a number of projects focused on decarbonizing alumina 
+refineries. This has supported the development of MVR retrofit 
+in digestion and hydrogen-calciner development. The scenario 
+envisages retrofitting an Oceania refinery with MVR for 
+digestion steam and hydrogen-fired calciner.
+
+•  Best available technology: existing refinery utilizing gas 
+
+•  Green investment: retrofit MVR and hydrogen (H2) 
+
+calcination
+
+Retrofitting a refinery in Oceania with MVR and green-hydrogen 
+calciner would have a negative NPV of $1 billion (Exhibit 7). 
+
+Oceania is the second-largest 
+
+producer of alumina, and the 
+
+Australian Renewable Energy Agency 
+
+(ARENA) has deployed a number of 
+
+projects focused on decarbonizing 
+
+alumina refineries.
+
+Policy levers such as CO2 pricing are needed to enable investment in 
+mechanical vapor recompression and H2 calciner in Oceania.
+
+EXHIBIT 7
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate
+
+Debt tenure
+
+Green premium
+
+CO2 price 
+
+Grants
+
+0
+
+763
+
+CCfD1
+
+0
+
+1,186
+
+8
+
+8
+
+406
+
+Impact
+
+< 0.5%
+
+< 0.5%
+
+34%
+
+64%
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+5% to 4%)
+
+Debt tenure 
+increase by 5 
+years (from 
+20 to 25)
+
+Green 
+premium of 
+$30 per ton 
+of alumina 
+(9% 
+premium) for 
+30 years
+
+Carbon price 
+of $60 per 
+ton CO2 
+emitted for �
+30 years
+
+0%
+
+N/A
+
+0%
+
+N/A
+
+Note: Assuming electricity intensity of 12 gigajoules/t; assuming green premium on aluminum will last 30 years; assuming carbon price applicable for 30 years and growing 0.5% per year.
+1 Carbon contracts for difference.
+2 Percentage point.
+Source: Mission Possible Partnership
+
+PAGE 18
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+2.2.5  Scenario 5. Retrofit South America  
+
+refinery with electric boiler for    
+digestion steam and H2-fired calciner
+
+South America is an important alumina producer with a 
+relatively decarbonized grid. It would be feasible to retrofit 
+refineries with electric boilers supplied with low-carbon 
+electricity and green-hydrogen calciners.
+
+•  Best available technology: existing refinery using gas 
+
+•  Green investment: retrofit with electric boilers and H2 
+
+calcination
+
+Retrofitting a refinery in South America with electric 
+boilers and H2 calciner, replacing current natural-gas-based 
+technologies, would have a negative NPV of about $2.8 
+billion. Setting up a carbon price (approximately $60 per 
+tCO2e) and a CCfD for ten years (worth $330 million per 
+year) could improve the investment NPV and offset prices for 
+green hydrogen and green electricity (Exhibit 8). The electric 
+boiler carries a larger negative NPV than MVR, which is more 
+efficient from a thermal-energy perspective.
+
+Policy levers such as carbon contracts for difference may likely be 
+required for green reﬁnery investment to be economical.
+
+EXHIBIT 8
+
+Net present value (NPV), based on 2022, $ millions
+
+NPV difference
+
+Interest rate Green premium
+
+CO2 price 
+
+Grant
+
+CCfD1
+
+2,762
+
+7
+
+0%
+
+226
+
+6%
+
+Impact
+
+NPV of green 
+investment 
+vs base case
+
+Interest rate 
+decrease by 1 
+p.p.2 (from 
+15% to 14%)
+
+Green 
+premium of 
+$34 per ton 
+Aa3 (10% of 
+Aa)
+
+1,827
+
+96
+
+606
+
+22%
+
+3%
+
+66%
+
+Carbon price 
+of $60 per 
+ton CO2 
+emitted for 
+reﬁnery 
+process 
+emissions
+
+$100 million 
+grant
+
+Remainder of 
+NPV difference 
+covered by 
+CCfD,1 $330 
+million 
+annually for 10 
+years
+
+Note: Assuming green premium on alumina will last 5 years; assuming carbon price applicable for 30 years and growing 0.5% per year; assuming CCfD will last 10 years.
+1 Carbon contracts for difference.
+2 Percentage point.
+3 Alumina.
+Source: Mission Possible Partnership
+
+PAGE 19
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+ 
+ 
+ 
+PART III
+
+roles for  
+stakeholders
+
+Whichever route is taken to decarbonization, it will require 
+an effort from all players in the aluminum value chain. That 
+said, individual approaches will vary—businesses will adopt 
+decarbonization technologies that reflect local conditions, 
+policy measures, and financial arrangements. For smelters 
+relying on carbon-intensive electricity sources, for example, 
+a carbon-pricing scheme that includes power emissions 
+would better enable green investment. Where the operating 
+expenditure gap to BAT is more relevant than the capital 
+expenditure gap, demand and policy levers would play a more 
+important role.
+
+3.1  End users
+
+The analysis shows that end users would need to pay a green 
+premium to offset a negative NPV in all five scenarios. It 
+assumes a 5 percent premium on the LME commodity price 
+($100/t aluminum) in smelter cases and a 10 percent premium 
+($34/t) on alumina for the refinery cases. These would both 
+improve the NPV of the green-investment option.
+
+Many aluminum consumers have decarbonization goals for their 
+supply chains, so paying a premium could still be attractive. 
+
+PAGE 20
+
+Aluminum Decarbonization at a Cost That Makes SenseIndeed, increased demand for green products would help shift 
+the aluminum industry further toward decarbonization. Still, 
+some end users are unlikely to see a substantial increase 
+in final product prices after incorporating green-aluminum 
+premiums into production costs. For example, at a green 
+premium of $100/t aluminum, the final cost of a new car would 
+increase by just 0.01 percent.22 Even if the green premium 
+covered the total additional cost of fully decarbonized 
+aluminum production (estimated to be about $400/t in 
+203523) and the aluminum in cars rose to 200 kilograms (kg) 
+as projected, the final cost would increase by just 0.2 percent.
+
+Furthermore, many aluminum consumers have 
+decarbonization goals for their sourcing and supply chains, 
+so purchasing a green aluminum product with a premium 
+could likely be acceptable to consumers. In short, rising end 
+user demand for green products will help shift the aluminum 
+industry toward decarbonization.
+
+3.2  Governments 
+
+The analysis shows that the greatest NPV impact comes from 
+from carbon-pricing measures. This could shift the NPV balance 
+in favor of decarbonized investment because emissions are 
+covered by a carbon price. On that basis, the traditional smelter 
+is substantially more expensive. In all scenarios, the analysis 
+considers the impact of a starting carbon price of $60/tCO2e, 
+growing 0.5 percent per year.
+
+There is, however, an additional gap that needs to be covered. 
+Grants and CCfDs could offset the capital and operating costs 
+associated with decarbonized investment, even though the 
+impact would be relatively low compared with that of carbon 
+price mechanisms.
+
+3.3  Financial institutions
+
+Financial institutions also have the capability to shift cash 
+flows and allocate significant funds to green investments. 
+Due to generally high levels of debt as a share of total capital 
+for investments in the aluminum industry (typically 50 to 75 
+percent), the bond and loan markets would be key enablers. 
+Financial institutions could use green loans, green bonds, 
+transition bonds, and sustainability-linked loans and bonds to 
+meet their decarbonization targets. If these instruments offered 
+players a lower interest rate or a longer tenure compared with 
+financial products directed at carbon-intensive activities, they 
+would further support decarbonization.
+
+Rising demand for low-carbon products is pushing the 
+aluminium industry away from the carbon-emitting processes 
+that have dominated production for the past 136 years. These 
+positive steps are predicated on a more significant role for 
+frontier technologies that could reduce or completely abate the 
+GHG emissions in refineries and smelters. 
+
+However, the analysis in this paper shows that financial insti-
+tutions, end users, and government will need to work together 
+to turn frontier technologies into net-positive projects that 
+players can scale. No player in the value chain can decarbonize 
+the sector alone. Indeed, end users could pay a green premium 
+to cover the decarbonization cost, likely including a higher 
+premium to encourage the large-scale investment required to 
+reach committed emission targets. In addition, governments 
+and financial institutions will play a key role covering the 
+remaining decarbonization cost and accelerating investment 
+decisions to quickly deploy frontier technologies.
+
+PAGE 21
+
+Aluminum Decarbonization at a Cost That Makes SenseAppendix
+
+Aluminum smelting direct-process and 
+raw-material emissions
+
+The average global direct emissions from aluminum smelting, 
+including carbon anode manufacturing, is 2.5 tCO2e per metric 
+ton of aluminum.24 
+
+The majority of emissions—1.5 tCO2e/t of aluminum25—are 
+process CO2 emissions generated during carbon anode 
+production. This is part of electrolytic reduction where 
+aluminum is deposited in liquid form on the cathode and 
+oxygen is deposited on the anode. Oxygen reacts with the 
+anode to form CO2 gas while the aluminum is tapped in 
+batches from the cell.26
+
+In addition to CO2 emissions, the electrolysis process generates 
+perfluorocarbon compounds (PFCs) in what is known as the 
+anode effect. The anode effect occurs when the alumina 
+dissolved in the cryolite melt falls to a concentration level 
+too low to support the current flow at the nominal voltage for 
+aluminum production. During these periods, which typically 
+occur during 0.03–0.50 percent of the total electrolysis time, 
+
+the voltage rises to a level where reactions are initiated that 
+produce the PFCs.27 The average global emissions of PFCs are 
+0.5 tCO2e/t of aluminum and can be reduced to 0.02 tCO2e/t of 
+aluminum by implementing best practices.28
+
+The remaining 0.5 tCO2e/t of aluminum are associated with 
+carbon anode manufacturing (Exhibit 9). This process requires 
+the use of two main raw materials: calcined petroleum coke 
+(CPC) and coal tar pitch (CTP). In the process, leftovers from 
+dismantled anodes, called anode butts, are also recycled to 
+reduce the use of raw material.
+
+CPC is produced by processing raw “green” petroleum coke—a 
+by-product of petroleum refining—into rotary kilns, where 
+it is heated to temperatures between 1,200˚C and 1,350˚C. 
+These high temperatures remove excess moisture, extract all 
+remaining volatile hydrocarbons, and modify the crystalline 
+structure of the coke, resulting in a denser, more electrically 
+conductive product. CPC can be generated on-site or sourced 
+from third-party companies. This process typically generates 
+0.3 tCO2e/t of aluminum emissions.
+
+Carbon capture and storage is applicable in different steps of the 
+aluminum value chain.
+
+Simpliﬁed smelter value chain
+
+Petcoke calcination
+
+Anode baking 
+
+EXHIBIT 9
+
+CCS1
+
+Coke
+
+Pitch
+
+Pitch fume 
+treatment center
+
+Fume treatment 
+center
+
+Boiler
+
+Green petroleum 
+coke
+
+Calciner gas 
+treatment
+
+Rotary kiln
+
+Pyro 
+scrubber
+
+Settling 
+chamber
+
+Rotary cooler
+
+Green anode 
+plant
+
+Anode baking 
+furnace
+
+Rodding shop
+
+Prebake 
+anode
+
+Smelter
+
+1 Carbon capture and storage. �
+Source: Fives Group; Mission Possible Partnership; McKinsey analysis
+
+PAGE 22
+
+Aluminum Decarbonization at a Cost That Makes SenseThe CPC is then processed to achieve a specific particle size 
+distribution using a crushing and grinding circuit with particle 
+classifiers. Once the required particle size distribution is 
+reached, the processed petroleum coke is combined with 
+CTP, a thick dark liquid, which is a distilled by-product of the 
+production of coke and coal gas from coke ovens.
+
+This mixture is molded to the required anode shape 
+(denominated green anode) and then is thermally treated using 
+an anode baking furnace. In this furnace, the green anodes are 
+stacked between refractory walls separated by a flue channel 
+in which hot gases flow. The overall baking cycle could last 
+10 to 14 days. For each metric ton of aluminum, about 0.4 t of 
+anode is expected to be consumed. Because of the presence of 
+volatile hydrocarbons, this process generates 0.1 t of CO2e/t of 
+aluminum from anode baking furnace direct thermal energy and 
+0.1 t of CO2e/t aluminum from volatile-matter combustion.
+
+The largest technical challenge to improving the energy 
+efficiency of electrolysis is the development of a non-
+consumable inert anode.
+
+Aluminum smelting direct-emission 
+decarbonization levers
+
+Most of the technical challenges associated with direct 
+smelting emissions relate to CO2 generation due to anode 
+fabrication and anode consumption in the electrolysis process. 
+For decades, the aluminum industry has been investigating 
+the implementation of a non-consumable anode that 
+could potentially abate most of the CO2 generation during 
+electrolysis and generate oxygen instead (inert anode). 
+Carbon capture and storage (CCS) is also being explored as a 
+way to retrofit existing operating smelters’ facilities.
+
+requires use of an alternative, non-consumable material such as 
+metal (for example, iron-nickel base alloy) or ceramic (including 
+cermet) to replace the carbon anodes. Implementing this 
+technology could increase the life span of the anodes by two to 
+three years and generate oxygen as a by-product. 
+
+Wetted cathode is an alternative solution to improve system 
+efficiency. This technology uses titanium diboride (TiB2) to wet 
+the cathode surface. By creating a cathode surface that is inert 
+and wettable on the molten aluminum pad, the anode-cathode 
+distance can be reduced by 50 percent or more, reducing the 
+voltage drop and leading to substantial energy savings.
+
+Inert-anode technology, coupled with wetted cathodes, offers 
+the greatest opportunity to reduce GHG emissions with high 
+efficiency. It eliminates the CO2 and PFCs (particularly carbon 
+tetrafluoride) associated with the consumption of the carbon 
+anodes, as well as the need to manufacture a carbon anode 
+in the first place.29 However, direct-process and raw-material 
+emissions from inert anodes could be 0.25 t of CO2/t of 
+aluminum, mostly linked to the production of ceramic-base 
+inert anodes.30 The electricity intensity of inert anodes is still 
+uncertain, but could be as much as 20 percent more than in the 
+Hall-Héroult process.31
+
+There is currently no industrial-scale inert anode–based 
+technology for aluminum smelting, though multiple companies 
+are exploring the idea, and a commercial-scale plant is expected 
+to be developed by 2030. ELYSIS (a joint venture among Alcoa, 
+Apple, Rio Tinto, and the Canadian government) is running 
+industrial trials at the Alma smelter in Canada. Apart from these 
+two examples, there is very little public information on inert-
+anode operational performance, and estimates on when this will 
+be adopted on an industrial scale vary vastly. 
+
+There are only three alternatives for aluminum smelters to 
+decarbonize their direct smelting emissions, none of which is 
+proven today (Exhibit 10):
+
+Retrofit Hall-Héroult and raw-material 
+process with CCS
+
+• 
+
+inert anode 
+
+•  CCS 
+
+•  carbochlorination with CO2 regeneration
+
+Inert anode: The potential aluminum game 
+changer
+
+Inert-anode technology has been seen as the main alternative 
+to carbon anodes in the Hall-Héroult process. This technology 
+
+Deployment of CCS in the industry and transformation sector 
+(cement, chemicals, fuel, and steel) shows promise for this 
+approach to CO2 abatement. These sectors accounted for 30 
+commercial CCS facilities in operation in 2021, with many more 
+planned, including in the steel industry.32
+
+Implementation in the aluminum industry is possible but 
+presents challenges relating to low CO2 concentration in the 
+off-gas stream (Exhibit 11). This low concentration, specifically 
+on the smelter process, is associated with the entrainment 
+of fresh air required to manage the process heat balance. 
+As a consequence, overall CO2 concentration is reduced to 
+about 1 volume percent. One alternative is to redesign the 
+
+PAGE 23
+
+Aluminum Decarbonization at a Cost That Makes SenseSeveral smelter technologies have the potential for a 
+low-CO2 footprint.
+
+EXHIBIT 10
+
+Process CO2
+
+Anode production
+
+Low
+
+High
+
+Hall-Héroult (HH)
+
+HH + carbon capture 
+and storage (CCS)
+
+Approach
+
+Global average smelter 
+using 100% green 
+electricity
+
+Typical smelter using 
+100% green electricity 
+with CCS
+
+HH with CCS and 
+electric anode baking 
+with CCS
+Typical smelter using 
+100% green electricity 
+with CCS, electric anode 
+baking with CCS, and 
+petcoke calcination with 
+CCS
+
+Inert anode
+
+Retroﬁt current HH, 
+reusing potrooms holes, 
+though cell needs to be 
+redesigned
+
+Emerging 
+example
+
+Aluminum 
+smelter 
+emissions,�
+tCO2  per t 
+aluminum1 
+
+Logic or 
+limitation
+
+Maturity
+
+En+ Group, Hydro, Rio 
+Tinto 
+
+Alvance, Hydro, Rio Tinto
+
+N/A
+
+Alcoa and Rio Tinto 
+(ELYSIS), En+ Group
+
+2.0
+
+1.5
+
+0.5
+
+1.0
+0.5
+0.5
+
+0.7
+0.5
+0.2
+
+Multiple players 
+including Chalco, 
+Emirates Global 
+Aluminium (EGA), and 
+Hongqiao are exploring 
+renewable-energy 
+sources to fossil-fuel 
+generation sources 
+
+Technology is still in its 
+infancy
+
+Technology is still in its 
+infancy
+
+Assuming 70% CCS 
+efﬁciency, no PFC2 capture 
+and no reduction in carbon 
+anode production 
+emissions
+
+Assuming 70% CCS 
+efﬁciency, no PFC 
+capture and green 
+electricity for electric 
+anode
+
+0.3
+
+Technology 
+developments in the 
+past 10 years
+
+ELYSIS commercial 
+demonstration by 2026
+
+Note: Figures may not sum, because of rounding; excluding transport and raw material input; assuming perﬂuorocarbon control with best available technology (BAT).
+1 Metric tons of carbon dioxide per metric ton of aluminum across Scopes 1 and 2, including process CO2 emissions, process non-CO2 emissions, and anode fabrication emissions 
+including raw materials (0.5). 
+2 Perﬂuorocarbon. Assuming BAT marginal emissions of 0.02 t of CO2e/t of aluminum.
+Source: “Modular primary aluminium plant based on beck cells with multiple vertical inert anodes and wettable inert cathodes,” Arctus Metals, April 5, 2017; Asbjørn Solheim, “Inert 
+anodes—the blind alley to environmental friendliness?,” Light Metals, 2018; Bjarte Øye, “Carbochlorination routes in production of Al,” HighEFF, 2018; Efthymios Balomenos et al., 
+“Carbothermic reduction of alumina: A review of developed processes and novel concepts,” Proceedings of the European Metallurgical Conference, 2011; International Aluminium Institute; 
+Mazin Obaidat et al., “Energy and exergy analyses of different aluminum reduction technologies,” Sustainability, 2018, Volume 10, Number 4; Alcoa; EGA; Hydro; Rio Tinto
+
+aluminum-smelter pots to avoid air leakage and increase the 
+CO2 concentration by 4–10 volume percent so the CCS process 
+becomes economically viable.33 
+
+The anode production value chain could also benefit from 
+implementing CCS. Although this portion of the value chain 
+still has low CO2 concentration (less than 10 volume percent), 
+evolution in CCS technology applied to the cement industry 
+could likely be retrofitted to the petcoke calcination process 
+(similar usage of rotary kiln). The process of CO2 concentration 
+could also be boosted by oxyfuel firing and retrofitting existing 
+operations with heat recovery units (such as boilers). This would 
+avoid the use of bleed air to reduce gas temperature.34
+
+The last portion of the anode value chain that could benefit 
+from CCS implementation is the anode baking furnace. This 
+technology could reduce CO2 emissions from both direct energy 
+input and volatile-matter combustion. Alternatively, considering 
+that about 50 percent of energy for anode baking is related to 
+direct energy input (mostly from natural gas or oil firing), the 
+process could be reengineered to implement electric heating 
+(with access to renewable energy) and to combine direct or air 
+capture to reduce the remaining 0.1 t of CO2e/t aluminum.
+
+Among all CCS use cases, aluminum smelting, petcoke 
+calcination, and anode baking furnace have a relatively low 
+CO2 concentration compared with natural-gas processing, 
+
+PAGE 24
+
+Aluminum Decarbonization at a Cost That Makes Sense 
+Typical aluminum value chain CO2 concentrations are low compared 
+with other industries.
+
+Integrated aluminum CO2 point sources and concentration
+
+Industrial plant CO2 concentration, % 
+
+Integrated-route 
+CO2 point 
+sources
+
+CO2e emissions 
+across value 
+chain, t CO2e/t 
+aluminum
+
+Typical CO2 
+concentration, %
+
+Ethanol; ammonia; 
+natural-gas (NG) 
+processing;  ethylene 
+oxide; CTL3; GTL4 
+
+EXHIBIT 11
+
+90+
+
+Reﬁnery (digestion)
+
+0.9
+
+3–5%
+
+Oxyfuel power generation
+
+80
+
+Reﬁnery (calcination) 
+
+0.4
+
+4–6%2 
+
+Reﬁnery hydrogen
+
+45
+
+Petcoke calcination
+
+0.3
+
+4–8%
+
+Cement
+
+Anode baking
+
+0.1
+
+0.1
+
+3–5%
+
+Coal power plant
+
+Smelter
+
+1.61
+
+~1%
+
+NG combined cycle
+
+22
+
+14
+
+5
+
+1 Including CO2 and perﬂuorocarbons and assuming 1.5 t CO2/t aluminum (Al) and 0.05 t CO2/t Al, respectively.  
+2 Based on natural-gas ﬁring. 
+3 Coal to liquid. 
+4 Gas to liquid.
+Source: “Cost of capturing CO2 from industrial sources,” US Department of Energy and NETL, January 10, 2014; Anna Carpenter, “CO2 abatement in the iron and steel industry,” IEA 
+Clean Coal Center, January 2012; Henk Kortes and Ton van Dril, “Decarbonisation options for the Dutch aluminium industry,” IPCC; NRCAN; PBL Netherlands Environmental 
+Assessment Agency, June 4, 2019
+
+cement rotary kilns, or coal-fired power plants. However, CCS 
+is likely to be viable on smaller emissions sources only if sites 
+can combine carbon capture on-site with smelter process CCS. 
+Since many smelters do not have on-site anode production, 
+this is a key barrier. Therefore, for first-of-a-kind projects, the 
+CO2e avoided capture rate would likely be below 90 percent. 
+Assuming a 70 percent efficiency factor, the implementation 
+of CCS in the smelter and raw-material process could reduce 
+the CO2e emissions from 2.0 t of CO2e /t aluminum to 0.7 t of 
+CO2e/t aluminum (Exhibit 12).
+
+Carbochlorination with CO2 
+regeneration
+
+Carbochlorination with CO2 regeneration is an alternative to 
+the current aluminum smelting process.35 Alcoa developed 
+this process as a proposed alternative to the Hall-Héroult 
+process. One of the initial benefits was a significant reduction 
+
+in specific energy consumption (about eight MWh/t of Al), 
+and the electrolysis could be carried out in a lower electrolyte 
+temperature (about 720°C). 
+
+As proposed by Alcoa, the process includes the chlorination 
+of aluminum oxide (alumina) obtained in the Bayer process, 
+using CO as a reducing agent and chlorine gas (Cl2) as a 
+chlorination agent. The resulting aluminum chloride (AlCl3) is 
+then electrolyzed using a bipolar cell. The advantage of this 
+process over the conventional Hall-Héroult process is that 
+the aluminum chloride electrolysis produces a pure stream 
+of Cl2 that can be recycled back into the chlorination process, 
+while the chlorination process produces a pure stream of CO2 
+that could potentially be combined with CCS. The industry is 
+also exploring the alternative of CO regeneration, which could 
+reduce the use of CO (mostly generated by conventional sub-
+stoichiometry combustion). This would be through a closed-
+loop circuit that would electrolyze the generated CO2 and 
+
+PAGE 25
+
+Aluminum Decarbonization at a Cost That Makes SenseImplementation of carbon capture and storage technology could 
+reduce smelter CO2 emissions by more than 60 percent.
+
+EXHIBIT 12
+
+CO2e reduction in aluminum (Al) smelters with CCS,
+metric ton CO2e per ton Al 
+
+CO2
+
+PFC1 and BAT2 
+
+Petcoke calcination
+
+Anode process CO2
+
+Anode thermal energy
+
+∆ Levelized cost, $ per 
+metric ton Al
+
+$120–300
+
+ $15–30 
+
+$5–10 
+
+N/A4
+
+$140–340 
+
+–1.00
+
+1.00
+
+2.05
+
+1.50
+
+0.30
+
+–0.21
+0.21
+
+–0.07
+
+–0.10
+
+0.10
+
+Hall-Héroult
+(HH)
+
+HH with CCS
+
+CPC3 with 
+CCS
+
+Anode 
+baking with 
+CCS
+
+Anode baking 
+electriﬁcation
+
+0.05
+
+0.10
+
+–67%
+
+–0.67
+
+0.50
+
+Total
+
+0.05
+
+0.03
+
+0.09
+
+Note: Carbon capture and storage (CCS) efﬁciency considered at 70%; anode baking electriﬁcation CO2 reduction based on fuel energy savings and utilization of green energy.
+1 Perﬂuorocarbon.
+2 Best available technology. 
+3 Calcined petroleum coke.  
+4 Data not available; technology is still in the conceptual phase and being formulated for this application (technology readiness level [TRL] = 2).
+Source: “Electriﬁcation in primary aluminum,” Kanthal, October 27, 2020; Felix Keller et al., “Speciﬁc energy consumption in anode baking furnaces,” Light Metals, 2010; Olivier 
+Lassagne et al., “Techno-economic study of CO2 capture for aluminum primary production for different electrolytic cell ventilation rates,” Chemical Engineering Journal, 2013, Volume 
+230
+
+convert it back into CO. The process could add extra energy 
+consumption of five MWh/t Al. 
+
+could potentially add about 5 percent of the initial capital cost of 
+the project. 
+
+Although this process has been studied for a long time, project 
+development is stalled because of difficulties associated 
+with production and handling of pure aluminum trichloride. 
+Aluminum players are still considering the benefits, with 
+potential deployment of pilot operations by 2030 and an 
+industrial-scale plant in the midterm. 
+
+Decarbonization capital expenditures
+
+Capital expenditures for the Hall-Héroult process range from 
+$2,100/t Al capacity (mostly in China) to $6,000/t Al capacity 
+(mostly in Canada and Norway).36 Approximately 50 percent 
+of this cost is associated with the area where the pots are 
+installed, pot technology, and the anode production facility 
+(Exhibit 13).
+
+Retrofitting existing Hall-Héroult smelters with CCS technology, 
+taking into account a CO2 concentration of 1 volume percent, 
+
+The implementation of inert-anode technology could come 
+at a similar capital cost to conventional smelter technology. 
+Compared with Hall-Héroult technology, inert-anode projects 
+have higher potroom costs, mostly associated with technology 
+differences. Inert anodes would be produced in a centralized 
+facility owned by the technology provider. Therefore, facilities 
+will not require on-site anode production, and smelters will need 
+to purchase the inert anodes to replace anodes that are near 
+the end of life (two to three years). Given that the technology 
+provider will own the technology and the intellectual property, 
+capital expenditures will not vary significantly across regions. 
+
+Decarbonization operating 
+expenditures
+
+In 2021, the average operating cost of aluminum smelters 
+worldwide was calculated to be between $1,654 and $1,750 per 
+metric ton of aluminum,37 with more than 88 percent of the cost 
+
+PAGE 26
+
+Aluminum Decarbonization at a Cost That Makes Senseassociated with raw materials (44 percent), electricity38 (30 
+percent), and anode production and consumption (14 percent) 
+(Exhibit 14).
+
+The implementation of CCS in existing smelter facilities could 
+potentially lift overall operating costs by 6 percent, with most 
+of the share (about 5.6 percent) associated with CCS operating 
+costs and the balance with CCS energy consumption over Hall-
+Héroult cost.
+
+Inert-anode technology, on the other hand, shows an operating 
+cost reduction of 3–10 percent. Although energy consumption 
+could be 20 percent higher than with Hall-Héroult, the longer 
+life of the anode or cathode has a cost benefit. This wide range 
+is associated with the implementation of the technology and 
+the respective technology learning curve, with the first years of 
+operation having the lowest cost benefit compared with existing 
+smelting technology. This would rapidly increase during the first 
+years of operation while the industry implements commercial 
+improvements and best practices. This learning curve is 
+expected to be rapid (one to two years) because of extensive 
+pilot testing in the past decade. In order to be cheaper than 
+existing Hall-Héroult technology, inert anodes will likely need 
+to have a life span or two years or more, and cathodes will likely 
+need to work for four years or more.
+
+Refining: The Bayer process
+
+The Bayer process can be separated into two main carbon 
+intensive processes: digestion and calcination.
+
+Digestion operating expenditures and capital 
+expenditures
+
+Decarbonization levels in refinery digestion plays an important 
+role but requires extra investment for retrofitting of existing 
+
+facilities. In this comparison, a natural-gas boiler was utilized 
+as the baseline “best available technology.” The natural-gas 
+boiler assumes overall capital expenditures of $50 per metric 
+ton of alumina (Aa) and operating expenditure cost of $63/t Aa, 
+mostly associated with fuel costs (Exhibit 15). 
+
+An electric boiler could incur an additional capital-project cost 
+of 10 percent, while operating costs associated with electricity 
+sourcing could rise by 35 percent (assuming an electricity price 
+of $37/MWh). Hydrogen-fired boiler prices could incur a similar 
+capital expenditure as natural-gas boilers, but operating costs 
+would be highly dependent on hydrogen prices and increase 
+fuel cost about 4.3 times over existing natural-gas operations.39 
+
+Implementation of MVR technology shows the most reduction 
+in operating costs—approximately 40 percent. This is mostly 
+associated with heat loss recovery from the process. Despite 
+the reduction in operating costs, the technology incurs higher 
+capital expenditures with an increment of about 50 percent 
+compared with natural-gas boilers. 
+
+Calcination operating expenditure and capital 
+expenditure
+
+The implementation of a green-hydrogen-based calciner 
+could have the best decarbonization potential for calcination 
+under a gas suspension technology baseline, considering that 
+existing installed technologies could be quickly retrofitted for 
+hydrogen firing. 
+
+Carbon capture could be an alternative solution when sourcing 
+green hydrogen is difficult (for example, due to a remote 
+location with no access to renewable energy). This technology 
+could require an additional $42/t Aa of capital investment and 
+would increase operating expenditures by $50/t Aa (Exhibit 16). 
+
+PAGE 27
+
+Aluminum Decarbonization at a Cost That Makes SenseInert-anode technology can be retroﬁtted, but it still demands a 
+signiﬁcant retroﬁt cost.
+
+EXHIBIT 13
+
+Capital expenditure,
+$ / t Al
+
+Hall-Héroult (HH)
+
+HH with carbon 
+capture and storage
+
+Inert anode
+
+Delta versus HH explained
+
+Potrooms
+
+2,500
+
+3,000
+
+Use vertical inert-anode cells 
+conﬁguration
+
+Anode rodding
+
+Casthouse
+
+Material handling
+
+500
+
+225
+
+200
+
+Utility and SVC system
+
+700
+
+Nonprocess facilities
+
+Site construction
+
+Indirect cost
+
+Contingency
+
+CCS plant
+
+Chlorination plant with
+CO2 regeneration electrolysis
+
+200
+
+450
+
+650
+
+575
+
+-
+
+-
+
+277
+
+-
+
+225
+
+213
+
+700
+
+200
+
+438
+
+650
+
+575
+
+-
+
+-
+
+No need; inert-anode to be 
+purchased on the market
+
+Equal to HH
+
+Equal to HH
+
+Equal to HH
+
+Equal to HH
+
+~Equal to HH
+
+Equal to HH
+
+Equal to HH
+
+N/A
+
+N/A
+
+Greenﬁeld
+
+6,000 
+
+6,0001
+
+Similar to HH
+
+Retroﬁt cell
+
+277
+
+3,0002
+
+New potrooms, only leveraging 
+pothole
+
+1 Path to net zero report 2021, En+ Group.
+2 Starting from AP30 smelter technology.
+Source: “Modular primary aluminium plant based on beck cells with multiple vertical inert anodes and wettable inert cathodes,” Arctus Metals, April 5, 2017; Asbjørn Solheim, 
+“Carbochlorination routes in production of Al,” HighEFF, February 28, 2018; Asbjørn Solheim, “Inert anodes—the blind alley to environmental friendliness?,” Light Metals, 2018; 
+Efthymios Balomenos et al., “Carbothermic reduction of alumina: A review of developed processes and novel concepts,” Proceedings of the European Metallurgical Conference, 2011; 
+International Aluminium Institute; Jeff Keniry, “The economics of inert anodes and wettable cathodes for aluminium reduction cells,” Journal of the Minerals, Metals & Materials Society, 
+2001, Volume 53; Mazin Obaidat et al., “Energy and exergy analyses of different aluminum reduction technologies,” Sustainability, 2018, Volume 10, Number 4; Olivier Lassagne et al., 
+“Techno-economic study of CO2 capture for aluminum primary production for different electrolytic cell ventilation rates,” Chemical Engineering Journal, 2013, Volume 230; Vetchinkina 
+Tatiana Nikolaevna, Balmaev Boris Grigorievich, and Tuzhilin Aleksey Sergeevich, “Prospects of chlorine method of aluminium production in modern conditions,” KnE Materials Science, 
+2020, Volume 6, Number 1
+
+PAGE 28
+
+Aluminum Decarbonization at a Cost That Makes SenseThe operating expenses of smelting technologies depend on 
+electricity prices.
+
+EXHIBIT 14
+
+Operating expenses
+
+Unit
+
+Hall-Héroult (HH)
+
+HH with carbon 
+capture and storage
+
+Inert anode
+
+Delta inert anode vs HH
+
+Raw material
+
+$ / t Al
+
+756
+
+756
+
+756
+
+Equal to HH
+
+Electricity ($37/MWh)
+
+$ / t Al
+
+456–5941
+
+456–5941
+
+519–615
+
+Up to 20% increase2
+
+Carbochlorination
+
+$ / t Al
+
+-
+
+Anode
+
+$ / t Al
+
+240
+
+Aluminum ﬂuoride
+
+$ / t Al
+
+Labor
+
+Cell rebuild
+
+Maintenance
+
+Other
+
+CO2-handling operating 
+expenditures
+
+$ / t Al
+
+$ / t Al
+
+$ / t Al
+
+$ / t Al
+
+$ / t Al
+
+CO2-handling electricity
+
+$ / t Al
+
+23
+
+78
+
+28
+
+35
+
+38
+
+-
+
+-
+
+-
+
+240
+
+23
+
+78
+
+28
+
+35
+
+38
+
+96
+
+8
+
+-
+
+96
+
+23
+
+66
+
+28
+
+35
+
+38
+
+-
+
+-
+
+Longer duration (36–48 months 
+versus 1 month), 14x cost3
+
+Equal to HH
+
+15% savings due to longer life of 
+anodes (2 years vs 1 month)
+
+Equal to HH
+
+Equal to HH
+
+Equal to HH
+
+Total operating expenses
+
+$ / t Al
+
+ 1,654–1,792 
+
+ 1,815 +6% of HH2
+
+ 1,562–1,657
+
+–3% to –10% of HH2
+
+Electricity operating 
+expenses share
+
+%
+
+28–33%
+
+29%
+
+ 33–37% 
+
+1 Considers a range between 12.3 and 16 kWh/kg Al, according to McKinsey database.  
+2 Compared against industry average HH speciﬁc energy consumption of 13.8 kWh/kg Al, resulting in an overall operating expense of $1,710/t Al.
+3 Based on ceramic inert anode and includes cathode price; cost = 96 x 3 years x 12 months / 240. 
+Source: “Modular primary aluminium plant based on beck cells with multiple vertical inert anodes and wettable inert cathodes,” Arctus Metals, April 5, 2017; Asbjørn Solheim, 
+“Carbochlorination routes in production of Al,” HighEFF, February 28, 2018; Asbjørn Solheim, “Inert anodes—the blind alley to environmental friendliness?,” Light Metals, 2018; 
+Efthymios Balomenos et al., “Carbothermic reduction of alumina: A review of developed processes and novel concepts,” Proceedings of the European Metallurgical Conference, 2011; 
+International Aluminium Institute; Jeff Keniry, “The economics of inert anodes and wettable cathodes for aluminium reduction cells,” Journal of the Minerals, Metals & Materials Society, 
+2001, Volume 53; Mazin Obaidat et al., “Energy and exergy analyses of different aluminum reduction technologies,” Sustainability, 2018, Volume 10, Number 4; Olivier Lassagne et al., 
+“Techno-economic study of CO2 capture for aluminum primary production for different electrolytic cell ventilation rates,” Chemical Engineering Journal, 2013, Volume 230; Vetchinkina 
+Tatiana Nikolaevna, Balmaev Boris Grigorievich, and Tuzhilin Aleksey Sergeevich, “Prospects of chlorine method of aluminium production in modern conditions,” KnE Materials Science, 
+2020, Volume 6, Number 1
+
+PAGE 29
+
+Aluminum Decarbonization at a Cost That Makes SenseElectric or hydrogen-ﬁred boilers may eliminate CO2e emissions 
+associated with digestion.
+
+EXHIBIT 15
+
+Units
+
+Natural-gas (NG) boiler
+
+Electric boiler
+
+H2-ﬁred boiler
+
+Natural gas
+
+Green electricity
+
+Green hydrogen
+
+NG boiler with 
+mechanical vapor
+recompression
+
+Natural gas and �green 
+electricity
+
+COP1 3
+
+8.02
+
+123
+
+2.53
+
+-
+
+0.05 (95% reduction)
+
+75–200
+
+22
+
+Type of fuel
+
+Boiler 
+efﬁciency
+
+%
+
+Thermal input 
+required
+
+Gigajoules (GJ)/t 
+alumina (Aa)
+
+85
+
+8.02
+
+-Natural-gas 
+requirement
+
+Cubic meters/t Aa
+
+232
+
+-Electricity 
+requirement
+
+GJ/t Aa
+
+-Hydrogen 
+requirement
+
+kg/t Aa
+
+-
+
+-
+
+CO2 produced
+
+t CO2/t aluminum
+
+0.94
+
+Capital 
+expenditure
+
+$/t Aa
+
+50
+
+98
+
+8.02
+
+-
+
+8.2
+
+-
+
+-
+
+55
+
+94
+
+8.02
+
+-
+
+-
+
+604
+
+-
+
+505
+
+Operational 
+expenses
+
+$/t Aa
+
+Fuel costs
+
+Electricity costs
+
+636
+
+857
+
+2708
+
+TRL
+
+9
+
+6
+
+5
+
+5
+
+1 Coefﬁcient of performance (COP) = heat provided; work required.  
+2 Based on thermal input required for low-temperature digestion. 
+3 Based on assumption of COP 3 and CO2 emissions reduction of 95 percent.  
+4 Based on hydrogen heat content of 141.7 megajoules/kg. 
+5 There may be additional capital expenditures for hydrogen transportation as new piping is required.
+6 Based on 2020 natural-gas price of $6.68/GJ.  
+7 Based on US 2020 electricity price of $37/MWh, and assuming 3.6 GJ/MWh. 
+8 Based on 2022 green-hydrogen price of $4.93/kg.
+Source: FLSmidth; Metso Outotec; James H. Williams et al., “Carbon-neutral pathways for the United States,” AGU Advances, 2021, Volume 2, Number 1
+
+PAGE 30
+
+Aluminum Decarbonization at a Cost That Makes SenseDecarbonization of calcination technologies may be achieved 
+through a hydrogen-based calciner.
+
+EXHIBIT 16
+
+Units
+
+Natural gas
+
+H2-based calciner�+ 
+electrolysis1
+
+Natural gas + carbon 
+capture and storage
+
+Thermal input 
+required2
+
+Gigajoules (GJ)/t 
+Alumina (Aa)
+
+2.8
+
+Natural gas 
+requirement
+
+Electricity 
+requirement
+
+Hydrogen 
+requirement
+
+Cubic meters/t Aa
+
+643
+
+GJ/t Aa
+
+kg/t Aa
+
+-
+
+-
+
+CO2 produced
+
+t CO2/t aluminum
+
+0.26
+
+Capital expenditure
+
+$/t Aa
+
+Operating 
+expenditure: fuel 
+costs7
+
+Operating 
+expenditure:�
+electricity costs7
+
+TRL
+
+$/t Aa
+
+$/t Aa
+
+33
+
+17
+
+-
+
+9
+
+2.8
+
+-
+
+3.64
+
+203
+
+-
+
+2.8
+
+643
+
+-
+
+-
+
+0.078
+
+Electrolysis H2 975
+H2-based calciner 37
+
+75 (assuming transport 
+and storage)6
+
+Procured H2 918
+
+17 + 50 (CCS)
+
+Produced H2 489
+
+5
+
+-
+
+8
+
+1 Based on combustion of hydrogen with pure oxygen produced from electrolysis, assuming coastal region and availability of green electricity. 
+2 Based on typical circulating-ﬂuidized-bed (CFB) performance. 
+3 Based on 100% thermal efﬁciency. 
+4 Based on electrolysis power requirement of 50 kWh/kg H2. 
+5 Based on $650/kW electrolyzer capital expenditure cost. 
+6 Assuming $125/t of CO2 of capture capital expenditure and $125/t of CO2 of storage and transport translating into $75/t Aa. 
+7 Based on procured hydrogen price of $4.93/kg delivered. 
+8 Based on US 2020 electricity price of $37/MWh, and assuming 3.6 GJ/MWh. 
+9 Technology readiness level. 
+Source: “Combustion of fuels - carbon dioxide emission,” Engineering Toolbox, accessed February 2022; “Green hydrogen cost reduction,” IRENA, 2020.
+
+PAGE 31
+
+Aluminum Decarbonization at a Cost That Makes SenseModel key inputs.
+
+There are three main types of inputs that inform the model: refinery, smelter, and financial. 
+
+Main inputs
+
+Refinery overall inputs
+
+•  Nominal refinery capacity
+•  Refinery utilization rate
+• 
+•  Construction duration (in months)
+
+Investment scenario plant type (greenfield or brownfield) 
+
+Digestion-specific inputs
+
+ ◦ Digestion type (low temperature, high temperature, and ultrahigh temperature)
+ ◦ Steam generation type (natural-gas boiler, electric boiler, hydrogen boiler, natural-gas boiler with mechanical 
+
+vapor recompression)
+
+ ◦ Amount of steam generated
+
+Calcination-specific inputs
+
+Investment scenario (greenfield vs brownfield)
+
+ ◦
+ ◦ Calcination firing fuel (natural gas, natural gas retrofitted with carbon capture and storage [CCS], or hydrogen)
+ ◦ Type of calciner (circulating-fluid bed, flash calciner, fluid flash, rotary kilns) 
+ ◦ Calcination thermal energy input
+
+Smelter overall inputs
+
+Smelter-specific inputs
+
+ ◦ Type of smelter (Hall-Héroult, Hall-Héroult with CCS on smelter, Hall-Héroult with CCS on anode baking furnace, 
+
+Hall-Héroult with CCS on petcoke calcination, inert anode, and carbochlorination with CO2 regeneration)
+
+ ◦ Nominal smelter capacity
+ ◦ Smelter utilization rate
+ ◦
+ ◦ Construction duration (in months)
+ ◦ Smelter energy intensity
+
+Investment scenario smelter type (greenfield or brownfield) 
+
+Power-specific inputs
+
+ ◦ Captive, noncaptive electricity source (virtual power purchasing agreement [VPPA])
+ ◦ Heat loss management installation allowing for energy cost savings
+ ◦ Type of electricity source (coal, natural gas, coal + CCS, natural gas + CCS, hydropower, small modular nuclear 
+
+reactor, 100 percent renewables + long-duration energy storage [LDES])
+
+ ◦ Electricity price
+
+Financial inputs
+
+•  Discount factor
+•  Debt as share of total capital
+•  Debt or loan tenure
+• 
+
+Interest rate
+
+PAGE 32
+
+Aluminum Decarbonization at a Cost That Makes SenseENDNOTES
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Making net-zero aluminum possible: An industry-backed 
+1.5°C-aligned transition strategy, Mission Possible 
+Partnership, September 2022.
+
+ Ibid.
+
+ “Apple’s $4.7B in Green Bonds support innovative green 
+technology,” Apple, March 24, 2022.
+
+Climate Bonds Initiative home page, accessed October 7, 
+2022.
+
+17 
+
+18 
+
+19 
+
+“Apple to use ELYSIS zero-carbon aluminum for the latest 
+iPhone SE,” Alcoa, March 24, 2022. 
+
+In most scenarios, the analysis considers the impact of a 
+starting carbon price of $60/t CO2e, growing 0.5 percent 
+per year.
+
+These are illustrative and will change significantly for 
+different investment options and site-specific utility 
+prices. However, across all investment options, green 
+premiums and carbon prices typically have the greatest 
+impact.
+
+“Sustainability-linked loan principles (SLLP),” Loan 
+Syndications & Trading Association, March 31, 2022.
+
+20  CDP Worldwide.
+
+The Poseidon Principles were created in 2019 by 11 
+leading banks.
+
+“Societe Generale, founding member of the working group 
+aiming at tackling aluminum decarbonization,” Societe 
+Generale, June 21, 2022.
+
+“Currency converter,” Exchange-Rates.org, accessed 
+October 7, 2022.
+
+21  Making net-zero aluminum possible, September 2022.
+
+22  Assuming average car cost of $40,000 using 150 
+
+kg of aluminum today (“Automotive and transport,” 
+European Aluminium, accessed September 29, 2022) 
+and 35 percent flat-rolled and extrusion products where 
+green premium would apply (“Aluminum continues 
+unprecedented growth in automotive applications,” 
+DuckerFrontier, October 20, 2020).
+
+Brian Taylor, “ArcelorMittal gets government backing for 
+Canadian EAF switch,” Recycling Today, February 16, 2022.
+
+23  Making net-zero aluminium possible, September 2022.
+
+10 
+
+Ibid.
+
+11 
+
+12 
+
+“Carbon free aluminium smelting a step closer: ELYSIS 
+advances commercial demonstration and operates at 
+industrial scale,” Rio Tinto, November 4, 2021.
+
+“Alcoa receives funding to pilot carbon-reduction 
+technology for alumina refining, supporting Refinery of 
+the Future initiative,” Alcoa, May 3, 2022.
+
+13  Benjamin Wehrmann, “Carbon Contracts for Difference 
+
+could kickstart German industry decarbonisation – think 
+tank,” Clean Energy Wire, February 7, 2022.
+
+14 
+
+“Government hits accelerator on low-cost renewable 
+power,” GOV.UK, February 9, 2022. 
+
+15  Carrie Bone, Imogen Dudman, and Alice Mason, “Key 
+
+talking points ahead of Fastmarkets’ International 
+Aluminium Conference,” Fastmarkets, August 30, 2022; 
+expert interviews. 
+
+16 
+
+“Apple announces the new iPhone SE: a powerful 
+smartphone in an iconic design,” Apple, March 8, 2022.
+
+24 
+
+“Greenhouse gas emissions,” International Aluminum 
+Institute, October 4, 2021.
+
+25 
+
+Ibid.
+
+26  Mohammed Al Qassemi and Khalil Khaji, “The role 
+
+of anode manufacturing processes in net carbon 
+consumption,” Metals, May 2016, Volume 6, Number 6.
+
+27  Vikram Bakshi et al., “Perfluorocarbon (PFC) generation 
+
+during primary aluminium production,” Light Metals, 2000.
+
+28 
+
+“Greenhouse gas emissions,” October 4, 2021.
+
+29 
+
+Inert anode roadmap, Aluminum Association, February 
+1998.
+
+30  Halvor Kvande, “How to minimize the carbon footprint 
+
+from aluminium smelters,” 7th International Conference 
+on Electrodes for Primary Aluminium Smelters, Reykjavik, 
+Iceland, April 25–27, 2017.
+
+31  #SINTEFblog, “Is aluminium electrolysis using inert 
+
+anodes a blind alley?,” blog entry by Asbjørn Solheim, 
+April 24, 2019.
+
+PAGE 33
+
+Aluminum Decarbonization at a Cost That Makes Sense32 
+
+“Carbon capture, utilisation and storage,” IEA, accessed 
+October 7, 2022.
+
+33  Anette Mathisen et al., “Cost optimized CO2 capture from 
+aluminium production,” Energy Procedia, 2014, Volume 51. 
+
+34  A portion of the industry uses heat recovery units, but not 
+
+all kilns have this feature.
+
+35 
+
+“Capital Markets Day 2021,” Hydro, accessed October 7, 
+2022.
+
+36  MineSpans by McKinsey.
+
+37 
+
+Ibid.
+
+38  Considers an electricity price average of $37/MWh.
+
+39  Using a 2022 green-hydrogen price of $4.93/kg.
+
+PAGE 34
+
+Aluminum Decarbonization at a Cost That Makes SenseThe Mission Possible Partnership is an alliance of climate leaders focused on supercharging efforts  
+to decarbonize some of the world’s highest-emitting industries in the next ten years.
+
+© COPYRIGHT 2023 MISSION POSSIBLE PARTNERSHIP
+
+

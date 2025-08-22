@@ -1,0 +1,4585 @@
+A microscope on 
+small businesses
+
+Spotting opportunities to boost productivity
+
+Authors 
+Anu Madgavkar
+Marco Piccitto
+Olivia White
+María Jesús Ramirez
+Jan Mischke
+Kanmani Chockalingam
+
+Editor
+Janet Bush
+
+May 2024
+
+Confidential and proprietary. 
+Any use of this material without 
+specific permission of McKinsey 
+& Company is strictly prohibited.
+
+Copyright © 2024 McKinsey & Company.  
+All rights reserved.
+Cover image © Luca Sage/Getty Images
+
+McKinsey Global Institute
+
+The McKinsey Global Institute was established in 1990. Our mission is to provide a fact base to 
+aid decision making on the economic and business issues most critical to the world’s companies 
+and policy leaders. We benefit from the full range of McKinsey’s regional, sectoral, and functional 
+knowledge, skills, and expertise, but editorial direction and decisions are solely the responsibility 
+of MGI directors and partners.
+
+Our research is currently grouped into five major themes:
+
+ — Productivity and prosperity: Creating and harnessing the world’s assets most productively
+
+ — Resources of the world: Building, powering, and feeding the world sustainably
+
+ — Human potential: Maximizing and achieving the potential of human talent
+
+ — Global connections: Exploring how flows of goods, services, people, capital, and ideas  
+
+shape economies
+
+ — Technologies and markets of the future: Discussing the next big arenas of value  
+
+and competition
+
+We aim for independent and fact-based research. None of our work is commissioned or funded 
+by any business, government, or other institution; we share our results publicly free of charge; 
+and we are entirely funded by the partners of McKinsey. While we engage multiple distinguished 
+external advisers to contribute to our work, the analyses presented in our publications are MGI’s 
+alone, and any errors are our own.
+
+You can find out more about MGI and our research at www.mckinsey.com/mgi.
+
+MGI Directors 
+
+Sven Smit (chair) 
+Chris Bradley 
+Kweilin Ellingrud 
+Sylvain Johansson
+Olivia White 
+Lola Woetzel
+
+MGI Partners 
+
+Michael Chui 
+Mekala Krishnan 
+Anu Madgavkar 
+Jan Mischke 
+Jeongmin Seong 
+Tilman Tacke
+
+Contents
+
+At a glance 
+
+Introduction 
+
+1. Small businesses power the economies of today and tomorrow 
+
+2. Boosting MSME productivity could yield significant value 
+
+3. Looking through a microscope to fill the gaps 
+
+4. Creating value through networks and interactions 
+
+5. Seven examples of win-win domains 
+
+6. Delivering a win-win future 
+
+Acknowledgments 
+
+Endnotes 
+
+iv
+
+2
+
+6
+
+13
+
+23
+
+29
+
+34
+
+40
+
+45
+
+47
+
+© filadendron/Getty Images
+
+Bicycle mechanic 
+focuses on a detail 
+while working on a  
+customer’s bicycle
+
+At a glance 
+
+ — Micro-, small, and medium-size enterprises (MSMEs) form the backbone of economies. 
+Across the 16 countries we examine, MSMEs account for two-thirds of business employment 
+in advanced economies—and almost four-fifths in emerging economies—as well as half 
+of all value added. They also power dynamism and will play an important role in preserving 
+competitiveness in an era of shifting global production.
+
+ — Boosting MSME productivity relative to large companies could yield significant value. 
+Small business productivity is only half that of large companies, and less in emerging 
+economies. Raising MSMEs to top-quartile levels relative to large companies is equivalent  
+to 5 percent of GDP in advanced economies and 10 percent in emerging economies.
+
+ — Capturing this value requires a fine-grained view. Relative productivity of MSMEs and 
+large companies varies widely across subsector and country. For example, in virtually all 
+countries, eight subsectors out of 24 drive more than 60 percent of the value of narrowing 
+the productivity gap in manufacturing, but the top ones vary by country.
+
+ — A win-win economic fabric can improve productivity for both MSMEs and large 
+
+enterprises. MSME and large company productivity move in tandem in most subsectors, 
+indicating spillovers if the right conditions are created. For example, automotive MSMEs 
+have gained operational proficiency through systematic interactions with productive original 
+equipment manufacturers, and small software developers have benefited from talent and 
+capital ecosystems seeded by larger companies.
+
+ — All stakeholders have a role to play in developing granular productivity strategies. 
+In subsectors where both small and large companies lag, infrastructure and policy 
+improvements can target both together. Where MSMEs struggle but large enterprises 
+outperform, building networks among them helps. Even where both large and small 
+companies do well, strengthening their interactions could boost productivity.
+
+iv
+
+A microscope on small businesses© Symphonie/Getty Images
+
+Man sewing carpets 
+in a market shop in 
+Marrakesh, Morocco
+
+Introduction
+
+Micro-, small, and medium-size enterprises (MSMEs) are the lifeblood of economies around the 
+world. They account for more than 90 percent of all businesses, roughly half of value added, and 
+more than two-thirds of business employment.1
+
+But small businesses lag behind large companies on productivity. On average, their labor 
+productivity, or value added per worker, is half that of their larger peers. Accelerating productivity 
+growth has always been the sure way to deliver long-term prosperity, and MSMEs can—must—
+play a crucial role. Their contribution is potentially even more important amid the beginnings of a 
+reconfiguration of global trade patterns.2 Such shifts are unlikely to translate into a meaningful 
+long-term realignment without a competitive network of MSMEs supporting and complementing 
+large companies. 
+
+If MSMEs were to narrow the productivity gap with large companies, not only could that 
+breathe new life into economy-wide productivity, employment, and growth, but economies and 
+companies could raise their resilience in an uncertain world. The question is how. 
+
+Only by studying MSMEs at the fine-grained level can we understand where and why 
+opportunities exist and plot a path toward higher productivity for all. After all, MSMEs are 
+immensely varied. They range from a self-employed individual, such as a taxi driver or an online 
+game designer; to a microenterprise with one to nine employees, like a laundry or a dental 
+practice; to a small enterprise with up to 50 employees, such as a bakery or local auto repair 
+chain; to a medium-size furniture manufacturing company or software business employing up to 
+250 people. 
+
+In this research, the McKinsey Global Institute (MGI) has aggregated a richly granular data set 
+of MSME productivity across sectors and subsectors for 16 countries with different income 
+levels accounting for more than 50 percent of global GDP. In this group (listed by per capita 
+GDP in 2021 in purchasing power parity terms) are ten advanced economies: the United States, 
+Germany, Australia, the United Kingdom, Italy, Israel, Japan, Spain, Poland, and Portugal; and six 
+emerging economies: Mexico, Brazil, Indonesia, India, Nigeria, and Kenya.3 At the sector level, 
+in the manufacturing sector, for instance, our data cover 24 level-two subsectors and 95 level-
+three subsectors.4 This enables us to explore the details of businesses that are highly diverse in 
+size, economic context, degree of formalization, and, especially, the nature of economic activity 
+in which they engage (see sidebar “Definitions, scope, and data limitations”). Most previous 
+external analysis has tended to study MSMEs in a single country or has compared productivity 
+among countries within a particular sector.5
+
+This research focuses on the variation in MSME productivity relative to large companies across 
+sectors, subsectors, and countries, enabled by our rich data set. We use this microscopic, 
+but cross-country, lens to spot potential value and identify how MSMEs can work with other 
+companies in specific business contexts to capture it. 
+
+2
+
+A microscope on small businessesDefinitions, scope, and data limitations
+
+The data collected for this research are 
+arguably deeper and broader than those 
+collated in the past. Here we present 
+an overview of our approach. (See the 
+technical appendix for more detail on the 
+data sources and analysis undertaken in 
+this research.)
+
+Types of MSMEs studied. We examine 
+a diverse array of MSMEs, from self-
+employed workers and entrepreneurs 
+to mom-and-pop shops and small 
+family businesses, across 16 countries. 
+One notable exception is smallholder 
+farmers, most of whom can be considered 
+small business owners and constitute 
+a substantial portion of the workforce, 
+particularly in emerging economies. For 
+example, in 2022, the agriculture sector 
+employed 29 percent of the workforce in 
+Indonesia, 33 percent in Kenya, 38 percent 
+in Nigeria, and 43 percent in India. In 
+this research, we focus on the nonfarm 
+sector and do not examine agricultural 
+productivity, which has its own unique 
+dynamics, meriting a separate study. 
+
+MSME size category definitions. 
+Enterprise sizes are typically defined by 
+the number of persons employed. We take 
+each country’s national definition of micro-, 
+small, and medium-size enterprises. For 
+example, for European economies in our 
+sample, we used the OECD’s definition 
+of MSMEs. The OECD thresholds are as 
+follows: microenterprises employ nine 
+people or fewer, small enterprises employ 
+between ten and 49 people, medium-size 
+companies between 50 and 249, and 
+large companies 250 or more. However, 
+definitions of enterprise sizes may vary 
+by country. For example, in the United 
+States, large companies are defined as 
+
+having  500 or more employees. Indonesia 
+and Kenya define businesses with 100 or 
+more employees as large, and Nigeria sets 
+the threshold at 200. India and Indonesia 
+define MSMEs based on their revenue and 
+their investment in plant and equipment 
+as well as employment. While this makes 
+cross-country comparisons inexact, it 
+enables us to use reported data more 
+directly and to limit assumptions. 
+
+Scope of data. We gathered data on 
+value added and employment by sector 
+(classified based on economic activity) 
+across corporate size classes (micro, 
+small, medium, and large) from country-
+level economic and business censuses, 
+MSME and labor surveys, and aggregated 
+databases, such as those of Eurostat, 
+OECD, ILOSTAT, and S&P Global Market 
+Intelligence. Typically, we use 2019 data 
+to exclude potential distortions due to 
+the COVID-19 pandemic. However, for 
+availability reasons, the dates used range 
+from 2016 to 2019 across countries.1
+
+Level of aggregation. We aggregated data 
+at the level of 12 level-one sectors (for 
+example, manufacturing) and 68 level-two 
+subsectors (for example, manufacturing of 
+textiles within the manufacturing sector), 
+as defined by the International Standard 
+Industrial Classification of All Economic 
+Activities (ISIC), Revision 4 or equivalent. 
+For the United States, Brazil, Mexico, and 
+the European economies in our sample, 
+we also collected data for 219 level-three 
+subsectors (for example, manufacturing 
+of carpets and rugs within manufacturing 
+of textiles). The 12 level-one sectors are 
+mining and quarrying; manufacturing; 
+electricity, gas, steam, and air conditioning 
+supply; water supply, sewerage, waste 
+
+management, and remediation activities; 
+construction; wholesale and retail 
+trade; transportation and storage; 
+accommodation and food services 
+activities; information and communications 
+technology (ICT); professional, scientific, 
+and technical activities; administrative 
+and support service activities; and other 
+service activities.2
+
+Sectoral data for some countries,  
+typically the emerging economies, are 
+not as granular as for the advanced 
+economies. For cross-country 
+comparisons, we used a combination 
+of data sources, including a sector 
+breakdown of employment from ILOSTAT, 
+and distinguished between MSMEs and 
+large companies using national sources. 
+In some cases, we also conducted 
+comparisons at a less granular level by 
+grouping two or three level-two sectors. 
+
+Measuring productivity. Productivity is 
+a measure of output relative to input.3 In 
+macroeconomic terms, it is defined as the 
+value of the goods and services produced 
+divided by the amount of labor, capital, and 
+other resources required for its production. 
+For this report, we focus on labor 
+productivity, measured as value added 
+per worker (in US dollars at purchasing 
+power parity). While the more accurate 
+measure of labor productivity is value 
+added per hour worked—as the number of 
+weekly hours worked varies substantially 
+among countries, from 31 hours in 
+Australia in 2023 to roughly 46 hours in 
+India—we use the per worker metric as it 
+is more commonly available across size 
+categories by country. Due to the lack 
+of comprehensive data at the individual 
+company level for MSMEs, we rely on 
+
+1  To verify stability of the data, we examined data from 2009 and 2014 for some countries but did not collect complete longitudinal data due to the significant effort involved. 
+
+However, the topic of understanding trends in MSME productivity would be a valuable area for future research.
+
+2  We grouped two sectors—electricity, gas, steam, and air conditioning supply; and water supply, sewerage, waste management, and remediation activities—into one  
+
+sector: utilities.
+Investing in productivity, McKinsey Global Institute, March 2024.
+
+3 
+
+3
+
+A microscope on small businessesDefinitions, scope, and data limitations (continued)
+
+subsector-level average productivity to 
+make inferences.4
+
+Other important limitations. Our research 
+reflects the challenges of working with 
+significant constraints on data availability. 
+For all the countries in our sample, we 
+included data for both formal and informal 
+sectors, although we recognize that data 
+pertaining to the informal sector are 
+often less reliable. Beyond informality, 
+as consistent data were not always 
+available across countries, we had to 
+exclude certain sectors from our analysis. 
+Because of inconsistent data availability, 
+across countries we exclude financial 
+
+services; real estate; education; human 
+health and social work activities; arts and 
+entertainment; public administration and 
+defense; and activities of households 
+and extraterritorial organizations. These 
+sectors play a substantial role, particularly 
+in advanced economies where they 
+contribute 37 percent of value added, on 
+average, ranging from 26 percent in Poland 
+to 43 percent in the United States. As 
+noted, we also exclude agriculture despite 
+its significant contribution to the economy. 
+These exclusions imply that our findings 
+may not be entirely representative of the 
+entire economy and are limited to the 
+
+narrower “business” economy. Similarly, 
+from a country perspective, we do not 
+cover some major emerging economies, 
+such as China, and regions, such as the 
+Middle East and North Africa, due to 
+limited data availability. We also include 
+only a selected set of advanced economies 
+in our research. As such, we cannot 
+state definitively the degree to which our 
+conclusions are globally representative. 
+While we derive broad and generalized 
+implications for emerging and advanced 
+economies, these are directional only. 
+
+4  We focus on national- or sector-level productivity from a growth economics perspective. Organizational productivity research often studies issues related to attrition, 
+
+disengagement, skills mismatch, or time inefficiency. See, for example, Aaron De Smet, Marino Mugayar-Baldocchi, Angelika Reich, and Bill Schaninger, “Some employees 
+are destroying value. Others are building it. Do you know the difference?,” McKinsey Quarterly, September 2023.
+
+© Afriandi/Getty Images
+
+Industrial worker 
+in Indonesia
+
+1. Small businesses 
+power the economies of 
+today and tomorrow
+
+MSMEs are ubiquitous and play vital economic roles across countries, albeit with important 
+differences depending on whether they operate in an emerging or advanced economy. 
+
+MSMEs fuel economy-wide production and jobs
+
+MSMEs create enormous value for economies around the world. They account for roughly half 
+of global GDP. That share varies significantly among economies (Exhibit 1). In Portugal, Israel, 
+Indonesia, Italy, and Kenya (ordered by decreasing share of value added), the share is larger than 
+60 percent. In the United States, Nigeria, and India, it is less than 40 percent.
+
+They are also significant employers, accounting for roughly 40 percent of all employment 
+and 70 percent of employment in the business sector, which we define as excluding the farm, 
+government, and finance sectors. That share is as high as 96 percent in Kenya, where MSMEs 
+account for half of all employment. 
+
+The business sector plays a larger role in advanced economies. But within the business sector, 
+MSMEs have a greater impact in emerging economies, employing four-fifths of all workers, 
+compared with two-thirds in advanced economies.
+
+MSMEs create enormous value for 
+economies around the world.
+
+6
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 1
+Exhibit 1 of 16
+
+MSMEs generate the majority of jobs and roughly half of 
+total corporate value added.
+
+Advanced economies
+
+Emerging economies
+
+MSME share of value added in business sector,1 %
+
+MSME share of employment in business sector,1 %
+
+100
+
+80
+
+ 60
+
+ 40
+
+ 20
+
+Emerging 
+economies 
+average: 49%
+
+Advanced 
+economies 
+average: 54%
+
+Indonesia
+
+Portugal
+
+Israel
+
+Kenya
+
+Mexico
+
+Spain
+
+Italy
+
+Brazil
+
+Poland
+
+Japan
+
+Australia
+
+UK
+
+Germany
+
+US
+
+Nigeria
+
+India
+
+100
+
+80
+
+Kenya
+
+Indonesia
+
+Nigeria
+
+Mexico
+
+Portugal
+
+Spain
+
+Italy
+
+Israel
+
+Japan
+
+ 60
+
+India
+
+Brazil
+
+Poland
+
+Australia
+
+US
+
+Germany
+
+UK
+
+Advanced 
+economies 
+average: 66%
+
+Emerging 
+economies 
+average: 77%
+
+ 40
+
+ 20
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Per capita GDP, $ PPP, 2021
+
+Per capita GDP, $ PPP, 2021
+
+Emerging economies
+
+20
+
+14
+
+15
+
+Advanced economies
+
+18
+
+16
+
+20
+
+51
+
+46
+
+Emerging economies
+
+60
+
+11
+
+6
+
+23
+
+Advanced economies
+
+29
+
+19
+
+18
+
+34
+
+Microenterprises
+
+Small enterprises
+
+Medium-size enterprises
+
+Large companies
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s 
+national definition.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also 
+excludes additional sectors varying by country because data are not available: other service activities in Italy and Portugal; mining, water supply, sewerage and 
+waste management, construction, and other service activities in India; information and communications technology (ICT) and other service activities in Kenya; 
+administrative and support service activities and other service activities in Nigeria. Data for proportion of micro-, small, and medium-size enterprises for 
+emerging economies are sometimes available for a different year and are applied on the overall MSME proportions.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P Global 
+Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+MSMEs are also meaningful job creators.6 In advanced economies, one 2013 study suggested, 
+they contributed more than half of net job growth in businesses.7 In the United States, for 
+example, SMEs have accounted for two out of every three jobs added in the past 25 years.8 In 
+emerging economies, MSMEs created seven out of ten new formal jobs over the past decade.9
+
+MSMEs play a crucial role in production across sectors, but their contribution is more significant 
+in some (Exhibit 2). While there are differences among countries, MSMEs tend to contribute the 
+majority of the value added in four sectors—accommodation and food, construction, professional 
+services, and trade. Although they contribute only about 45 percent of value added in the 
+manufacturing sector, they are the second-largest contributor to small business value after the 
+trade sector. Across all sectors, MSMEs also employ at least half of all business workers.
+
+7
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 2
+Exhibit 2 of 16
+
+MSMEs operate in every sector, with varying economic contributions.
+
+MSME share of contribution in businesses,1 simple average across countries
+
+MSME contribution 
+to value added, %
+
+MSME contribution 
+to employment, %
+
+50% of MSME 
+contribution
+
+Advanced economies
+
+Emerging economies
+
+Trade 
+
+Manufacturing
+
+Construction
+
+Others2
+
+Professional services
+
+Transportation
+
+Accommodation 
+and food services
+
+60
+66
+
+44
+59
+
+81
+89
+
+43
+53
+
+72
+80
+
+48
+58
+
+74
+79
+
+ICT
+
+37
+55
+
+0
+
+Total sector 
+contribution 
+to the 
+business 
+economy, %
+
+66
+83
+
+44
+71
+
+37
+72
+
+33
+63
+
+52
+67
+
+85
+
+35
+
+51
+80
+
+67
+
+66
+
+10
+
+20
+
+30
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Total sector contribution to the business economy, % (gray bars)
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s 
+national definition.
+2Includes mining, utilities, administrative and support services, other service activities.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also 
+excludes additional sectors varying by country because data are not available: other service activities in Italy and Portugal; mining, water supply, sewerage and 
+waste management, construction, and other service activities in India; ICT and other service activities in Kenya; administrative and support service activities and 
+other service activities in Nigeria. Advanced economies include Australia, Germany, Israel, Italy, Japan, Poland, Portugal, Spain, UK, and US. Emerging 
+economies include Brazil, India, Indonesia, Kenya, Mexico, and Nigeria.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+MSMEs drive business dynamism
+Many MSMEs grow rapidly into large companies, adding to the vibrancy and dynamism of the 
+economies in which they operate. They promote innovation and competition among companies, 
+encouraging all businesses to continually improve their products, services, and processes, 
+which, in turn, can enhance overall economy-wide productivity and dynamism. 
+
+Many large companies of today were MSMEs not long ago. About one in five of today’s very large 
+companies—defined as having a market capitalization of more than $10 billion in the United 
+States and equivalent values in other economies—were MSMEs at some point after 2000 and 
+have since powered their way to large company status. 
+
+The share of scaled-up companies varies by country, indicating different levels of MSME 
+dynamism (Exhibit 3). Dynamic MSMEs can stimulate competition among businesses, driving 
+the entire system to become more innovative and efficient, ultimately resulting in increased 
+productivity.10 Yet overall, rising productivity—crucially, that of large companies—can create new 
+
+8
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 3 of 16
+Exhibit 3
+
+About one in five large companies scaled up from being MSMEs since 2000 
+but there is variation among countries.
+
+Share of scaled-up companies by country, share of 2022 large public companies that were MSMEs at 
+some point since 2000,1 %
+
+44
+
+42
+
+Advanced economies
+
+Emerging economies
+
+31
+
+30
+
+18
+
+17
+
+Average across countries 19%
+
+11
+
+11
+
+11
+
+10
+
+10
+
+5
+
+5
+
+Australia
+
+Israel
+
+Indonesia
+
+Poland
+
+UK
+
+US
+
+India
+
+Japan
+
+Brazil
+
+Germany
+
+Mexico
+
+Italy
+
+Spain
+
+1Large companies defined as top public companies above specific market capitalization thresholds defined by country (as of December 2022). Of these, all 
+companies that could be classified as MSMEs with <250 employees at any point after 2000 were considered to have scaled up into large companies by 2022. If 
+a company was founded after 2000 and became a large company by 2022, it is considered to have scaled up.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Four other 
+sectors are excluded from this specific analysis due to limited availability of company-level data: accommodation and food services, professional services, 
+administrative services, and other personal services. Sample size: 2,007 large companies, of which 1,619 are in 9 advanced economies and 388 are in 4 emerging 
+economies. Analysis excludes Kenya, Nigeria, and Portugal due to insufficient data availability.
+Source: S&P Capital IQ; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+market opportunities and build business capabilities for smaller enterprises, raising the rate of 
+scaling up. 
+
+Unique factors at the country level can contribute to dynamism. In Australia, high dynamism 
+reflects a resources boom that has expanded growth opportunities for small mining companies. 
+Israel, by contrast, has a small economy, but one of the most technologically advanced in the 
+world.11 Its dynamism is connected to entrepreneurial ecosystems, a high density of skilled 
+professionals, an ability to tap into global networks, and large-scale lending to MSMEs.12 Over 
+the past decade, growth in bank credit to SMEs in Israel was higher than to large businesses, at 
+61 percent versus 16 percent.13 In India, only about 10 percent of large companies in 2022 were 
+MSMEs at some point after 2000. Indeed, previous MGI research found that India has a “missing 
+middle” of mid-size companies.14 MSMEs have faced structural barriers, such as the high cost of 
+compliance and finance, that have tended to constrain their growth. 
+
+Researchers have found that high-growth businesses in advanced economies tend to be 
+younger and intangibles heavy. Enterprises that tend to rely on profits rather than external 
+financing to fund their growth are also more likely to scale up.15 Our analysis finds that in the 
+information and communications technology (ICT) and mining sectors, one in three enterprises 
+that are large today have grown from being MSMEs in the past two decades (Exhibit 4). These 
+sectors seem to experience a fast pace of innovation and technological disruption as well as 
+higher rates of investment.16
+
+9
+
+A microscope on small businessesMSMEs in the emerging economies in our sample seem to exhibit greater dynamism than in 
+advanced economies in core sectors like construction, utilities, and transportation. Investment 
+in physical infrastructure tends to rise faster in countries that are in the earlier stages of their 
+development. Where such sector growth opportunities have been captured, we see greater 
+business dynamism.
+
+Some emerging economies have powered national growth through the manufacturing and trade 
+sectors as well. In a similar analysis of companies founded after 1950, in China—not included in 
+our sample, as noted—the dynamism of the manufacturing and trade sectors is higher than in the 
+advanced economies on average. 
+
+MSMEs can boost national productivity while staying small or by  
+fueling larger companies
+
+In emerging economies, the MSMEs that are so vital to sustaining livelihoods are heavily skewed 
+toward microenterprises. In India, Kenya, and Nigeria, microenterprises employ more than 
+90 percent of MSME workers, of whom some 90 percent are self-employed own-account 
+workers and contributing family members. They face challenges of particularly low productivity.17
+
+As these emerging economies climb the income ladder, microenterprises may grow their revenue 
+and productivity, but most tend to stay small or medium size.18 As a result, MSMEs as a group 
+
+Web 2024
+MGI-MSME
+Exhibit 4 of 16
+Exhibit 4
+
+Mining and ICT companies scaled up more overall, while construction, utilities, 
+and transportation MSMEs were more dynamic in emerging economies.
+
+Share of scaled-up companies by country, share of 2022 large public companies that were MSMEs at 
+some point since 2000, %, simple average across countries1
+
+32
+
+31
+
+31
+
+25
+
+23
+
+20
+
+26
+
+15
+
+16
+
+Advanced economies
+
+Emerging economies
+
+22
+
+13
+
+14
+
+10
+
+6
+
+Mining
+
+ICT
+
+Construction
+
+Utilities
+
+Manufacturing
+
+Trade
+
+Transportation
+
+1Large companies defined as top public companies above specific market capitalization thresholds defined by country (as of December 2022). Of these, all 
+companies that could be classified as MSMEs with <250 employees at any point after 2000 were considered to have scaled up into large companies by 2022. If a 
+company was founded after 2000 and became a large company by 2022, it is considered to have scaled up. 
+Note: Sample size: 1,907 large companies of which 1,543 are from 9 advanced economies and 364 are from 4 emerging economies. Analysis excludes 100 
+companies included in country-level scale-up rates as they are typically involved in multiple economic activities and they could not be mapped to any one sector. 
+Analysis excludes Kenya, Nigeria, and Portugal due to insufficient data availability. 
+Source: S&P Capital IQ; The Conference Board Total Economy Database, April 2023; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+10
+
+A microscope on small businessescontinue to contribute larger shares to national output, and in that sense, MSMEs directly lift 
+aggregate productivity growth. 
+
+In richer economies, the dynamic is different. Much of employment has shifted away from 
+microenterprises to small and medium-size companies or even to larger ones. Only about half of 
+all MSME workers are employed in microenterprises. As these advanced economies climb the 
+income ladder, beyond a certain point more MSMEs tend to scale up into larger companies, are 
+taken over and merged into them, or simply exit in the process known as creative destruction. 
+As a result, the contribution of large businesses to the national output of the richest economies 
+rises, relative to that of small companies. As such, MSMEs may not increase their share of 
+economies, but they still contribute to business dynamism. 
+
+In emerging economies, the MSMEs 
+that are so vital to sustaining 
+livelihoods are heavily skewed 
+toward microenterprises.
+
+11
+
+A microscope on small businesses© Nitat Termmee/Getty Images
+
+Warehouse supervisor 
+in Thailand
+
+2. Boosting MSME 
+productivity could yield 
+significant value
+
+Despite their central role in economies across the world, MSMEs are only about half as 
+productive as large companies, and narrowing that gap could create significant value.  
+Yet somewhat unexpectedly, this gap is by no means monolithic: relative productivity 
+performance varies enormously across countries and sectors, and even within the same  
+sector among countries. 
+
+MSME productivity lags behind that of large companies 
+
+The MSME productivity gap—defined as the distance between MSME productivity and that of 
+large companies—varies among countries. For example, in Kenya, MSMEs are just 6 percent 
+as productive as large companies, translating to a hefty 94 percent productivity gap. Among 
+the countries we investigate, MSMEs are relatively most productive in the United Kingdom, at 
+84 percent of the levels of large companies, translating to a productivity gap of only 16 percent 
+(Exhibit 5). In general, the productivity gap is larger in emerging economies than advanced ones. 
+
+As discussed in the previous chapter, within increasing income levels in emerging economies, 
+MSME productivity rises steeply relative to that of large companies, whereas in advanced 
+economies, the productivity of large companies rises noticeably.
+
+The size of MSMEs certainly plays a role in their productivity relative to that of large companies. 
+Microenterprises trail large companies by a greater margin than do small and medium-size ones 
+(Exhibit 6), and microenterprises account for much more employment in the emerging economies 
+in our sample. 
+
+Yet in our sample advanced economies, only about 15 percent of the differences in MSME 
+productivity among countries can be explained by the mix of micro-, small, and medium-size 
+enterprises. The rest of the variation comes from differences in sector mix as well as how MSMEs 
+in each country fare at a subsector level. 
+
+The MSME productivity gap—
+defined as the distance between 
+MSME productivity and that of large 
+companies—varies among countries.
+
+13
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 5
+Exhibit 5 of 16
+
+MSME productivity lags behind that of larger firms across countries, with a 
+wider gap in emerging economies.
+
+Productivity, value added per worker, $ thousand (PPP),1 countries ordered by overall MSME productivity
+
+MSME productivity
+
+Large company productivity
+
+MSME 
+productivity 
+ratio2 
+
+MSME 
+productivity 
+gap3 
+
+Emerging 
+economies average
+
+29
+
+71
+
+Emerging 
+economies
+
+Kenya
+
+6
+
+Nigeria
+
+12
+
+India
+
+26
+
+94
+
+88
+
+74
+
+Indonesia
+
+25
+
+Brazil
+
+Mexico
+
+54
+
+46
+
+47
+
+75
+
+53
+
+Advanced 
+economies average
+
+Advanced
+economies
+
+Portugal
+
+Poland
+
+Israel
+
+Spain
+
+Australia
+
+Italy
+
+Germany
+
+Japan
+
+US
+
+UK
+
+60
+
+40
+
+66
+
+34
+
+50
+
+69
+
+60
+
+50
+
+31
+
+40
+
+52
+
+55
+
+61
+
+52
+
+47
+
+48
+
+45
+
+39
+
+48
+
+53
+
+84
+
+16
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national 
+definition. 
+2Defined as ratio of MSME productivity to large company productivity. 
+3Measured as 1 minus MSME productivity ratio.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also 
+excludes additional sectors varying by country because data are not available: other service activities in Italy and Portugal; mining, water supply, sewerage and 
+waste management, construction, and other service activities in India; ICT and other service activities in Kenya; administrative and support service activities and 
+other service activities in Nigeria.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis 
+
+McKinsey & Company
+
+14
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 6
+Exhibit 6 of 16       
+
+Microenterprises typically have a smaller productivity ratio relative to large 
+companies than other MSMEs.
+
+Productivity, value added per worker, $ thousand (PPP),1 countries ordered by overall MSME productivity
+
+Microenterprise  
+Small enterprise  
+Medium-size enterprise
+
+Large 
+enterprise 
+
+Emerging 
+economies
+
+Advanced
+economies
+
+Kenya
+
+Brazil
+
+Mexico
+
+Portugal
+
+Poland
+
+Israel
+
+Spain
+
+Australia
+
+Italy
+
+Germany
+
+Japan
+
+US
+
+UK
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national 
+definition.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also 
+excludes additional sectors varying by country because data are not available: other service activities in Italy and Portugal; ICT and other service activities in 
+Kenya. Data for proportion of micro-, small, and medium-size enterprises for emerging economies are sometimes available for a different year and are applied 
+on the overall MSME proportions. Data by size category not available for India, Indonesia, and Nigeria.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Lack of scale matters more to the MSME productivity gap in some  
+sectors than in others
+
+Considering the broad sectors of our sample advanced economies, the MSME productivity ratio, 
+averaged across economies, ranges from 49 percent in ICT to 104 percent in the administrative 
+services sector. In other words, MSMEs in the ICT sector face the largest gap in productivity 
+relative to large companies in ICT, while MSMEs in administrative services tend to outperform 
+their large peers in productivity. Country-level differences within each sector are greatest in 
+mining and utilities, and smallest in manufacturing and ICT (Exhibit 7). 
+
+Larger scale is generally associated with higher productivity. Yet being small has its advantages, 
+too. Small businesses can be a vehicle for individuals to channel their entrepreneurial ambitions 
+
+15
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 7
+Exhibit 7 of 16
+
+The MSME productivity ratio varies among and within sectors and among 
+countries, but less so in manufacturing and ICT.
+
+Ratio of MSME productivity to large company productivity for sectors in advanced economies,1 %
+
+Spread of ratio by sector among countries
+
+Minimum
+
+Maximum
+
+= one country
+
+Mean
+
+Administrative services
+
+Accommodation and 
+food services
+
+Utilities
+
+Trade
+
+Transportation
+
+Construction
+
+Other services
+
+Professional services
+
+Mining
+
+Manufacturing
+
+ICT
+
+104
+104
+
+MSMEs are as 
+productive as 
+large companies
+
+74
+74
+
+72
+72
+
+69
+69
+
+68
+68
+
+65
+65
+
+62
+62
+
+61
+61
+
+56
+56
+
+53
+53
+
+49
+49
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national 
+definition.
+Note: Advanced economies include Australia, Germany, Israel, Italy, Japan, Poland, Portugal, Spain, UK, and US.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+as well as for people who simply own and run a business for a living.19 They shape our social 
+fabric and day-to-day life in important ways and are trusted by citizens. In the United States, for 
+example, MSMEs are considered the most trusted institutions by the general public, more even 
+than the military or the police.20 While small businesses do not have as much time and resources 
+to innovate as large companies, their relative advantage comes from being closer to customers, 
+being less bureaucratic, and reacting nimbly to changing market dynamics.21 They are able to 
+effectively mobilize local labor and offer flexible work arrangements. 
+
+Small businesses also play a crucial role in enabling the productivity of large companies, 
+which tend to focus on core competencies and outsource less essential activities to other 
+businesses, a phenomenon called work fissuring.22 This results in greater concentration of 
+higher-value-added activities in large companies, with smaller businesses taking on lower-
+value work. Similarly, in many advanced economies, as waves of labor-intensive manufacturing 
+moved to countries with low labor costs—often to MSMEs in those countries—higher-value 
+work remained with larger enterprises. 
+
+Moreover, being engaged in higher-value work enables large businesses to build three types of 
+competencies: intangible capital, which comprises both better technology and superior human 
+capital; global connections; and financial capital. Consequently, the MSME productivity ratio 
+
+16
+
+A microscope on small businessestends to be lower, and the productivity gap wider, in sectors where these competencies play a 
+significant role in driving business competitiveness (Exhibit 8). 
+
+ — Intangible capital. In sectors like ICT, manufacturing, and professional services, intangibles 
+drive a larger share of value added and MSMEs have a wider productivity gap. Manufacturing 
+productivity depends on organizational efficiency, the application of technology, and the 
+effective utilization of capital—areas where scale makes a difference. In the mining sector, 
+large companies have an advantage in undertaking explorations because they can invest 
+effectively in acquiring geological information and in developing specialized know-how. In 
+the ICT and professional services sectors, productivity drivers like automation, connectivity, 
+and access to high-skill talent also become more powerful with scale. According to the World 
+Bank Enterprise Surveys conducted between 2013 and 2022 and the OECD ICT Access 
+and Usage by Businesses database, these are areas where MSMEs struggle.23 The share 
+of MSMEs that adopt technologies like customer relationship management systems and 
+artificial intelligence is only half the share of large companies. Large companies are twice 
+as likely to provide formal skilling programs and are more active in monitoring performance 
+and awarding performance bonuses. Large enterprises also contributed to 84 percent of 
+
+Web 2024
+MGI-MSME
+Exhibit 8
+Exhibit  8 of 16
+
+The productivity ratio is typically lowest in sectors that are intangibles-heavy, 
+are export-intensive, and have better financial access.
+
+INTANGIBLE CAPITAL
+
+GLOBAL CONNECTIONS
+
+FINANCIAL CAPITAL
+
+Ratio smaller in 
+intangibles-heavy sectors
+
+Ratio smaller in 
+export-intensive sectors
+
+Ratio smaller where sectors rely 
+more on traditional financing1 
+
+Ratio of MSME productivity to large company productivity, %, simple average among advanced economies2
+
+In line 
+with trend
+
+Administrative services
+Administrative
+
+Administrative services
+Administrative
+
+Administrative services
+Administratyive servicess
+
+Accommodation 
+and food services
+
+Utilities
+Utilities
+Trade
+Trade
+
+Transportation
+
+Construction
+Construction
+
+Professional 
+Professional 
+services
+services
+
+Mining
+Mining
+
+Other 
+services
+
+Manufacturing
+Manufacturing
+
+ICT
+ICT
+
+ICT4
+ICT3
+
+Construction
+Construction
+
+Utilities
+Utilities
+
+Trade3
+Trade2
+
+Transportation
+Transportation
+
+Professional 
+Professional 
+services
+services
+
+Mining
+Mining
+
+Accommodation 
+Accommodation 
+and food services
+and food services
+
+Utilities
+Utilities
+
+Transportation
+Transportation
+
+Trade
+
+Trade
+Trade
+
+Construction
+Construction
+
+Manufacturing
+Manufacturing
+
+Other 
+Other 
+services
+services
+
+ICT5
+ICT5
+
+Manufacturing
+Manufacturing
+
+110
+
+90
+
+70
+
+50
+
+30
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25 0
+
+20
+
+40
+
+60
+
+80 15
+
+25
+
+35
+
+45
+
+55
+
+Intangibles as % of value added
+
+Exports as % of value added
+
+% of firms using banks to 
+finance working capital
+
+1Y-axis (MSME productivity ratio) shows different average in this chart because mining and professional services sectors are missing from the indicator database.
+2Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national 
+definition.
+3Includes commodities brokering, meaning trade sector export as percent of value added is likely overestimated.
+4ICT sector does not follow the trend, as it includes video and sound production, telecommunication subsectors that are more domestically focused.
+5ICT sector does not follow the trend, as funding for companies in this sector is typically led by venture capital funding and not bank financing.
+Note: Advanced economies include Australia, Germany, Israel, Italy, Japan, Poland, Portugal, Spain, UK, and US. Data on intangibles as percent of value added 
+unavailable for Australia, Israel, and Poland. Data on exports as percent of value added unavailable for Australia and Japan. Data on share of firms using banks to 
+finance working capital unavailable for Australia, Japan, UK, and US.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P Global 
+Market Intelligence, KLEMS database, Intan Invest; OECD Trade by Enterprise Characteristics database; World Bank Enterprise Survey; McKinsey Global 
+Institute analysis
+
+McKinsey & Company
+
+17
+
+A microscope on small businessesresearch and development spending in the United States in 2015, spending more than five 
+times as much as small businesses.24
+
+In sectors where intangibles matter less to competitiveness, the MSME productivity gap 
+tends to be narrower. In such sectors, companies drive productivity through local reach and 
+access to lower-skill labor. Examples are accommodation and food services, administration 
+and support services, trade, and transportation.
+
+ — Global connections. In sectors like manufacturing and mining where exports drive a larger 
+share of value added, MSMEs have a wider productivity gap with large companies. In trade, 
+however, MSMEs actively participate in cross-border activities, likely driven by commodity 
+brokering in wholesale trade. This translates into a 70 percent share for MSMEs in all trade 
+exports and a higher MSME productivity ratio.
+
+MSMEs are typically less able than larger companies to gain access to global markets and 
+benefit from global procurement. According to the World Bank Enterprise Survey, MSMEs 
+derive just 5.0 percent of their total sales from direct exports, but large enterprises triple that. 
+In emerging economies, on average, MSMEs account for 2.5 percent or less of exports.25 In 
+Indonesia, for instance, only 1.5 percent of small enterprises and 10.0 percent of medium-size 
+enterprises participate in global value chains, compared with more than one-quarter of all 
+large companies.26 Moreover, only about one-fifth of purchases of material inputs by MSMEs 
+were of foreign origin, compared with more than one-third for large companies. 
+
+ — Financial capital. Access to finance is the second most cited obstacle for MSMEs 
+in the World Bank Enterprise Survey. In sectors like manufacturing, other services, 
+transportation, construction, and trade, where businesses typically rely more on traditional 
+financing such as bank loans to secure working capital, MSMEs have a wider productivity 
+gap. When the sector as a whole relies less on bank financing—perhaps because it is less 
+necessary, as is the case in ICT—this may create a more level playing field, resulting in 
+relatively smaller productivity gaps.
+
+In addition to these competencies, small businesses may be disproportionately affected 
+by lack of public infrastructure, such as reliable logistics networks, access to basic utilities 
+like uninterrupted power supply, and the availability of 5G. Large businesses often have the 
+ability to establish their operations in areas with robust infrastructure. They also can develop 
+infrastructure themselves, such as investing in power generators and building last-mile 
+connectivity. While this enabler is critical for MSMEs overall, it is difficult to differentiate at the 
+sector level. 
+
+Narrowing the productivity gap is equivalent to 5 to 10 percent of GDP
+
+The tremendous variation in MSME productivity ratios across countries indicates potential for 
+improvement. In any given country, overall productivity stands to gain when the ratio of MSME 
+productivity to large company productivity is brought closer to its full potential. 
+
+That potential varies by country given different underlying economic conditions. It depends 
+on the industry structure in each business domain, as well as the specific nature of existing 
+bottlenecks to growth, and the extent to which they are addressed to achieve the optimal 
+economic structure. The productivity improvement itself may manifest in various ways. It could 
+stem from some MSMEs increasing their productivity while remaining in their size bracket. Or it 
+could result from a shift in the industry structure in which some small firms transition within the 
+MSME category from micro to small or small to medium, or scale up to become large companies. 
+
+While meaningful benchmarks would vary based on local conditions, we compare the average 
+ratio of MSME productivity to that of large companies in each country with the top quartile 
+ratio across countries at a subsector level (see sidebar “Estimating the value of narrowing the 
+
+18
+
+A microscope on small businessesEstimating the value of narrowing the productivity gap
+
+To assess the value for each country, we 
+compare the ratio of MSME productivity to 
+large company productivity in the country 
+in each subsector to a benchmark level 
+in the same subsector. We considered 
+three benchmarks—a higher threshold 
+representing the top quartile, a midpoint 
+threshold representing the median, and a 
+lower threshold representing the bottom 
+quartile among all advanced economies. 
+We assumed no change in subsectors in 
+countries that have already achieved the 
+benchmark levels. 
+
+As an illustration, the MSME productivity 
+ratio in the manufacturing of food 
+products subsector varies from 46 
+percent in the United States to 88 percent 
+
+in the United Kingdom. In addition to the 
+United Kingdom, Israel and Spain are in 
+the top quartile of advanced economies. 
+The value of narrowing the productivity 
+gap in this case is the difference between 
+the actual productivity ratio and the top-
+quartile threshold of 61 percent. 
+
+As MSME productivity improves, the 
+interlinked economics of small and 
+large firms may create feedback loops, 
+altering its overall economic impact. 
+While we recognize that increasing MSME 
+productivity could have multiplier effects 
+on the broader economy, estimating  
+those effects is more challenging. 
+Therefore, we focus only on estimating  
+the first-order effects. 
+
+We estimated the value only in 
+accommodation and food services, 
+administrative services, construction,  
+ICT, manufacturing, mining, other  
+personal services, professional services, 
+trade, transportation and storage, and 
+utilities. We excluded other sectors, 
+including agriculture, financial services, 
+and real estate, because of inconsistent 
+data that make it difficult to compare 
+across countries. We also excluded 
+self-employed individuals—who are 
+often sustenance workers in emerging 
+economies—in order to be able to compare 
+the remaining MSMEs in emerging 
+economies with those in advanced 
+economies using the same benchmarks.1
+
+1  By not considering self-employed workers, who are more prevalent in emerging economies, we establish a lower benchmark for these countries. To be conservative, we 
+
+chose this approach instead of adjusting the benchmarks for each country based on their per capita GDP.
+
+productivity gap” for an overview of our approach). This exercise is a useful thought experiment 
+to motivate an investigation of the specific drivers of MSME productivity and where to focus.
+
+The gap between the actual productivity ratio and the top quartile level is equivalent to an 
+average of 5 percent of GDP in advanced economies and an average of 10 percent in emerging 
+economies. It ranges from 2 percent in Israel and the United Kingdom to 10 percent in Japan 
+among advanced economies, and from 3 percent in Brazil to 15 percent in Indonesia and 
+Kenya among emerging economies (Exhibit 9). On a per business worker basis, the amount 
+is meaningful, ranging from about $3,000 in Israel to $12,900 in Japan among advanced 
+economies, and from $3,200 in Mexico to $8,800 in Indonesia among emerging economies (all 
+in purchasing power parity terms).
+
+If we used lower thresholds to set benchmarks, the gap is lower, but still meaningful. For example, 
+comparing the current MSME productivity ratio against the median ratio in each subsector, it is 
+equivalent to 2 percent of GDP in advanced economies on average and 8 percent in emerging 
+economies. Using bottom-quartile benchmarks, it would be about 1 percent of GDP on average 
+in advanced economies and 7 percent in emerging economies.
+
+Among advanced economies, the impact of narrowing the gap is larger in Italy, Japan, Poland, 
+and the United States. In Japan, two-fifths of all MSME value added is in manufacturing 
+and construction where, in many subsectors, MSMEs achieve only the bottom quartile of 
+performance across countries. Similarly, in Italy and Poland, MSMEs in two-fifths of subsectors 
+are in the bottom quartile of performance. In automotive trade, for instance, Poland has the 
+highest productivity gap (73 percent) and Italy the second highest (67 percent) of our sample 
+advanced economies. In the United States, MSMEs in almost half the subsectors are in the 
+bottom quartile of the productivity ratio.
+
+19
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 9
+Exhibit  9 of 16
+
+Narrowing the subsector productivity gap with large companies is 
+equivalent to 2 to 15 percent of GDP.
+
+Difference as % of GDP, between current and top-quartile productivity ratio across subsectors1
+
+2
+
+UK
+
+4
+
+Spain
+
+4
+
+Portugal
+
+6
+
+Italy
+
+3
+
+Germany 
+
+6
+
+Poland
+
+2
+
+Israel
+
+5
+
+US
+
+4
+
+Mexico
+
+14
+
+3
+
+15
+
+11
+
+Brazil
+
+Nigeria
+
+Kenya
+
+India
+
+10
+
+Japan
+
+15
+
+Indonesia
+
+4
+
+Australia
+
+Advanced economies average
+
+5
+
+10
+
+Emerging economies average
+
+1To measure value of narrowing the productivity gaps for each country, we assumed that the productivity ratio of MSMEs in the country in each subsector 
+reaches a benchmark level (top quartile among all advanced economies, capped at 100%) in the same subsector. We assumed no change in subsectors in 
+countries that have already achieved the benchmark levels. We exclude self-employed workers in this calculation.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also 
+excludes additional sectors varying by country because data are not available: other service activities in Italy and Portugal; mining, water supply, sewerage and 
+waste management, construction, and other service activities in India; ICT and other service activities in Kenya; administrative and support service activities and 
+other service activities in Nigeria.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Where the overall gaps are smaller, as in Israel and the United Kingdom, the impact is limited. In 
+these countries, about half the subsectors are already in the top quartile of MSME productivity 
+relative to large companies.
+
+The value is highest in four emerging economies—Kenya, India, Indonesia, and Nigeria—where 
+MSME productivity gaps are the most substantial. In Kenya, the productivity of small businesses 
+is the lowest of all the sample countries, explaining the wide gap. In Indonesia, the productivity 
+of large companies is double that of the figure for other emerging economies, and therefore its 
+MSMEs have further to go.
+
+The sectors that produce the most economic output account for the largest share of GDP from 
+improving their MSME productivity ratios. The three largest are trade, manufacturing, and 
+construction (Exhibit 10). Nevertheless, some sectors in some countries punch above their 
+weight relative to their role in economies. A standout example is ICT, particularly—in order of 
+importance—in India, Nigeria, Brazil, the United Kingdom, Indonesia, and the United States. In 
+these countries, the ICT sector contributes about 8 percent of economic value added on average, 
+but about one-fifth of the value from narrowing the productivity gap. Other examples include 
+
+20
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 10
+Exhibit 10 of 16
+
+Trade, manufacturing, construction, and ICT represent the most value from 
+narrowing productivity gaps.
+
+Contribution of sectors from narrowing productivity gaps, share of total in each country,1 % 
+
+>30 20–30 10–20
+
+<10
+
+n/a
+
+ADVANCED ECONOMIES
+
+Manufacturing
+
+ICT
+
+Administrative 
+services
+
+Accommodation 
+and food services
+
+Utilities
+
+Trade
+
+Construction
+
+Transportation
+
+Professional services
+
+Other services
+
+Mining
+
+Japan
+
+Italy
+
+Poland
+
+US
+
+Portugal
+
+Spain
+
+Australia
+
+Germany
+
+UK
+
+Israel
+
+Kenya
+
+Indonesia
+
+Nigeria
+
+India
+
+Mexico
+
+Brazil
+
+EMERGING ECONOMIES
+
+Manufacturing
+
+ICT
+
+Professional services
+
+Trade
+
+Construction
+
+Mining
+
+Transportation
+
+Accommodation and food services
+
+Administrative 
+services
+
+Utilities
+
+Other 
+services
+
+1To measure value of narrowing the productivity gaps for each country, we assumed that the productivity ratio of MSMEs in the country in each subsector reaches 
+a benchmark level (top quartile among all advanced economies, capped at 100%) in the same subsector. We assumed no change in subsectors in countries that 
+have already achieved the benchmark levels. We exclude self-employed workers in this calculation.
+Note: Countries ordered in descending order of value. Sectors ordered in descending contribution to value, simple average across countries. Analysis excludes 
+the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and defense, education, human 
+health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also excludes additional sectors 
+varying by country due to data unavailability: other service activities in Italy and Portugal; mining, water supply, sewerage and waste management, construction, 
+and other service activities in India; ICT and other service activities in Kenya; administrative and support service activities and other service activities in Nigeria.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P Global 
+Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+transportation and storage in Australia, Kenya, and Israel; administrative services in Portugal, 
+Kenya, and Germany; professional services in Nigeria and India; and accommodation and food 
+services in Germany and the United Kingdom.
+
+A microscope on small businesses
+
+21
+
+© Tipp Howell/Getty Images
+
+Laboratory technician 
+holding beaker with fluid
+
+3. Looking through a 
+microscope to fill the gaps 
+
+To move the needle beyond broad-brush solutions, we need to look in detail at variations in 
+relative MSME productivity performance to identify specific opportunities to achieve potential 
+additional value. Consistent with MGI’s micro-to-macro analytical approach, we have looked at 
+MSME productivity through a microscope, homing in on 68 level-two subsectors and 219 level-
+three subsectors. See the technical appendix for details of each of the 16 countries in our sample.
+
+A granular approach helps prioritize where 
+to act to boost MSME productivity
+
+MSME productivity ratios vary across sectors, but the spread is even wider at the subsector level 
+(Exhibit 11). For instance, in Germany’s sectors, ratios range from 55 percent in manufacturing to 
+about 100 percent in transportation. In subsectors, the range is even wider. The spread is largest 
+in administrative services, where the ratio is about 20 percent in rental and leasing activities 
+and about 120 percent in building services and landscaping activities. There is a wide range in 
+manufacturing, too. Small businesses engaged in the manufacture of tobacco products are only 
+35 percent as productive as larger counterparts, while those manufacturing basic metals are 
+85 percent as productive. In transportation, MSMEs engaged in postal and courier activities are 
+less productive than large companies, while in warehousing, they are closely matched.
+
+MSME productivity ratios vary  
+across sectors, but the spread is even  
+wider at the subsector level.
+
+23
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 11
+Exhibit 11 of 16
+
+Within sectors, the MSME productivity ratio varies significantly among 
+subsectors: Germany example.
+
+Ratio of MSME productivity to large company productivity for subsectors in Germany,1 %
+
+Productivity ratio of subsectors within overall sector
+Overall sector average
+
+Transportation
+
+Postal and courier activities
+Postal and courier activities
+
+Mining
+
+Other mining and quarrying
+Other mining and quarrying
+
+Utilities
+
+Electricity, gas, steam, and air conditioning supply
+Electricity, gas, steam and air conditioning supply
+
+Administrative
+services
+
+Rental and 
+leasing activities
+
+Professional services
+
+Legal and accounting activities
+Legal and accounting activities
+
+MSMEs are as 
+productive as 
+large companies
+
+Warehousing
+Warehousing
+
+Mining support 
+Mining support 
+service activities
+service activities
+
+Water collection, 
+treatment, and 
+supply
+
+Building 
+services
+
+Advertising and 
+Advertising and 
+market research
+market research
+
+Trade
+
+Automotive trade
+Automotive trade
+
+Wholesale trade
+Wholesale trade
+
+Construction
+
+Specialized construction activities
+Specialized construction activities
+
+Civil engineering
+Civil engineering
+
+ICT
+
+Information service activities
+Information service activities
+
+Accommodation
+and food services
+
+Manufacturing
+
+Accommodation
+Accommodation
+
+Food and beverage 
+Food and beverage 
+service activities
+service activities
+
+Manufacture of 
+Manufacture of 
+tobacco products
+tobacco products
+
+Manufacture of 
+Manufacture of 
+basic metals
+basic metals
+
+Publishing 
+Publishing 
+activities 
+activities 
+(including
+(including
+software)
+software)
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+110
+
+120
+
+1Year for which data are represented: 2019.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+This granular view at the subsector level is important when setting aspirations for, and thinking 
+about ways to boost, MSME productivity. No single country can be considered the north star for 
+all MSME productivity. The truth is that the best-performing MSMEs are found in one country for 
+one type of activity, but in another country for another type of activity. 
+
+The trade sector illustrates this (Exhibit 12). In automotive trade, Japan’s MSMEs are more 
+vertically integrated with large manufacturers than in many other advanced economies, 
+including the United States (see chapter 5). This enables them to have more efficient logistics 
+that follow just-in-time principles and respond effectively to market fluctuations, making them 
+top-quartile performers.27 However, in retail and wholesale trade (excluding automotive trade), 
+vertical integration among Japanese MSMEs appears to be weaker, and they fall into the bottom 
+two quartiles of relative performance. In these sectors, the United Kingdom and Germany, 
+respectively, present compelling benchmarks for Japan. 
+
+24
+
+A microscope on small businesses  
+Web 2024
+MGI-MSME
+Exhibit 12
+Exhibit 12 of 16
+
+Within subsectors, the productivity ratio varies significantly among countries: 
+trade sector example.
+
+Ratio of MSME productivity to large company productivity for trade subsectors 
+in advanced economies,¹ %
+
+Automotive 
+trade
+
+Retail trade
+(excluding auto)
+
+Wholesale trade
+(excluding auto)
+
+Countries
+
+Bottom
+quartile
+
+Median
+
+Top
+quartile
+
+Poland
+
+Italy
+
+US
+
+Japan
+
+Germany
+
+UK
+
+Poland Italy Spain Japan
+
+UK
+
+Israel
+
+US
+
+Japan
+
+Germany
+
+Israel
+
+MSMEs are as 
+productive as 
+large companies
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+110
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national 
+definition.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P Global 
+Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Viewing MSMEs at a fine-grained level brings high-value subsectors into sharp focus. 
+Considering manufacturing, for example, in almost all countries eight sizable subsectors (out 
+of 24) account for more than 60 percent of the value from narrowing productivity gaps.28 In 
+advanced economies, this ranges between five and 11 subsectors, while in emerging economies, 
+the opportunity is more concentrated in four to eight subsectors.
+
+While the sector overall contributes 18 percent of total value from narrowing productivity gaps in 
+advanced economies and 25 percent in emerging economies, the opportunity is not uniform—the 
+subsectors that offer the largest opportunities differ depending on the country (Exhibit 13). For 
+instance, if we compare Indonesia and Australia, there are important differences. Manufacturing 
+of basic metals, chemicals, rubbers and plastics, and food products are important sources of 
+value in both economies. But in Indonesia, the apparel manufacturing subsector appears to 
+offer meaningful value, whereas in Australia the textiles subsector is a sizable opportunity. For 
+Indonesia, electrical equipment and automotive manufacturing would be higher priorities, but in 
+Australia the comparable subsectors would be machinery and equipment, and fabricated metal. 
+
+Looking through the microscope also helps to tailor efforts to build  
+MSME competencies 
+
+The importance of scale for productivity and the hurdles that stand in the way of MSMEs 
+gaining that scale are well recognized. So, too, are ways to address this issue, such as building 
+national infrastructure and providing access to markets, finance, and technology. But national-
+level action is only one aspect of the competencies that MSMEs require to thrive and raise  
+their productivity. 
+
+25
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 13
+Exhibit 13 of 16       
+
+A microscopic view of narrowing productivity gaps reveals variations by 
+country: manufacturing example.
+
+Contribution of subsectors from narrowing productivity gaps in the manufacturing sector,1 %
+
+ADVANCED ECONOMIES
+
+Israel
+
+UK
+
+Germany
+
+Australia
+
+Spain
+
+Portugal
+
+38
+
+20
+
+19
+
+22
+
+33
+
+30
+
+11
+
+10
+
+9
+
+5
+
+11
+
+13
+
+6
+
+6
+
+7
+
+16
+
+16
+
+12
+
+9
+
+10
+
+9
+
+19
+
+17
+
+18
+
+15
+
+7
+
+7
+
+5
+
+6
+
+12
+
+8
+
+7
+
+7
+
+6
+
+US
+
+14
+
+11
+
+11
+
+14
+
+19
+
+22
+
+17
+
+13
+
+20
+
+11
+
+14
+
+8
+
+12
+
+17
+
+8
+
+7
+
+12
+
+7
+
+10
+
+10
+
+9
+
+9
+
+9
+
+7
+
+7
+
+7
+
+7
+
+5
+
+14
+
+30
+
+23
+
+27
+
+17
+
+18
+
+22
+
+6
+
+9
+
+6
+
+38
+
+6
+
+8
+
+6
+
+6
+
+7
+
+EMERGING ECONOMIES
+
+21
+
+12
+
+10
+
+8
+
+46
+
+8
+
+15
+
+8
+
+7
+
+5
+
+20
+
+15
+
+7
+
+7
+
+11
+
+India
+
+15
+
+13
+
+10
+
+Nigeria
+
+Indonesia
+
+14
+
+40
+
+14
+
+10
+
+9
+
+9
+
+7
+
+6
+
+6
+
+35
+
+14
+
+11
+
+10
+
+25
+
+7
+
+6
+
+5
+
+Kenya
+
+29
+
+12
+
+12
+
+8
+
+7
+
+36
+
+32
+
+Poland
+
+Italy
+
+Japan
+
+Brazil
+
+Mexico
+
+Fabricated metal
+Chemicals
+Electronics
+Machinery and equipment
+Pharma
+Rubber and plastics
+Auto
+Beverages
+Electrical equipment
+Recorded media
+Repair and installation
+Food products
+Textiles
+Basic metals
+Non-metallic minerals
+Paper products
+Furniture
+Transport equipment
+Tobacco products
+Wood products
+Apparel products
+Leather products
+Others
+
+1To measure value of narrowing the productivity gaps for each country, we assumed that the productivity ratio of MSMEs in the country in each subsector reach-
+es a benchmark level (top quartile among all advanced economies, capped at 100%) in the same subsector. We assumed no change in subsectors in countries 
+that have already achieved the benchmark levels. We exclude self-employed workers in this calculation.
+Note: Countries ordered by increasing value of narrowing productivity gaps.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+Which competencies matter most can vary depending on the type of MSME. For example, 
+drawing on the World Bank Enterprise Survey, we find that more than one-third of MSMEs in the 
+apparel manufacturing subsector report an “inadequately educated workforce” as their biggest 
+obstacle to operations, but less than 15 percent in chemicals manufacturing do so. Because the 
+business needs and hurdles to creating value are somewhat different in each subsector, solutions 
+need to be tailored to local business and industrial contexts. 
+
+Take US construction as an example. This sector has one of the highest potentials for adding 
+value because MSMEs perform poorly on productivity relative to large companies, at 46 percent 
+against the top-quartile level of 60 percent in Germany. Large companies in the building 
+construction subsector tend to concentrate on residential and nonresidential construction 
+projects that typically involve larger projects, greater standardization, modular construction 
+methods, and advanced technology and equipment—all of which help to boost productivity. 
+
+26
+
+A microscope on small businessesHowever, MSMEs in the building construction subsector tend to focus on small-scale residential 
+construction and refurbishments. They are subject to comprehensive building codes, 
+regulations, and standards governed by local and state laws—factors that make it challenging for 
+MSMEs to achieve higher productivity. This degree of stratification is not present in all countries 
+in this sector. In the United Kingdom, for example, construction MSMEs receive incentives 
+to participate in projects similar to those undertaken by large companies and are much more 
+productive, relative to large companies, than their counterparts in the United States. Residential 
+construction MSMEs in the United States could potentially diversify by becoming subcontractors 
+to major players, helping them tap into potential additional value.  
+
+Because the business needs and 
+hurdles to creating value are 
+somewhat different in each subsector, 
+solutions need to be tailored to local 
+business and industrial contexts.
+
+27
+
+A microscope on small businesses© SolStock/Getty Images
+
+Engineering 
+workers in the 
+ United Kingdom
+
+4. Creating value through 
+networks and interactions
+
+No MSME operates in a vacuum. Its prospects are shaped by its interactions with other 
+companies. These interactions can be mutually beneficial, creating a “win-win” for businesses 
+small and large. When the economic fabric surrounding companies of all sizes enables  
+them to interact productively with one another and grow, the overall economy attains the 
+greatest benefits. 
+
+B2B MSMEs tend to be more productive than B2C, suggesting that  
+business interactions matter
+
+Business-to-business (or B2B) companies interact closely with other companies, often larger 
+ones, as part of their supply chains. In five sectors that account for the largest share of GDP 
+from improving their MSME productivity ratio—construction, ICT, manufacturing, trade, and 
+transportation—the productivity gap with large companies is narrower for B2B MSMEs than it 
+is for business-to-customer (B2C) MSMEs that sell primarily to individuals. In fact, the gap is a 
+significant 40 percent narrower on average (Exhibit 14).29
+
+The superior performance of B2B MSMEs can be attributed to both a selection bias, because 
+business customers have higher expectations of their providers, and the fact that these MSMEs 
+can benefit from lessons learned in the course of working with larger enterprises. Other research 
+has also noted how large companies have an incentive to help the smaller businesses they work 
+with to become more productive.30 There can, of course, be situations in which large companies 
+take advantage of MSMEs, leading to less equitable division of benefits.31
+
+The difference in productivity gaps between B2B and B2C MSMEs is particularly pronounced 
+in the transportation and storage sector, where the productivity ratio of B2B MSMEs that 
+transport commodities (typically via pipelines) is almost double that of B2C MSMEs, which are 
+typically involved in passenger transportation. In the manufacturing sector, B2B MSMEs include 
+manufacturers of iron and steel and of locomotives that, on average, have 60 percent of the 
+productivity of large companies. In comparison, B2C MSMEs in the sector that, for instance, 
+make consumer electronics and jewelry are only 40 percent as productive. 
+
+In the trade sector overall, the difference in the productivity gaps of B2B wholesalers and 
+B2C retailers is not large. But in some subsectors, that is not the case. Take the specialized 
+trade subsector where stores sell one type of product rather than a wide variety of products 
+as nonspecialized supermarkets or department stores do. In this subsector, B2B MSMEs are 
+75 percent as productive as large companies operating in the sector—1.2 times higher than 
+B2C MSMEs, which are only 63 percent as productive. The advantage in terms of absolute 
+productivity is even higher. On average, B2B specialized trade MSMEs are 2.5 times more 
+productive than their B2C counterparts. Interestingly, B2B and B2C MSMEs differ not only on 
+productivity but also on their dynamism. B2B MSMEs are 1.5 times more likely to have scaled 
+up than B2C MSMEs. Twenty percent of large B2B companies were MSMEs two decades ago, 
+against 14 percent of B2Cs. 
+
+29
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 14
+Exhibit 14 of 16
+
+B2B MSMEs have smaller productivity gaps relative to large companies than 
+B2C MSMEs. 
+
+Productivity, value added per worker, $ thousand (PPP), simple average across countries1
+
+MSME productivity
+
+Large company productivity
+
+MSME 
+productivity 
+ratio,3 %
+
+MSME 
+productivity 
+gap,4 %
+
+86
+
+14
+
+Examples
+
+B2B: Transportation via pipelines
+
+B2C: Passenger transportation
+
+Transportation
+
+ICT
+
+Manufacturing
+
+Construction2
+
+Trade
+
+B2B
+
+B2C
+
+B2B
+
+B2C
+
+B2B
+
+B2C
+
+B2B
+
+B2C
+
+B2B
+
+B2C
+
+46
+
+54
+
+66
+
+34
+
+39
+
+61
+
+61
+
+39
+
+42
+
+58
+
+88
+
+12
+
+68
+
+32
+
+61
+
+39
+
+54
+
+46
+
+0
+
+50
+
+100
+
+150
+
+200
+
+B2B: Data processing and hosting, 
+computer programming
+B2C: Broadcasting
+
+B2B: Manufacturing of coke oven 
+products, basic iron and steel, locomotives
+
+B2C: Manufacturing of consumer 
+electronics, jewelry
+
+B2B: Construction of road and railways, 
+utility projects
+
+B2C: Construction of residential 
+buildings
+
+B2B: Wholesale trade of household 
+goods, machinery, and supplies
+
+B2C: Retail trade of food and beverage 
+in specialized stores, stalls, and markets
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national 
+definition. Sample includes 9 countries for which level-three subsector data are available: Brazil, Mexico, Germany, Italy, Poland, Portugal, Spain, UK, and US.
+2Includes “mixed” business models in the B2C construction sector; that is, business models where both B2B and B2C plays exist.
+3Defined as ratio of MSME productivity to large company productivity.
+4Measured as 1 minus MSME productivity ratio.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P Global 
+Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+These gaps between B2B and B2C MSMEs reflect different levels of business competencies to 
+some extent. Our analysis of the World Bank Enterprise Survey indicates that B2B MSMEs have 
+an edge over B2C counterparts on some of the competencies that we discussed earlier, such as 
+the following: 
+
+ — B2B MSMEs have a technology and innovation edge. B2B MSMEs are 30 percent  
+
+more likely than B2C MSMEs to have introduced a process innovation in the past three 
+years. International quality certifications are also 60 percent more common in B2Bs  
+than in B2Cs, perhaps because they are often a requirement when doing businesses with 
+large corporations.
+
+ — B2B MSMEs invest more in building human capital than their B2C counterparts. 
+
+B2B MSMEs track performance metrics more often and in more detail than B2C MSMEs. 
+They also provide formal training to 60 percent of their employees, compared with about 
+
+30
+
+A microscope on small businesses35 percent of B2C MSMEs. One micro digital marketing agency in the United Kingdom offers 
+employees a 20 percent “development time” commitment—for every ten hours worked in a 
+week, employees can spend two hours on courses of their choosing.
+
+ — B2B MSMEs are more globally connected. B2B MSMEs derive 6 percent of their revenue 
+from direct exports, almost triple the share for B2C MSMEs. B2B e-commerce platforms 
+that facilitate exports of products between small manufacturers and wholesalers or even 
+offshore software services between companies have become increasingly popular.32 One 
+microenterprise launched in 2000 created a platform to enable a transparent and mutually 
+beneficial system of centralized MSME purchasing across European countries. 
+
+Large and small companies perform in tandem, and the right  
+economic fabric can enable both
+
+MSME interactions with other companies matter, but it is arguably a mistake to view those 
+interactions as adversarial, necessitating policies that attempt to create incentives, quotas, or 
+protections that tilt the balance toward either small enterprises or larger ones.33 Is this really a 
+zero-sum game? The truth—broadly—is that both MSMEs and large companies can benefit when 
+they are operating within the right economic fabric. 
+
+We looked at whether large company productivity moves in tandem with that of smaller 
+businesses in subsectors (Exhibit 15). In accommodation, for instance, the correlation appears 
+strong—the productivity of large and small enterprises moves hand in hand. In Italy, Mexico, 
+Poland, Spain, and the United States, both large and small companies tend to outperform the 
+average productivity levels of their peers across countries. In Australia, Brazil, Germany, Israel, 
+Portugal, and the United Kingdom, both large and small companies tend to underperform their 
+respective averages. 
+
+In other subsectors, the correlation is weaker. In advertising and market research, for instance, 
+in Indonesia, Japan, and Nigeria, large companies outperform the average cross-country 
+productivity while small companies underperform, and vice versa in Australia, Germany, Italy,  
+and Spain.
+
+In the vast majority of cases—66 percent, or 45 subsectors—the fortunes of MSMEs and large 
+companies go hand in hand.34 This interdependent relationship is even more pronounced in 
+manufacturing, where productivity levels of MSMEs and large companies are highly correlated 
+(across countries) in about 80 percent of the 24 subsectors analyzed.
+
+Within each subsector, we categorize countries where both large and small companies perform 
+better than peers as win-win domains. If only one outperforms while the other lags behind, we 
+classify it as either a “large firms outperform” or a “small firms outperform” domain. If both large 
+and small firms lag behind their peers, it is considered a “challenged” domain. 
+
+How large is the win-win advantage? In the 45 subsectors where large and small companies are 
+closely intertwined, the overall productivity of the win-win domain is $163,000 (in purchasing 
+power parity terms). That is 1.5 times higher than in the domains where only small businesses or 
+only large businesses outperform. This relationship holds true even for the subsectors in which 
+the correlation is weak. 
+
+Other studies corroborate our finding that MSME productivity and large firm productivity are 
+interconnected. One analysis of 26 European countries found that a 1.0 percent rise in MSME 
+productivity is associated with a 0.124 percent increase in the productivity of large firms. While 
+the analysis does not establish a causal relationship, there do appear to be some knowledge 
+spillovers through the sharing of ideas, best practices, and even talent.35
+
+31
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 15
+Exhibit 15 of 16
+
+In two-thirds of subsectors, the productivity of MSMEs and large companies 
+goes hand in hand.
+
+Large company vs MSME productivity,1 
+indexed (100 = simple average productivity across countries for the subsector)
+
+66%
+
+of subsectors show strong correlation 
+between large company and MSME 
+productivity across countries
+
+34%
+
+of subsectors show weak correlation 
+between large company and MSME 
+productivity across countries
+
+Example 
+subsector:
+Accommodation
+
+Strong 
+correlation
+(≥60%)
+
+Other examples: 
+manufacturing 
+of beverages, 
+construction 
+of buildings, 
+publishing 
+activities
+
+Large company productivity
+
+300
+
+US
+
+Brazil
+
+Mexico
+
+100
+
+0
+
+0
+
+Spain
+
+Australia
+
+100
+
+300
+
+MSME productivity
+
+Example 
+subsector: 
+Advertising and 
+market research
+
+Weak 
+correlation
+(<60%)
+
+Large company productivity
+
+300
+
+Nigeria
+
+Other examples: 
+manufacturing 
+of chemicals, 
+air transportation, 
+telecommunications
+
+100
+
+0
+
+0
+
+Japan
+
+UK
+
+Italy
+
+Kenya
+
+100
+
+300
+
+MSME productivity
+
+All 45 strong-correlation subsectors2
+Accommodation (from example above)
+
+Others
+
+All 23 weak-correlation subsectors3
+Advertising and market research
+
+Others
+
+Large company productivity
+
+Large company productivity
+
+300
+
+Large firms 
+outperform
+
+Each dot represents a 
+Each dot represents a 
+country in each subsector
+country in each subsector
+
+Win-win 
+domains
+
+300
+
+Large firms 
+outperform
+
+Win-win 
+domains
+
+ 100
+
+ 0
+
+0
+
+ 100
+
+Challenged
+
+100
+MSME productivity
+
+Small firms 
+outperform
+
+300
+
+ 0
+
+0
+
+Challenged 
+
+100
+MSME productivity
+
+Small firms 
+outperform
+
+300
+
+1Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country’s national definition.
+2Large company and MSME (indexed) productivity of 524 country x subsectors represented, correlation coefficient = 77%.
+3Large company and MSME (indexed) productivity of 227 country x subsectors represented, correlation coefficient = 35%.
+Note: Analysis excludes the following sectors due to inconsistent data: agriculture, financial and insurance activities, real estate, public administration and 
+defense, education, human health and social work, arts and entertainment, activities of households, and activities of extraterritorial organizations. Analysis also 
+excludes additional sectors varying by country because data are unavailable: other service activities in Italy and Portugal; mining, water supply, sewerage and 
+waste management, construction, and other service activities in India; ICT and other service activities in Kenya; administrative and support service activities and 
+other service activities in Nigeria.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P Global 
+Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+32
+
+A microscope on small businesses© Emma Innocenti/Getty Images
+
+Winemaker in 
+ Chianti, Italy
+
+5. Seven examples of 
+win-win domains
+
+Working closely with thriving large companies is one important route to higher MSME 
+productivity, but not the only one. Network effects among small enterprises can help them 
+attain competencies associated with scale. While MSMEs do not have significant market power 
+because they have limited scale, creation of sector-wide infrastructure and boosting interfirm 
+networks and linkages can provide “collective productivity”—the competitive advantage derived 
+from local external economies and joint action—and substitute for direct benefits of scale.36
+
+As countries try to reduce concentration and geopolitical risks, they are aiming to realign their 
+global manufacturing and services footprints, but for this to happen, MSMEs need to raise their 
+productivity game. Without MSMEs getting more productive, it’s hard to imagine a meaningful 
+realignment of global production. Industrial policies that aim to create new manufacturing 
+capabilities also need to focus on MSMEs in those specific ecosystems. 
+
+To illustrate examples of how win-win domains have been created in some countries, benefiting 
+both small and large companies, we looked in detail at examples in the largest sectors for MSME 
+value potential (Exhibit 16). Each of these case studies demonstrates how MSMEs have achieved 
+high productivity through network effects. 
+
+In manufacturing, we examine the auto sector in Japan and beverages (wine) in Italy; in trade, the 
+wholesale trade sector in Germany; in construction, examples from both Australia and the United 
+Kingdom; in ICT, US software publishing; and in professional services, Israel’s R&D. Within each 
+of these sectors, both MSMEs and large companies in the highlighted country generally exhibit 
+higher productivity levels compared with their counterparts in other advanced economies. 
+However, this does not necessarily imply that their productivity has increased over time. It is 
+possible that they attained high productivity levels in the past and managed to sustain them over 
+the years. 
+
+By looking through the microscope at these examples, a clear message emerges: there is no single 
+path to success, but rather a range of promising possible approaches. A common characteristic 
+of these approaches is their focus on addressing the issue of scale through structural changes, 
+enabling MSMEs to become “collectively large” by creating network efficiencies. 
+
+There is no single path to success,  
+but rather a range of promising 
+possible approaches.
+
+34
+
+A microscope on small businessesWeb 2024
+MGI-MSME
+Exhibit 16 of 16
+Exhibit 16
+
+Both large companies and MSMEs outperform in a wide range of sectors: 
+seven case examples.
+
+MANUFACTURING: Auto and other transport equipment
+
+MANUFACTURING: Beverages
+
+200
+
+150
+
+100
+
+50
+
+0
+
+0
+
+US
+Germany
+
+Germany
+UK
+
+Japan
+Japan
+
+2×
+
+1.3×
+
+Australia
+
+Poland
+
+Italy
+
+Spain
+Spain
+
+Israel
+Israel
+
+Average
+= 134
+
+Portugal
+
+Average = 81
+Average = 81
+
+50
+
+100
+
+150
+
+200
+
+200
+
+150
+
+100
+
+50
+
+UK
+
+Average 
+= 208
+
+Japan
+
+Portugal
+
+Australia
+
+Italy
+
+1.5×
+Spain
+Poland
+Germany
+
+Large 
+company 
+productivity, 
+indexed to 
+average = 100
+
+0
+
+0
+
+Average = 87
+Average = 87
+
+50
+
+100
+
+150
+
+200
+
+MSME productivity, indexed to average = 100
+
+MSME productivity, indexed to average = 100
+
+CONSTRUCTION: Construction of buildings
+
+TRADE: Wholesale trade
+
+150
+
+100
+
+50
+
+Average 
+= 106
+
+US
+
+UK
+
+1.4×
+
+1.4×
+
+Japan
+
+1.2×
+
+Italy
+Italy
+
+Poland
+
+Australia
+1.1×
+Germany
+
+Spain
+Spain
+
+Israel
+
+Portugal
+
+0
+
+0
+
+Average = 60
+Average = 60
+
+50
+
+100
+
+150
+
+Large 
+company 
+productivity, 
+indexed to 
+average = 100
+
+80
+
+40
+
+ 0
+
+0
+
+160
+
+120
+
+Average 
+= 111
+
+Italy
+
+Germany
+
+Australia
+
+1.3×
+
+Poland
+Portugal
+
+UK
+Spain
+
+Israel
+Israel
+
+Average = 79
+Average = 79
+
+40
+
+80
+
+120
+
+160
+
+MSME productivity, indexed to average = 100
+
+MSME productivity, indexed to average = 100
+
+ICT: Publishing (incl software development)
+
+OTHER PROFESSIONAL SERVICES: Scientific R&D
+
+250
+
+200
+
+150
+
+100
+
+1.7×
+
+US
+
+Australia
+Australia
+
+Italy
+
+2.3×
+
+UK
+
+Spain
+Spain
+Portugal
+
+Poland
+
+Poland
+Poland
+
+Average
+= 149
+
+ 50
+
+Israel
+
+ 0
+
+Germany
+Germany
+
+Average = 83
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+200
+
+150
+
+100
+
+Large 
+company 
+productivity, 
+indexed to 
+average = 100
+
+Israel
+Israel
+
+1.9×
+
+Italy
+
+1.7×
+
+Average 
+= 117
+
+Japan
+Japan
+
+Poland
+Australia
+Australia
+Australia
+
+UKUK
+Germany
+
+Spain
+Spain
+Spain
+
+50
+
+Portugal
+
+Average = 77
+Average = 77
+
+0
+
+0
+
+50
+
+100
+
+150
+
+200
+
+MSME productivity, indexed to average = 100
+
+MSME productivity, indexed to average = 100
+
+Note: Year for which data are available/represented varies by country from 2016 to 2019; MSME and large size category definitions match each country's 
+national definition.
+Source: Country-level economic and business censuses; MSME surveys; labor surveys; aggregated databases such as Eurostat, OECD, ILOSTAT, and S&P 
+Global Market Intelligence; McKinsey Global Institute analysis
+
+McKinsey & Company
+
+35
+
+A microscope on small businesses1. Japanese auto manufacturing MSMEs benefit from deep integration  
+with large companies
+
+On average, MSMEs in auto manufacturing in Japan have double the productivity of MSMEs in 
+other advanced economies. This is predominantly because medium-size enterprises have close 
+linkages to large companies. Benefits from best practices such as Keiretsu networks and vertical 
+integration trickle down to them.37
+
+With the overall credo of “we are all in this together,” large Japanese OEMs have built deep links 
+with MSMEs, enabling their operational proficiency, and enhancing technological capabilities 
+and access to talent for smaller companies. These deep linkages also extend to financing, with 
+large OEMs often having crossover share investments with their MSME partners.38
+
+Toyota is an example of a company that has unusually high integration with its ecosystem 
+partners. Some contractual partnerships with suppliers have lasted for more than 30 years. 
+Toyota has directly involved itself in raising the operational standards of its partners through 
+knowledge transfer, from demand planning and cost reduction to raising management 
+capabilities. In the 2000s, Toyota created three cost-reduction programs for its suppliers, in 
+combination aiming to reduce costs by 60 percent. While many of Toyota’s MSME partners 
+remain reliant on Toyota for more than 70 percent of their revenue, some have developed 
+independently.39 These MSMEs share some common traits; they often harness their 
+ecosystem partnerships to enhance their technological capabilities and venture into highly 
+specialized production.
+
+2. Italian winemaker MSMEs gain global market access through  
+collective branding and marketing
+
+Italy’s MSME beverage manufacturing sector—particularly its winemakers—is highly fragmented 
+but superproductive. These enterprises are 1.5 times more productive than their counterparts in 
+other advanced economies. 
+
+Winemaking typically has some very large players. In the United States, for instance, most 
+wine is made by less than 0.5 percent of makers. But Italy’s wine business is dominated by 
+small, often family-led enterprises. Fragmentation and a plethora of small players are not 
+usually associated with high productivity, but there is a “paradox of scale” in productivity in 
+Italy’s wine business.40 Why? 
+
+Italy has created an environment that delivers small players access to branding and marketing. 
+The “Made in Italy” campaign has championed traditional and local production, with a 
+particular focus on the international market. Italy has more than 500 wines that have Protected 
+Designation of Origin or Protected Geographical Indications certifications. Similar designations 
+have delivered success elsewhere, for instance in the cases of Alphonso mangos and basmati 
+rice in India, and Guadarrama beef in Spain. These are stamps of quality in the eyes of consumers 
+and apply to the 42 percent of Italy’s wine production that is exported, enabling small producers 
+to charge premium prices and obviating the need to produce at scale. Where they are located 
+is a key part of marketing. Layered on top of this is that Italy’s MSME winemakers are highly 
+networked with one another through membership of associations or in cooperatives, giving them 
+collectively a louder voice. 
+
+3. Construction MSMEs in the United Kingdom profit from better  
+access to new markets and finance
+
+In the United Kingdom, construction sector productivity has stagnated over time.41 But small 
+businesses exhibit higher productivity than those in our other sample countries, as policy 
+interventions in the United Kingdom have boosted their ability to respond to burgeoning demand. 
+UK policy makers simplified procurement processes, reduced bidding costs, and accelerated 
+
+36
+
+A microscope on small businessespayment timelines for construction projects, enabling MSMEs to compete with large companies 
+for government contracts on a broadly equal footing.42 The government has also, more recently, 
+orchestrated demonstrator projects to showcase modern construction methods and to enable 
+small businesses to learn from one another.43
+
+Although the impact of these enablers on productivity growth is not fully evident yet, they seem 
+to have triggered a wave of creative collaborations among MSMEs. For instance, Cara EPS 
+built a digital platform to bring together specialist retrofitter microenterprises, enabling them 
+collectively to undertake substantial contracts leveraging their distinct expertise.44 MSMEs 
+need to invest in innovation and technology to compete in the same markets as large companies. 
+For ProBuild360, this involved developing capabilities in modern methods of construction and 
+enlisting similar-sized MSMEs not only as suppliers but also as mentors to assist in the adoption 
+of new techniques and materials. This enabled the company to emerge as a key building partner 
+for social housing authorities.45
+
+4. Construction MSMEs in Australia gain from subcontracting for  
+larger companies and access to skilled workers
+
+In specialized construction, particularly in the mining sector, Australia’s large players have 
+higher productivity than those in our other sample countries, and MSMEs the second highest 
+among their peers. This is attributable to collaborations between large and smaller players 
+that have developed partly due to the country’s remoteness and climatic extremes, and partly 
+due to effective public policies that encourage partnerships and facilitate a robust system of 
+mutual cooperation.
+
+MSMEs specialize in niche construction projects that are more often subcontracted than in other 
+countries. Australia has one of the highest shares of public–private partnership construction 
+projects in the world.46 The government has reduced red tape, cutting the number of regulatory 
+procedures from 14 to ten and the average time it takes to approve permits from 150 days to 112.47 
+Skills building has also been a priority. Construction workers go through rigorous certification 
+and licensing processes and benefit from a national system of vocational education and training, 
+formal apprenticeship programs, and industry-led initiatives, such as Construction Skills 
+Queensland.48
+
+5. Germany’s wholesale trade MSMEs benefit from vertical integration 
+with European manufacturers and strong logistics infrastructure
+
+Germany’s MSME wholesalers are 1.3 times more productive than the average among advanced 
+economies in our sample and are more productive even when excluding commodity traders. 
+They are able to tap into global markets through the European single market, which is further 
+bolstered by Germany’s central location, contributing to their productivity. They also benefit 
+from Germany’s industry-wide logistics backbone, which is reinforced by a range of benefits 
+conferred by free trade port zones, including tax reductions for imports and reexports, and 
+simplified customs regulations. 
+
+German wholesalers are also among the most innovative in Europe.49 These enterprises 
+gain spillover benefits from being part of a larger ecosystem. They often operate as legally 
+independent affiliates or subsidiaries that are vertically integrated with upstream purchasers for 
+retail supermarkets or distributors for large manufacturers for the entire European Union.50 An 
+example is Coffee Friend, a medium-size wholesaler of coffee makers that mediates transactions 
+for several manufacturers based in Europe.51
+
+37
+
+A microscope on small businesses6. US software development MSMEs benefit from the network created  
+by industry giants
+
+In the dynamic US software publishing business, MSMEs are 1.7 times more productive on 
+average than those in the same sector in other advanced economies. MSMEs gain from talent 
+and capital ecosystems seeded by successful large companies. Large companies serve as 
+reputational anchors, delivering market access and branding. A virtuous cycle of robust capital 
+ecosystems and the agglomeration of a strong talent pool have enabled the growth of large 
+businesses and continue to support the growth of MSMEs in this sector.
+
+MSMEs in this sector are highly innovative and internationally minded. Small technology firms 
+have patented more per employee than their large counterparts.52 Tech startups are also often 
+seen as “born global” because they create products and services for a global market.53 Almost 
+half of all US ICT MSMEs were engaged in international trade as long ago as 2007.54
+
+Large companies in the sector are important clients, frequent buyers, and potential partners, 
+and multiple connections mean that MSMEs are able to leverage a larger pool of resources and 
+experience, including talent and capital.
+
+7. Israel stands out for its ability to connect different stakeholders  
+engaged in scientific R&D
+
+The productivity of MSMEs in Israel’s scientific R&D subsector is almost double that of those in 
+other advanced economies in our sample.55 Israel is a unique economy that ranks high among 
+the world’s economies on the quality of its research organizations. The government has long 
+been committed to promoting innovation and R&D, and has helped forge strong links between 
+companies large and small, academia, and venture capitalists.
+
+The close proximity of businesses, research institutions, and venture capital firms in cities 
+such as Jerusalem and Tel Aviv facilitates collaboration and networking. Universities actively 
+encourage researchers to work on projects with commercial potential. Ties between academia 
+and the private sector are strong, encouraged by the government setting up technology transfer 
+offices to facilitate the process of licensing technologies to industry partners and creating 
+startups based on the research undertaken. These close ties are particularly vital because Israel 
+focuses on highly technical (and highly regulated) innovation, such as biotech, health tech, and 
+pharmaceuticals. The Israeli venture capital industry has also thrived since the 1990s with help 
+from governmental programs such as Yozma, which offered incentives to foreign companies 
+willing to back Israeli startups.
+
+The productivity of MSMEs in 
+Israel’s scientific R&D subsector is 
+almost double that of those in other 
+advanced economies in our sample.
+
+38
+
+A microscope on small businesses© SelectStock/Getty Images
+
+People buying food 
+from a food truck 
+ in Argentina
+
+6. Delivering a win-win future
+
+Productivity is a hot-button issue for economies navigating particularly turbulent times. 
+Indeed, accelerating productivity growth may be the only route out of current financial stress, 
+reconfiguring global trade patterns, and shifts in companies’ manufacturing and services 
+footprint to build resilience that delivers rising wealth and robust growth in GDP and incomes.56
+
+This research indicates that narrowing the MSME productivity gap with large companies can 
+yield considerable value, and that large companies, policy makers, and MSMEs themselves can 
+contribute to capturing that value by acquiring key competencies. 
+
+Improving the productivity of small businesses merits immediate attention. It may be a self-
+resolving issue—a natural progression as employment shifts to larger enterprises as economies 
+develop. As discussed, this progression can play out in different ways. Some MSMEs may scale 
+into larger companies, others may be acquired by larger enterprises, and some may cease 
+operations and make room for new businesses. Indeed, previous MGI research suggests that 
+high-growth emerging economies tend to be the ones where large companies are allowed 
+to scale rapidly.57 However, the extent of this natural progression is limited. Even in the most 
+advanced economies, MSMEs continue to contribute the majority of all workers employed by 
+businesses. Change is also likely to be slow. The clear implication is that, overall, MSMEs will 
+continue to play an important role in the long term, and that acting now to boost their productivity 
+growth can make the difference to economy-wide growth.
+
+But given the enormous variation in productivity performance evident at the subsector level and 
+even among enterprises with different business models, getting the conditions right for raising 
+productivity requires a microscopic view to help prioritize, design, and implement solutions. 
+
+Three considerations can help shape stakeholder actions
+
+Even with an abundance of initiatives and examples of efforts that stakeholders can make, 
+understanding how to capture the MSME productivity opportunity is a complex exercise. 
+Opportunities vary a great deal on the ground, and there are few one-size-fits-all solutions. 
+Intentional measures targeted at helping small enterprises may even raise questions about how 
+this might affect the overall productivity of economies. We suggest three considerations for 
+stakeholders as they develop their approaches. 
+
+Creating a win-win economic fabric is important
+The global business landscape is deeply interconnected. The success or failure of large 
+companies can have ripple effects throughout entire economic ecosystems. As such, 
+stakeholders, including policy makers, regulatory bodies, associations, and large companies 
+need to foster the right enabling conditions for the growth and prosperity of all enterprises. 
+These conditions may require measures that go beyond conventional policies focused  
+on MSMEs, such as facilitating access to credit for MSMEs and encouraging training  
+for MSME employees. In addition to such measures, it may involve strategies to build 
+“collective productivity.” 
+
+Strengthening networks and interactions between large and small businesses can yield 
+productivity gains in the win-win domains and in domains where large companies outperform 
+their peers but smaller ones lag behind. Where small businesses outperform while larger ones do 
+not, there would be benefit in enabling those small enterprises to evolve into large ones or merge 
+with them to promote business dynamism. When both large and small companies lag behind 
+their peers, more fundamental steps to improve the economic fabric as a whole may be needed; 
+for instance, investing in physical and digital infrastructure, establishing transparent and fair 
+
+40
+
+A microscope on small businessesregulatory frameworks that boost competition, reducing trade barriers, and ensuring equal 
+access to financial capital.
+
+Prioritization can pay off
+Stakeholders first need to decide which economic domains to focus on to make MSMEs more 
+productive. Failing to prioritize which opportunities to pursue can lead to a dilution of efforts 
+and place a burden on the often-limited resources at hand. Some countries have selected and 
+supported “national champion” sectors, as has happened with beverage manufacturing in Italy, 
+automotive manufacturing in Japan, and R&D in Israel. Such prioritization requires meticulous 
+identification of the nation’s competitive advantages and a keen eye for demand trends, as 
+well as allocating resources toward innovation, facilitating access to capital, and cultivating 
+supportive networks.
+
+A granular and tailored approach matters
+Measures designed to help MSMEs improve their performance tend to be broad, but the granular 
+lens of this research reveals that different subsectors have varied needs. Stakeholders may 
+need to design a menu of measures for each prioritized opportunity.58 In other words, taking 
+a microscopic approach that reflects the dynamics of each subsector and country and that 
+addresses barriers to productivity and scale in that context is warranted. 
+
+All stakeholders can boost MSME competencies through a variety  
+of proven approaches
+
+All stakeholders—policy makers, large companies, and MSMEs themselves—can adopt 
+strategies designed to boost productivity, which may involve structural changes that go beyond 
+traditional approaches. Policy makers can provide access to better infrastructure, while large 
+companies can help MSMEs build scale-related competencies. MSMEs can collaborate with 
+others to achieve network efficiencies.
+
+Policy makers can boost access to technology, new markets, and finance
+Supportive policy interventions can create advantages of scale for MSMEs and help overall 
+business dynamism. The following three broad contributions stand out: 
+
+ — Being intentional in improving technology access and building management skills of 
+
+businesses. Singapore’s GoBusiness initiative provides financial support for all businesses 
+that adopt technology solutions to improve their business processes, aligned to industry road 
+maps.59 Governments can also make direct investments in digital infrastructure that help 
+businesses expand their market reach. For example, in India, the Open Network for Digital 
+Commerce aims to build an e-commerce platform, which can particularly assist small retailers 
+reach new consumers because they lack the resources and financial capacity to develop 
+their own platforms.60 The Help to Grow program in the United Kingdom aims to help small 
+businesses scale up by offering management courses taught by entrepreneurs and industry 
+experts to develop leadership skills and establish business networks.61
+
+ — Opening up access to new markets. One example is Europe’s “Small Business, Big World” 
+initiative, which offers guidance on customs procedures, trade regulations, and market 
+entry requirements in various countries to enable SMEs to expand their export activities.62 
+Canada’s CanExport program supports MSMEs in exploring new export opportunities, 
+enabling them to participate in trade shows, conduct market research, and develop 
+marketing materials for the international market.63
+
+ — Boosting financial infrastructure that helps underfinanced MSMEs. An open data 
+
+framework, for instance, can enable financial institutions to use nontraditional data sources 
+for credit underwriting, targeted at a range of underfinanced companies including MSMEs. 
+An Experian study showed that including utility data allowed 20 percent of “thin-file” credit 
+customers with scant documentation to support their credit application to become “thick-
+
+file” customers who have higher loan approval rates.64 For small businesses, this can increase 
+access to financing, provide greater convenience, and improve product options.65 Financial 
+institutions could also benefit from efficiency improvements, better fraud prediction, and 
+reduced friction and cost of data intermediation. Governments can also help businesses 
+improve their working capital management by improving tax-related infrastructure and 
+systems. In Latin America, countries such as Brazil, Chile, Colombia, and Peru have launched 
+initiatives aimed at radically simplifying business registration and tax payment processes. 
+One reform enabled businesses to formally register in a day.66
+
+In addition to these interventions, policy makers can also facilitate the availability of globally 
+consistent yet granular data to enable all stakeholders to take a microscopic approach to 
+understanding and thereby improving the productivity of MSMEs.
+
+Large companies can boost the competencies of MSMEs within their value chains 
+As discussed earlier in this report, networks and linkages between MSMEs and large companies 
+benefit the growth and performance of both. One study of small businesses in New York found 
+that seven out of ten of them increased their revenue within two years of becoming part of a 
+corporate supplier base.67 A 2023 study of Belgian companies found that when MSMEs started 
+supplying superstar companies for the first time, their productivity increased by about 8 percent 
+after four years. They also achieved an increase in sales to businesses other than the new 
+superstar partner.68
+
+But it is not a one-way street. As noted earlier, large companies also appear to benefit when their 
+MSME partners and suppliers are more productive. This could be because large companies often 
+depend on MSMEs in most parts of the value chain, from development to supply, production, 
+service delivery, distribution, and sales and post-sales. For example, a large logistics player 
+works with local delivery partners for last-mile delivery, and a small recruiting agency might help 
+a large company fill key positions. Large companies therefore had an incentive to raise MSME 
+capabilities. The following three ways are pivotal: 
+
+ — Assisting MSME partners to build digital and R&D capabilities. Unilever’s open innovation 
+platform Foundry connects its different divisions with startups to engage in joint ideation and 
+mentorship opportunities, for instance.69 Google helps small businesses that purchase ad 
+placements from it in gaining a deeper understanding of customer behavior and in improving 
+the utilization and efficiency of ad spaces.70 In India, Maruti Suzuki set up a “comprehensive 
+excellence” program for its main MSME suppliers. In 2018–19, 50 percent of the company’s 
+suppliers met the performance standards laid out and reported improved efficiency, more 
+interest from investors, and broader access to procurement and R&D opportunities.71 
+Nestlé’s Nescafe Plan has provided training to small coffee farmers for techniques to 
+increase crop yields.72
+
+ — Conferring MSME partners with an ability to build workforce capabilities. One example 
+is Apple, which launched a $50 million fund in collaboration with the International Labour 
+Organization and the International Organization for Migration to provide learning and skills 
+development opportunities for the employees of its suppliers.73 In India, Walmart launched 
+a Supplier Development Program to train and prepare 50,000 small businesses to better 
+integrate into global supply chains.74
+
+ — Lending weight to the reputation of MSMEs when requesting finance. For example, 
+
+DuPont leveraged its relationship with a financial institution to secure working capital credit 
+for its MSME suppliers in rural areas, thereby strengthening its supply chain and increasing 
+sales.75 Large financial institutions have a particularly important role in providing affordable 
+credit and better product options to MSMEs. Innovative underwriting approaches that 
+use alternative credit data can help; an Experian survey found that 70 percent of small 
+businesses are willing to furnish additional financial information if it will improve the chances 
+of loan approval or reduce borrowing rates.76
+
+42
+
+A microscope on small businessesMSMEs can collaborate with one another to achieve network efficiencies
+Collaboration among MSMEs can help build their capabilities. In Europe, for instance, 30 to 
+40 percent of SMEs do not belong to any formal network, but can still forge collaborations.77 That 
+collaboration can even be at the level of individual MSMEs. Innovative companies cooperate on 
+business activities with other organizations more than those that are not innovative.78 One OECD 
+study of SMEs operating in Association of Southeast Asian Nations economies found that they 
+perform better when they are allied with large enterprises, but also when they strike partnerships 
+with other MSMEs.79 Japan’s Small and Medium Enterprise Agency has shown that SMEs that 
+have partnered with other small enterprises in order to implement technology solutions in their 
+operations have 76 percent more sales per employee than those that haven’t taken this route.80 
+For example, a small sheet-metal processor in Japan wanted to incorporate in-house cloud 
+computing into its operations and partnered with two other enterprises in the same sector, but 
+with different specialties. Together, the three companies built a joint order reception system, 
+which enables them to collaborate on a range of projects with the same clients. All three MSMEs 
+improved the digital and management capabilities of their manufacturing operations.81
+
+Broader MSME collaborations at the association or group level can help more small businesses 
+raise productivity through knowledge sharing, mentoring, networking, and online platforms. The 
+SME Finance Forum works with more than 240 active member institutions—financial institutions, 
+technology companies, development finance institutions, and relevant large corporations—to 
+facilitate resources to help MSMEs bridge their financial access gap.82 The DIGITAL SME Alliance 
+in Europe launched a platform for traditional SMEs to access a catalog of digital solutions 
+ranging from videoconferencing to AI modeling.83
+
+Other companies can also facilitate the creation of such MSME networks. For example, IBM, in 
+collaboration with other Fortune 500 companies, launched a Supplier Connection initiative that 
+connects small suppliers to one another and to large businesses to access new opportunities.84 
+SABI, an African digital infrastructure provider, fosters connections between MSME merchants, 
+wholesalers, distributors, and manufacturers. It also provides them with enterprise resource 
+planning tools, B2B commerce interfaces, and financial services, enabling MSMEs to reach new 
+customers, improve their cash flow, and streamline their logistics.85
+
+Raising productivity is, and always has been, the optimal route to healthier incomes and business 
+resilience. In a world beset by uncertainty amid geopolitical tensions and shifts in manufacturing 
+and services footprints, raising the game of the world’s MSMEs—which are so central to jobs, 
+livelihoods, value creation, and economic growth—is a priority. The potential is large, but 
+efforts to capture it need to be thoughtful and very likely targeted. Only by having a granular 
+understanding of MSME productivity can effective action be taken. That action can create a win-
+win for all companies, small and large. 
+
+43
+
+A microscope on small businesses© LumiNola/Getty Images
+
+Young man working with  
+clay in a pottery studio in 
+South Africa
+
+Acknowledgments
+
+This report is the latest publication in MGI’s work on productivity and prosperity. The research 
+was led by Anu Madgavkar, an MGI partner in New Jersey; Marco Piccitto, a senior partner and 
+chairman of the MGI Council; Olivia White, a McKinsey senior partner and a director of MGI in 
+San Francisco; María Jesús Ramirez, a consultant in the Silicon Valley office; Jan Mischke, an 
+MGI partner in Zurich; and Kanmani Chockalingam, an MGI fellow in San Francisco. We are 
+very grateful to Lola Woetzel for her input and guidance. The team comprised Michael Barger, 
+Lucie Bertholon, Nina Chen, Lodovico Ferrario, Ana Carolina Leonardi, Elina Mäkelä, Tomasz 
+Mataynski, Erika Rizzo, and Jake Weppner. The report was edited by Janet Bush, an MGI 
+executive editor in London. 
+
+We give particular thanks for their guidance to MGI advisers Martin Neil Baily, senior fellow 
+emeritus in economic studies at the Brookings Institution, and Matthew Slaughter, Paul Danos 
+Dean of the Tuck School of Business and the Earl C. Daum 1924 Professor of International 
+Business, Dartmouth College.
+
+Many colleagues gave us input and guidance, namely Tera Allas, Charles Atkins, Michael Birshan, 
+Chris Bradley, Andres Cadena, Marc Canal, David Chinn, Aurélie Espérandieu, Maya Horii, 
+Tsuyoshi Katagiri, Ryan Luby, Deepa Mahajan, Eliav Pollack, and Sven Smit.
+
+Finally, we want to thank colleagues at MGI, including senior data visualization editor  
+Juan M. Velasco; Chuck Burke, data visualization developer; digital editor David Batcheck; 
+directors of communications Nienke Beuwer and Rebeca Robboy; Rachel Robinson, director 
+of publishing; Rishabh Chaturvedi, assistant managing editor; and Ashley White, MGI 
+communications coordinator. We are also grateful to Amanda Soto and Nathan R. Wilson, 
+McKinsey lead designers.
+
+This research contributes to our mission to help business and policy leaders understand the 
+forces transforming the global economy. As with all MGI research, it is independent and has not 
+been commissioned or sponsored in any way by any business, government, or other institution.
+
+45
+
+A microscope on small businesses 
+ 
+© stevecoleimages/Getty Images
+
+Electrician at home 
+construction site in 
+the United States
+
+Endnotes
+
+10  The productivity puzzle: A closer 
+
+look at the United States, McKinsey 
+Global Institute, March 2017.
+
+11  Prableen Bajpai, “An overview 
+of Israel’s economy,” Nasdaq, 
+November 2023.
+
+12  Colin Mason and Ross Brown, 
+
+Entrepreneurial ecosystems and 
+growth oriented entrepreneurship, 
+OECD LEED Programme, November 
+2013; and Jonathan Friedrich,  
+Amit Noam, and Elie Ofek, “Right 
+up the middle: How Israeli firms go 
+global,” Harvard Business Review, 
+May 2014.
+
+1   “Micro-, Small and Medium-sized 
+
+Enterprises Day, 27 June,” United 
+Nations, June 2023.
+
+13 “Israel,” in Financing SMEs and 
+entrepreneurs 2022: An OECD 
+scoreboard, OECD, March 2022.
+
+2  Geopolitics and the geometry of 
+global trade, McKinsey Global 
+Institute, January 2024.
+
+3  Countries classified as “advanced 
+emerging,” “secondary emerging,” 
+or “frontier” by FTSE Russell have 
+been categorized as emerging 
+economies for this research. For 
+more detail, see FTSE equity 
+country classification September 
+2023 annual announcement, FTSE 
+Russell, September 2023.
+
+4  Levels of subsectors are defined 
+by the International Standard 
+Industrial Classification of All 
+Economic Activities (ISIC), Revision 4 
+or equivalent. See International 
+Standard Industrial Classification of 
+All Economic Activities (ISIC), Rev. 4, 
+United Nations, 2008.
+
+5  Beldina Owalla et al., “Mapping SME 
+productivity research: A systematic 
+review of empirical evidence and 
+future research agenda,” Small 
+Business Economics, volume 58, 
+issue 3, March 2022.
+
+6  Fredrik Heyman, Pehr-Johan 
+
+Norbäck, and Lars Persson, “Who 
+creates jobs and who creates 
+productivity? Small versus large 
+versus young versus old,” Economics 
+Letters, volume 164, March 2018. 
+
+7 
+
+Is small still beautiful?, International 
+Labour Organization, April 2013.
+
+8  Daniel Wilmoth, “Small business 
+job creation,” US Small Business 
+Administration Office of Advocacy, 
+April 2022.
+
+9  Small and medium enterprises 
+
+(SMEs) finance: Improving SMEs 
+access to finance and finding 
+innovative solutions to unlock  
+source of capital, World Bank, 
+October 2019.
+
+14  India’s turning point: An economic 
+
+agenda to spur growth and  
+jobs, McKinsey Global Institute, 
+August 2020.
+
+15  Alex Coad and Stjepan Srhoj, 
+
+“Catching gazelles with a lasso: Big 
+data techniques for the prediction of 
+high-growth firms,” Small Business 
+Economics, volume 55, number 3, 
+October 2020.
+
+16  Felipe Sánchez and Philipp Hartlieb, 
+“Innovation in the mining industry: 
+Technological trends and a case 
+study of the challenges of disruptive 
+innovation,” Mining, Metallurgy & 
+Exploration, volume 37, number 5, 
+October 2020; Critical minerals 
+market review 2023, International 
+Energy Agency, December 2023; 
+and McKinsey Technology Trends 
+Outlook 2023, July 2023.
+
+17  The low productivity challenges 
+of microenterprises in emerging 
+economies could be linked to 
+informality. According to the World 
+Bank, almost 80 percent of all 
+MSMEs in emerging economies are 
+informal. These businesses typically 
+have limited access to markets, 
+finance, and government support, 
+restricting their productivity. We 
+estimate that informal employment 
+in our sample emerging economies 
+is only one-quarter to one-fifth as 
+productive as formal employment. 
+See Micro-, small and medium-
+sized enterprises (MSMEs) and their 
+role in achieving the Sustainable 
+Development Goals, United Nations 
+Department of Economic and Social 
+Affairs, 2020; and Guillermo E. Perry 
+et al., Informality: Exit and exclusion, 
+World Bank, 2007.
+
+18  For instance, over the past two 
+
+decades, as Brazil transitioned from 
+being a lower-middle-income to an 
+
+upper-middle-income economy, 
+about nine percentage points of tiny 
+microenterprises (with fewer than 
+five employees) advanced into larger 
+micro- and small enterprises (with 
+five to 30 employees), but there was 
+no net movement into higher size 
+categories from 2002 to 2021.
+
+19  Sander Wennekers and Roy Thurik, 
+“Linking entrepreneurship and 
+economic growth,” Small Business 
+Economics, volume 13, August 1999.
+
+20  Lydia Saad, Historically low faith in 
+U.S. institutions continues, Gallup, 
+July 2023.
+
+21  Robert W. Vossen, “Relative 
+
+strengths and weaknesses of small 
+firms in innovation,” International 
+Small Business Journal, volume 15, 
+issue 3, December 2012; Ming-Jer 
+Chen and Donald C. Hambrick, 
+“Speed, stealth, and selective attack: 
+How small firms differ from large 
+firms in competitive behaviour,” 
+Academy of Management Journal, 
+volume 38, number 2, April 1995.
+
+22  David Weil, “Understanding the 
+present and future of work in the 
+fissured workplace context,” RSF: 
+The Russell Sage Foundation  
+Journal of the Social Sciences, 
+December 2019.
+
+23  World Bank Enterprise Survey;  
+The OECD model survey on ICT 
+usage by businesses, second 
+revision, OECD, 2015.
+
+24  Gary Anderson and Audrey Kindlon, 
+“Indicators of R&D performance by 
+size of company,” National Science 
+Foundation, 2019.
+
+25  Trade finance and SMEs: Bridging 
+the gaps in provision, World Trade 
+Organization, 2016.
+
+26  Shujiro Urata, ed., Enhancing SME 
+participation in global value chains: 
+Determinants, challenges, and 
+policy recommendations, Asian 
+Development Bank Institute,  
+March 2021.
+
+27  Christina L. Ahmadjian and Joanne 
+E. Oxley, “Vertical relationships, 
+hostages, and supplier performance: 
+Evidence from the Japanese 
+automotive industry,” Journal of Law, 
+Economics & Organization, volume 
+29, number 3, June 2013.
+
+28  The 24 subsectors within the 
+manufacturing sector are 
+manufacturing of food products; 
+beverages; tobacco products; 
+textiles; wearing apparel; leather 
+products; wood products; paper 
+products; recorded media; coke 
+
+and refined petroleum products; 
+chemical products; pharmaceutical 
+products; rubber and plastics; 
+nonmetallic mineral products; basic 
+metals; fabricated metal products; 
+electronics; electrical equipment; 
+machinery and equipment; 
+automotives; other transport 
+equipment; furniture; repair and 
+installation of machinery and 
+equipment; and other manufacturing, 
+for example, of medical instruments 
+and sports goods. 
+
+29  This is the simple average for nine 
+
+sample countries for which we have 
+data for 219 level-three subsectors: 
+Brazil and Mexico among emerging 
+economies, and Germany, Italy, 
+Poland, Portugal, Spain, the United 
+Kingdom, and the United States 
+among advanced economies.
+
+30  Sangeeta Bharadwaj Badal, “How 
+large corporations can spur small-
+business growth,” Gallup Business 
+Journal, January 2013.
+
+31  Dougal Jamieson et al., Large 
+
+businesses and SMEs: Exploring how 
+SMEs interact with large businesses, 
+ORC International, July 2012.
+
+32  Busting the five biggest B2B 
+
+e-commerce myths, McKinsey & 
+Company, January 2022.
+
+33  The impact of trade policies 
+and agreements on MSMEs’ 
+sustainability, Global Council for  
+the Promotion of International 
+Trade; and “The private sector and 
+the catalytic role of micro, small 
+and medium-sized enterprises,” in 
+Development Co-operation Report 
+2018: Joining forces to leave no one 
+behind, OECD, 2018. 
+
+34  Of the 68 subsectors analyzed,  
+
+46 subsectors showed a correlation 
+of more than 60 percent between 
+large company and MSME 
+productivity, and 56 subsectors 
+showed a correlation of more than 
+40 percent. 
+
+35  Andre van Stel, Boris Lokshin, and 
+Nardo de Vries, “The effect of SME 
+productivity increases on large firm 
+productivity in the EU,” KYKLOS, 
+volume 72, number 2, May 2019.
+
+36  Albert Berry, SME competitiveness: 
+
+The power of networking and 
+subcontracting, Inter-American 
+Development Bank, January 1997.
+
+37  Keiretsu networks are business 
+networks made up of different 
+companies, including manufacturers, 
+supply chain partners, distributors, 
+and sometimes financiers. 
+
+47
+
+A microscope on small businesses81  Ibid.
+
+82  SME Finance Forum. 
+
+83  OECD Digital for SMEs Global 
+
+Initiative (D4SME), OECD, 2022.
+
+84  Freddie Pierce, “IBM launches  
+
+new Supplier Connection portal,” 
+Supply Chain Digital, May 17, 2020.
+
+85  Sabi.
+
+38  Jeffrey Liker and Thomas Y. 
+
+53  A review of micro, small and medium 
+
+Choi, “Building deep supplier 
+relationships,” Harvard Business 
+Review, December 2004.
+
+enterprises in the ICT sector, 
+International Telecommunication 
+Union, 2016.
+
+39  Stephane Heim, “Capability building 
+and functions of SMEs in business 
+groups: A case study of Toyota’s 
+supply chain,” International Journal 
+of Automotive Technology and 
+Management, volume 13, number 4, 
+October 2013.
+
+40  Mike Veseth, “Italian wine and  
+the paradox of scale: Three  
+case studies,” Wine Economist,  
+July 2023.
+
+41  Productivity in the construction 
+industry, UK: 2021, UK Office for 
+National Statistics, October 2021.
+
+42 “Big opportunities for small firms: 
+Government set to spend £1 in  
+every £3 with small businesses,”  
+UK Government, August 2015.
+
+43  Transforming UK construction: 
+
+Demonstrator projects, Innovation 
+Funding Service, UK Government, 
+2019.
+
+44  Cara EPS: SME Retrofit Consortia, 
+Constructing Excellence, accessed 
+March 4, 2024. 
+
+45  Probuild360, Constructing 
+Excellence, accessed  
+March 4, 2024.
+
+46  Linda M English, “Public private 
+partnerships in Australia: An 
+overview of their nature, purpose, 
+incidence and oversight,” UNSW 
+Law Journal, volume 29, number 3, 
+November 2006.
+
+54  Small and medium-sized 
+
+enterprises: Characteristics and 
+performance, United States 
+International Trade Commission, 
+November 2010. 
+
+55  The scientific R&D subsector 
+
+includes basic and applied research, 
+and experimental development 
+on natural sciences, engineering 
+and technology, medical sciences, 
+biotechnology, agricultural sciences, 
+social sciences, and humanities.
+
+56  The future of wealth and growth 
+hangs in the balance, McKinsey 
+Global Institute, May 2023.
+
+57  Outperformers: High-growth 
+emerging economies and the 
+companies that propel them, 
+McKinsey Global Institute, 
+September 2018.
+
+58  Abdulaziz Albaz, Marco Dondi, Tarek 
+Rida, and Jörg Schubert, “Unlocking 
+growth in small and medium-size 
+enterprises,” McKinsey & Company, 
+July 2020.
+
+59  Productivity solutions grant (PSG), 
+
+GoBusiness, Singapore.
+
+60  Democratising digital commerce in 
+India: An open network for inclusive, 
+competitive marketplaces, Open 
+Network for Digital Commerce,  
+May 2023.
+
+61  Help to scale-up and grow, Gov.UK, 
+
+February 2024.
+
+47  Reinventing construction: A route to 
+higher productivity, McKinsey Global 
+Institute, February 2017.
+
+62  Small business, big world, European 
+Economic and Social Committee, 
+European Union, May 2012.
+
+48  Construction Skills Queensland 
+funding, TAFE Queensland, 
+accessed March 4, 2024. 
+
+49  Bernhard Dachs et al., EU wholesale 
+trade: Analysis of the sector and 
+value chains, European Commission, 
+June 2016.
+
+50  Matthias Fauth, Benjamin Jung, 
+
+and Wilhelm Kohler, “German firms 
+in international trade: Evidence 
+from recent microdata,” Journal of 
+Economics and Statistics, volume 
+243, number 3–4, June 2023. 
+
+51  Coffee Friend.
+
+52  Robert D. Atkinson, The National 
+
+Economic Council gets it wrong on 
+the role of big and small firms in U.S. 
+innovation, Information Technology & 
+Innovation Foundation, July 2023.
+
+63  CanExport funding for exporters, 
+innovators, associations and 
+communities, Trade Commissioner 
+Service, Government of Canada, 
+February 2024.
+
+64  Let there be light: The impact of 
+
+positive energy-utility reporting on 
+consumers, Experian, 2015.
+
+65  Financial data unbound: The value 
+of open data for individuals and 
+institutions, McKinsey Global 
+Institute, June 2021.
+
+66  Regis Augusto Ely, Daniel de Abreu 
+Pereira Uhr, and Júlia Gallego Ziero 
+Uhr, “The impact of the individual 
+microentrepreneur program on the 
+Brazilian labor market,” Economic 
+Analysis of Law Review, volume 
+10, number 2, May–August 2019; 
+and Tu empresa en un día, Chilean 
+Subsecretaría de Economía y 
+
+48
+
+A microscope on small businesses
+
+Empresas de Menor Tamaño,  
+July 26, 2023. 
+
+67  Giving small firms the business, 
+Center for an Urban Future, 2011.
+
+68  Mary Amiti et al., FDI and superstar 
+spillovers: Evidence from firm-to-
+firm transactions, National Bureau of 
+Economic Research, working paper 
+number 31128, October 2023. 
+
+69  Shameen Prashantham, “The two 
+
+ways for startups and corporations to 
+partner,” Harvard Business Review, 
+January 2019. 
+
+70  Google for Small Businesses.
+
+71  Falendra Kumar Sudan, Leveraging 
+
+the participation of small and 
+medium-sized enterprises in global 
+value chains of the automotive 
+Industry: Insights from Maruti Suzuki 
+India Limited, ADBI working paper 
+number 1167, Asian Development 
+Bank Institute, July 2020.
+
+72  Mark Segal, “Nestle commits over  
+$1 billion to sustainable coffee 
+farming plan,” ESG Today,  
+October 4, 2022.
+
+73  “Apple launches $50 million Supplier 
+
+Employee Development Fund,” 
+Apple, March 30, 2022.
+
+74 “Walmart empowers MSMEs  
+to accelerate growth and  
+access new markets,” Walmart, 
+December 9, 2019.
+
+75  Partnerships for small enterprise 
+development, United Nations 
+Industrial Development  
+Organization, 2009.
+
+76  Stefani Wendel, What is  
+alternative credit data?,  
+Experian, September 2018.
+
+77  OECD SME and Entrepreneurship 
+Outlook 2023, OECD, June 2023; 
+and Firouze Pourmand Hilmersson 
+and Mikael Hilmersson, “Networking 
+to accelerate the pace of SME 
+innovations,” Journal of Innovation 
+and Knowledge, volume 6, number 1, 
+January–March 2021.
+
+78  OECD SME and Entrepreneurship 
+Outlook 2023, OECD, June 2023.
+
+79 “Productivity, technology and 
+innovation,” in SME Policy 
+Index: ASEAN 2018: Boosting 
+competitiveness and inclusive 
+growth, OECD, 2018.
+
+80  White paper on small and  
+
+medium enterprises in Japan, 
+National Association of Small and 
+Medium Enterprise Promotion 
+Organizations, 2018. 
+
+McKinsey Global Institute 
+May 2024 
+Copyright © McKinsey & Company 
+Designed by the McKinsey Global Institute
+
+mckinsey.com/mgi
+
+       @McKinsey_MGI 
+
+ @McKinseyGlobalInstitute 
+       @McKinseyGlobalInstitute
+
+Subscribe to MGI’s podcast, Forward Thinking: 
+mck.co/forwardthinking
+
+ 
+ 
+

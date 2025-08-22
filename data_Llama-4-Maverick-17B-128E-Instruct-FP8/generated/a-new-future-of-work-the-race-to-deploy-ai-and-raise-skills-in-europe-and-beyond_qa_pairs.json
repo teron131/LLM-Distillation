@@ -1,0 +1,1445 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe McKinsey Global Institute report \"A new future of work\" examines the impact of AI and automation on labor markets in Europe and the United States, predicting significant shifts in labor demand by 2030. The report forecasts that up to 30% of current hours worked could be automated, leading to 12 million occupational transitions in Europe and almost 12 million in the United States. To adapt, businesses will need to upgrade workers' skills, particularly in technological, social, and emotional areas, while workers with lower wages will face challenges in redeploying to higher-wage occupations. The report suggests that proactive worker redeployment and technology adoption could revive productivity growth and create better societal outcomes.",
+  "qa_pairs": [
+    {
+      "question": "When was the McKinsey Global Institute established?",
+      "answer": "1990."
+    },
+    {
+      "question": "What is the mission of the McKinsey Global Institute?",
+      "answer": "To provide a fact base to aid decision making on the economic and business issues most critical to the world\u2019s companies and policy leaders."
+    },
+    {
+      "question": "What are the five major themes of the McKinsey Global Institute's research?",
+      "answer": "Productivity and prosperity, Resources of the world, Human potential, Global connections, and Technologies and markets of the future."
+    },
+    {
+      "question": "What is the predicted change in labor demand by 2030 due to automation?",
+      "answer": "Up to 30 percent of current hours worked could be automated."
+    },
+    {
+      "question": "Which professions are expected to see a rise in demand according to the report?",
+      "answer": "STEM-related, healthcare, and other high-skill professions."
+    },
+    {
+      "question": "Which occupations are expected to see a decline in demand?",
+      "answer": "Office workers, production workers, and customer service representatives."
+    },
+    {
+      "question": "What factors could shift employment demand alongside AI and automation?",
+      "answer": "Efforts to achieve net-zero emissions, an aging workforce, growth in e-commerce, infrastructure and technology spending, and overall economic growth."
+    },
+    {
+      "question": "By 2030, what percentage of current hours worked could be automated in a midpoint adoption scenario?",
+      "answer": "Up to 30 percent."
+    },
+    {
+      "question": "How many occupational transitions could Europe require by 2030?",
+      "answer": "Up to 12 million."
+    },
+    {
+      "question": "What type of skills could see a rise in demand as a result of changes in labor demand?",
+      "answer": "Technological and social and emotional skills."
+    },
+    {
+      "question": "What is the potential annual productivity growth rate in Europe if it adopts accelerated technology adoption with proactive worker redeployment by 2030?",
+      "answer": "Up to 3 percent."
+    },
+    {
+      "question": "What is the expected outcome if there is slow worker redeployment?",
+      "answer": "Millions would be left unable to participate productively in the future of work."
+    },
+    {
+      "question": "Which regions are the focus of the report's labor market study?",
+      "answer": "Europe and the United States."
+    },
+    {
+      "question": "What is the risk if workers with lower wages do not acquire new skills?",
+      "answer": "A more polarized labor market, with more higher-wage jobs than workers and too many workers for existing lower-wage jobs."
+    },
+    {
+      "question": "What is the focus of the report in terms of geographical regions?",
+      "answer": "The report focuses on labor markets in Europe and the United States."
+    },
+    {
+      "question": "What has been the long-term trend in employment in Europe and the United States?",
+      "answer": "Employment has shifted toward service sectors, with a decline in the share of employment in agriculture, industry, and mining."
+    },
+    {
+      "question": "What are the factors contributing to labor market tightness in Europe?",
+      "answer": "Labor market tightness in Europe is attributed to a rapidly aging population and a steady fall in working hours."
+    },
+    {
+      "question": "How has the pandemic impacted workplaces in terms of work arrangements?",
+      "answer": "The pandemic led to an increased adoption of hybrid work, with the number of people working fully on-site dropping from about 90 percent in 2018 to around 60 percent between 2021 and 2022."
+    },
+    {
+      "question": "What happened to the time saved from not commuting due to hybrid work?",
+      "answer": "Only 40 percent of the 72 minutes saved daily from not having to commute is allocated to work, with the rest mostly allocated to leisure and caregiving."
+    },
+    {
+      "question": "What percentage of the working population was working fully on-site in 2018?",
+      "answer": "About 90 percent."
+    },
+    {
+      "question": "What happened to the number of people working fully on-site between 2021 and 2022?",
+      "answer": "The number dropped to some 60 percent."
+    },
+    {
+      "question": "What percentage of the 72 minutes saved daily from not having to commute is allocated to work?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What is the overall impact of reduced commuting time on productivity?",
+      "answer": "The overall impact on productivity is still being debated."
+    },
+    {
+      "question": "Why is productivity crucial for companies in the global economy?",
+      "answer": "Productivity is crucial for remaining competitive."
+    },
+    {
+      "question": "What happens when a company becomes more productive?",
+      "answer": "It can produce more or higher-quality goods or services with the same amount of resources, often leading to lower production costs."
+    },
+    {
+      "question": "What has Europe experienced in terms of productivity growth since the 1960s?",
+      "answer": "Europe has experienced a long-term productivity slowdown, with productivity growth almost steadily decreasing."
+    },
+    {
+      "question": "In which two areas do European companies still have an edge over US peers?",
+      "answer": "Cleantech and next-gen materials."
+    },
+    {
+      "question": "What was the unemployment rate in Europe and the United States in the third quarter of 2023?",
+      "answer": "6.0 percent in Europe and 3.7 percent in the United States."
+    },
+    {
+      "question": "What was the decrease in European and US productivity growth between 1950 and 2022?",
+      "answer": "European productivity growth decreased by seven percentage points, and US productivity growth decreased by three percentage points."
+    },
+    {
+      "question": "How is productivity defined in the given context?",
+      "answer": "Productivity is defined as GDP per hour worked, in 2010 dollars, as measured by purchasing-power parity."
+    },
+    {
+      "question": "What has the potential to revive productivity growth according to the text?",
+      "answer": "Automation technology has the potential to revive productivity growth."
+    },
+    {
+      "question": "Where are most AI-related innovations developed?",
+      "answer": "Most AI-related innovations are developed in the United States."
+    },
+    {
+      "question": "What are the fears associated with the adoption of AI technologies in Europe and the US?",
+      "answer": "The fears are that the adoption of these technologies could prove disruptive to labor markets and exacerbate the challenges of both finding requisite skills in the workforce and enabling workers to move from declining occupations into rising ones."
+    },
+    {
+      "question": "Where are most AI-related innovations developed?",
+      "answer": "The United States."
+    },
+    {
+      "question": "What percentage of the working population in Europe exited their occupational categories between 2019 and 2022?",
+      "answer": "3 percent."
+    },
+    {
+      "question": "What was the percentage of the US working population affected by occupational shifts between 2019 and 2022?",
+      "answer": "5.5 percent."
+    },
+    {
+      "question": "What is the estimated productivity growth in Europe associated with a faster technology adoption scenario?",
+      "answer": "Roughly 2 to 3 percent per year."
+    },
+    {
+      "question": "How many occupational transitions are estimated to be required in Europe in a faster technology adoption scenario?",
+      "answer": "Some 12 million."
+    },
+    {
+      "question": "What is the basis for the estimates mentioned in the text regarding US occupational shifts?",
+      "answer": "US Bureau of Labor Statistics data."
+    },
+    {
+      "question": "What is the estimated productivity growth in Europe under a faster technology adoption scenario?",
+      "answer": "Roughly 2 to 3 percent per year."
+    },
+    {
+      "question": "How many occupational transitions are required in Europe under a faster technology adoption scenario?",
+      "answer": "Some 12 million."
+    },
+    {
+      "question": "What is the basis of the methodology used for estimating occupational transitions in this report?",
+      "answer": "Methodology consistent with other McKinsey Global Institute reports on the future of work, dating back to 2017."
+    },
+    {
+      "question": "What is the time period focused on for the analysis in this report?",
+      "answer": "The 2022\u201330 period."
+    },
+    {
+      "question": "Which countries are included in the analysis for Europe?",
+      "answer": "The Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and the United Kingdom."
+    },
+    {
+      "question": "What are the two scenarios used to bookend the work-automation model?",
+      "answer": "\u201cLate\u201d and \u201cearly\u201d scenarios."
+    },
+    {
+      "question": "What drivers are included in the modeling to understand the impact of automation and overall potential changes in demand in each occupation?",
+      "answer": "Automation adoption, net-zero transition, e-commerce growth, remote work adoption, increases in income, aging populations, technology investments, infrastructure investments, marketization of unpaid work, new jobs, and increased educational levels."
+    },
+    {
+      "question": "What are the two scenarios used to bookend the work-automation model?",
+      "answer": "The 'late' and 'early' scenarios."
+    },
+    {
+      "question": "How is the 'faster' scenario for Europe modeled?",
+      "answer": "The 'faster' scenario for Europe is modeled using the midpoint, which is the arithmetical average between the late and early scenarios."
+    },
+    {
+      "question": "What scenario is used for the United States?",
+      "answer": "The midpoint scenario, based on earlier research, which is an arithmetical average between the late and early scenarios of automation technology adoption."
+    },
+    {
+      "question": "How is automation displacement calculated?",
+      "answer": "By multiplying the projected number of FTEs by the estimated automation adoption rate for each occupation in each country."
+    },
+    {
+      "question": "What is used as the measure of productivity?",
+      "answer": "GDP per full-time-equivalent (FTE) employee."
+    },
+    {
+      "question": "What are the main sources of data for the report?",
+      "answer": "National and regional labor surveys, such as the Current Population Survey for the US and the Labor Force Survey for Europe."
+    },
+    {
+      "question": "What data sources were used for the Europe analysis?",
+      "answer": "The Labor Force Survey carried out by the European Commission and local labor agencies' data."
+    },
+    {
+      "question": "How many executives were surveyed in the analysis?",
+      "answer": "More than 1,100 executives in five countries."
+    },
+    {
+      "question": "What are the three limitations of the model used in the analysis?",
+      "answer": "First, structural attributes such as management-employee relations and regulatory framework would affect the scenario. Second, labor demand could shift based on macroeconomic shifts in consumption. Third, the model does not account for changes in industrial production, trade, or labor migration driven by geopolitical, climatic, or social factors."
+    },
+    {
+      "question": "What is the 'deflationist' nature of technology adoption?",
+      "answer": "As automation increases productivity and income and lowers costs and prices of goods and services, it could shift consumption, and thus labor demand, in unanticipated ways."
+    },
+    {
+      "question": "What is the expected growth in demand for STEM and health professionals by 2030 in the faster, midpoint technology adoption scenario?",
+      "answer": "17 to 30 percent between 2022 and 2030."
+    },
+    {
+      "question": "How many positions are expected to be added in Europe for STEM and health professionals by 2030?",
+      "answer": "Seven million positions."
+    },
+    {
+      "question": "What is the expected growth in demand for health aides, technicians, and wellness workers between 2022 and 2030?",
+      "answer": "25 to 30 percent."
+    },
+    {
+      "question": "What is the expected growth in demand for STEM and health professionals in Europe and the United States between 2022 and 2030?",
+      "answer": "Demand for STEM and health professionals is expected to grow by 17 to 30 percent, adding seven million positions in Europe and an additional seven million in the United States."
+    },
+    {
+      "question": "Which occupations are expected to continue growing in demand between 2022 and 2030?",
+      "answer": "Demand for health aides, technicians, and wellness workers is expected to grow by 25 to 30 percent, adding 3.3 million positions in Europe and 3.5 million in the United States."
+    },
+    {
+      "question": "What types of jobs are likely to decline in demand until 2030?",
+      "answer": "Jobs in food services, production work, customer services, sales, and office support are likely to continue declining in demand."
+    },
+    {
+      "question": "Why are jobs in customer service, sales, and office support expected to decline?",
+      "answer": "These jobs involve a high share of repetitive tasks, data collection, and elementary data processing, which can be handled efficiently by automated systems."
+    },
+    {
+      "question": "What is the expected change in demand for occupations such as management, construction, and transportation services?",
+      "answer": "Demand for these occupations is expected to increase by about 8 to 9 percent."
+    },
+    {
+      "question": "Are there any differences in the occupations with growing or diminishing demand between Europe and the United States?",
+      "answer": "Yes, there are differences due to variations in occupational composition and cultural specificities between the two regions."
+    },
+    {
+      "question": "What is the expected change in labor demand for healthcare and STEM roles in Europe by 2030?",
+      "answer": "Demand for healthcare and STEM roles could grow."
+    },
+    {
+      "question": "What is the expected change in labor demand for office support and customer service roles in Europe by 2030?",
+      "answer": "Demand for office support and customer service roles could decline."
+    },
+    {
+      "question": "How many occupational transitions may be needed in Europe by 2030 under the faster automation adoption scenario?",
+      "answer": "Some 12.0 million occupational transitions would be needed by 2030 in the ten European countries."
+    },
+    {
+      "question": "What percentage of the current employed workforce in Europe will be affected by occupational transitions under the faster automation adoption scenario?",
+      "answer": "6.5 percent of the current employed workforce."
+    },
+    {
+      "question": "How many occupational transitions may be needed in the United States by 2030 under the midpoint scenario?",
+      "answer": "11.8 million occupational shifts."
+    },
+    {
+      "question": "What is the difference between the faster and slower automation adoption scenarios in terms of occupational transitions needed in Europe?",
+      "answer": "Under the faster scenario, 12.0 million occupational transitions are needed, while under the slower scenario, 8.5 million occupational transitions are needed."
+    },
+    {
+      "question": "What is the expected change in occupational transitions in Europe between 2022 and 2030?",
+      "answer": "The number of occupational transitions in Europe is expected to rise to between 1.1 million and 1.5 million annually, which is 1.6 to 2.2 times the historical 2016\u201319 rate."
+    },
+    {
+      "question": "How does the historical rate of occupational transitions in Europe compare to that of the United States?",
+      "answer": "Between 2016 and 2019, 0.4 percent of the European workforce shifted occupations annually, compared to about 1.2 percent of the US workforce."
+    },
+    {
+      "question": "What was the impact of the COVID-19 pandemic on occupational shifts in Europe and the United States?",
+      "answer": "During the pandemic, occupational shifts increased significantly, reaching 2.2 million in Europe and 2.9 million in the United States each year."
+    },
+    {
+      "question": "What is the anticipated number of occupational transitions needed annually in the United States between 2022 and 2030?",
+      "answer": "The number of occupational transitions needed annually in the United States could reach 1.5 million."
+    },
+    {
+      "question": "How do the anticipated occupational transitions between 2022 and 2030 compare to the historical rate in the United States?",
+      "answer": "The anticipated number of occupational transitions in the United States would be slightly lower than the historical 2016\u201319 rate."
+    },
+    {
+      "question": "How many occupational shifts occurred in Europe and the United States each year during the pandemic?",
+      "answer": "2.2 million in Europe and 2.9 million in the United States."
+    },
+    {
+      "question": "What percentage of the workforce in Europe and the United States underwent occupational shifts during the pandemic?",
+      "answer": "1.2 percent in Europe and 1.8 percent in the United States."
+    },
+    {
+      "question": "What is the difference in the anticipated pace of occupational transitions in Europe and the United States from 2022 to 2030 compared to their historical pace from 2019 to 2022?",
+      "answer": "Europe may need faster occupational transitions relative to the past, while the United States could return to its prepandemic pace."
+    },
+    {
+      "question": "What were some of the occupational categories with the highest transitions or shifts in Europe and the United States during the period 2019-22?",
+      "answer": "Office support, customer service and sales, and production work were among the categories with high transitions or shifts in both Europe and the United States."
+    },
+    {
+      "question": "What is the definition of 'occupational transitions' as used in the text?",
+      "answer": "An individual's move from one occupation to another, distinct from regular employment churn, which includes the movement of individuals between businesses to perform the same occupation."
+    },
+    {
+      "question": "What percentage of current work activities could be automated by 2030?",
+      "answer": "About 30 percent."
+    },
+    {
+      "question": "What is the main driver of the need for occupational transitions by 2030?",
+      "answer": "The automation of work."
+    },
+    {
+      "question": "What percentage of hours worked in Europe and the United States could be automated by 2030 with gen AI?",
+      "answer": "27 percent in Europe and 30 percent in the United States."
+    },
+    {
+      "question": "What is the difference in automation potential in Europe and the United States by 2030 with and without gen AI?",
+      "answer": "With gen AI, 27 percent in Europe and 30 percent in the United States; without gen AI, 20 percent in Europe and 21 percent in the United States."
+    },
+    {
+      "question": "What is the predicted percentage of hours worked that could be automated by 2035 in Europe and the United States?",
+      "answer": "45 percent in Europe and 48 percent in the United States."
+    },
+    {
+      "question": "What percentage of work hours could be automated by 2030 in Europe and the United States with the boost from generative AI?",
+      "answer": "Up to 30 percent."
+    },
+    {
+      "question": "Which occupations in Europe could see automation of hours worked more than double with the integration of gen AI?",
+      "answer": "STEM professionals."
+    },
+    {
+      "question": "What is the potential increase in automation of hours worked for roles in education and workforce training with the integration of gen AI in Europe?",
+      "answer": "From 6 percent to 21 percent, more than tripling."
+    },
+    {
+      "question": "How could gen AI impact automation in areas requiring imagination, creativity, and critical judgment?",
+      "answer": "Gen AI could extend automation's influence into these areas."
+    },
+    {
+      "question": "What is the possible increase in the proportion of hours worked being automated in the creative and arts sectors with gen AI?",
+      "answer": "From 9 percent to 22 percent."
+    },
+    {
+      "question": "What is the expected rise in automation adoption for business and legal professions with the integration of gen AI?",
+      "answer": "From 13 percent to 26 percent."
+    },
+    {
+      "question": "What is the predicted increase in automated hours worked in the creative and arts sectors with the introduction of gen AI?",
+      "answer": "From 9 percent to 22 percent."
+    },
+    {
+      "question": "What is the concept of complementarity in the context of AI and work?",
+      "answer": "Complementarity measures the extent to which technologies can support workers in their tasks without replacing them."
+    },
+    {
+      "question": "What factors might hinder the adoption of AI and gen AI according to Box 2?",
+      "answer": "Numerous factors including companies struggling to pinpoint effective applications, lack of workforce expertise, escalating costs due to shortages in computing power or energy resources, sustainability of wage increases, customer acceptance, social, political, or regulatory developments, and technological advancements stalling."
+    },
+    {
+      "question": "How much of data centers' electricity consumption is dedicated to computing for AI and deep learning models?",
+      "answer": "Approximately 40 percent."
+    },
+    {
+      "question": "What is the estimated change in electricity consumption by data centers from 2022 to 2026 according to the International Energy Agency (IEA)?",
+      "answer": "The amount of electricity consumed could more than double, from 460 terawatt-hours to about 1,000 terawatt-hours."
+    },
+    {
+      "question": "What is the predicted increase in automation adoption for business and legal professions with gen AI?",
+      "answer": "From 13 percent to 26 percent."
+    },
+    {
+      "question": "What is estimated to happen to the amount of electricity data centers consume from 2022 to 2026?",
+      "answer": "The amount of electricity data centers consume could more than double from 460 terawatt-hours to about 1,000 terawatt-hours."
+    },
+    {
+      "question": "By when have Europe and the United States committed to achieving net-zero emissions?",
+      "answer": "By 2050."
+    },
+    {
+      "question": "What is the estimated gross displacement of jobs in Europe by 2030 due to the net-zero transition?",
+      "answer": "3.0 million."
+    },
+    {
+      "question": "How many new jobs (gross) could be added in the power sector in both the European Union and the United States by 2030?",
+      "answer": "About a million."
+    },
+    {
+      "question": "What is the target reduction in emissions for Europe and the United States by 2030?",
+      "answer": "Europe aims to reduce emissions by 55 percent and the United States by 50 percent."
+    },
+    {
+      "question": "How many new jobs could be added in the power sector in the European Union and the United States by 2030?",
+      "answer": "About a million new jobs (gross) could be added by 2030."
+    },
+    {
+      "question": "What is driving the demand for healthcare-related services in developed countries?",
+      "answer": "The aging population and surging healthcare spending are driving the demand for healthcare-related services."
+    },
+    {
+      "question": "How many people are expected to be over age 65 in the ten European focus countries in 2030?",
+      "answer": "94 million people are expected to be over age 65 in the ten European focus countries in 2030."
+    },
+    {
+      "question": "At what annual average rate is per capita healthcare spending expected to grow in Europe between 2022 and 2030?",
+      "answer": "Per capita healthcare spending in Europe is expected to grow at an annual average rate of 6.5 percent between 2022 and 2030."
+    },
+    {
+      "question": "How does the number of workers employed in the solar industry compare to the coal industry in the United States?",
+      "answer": "The solar industry employs twice as many workers as the coal industry in the United States."
+    },
+    {
+      "question": "Which country could become a competitive producer of green hydrogen due to its wind energy and solar resources?",
+      "answer": "Spain could become a competitive producer of green hydrogen."
+    },
+    {
+      "question": "By 2030, how many people are expected to be in the elder population in the ten European focus countries?",
+      "answer": "94 million people."
+    },
+    {
+      "question": "What percentage of the overall population in the United States is expected to be in the elder population by 2030?",
+      "answer": "19 percent."
+    },
+    {
+      "question": "At what annual average rate is per capita healthcare spending expected to grow in Europe between 2022 and 2030?",
+      "answer": "6.5 percent."
+    },
+    {
+      "question": "How is e-commerce growth likely to affect labor demand for logistics and warehousing workers?",
+      "answer": "It will likely increase demand."
+    },
+    {
+      "question": "What is the range of net employment in transition across occupations in Europe between 2022 and 2030?",
+      "answer": "From 6.0 percent in the United Kingdom to 7.4 percent in Sweden."
+    },
+    {
+      "question": "What drives the variations in the mix of occupations affected by labor market trends across countries?",
+      "answer": "Differences in the structure of employment, such as the preponderance of certain sectors."
+    },
+    {
+      "question": "What determines the share of the workforce in occupations likely to be disrupted?",
+      "answer": "Differences in the structure of employment, such as the preponderance of certain sectors."
+    },
+    {
+      "question": "Why could countries heavily invested in the oil, gas, and coal sectors have a higher concentration of occupational transitions?",
+      "answer": "Because some types of work are more susceptible to dislocation due to net-zero actions."
+    },
+    {
+      "question": "In which occupational category do transitions constitute the largest share of transitions in all ten European countries studied?",
+      "answer": "Office support."
+    },
+    {
+      "question": "Why is the share of occupational transitions from office support work higher in Germany and Italy?",
+      "answer": "Because they have a relatively high concentration of employment in office support work."
+    },
+    {
+      "question": "Why is automation adoption in office work more likely in Denmark than in Poland?",
+      "answer": "Because wages for office support workers are higher in Denmark than in Poland, making automation more economically incentivized."
+    },
+    {
+      "question": "Which two countries have the highest share of occupational transitions from production work?",
+      "answer": "The Czech Republic and Poland."
+    },
+    {
+      "question": "Why does Poland experience the most impact in agriculture in terms of occupational transitions?",
+      "answer": "Because the agricultural occupation category represents a larger share of total employment in Poland and is not yet highly automated."
+    },
+    {
+      "question": "What percentage of total employment does the agricultural occupation category represent in Poland?",
+      "answer": "6 percent."
+    },
+    {
+      "question": "How does Poland's agricultural automation compare to other countries?",
+      "answer": "Agriculture in Poland is not yet highly automated."
+    },
+    {
+      "question": "What is 'AI readiness' according to the text?",
+      "answer": "A country's ability to adopt and deploy AI technologies across the private and public sectors."
+    },
+    {
+      "question": "What are the four categories that influence AI readiness according to the IMF?",
+      "answer": "Digital infrastructure, innovation and economic integration, human capital and labor market policies, and regulation."
+    },
+    {
+      "question": "Which European country shows the highest level of AI preparedness?",
+      "answer": "Germany, with a score of around 0.8 on a scale of 0.0 to 1.0."
+    },
+    {
+      "question": "What is the scale of occupational transitions across the economies analyzed?",
+      "answer": "Roughly on the same order of magnitude."
+    },
+    {
+      "question": "What is the range of total occupational transitions as a percentage of 2022 employment across the countries listed in Exhibit 6?",
+      "answer": "Between 6.0% and 7.5%."
+    },
+    {
+      "question": "Which two countries are among the highest-scoring in terms of AI readiness?",
+      "answer": "Germany and the United Kingdom."
+    },
+    {
+      "question": "What is the scale of occupational transitions required across the economies analyzed?",
+      "answer": "The scale is roughly on the same order of magnitude."
+    },
+    {
+      "question": "What percentage of total employment is expected to undergo occupational transitions by 2030 in the countries analyzed?",
+      "answer": "The percentages vary by country, ranging from 6.0% to 7.5%."
+    },
+    {
+      "question": "What is the main reason for occupational transitions according to the text?",
+      "answer": "A decline in net demand for an occupation, requiring employees to leave for another occupation."
+    },
+    {
+      "question": "What is the result of new technologies on workforce skills?",
+      "answer": "New technologies require new workforce skills."
+    },
+    {
+      "question": "How many workforce skills were categorized in the McKinsey Global Institute Future of Work model?",
+      "answer": "25"
+    },
+    {
+      "question": "What are the five groups that the 25 workforce skills were categorized into?",
+      "answer": "Physical and manual, basic cognitive, higher cognitive, social and emotional, and technological."
+    },
+    {
+      "question": "Which skills are expected to continue to rise in demand by 2030?",
+      "answer": "Technological expertise, as well as social and emotional skills."
+    },
+    {
+      "question": "How many C-level executives were surveyed for the report?",
+      "answer": "More than 1,100"
+    },
+    {
+      "question": "What is the expected percentage increase in demand for technological skills in Europe by 2030?",
+      "answer": "25 percent"
+    },
+    {
+      "question": "What is the expected percentage increase in demand for social and emotional skills in the United States by 2030?",
+      "answer": "14 percent"
+    },
+    {
+      "question": "Which roles are associated with a higher demand for empathy and leadership skills?",
+      "answer": "Healthcare and managerial roles."
+    },
+    {
+      "question": "By what percentage is demand for roles requiring empathy skills expected to rise in Europe by 2030?",
+      "answer": "20 percent"
+    },
+    {
+      "question": "By what percentage is demand for roles requiring leadership skills expected to rise in the United States by 2030?",
+      "answer": "15 percent"
+    },
+    {
+      "question": "By what percentage could demand for social and emotional skills rise in Europe and the United States by 2030?",
+      "answer": "11 percent in Europe and 14 percent in the United States."
+    },
+    {
+      "question": "What is the expected change in demand for roles requiring empathy and leadership skills in Europe by 2030?",
+      "answer": "Demand for roles requiring empathy and leadership skills could rise by 20 percent and 14 percent, respectively."
+    },
+    {
+      "question": "Why is demand for work in which basic cognitive skills are predominant expected to decline?",
+      "answer": "Because these skills are required primarily in office support or customer service roles, which are highly susceptible to being automated or enhanced by AI."
+    },
+    {
+      "question": "What is the expected change in demand for work in which higher cognitive skills are predominant in Europe and the United States by 2030?",
+      "answer": "Demand is expected to decline by 4 percent in Europe and 2 percent in the United States."
+    },
+    {
+      "question": "What is the expected change in demand for creativity in Europe and the United States by 2030?",
+      "answer": "Creativity is expected to remain highly sought after, with a potential increase of 12 percent in Europe and 16 percent in the United States."
+    },
+    {
+      "question": "Why may demand for advanced literacy and writing, along with quantitative and statistical skills, decline?",
+      "answer": "Because activities primarily requiring these skills have the potential to be automated."
+    },
+    {
+      "question": "What is the expected change in demand for work in which physical and manual skills are predominant in Europe by 2030?",
+      "answer": "Demand could decrease by 1 percent."
+    },
+    {
+      "question": "What factors could contribute to a lower than expected decline in demand for physical and manual skills?",
+      "answer": "The build-out of infrastructure, production shifts in sustainability sectors, a renewed focus on industrialization and reshoring of production, and e-commerce driving demand for warehousing and transportation work."
+    },
+    {
+      "question": "What is the expected change in demand for technological skills in Europe from 2022 to 2030?",
+      "answer": "The text does not provide a direct percentage, but it indicates an increase in demand for technological skills in Europe."
+    },
+    {
+      "question": "What percentage of companies report a shortfall in technological skills?",
+      "answer": "About one-third of companies report a shortfall in technological skills."
+    },
+    {
+      "question": "What is the main reason for the skills mismatch reported by executives?",
+      "answer": "The shift toward a service-based economy that prioritizes higher cognitive and technological skills, as well as the rise of automation and AI, which diminishes the demand for easily replaceable skills."
+    },
+    {
+      "question": "Which skills are expected to see a decrease in total hours worked in Europe from 2022 to 2030?",
+      "answer": "Basic cognitive and physical and manual skills are expected to see a decrease in total hours worked."
+    },
+    {
+      "question": "What US legislation aims to modernize transportation systems and enhance domestic manufacturing?",
+      "answer": "The Bipartisan Infrastructure Law and the America Creating Opportunities for Manufacturing Pre-Eminence in Technology and Economic Strength (America COMPETES) Act."
+    },
+    {
+      "question": "What type of economy has led to a diminished demand for basic cognitive and physical and manual skills?",
+      "answer": "A service-based economy that prioritizes higher cognitive and technological skills."
+    },
+    {
+      "question": "What skills are companies reporting as being in significant shortage?",
+      "answer": "Advanced IT skills and programming, advanced data analysis, mathematical skills, critical thinking, problem structuring, and complex information processing."
+    },
+    {
+      "question": "Is the challenge of skill shortages more acute in Europe or the United States?",
+      "answer": "Europe, where more companies report a shortfall of technological and higher cognitive skills compared to the United States."
+    },
+    {
+      "question": "What skills are projected to experience the most demand growth by 2030?",
+      "answer": "Technological skills, social and emotional skills, and higher cognitive skills."
+    },
+    {
+      "question": "How does the demand for physical and manual skills compare to other skills in terms of growth rate?",
+      "answer": "Physical and manual skills are expected to experience growth, but at a slower rate compared to other skills like technological, social and emotional, and higher cognitive skills."
+    },
+    {
+      "question": "How do companies' expectations for the need for physical and manual skills in the future compare to their expectations in the 2018 executive survey?",
+      "answer": "Companies today expect a greater need for physical and manual skills in the future than they previously anticipated."
+    },
+    {
+      "question": "What is the projected growth in demand for basic IT skills and advanced IT skills?",
+      "answer": "Demand for basic IT skills is projected to grow by 15 percent, while demand for advanced IT skills is expected to surge by 34 percent."
+    },
+    {
+      "question": "What skills are expected to be in high demand by 2030 but are less used today?",
+      "answer": "Skills that are less used today but predicted to be in high demand by 2030 include critical thinking, complex information processing, product design, scientific research, and most social and emotional skills."
+    },
+    {
+      "question": "What type of skills will companies need to acquire or build even as more routine IT tasks are automated by AI?",
+      "answer": "Companies will need to acquire or build specialized technology skills."
+    },
+    {
+      "question": "What are some of the skills that are both heavily used today and expected to significantly increase in demand?",
+      "answer": "Skills that are both heavily used today and expected to significantly increase in demand include advanced IT, technology engineering, advanced data analytics, and creativity."
+    },
+    {
+      "question": "What is the average expected demand increase for skills by 2030 among all survey participants?",
+      "answer": "21 percent."
+    },
+    {
+      "question": "How does the expected demand increase for skills by 2030 differ for executives at higher-profit companies compared to the average?",
+      "answer": "The expected demand increase rises to 30 percent among executives at higher-profit companies, compared to the average of 21 percent."
+    },
+    {
+      "question": "Why are executives from higher-profit companies more likely to anticipate an increase in expected future skills needed by 2030?",
+      "answer": "Because they have a greater capacity to invest in automation and AI technologies."
+    },
+    {
+      "question": "What percentage of their digital budget do companies with higher profit margins allocate to AI?",
+      "answer": "More than 20 percent."
+    },
+    {
+      "question": "How much more do higher-profit companies allocate to AI in their digital budget compared to medium performers?",
+      "answer": "14 percentage points more."
+    },
+    {
+      "question": "What type of skills are expected to be in rising demand relative to their share in today's workforce?",
+      "answer": "Technological and advanced cognitive skills."
+    },
+    {
+      "question": "What is the source of the data presented in the text?",
+      "answer": "2024 McKinsey Global Institute survey, n = 1,128 C-level executives."
+    },
+    {
+      "question": "Which industries expect a more significant increase in demand for skills by 2030?",
+      "answer": "Technology and financial-services companies."
+    },
+    {
+      "question": "What is the average percentage of employees that executives plan to retrain to address the skills mismatch?",
+      "answer": "32 percent."
+    },
+    {
+      "question": "What are the three main options companies have to acquire the needed skills?",
+      "answer": "Retraining, hiring, and contracting workers."
+    },
+    {
+      "question": "How does the expected demand for skills by 2030 in the US compare to Europe?",
+      "answer": "US executives anticipate a greater increase in skill demand by 2030\u2014on average, 13 percentage points higher than in Europe."
+    },
+    {
+      "question": "What percentage of employees in the automotive industry are expected to be retrained?",
+      "answer": "36 percent."
+    },
+    {
+      "question": "What percentage of their workforce do respondents in the automotive industry expect to retrain?",
+      "answer": "36 percent."
+    },
+    {
+      "question": "What is the average percentage of workforce that companies plan to retrain to address the skills mismatch?",
+      "answer": "32%."
+    },
+    {
+      "question": "How do companies expect to address the skills mismatch for high- and medium-skill jobs compared to low-skill jobs through hiring?",
+      "answer": "76 percent of surveyed executives expect to hire high- and medium-skill workers compared to 58 percent expecting to hire low-skill workers."
+    },
+    {
+      "question": "What are the risks associated with hiring as a strategy to bring skills into an organization?",
+      "answer": "Talent shortages and the unpredictability of new hires\u2019 performance."
+    },
+    {
+      "question": "What is the primary use of contracting currently, and how is it changing?",
+      "answer": "Currently, contracting fills primarily noncore, low-skill roles, but shifts are occurring as highly educated professionals enter the contracting market and command high rates for specialized skills."
+    },
+    {
+      "question": "According to the McKinsey Global Institute survey, what percentage of executives expect to hire high- and medium-skill workers?",
+      "answer": "76 percent."
+    },
+    {
+      "question": "What percentage of executives surveyed plan to partner externally with educational institutions for retraining?",
+      "answer": "38 percent."
+    },
+    {
+      "question": "Which sector is expected to be most affected by changes in European employment demand by 2030?",
+      "answer": "Wholesale and retail trade."
+    },
+    {
+      "question": "How many people in the wholesale and retail trade sector in Europe may need to change occupations by 2030?",
+      "answer": "An estimated 2.8 million."
+    },
+    {
+      "question": "What type of training programs do companies favor according to the survey results?",
+      "answer": "Internal training programs, specifically in-house training and on-the-job training coupled with mentorship."
+    },
+    {
+      "question": "Which sector is expected to be most affected by changes in European employment demand?",
+      "answer": "Wholesale and retail trade."
+    },
+    {
+      "question": "What is expected to happen to demand for customer service occupations?",
+      "answer": "Demand for customer service occupations could be reduced due to technologies such as automated checkout systems and chatbot-equipped kiosks."
+    },
+    {
+      "question": "Which occupations are expected to see increased demand?",
+      "answer": "Managerial, business, and legal professionals, along with transportation services roles."
+    },
+    {
+      "question": "What is expected to happen to the demand for office support occupations?",
+      "answer": "Reductions in demand for office support occupations could be significant."
+    },
+    {
+      "question": "What is driving the change in labor demand in the wholesale and retail trade sector?",
+      "answer": "Technologies such as automated checkout systems and chatbot-equipped kiosks, as well as the rise of e-commerce and gen AI."
+    },
+    {
+      "question": "What is the labor demand change for managers and team leaders from 2022 to 2030?",
+      "answer": "8 thousand."
+    },
+    {
+      "question": "What is the labor demand change for administrative assistants from 2022 to 2030?",
+      "answer": "-30 thousand."
+    },
+    {
+      "question": "What is the 'slower' scenario in terms of automation adoption?",
+      "answer": "The 'slower' scenario is the average between the late scenario and the midpoint scenario."
+    },
+    {
+      "question": "Which sector stands to be most affected by changes in European employment demand?",
+      "answer": "Wholesale and retail trade stands to be the sector most affected by changes in European employment demand."
+    },
+    {
+      "question": "What could be the impact of the adoption of generative AI on Europe's finance sector by 2030?",
+      "answer": "Europe's finance sector could see a decrease in labor demand by 2030."
+    },
+    {
+      "question": "What is expected to drive demand for STEM professionals in the finance sector?",
+      "answer": "The shift from traditional banking to digital platforms, accelerated by the pandemic, could drive demand for STEM professionals."
+    },
+    {
+      "question": "Approximately how many individuals in banking might need to change occupations by 2030?",
+      "answer": "Approximately 600,000 individuals in banking might need to change occupations by 2030."
+    },
+    {
+      "question": "What could cause the finance sector to see a decrease in labor demand by 2030?",
+      "answer": "The adoption of generative AI."
+    },
+    {
+      "question": "What type of skills is expected to increase in demand?",
+      "answer": "Technological skills and social and emotional skills."
+    },
+    {
+      "question": "Which occupational groups are among the top 5 growing occupational groups?",
+      "answer": "Business and financial specialists, Executives and managers, Computer engineers and specialists, Computer support workers, and Lawyers and legal professionals."
+    },
+    {
+      "question": "What is the predicted change in labor demand for Financial clerks and tellers by 2030?",
+      "answer": "A decrease of 27 thousand."
+    },
+    {
+      "question": "What is the report by McKinsey Global Institute referenced in the text?",
+      "answer": "The economic potential of generative AI: The next productivity frontier, published on June 14, 2023."
+    },
+    {
+      "question": "What is the 'slower' scenario in terms of automation adoption?",
+      "answer": "The 'slower' scenario is the average between the late scenario and the midpoint scenario."
+    },
+    {
+      "question": "What could happen to the finance sector's labor demand by 2030 due to the adoption of generative AI?",
+      "answer": "The finance sector could see a decrease in labor demand by 2030."
+    },
+    {
+      "question": "What is the expected impact on Europe's manufacturing sector by 2030?",
+      "answer": "Europe's manufacturing sector could see a net decline in employment demand by 2030."
+    },
+    {
+      "question": "Which roles in the manufacturing sector are likely to see the greatest decline in demand?",
+      "answer": "Production work and office support are likely to see the greatest decline."
+    },
+    {
+      "question": "What type of roles could see growth in demand in the manufacturing sector?",
+      "answer": "Demand for workers in STEM, management, and business and legal fields could grow."
+    },
+    {
+      "question": "What is driving the shift toward more knowledge-intensive roles in Europe's manufacturing sector?",
+      "answer": "Technological advancements and the decreasing costs of robotic solutions, which promote automation."
+    },
+    {
+      "question": "What could be the net impact on employment demand in Europe's manufacturing sector by 2030?",
+      "answer": "A net decline."
+    },
+    {
+      "question": "Which industries might experience job creation due to actions related to net zero?",
+      "answer": "Renewable energy, low-emissions vehicles, and electrical appliances."
+    },
+    {
+      "question": "How many individuals in Europe's manufacturing sector might need to change occupations by 2030?",
+      "answer": "Approximately 2.1 million."
+    },
+    {
+      "question": "What type of skills are expected to increase in demand in the manufacturing sector?",
+      "answer": "Technological skills and social and emotional skills."
+    },
+    {
+      "question": "Which occupational groups are among the top 5 growing in the manufacturing sector?",
+      "answer": "Engineers, except computer engineers, computer engineers and specialists, executives and managers, and business and financial specialists."
+    },
+    {
+      "question": "What is the expected change in labor demand for production workers in the manufacturing sector by 2030?",
+      "answer": "A decline of 16%."
+    },
+    {
+      "question": "What could happen to employment demand in Europe's manufacturing sector by 2030?",
+      "answer": "There could be a net decline in employment demand."
+    },
+    {
+      "question": "Which skills are highlighted as being increasingly replaceable due to automation and AI advancements?",
+      "answer": "Basic cognitive skills, physical and manual skills, and higher cognitive skills."
+    },
+    {
+      "question": "What is the expected labor demand change for 'Office support workers' from 2022 to 2030?",
+      "answer": "A decline of 25 thousand."
+    },
+    {
+      "question": "Which occupational group is expected to have the largest decline in labor demand from 2022 to 2030?",
+      "answer": "Office support workers with a decline of 25 thousand."
+    },
+    {
+      "question": "What is the 'faster' scenario referenced in the report based on?",
+      "answer": "The average of early and late automation adoption scenarios as referenced in 'The economic potential of generative AI: The next productivity frontier,' McKinsey Global Institute, June 14, 2023."
+    },
+    {
+      "question": "Which countries are included in the report's analysis of Europe?",
+      "answer": "Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom."
+    },
+    {
+      "question": "What is the projected change in employment demand in Europe's manufacturing sector by 2030?",
+      "answer": "There could be a net decline in employment demand."
+    },
+    {
+      "question": "Which sector in Europe is projected to experience the most significant growth in labor demand by 2030?",
+      "answer": "The healthcare sector."
+    },
+    {
+      "question": "How many jobs is the healthcare sector in Europe potentially able to add by 2030?",
+      "answer": "Approximately 3.7 million jobs."
+    },
+    {
+      "question": "What are the primary drivers of the surge in labor demand in Europe's healthcare sector?",
+      "answer": "Rising demand for health aides and healthcare professionals, driven by an aging population and rising challenges from mental health issues and chronic diseases."
+    },
+    {
+      "question": "What is the expected change in demand for office support roles in Europe's healthcare sector by 2030?",
+      "answer": "Demand for office support roles would decline because of automation and AI."
+    },
+    {
+      "question": "How many healthcare workers in Europe could have to change occupations by 2030?",
+      "answer": "Around 500,000."
+    },
+    {
+      "question": "Which sector in Europe is projected to experience the largest growth in labor demand by 2030?",
+      "answer": "The healthcare sector."
+    },
+    {
+      "question": "What are the key growth drivers for the healthcare sector in Europe?",
+      "answer": "An aging population and rising challenges from mental health issues and chronic diseases."
+    },
+    {
+      "question": "What is expected to happen to demand for office support roles in the healthcare sector by 2030?",
+      "answer": "Demand for office support roles would decline because of automation and AI."
+    },
+    {
+      "question": "How many healthcare workers in Europe could have to change occupations by 2030?",
+      "answer": "Around 500,000."
+    },
+    {
+      "question": "What type of skills are expected to see substantial growth in demand in the healthcare sector?",
+      "answer": "Technological skills and social and emotional skills."
+    },
+    {
+      "question": "What is the labor demand change for health aides and health support workers from 2022 to 2030?",
+      "answer": "27% increase."
+    },
+    {
+      "question": "What is the employment figure for health aides and health support workers in 2022?",
+      "answer": "6,399 thousands."
+    },
+    {
+      "question": "What is the 'slower' scenario in terms of automation adoption?",
+      "answer": "The 'slower' scenario is the average between the late scenario and the midpoint scenario."
+    },
+    {
+      "question": "Which sector in Europe is projected to experience the largest growth in labor demand by 2030?",
+      "answer": "The healthcare sector."
+    },
+    {
+      "question": "What type of workers are likely to benefit from AI deployment according to UK scenarios built by the IMF?",
+      "answer": "Workers with above-median incomes."
+    },
+    {
+      "question": "What is the 'faster' scenario automation adoption defined as?",
+      "answer": "The average of early and late automation adoption scenarios."
+    },
+    {
+      "question": "What are some of the most affected skills due to the changes in labor demand?",
+      "answer": "Basic IT skills, Technology design, engineering, and maintenance, Scientific research and development, Interpersonal skills and empathy, Advanced communication and negotiation skills, Leadership and managing others, Fine motor skills, Gross motor skills and strength, Advanced literacy and writing, Quantitative and statistical skills, Project management, Basic data input and processing, Basic literacy, numeracy, and communication."
+    },
+    {
+      "question": "What could happen to wage levels of occupations in coming years?",
+      "answer": "Wage levels of occupations might change in response to demand and supply mismatches."
+    },
+    {
+      "question": "What has happened to the outcomes for low- and middle-wage workers compared to high-wage workers over the past four decades?",
+      "answer": "There has been a divergence in outcomes for low- and middle-wage workers on the one hand and high-wage workers on the other."
+    },
+    {
+      "question": "What could minimize wage polarization?",
+      "answer": "Enabling labor market transitions that allow workers to move from lower-pay to higher-pay work could minimize wage polarization."
+    },
+    {
+      "question": "Which European countries could potentially benefit the most from transitioning into higher-wage occupations?",
+      "answer": "Workers in the Czech Republic and Sweden could potentially benefit the most."
+    },
+    {
+      "question": "What is the expected change in employment share by wage band in Europe and the US by 2030?",
+      "answer": "In both Europe and the United States, labor demand could reweight toward occupations that currently command higher wages."
+    },
+    {
+      "question": "Which country has the highest potential to reweight toward high-wage occupations?",
+      "answer": "The Czech Republic has the highest potential to reweight toward high-wage occupations, with share in employment demand for the two highest-wage bands increasing by 3.4 percentage points."
+    },
+    {
+      "question": "Which country has the highest potential to reweight toward high-wage occupations?",
+      "answer": "The Czech Republic."
+    },
+    {
+      "question": "What is the expected change in employment share for the two highest-wage bands in the Czech Republic?",
+      "answer": "An increase of 3.4 percentage points."
+    },
+    {
+      "question": "In which region could labor demand reweight toward occupations that currently command higher wages?",
+      "answer": "Both Europe and the United States."
+    },
+    {
+      "question": "How are occupations ranged into quintiles?",
+      "answer": "Based on their average wages, specific for each European country considered."
+    },
+    {
+      "question": "What is the difference in the demand for middle-wage occupations in Denmark compared to other European countries?",
+      "answer": "Denmark shows a higher increase in demand for middle-wage occupations."
+    },
+    {
+      "question": "What happens to labor demand in Europe and the United States according to the 'faster' scenario?",
+      "answer": "Labor demand could reweight toward occupations that currently command higher wages."
+    },
+    {
+      "question": "What is the trend in employment share by wage band from 2022 to 2030 in Europe and the US?",
+      "answer": "The employment share is changing, with specific changes varying by country, but generally increasing for high-wage occupations."
+    },
+    {
+      "question": "What skills are predominantly used in the three lowest-wage brackets of occupations?",
+      "answer": "Physical and manual skills."
+    },
+    {
+      "question": "What skills are most prevalent in the top-wage occupations?",
+      "answer": "Social and emotional, higher cognitive, and technological skills."
+    },
+    {
+      "question": "Why may low-wage workers face challenges in transitioning to higher-wage jobs?",
+      "answer": "They face a risk of job loss due to declining demand for their occupations and may lack the requisite skills for higher-paying jobs."
+    },
+    {
+      "question": "How are occupations ranged into quintiles?",
+      "answer": "Based on their average wages, specific for each European country considered."
+    },
+    {
+      "question": "What skills will be most prevalent in top-wage occupations by 2030?",
+      "answer": "Social and emotional, higher cognitive, and technological skills."
+    },
+    {
+      "question": "What percentage of workers' time in highest-wage occupations is expected to be spent on activities that require social and emotional skills?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "What skills will dominate the fourth wage-bracket occupations?",
+      "answer": "Higher cognitive skills."
+    },
+    {
+      "question": "What skills will workers need to move to higher-wage occupations?",
+      "answer": "Technological and social and emotional skills."
+    },
+    {
+      "question": "What percentage of hours worked in high-paid jobs are likely to be predominant in technological and higher cognitive skills?",
+      "answer": "27 percent and 25 percent, respectively."
+    },
+    {
+      "question": "By 2030, what skills will be required for highest-wage occupations?",
+      "answer": "Social and emotional, technological, and higher cognitive skills."
+    },
+    {
+      "question": "What percentage of workers' time in highest-wage occupations could be spent on activities that require social and emotional skills?",
+      "answer": "37 percent."
+    },
+    {
+      "question": "How could generative AI be used to enhance skills acquisition?",
+      "answer": "By crafting a customized curriculum that targets the learning needs and skill deficits of each employee, and by synthesizing vast amounts of training materials into coherent, accessible formats."
+    },
+    {
+      "question": "What is the potential consequence of not reskilling workers appropriately or in a timely manner?",
+      "answer": "An increasing gap will emerge between demand for and supply of highly valued skills, potentially resulting in labor shortages and dampening productivity growth."
+    },
+    {
+      "question": "What type of skills will be predominant in high-paid jobs, in terms of hours worked?",
+      "answer": "Technological and higher cognitive skills, representing 27 percent and 25 percent of hours worked, respectively, and social and emotional skills."
+    },
+    {
+      "question": "How could gen AI improve content creation for training purposes?",
+      "answer": "Gen AI could leverage its ability to synthesize vast amounts of standard operating procedures, compliance regulations, and traditional training materials into coherent, accessible just-in-time formats and nudges."
+    },
+    {
+      "question": "What benefits could gen AI bring to training delivery?",
+      "answer": "Gen AI could introduce instructional methods, deploying digestible, real-time training content across multiple platforms, adapting to various learning styles and preferences, and delivering a more intuitive and interactive learning experience that is both scalable and efficient."
+    },
+    {
+      "question": "What was the outcome of the global specialty-materials company implementing an AI assistant?",
+      "answer": "The AI tool enhanced operational efficiency by up to 15 percent, increased productivity by up to 20 percent, and improved the accuracy of forecasts, unlocking an additional 10 to 15 percent in value."
+    },
+    {
+      "question": "Which group of workers is more likely to have to change occupations due to occupational transitions?",
+      "answer": "Workers in low- and middle-wage jobs would be more likely to have to change occupations."
+    },
+    {
+      "question": "How does the likelihood of occupational transitions compare between European countries and the United States for low-wage workers?",
+      "answer": "In Europe, workers in the two lowest-wage-bracket occupations will be three to five times more likely to have to change occupations compared to the top wage earners, whereas in the United States, they are ten to 14 times more likely."
+    },
+    {
+      "question": "How much more likely are workers in the two lowest-wage-bracket occupations to face occupational shifts compared to the highest earners in the United States?",
+      "answer": "ten to 14 times more likely"
+    },
+    {
+      "question": "In Europe, what percentage of the middle-wage population might face occupational transitions?",
+      "answer": "7.3 percent"
+    },
+    {
+      "question": "Which group is disproportionately represented among those who may need to find new types of work by 2030?",
+      "answer": "workers with lower educational attainment"
+    },
+    {
+      "question": "What type of jobs are likely to increase demand for tertiary degrees?",
+      "answer": "STEM jobs and roles in the health professions"
+    },
+    {
+      "question": "Which demographic is disproportionately represented in clerical roles that are highly susceptible to automation?",
+      "answer": "women"
+    },
+    {
+      "question": "In Europe, how much more likely are workers in the two lowest-wage brackets to have to change occupations compared to top wage earners?",
+      "answer": "three to five times more likely"
+    },
+    {
+      "question": "Which workers are more likely to face the need for occupational transitions?",
+      "answer": "Workers in lower-wage positions."
+    },
+    {
+      "question": "How much more likely are workers in the two lowest-wage brackets to change occupations compared to top wage earners in Europe?",
+      "answer": "Three to five times more likely."
+    },
+    {
+      "question": "What is the importance of reskilling for workers in occupations that face a higher need for transition?",
+      "answer": "The importance of reskilling for all workers in occupations that face a higher need for transition cannot be overemphasized."
+    },
+    {
+      "question": "What types of occupations tend to be disproportionately held by women and are highly susceptible to automation?",
+      "answer": "Certain types of lower- and middle-wage occupations, such as clerical roles."
+    },
+    {
+      "question": "What is the annual salary range for middle-wage occupations in France?",
+      "answer": "$34.7k\u201341.7k"
+    },
+    {
+      "question": "What is the lower bound for the annual salary of highest-wage occupations in the US?",
+      "answer": "$69.0k"
+    },
+    {
+      "question": "What is the currency and year used for the dollar values mentioned in the text?",
+      "answer": "2010 dollars"
+    },
+    {
+      "question": "What are the countries included in the data represented by the number 3?",
+      "answer": "Czech Republic, Denmark, France, Germany, Italy, Netherlands, Poland, Spain, Sweden, and United Kingdom"
+    },
+    {
+      "question": "What is the main driver of changes in the future of work according to the report?",
+      "answer": "Technological transformation"
+    },
+    {
+      "question": "What is the role of businesses in managing the workforce and skills transition?",
+      "answer": "Companies taking a proactive stance would anticipate and implement technological changes while establishing worker training structures, supporting employees, and seeking to attract the right talent."
+    },
+    {
+      "question": "What is the main difference between a proactive and reactive stance towards technological changes?",
+      "answer": "A proactive stance involves anticipating and implementing technological changes, establishing worker training structures, and supporting employees, while a reactive stance pays little heed to capability-building and human capital implications of automation."
+    },
+    {
+      "question": "What is the potential risk of companies taking a reactive stance towards technological changes?",
+      "answer": "Workers might lose their jobs and be unable to find new occupations, and companies may lack AI capabilities, ultimately hindering technology deployment and economic growth."
+    },
+    {
+      "question": "How can policy makers support occupational transitions and skill building?",
+      "answer": "By framing smart public policies and developing 'lighthouse examples' in public services to show the path toward human capital development."
+    },
+    {
+      "question": "What is an example of a 'lighthouse example' in public services?",
+      "answer": "The French government's 'Albert,' a large language model assistant designed to help civil servants search for information and formulate specific responses."
+    },
+    {
+      "question": "What is the focus of the exercise estimating the productivity implications of the technological transition for Europe?",
+      "answer": "The exercise focuses on all the European economies looked at in the report and measures economic potential in terms of productivity, expressed as an annual growth rate until 2030."
+    },
+    {
+      "question": "What is used to measure economic potential in the exercise?",
+      "answer": "Productivity."
+    },
+    {
+      "question": "What are the two dimensions considered in the analysis?",
+      "answer": "The adoption rate of AI and automation technologies, and the level of automated worker time that is redeployed into the economy."
+    },
+    {
+      "question": "What is the difference in automation adoption between the 'faster' and 'late' scenarios by 2030?",
+      "answer": "The 'faster' scenario assumes 27 percent of time spent on current work activities to be automated, while the 'late' scenario anticipates about 2 percent."
+    },
+    {
+      "question": "What is the highest economy-wide productivity growth rate achievable according to Exhibit 13?",
+      "answer": "Up to 3.1 percent annual productivity growth rate."
+    },
+    {
+      "question": "What are the conditions required to achieve the highest economy-wide productivity growth rate?",
+      "answer": "Fast adoption of technologies (faster scenario) and full redeployment of automated hours."
+    },
+    {
+      "question": "What would be the outcome if there is a fast trajectory of technology adoption but only 80 percent redeployment of automated workers' time?",
+      "answer": "A relatively high productivity growth rate (up to 2.5 percent), but about 6 percent of total hours worked (equivalent to 10.2 million people not working) would not be redeployed in the economy."
+    },
+    {
+      "question": "What is the potential annual labor productivity growth rate in Europe until 2030 with faster adoption of AI?",
+      "answer": "Up to 3.1%"
+    },
+    {
+      "question": "What percentage of automated workers' hours need to be redeployed to imply no additional unemployment with faster AI adoption?",
+      "answer": "80%"
+    },
+    {
+      "question": "How many people not working is equivalent to the labor productivity growth with 100% redeployment of automated workers' hours?",
+      "answer": "0.9 million"
+    },
+    {
+      "question": "What is the first priority for business leaders to ensure successful deployment of automation technologies?",
+      "answer": "Understand the potential impact of automation technologies and the starting point."
+    },
+    {
+      "question": "What is an example of a company that analyzed the potential impact of AI and gen AI on its workforce?",
+      "answer": "A leading financial institution that concluded AI and gen AI have the potential to save about half of worked-hour capacity."
+    },
+    {
+      "question": "What percentage of worked-hour capacity could AI and gen AI potentially save at a leading financial institution?",
+      "answer": "About half."
+    },
+    {
+      "question": "What are the key steps to identifying the starting point of a workforce transformation towards AI and automation?",
+      "answer": "Sizing the workforce and skill needs based on strategically identified use cases to assess the potential future talent gap."
+    },
+    {
+      "question": "How did a large financial institution identify its key opportunity pools for AI and gen AI implementation?",
+      "answer": "By estimating 2030 talent gaps compared with its current workforce."
+    },
+    {
+      "question": "What two main groups of roles did AI and gen AI have the potential to fill skills gaps for at the large financial institution?",
+      "answer": "Those with the largest projected workforce gaps in 2030 (such as data science, information security, and business intelligence) and those with the highest business value (such as machine learning engineering and software engineering)."
+    },
+    {
+      "question": "How did a leading US financial firm develop its own gen AI solutions?",
+      "answer": "By partnering with large language model vendors and setting up an operating model with a center of excellence to guide the effort."
+    },
+    {
+      "question": "What is the primary opportunity offered by certain strategies to businesses?",
+      "answer": "To enhance operational efficiency and output growth, build trust with the workforce, and overcome some of the hurdles posed by labor shortages."
+    },
+    {
+      "question": "What is the focus of the report, and what other concerns does the technology raise?",
+      "answer": "The report focuses on the potential labor market impact of AI, and the technology also raises important concerns such as security and privacy."
+    },
+    {
+      "question": "What is suggested to ensure the right talent is on hand to sustain company strategy during transformation phases?",
+      "answer": "Leaders could consider setting up dedicated talent 'win rooms' to identify, attract, and recruit future AI and gen AI leaders in a tight market."
+    },
+    {
+      "question": "How did a Caribbean-based bank support its software developers in using gen AI tools?",
+      "answer": "The bank provided four immersive, hands-on half days of training on using gen AI tools optimally and responsibly."
+    },
+    {
+      "question": "What was the result of the Caribbean-based bank's gen AI-supported coding solutions?",
+      "answer": "80 percent of the software developers indicated that the solutions improved their coding experience and were easy to adopt."
+    },
+    {
+      "question": "What is a fundamental objective of the executive-education journey on automation technologies for leaders?",
+      "answer": "For leaders to not only reskill but also achieve a deep understanding of the value and challenges that gen AI poses."
+    },
+    {
+      "question": "How did a motor racing league utilize gen AI models in developing its next-generation electric racing car?",
+      "answer": "Two gen AI models supported the ground team, helped guide the driver, and allowed the fans to 'communicate' with the cars."
+    },
+    {
+      "question": "What did a Europe-based global telecommunications and media company do to demystify gen AI?",
+      "answer": "The company held dedicated board workshops to demystify gen AI and shape the gen AI road map."
+    },
+    {
+      "question": "What is required for leaders to unlock optimum outcomes through fast adoption of automation technologies?",
+      "answer": "Four action pillars: Understanding the future of work potential, Planning a strategic workforce shift, Prioritizing people development, and Pursuing the executive education journey."
+    },
+    {
+      "question": "What is the purpose of the 'talent win room' model?",
+      "answer": "To create a hub for prioritizing and executing on the most pressing talent needs by fast-tracking critical talent decisions and adapting rapidly to new workforce practices."
+    },
+    {
+      "question": "What are the key mandates of the 'win rooms'?",
+      "answer": "Fast-track all critical talent decisions and adapt rapidly to all new workforce practices."
+    },
+    {
+      "question": "What is the main challenge in making full use of the advantages offered by AI and new technologies?",
+      "answer": "Paying attention to the critical element of human capital and developing workers' skills to adapt to new technological challenges."
+    },
+    {
+      "question": "What is the expected outcome of companies and policy makers successfully adapting to new technologies?",
+      "answer": "Higher productivity, which could lift growth and prosperity."
+    },
+    {
+      "question": "What is the main goal discussed in the text?",
+      "answer": "The main goal is for workers' skills to develop and adapt to new technological challenges."
+    },
+    {
+      "question": "How many occupations were broken down into constituent activities in the MGI model?",
+      "answer": "About 850 occupations were broken down into around 2,100 constituent activities."
+    },
+    {
+      "question": "What data source was used to break down occupations into activities?",
+      "answer": "The Occupational Information Network (O*NET) was used to break down occupations into activities."
+    },
+    {
+      "question": "How many capabilities are required to perform activities according to the MGI model?",
+      "answer": "18 capabilities are required to perform activities."
+    },
+    {
+      "question": "What reports did the analysis in the text draw on?",
+      "answer": "The analysis drew on two 2023 McKinsey Global Institute (MGI) reports: 'Generative AI and the future of work in America' and 'The economic potential of generative AI'."
+    },
+    {
+      "question": "What was the purpose of the proprietary survey conducted?",
+      "answer": "The proprietary survey was conducted to assess current and future skill demand influenced by AI adoption and evaluate strategies to address the skills gap."
+    },
+    {
+      "question": "How is occupation-level automation potential calculated?",
+      "answer": "By aggregating the potential at an activity level by time spent on those activities in an occupation."
+    },
+    {
+      "question": "What model is used to incorporate factors that affect the pace of automation adoption?",
+      "answer": "The Bass diffusion model."
+    },
+    {
+      "question": "How long does it take to reach 50 percent adoption in the earliest and latest scenarios for technology adoption curves?",
+      "answer": "About five years in the earliest scenario and approximately 16 years in the latest scenario."
+    },
+    {
+      "question": "What is used as the measure of productivity in the model?",
+      "answer": "GDP per full-time equivalent employee (FTE)."
+    },
+    {
+      "question": "What assumption is made about the effect of automation on labor?",
+      "answer": "Automation has a labor substitution effect but no other performance gains."
+    },
+    {
+      "question": "How is the additional GDP from displaced FTEs joining back the economy calculated?",
+      "answer": "FTE impact of automation adoption X productivity of 2022."
+    },
+    {
+      "question": "How is the additional GDP from displaced FTEs joining back the economy calculated?",
+      "answer": "FTE impact of automation adoption X productivity of 2022."
+    },
+    {
+      "question": "What is assumed about the supply chain composition until 2030 in the net-zero analysis?",
+      "answer": "The current supply chain composition remains the same until 2030."
+    },
+    {
+      "question": "What are the six macroeconomic catalysts considered in estimating labor demand?",
+      "answer": "Rising incomes, healthcare and aging, technological innovation, infrastructure investment, education, and the marketization of unpaid work."
+    },
+    {
+      "question": "How many workforce skills were considered in the skills demand and transition modeling?",
+      "answer": "25 workforce skills that fall into five broad categories."
+    },
+    {
+      "question": "What is meant by 'occupational shifts' in the given terminology?",
+      "answer": "Declines in employment in specific occupations between 2016 and 2022."
+    },
+    {
+      "question": "What is the basis of the skills demand and transition modeling?",
+      "answer": "The framework devised in MGI\u2019s May 2018 report, Skill shift: Automation and the future of the workforce."
+    },
+    {
+      "question": "How many C-level executives participated in the proprietary skill survey in March 2024?",
+      "answer": "1,128 C-level executives participated in the survey."
+    },
+    {
+      "question": "From which countries were the survey respondents selected?",
+      "answer": "The survey respondents were from France, Germany, Italy, the United Kingdom, and the United States."
+    },
+    {
+      "question": "What was the minimum number of employees for companies to be included in the survey?",
+      "answer": "Companies with 50 employees or more were included in the survey."
+    },
+    {
+      "question": "What were the three key areas that survey respondents were asked to provide insights on?",
+      "answer": "The three key areas were: (1) current and future skill demands, (2) the impact of AI and AI adoption on workforce skills demand, and (3) companies\u2019 strategies for bridging the existing skills gap."
+    },
+    {
+      "question": "How did the survey results compare to the World Economic Forum\u2019s The future of jobs report 2023?",
+      "answer": "The survey results were similar to the World Economic Forum\u2019s report in both the scale and types of skill shifts needed."
+    },
+    {
+      "question": "How many countries did the companies participating in the McKinsey Global Institute survey represent?",
+      "answer": "Five countries."
+    },
+    {
+      "question": "What was the total number of C-level executives who responded to the McKinsey Global Institute Survey?",
+      "answer": "1,128."
+    },
+    {
+      "question": "What were the three key areas that respondents were asked to provide insights on?",
+      "answer": "(1) current and future skill demands, (2) the impact of AI and AI adoption on workforce skills demand, and (3) companies\u2019 strategies for bridging the existing skills gap."
+    },
+    {
+      "question": "How did the results of the survey compare to the World Economic Forum\u2019s The future of jobs report 2023?",
+      "answer": "The results were similar in both the scale and types of skill shifts needed."
+    },
+    {
+      "question": "What was the format of the survey that the participants responded to?",
+      "answer": "A ten-minute online survey."
+    },
+    {
+      "question": "What years did the survey focus on regarding the three key aspects?",
+      "answer": "2024 and 2030."
+    },
+    {
+      "question": "Who led the research for the report?",
+      "answer": "Eric Hazan, a McKinsey senior partner based in Paris."
+    },
+    {
+      "question": "Where are Anu Madgavkar and Michael Chui based?",
+      "answer": "New Jersey and San Francisco, respectively."
+    },
+    {
+      "question": "Who is the chair of the McKinsey Global Institute?",
+      "answer": "Sven Smit, a McKinsey senior partner based in Amsterdam."
+    },
+    {
+      "question": "Who provided valuable guidance for the research?",
+      "answer": "Kweilin Ellingrud, Alexander Sukharevsky, and Olivia White, among others."
+    },
+    {
+      "question": "Who are the academic advisers that challenged the team's thinking?",
+      "answer": "Simon Johnson and Sir Christopher Pissarides."
+    },
+    {
+      "question": "When was the report published?",
+      "answer": "May 2024."
+    },
+    {
+      "question": "Who edited and produced the report?",
+      "answer": "Peter Gumbel and the LEFF team of designers."
+    },
+    {
+      "question": "Was the research commissioned or sponsored by any institution?",
+      "answer": "No, the research is independent and has not been commissioned or sponsored by any business, government, or other institution."
+    }
+  ]
+}

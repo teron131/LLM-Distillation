@@ -1,0 +1,1065 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Global Banking Annual Review 2023, \"The Great Banking Transition,\" examines the significant changes in the banking industry, driven by factors such as digital innovation, new competitors, and shifting macroeconomic conditions. Despite recent challenges, the industry has experienced a favorable turnaround, with rising interest rates boosting profits and return on equity (ROE) to 12% in 2022 and an expected 13% in 2023. The report identifies five priorities for financial institutions to future-proof themselves: exploiting leading technologies, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape. The industry is also experiencing a geographical divergence, with banks in certain regions, such as the Indian Ocean crescent, outperforming others. The report concludes that operational excellence and strategic decision-making will be crucial for banks to succeed in a rapidly changing environment.",
+  "qa_pairs": [
+    {
+      "question": "Who are the authors of the Global Banking Annual Review 2023 report?",
+      "answer": "Debopriyo Bhattacharyya, Miklos Dietz, Alexander Edlich, Reinhard H\u00f6ll, Asheet Mehta, Brian Weintraub, and Eckart Windhagen."
+    },
+    {
+      "question": "What is the main theme of the Global Banking Annual Review 2023 report?",
+      "answer": "The Great Banking Transition, analyzing causes and effects of changes in the banking sector."
+    },
+    {
+      "question": "What has been the best period for global banking overall since at least 2007?",
+      "answer": "The past 18 months, as rising interest rates have boosted profits in a more benign credit environment."
+    },
+    {
+      "question": "Where have balance sheets and transactions increasingly moved to?",
+      "answer": "Nontraditional institutions and parts of the market that are capital-light and often differently regulated, such as digital payment specialists and private markets."
+    },
+    {
+      "question": "What percentage of the net increase of financial funds ended up not on banking balance sheets between 2015 and 2022?",
+      "answer": "More than 70 percent."
+    },
+    {
+      "question": "What are the five priorities suggested for financial institutions to future-proof themselves?",
+      "answer": "Exploiting leading technologies (including AI), flexing and potentially even unbundling the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape."
+    },
+    {
+      "question": "What are the five key areas financial institutions need to examine to assess their competitive advantages?",
+      "answer": "Exploiting leading technologies (including AI), flexing and potentially even unbundling the balance sheet, scaling or exiting transaction business, leveling up distribution, and adapting to the evolving risk landscape."
+    },
+    {
+      "question": "What has driven the recent upturn in the banking sector?",
+      "answer": "The 500-basis-point increase in interest rates since the second quarter of 2022 in the United States, echoed in other developed economies."
+    },
+    {
+      "question": "How much did the sector's profits increase by in 2022?",
+      "answer": "About $280 billion."
+    },
+    {
+      "question": "What was the return on equity (ROE) in 2022 and expected ROE in 2023?",
+      "answer": "12 percent in 2022 and an expected 13 percent in 2023."
+    },
+    {
+      "question": "What has been the trend in the cost-income ratio from 2012 to 2022?",
+      "answer": "The cost-income ratio dropped by seven percentage points from 59 percent in 2012 to about 52 percent in 2022."
+    },
+    {
+      "question": "What has accompanied the ROE growth over the past 18 months?",
+      "answer": "Volatility."
+    },
+    {
+      "question": "Where are half of the best-performing banks in the world located?",
+      "answer": "Along the crescent formed by the Indian Ocean, stretching from Singapore to India, Dubai, and parts of eastern Africa."
+    },
+    {
+      "question": "What characterizes the strongest performers in the banking sector?",
+      "answer": "They tend to use the balance sheet effectively, are customer centric, and often lead on technology usage."
+    },
+    {
+      "question": "What was the price-to-book ratio of banks in 2022?",
+      "answer": "0.9"
+    },
+    {
+      "question": "What is the expected increase in the banking sector's value added for every 0.1-times improvement in the price-to-book ratio?",
+      "answer": "More than $1 trillion"
+    },
+    {
+      "question": "What are the four global trends shaping the outlook for financial institutions?",
+      "answer": "A shift in the macroeconomic environment, technological progress, broadening and deepening regulatory scrutiny, and shifting systemic risk"
+    },
+    {
+      "question": "What is the estimated impact of generative AI on productivity and operating expenditures?",
+      "answer": "A 3 to 5 percent increase in productivity and a reduction in operating expenditures of between $200 billion and $300 billion"
+    },
+    {
+      "question": "What percentage of the net increase in financial funds ended up off banking balance sheets in the United States and Europe?",
+      "answer": "75 percent in the United States and about 55 percent in Europe"
+    },
+    {
+      "question": "What was the growth rate of private debt in 2022?",
+      "answer": "29 percent"
+    },
+    {
+      "question": "What is the Great Banking Transition?",
+      "answer": "The text does not directly define the Great Banking Transition, but it implies that it is a period of significant change in the banking industry driven by various factors including macroeconomic developments, technology, regulation, risk, and scale."
+    },
+    {
+      "question": "What are the key trends that financial institutions need to adapt to during the Great Banking Transition?",
+      "answer": "The key trends that financial institutions need to adapt to are technology, regulation, risk, and scale."
+    },
+    {
+      "question": "What are the five priorities outlined for financial institutions to consider during the Great Banking Transition?",
+      "answer": "The five priorities are: 1) Exploiting technology and AI to boost productivity, 2) Flexing and even unbundling the balance sheet, 3) Scaling or exiting transaction businesses, 4) Leveling up distribution to sell to customers and advise them, and 5) Adapting to changing risks."
+    },
+    {
+      "question": "How can financial institutions utilize technology during the Great Banking Transition?",
+      "answer": "Financial institutions can utilize technology by capturing the AI opportunity, deploying process automation, operating more like a tech company, cultivating a cloud-based architecture, and improving capabilities to address technology risks."
+    },
+    {
+      "question": "What is meant by 'flexing and unbundling the balance sheet'?",
+      "answer": "Flexing the balance sheet implies active use of syndication, originate-to-distribute models, and third-party balance sheets, while unbundling involves separating out customer-facing businesses from banking-as-a-service businesses and using technology to restructure costs."
+    },
+    {
+      "question": "What is one way financial institutions can create opportunities to serve customer needs?",
+      "answer": "Deciding on a strategy for third-party distribution, which could be via partnerships to create embedded finance opportunities or platform-based models."
+    },
+    {
+      "question": "What are some of the risks that financial institutions need to stay on top of?",
+      "answer": "Inflation, an unclear growth outlook, potential credit challenges in specific sectors, changing regulatory requirements, cyber and fraud, and the integration of advanced analytics and AI into the banking system."
+    },
+    {
+      "question": "How can banks manage the risks associated with the ever-evolving risk environment?",
+      "answer": "By elevating the risk function to make it a potential differentiator, highlighting the bank's resilience based on its track record of managing systemic risk and liquidity, and further strengthening the first line and embedding risk in day-to-day activities."
+    },
+    {
+      "question": "What will be determinative for financial institutions in the years ahead?",
+      "answer": "Scale and specialization, as well as value-creating diversification."
+    },
+    {
+      "question": "What was the focus of the 2022 Global Banking Annual Review?",
+      "answer": "How the world of banking was entering a period of sudden volatility after years of relative stability."
+    },
+    {
+      "question": "What has been the trend for key indicators for the banking industry globally?",
+      "answer": "Key indicators, including return on equity (ROE) and capital ratios, have risen after long periods of decline."
+    },
+    {
+      "question": "What have been the best years for some banks in Europe and the United States since 2022?",
+      "answer": "2022 and the first half of 2023 have been the best in more than a decade."
+    },
+    {
+      "question": "Where are half of the world's best-performing banks now located?",
+      "answer": "In countries forming a crescent around the Indian Ocean."
+    },
+    {
+      "question": "What is happening to financial institutions as a whole in terms of their valuation?",
+      "answer": "They continue to trade below their book value."
+    },
+    {
+      "question": "What is the main theme of this year's Global Banking Annual Review?",
+      "answer": "The Great Banking Transition."
+    },
+    {
+      "question": "What factors are driving the Great Banking Transition?",
+      "answer": "Shifts in balance sheets, transactions, and distribution that have been leaving banks to go to nontraditional institutions and other parts of the market."
+    },
+    {
+      "question": "What is happening to the traditional model of capital-heavy banking?",
+      "answer": "It still needs to reinvent itself to ensure its own future\u2014and to do so swiftly."
+    },
+    {
+      "question": "What was the trend in net interest margins for banks in Europe and North America in 2022?",
+      "answer": "Banks, especially in Europe and North America, registered gains in net interest margins in 2022 on the back of rising interest rates."
+    },
+    {
+      "question": "What was the average gain in net interest margins for financial institutions in the United States and Europe?",
+      "answer": "The average gain in net interest margins was 22 basis points."
+    },
+    {
+      "question": "What was the return on equity (ROE) for financial institutions globally in 2022 and the estimated ROE for 2023?",
+      "answer": "The ROE for financial institutions rose to 12 percent in 2022 and looks set to reach 13 percent in 2023."
+    },
+    {
+      "question": "What was the net income for the banking sector in 2023?",
+      "answer": "The net income for the sector was $1.4 trillion in 2023."
+    },
+    {
+      "question": "How did the Tier 1 ratio for global banks change in 2022-23?",
+      "answer": "The Tier 1 ratio globally reached 13.8 percent in 2022\u201323, the highest in a decade."
+    },
+    {
+      "question": "What was the change in the cost-income ratio for the banking sector?",
+      "answer": "The cost-income ratio dropped by seven percentage points."
+    },
+    {
+      "question": "What was the total value of assets intermediated by the financial services sector globally in 2022?",
+      "answer": "About $400 trillion."
+    },
+    {
+      "question": "How much revenue did the financial services sector generate globally in 2022?",
+      "answer": "$6.8 trillion."
+    },
+    {
+      "question": "What was the average annual growth rate of intermediation since 2017?",
+      "answer": "About 6 percent."
+    },
+    {
+      "question": "Which sectors were the most profitable in the financial services industry in 2022?",
+      "answer": "Wealth and asset management, capital markets infrastructure, and payments."
+    },
+    {
+      "question": "What was the trend in the share of intermediation revenue in capital markets in 2022?",
+      "answer": "The share declined by one percentage point to $480 billion."
+    },
+    {
+      "question": "What is driving the growth in global payments revenues?",
+      "answer": "The shift to contactless, digital payments and the demand for embedded finance."
+    },
+    {
+      "question": "What is driving the growth in global revenues in payments?",
+      "answer": "The shift to contactless, digital payments and the demand for embedded finance is driving the growth in global revenues in payments, especially in Asia."
+    },
+    {
+      "question": "What is embedded finance?",
+      "answer": "Embedded finance arises from partnerships between banks, technology providers, and distributors of financial products to embed financial products into nonfinancial platforms."
+    },
+    {
+      "question": "How much revenue does the global financial industry generate?",
+      "answer": "The global financial industry generates about $7 trillion in revenue."
+    },
+    {
+      "question": "What is the total amount of funds intermediated by the global financial industry?",
+      "answer": "The global financial industry intermediates $400 trillion in funds."
+    },
+    {
+      "question": "What percentage of total annual revenue from global financial intermediation comes from retail banking?",
+      "answer": "Retail banking accounts for 33% of total annual revenue from global financial intermediation."
+    },
+    {
+      "question": "What is the characteristic of the strongest performers in the banking sector?",
+      "answer": "The strongest performers tend to use the balance sheet effectively, are customer-centric, are effective managers, and often lead on technology usage."
+    },
+    {
+      "question": "How did disruptions affect the banking sector?",
+      "answer": "The banking sector as a whole continues to trade below book value due to disruptions."
+    },
+    {
+      "question": "What were some of the major disruptions in 2022 and 2023 that contributed to the high degree of variance in banks' performance?",
+      "answer": "The disruptions related to geopolitical situations, such as Russia's war on Ukraine, surging inflation, rapid increases in interest rates, and the collapse of several leading cryptocurrency players, along with regulatory changes."
+    },
+    {
+      "question": "What has been the trend in the banking sector's price-to-book ratio (P/B) since the 2008 financial crisis?",
+      "answer": "The banking sector's price-to-book ratio (P/B) has remained largely flat since the 2008 financial crisis, at 0.9 in 2022."
+    },
+    {
+      "question": "What does the depressed P/B ratio in the banking sector suggest?",
+      "answer": "Depressed P/Bs suggest there may be significant upside: if the sector finds a path to a more future-proof business model, trillions of dollars in shareholder value could be created."
+    },
+    {
+      "question": "How does the banking sector's market valuation compare to other sectors?",
+      "answer": "The banking sector has the lowest market valuation, with a price-to-book ratio of 0.9 in 2022, suggesting that capital markets expect that ROE over time will remain below the cost of equity."
+    },
+    {
+      "question": "What is the potential outcome if the banking sector finds a path to a more future-proof business model?",
+      "answer": "Trillions of dollars in shareholder value could be created, which could also increase the sector's stability."
+    },
+    {
+      "question": "What is the main reason for the banking industry's ROE being below the cost of equity since the global financial crisis in 2008?",
+      "answer": "Partly as a consequence of regulatory requirements in many countries."
+    },
+    {
+      "question": "What percentage of the 1,000 largest banks globally were considered 'North Stars' in 2023?",
+      "answer": "12 percent."
+    },
+    {
+      "question": "What is the predicted outcome if the banking sector finds a path to a more future-proof business model?",
+      "answer": "Trillions of dollars in shareholder value could be created."
+    },
+    {
+      "question": "How has the share of banks expected to have ROE below the cost of equity changed from 2022 to 2023?",
+      "answer": "The share rose to 58 percent in 2023 from 50 percent in 2022."
+    },
+    {
+      "question": "What type of institutions are considered 'asset light'?",
+      "answer": "Wealth and asset managers."
+    },
+    {
+      "question": "What is the current price-to-book ratio for banks as of September 1, 2023?",
+      "answer": "0.8."
+    },
+    {
+      "question": "What percentage of banks fell into the category of being profitable but with longer-term challenges of value creation in 2023?",
+      "answer": "32 percent."
+    },
+    {
+      "question": "What has been the trend in the banking industry's Return on Equity (ROE) since the global financial crisis in 2008?",
+      "answer": "The industry's ROE has been below the cost of equity."
+    },
+    {
+      "question": "What are the four global trends that are contributing to the Great Banking Transition?",
+      "answer": "The uneven macroeconomic outlook, tighter regulation and government supervision, technology disruption, and systemic risk."
+    },
+    {
+      "question": "How have central banks in areas with high inflation been responding over the past 18 months?",
+      "answer": "They have been raising interest rates faster than in recent history."
+    },
+    {
+      "question": "What is one possible scenario for the medium-term outlook for interest rates?",
+      "answer": "Interest rates could stay at relatively elevated levels for longer amid continued inflation concerns."
+    },
+    {
+      "question": "What is the forecasted global GDP growth rate for 2023 and 2024?",
+      "answer": "About 3 percent."
+    },
+    {
+      "question": "What has happened to the talk of a deeper recession in the United States and Europe?",
+      "answer": "It has mostly dissipated."
+    },
+    {
+      "question": "What is the current sentiment of global executives about conditions in the global economy?",
+      "answer": "For the first time in more than a year, global executives are now more positive than negative."
+    },
+    {
+      "question": "What do many respondents in the McKinsey global survey say about the interest rate environment?",
+      "answer": "Rate levels may have peaked or could soon do so."
+    },
+    {
+      "question": "How has the sentiment about economic conditions changed in Europe, India, and North America over the past six months?",
+      "answer": "Respondents in these regions were more optimistic about economic conditions in their home countries than they were six months ago."
+    },
+    {
+      "question": "What has happened to the average annual GDP growth in China between 2021 and 2023 compared to 2012 and 2019?",
+      "answer": "It has slowed substantially, from an average of 7 percent between 2012 and 2019 to about 4 percent between 2021 and 2023."
+    },
+    {
+      "question": "What is the expected impact of a prolonged period of high interest rates on the economy?",
+      "answer": "It would likely dampen growth and affect the housing market, consumer spending, job creation, and more."
+    },
+    {
+      "question": "When was the McKinsey global survey on economic conditions published?",
+      "answer": "July 2023."
+    },
+    {
+      "question": "What is the trend in respondents' perspectives on interest rate environment according to the McKinsey survey?",
+      "answer": "Many respondents say rate levels may have peaked or could soon do so."
+    },
+    {
+      "question": "Which regions were more optimistic about their economic conditions compared to six months prior to the survey?",
+      "answer": "Europe, India, and North America."
+    },
+    {
+      "question": "What has been the average annual GDP growth in China between 2021 and 2023?",
+      "answer": "About 4 percent."
+    },
+    {
+      "question": "What is the proposed Basel III 'endgame' expected to change?",
+      "answer": "The calculation of risk-weighted assets, potentially leading to significant increases in the capital requirements of large banks."
+    },
+    {
+      "question": "By how much is the US Federal Reserve Board estimating the common equity Tier 1 capital requirements for affected bank holding companies will increase due to the Basel III 'endgame' proposals?",
+      "answer": "An aggregate 16 percent."
+    },
+    {
+      "question": "What is 'open banking' and what has it led to?",
+      "answer": "Open banking enables the sharing of financial data between banks and third-party service providers, and has led to more calls for data protection and increased regulation."
+    },
+    {
+      "question": "What is the trend in regulatory change according to the text?",
+      "answer": "Regulatory change is unlikely to decelerate and may also begin to encompass new and nontraditional business models."
+    },
+    {
+      "question": "What is the estimated aggregate increase in common equity Tier 1 capital requirements for affected bank holding companies according to the US Federal Reserve Board?",
+      "answer": "16 percent."
+    },
+    {
+      "question": "What has led to more calls for data protection and increased regulation in several geographies?",
+      "answer": "The growing adoption of open banking, which enables the sharing of financial data between banks and third-party service providers."
+    },
+    {
+      "question": "What type of requirements are being introduced across industries, including banking, in many countries?",
+      "answer": "Environmental, social, and governance (ESG) requirements."
+    },
+    {
+      "question": "What is happening to regulatory coverage in newer areas?",
+      "answer": "It is slowly expanding to areas such as digital assets, nonbanking financial intermediaries, and fast payments."
+    },
+    {
+      "question": "How have leading digital banks been using technology to improve customer experience?",
+      "answer": "They deploy personalization analytics and digital marketing campaigns, create an omnichannel experience, provide customer approvals in real time using automated credit-risk decisioning, and drive client self-servicing through well-designed digital workflows."
+    },
+    {
+      "question": "What has contributed to improved cost structures in financial institutions?",
+      "answer": "Rapid technological advancement in application programming interfaces (APIs), cloud, and tokenization, as well as in data and analytics."
+    },
+    {
+      "question": "What is expected to provide a significant productivity boost in banking?",
+      "answer": "Large language models that underpin generative AI technology."
+    },
+    {
+      "question": "What is the potential impact of gen AI on banking models?",
+      "answer": "Gen AI has the potential to truly change the shape of banking models."
+    },
+    {
+      "question": "Why could gen AI be different from other new technologies in banking?",
+      "answer": "Gen AI could be different for three main reasons: it could bring about a quantum leap in productivity and customer experience, it has a relatively low barrier to entry, and a significant part of its impact happens in the back and middle offices."
+    },
+    {
+      "question": "How should financial institutions approach the deployment of gen AI?",
+      "answer": "Financial institutions seeking to deploy gen AI will need a high metabolism rate coupled with a clearly defined risk appetite and controls, and may want to begin with a purpose-built gen AI framework, including considerations on risk and control."
+    },
+    {
+      "question": "What are some of the applications of gen AI in banking?",
+      "answer": "Gen AI can personalize the creation and editing of images, audio, and video, be used in chat-like customer service applications, predict or extract information from unstructured data, and search and extract key information about topics."
+    },
+    {
+      "question": "What are some limitations of gen AI?",
+      "answer": "Gen AI is still relatively novel, prone to errors and factual inaccuracy, and its value judgments are largely untested, making it unsuitable for high-stakes scenarios."
+    },
+    {
+      "question": "What is Gen AI prone to?",
+      "answer": "Errors and factual inaccuracy, or invention (known as 'hallucinations')."
+    },
+    {
+      "question": "Why is Gen AI not suitable for high-stakes scenarios?",
+      "answer": "Because it is prone to errors, factual inaccuracy, or invention, and its value judgments are largely untested, which could cause harm or where verification or substantiation is difficult to provide in the moment."
+    },
+    {
+      "question": "In which areas can Gen AI potentially level up the banking value chain?",
+      "answer": "Marketing and sales, operations, technology, and legal, risk, and compliance."
+    },
+    {
+      "question": "How can Gen AI be used in marketing and sales?",
+      "answer": "To automatically create hyper-personalized content tailored to each customer, as a frontline assistant, conducting industry research, and proposal preparation."
+    },
+    {
+      "question": "What is the estimated potential reduction in operating expenditures in the banking sector due to Gen AI?",
+      "answer": "Between $200 billion and $300 billion."
+    },
+    {
+      "question": "What are some of the areas where Gen AI could have the largest impacts?",
+      "answer": "Marketing and sales, customer operations, investment servicing, software engineering, and risk and legal."
+    },
+    {
+      "question": "What has increased volatility and added new risks to the global economy?",
+      "answer": "Rising geopolitical tensions, the growth of trade restrictions, and black-swan events such as the COVID-19 pandemic."
+    },
+    {
+      "question": "How much could gen AI potentially reduce operating expenditures in the banking sector?",
+      "answer": "Between $200 billion and $300 billion."
+    },
+    {
+      "question": "Which areas could potentially feel the largest impacts from gen AI in the banking sector?",
+      "answer": "Marketing and sales, customer operations, investment servicing, software engineering, and risk and legal."
+    },
+    {
+      "question": "What has increased volatility and added new risks to the global economy?",
+      "answer": "Rising geopolitical tensions, the growth of trade restrictions, and black-swan events such as the COVID-19 pandemic."
+    },
+    {
+      "question": "What was the result of Russia's invasion of Ukraine on the Geopolitical Risk Index in 2022?",
+      "answer": "It reached a ten-year high."
+    },
+    {
+      "question": "How have customer preferences in banking changed?",
+      "answer": "Customers are increasingly drawn to hybrid and digital service offerings that are personalized and customized for their needs."
+    },
+    {
+      "question": "What was the trend in the issuance of sustainable bonds from 2016 to 2021?",
+      "answer": "It rose to $1.06 trillion in 2021 from almost zero, five years previously."
+    },
+    {
+      "question": "What is forecast for the issuance of sustainable bonds in 2023?",
+      "answer": "It is forecast to return to $900 billion to $1 trillion."
+    },
+    {
+      "question": "What was the total issuance of sustainable bonds in 2021?",
+      "answer": "$1.06 trillion."
+    },
+    {
+      "question": "What is the forecasted issuance of sustainable bonds for 2023?",
+      "answer": "$900 billion to $1 trillion."
+    },
+    {
+      "question": "What is primarily affecting the long-term profitability of balance-sheet-heavy banks?",
+      "answer": "The long-term contraction of global banking margins and ROE."
+    },
+    {
+      "question": "How much accounting profit does banking globally generate every year?",
+      "answer": "About $1 trillion."
+    },
+    {
+      "question": "What are the largest contributors to the industry's $1 trillion in annual average profits?",
+      "answer": "Retail and wholesale banking."
+    },
+    {
+      "question": "What is the notional cost of capital for banks compared to their accounting profit?",
+      "answer": "The notional cost of capital amounts to about $1.2 trillion and exceeds the level of accounting profit."
+    },
+    {
+      "question": "What is the notional cost of capital for banks?",
+      "answer": "About $1.2 trillion."
+    },
+    {
+      "question": "What are the largest contributors to the banking industry's annual average profits?",
+      "answer": "Retail and wholesale banking."
+    },
+    {
+      "question": "What is the total global banking average net income from 2017 to 2023?",
+      "answer": "$970 billion."
+    },
+    {
+      "question": "How much equity does the banking sector employ for doing business?",
+      "answer": "About $12 trillion."
+    },
+    {
+      "question": "What is the cost of equity for the banking sector?",
+      "answer": "About 10 percent."
+    },
+    {
+      "question": "Which subsectors have had strong earnings-per-share (EPS) growth and value creation?",
+      "answer": "Payments companies."
+    },
+    {
+      "question": "Are banking sectors in Asia, Latin America, and the Middle East and Africa growing revenue faster than others?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What are the largest contributors to the banking industry's $1 trillion in annual average profits?",
+      "answer": "Retail and wholesale banking."
+    },
+    {
+      "question": "How much equity does the banking sector employ for doing business?",
+      "answer": "About $12 trillion."
+    },
+    {
+      "question": "What is the expected minimum profit in return for the banking sector's equity, given a cost of equity of 10 percent?",
+      "answer": "$1.2 trillion."
+    },
+    {
+      "question": "Which subsectors have had both strong earnings-per-share (EPS) growth and value creation?",
+      "answer": "Payments companies."
+    },
+    {
+      "question": "Are the BRICS countries the primary beneficiaries of the shifting geography of banking?",
+      "answer": "No, banking sectors in Asia, Latin America, and the Middle East and Africa are growing revenue faster as a whole."
+    },
+    {
+      "question": "What is the average annual net income of the global banking industry from 2017 to 2023?",
+      "answer": "$970 billion."
+    },
+    {
+      "question": "Which subsector has seen a contraction in value despite higher EPS growth?",
+      "answer": "Mid-tier banks."
+    },
+    {
+      "question": "What was the revenue growth rate of the Middle East and Africa in 2022\u201323?",
+      "answer": "11 percent."
+    },
+    {
+      "question": "What percentage of the top-performing financial institutions globally are located in the Indo-Crescent region?",
+      "answer": "51 percent."
+    },
+    {
+      "question": "What percentage of global banking assets is held by the Indo-Crescent region?",
+      "answer": "8 percent."
+    },
+    {
+      "question": "Which Indian bank is on track to become one of the world\u2019s largest banks by market capitalization after a merger?",
+      "answer": "HDFC."
+    },
+    {
+      "question": "What was the average annual banking revenue growth rate in the Middle East and Africa from 2016 to 2022?",
+      "answer": "Almost half of the 11 percent growth rate in 2022\u201323."
+    },
+    {
+      "question": "What factors have enabled the superior performance of banks in the Indo-Crescent region?",
+      "answer": "Higher GDP and population growth in some of the Indo-Crescent countries, breakthrough disruptions, ecosystem plays, and cost-efficient service delivery models."
+    },
+    {
+      "question": "What is the Indo-Crescent region home to in terms of best-performing banks?",
+      "answer": "Half of the best-performing banks that are achieving breakthrough growth."
+    },
+    {
+      "question": "What is happening to traditional universal banks in China?",
+      "answer": "They continue to face challenges with a high level of nonperforming loans."
+    },
+    {
+      "question": "Why are major Chinese banks trading at 0.5 times their book value?",
+      "answer": "They have limited prospects for achieving ROE higher than the cost of equity in 2023, partly due to challenges such as a real estate overhang."
+    },
+    {
+      "question": "What is driving the Great Banking Transition?",
+      "answer": "A deep and growing rift in the banking sector between core banking functions and more capital-light parts of the business, with funds moving toward nontraditional players and parts of the market."
+    },
+    {
+      "question": "What is the expected banking industry revenue growth CAGR from 2021-2030 for India?",
+      "answer": "10%"
+    },
+    {
+      "question": "What is influencing retail consumption and provincial debt levels?",
+      "answer": "Declines in real estate values."
+    },
+    {
+      "question": "How are banks responding to the challenges they face?",
+      "answer": "By exploring cost-saving opportunities through large-scale sophisticated digitization and, in some cases, salary adjustments."
+    },
+    {
+      "question": "What gives Chinese banks an extra layer of protection?",
+      "answer": "Government ownership."
+    },
+    {
+      "question": "What is happening to fintech regulations?",
+      "answer": "They have been tightened, including rules governing the financial aspects of super apps."
+    },
+    {
+      "question": "What is a priority for the banking sector to maintain customer confidence?",
+      "answer": "Increasing levels of risk management."
+    },
+    {
+      "question": "What new opportunities will emerge as incomes rise and more people gain access to the financial system?",
+      "answer": "Opportunities for wealth management, rural finance, and cross-border banking."
+    },
+    {
+      "question": "What has happened to almost all of China's peer-to-peer lending platforms?",
+      "answer": "They have been closed."
+    },
+    {
+      "question": "What is the result of the flow of assets from traditional financial institutions to nontraditional institutions?",
+      "answer": "The traditional core of the banking sector\u2014the balance sheet\u2014is at a tipping point, and this transition will reshape the other two pillars of banking: transactions and distribution."
+    },
+    {
+      "question": "What is enabling and accelerating the transition in the financial services industry?",
+      "answer": "Technological innovation."
+    },
+    {
+      "question": "What is the current state of the banking sector's balance sheet?",
+      "answer": "The balance sheet is at a tipping point due to the growth of assets under management outside of banks' balance sheets."
+    },
+    {
+      "question": "What are the three pillars of banking that are being affected by the Great Banking Transition?",
+      "answer": "The three pillars of banking being affected are the balance sheet, transactions, and distribution."
+    },
+    {
+      "question": "What is driving the growth of assets under management outside of banks' balance sheets?",
+      "answer": "Clients and customers are searching for higher returns, lower capital funding, or better matching durations of assets, leading to a migration of financial assets out of bank balance sheets and into non-banks or off-balance-sheet vehicles."
+    },
+    {
+      "question": "At what rate has financial stock that is off balance sheet been growing annually?",
+      "answer": "Financial stock that is off balance sheet has been growing at about 7 percent annually."
+    },
+    {
+      "question": "What percentage of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022?",
+      "answer": "More than 70 percent of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022."
+    },
+    {
+      "question": "Why are bank assets leaving banks?",
+      "answer": "Bank assets are leaving banks due to reasons related to business models or client service, such as other institutions being able to take more risk, better match durations and risk appetite, or having lower-cost or stickier funding."
+    },
+    {
+      "question": "What has been the growth rate of financial stock that is off balance sheet annually?",
+      "answer": "7 percent."
+    },
+    {
+      "question": "What percentage of the net increase in financial funds went into off-banking balance sheet between 2015 and 2022?",
+      "answer": "More than 70 percent."
+    },
+    {
+      "question": "When did the migration of assets off the balance sheet accelerate?",
+      "answer": "After the global financial crisis in 2008."
+    },
+    {
+      "question": "What percentage of the net increase in financial funds goes off the banking balance sheet in the United States?",
+      "answer": "More than 75 percent."
+    },
+    {
+      "question": "What has been the growth rate of off balance sheet assets in North America?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "What is the proportion of off-balance sheet in China?",
+      "answer": "Less than 30 percent."
+    },
+    {
+      "question": "What is the growth rate of off-balance-sheet assets in North America?",
+      "answer": "9 percent."
+    },
+    {
+      "question": "How does the growth rate of off-balance-sheet assets compare to on-balance-sheet assets in the Middle East?",
+      "answer": "Off-balance-sheet assets grew at 6 percent, while on-balance-sheet assets grew at 3 percent."
+    },
+    {
+      "question": "What is the total net change in off-balance-sheet assets globally between 2015 and 2022?",
+      "answer": "The text does not provide a direct total, but it can be inferred that the total is the sum of the values across different regions: 48.8 (North America) + 11.6 (China) + 11.9 (Asia\u2013Pacific except China) + 14.4 (Europe) + 2.5 (Latin America) + 4.1 (Middle East and Africa) = 92.3 trillion dollars."
+    },
+    {
+      "question": "What percentage of global lending is accounted for by nonbank financial firms?",
+      "answer": "14 percent."
+    },
+    {
+      "question": "What is the annual growth rate of private capital between 2015 and 2022?",
+      "answer": "Almost 20 percent."
+    },
+    {
+      "question": "What is the growth rate of retail assets under management since 2015?",
+      "answer": "9 percent per annum."
+    },
+    {
+      "question": "What was the growth rate of private debt inflows in 2022?",
+      "answer": "29 percent."
+    },
+    {
+      "question": "What percentage of wholesale loans in North America are private debt assets under management?",
+      "answer": "About 8 percent."
+    },
+    {
+      "question": "What was the compound annual growth rate (CAGR) of private debt from 2015 to 2022?",
+      "answer": "18%."
+    },
+    {
+      "question": "What was the average annual growth rate of direct lending between 2015 and 2022?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "What was the growth rate of payment specialists' share of payment processing between 2015 and 2022?",
+      "answer": "More than 50 percent."
+    },
+    {
+      "question": "Why have private financing channels become more popular?",
+      "answer": "They often have advantages including speed, flexibility, and convenience."
+    },
+    {
+      "question": "What was the change in market share of payment specialists in consumer digital payment processing between 2015 and 2022?",
+      "answer": "Their share of payment processing grew by more than 50 percent."
+    },
+    {
+      "question": "What was the market share of specialized players in equity capital markets in 2015 and 2022?",
+      "answer": "In 2015, it was 44 percent, and in 2022, it was 59 percent."
+    },
+    {
+      "question": "What was the trend in market share of independent asset managers not owned by a bank or insurer between 2017 and 2022?",
+      "answer": "Their market share increased from 77 percent to 81 percent."
+    },
+    {
+      "question": "What is happening to the distribution in banking?",
+      "answer": "Distribution is shifting toward hybrid models, including third-party transactions."
+    },
+    {
+      "question": "What was the change in market share of investment banks and broker-dealers in foreign-exchange transactions between 2015 and 2022?",
+      "answer": "Their market share increased from less than 1 percent to 22 percent."
+    },
+    {
+      "question": "What has driven the transformation of banking distribution?",
+      "answer": "Technological innovation."
+    },
+    {
+      "question": "What is embedded finance?",
+      "answer": "The seamless integration of financial products and services into nonbanking products and business models."
+    },
+    {
+      "question": "What is the potential revenue of embedded finance in the European Economic Area and the United Kingdom by 2030?",
+      "answer": "\u20ac100 billion."
+    },
+    {
+      "question": "What are the products that the embedded finance industry has focused on for rapid scale-up?",
+      "answer": "Payments, insurance, and point-of-sale lending."
+    },
+    {
+      "question": "What is the potential benefit of removing silos in banks' distribution channels?",
+      "answer": "Huge performance improvements, including a tripling of cross-selling and reduced operating costs."
+    },
+    {
+      "question": "How much of operating costs can distribution amount to in the banking industry?",
+      "answer": "As much as 25 percent."
+    },
+    {
+      "question": "What type of institutions have been increasingly generating economic value and positive shareholder returns?",
+      "answer": "Institutions that are capital-light."
+    },
+    {
+      "question": "What was the ROE on balance sheet activities in 2017-22?",
+      "answer": "Between 5 and 7 percent."
+    },
+    {
+      "question": "What was the economic profit on balance sheet activities in 2017-22?",
+      "answer": "A negative $600 billion."
+    },
+    {
+      "question": "What is the main difference in the impact of the Great Transition on financial institutions?",
+      "answer": "The impact of the Great Transition will differ according to business models and depending on the macroeconomic outlook."
+    },
+    {
+      "question": "What percentage of capital was accounted for by balance sheet activities from 2017 to 2022?",
+      "answer": "70 percent"
+    },
+    {
+      "question": "Which business model has posted the highest growth in economic profit since 2017?",
+      "answer": "Transactions"
+    },
+    {
+      "question": "What was the return on equity (ROE) for transactions from 2017 to 2022?",
+      "answer": "Between 18 and 23 percent"
+    },
+    {
+      "question": "What percentage of capital was invested by payments providers from 2017 to 2022?",
+      "answer": "2 percent"
+    },
+    {
+      "question": "Which type of financial institutions are the most capital-intensive?",
+      "answer": "Traditional universal banks"
+    },
+    {
+      "question": "What percentage of the capital invested in the financial system is accounted for by traditional universal banks?",
+      "answer": "85 percent"
+    },
+    {
+      "question": "What has been the trend in value for traditional universal banks from 2018 to 2022?",
+      "answer": "They have been losing value at a rate of 1 to 2 percent"
+    },
+    {
+      "question": "What has been the rate of value loss for investment banks and broker dealers, along with wealth and asset managers, over the 2018\u201322 period?",
+      "answer": "1 to 2 percent."
+    },
+    {
+      "question": "How do the valuations of payment providers compare to traditional banks in terms of price-to-book ratio?",
+      "answer": "Payment providers have a price-to-book ratio that is about seven times the average valuation of traditional banks."
+    },
+    {
+      "question": "What is the price-to-book ratio of capital market infrastructure providers relative to traditional banks?",
+      "answer": "About three times as high."
+    },
+    {
+      "question": "How have higher interest rates potentially impacted traditional banks?",
+      "answer": "Higher rates (and spreads) can potentially bring about a revival in their prospects."
+    },
+    {
+      "question": "Which business models may be negatively impacted in a high-interest-rate environment?",
+      "answer": "Consumer finance players and payment providers."
+    },
+    {
+      "question": "Why may certain banks struggle to adjust to a high-interest-rate environment?",
+      "answer": "Because of regulation, political pressure, or business model."
+    },
+    {
+      "question": "What may accelerate some business areas that would have languished or been unprofitable when interest rates were low?",
+      "answer": "A higher-interest-rate environment."
+    },
+    {
+      "question": "What type of business models could be negatively impacted in a high-interest-rate environment?",
+      "answer": "Consumer finance players and payment providers."
+    },
+    {
+      "question": "What is enabling and accelerating the Great Banking Transition?",
+      "answer": "Technological innovation."
+    },
+    {
+      "question": "What is the effect of technological innovation on activities where scale and capabilities matter?",
+      "answer": "Continuous pressure."
+    },
+    {
+      "question": "What is likely to become increasingly prevalent and a significant differentiator among banks due to technological advancements?",
+      "answer": "Tech-fueled competition."
+    },
+    {
+      "question": "What have successful banks been deploying to improve productivity?",
+      "answer": "Tech-backed business strategies with clear value at stake."
+    },
+    {
+      "question": "What is the relationship between technology investment and bank performance?",
+      "answer": "Banks that are leaders in technology investment tend to outperform others."
+    },
+    {
+      "question": "How do high-performing European banks compare to low performers in terms of technology expenses?",
+      "answer": "High-performing European banks spend significantly more on technology than low performers."
+    },
+    {
+      "question": "What was the average return on assets for top quartile and bottom quartile?",
+      "answer": "1.3% for top quartile and 0.2% for bottom quartile."
+    },
+    {
+      "question": "What was the average cost-to-income ratio for top quartile and bottom quartile?",
+      "answer": "40% for top quartile and 75% for bottom quartile."
+    },
+    {
+      "question": "What percentage of full-time equivalents in technology delivery organizations are engineers in banks that focus on engineering excellence?",
+      "answer": "About 75 percent."
+    },
+    {
+      "question": "How did one institution develop a new proposition using platform-oriented architecture?",
+      "answer": "By building it, based on software-as-a-service (SaaS) banking components, in just nine months."
+    },
+    {
+      "question": "What percentage of applications can be hosted on the public cloud by institutions adopting automated infrastructure and public cloud?",
+      "answer": "More than half."
+    },
+    {
+      "question": "What are the three horizons across which financial players are moving?",
+      "answer": "Core business transformation, use of platform-based architecture or behind-the-scenes integration of AI into operations, and targeted productivity enhancement."
+    },
+    {
+      "question": "What are the five priorities outlined to help institutions survive and thrive during the Great Banking Transition?",
+      "answer": "Exploiting technology and AI, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution and the customer relationship, and adapting to a changed risk environment."
+    },
+    {
+      "question": "What are the five possible priorities that could help banking institutions survive and thrive?",
+      "answer": "Exploiting technology and AI, flexing the balance sheet, scaling or exiting transaction business, leveling up distribution and the customer relationship, and adapting to a changed risk environment."
+    },
+    {
+      "question": "Why is technology considered a game changer for banks?",
+      "answer": "When used with skill and creativity and fully integrated into an institution's ecosystem and operating model."
+    },
+    {
+      "question": "How much more do leaders in some geographies, such as Europe, invest in technology compared to laggards?",
+      "answer": "2.5 times more."
+    },
+    {
+      "question": "What is one way for banks to future-proof their tech foundation?",
+      "answer": "By cultivating a cloud-based, platform-oriented architecture that allows for continuous innovation and the ability to implement next-generation capabilities."
+    },
+    {
+      "question": "What is the purpose of DevSecOps in banking?",
+      "answer": "To integrate security as a shared responsibility throughout the entire IT life cycle and allow organizations to deploy new code rapidly."
+    },
+    {
+      "question": "What is one option for banks to capture the AI opportunity?",
+      "answer": "To deploy process automation, platforms, and ecosystems across customer services to provide better and more efficient services, front to back."
+    },
+    {
+      "question": "Why might financial institutions want to reduce their balance sheet and move business off balance sheet?",
+      "answer": "To create opportunities to distribute risk to a broader set of investors."
+    },
+    {
+      "question": "What does DevSecOps stand for?",
+      "answer": "DevSecOps stands for development, security, and operations."
+    },
+    {
+      "question": "What is the main idea behind flexing in banking?",
+      "answer": "Flexing implies active use of syndication, including for loans; originate-to-distribute; and third-party balance sheets."
+    },
+    {
+      "question": "What is meant by unbundling the balance sheet in banking?",
+      "answer": "Unbundling the balance sheet means separating out customer-facing businesses from BaaS businesses and using technology to radically restructure costs."
+    },
+    {
+      "question": "What are the benefits of flexing or unbundling the balance sheet for banks?",
+      "answer": "The benefits include customer service and business capacity, capital optimization, and portfolio and risk optimization."
+    },
+    {
+      "question": "How may flexing or unbundling shift the lending business model?",
+      "answer": "It may shift the lending business model from being primarily spread income based to one that includes fee income from distributed assets."
+    },
+    {
+      "question": "What opportunities does unbundling provide for customer-facing banking business?",
+      "answer": "Unbundling allows financial institutions to double down in prioritized growth products and services that are customer facing."
+    },
+    {
+      "question": "What are the typical ROE and cost of equity ranges for customer-facing banking businesses?",
+      "answer": "The average ROEs are between 16 and 18 percent and cost of equity is between about 10 and 12 percent."
+    },
+    {
+      "question": "What are the roles that BaaS providers can take on?",
+      "answer": "BaaS providers can be utility providers or balance sheet providers, delivering regulatory expertise, back-office services, access to capital, and liability management."
+    },
+    {
+      "question": "What is the typical ROE and cost of equity achieved by BaaS providers?",
+      "answer": "6 to 8 percent"
+    },
+    {
+      "question": "What opportunity does The Great Banking Transition provide for banks?",
+      "answer": "To reimagine risk management and revamp capabilities to manage credit and liquidity risks with increased efficiency"
+    },
+    {
+      "question": "What is the key to success in transaction businesses according to best-practice examples?",
+      "answer": "Scale in a particular market or product"
+    },
+    {
+      "question": "What are the three considerations for scaling or exiting transaction businesses?",
+      "answer": "Decide whether to scale or exit, aggressively pursue economies of scale, and leverage partners to help with exits"
+    },
+    {
+      "question": "How can scale be achieved in transaction businesses?",
+      "answer": "Through mergers and acquisitions, or by finding a niche in which to go deep, or by covering an entire market"
+    },
+    {
+      "question": "What makes switching and managing partners easier in transaction businesses?",
+      "answer": "Modern tech foundations, especially cloud and APIs"
+    },
+    {
+      "question": "What is an essential element of thriving during The Great Banking Transition?",
+      "answer": "Connecting or reconnecting with customers"
+    },
+    {
+      "question": "How can banks innovate their interaction with clients?",
+      "answer": "Through hybrid and digital models, particularly in advisory services"
+    },
+    {
+      "question": "What are the several paths that can help achieve a certain goal in the banking industry?",
+      "answer": "Innovate how to interact with clients through hybrid and digital models, decide on a strategy toward third-party distribution, stop leakage where possible, and involve private, corporate, and merchant banking."
+    },
+    {
+      "question": "What is Priority 5 in The Global Banking Annual Review 2023?",
+      "answer": "Adapting to a changed risk environment."
+    },
+    {
+      "question": "What complex issues are chief risk officers in financial organizations dealing with?",
+      "answer": "The macroeconomic context featuring inflation and geopolitical uncertainty, an uncertain growth outlook, potential credit challenges, the regulatory environment, and the exponential integration of advanced analytics into the banking ecosystem."
+    },
+    {
+      "question": "Why will the risk function become a significant differentiating factor for banks relative to nonbanks?",
+      "answer": "Because many activities are transitioning outside the perimeter of bank-specific regulation, and trust, confidence, and security will play an increasingly important role in clients' and customers' minds."
+    },
+    {
+      "question": "What are some no-regret actions that risk functions can take to adapt to the evolving landscape?",
+      "answer": "Elevate the risk narrative to make it a true differentiator, further strengthen the first line and embed risk into day-to-day activities, and invest in newer risk activity areas driven by the growth of gen AI and other advanced analytical techniques."
+    },
+    {
+      "question": "What is the dominant underlying theme for the banking sector?",
+      "answer": "The Great Banking Transition."
+    },
+    {
+      "question": "What percentage of the global balance sheet has transitioned?",
+      "answer": "More than half."
+    },
+    {
+      "question": "What is one of the 'no-regret actions' that risk functions can take?",
+      "answer": "Elevate the risk narrative to make it a true differentiator."
+    },
+    {
+      "question": "What is the importance of data treated as in the banking sector?",
+      "answer": "An asset that requires the right governance, operating model, and controls."
+    },
+    {
+      "question": "What should banks focus on instead of process?",
+      "answer": "Outcomes."
+    },
+    {
+      "question": "How can banks prepare for increased regulatory scrutiny?",
+      "answer": "Through increased foresight, scenario planning, and stress testing; improve transparency and depth of reporting; increase focus on operational resilience; and prepare for faster response times."
+    },
+    {
+      "question": "What is the potential upside for banks if they can find a business model that reduces the sector's valuation discount?",
+      "answer": "Enormous value creation."
+    },
+    {
+      "question": "What is the main theme of The Global Banking Annual Review 2023?",
+      "answer": "The Great Banking Transition."
+    },
+    {
+      "question": "According to the report, what do banks need to do to create a new era of value creation?",
+      "answer": "They need to parse their balance sheet, transaction, and distribution businesses to identify which create value or provide a competitive advantage, and have powerful new technologies and a revised mindset."
+    },
+    {
+      "question": "Who are the authors of The Global Banking Annual Review 2023?",
+      "answer": "Debopriyo Bhattacharyya, Asheet Mehta, Miklos Dietz, Alexander Edlich, and Reinhard H\u00f6ll."
+    },
+    {
+      "question": "What is McKinsey Panorama?",
+      "answer": "McKinsey's proprietary banking research arm."
+    },
+    {
+      "question": "When was The Global Banking Annual Review 2023 published?",
+      "answer": "October 2023."
+    },
+    {
+      "question": "What is the title of the publication?",
+      "answer": "The Global Banking Annual Review 2023: The Great Banking Transition"
+    },
+    {
+      "question": "When was the publication released?",
+      "answer": "October 2023"
+    },
+    {
+      "question": "Who is the publisher of the report?",
+      "answer": "McKinsey & Company"
+    },
+    {
+      "question": "What is the recommended course of action before undertaking complex financial transactions based on this publication?",
+      "answer": "Consulting appropriate professional advisers"
+    },
+    {
+      "question": "How can one obtain permission to copy or redistribute the publication?",
+      "answer": "By obtaining the prior written consent of McKinsey & Company"
+    }
+  ]
+}

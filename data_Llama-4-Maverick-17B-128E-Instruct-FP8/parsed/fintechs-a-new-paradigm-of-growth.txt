@@ -1,0 +1,1330 @@
+Financial Services Practice
+
+Fintechs:  
+A new paradigm  
+of growth
+
+October 2023
+
+After decades of hypergrowth, 
+fintechs have entered a new era  
+of value creation, where the focus is 
+on sustainable, profitable growth. 
+This report examines how fintechs 
+can win in these disruptive times.
+
+This report is a collaborative effort by Lindsay Anan, Diego Castellanos Isaza, Fernando Figueiredo, 
+Max Flötotto, André Jerenz, Alexis Krivkovich, Marie-Claude Nadeau, Tunde Olanrewaju, Zaccaria 
+Orlando, and Alessia Vassallo, representing views from McKinsey’s Financial Services Practice. 
+
+Contents
+
+Executive summary     
+
+Chapter 1: Fintech growth then and now     
+
+Chapter 2: The path to sustainable growth     
+
+1
+
+2
+
+8
+
+ii
+
+Fintechs: A new paradigm of growthExecutive summary
+
+Over the past decade, technological progress and innovation have catapulted the fintech 
+sector from the fringes to the forefront of financial services. And the growth has been fast and 
+furious, buoyed by the robust growth of the banking sector, rapid digitization, changing customer 
+preferences, and increasing support of investors and regulators. During this decade, fintechs  
+have profoundly reshaped certain areas of financial services with their innovative, differentiated,  
+and customer-centric value propositions, collaborative business models, and cross-skilled and  
+agile teams.
+
+As of July 2023, publicly traded fintechs represented a market capitalization of $550 billion, a two-
+times increase versus 2019.1 In addition, as of the same period, there were more than 272 fintech 
+unicorns, with a combined valuation of $936 billion, a sevenfold increase from 39 firms valued at 
+$1 billion or more five years ago.2  
+
+In 2022, a market correction triggered a slowdown in this explosive growth momentum. The impact 
+continues to be felt today. Funding and deal activity have declined across the board, and there 
+are fewer IPOs and SPAC (special purpose acquisition company) listings, as well as a decline in 
+new unicorn creation. The macro environment also remains challenging and uncertain. In such a 
+scenario, fintechs are entering a new era of value creation. The last era was all about firms being 
+experimental—taking risks and pursuing growth at all costs. In the new era, a challenged funding 
+environment means fintechs can no longer afford to sprint. To remain competitive, they must run at a 
+slower and steadier pace.
+
+In this report, we examine how fintechs can continue to grow in strength and relevance for customers, 
+the overall financial ecosystem, and the world economy, even in disruptive times. Based on research 
+and interviews with more than 100 founders, fintech and banking executives, investors, and senior 
+ecosystem stakeholders, we have identified key themes shaping the future of fintechs. To help 
+fintechs capitalize on these themes, we also provide a framework for sustainable growth, based on an 
+analysis of the strategies used by long-established public companies that have weathered previous 
+economic cycles.
+
+1  F-Prime Fintech Index.
+2  Dealroom.co; McKinsey analysis.
+
+1
+
+Fintechs: A new paradigm of growthChapter 1: Fintech 
+growth then and now
+
+The fintech industry raised record capital in the second half of the last decade. Venture capital (VC) 
+funding grew from $19.4 billion in 2015 to $33.3 billion in 2020, a 17 percent year-over-year increase 
+(see sidebar “What are fintechs?”). Deal activity increased in tandem, with the number of deals 
+growing 1.2 times over this period.
+
+The industry fared even better in 2021, thriving on the backs of the pandemic-triggered acceleration 
+in digitization and a financial system awash with liquidity. Funding increased by 177 percent year over 
+year to $92.3 billion, and the number of deals grew by 19 percent. 
+
+The funding surge proved to be a one-off event. Funding levels in 2022 returned to long-term trend levels 
+as inflated growth expectations from the 2021 extraordinary results were reanchored to business-as-
+usual levels, and as deteriorating macroeconomic conditions and geopolitical shocks destabilized the 
+business environment. The correction caused fintech valuations to plummet. Many private firms faced 
+down rounds, and publicly traded fintechs lost billions of dollars in market capitalization. VC funding was 
+hit hard globally and across sectors, dropping to $459.6 billion in 2022 from $683.1 billion in 2021. Fintech 
+funding faced a 40 percent year-over-year funding decline, down from $92 billion to $55 billion. Yet, when 
+analyzed over a five-year period, fintech funding as a proportion of total VC funding remained fairly stable 
+at 12 percent, registering only a 0.5 percentage point decline in 2022. 
+
+Looking ahead, the fintech industry continues to face a challenging future, but there are several 
+opportunities yet to be unlocked. Investors are adapting to a new financial paradigm with higher 
+interest rates and inflation, which has altered their assessment of risk and reward. At the same 
+time, the once-in-a-generation technology revolution under way is generating more value creation 
+opportunities. Our research shows that revenues in the fintech industry are expected to grow almost 
+three times faster than those in the traditional banking sector between 2022 and 2028. Compared 
+with the 6 percent annual revenue growth for traditional banking, fintechs could post annual revenue 
+growth of 15 percent over the next five years. 
+
+These trends are also coinciding with—and in many ways catalyzing—the maturation of the fintech 
+industry. Based on our research and interviews, three themes will shape the next chapter of fintech 
+growth. First, fintechs will continue to benefit from the radical transformation of the banking 
+industry, rapid digital adoption, and e-commerce growth around the world, particularly in developing 
+economies. Second, despite short-term pressures, fintechs still have room to achieve further growth 
+in an expanding financial-services ecosystem. And finally, not all fintechs are being hit equally hard 
+during the market correction: fintechs in certain verticals and at particular stages of growth are more 
+resilient than their peers. 
+
+What are fintechs?
+
+We define fintech players as start-ups 
+and growth companies that rely primarily on 
+technology to conduct fundamental functions 
+provided by financial services, thereby 
+affecting how users store, save, borrow, invest, 
+
+move, pay, and protect money. For the analysis 
+of this report, we included the following 
+fintech sectors: daily banking; lending; wealth 
+management; payments; investment banking 
+and capital markets; small and medium-size 
+
+enterprise (SME) and corporate services; 
+operations; and infrastructure (including 
+embedded finance, and banking as a service). 
+The analysis excluded cryptocurrency, 
+decentralized finance, and insurtech. 
+
+2
+
+Fintechs: A new paradigm of growth   
+McKinsey’s research shows that 
+revenues in the fintech industry are 
+expected to grow almost three times 
+faster than those in the traditional 
+banking sector between 2023 and 2028.
+
+Radical transformation of the banking industry 
+
+Banking is facing a future marked by fundamental restructuring. As our colleagues wrote recently, 
+banks and nonbanks are competing to fulfill distinct customer needs in five cross-industry arenas 
+in this new era: everyday banking, investment advisory, complex financing, mass wholesale 
+intermediation, and banking as a service (BaaS).3  
+
+At the same time, macro tailwinds are powering the growth of fintechs and the broader financial-
+services ecosystem. Digital adoption is no longer a question but a reality: around 73 percent of the 
+world’s interactions with banks now take place through digital channels. 
+
+Moreover, retail consumers globally now have the same level of satisfaction and trust in fintechs as 
+they have with incumbent banks.4 In fact, 41 percent of retail consumers surveyed by McKinsey in 
+2021 said they planned to increase their fintech product exposure. The demand—and need—for 
+fintech products is higher across developing economies. In 2022, for example, Africa had almost 
+800 million mobile accounts, almost half of the whole world’s total.5  
+
+B2B firms’ demand for fintech solutions also is growing. In 2022, 35 percent of the small and 
+medium-size enterprises (SMEs) in the United States considered using fintechs for lending, better 
+pricing, and integration with their existing platforms. And in Asia, 20 percent of SMEs leveraged 
+fintechs for payments and lending.6  
+
+To capitalize on this demand, fintechs will need to keep up with fast-evolving regulations and ensure 
+they have adequate resources and capacity to comply. Some European Union member states, 
+such as Ireland, are bringing buy-now-pay-later providers under the scope of financial regulation.7 
+Meanwhile, the US Consumer Financial Protection Bureau aims to issue a proposed rule around open 
+banking this year that would require financial institutions to share consumer data upon consumers’ 
+requests.8 This would make it necessary for fintechs to ensure they have the available resources and 
+capacity to respond to these requests. 
+
+A nascent industry in an expanding ecosystem
+
+The banking industry generated more than $6.5 trillion in revenues in 2022, with year-over-year 
+growth in volume and revenue margins.9 Given the fintech market dynamics, this suggests there is 
+still plenty of room for further growth in both public and private markets. 
+
+3  Balázs Czímer, Miklós Dietz, Valéria László, and Joydeep Sengupta, “The future of banks: A $20 trillion breakup opportunity,” 
+
+McKinsey Quarterly, December 20, 2022.
+
+4  McKinsey Retail Banking Consumer Survey, 2021.
+5  The state of the industry report on mobile money, GSM Association, April 2023.
+6  McKinsey 2022 US SMB Banking Survey, 2022 (n = 955).
+7  Miroslav Đurić and Verena Ritter-Döring, “Regulation of buy-now-pay-later in the EU: New regime on the horizon,” Law Business 
+
+Research, February 8, 2023.
+
+8  Farouk Ferchichi, “The US is one step closer to making open banking a reality,” Finextra, January 19, 2023.
+9  “McKinsey’s Global Banking Annual Review,” McKinsey, December 1, 2022.
+
+3
+
+Fintechs: A new paradigm of growthIn 2022, fintechs accounted for 5 percent (or $150 billion to $205 billion) of the global banking 
+sector’s net revenue,10 according to our analysis. We estimate this share could increase to more than 
+$400 billion by 2028,11 representing a 15 percent annual growth rate of fintech revenue between 
+2022 and 2028, three times the overall banking industry’s growth rate of roughly 6 percent (Exhibit 1).
+
+Emerging markets will fuel much of this revenue growth. Fintech revenues in Africa, Asia–Pacific 
+(excluding China), Latin America, and the Middle East represented 15 percent of fintech’s global 
+
+Web <2023>
+<HyperSG>
+Exhibit 1
+Exhibit <1> of <5>
+
+Emerging markets are expected to play a growing role in fintech revenue 
+growth.
+
+Fintech net revenues by region,¹ $ billion
+
+2022–28, CAGR, %
+
+North America
+
+Europe
+
+Asia–Pacific
+
+Global
+
+130–190
+
+70–100
+
+110–130
+
+40–70
+
+55–65
+
+325–463
+
++12
+
+15–25
+
++18
+
++12
+
++15
+
+2022
+
+2028
+
+2022
+
+2028
+
+2022
+
+2028
+
+150–205
+
+Latin America
+
++27
+
+25–45
+
+6–10
+
+Africa
+
++30
+
+Middle East
+
++35
+
+3–4
+
+15–20
+
+<1
+
+5–8
+
+2022
+
+2028
+
+2022
+
+2028
+
+2022
+
+2028
+
+2022
+
+2028
+
+Global fintech net revenue share by region, level of development, %
+
+48
+
+41
+
+North
+America
+
+2022
+
+2028
+
+2022
+
+2028
+
+11
+
+34
+
+<1
+
+5
+
+2
+
+14
+
+Europe
+
+30
+
+ Asia–
+Pacific
+
+9
+
+24
+
+Latin
+America
+
+ Africa
+
+Middle
+East
+
+85
+
+15
+
+71
+
+Developed
+
+29
+
+Emerging²
+
+1Net revenue is defined as revenue after risk minus direct costs.  
+²Latin America, Africa, Middle East, and Asia, excluding China.
+Source: Dealroom.co; McKinsey analysis
+
+McKinsey & Company
+
+10  Net revenue equals revenue after risk minus direct costs.
+11  Estimate based on historical growth at regional level and expert inputs from regional leaders in the banking industry (for example, 
+
+forecast of roughly 80 percent 2021–22 revenue increase in Latin America).
+
+4
+
+Fintechs: A new paradigm of growthrevenues last year. We estimate that they will increase to 29 percent in aggregate by 2028. On the 
+other hand, North America, currently accounting for 48 percent of worldwide fintech revenues, is 
+expected to decrease its share to 41 percent by 2028.
+
+While fintech penetration in emerging markets is already the highest in the world, its growth potential 
+is underscored by a few trends. Many of these economies lack access to traditional banking services 
+and have a high share of underbanked population. Fintechs have had some success in addressing 
+these unmet needs. In Brazil, for example, 46 percent of the adult population is said to be using 
+Nubank, a fintech bank in Latin America—double the share two years ago.12 
+
+Moreover, while the market cap of private fintech companies has increased substantially over the 
+past decade, the sector’s penetration of the public market remains small.13 In the eight years leading 
+up to October 2022, 44 modern fintechs (those that were founded in 1999 or later and went public 
+after 2014) did an IPO, creating a combined market cap of $0.3 trillion. In contrast, during the same 
+period, there were more than 2,500 legacy public financial-services companies (whose average year 
+of founding was 1926) with a combined market cap of $11.1 trillion.14  
+
+Not all fintech businesses are created (or funded) equal
+
+Last year was turbulent for fintechs, but there were differences in the fundraising performance of 
+firms based on maturity and segments. 
+
+Maturity stage
+Companies in the growth stage (series C and beyond) showed the highest sensitivity to last year’s 
+funding downturn, with a sharp year-over-year funding decline of 50 percent. Meanwhile, fintechs 
+in the early seed and pre-seed stages were more resilient and increased funding by 26 percent year 
+over year (Exhibit 2). This funding outperformance of firms in the early and pre-seed stages was a 
+
+Web <2023>
+<HyperSG>
+Exhibit 2
+Exhibit <2> of <5>
+
+Fintechs in seed, angel, and early venture capital stages posted funding 
+growth in 2022.
+
+Share of VC funding in fintech companies, 
+%
+
+13.5
+
+12.5
+
+10.9
+
+12.0
+
+Average
+11.8
+
+Total fintech funding by round,
+$ billion
+
+92
+
+Series C+
+Series A–B
+Seed, angel, early
+venture capital (VC)
+
+36
+
+33
+
+31
+
+2018–22,
+CAGR, %
+
+2021–22,
+CAGR, %
+
+10.3
+
+55
+
++16
+
+–40
+
++18
+
+–48
+
++10
+
+–30
+
++22
+
++26
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Source: Dealroom.com; McKinsey analysis
+
+McKinsey & Company
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+12  Oliver Smith, “Nubank turns $141m profit in Q1 as Brazilian market share nears 50%,” AltFi, May 16, 2023.
+13  Michael Gilroy, Chase Packard, and Leslie Wang, Fintech and the pursuit of the prize: Who stands to win over the next decade?, 
+
+Coatue, October 24, 2022.
+
+14  Ibid.
+
+5
+
+Fintechs: A new paradigm of growthconsequence of the longer time to maturity, which gives start-ups more time to get through periods 
+of economic uncertainty and recover any losses before an eventual sale.
+
+Verticals
+Funding for B2B fintech segments last year was more resilient than for those in B2C, with smaller 
+funding declines (Exhibit 3). The two B2B verticals that were least affected were (1) BaaS and 
+embedded finance and (2) SME and corporate value-added services. These two verticals recorded 
+year-over-year funding declines of 24 and 26 percent, respectively. In contrast, funding for 
+payments-focused fintechs dropped 50 percent. Even then, payments and lending received the 
+largest shares of total fintech funding. 
+
+Funding for B2B segments grew at more than 25 percent annually between 2018 and 2022, driven by 
+an increasing number of businesses adopting off-the-shelf solutions provided by digital-native firms 
+(including payments, open banking, and core banking technology) to address challenges arising from 
+using legacy banking infrastructure—for example, limited flexibility, slower speed, and high costs.
+
+Web <year>
+<Title>
+Exhibit 3
+Exhibit <3> of <5>
+
+Business-to-business segments recorded smaller funding declines from 
+2021 to 2022 than did business-to-consumer-focused fintechs.
+
+Global funding by fintech segment total value, $ billion
+
+Top 2 for funding growth
+
+Embedded
+finance/
+BaaS¹
+
+SME² and
+corporate
+services
+
+Investment
+banking and
+capital markets
+
+Wealth
+management
+
+Payments
+
+Daily
+banking
+
+Lending Operations and 
+infrastructure³
+
+2018
+
+1.2
+
+2.5
+
+1.3
+
+3.5
+
+5.2
+
+3.1
+
+9.9
+
+3.9
+
+2022
+
+4.0
+
+7.6
+
+3.4
+
+8.2
+
+11.0
+
+6.0
+
+11.6
+
+3.5
+
+Global funding growth by fintech segment, % 
+
+Top 2 for funding growth
+
+Embedded
+finance/
+BaaS
+
+SME and
+corporate
+services
+
+Investment
+banking and
+capital markets
+
+Wealth
+management
+
+Payments
+
+Daily
+banking
+
+Lending Operations and 
+infrastructure
+
+36
+
+32
+
+27
+
+24
+
+2018–22
+
+21
+
+18
+
+4
+
+–3
+
+Global funding change by fintech segment, %
+
+Top 2 for limited funding loss
+
+Embedded
+finance/
+BaaS
+
+SME and
+corporate
+services
+
+Investment
+banking and
+capital markets
+
+Wealth
+management
+
+Payments
+
+Daily
+banking
+
+Lending Operations and 
+infrastructure
+
+2021–22
+
+–24
+
+–26
+
+–36
+
+–34
+
+–50
+
+–47
+
+–36
+
+–53
+
+1Banking as a service.
+²Small and medium-size enterprises.
+³Includes core banking technology, regtech, and open banking. 
+Source: Dealroom.co, 2023
+
+McKinsey & Company
+
+6
+
+Fintechs: A new paradigm of growth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Many businesses continue to rely on legacy banking infrastructure that limits flexibility and speed 
+and can often be more costly. To address these challenges, businesses are benefiting from using off-
+the-shelf solutions provided by digital natives for services such as payments, open banking, and core 
+banking technology. 
+
+For BaaS and embedded finance, demand is led by customer-facing businesses looking to control 
+their users’ end-to-end experience. Meanwhile, SMEs have been underserved by traditional 
+financial-services providers, despite the fact they represent about 90 percent of businesses and 
+more than 50 percent of employment worldwide.15 And in developing countries, the finance gap for 
+micro, small, and medium-size enterprises (MSME) is estimated to be approximately $5 trillion, or 1.3 
+times the current level of MSME lending.16 Fintech firms have successfully addressed some of SMEs’ 
+needs worldwide, especially in developing countries. 
+
+15  “Small and medium enterprises (SMEs) finance,” The World Bank, accessed October 10, 2023.
+16  “MSME finance gap,” IFC, accessed October 10, 2023.
+
+7
+
+Fintechs: A new paradigm of growthChapter 2: The path to 
+sustainable growth
+
+The current churn in the markets makes it prudent for fintechs to define their next move carefully. 
+After all, they are operating in a much different environment than in years past. In their hypergrowth 
+stage, fintechs had access to capital that allowed them to be bold in their business strategy. They 
+could make revenue generation their foremost objective; profits were expected to follow. 
+
+The narrative has shifted since last year. The time between funding rounds for fintechs increased 
+by more than five months from the first to the fourth quarter of 2022. The average value of funding 
+rounds decreased by 50 percent over the same period.17 These changes are forcing fintechs to find 
+newer ways to extend runways and adjust their operating models to make decreasing amounts of 
+cash last longer.
+
+The days of growth at any cost are behind the industry, for now at least. In a liquidity-constrained 
+environment, fintechs and their investors are emphasizing profitability, not just growth in customer 
+adoption numbers or total revenues. “In the past, the reward went to fintechs that showed growth at 
+all costs, which led to healthy valuations,” said one Africa-based growth equity investor. “Now it is 
+about the sustainability of the business, the addressable market, and profitability.”
+
+So how can fintechs get on a path of sustainable, profitable growth? 
+
+In 2019, McKinsey conducted an in-depth study of the growth patterns and performance of the 
+world’s 5,000 largest public companies over the preceding 15 years. The researchers’ analysis 
+identified ten rules for value-creating growth.18 According to the research, companies that set growth 
+strategies addressing all available pathways to growth were 97 percent more likely to achieve above-
+peer profitable growth.19 
+
+This set of rules adopted by public companies that have lived through economic cycles and periods of 
+uncertainty can also be useful for fintechs as they transition to a sustainable growth model. Based on 
+our analysis of these rules and interviews with more than 40 fintech industry leaders, we expect four 
+pathways to deliver the most impact for fintechs. 
+
+In a liquidity-constrained environment, 
+fintechs and their investors are 
+emphasizing profitability, not 
+just growth in customer adoption 
+numbers or total revenues.
+
+17  “SVB’s challenges will accelerate valuation down rounds, startup mortality, and layoffs,” CB Information Services, March 15, 2023.
+18  Chris Bradley, Rebecca Doherty, Nicholas Northcote, and Tido Röder, “The ten rules of growth,” McKinsey, August 12, 2022.
+19  “Choosing to grow: The leader’s blueprint,” McKinsey, July 7, 2022.
+
+8
+
+Fintechs: A new paradigm of growth 
+Cost discipline 
+
+When fintechs had access to abundant cash and funding was easy, they placed more emphasis 
+on growing rapidly than on managing costs. Targeted cost savings have become a bigger priority 
+today, as fintechs seek ways to lower expenses and achieve profitability while maintaining customer 
+satisfaction and pursuing customer growth and acquisition. Our research has found that 50 percent 
+of public fintechs (following their IPO) were profitable in 2022. And the key differentiator between 
+profitable and nonprofitable fintechs was cost management, not revenue growth (Exhibit 4). While 
+both categories recorded year-over-year revenue growth of 13 percent, profitable fintechs posted a 
+median 3 percent decrease in costs. Nonprofitable fintechs, in contrast, saw costs rise by 27 percent, 
+which affected their profit margins. 
+
+Successful implementation of cost management efforts is the key for fintechs in their next phase of 
+evolution. Several leaders are already making moves: 60 percent of our survey respondents said their 
+firms are significantly managing costs. An executive at an African mobile payments firm said they are 
+now negotiating every cost and making sure the firm is thinking for the long run.
+
+Consider the example of the Indian fintech company Paytm, which specializes in digital payments and 
+financial services. The firm had had a target of achieving breakeven by September 2023 but was able 
+to achieve this six months ahead of schedule. It did so through disciplined cost management, revenue 
+growth across businesses, and a business model with strong operating leverage.20 
+
+While fintechs establish a clear focus on costs, they should also consider adjusting how they operate, 
+thereby creating a more agile and flexible organization that can deal with the current environment. 
+Around 80 percent of the interviewed fintechs report that they are currently making changes to 
+their operating models. Of these, 66 percent cite a focus on profitability and a sustainable cost 
+structure as being among their top three reasons. Such adjustments to the operating model are most 
+sustainable when institutions also reinforce the control functions to protect customers and stay on 
+top of regulatory changes. 
+
+A shift from hypergrowth to sustainable growth would also result in a greater focus on strong unit 
+economics. To do this, fintechs ensure that the profitability view is embedded across the business. 
+For example, assessment of the value of adding new customers would evolve from efficiency-only 
+metrics such as the customer acquisition cost (CAC) to a more holistic approach. In this example, one 
+
+Web <2023>
+<HypereSG>
+Exhibit 4
+Exhibit <4> of <5>
+
+Strict cost management, not revenue growth, is the key differentiator for 
+fintech profitability.
+
+Profitable and 
+unprofitable 
+fintechs in 
+2022, %
+
+Profitable
+fintechs 
+
++13
+
++27
+
+Unprofitable
+fintechs 
+
++13
+
+–3
+
+Revenue delta
+2021–22
+
+Cost delta
+2021–22
+
+Revenue delta
+2021–22
+
+Cost delta
+2021–22
+
+Source: McKinsey analysis, based on a sample of 120+ public fintechs around the world
+
+McKinsey & Company
+
+20  “Our discipline in cost management sustains and grows profitability,” Paytm, February 20, 2023.
+
+9
+
+Fintechs: A new paradigm of growthway to embed profitability into acquisition investment and decision making is to compare the CAC 
+with the projected lifetime value (LTV) of a customer, using the LTV/CAC ratio to assess the marginal 
+return on investment for acquiring every new customer. In Latin America, for example, 68 percent 
+of fintechs self-reported an LTV/CAC greater than five, which indicates a potential for fintechs to 
+increase spending and further fuel growth without sacrificing profitability.
+
+Measured growth 
+
+As leaders develop growth strategies, an important question is where growth should come from. 
+Fintechs can grow sustainably by taking three steps: building a strong core, expanding into adjacent 
+industries and geographies, and shrinking to grow. Identifying which steps will be most accretive to 
+growth will depend on the unique circumstances of each fintech; some might find value in pursuing 
+all three steps, while others could choose to focus on one. Regardless of the circumstances, this 
+decision will have greater longer-term consequences in the current environment, compared with the 
+earlier high-funding phase. 
+
+Focus on building a strong core as a precursor for expansion
+The first step in cracking the growth code involves focusing on the local market and developing a 
+healthy core business. According to our research, companies that focus on their core business and 
+have a strong home market are 1.6 times more likely to generate peer-beating returns.21 
+
+For fintechs, the key will be to relentlessly focus on growth in their core business. As a North 
+American fintech executive told us: “It’s a bit of back to basics. On a core product or offering, 18 to 24 
+months ago, you would have built additional pieces on it to upsell and cross-sell. Now, we’re looking to 
+double down on the core business and make sure it’s a stable, viable operation.”
+
+To do this, fintechs must tailor their value propositions to their focus markets. Let’s take the 
+example of B2C fintechs. Our recent research (McKinsey’s Retail Banking Consumer Survey and 
+Global Banking Pools) quantified the potential drivers for growth at B2C fintechs. Cross-selling 
+will likely drive growth for fintechs in emerging economies, while those in developed countries will 
+likely see greater growth from capturing new customers. Around 72 percent of revenue growth for 
+companies in Brazil, for example, is expected to come from cross-selling, in contrast with 25 percent 
+and 30 percent for the United Kingdom and the United States, respectively, with the remaining 
+growth coming from new customers (Exhibit 5). There is arguably less potential for new-customer 
+development in developing economies, given their high fintech penetration.
+
+Across the competitive landscape, as markets are highly heterogenous, a dedicated strategy for each 
+region is recommended. For example, our analysis found that in the United Kingdom and the United 
+States, fintech revenue share is split almost equally between incumbent digital banks and pure 
+fintech players. In contrast, digital incumbents in Germany and pure fintech players in Brazil could 
+dominate banking’s revenue share in their respective markets. 
+
+Expand into adjacent segments and geographies
+After building a strong core, fintechs can consider expanding into other segments and geographies 
+as a second source of growth. According to our previously published research,  companies that do so 
+are 1.2 to 1.3 times more likely to generate sizable returns than peers that focus solely on their core.22 
+
+Today, however, expansion is no longer a must-do strategy. It may be most advantageous for 
+companies that have strong footholds in their core markets and can use some competitive or 
+ownership advantage to expand elsewhere. The key is to pursue measured, value-creating growth. 
+A case in point is OPay, which started as a mobile money platform in Nigeria and has since expanded 
+across financial-services verticals. OPay now offers peer-to-peer payments and merchant and  
+card services. 
+
+21  Chris Bradley, Rebecca Doherty, Tido Röder, and Jill Zucker, “Growth rules: Which matter most?,” McKinsey, March 6, 2023.
+22  Ibid.
+
+10
+
+Fintechs: A new paradigm of growthWeb <2023>
+<HypereSG>
+Exhibit 5
+Exhibit <5> of <5>
+
+Fintech’s value proposition should be tailored to the specifics of the local 
+market.
+
+Share of retail banking revenue pool held by innovative players, %
+
+2022–25, CAGR, %
+
+Digital brands linked to traditional players
+
+Neobanks, fintechs, digital brokers, and robo-advisers
+
+Germany
+
++29
+
+16.6
+
+3.3
+
++17
+
+13.3
+
+12.7
+
+2.0
+
+10.7
+
+Brazil
+
+US
+
+UK
+
+13.1
+
+9.8
+
+3.3
+
+4.5
+
+3.3
+
+1.2
+
++64
+
++60
+
+9.6
+
+4.3
+
+5.3
+
+6.3
+
+2.8
+
+3.5
+
++17
+
++17
+
+7.3
+
+3.9
+
+3.5
+
+3.9
+
+2.1
+
+1.8
+
++30
+
++34
+
+2022
+
+2025
+
+2022
+
+2025
+
+2022
+
+2025
+
+2022
+
+2025
+
+Share of retail banking revenue pool held by traditional players, %
+
+Germany
+
+Brazil
+
+US
+
+UK
+
+87.3
+
+83.4
+
+95.5
+
+86.9
+
+93.7
+
+90.4
+
+96.1
+
+92.7
+
+2022
+
+2025
+
+2022
+
+2025
+
+2022
+
+2025
+
+2022
+
+2025
+
+Fintech growth by customer type, %
+
+New customers
+
+Cross-sell to existing customer
+
+26
+
+74
+
+72
+
+28
+
+30
+
+70
+
+25
+
+75
+
+Germany
+
+Brazil
+
+US
+
+UK
+
+Source: Based on McKinsey’s Retail Banking Consumer Survey, 2021
+
+McKinsey & Company
+
+Shrink to grow
+Fintechs are moving from hypergrowth to sustainable growth, but that growth may not necessarily 
+be consistent across all parts of the business. If fintechs divest from underperforming parts of their 
+portfolios and scale back from regions recording limited growth, they can reinvest that capital into 
+high-performing segments—a strategy we call “shrinking to grow.” In our research, companies that 
+use this approach are 1.4 times more likely to outperform their peers.
+
+“In the past, many fintechs expanded geographically, even if it didn’t make much sense,” an executive 
+at a Latin American fintech told us. “Now they will have to focus on their profitable segment and 
+geography and stop expanding where they are not.” 
+
+Some fintechs have been deliberate about using a shrink-to-grow strategy, changing track if an 
+expansion strategy did not materialize as expected or the local market had more potential for 
+growth. German robo-adviser Scalable Capital, for example, announced plans to discontinue 
+
+11
+
+Fintechs: A new paradigm of growthits Swiss operations as of 2020 to focus on  other markets because the implementation of the 
+Financial Services Act in Switzerland would have required the company to manage two regulatory 
+frameworks simultaneously. Meanwhile, Wealthsimple, a Canadian online investment platform, 
+exited from the United Kingdom and the United States in 2021 to concentrate on its local retail 
+market and expand its product portfolio into new financial-services areas. Similarly, in late 2020, 
+San Francisco–based fintech LendingClub shut down its retail peer-to-peer platform called Notes 
+to focus on other products.
+
+Programmatic M&A 
+
+Many companies will conclude they can achieve the steps outlined in this report—launching new 
+features, building new capabilities, and pivoting toward new revenue streams and segments—
+more swiftly through thoughtful acquisitions and partnerships than by relying on pure organic 
+development. Fintech firm Block, for example, completed its acquisition of the buy-now-pay-later 
+platform Afterpay in January 2022 to accelerate its strategic priorities for its seller and cash app 
+ecosystems.23 Nearly 60 percent of fintech executives in our survey told us they are considering an 
+acquisition in the next 18 months. 
+
+Moreover, with IPO and SPAC (special purpose acquisition company) activity slowing considerably 
+since last year, many fintechs that might otherwise go public are turning to private markets for 
+funding. Take the example of the British fintech Zopa, which intended to list by 2022 but eventually 
+decided to put IPO plans on hold in response to challenging market conditions. In the interim, the firm 
+has been raising capital from its shareholders, including $92 million in February.24  
+
+M&A transactions increase significantly during periods of economic uncertainty, when they also 
+tend to deliver higher returns. During the global financial crisis, around 45 percent of banking M&A 
+deals showed positive excess two-year total shareholder returns (TSR) between 2007 and 2009.25 
+In comparison, less than 30 percent of banking deals posted positive excess two-year TSR between 
+2010 and 2020.26 Across industries, companies actively making acquisitions worth 10 percent or 
+more of their market cap in total had an average TSR of 6.4 percent between January 2007 and 
+January 2008, compared with −3.4 percent for the less active companies.27 
+
+However, not all M&As are successful. Many fail to create value due to contrasting values and 
+cultures, mismatched product–market fit, and inflated revenue forecasts in the pursuit of customer 
+engagement and growth at all costs. 
+
+Keeping the culture alive 
+
+What has made fintechs so disruptive over the years? The answer lies largely in their ability to 
+innovate and differentiate. Since fintechs are not as encumbered by legacy systems and processes, 
+they can be more agile in using emerging technologies to anticipate and solve customer needs. 
+Typically, they also have a customer-centric and collaborative approach to deliver innovation with 
+cross-skilled teams. 
+
+Innovations have happened across fintech verticals. Neobanks like Chime and Monzo, designed 
+around a simple and intuitive user experience, have changed assumptions about the role of branches 
+in traditional retail banking. In the United Kingdom, for example, the total number of bank and building 
+society branches fell by 40 percent between 2012 and 2022.28 Robo-advisers such as Wealthfront 
+and Nutmeg disrupted the traditional wealth management industry by offering low-cost, accessible 
+alternatives to individuals lacking access to personalized financial advice. Funding Circle introduced 
+the peer-to-peer lending concept to the financial sector, bypassing traditional banks (which had 
+owned this relationship) and enabling direct lending between parties.
+
+23  “Block, Inc. completes acquisition of Afterpay,” Block, January 31, 2022.
+24  “Zopa raises £75 million,” Zopa Bank Limited, February 1, 2023.
+25   As of the year of the deal’s announcement.
+26   McKinsey Fintech Quarterly Radar, Q1 2023.
+27   Brian Salsberg, “The case for M&A in a downturn,” Harvard Business Review, May 2020.
+28  Lorna Booth, Statistics on access to cash, bank branches and ATMs, House of Commons, September 1, 2023.
+
+12
+
+Fintechs: A new paradigm of growthIncumbents are fast catching up with these innovations by ramping up investments in new 
+technologies. Around 94 percent of banks in a recent survey said they plan to invest more in 
+modern payments technology to support end user demand for better payment capabilities over 
+the next two to three years. Of these, 65 percent said they intend to make significant or moderate 
+levels of investment.29 Many incumbents are also partnering with BaaS platforms to overhaul their 
+digital capabilities. Examples include Fifth Third Bank’s acquisition of Rize Money in May 2023  
+and NatWest Group’s partnership with Vodeno Group in October 2022 to create a BaaS business 
+in the United Kingdom.
+
+To retain their competitive advantage, fintechs must continue to innovate. The next big disruptor 
+is always around the corner. Technologies like generative AI are predicted to revolutionize the 
+competitive landscape of finance over the next decade (see sidebar “Generative AI and the future 
+of banking”). WeBank’s CFO Arthur Wang is one executive who appreciates the urgency. He told 
+us, “Even though our bank has been around for almost eight years, we consider ourselves a start-
+up. We’re always exploring better fintech technology. WeBank’s strategy is to provide better, more 
+
+29  “94% of banks eyeing investment in modern payment tech, to keep pace with fintech innovation,” Finastra press release, 
+
+ March 8, 2023.
+
+Generative AI and the future of banking
+
+Artificial intelligence (AI) technologies are 
+increasingly integral to the world we live  
+in, and investors are taking notice. 
+Generative AI is among the advanced 
+technologies for which investments 
+are accelerating, thanks to its potential 
+to transform business. According to 
+McKinsey research published in June 2023, 
+generative AI could add the equivalent of 
+$2.6 trillion to $4.4 trillion annually across 
+as many as 63 use cases. 
+
+Generative AI’s impact on the banking 
+industry will be significant, delivering 
+benefits beyond existing applications of AI in 
+areas such as marketing. As our colleagues 
+have written, this technology could generate 
+an additional $200 billion to $340 billion 
+annually in value, arising from around 2.8 to 
+4.7 percent increase in the productivity of 
+banking’s annual revenues—if the use cases 
+are fully implemented.1 For fintech, we expect 
+a commensurate impact, if not more, given 
+the already high exposure to tech.
+
+Generative AI’s impact—and resulting 
+reinvention—will span three broad categories: 
+
+1.  Automation. Half of today’s work 
+
+activities could be automated between 
+2030 and 2060, according to McKinsey 
+estimates.2 Fintech firm Intuit, for 
+example, has introduced a generative 
+AI operating system on its platform. 
+Its custom-trained  large language 
+financial models specialize in solving 
+tax, accounting, cash flow, and personal 
+finance challenges, among others.3 
+
+2.  Augmenting and enhancing productivity 
+
+to do work more effectively. Generative 
+AI could enable labor productivity 
+growth of 0.1 to 0.6 percent annually 
+through 2040, depending on the rate of 
+technology adoption and redeployment 
+of workers’ time to other activities. 
+Morgan Stanley is building an AI assistant 
+using GPT-4 to help the organization’s 
+wealth managers quickly find and 
+synthesize answers from a massive 
+internal knowledge base.4 
+
+3.  Acceleration. Organizations can  
+use generative AI to extract and  
+index knowledge to shorten  
+innovation cycles, thereby enabling 
+continuous innovation.
+
+To capture these opportunities, fintechs 
+need an ecosystem of capabilities and 
+partners that will allow them to move 
+fast. First movers will accrue competitive 
+advantage as they build their capabilities and 
+mobilize with a focus on value, rather than 
+rushing to deliver pilots. To do this, fintechs 
+should consider investing more in people and 
+change management, given generative AI’s 
+unique potential to influence the future of 
+work. Fintechs could think about developing 
+a medium- to longer-term talent strategy and 
+find ways to emphasize change management 
+and adoption. Fintechs that delay building 
+their capabilities risk becoming the disrupted 
+instead of the disruptors.
+
+ Ibid.
+
+ 1  “The economic potential of generative AI: The next productivity frontier,” McKinsey, June 14, 2023. 
+2 
+3  “Intuit introduces generative AI operating system with custom trained financial large language models,” Intuit press release, June 6, 2023. 
+ 4 “Morgan Stanley Wealth Management announces key milestone in innovation journey with OpenAI,” Morgan Stanley press release, March 14, 2023.
+
+13
+
+Fintechs: A new paradigm of growthinclusive financial services—to the mass population as well as small and medium-size enterprises—
+with leading technology. We do business 100 percent online, so we rely on technology.”30 
+
+A tight labor market has also made it more challenging for fintechs to attract and hire tech talent. 
+Our survey uncovered a shift in the perception of fintechs as riskier employers. As a Europe-based 
+fintech executive told us: “Fintechs are less attractive now because it is clearer that it is a ‘high risk’ 
+job compared with established institutions. On the other hand, large fintechs are laying off, which can 
+create a new pool of talents to attract.” 
+
+In such an environment, fintechs must work toward strengthening their culture and mission and, 
+consequently, their hiring strategy. One European payments fintech, for example, has differentiated 
+strategies based on the profile of open roles. An executive at the firm says it has been easier to 
+recruit people for junior roles, since these workers are more eager to join a growing organization. “It is 
+a different story with experienced profiles—for example, management team or 35-plus years—where 
+recruiting is more difficult and retention is crucial,” he said. To attract such people, the firm offers 
+stock options and other incentive packages. Meanwhile, an Africa-based payments and remittances 
+fintech casts a more global net: “We hire globally, regardless of location, gender, or race,” an 
+executive told us. “We have no quotas and try to just find the best person for each role.”
+
+The fintech industry is undergoing a sea change, so players will have to evolve to survive. Approaches 
+will vary, depending on each fintech’s maturity level and its vertical and geographic focus. The 
+framework for sustainable growth, described in this report, provides a strong foundation:
+
+1.  Measured growth based on a stable core. Ensure there is a strong and stable core business with 
+a targeted and proven market fit before expanding, rather than trying to grow while strengthening 
+the core.
+
+2.  Programmatic M&A. Pursue M&A strategically and establish mutually beneficial partnerships 
+
+based on a programmatic strategy rooted in value sharing (with incumbents and other fintechs), 
+as opposed to pursuing M&A only as a response to a low-valuation environment.
+
+3.  Cost discipline. Control costs to withstand the new funding environment while remaining flexible, 
+
+nimble, and compliant.
+
+4.  Keep the culture alive. Maintain the agility, innovation, and culture that have been the bedrock of 
+
+disruption so far. 
+
+Decisions taken today will likely set the pace for fintechs over the mid to long term. The present 
+conditions therefore call for a careful evaluation and focused implementation. 
+
+Lindsay Anan is an alumna of McKinsey’s San Francisco office, where Alexis Krivkovich and Marie-Claude Nadeau 
+are senior partners; Diego Castellanos Isaza is a consultant in the London office, where Fernando Figueiredo  
+is a partner and Tunde Olanrewaju is a senior partner; Max Flötotto is a senior partner in the Munich office; André 
+Jerenz is a partner in the Hamburg office; and Zaccaria Orlando and Alessia Vassallo are associate partners in the 
+Milan office.
+
+The authors wish to thank Sonia Barquin, François Dorléans, Carolyne Gathinji, Eitan Gold, Carolina Gracia, Sheinal 
+Jayantilal, Uzayr Jeenah, Yelda Kayik, Mayowa Kuyoro, Marina Mansur, Farid Minnikhanov, Bharath Sattanathan, Rinki 
+Singhvi, and Katharine Watson for their contributions to this report.
+
+30  See “Making financial services available to the masses through AI,” McKinsey, August 9, 2022.
+
+14
+
+Fintechs: A new paradigm of growthOctober 2023 
+Copyright © McKinsey & Company
+
+McKinsey.com
+
+  @McKinsey 
+  @McKinsey
+
+ 
+

@@ -1,0 +1,545 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe report \"Net-zero Spain: Europe's decarbonization hub\" argues that Spain can achieve net-zero emissions by 2050 through a society-wide effort that leverages the country's natural resources and new technologies. To reach this goal, Spain needs to accelerate its decarbonization efforts, reducing emissions by 46% by 2030 and achieving net-zero emissions by 2045. The net-zero scenario requires significant investment, with \u20ac2.5 trillion in capital expenditures needed by 2050, and will drive innovation in areas such as electrification, green hydrogen, and biofuels. Key sectors to focus on include transport and industry, which account for over 55% of Spain's emissions. Collaboration across Spanish society is necessary to achieve this ambitious goal.",
+  "qa_pairs": [
+    {
+      "question": "By when can Spain reach net-zero emissions?",
+      "answer": "2050"
+    },
+    {
+      "question": "What are the five key characteristics of Spain's net-zero transition?",
+      "answer": "It is urgent, possible, significant, tech-driven, and rich in opportunities."
+    },
+    {
+      "question": "What is the European Union's objective for reducing GHG emissions by 2030 compared to 1990 levels?",
+      "answer": "55 percent"
+    },
+    {
+      "question": "What are the potential impacts on Spain's southern region if global temperatures reach 2\u00baC above pre-industrial levels?",
+      "answer": "More than 45 days a year with daily maximum temperatures exceeding 37\u00baC and more than six months of drought, leading to a potential 25 percent decline in water availability in critical basins."
+    },
+    {
+      "question": "What percentage of Spain's gross agricultural production value is made up of grapes, olives, tomatoes, and wheat?",
+      "answer": "40 percent"
+    },
+    {
+      "question": "What is Spain's target for reducing emissions between 2019 and 2030 according to its Integrated National Energy and Climate Plan?",
+      "answer": "A 31 percent decline in emissions."
+    },
+    {
+      "question": "By how much has Spain's net emissions changed since 1990?",
+      "answer": "Spain's net emissions have grown by 9 percent."
+    },
+    {
+      "question": "At what rate has Spain's emissions been declining since 2013?",
+      "answer": "Approximately 2 MtCO2e per year."
+    },
+    {
+      "question": "What is the proposed reduction in emissions by 2030 under the net-zero scenario?",
+      "answer": "46 percent by 2030 (from 2019), equivalent to reducing about 130 MtCO2e."
+    },
+    {
+      "question": "How much capital investment is required by 2050 to achieve the net-zero scenario?",
+      "answer": "\u20ac2.5 trillion for green technologies and processes."
+    },
+    {
+      "question": "What is the average annual capital expenditure required for the net-zero scenario?",
+      "answer": "\u20ac85 billion per year."
+    },
+    {
+      "question": "How many jobs per year on average would be supported by the investment in the net-zero scenario?",
+      "answer": "1.1 million jobs per year on average over the 30-year period."
+    },
+    {
+      "question": "What are the three key areas for innovations in Spain's decarbonization journey?",
+      "answer": "Electrification, green hydrogen, and biofuels."
+    },
+    {
+      "question": "What percentage of Spain's emissions come from the transport and industry sectors?",
+      "answer": "More than 55 percent."
+    },
+    {
+      "question": "By what year would the stock of passenger cars, vans, and motor cycles be 100 percent decarbonized in Spain?",
+      "answer": "2050."
+    },
+    {
+      "question": "What is the expected market penetration of biofuels in domestic aviation by 2050?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "How much investment is required in green technologies by 2030 to accelerate decarbonization in Spain?",
+      "answer": "More than \u20ac700 billion."
+    },
+    {
+      "question": "What is the difference between biofuels and synfuels?",
+      "answer": "Biofuels are produced from biomass, while synfuels are obtained from syngas, a mixture of carbon monoxide and hydrogen."
+    },
+    {
+      "question": "Why is the industrial sector likely to see only partial decarbonization by 2050?",
+      "answer": "Without carbon capture and storage, the industrial sector would likely only see partial decarbonization."
+    },
+    {
+      "question": "What is the current annual greenhouse gas emission of Spain?",
+      "answer": "Spain currently emits about 277 MtCO2e per year."
+    },
+    {
+      "question": "What percentage of the EU-27's total emissions does Spain account for?",
+      "answer": "About 8 percent."
+    },
+    {
+      "question": "By how much have Spanish emissions changed since 1990?",
+      "answer": "Spanish emissions have risen."
+    },
+    {
+      "question": "What is the target year for Spain to achieve a net-zero economy as per the Paris Agreement?",
+      "answer": "2050."
+    },
+    {
+      "question": "What percentage of Spain's gross agricultural production value is accounted for by grapes, olives, tomatoes, and wheat?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What is the potential decline in water availability in critical basins by 2050 due to drought?",
+      "answer": "A potential 25 percent decline."
+    },
+    {
+      "question": "What percentage of GDP and employment does the tourism sector account for in Spain?",
+      "answer": "About 12 percent of GDP and 14 percent of employment."
+    },
+    {
+      "question": "By how much does the report suggest Spain could reduce emissions by 2030?",
+      "answer": "A 46 percent reduction."
+    },
+    {
+      "question": "What is the target for Spain's emissions by 2050 as described in the report?",
+      "answer": "Net-negative emissions."
+    },
+    {
+      "question": "How much additional CO2 does Spain need to absorb by 2050 to partially compensate for hard-to-abate sectors?",
+      "answer": "An additional 30 percent of CO2 (about 12 MtCO2e per year)."
+    },
+    {
+      "question": "What is required to achieve net-zero emissions in Spain?",
+      "answer": "Action on multiple fronts, including energy efficiency initiatives, new consumer choices, electrification at scale, and a shift from fossil fuels to cleaner alternatives."
+    },
+    {
+      "question": "What percentage of emissions in Spain come from transport and industry?",
+      "answer": "More than 55 percent of emissions (and 65 percent of net emissions)."
+    },
+    {
+      "question": "How much investment is estimated to be necessary in green technologies and processes over the next 30 years?",
+      "answer": "\u20ac2.5 trillion."
+    },
+    {
+      "question": "What is the average annual investment required in green technologies and processes?",
+      "answer": "Around \u20ac85 billion per year."
+    },
+    {
+      "question": "What percentage of projected yearly GDP is the average annual investment required?",
+      "answer": "6.2 percent."
+    },
+    {
+      "question": "How many jobs per year is the investment expected to support on average?",
+      "answer": "About 1.1 million jobs per year."
+    },
+    {
+      "question": "What tool was used to shape the different pathways for Spain's decarbonization?",
+      "answer": "The Decarbonization Scenario Explorer (DSE), McKinsey\u2019s proprietary tool."
+    },
+    {
+      "question": "By how much does Spain need to increase its CO2 absorption by 2050?",
+      "answer": "An additional 30 percent (about 12 MtCO2e per year)."
+    },
+    {
+      "question": "What is the objective set by the European Union to reduce GHG emissions by 2030 compared to 1990 levels?",
+      "answer": "To reduce GHG emissions by 55 percent."
+    },
+    {
+      "question": "What is the target year set by the European Green Deal for achieving net-zero emissions?",
+      "answer": "2050."
+    },
+    {
+      "question": "How much is Spain expected to receive in grants from the European Union?",
+      "answer": "Almost \u20ac70 billion."
+    },
+    {
+      "question": "What percentage of Europe's gas consumption is accounted for by Russian fuel sources?",
+      "answer": "30 to 40 percent."
+    },
+    {
+      "question": "What is the proposed target penetration of renewables by 2030 under the European REPowerEU plan?",
+      "answer": "45 percent."
+    },
+    {
+      "question": "How much investment is required by 2027 under the European REPowerEU plan?",
+      "answer": "An increase of \u20ac210 billion."
+    },
+    {
+      "question": "What percentage of Spain's natural gas consumption is accounted for by Russian imports?",
+      "answer": "Roughly 10 percent."
+    },
+    {
+      "question": "For what fiscal year is the Corporate Sustainability Reporting Directive set to come into force?",
+      "answer": "2023."
+    },
+    {
+      "question": "What percentage of Spain's natural gas consumption comes from Russian imports?",
+      "answer": "Roughly 10 percent."
+    },
+    {
+      "question": "By when does the European REPowerEU plan require an increase in investment of \u20ac210 billion?",
+      "answer": "By 2027."
+    },
+    {
+      "question": "What is Spain's target for reducing GHG emissions from 1990 levels by 2030?",
+      "answer": "A 23 percent reduction."
+    },
+    {
+      "question": "What percentage share of renewables in electricity generation is Spain targeting by 2030?",
+      "answer": "74.0 percent."
+    },
+    {
+      "question": "By when does Spain plan to prohibit the sale of fossil fuel vehicles?",
+      "answer": "By 2040."
+    },
+    {
+      "question": "What is the target penetration of renewables by 2030 according to the European REPowerEU plan?",
+      "answer": "45 percent."
+    },
+    {
+      "question": "What opportunity does Spain have according to the text?",
+      "answer": "Spain has an opportunity to become a European leader in sustainability and a clean-energy hub."
+    },
+    {
+      "question": "What did a McKinsey Global Survey find about companies that generate the most value from sustainability?",
+      "answer": "Companies that generate the most value from sustainability place more importance on translating sustainability strategy into definite terms, establishing clear priorities, setting targets or goals, and developing KPIs for sustainability."
+    },
+    {
+      "question": "How much did Spain's emissions increase since 1990?",
+      "answer": "Spain's net emissions were 9 percent higher in 2019 than in 1990."
+    },
+    {
+      "question": "By how much has the EU-27 cut its emissions since 1990?",
+      "answer": "The EU-27 has cut its emissions by 28 percent since 1990."
+    },
+    {
+      "question": "What rate of decarbonization does Spain need to achieve to meet its 2030 goals?",
+      "answer": "Spain needs to accelerate its decarbonization rate by a factor of almost four to meet its 2030 goals."
+    },
+    {
+      "question": "Which sectors are the next challenge for Spain's decarbonization efforts?",
+      "answer": "The transport and industry sectors are the next challenge for Spain's decarbonization efforts."
+    },
+    {
+      "question": "What percentage of Spain's emissions come from the transport and industry sectors?",
+      "answer": "More than 55 percent of Spain's emissions come from the transport and industry sectors."
+    },
+    {
+      "question": "What is the main contributor to GHG emissions in the power sector?",
+      "answer": "The combustion of natural gas is the largest contributor to GHG emissions in the power sector, accounting for 68 percent of sector emissions."
+    },
+    {
+      "question": "What is LULUCF's role in Spain's emissions?",
+      "answer": "LULUCF is a carbon sink, absorbing 12 percent of all emissions, and will help counterbalance sectors that cannot fully abate their emissions by 2050."
+    },
+    {
+      "question": "What is the aggregate target for emissions reduction set by the INECP?",
+      "answer": "The aggregate target is a 23 percent emissions reduction compared with 1990, or approximately 31 percent reduction compared with 2019."
+    },
+    {
+      "question": "What is the main difference between the 'current policies' scenario and the 'net-zero' scenario?",
+      "answer": "The 'current policies' scenario is based on current policies, while the 'net-zero' scenario is based on the goal of achieving net-zero emissions by 2050."
+    },
+    {
+      "question": "By how much would emissions fall by 2030 under the 'current policies' scenario compared to 2019 levels?",
+      "answer": "Emissions would fall by 33 percent by 2030 under the 'current policies' scenario compared to 2019 levels."
+    },
+    {
+      "question": "What is the projected emissions reduction by 2050 under the 'net-zero' scenario?",
+      "answer": "Under the 'net-zero' scenario, Spain would reach net-zero emissions by 2045 and achieve negative carbon emissions of 16 MtCO2e by 2050."
+    },
+    {
+      "question": "Which sector would be the only one to reach net-zero emissions by 2050 under the 'current policies' scenario?",
+      "answer": "The power sector would be the only one to reach net-zero emissions by 2050 under the 'current policies' scenario."
+    },
+    {
+      "question": "Why are the transport and industry sectors key factors in Spain's mission to reach net-zero emissions by 2050?",
+      "answer": "The transport and industry sectors account for more than 55 percent of Spain's emissions, making them crucial for the country's decarbonization efforts."
+    },
+    {
+      "question": "By how much has the European Union reduced its net emissions since 1990?",
+      "answer": "Approximately 28 percent."
+    },
+    {
+      "question": "What percentage of Spain's emissions are attributed to the transport and industry sectors?",
+      "answer": "More than 55 percent."
+    },
+    {
+      "question": "By how much could Spain reduce its emissions by 2050 under the current policies scenario?",
+      "answer": "85 percent."
+    },
+    {
+      "question": "What would be the outcome for Spain's emissions by 2050 under the more ambitious net-zero scenario?",
+      "answer": "Negative emissions."
+    },
+    {
+      "question": "What percentage of cars, motorcycles, and vans would be decarbonized by 2050 under the net-zero scenario?",
+      "answer": "100 percent."
+    },
+    {
+      "question": "How would aviation be decarbonized under the net-zero scenario?",
+      "answer": "Initially through the use of biofuels (reaching 60 percent penetration by 2050) and increasingly shifting to synfuel-based airplanes (20 percent share by 2050) starting in the mid-2030s."
+    },
+    {
+      "question": "By how much would the steel sector reduce its emissions by 2050 under the net-zero scenario?",
+      "answer": "More than 90 percent."
+    },
+    {
+      "question": "What percentage of steel production in Spain is currently accounted for by iron and steel blast furnaces?",
+      "answer": "Roughly 30 percent."
+    },
+    {
+      "question": "What technology would steel producers use to replace iron and steel blast furnaces under the net-zero scenario?",
+      "answer": "Hydrogen-fueled electric-arc furnaces that use direct-reduced iron (DRI-EAF)."
+    },
+    {
+      "question": "By 2050, what percentage of steel production is expected to be accounted for by hydrogen DRI-EAFs?",
+      "answer": "About 35 percent."
+    },
+    {
+      "question": "What percentage of decarbonization could the chemical and agricultural industries achieve by 2050?",
+      "answer": "100 percent."
+    },
+    {
+      "question": "How would the chemical industry reduce emissions in olefins production by 2030?",
+      "answer": "By using internally generated low-carbon circular hydrogen and carbon capture and sequestration (CCS)."
+    },
+    {
+      "question": "What is expected to happen to petroleum refining as demand for oil-derived products falls?",
+      "answer": "It would decline."
+    },
+    {
+      "question": "What would replace conventional technologies in petroleum refining?",
+      "answer": "Electricity-based heating and alternatives such as green hydrogen."
+    },
+    {
+      "question": "By when would building usage be fully decarbonized?",
+      "answer": "By 2050."
+    },
+    {
+      "question": "What percentage of Spain's net emissions is currently driven by agriculture?",
+      "answer": "About 18 percent."
+    },
+    {
+      "question": "How can emissions from cattle be partially tackled?",
+      "answer": "Via feed additives and changes in consumer preferences."
+    },
+    {
+      "question": "What will replace fossil-fuel-based equipment for heating and cooking in Spain?",
+      "answer": "Equipment using green energy such as heat pumps and biomass boilers."
+    },
+    {
+      "question": "What percentage of Spain's net emissions is currently attributed to agriculture?",
+      "answer": "About 18 percent."
+    },
+    {
+      "question": "How much CO2 equivalent do Spain's forests and the LULUCF sector remove every year?",
+      "answer": "38 metric megatons."
+    },
+    {
+      "question": "What is the estimated additional CO2 equivalent that could be removed per year by scaling up reforestation and afforestation, improving forest management techniques, preventing forest fires, and protecting underwater seagrass ecosystems?",
+      "answer": "12 MtCO2e."
+    },
+    {
+      "question": "What are the three key levers to facilitate Spanish decarbonization?",
+      "answer": "Electrification, hydrogen, and biofuels."
+    },
+    {
+      "question": "What is Spain's current wind generation installed capacity?",
+      "answer": "More than 28 GW."
+    },
+    {
+      "question": "By how much is the electrical power supply expected to increase by 2050?",
+      "answer": "A doubling."
+    },
+    {
+      "question": "What was the difference in 25th percentile solar photovoltaic PPA prices between Spain and Germany in 2021?",
+      "answer": "Spain's price was \u20ac34.0 per megawatt-hour, 40 percent lower than Germany's price of \u20ac56.6 per megawatt-hour."
+    },
+    {
+      "question": "By when is global demand for green hydrogen expected to rise between fivefold and sevenfold?",
+      "answer": "By 2050."
+    },
+    {
+      "question": "Why is Spain expected to be competitive in green hydrogen production?",
+      "answer": "Spain has an ample supply of solar energy."
+    },
+    {
+      "question": "What is the levelized cost of green hydrogen production in Spain compared to Germany?",
+      "answer": "Spain can produce green hydrogen at a levelized cost of \u20ac1.4 per kilogram, compared with \u20ac2.1 per kg in Germany."
+    },
+    {
+      "question": "What is the potential economic benefit to Spain if it captures 30 percent of Europe's hydrogen market?",
+      "answer": "Hydrogen could add about 1 percent of GDP to the Spanish economy."
+    },
+    {
+      "question": "Why are biofuels considered a key technology for Spain's decarbonization journey?",
+      "answer": "Biofuels have relative technical similarity to fossil fuels but with a net-zero-emissions footprint, making them a transition technology across multiple sectors."
+    },
+    {
+      "question": "What is the role of biofuels in Spain's decarbonization journey?",
+      "answer": "Biofuels would be a key technology for Spain's decarbonization journey, driven by their relative technical similarity to fossil fuels but with a net-zero-emissions footprint."
+    },
+    {
+      "question": "What is the projected demand for biofuels in Spain by 2050?",
+      "answer": "Demand for biofuels (including bioliquids and biogas) will more than double by 2050."
+    },
+    {
+      "question": "What percentage of fuel consumption in domestic aviation is expected to be accounted for by biofuels by 2050?",
+      "answer": "Roughly 60 percent of all fuel consumption in domestic aviation is expected to be accounted for by biofuels by 2050."
+    },
+    {
+      "question": "How much capital expenditure is required to reach net-zero emissions in Spain by 2050?",
+      "answer": "\u20ac2.5 trillion of accumulated capital expenditures would be required to reach net-zero emissions by 2050."
+    },
+    {
+      "question": "What are the key areas of investment required for Spain's net-zero scenario?",
+      "answer": "The key areas of investment will be transport, power, and buildings."
+    },
+    {
+      "question": "How much capital expenditure is required in the transport sector from 2021 to 2050?",
+      "answer": "\u20ac1.6 trillion is required in the transport sector from 2021 to 2050, amounting to 64 percent of total investment."
+    },
+    {
+      "question": "How much investment will be required in the power sector by 2050?",
+      "answer": "About \u20ac430 billion, or 17 percent of total investment."
+    },
+    {
+      "question": "What will be the total operating expenditures on green technologies and techniques by 2050?",
+      "answer": "\u20ac1.3 trillion, driven mainly by the transport, building, and industrial sectors."
+    },
+    {
+      "question": "How many jobs would be supported on average each year by capital and operating expenditures in the net-zero scenario?",
+      "answer": "1.1 million jobs."
+    },
+    {
+      "question": "What is the estimated value of stranded assets in Spain by 2050?",
+      "answer": "\u20ac10.4 billion."
+    },
+    {
+      "question": "Which sector represents around 40 percent of expected stranded assets in Europe?",
+      "answer": "Steelmaking."
+    },
+    {
+      "question": "What percentage of capital outlays through 2050 would be spent on low-emissions assets in a net-zero emissions scenario?",
+      "answer": "70 percent."
+    },
+    {
+      "question": "By when would 70 percent of capital outlays be spent on low-emissions assets in a net-zero emissions scenario by 2050?",
+      "answer": "By 2050."
+    },
+    {
+      "question": "What is Spain's opportunity in the transformation to a low-emissions economy?",
+      "answer": "To be a catalyst for this transformation by building on its history of renewable energy adoption, betting on its potential to drive growth in new technologies such as green hydrogen and sustainable fuels, and investing in its rich natural endowments to support the transition."
+    },
+    {
+      "question": "How much faster does Spain need to reduce its emissions to meet its 2030 targets compared to its rate since 2013?",
+      "answer": "Four times as fast."
+    },
+    {
+      "question": "What percentage of today's emissions in Europe can be abated with already demonstrated technologies?",
+      "answer": "85 percent."
+    },
+    {
+      "question": "What has the Spanish government done to support the development of clean technologies?",
+      "answer": "The Spanish government, through its Ministry for Ecological Transition (MITECO), has laid out road maps for multiple key clean technologies, such as hydrogen, energy storage, and offshore wind."
+    },
+    {
+      "question": "What is required to decarbonize road passenger transport in Spain?",
+      "answer": "A strong network of EV charging stations."
+    },
+    {
+      "question": "How many key elements can form the basis of an orderly and productive transition to a net-zero economy?",
+      "answer": "Nine."
+    },
+    {
+      "question": "What is required to decarbonize road passenger transport in Spain?",
+      "answer": "A strong network of EV charging stations is required to decarbonize road passenger transport in Spain by shifting to electric vehicles."
+    },
+    {
+      "question": "What are some of the natural resources necessary for building and scaling up clean technologies in Spain?",
+      "answer": "Raw materials such as copper, nickel, lithium, cobalt, and rare earths, as well as land and water, are necessary for building and scaling up clean technologies in Spain."
+    },
+    {
+      "question": "Why is land a critical factor in Spain's transition to net-zero?",
+      "answer": "Land is a critical factor because Spain plans to grow its solar PV capacity by more than ten times current levels, and forested lands are expected to play an increasingly important role in absorbing carbon dioxide."
+    },
+    {
+      "question": "How much of Spain's expected yearly GDP is estimated to be required for clean-technology capital investment for the next 30 years?",
+      "answer": "Around 6.2 percent of Spain's expected yearly GDP is estimated to be required for clean-technology capital investment for the next 30 years."
+    },
+    {
+      "question": "What is the estimated value of stranded assets in Spain's transition to net-zero?",
+      "answer": "The estimated value of stranded assets is \u20ac10.4 billion."
+    },
+    {
+      "question": "What is expected to happen to demand for fossil fuels by 2050 in Spain's net-zero scenario?",
+      "answer": "Demand for fossil fuels is expected to be reduced significantly by 2050."
+    },
+    {
+      "question": "By when could demand for fossil fuels be reduced significantly according to the net-zero scenario?",
+      "answer": "2050."
+    },
+    {
+      "question": "What is expected to grow as the demand balance changes?",
+      "answer": "Demand for clean sources of energy\u2014such as electricity from renewable sources or biofuels and green hydrogen."
+    },
+    {
+      "question": "What has the potential to bring down the unit costs of goods and services that could increase due to high up-front capital investments or costly zero-carbon technologies?",
+      "answer": "Scale economics."
+    },
+    {
+      "question": "Why are incentives for economic diversification and local investment in green technologies fundamental?",
+      "answer": "To retain and attract companies."
+    },
+    {
+      "question": "What is required to ensure that local populations are employable and make a smooth transition?",
+      "answer": "Reskilling programs, building on existing local capabilities and interests."
+    },
+    {
+      "question": "What is needed to enable capital deployment, manage uneven impact across stakeholders, and keep momentum high during the transition?",
+      "answer": "A strong institutional framework."
+    },
+    {
+      "question": "What is an example of the type of institutional relevance required for the challenge of transitioning to net-zero?",
+      "answer": "The role of Spain\u2019s Ministry for the Ecological Transition (MITECO)."
+    },
+    {
+      "question": "What will an orderly transition depend on?",
+      "answer": "Coherent, reliable policies from the public sector and on sound transition strategies from private-sector organizations."
+    },
+    {
+      "question": "What is the role of Spain's Ministry for the Ecological Transition (MITECO) in the country's transition?",
+      "answer": "The role of Spain's Ministry for the Ecological Transition (MITECO) is an example of the type of institutional relevance that this challenge requires."
+    },
+    {
+      "question": "What is required from the public, private, and social sectors to drive the transition?",
+      "answer": "A strong commitment to driving the transition and collaborating with other stakeholders is required from the public, private, and social sectors."
+    },
+    {
+      "question": "What is Spain doing to move forward with the transition requirements?",
+      "answer": "Spain is moving forward with clear public policies and road maps, such as the climate change and energy transition law and the Integrated National Energy and Climate Plan, and growing commitments from the private sector."
+    },
+    {
+      "question": "What kind of companies in Spain have made decarbonization or climate-related commitments?",
+      "answer": "All of the largest national companies (with above \u20ac5 billion in revenues) have made decarbonization or climate-related commitments."
+    },
+    {
+      "question": "What is needed to ensure the momentum of the transition continues?",
+      "answer": "Ensuring that small and medium-size companies are also developing clear climate strategies, that these strategies are implemented, and that policies and regulations accompany the changes and technology improvements."
+    },
+    {
+      "question": "What is the significance of citizen support in the transition?",
+      "answer": "The support from citizens and consumers at large will be a fundamental factor, and a well-informed and engaged public can be a significant catalyst for collaboration among the public, private, and social sectors."
+    }
+  ]
+}

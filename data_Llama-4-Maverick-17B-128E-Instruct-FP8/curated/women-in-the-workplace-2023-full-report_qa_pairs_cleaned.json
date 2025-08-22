@@ -1,0 +1,4003 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe \"Women in the Workplace\" report, a collaborative study by McKinsey & Company and LeanIn.Org, examines the state of women in corporate America. Despite progress in senior leadership, women remain underrepresented across the corporate pipeline, with women of color facing the steepest drop-off in representation. The report debunks four myths about women's workplace experiences, including the notion that women are becoming less ambitious, and finds that women are just as ambitious as men and that flexibility is fueling their ambition. The study surveyed over 27,000 employees and collected data from 276 organizations, highlighting the need for companies to address the underrepresentation of women, particularly women of color, in leadership positions.",
+  "qa_pairs": [
+    {
+      "question": "When was the Women in the Workplace study first launched?",
+      "answer": "2015",
+      "rating": 9
+    },
+    {
+      "question": "Who launched the Women in the Workplace study?",
+      "answer": "McKinsey & Company and LeanIn.Org",
+      "rating": 9
+    },
+    {
+      "question": "How many companies participated in the Women in the Workplace study between 2015 and 2023?",
+      "answer": "Over 900",
+      "rating": 9
+    },
+    {
+      "question": "How many people were surveyed on their workplace experiences between 2015 and 2023?",
+      "answer": "More than 450,000",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of C-suite leaders are women?",
+      "answer": "Roughly 1 in 4 or 28%",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of C-suite leaders are women of color?",
+      "answer": "1 in 16",
+      "rating": 8
+    },
+    {
+      "question": "By how much has the representation of women in the C-suite changed since 2015?",
+      "answer": "+11 percentage points",
+      "rating": 9
+    },
+    {
+      "question": "What is the change in representation of women at the VP level from 2015 to 2023?",
+      "answer": "+6 percentage points",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of C-suite leaders are women?",
+      "answer": "Roughly 1 in 4.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of C-suite executives are Latina?",
+      "answer": "Only 1 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How has the ambition of women changed since the pandemic?",
+      "answer": "Women are more ambitious than before the pandemic.",
+      "rating": 7
+    },
+    {
+      "question": "What is fueling women's ambition according to the report?",
+      "answer": "Flexibility is fueling that ambition.",
+      "rating": 8
+    },
+    {
+      "question": "Are women as committed to their careers as men?",
+      "answer": "Yes, women are equally as ambitious as men.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of women want to be promoted to the next level?",
+      "answer": "Roughly 8 in 10 women.",
+      "rating": 7
+    },
+    {
+      "question": "How does the representation of women of color change as they move up the corporate pipeline?",
+      "answer": "Their representation drops by two-thirds.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of women of color say their career is important to them?",
+      "answer": "96%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of women want to be promoted to the next level this year?",
+      "answer": "Roughly 8 in 10 women want to be promoted to the next level this year.",
+      "rating": 8
+    },
+    {
+      "question": "How do women of color compare to white women in terms of ambition?",
+      "answer": "Women of color are even more ambitious than white women: 96% say that their career is important to them, and 88% want to be promoted to the next level.",
+      "rating": 9
+    },
+    {
+      "question": "Is there a difference in ambition between women who work hybrid or remotely and those who work on-site?",
+      "answer": "Women who work hybrid or remotely are as ambitious as women and men who work on-site.",
+      "rating": 8
+    },
+    {
+      "question": "How does workplace flexibility affect women's ambitions?",
+      "answer": "Workplace flexibility helps unlock women's ambitions. Women who work flexibly are just as ambitious as women who don't work flexibly.",
+      "rating": 8
+    },
+    {
+      "question": "Are women who prioritize their personal lives less ambitious?",
+      "answer": "No, women who are investing more in their personal lives are just as ambitious as those who aren't.",
+      "rating": 9
+    },
+    {
+      "question": "How do men compare to women in terms of prioritizing their personal lives and being ambitious?",
+      "answer": "Roughly 60% of men are taking more steps to prioritize their personal lives, and like women, they are just as ambitious as men who aren't.",
+      "rating": 9
+    },
+    {
+      "question": "What is the biggest barrier to women's advancement according to the text?",
+      "answer": "The 'broken rung' is the greatest obstacle women face on the path to senior leadership.",
+      "rating": 8
+    },
+    {
+      "question": "What is the 'broken rung' referring to in the context of women's career advancement?",
+      "answer": "The 'broken rung' refers to the first critical step up to manager, where women face their biggest hurdle.",
+      "rating": 9
+    },
+    {
+      "question": "For every 100 men promoted from entry level to manager, how many women were promoted?",
+      "answer": "87 women were promoted.",
+      "rating": 8
+    },
+    {
+      "question": "What is the trend for women of color being promoted to manager compared to men?",
+      "answer": "For every 100 men, 73 women of color were promoted to manager, down from 82 women of color last year.",
+      "rating": 9
+    },
+    {
+      "question": "According to the text, what is the main driver of the 'broken rung'?",
+      "answer": "Bias, specifically 'performance bias', is a strong driver of the broken rung.",
+      "rating": 7
+    },
+    {
+      "question": "Do women ask for promotions as often as men at the entry and manager levels?",
+      "answer": "Yes, women at the entry and manager levels ask for promotions as often as men do.",
+      "rating": 8
+    },
+    {
+      "question": "Are women more likely to leave their company compared to men?",
+      "answer": "No, women are not more likely to leave their company; this year, 17 percent of entry-level men chose to leave, compared to 16 percent of women at the same level.",
+      "rating": 9
+    },
+    {
+      "question": "How often do entry-level men and women choose to leave their company?",
+      "answer": "17 percent of entry-level men and 16 percent of entry-level women chose to leave their company this year.",
+      "rating": 9
+    },
+    {
+      "question": "What is 'performance bias' and how does it affect women in their careers?",
+      "answer": "Performance bias refers to the unfair thinking that women are hired and promoted based on past accomplishments, while men are hired and promoted based on future potential. This can especially disadvantage women at the first promotion to manager.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of women under 30 say their age has contributed to missing out on a raise, promotion, or chance to get ahead?",
+      "answer": "Almost a quarter of women 30 and under say that their age has contributed to them missing out on a raise, promotion, or chance to get ahead.",
+      "rating": 9
+    },
+    {
+      "question": "What is the typical ratio of men to women at the manager level in a company?",
+      "answer": "Men hold 60 percent of manager-level positions, while women occupy 40 percent.",
+      "rating": 9
+    },
+    {
+      "question": "What is the impact of microaggressions on women?",
+      "answer": "Microaggressions have a large and lasting impact on women, causing acute stress, signaling disrespect, and negatively impacting their careers and health.",
+      "rating": 9
+    },
+    {
+      "question": "How often are women interrupted or have comments made about their emotional state compared to men?",
+      "answer": "Women are twice as likely to be interrupted and hear comments on their emotional state compared to men.",
+      "rating": 9
+    },
+    {
+      "question": "What is 'self-shielding' or 'self-monitoring' in the context of microaggressions?",
+      "answer": "Self-shielding or self-monitoring refers to efforts to avoid or protect oneself from mistreatment by continuously modifying one's behaviors, including code-switching, restricting self-expression, or hiding aspects of one's identity.",
+      "rating": 10
+    },
+    {
+      "question": "What is the impact of microaggressions on women in the workplace?",
+      "answer": "Microaggressions signal disrespect, cause acute stress, and can negatively impact women\u2019s careers and health.",
+      "rating": 9
+    },
+    {
+      "question": "How often do women experience microaggressions compared to men?",
+      "answer": "Women experience microaggressions at a significantly higher rate than men.",
+      "rating": 8
+    },
+    {
+      "question": "What happens to women who experience microaggressions at work?",
+      "answer": "Women who experience microaggressions are much less likely to feel psychologically safe, which makes it harder to take risks, propose new ideas, or raise concerns.",
+      "rating": 9
+    },
+    {
+      "question": "What is self-shielding in the context of microaggressions?",
+      "answer": "Self-shielding refers to when women adjust the way they look or act in an effort to protect themselves from microaggressions.",
+      "rating": 9
+    },
+    {
+      "question": "What is the consequence of women self-shielding at work?",
+      "answer": "Women who self-shield are three times more likely to think about quitting their jobs and four times more likely to almost always be burned out.",
+      "rating": 9
+    },
+    {
+      "question": "Who coined the term microaggressions and in what year?",
+      "answer": "The term microaggressions was coined in 1970 by researchers.",
+      "rating": 7
+    },
+    {
+      "question": "Why do companies risk losing talented employees due to microaggressions?",
+      "answer": "By leaving microaggressions unchecked, companies miss out on everything women have to offer and risk losing talented employees.",
+      "rating": 9
+    },
+    {
+      "question": "How do Asian and Black women experience microaggressions compared to white women?",
+      "answer": "Asian and Black women are seven times more likely than white women to be confused with someone of the same race and ethnicity.",
+      "rating": 9
+    },
+    {
+      "question": "What is the effect of microaggressions on women in the workplace?",
+      "answer": "Microaggressions lead to negative outcomes for women, making them more likely to feel burned out, consider leaving their company, and feel they don't have an equal opportunity to advance.",
+      "rating": 9
+    },
+    {
+      "question": "Which group of women feels the most pressure to hide their full identities at work?",
+      "answer": "LGBTQ+ women feel the most pressure to hide important parts of their identities to fit in at work.",
+      "rating": 8
+    },
+    {
+      "question": "How do Black women experience code-switching in the workplace?",
+      "answer": "Black women are more than twice as likely as women overall to code-switch at work by changing their mannerisms, tone, or speaking style.",
+      "rating": 9
+    },
+    {
+      "question": "What is the relationship between experiencing microaggressions and feeling burned out?",
+      "answer": "Women who experience microaggressions and self-shield are 4.2 times more likely to almost always feel burned out.",
+      "rating": 9
+    },
+    {
+      "question": "Why do women feel the need to self-shield in the workplace?",
+      "answer": "Women feel the need to self-shield to protect themselves from the harm caused by microaggressions and to avoid being perceived as unlikable, difficult, or aggressive.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of Black women have felt invisible or like their accomplishments didn't get noticed at work?",
+      "answer": "Roughly 1 in 4 Black women have felt invisible or like their accomplishments didn't get noticed at work.",
+      "rating": 8
+    },
+    {
+      "question": "Why did a director who identifies as bisexual feel they were turned down for a promotion?",
+      "answer": "The director felt they were turned down for a promotion because of their hair and not having an 'executive presence', as they didn't wear makeup or jewelry like others going for the role.",
+      "rating": 9
+    },
+    {
+      "question": "What is a common concern among women of color in the workplace?",
+      "answer": "Women of color often feel like they need to present themselves in a certain way to be taken seriously or considered, and they face microaggressions based on their identities.",
+      "rating": 9
+    },
+    {
+      "question": "What is the reality about employees' desire for flexible work?",
+      "answer": "Both men and women see flexibility as a 'top 3' employee benefit and critical to their company's success, with a majority of employees placing a high premium on flexible work.",
+      "rating": 9
+    },
+    {
+      "question": "How do employees view flexibility in the context of the future of work?",
+      "answer": "Half of women and a third of men point to 'offering significant flexibility in when and where employees work' as a top-three factor in their company's future success.",
+      "rating": 9
+    },
+    {
+      "question": "Why do mothers with young children particularly value flexibility?",
+      "answer": "Mothers with young children value flexibility not just about where they work, but also when they work, with 38% saying that without flexibility, they would have had to leave their company or reduce their work hours.",
+      "rating": 9
+    },
+    {
+      "question": "What do women continue to value more than men in the workplace?",
+      "answer": "Flexibility.",
+      "rating": 7
+    },
+    {
+      "question": "What is flexibility in the context of the workplace?",
+      "answer": "Flexibility refers to remote or hybrid work, as well as flexible work options such as the ability to set your own hours.",
+      "rating": 9
+    },
+    {
+      "question": "Why is flexibility important for mothers with young children?",
+      "answer": "Mothers with young children are especially likely to rank flexible scheduling as a top employee benefit, and without flexibility, 38% say that they would have had to otherwise leave their company or reduce their work hours.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of women say that opportunities to work remotely are most important to them?",
+      "answer": "79%.",
+      "rating": 8
+    },
+    {
+      "question": "What is the primary benefit of remote work cited by most women and men?",
+      "answer": "Better work-life balance.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of employees say the ability to work more efficiently and productively is a primary benefit of working remotely?",
+      "answer": "83%.",
+      "rating": 10
+    },
+    {
+      "question": "What is one of the stress-reducing upsides of remote work cited by women and men?",
+      "answer": "Having fewer unpleasant interactions with coworkers and reduced pressure around managing their personal style or appearance.",
+      "rating": 9
+    },
+    {
+      "question": "What is the top benefit of hybrid and remote work cited by women?",
+      "answer": "Having an easier time balancing work/life.",
+      "rating": 9
+    },
+    {
+      "question": "What is one of the biggest benefits of remote work cited by 29% of women and 25% of men?",
+      "answer": "Having fewer unpleasant interactions with coworkers.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of women and men who work remotely say they have reduced pressure around managing their personal style or appearance?",
+      "answer": "53% of women and 36% of men.",
+      "rating": 9
+    },
+    {
+      "question": "What is the top benefit of hybrid and remote work for women?",
+      "answer": "Having an easier time balancing work/life (83% for hybrid and 79% for remote).",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of companies believe a strong organizational culture is a key benefit of on-site work?",
+      "answer": "77 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of men and women who work on-site say a key benefit is feeling more connected to their organization's culture?",
+      "answer": "39 percent of men and 34 percent of women.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Gen Z employees want to work fully remotely?",
+      "answer": "18 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the top benefit of on-site work for women and men?",
+      "answer": "Feeling more personally connected to coworkers (61% for women and 62% for men).",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of companies have an enterprise-level policy or guidelines regarding remote and hybrid work?",
+      "answer": "57%.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of companies believe a strong organizational culture is a key benefit of on-site work?",
+      "answer": "77 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of men and women who work on-site say a key benefit is feeling more connected to their organization's culture?",
+      "answer": "39 percent of men and 34 percent of women.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of Gen Z employees want to work fully remotely?",
+      "answer": "18 percent.",
+      "rating": 8
+    },
+    {
+      "question": "What is the top benefit of on-site work according to employees working on-site?",
+      "answer": "You feel more personally connected to your coworkers.",
+      "rating": 9
+    },
+    {
+      "question": "Do men or women benefit more from working on-site?",
+      "answer": "Men are more likely to benefit from working on-site.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of companies have an enterprise-level policy or guidelines regarding remote and hybrid work?",
+      "answer": "57 percent.",
+      "rating": 8
+    },
+    {
+      "question": "How many days do most companies with enterprise-wide policies require employees to be in the office?",
+      "answer": "2\u20133 days.",
+      "rating": 8
+    },
+    {
+      "question": "What are the five core areas companies should focus on to support and advance women?",
+      "answer": "Tracking outcomes for women\u2019s representation, Empowering managers to be effective people leaders, Addressing microaggressions head on, Unlocking the full potential of flexible work, Fixing the broken rung, once and for all.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the youngest employees want to work fully remotely?",
+      "answer": "18 percent.",
+      "rating": 7
+    },
+    {
+      "question": "What is the top benefit of on-site work according to employees working on-site?",
+      "answer": "You feel more personally connected to your coworkers.",
+      "rating": 9
+    },
+    {
+      "question": "Do men or women benefit more from on-site work?",
+      "answer": "Men are benefiting disproportionately from on-site work.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of companies have an enterprise-level policy or guidelines regarding remote and hybrid work?",
+      "answer": "57%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the average number of days required on-site in the public and social sector?",
+      "answer": "2.3 days.",
+      "rating": 9
+    },
+    {
+      "question": "What are the five core areas companies should focus on to support and advance women?",
+      "answer": "Tracking outcomes for women\u2019s representation, Empowering managers to be effective people leaders, Addressing microaggressions head on, Unlocking the full potential of flexible work, Fixing the broken rung, once and for all.",
+      "rating": 8
+    },
+    {
+      "question": "What is the first step to track outcomes to improve women\u2019s experience and progression?",
+      "answer": "Measure employees\u2019 outcomes and experiences\u2014and use the data to fix trouble spots.",
+      "rating": 9
+    },
+    {
+      "question": "What is critical for companies to do with their data to improve women's experiences and create equal opportunities for advancement?",
+      "answer": "Mine their data for insights that will improve women\u2019s experiences and create equal opportunities for advancement.",
+      "rating": 9
+    },
+    {
+      "question": "Why is transparency with diversity, equity, and inclusion (DEI) goals and metrics important?",
+      "answer": "It can send a powerful signal to employees with traditionally marginalized identities that they are supported within the organization.",
+      "rating": 9
+    },
+    {
+      "question": "What role do managers play in driving organizational change?",
+      "answer": "Managers are on the front lines of employees\u2019 experiences and central to driving organizational change.",
+      "rating": 9
+    },
+    {
+      "question": "How can companies clarify managers' priorities and reward results?",
+      "answer": "By including responsibilities like career development, DEI, and employee well-being in managers\u2019 job descriptions and performance reviews.",
+      "rating": 9
+    },
+    {
+      "question": "What is the discrepancy between companies' stated priorities and actual practices regarding DEI in manager performance reviews?",
+      "answer": "Although 61 percent of companies point to DEI as a top manager capability, only 28 percent of people managers say their company recognizes DEI in performance reviews.",
+      "rating": 9
+    },
+    {
+      "question": "What kind of training do managers need to be successful?",
+      "answer": "Repeated, relevant, and high-quality training that emphasizes specific examples of core concepts and includes concrete actions that managers can incorporate into their daily practices.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three most critical mindsets and abilities for managers according to companies?",
+      "answer": "Treating DEI as a top business priority, a strong growth mindset and willingness to evolve as a leader, and the ability to build trusting relationships with teams.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of companies say DEI is critical to their future success?",
+      "answer": "Nearly three in four.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of companies have increased their investment in DEI over the past year?",
+      "answer": "60%.",
+      "rating": 8
+    },
+    {
+      "question": "What is the top driver of future success according to companies?",
+      "answer": "Fostering diversity, equity, and inclusion, with 73% of companies selecting it as one of the top 3 most important things to focus on.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of women say their manager treats DEI as a top priority?",
+      "answer": "38%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first step to address microaggressions in the workplace?",
+      "answer": "Make clear that microaggressions are not acceptable by having senior leaders communicate that microaggressions and disrespectful behavior are not welcome.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of men say their manager builds a trusting relationship with them and other team members?",
+      "answer": "64%.",
+      "rating": 9
+    },
+    {
+      "question": "Why should companies provide sample scripts for challenging conversations and standardized questions for one-on-one meetings?",
+      "answer": "To make it easier for managers to foster DEI and to gauge their team members' well-being and job satisfaction.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first step to address microaggressions in the workplace?",
+      "answer": "Make clear that microaggressions are not acceptable.",
+      "rating": 7
+    },
+    {
+      "question": "How can companies help raise employee awareness about microaggressions?",
+      "answer": "By developing a code of conduct that articulates what supportive and respectful behavior looks like\u2014as well as what\u2019s unacceptable and uncivil behavior.",
+      "rating": 9
+    },
+    {
+      "question": "Why is bias and allyship training important for employees?",
+      "answer": "Because most people don\u2019t fully understand how microaggressions work, so they end up saying and doing things that are hurtful, and employees often don\u2019t recognize microaggressions, let alone know what to say or do to be helpful.",
+      "rating": 9
+    },
+    {
+      "question": "What is the third step to address microaggressions in the workplace?",
+      "answer": "Create a culture where it\u2019s normal to surface microaggressions.",
+      "rating": 8
+    },
+    {
+      "question": "What is the benefit of having supportive flexible policies for women in the workplace?",
+      "answer": "Women are more likely to report having equal opportunities to advance\u2014and are less likely to consider leaving.",
+      "rating": 9
+    },
+    {
+      "question": "What is the first step to optimize flexibility in the workplace?",
+      "answer": "Establish clear expectations and norms around working flexibly.",
+      "rating": 9
+    },
+    {
+      "question": "Why is it important to measure the impact of new initiatives to support flexibility?",
+      "answer": "To carefully track what\u2019s working, and what\u2019s not, and adjust their approach accordingly.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of HR leaders consider offering significant flexibility as a top-three driver of their company\u2019s future success?",
+      "answer": "Less than 10%.",
+      "rating": 7
+    },
+    {
+      "question": "What percentage of HR leaders consider offering significant flexibility in where and when employees work as a top-three driver of their company's future success?",
+      "answer": "Less than 10%.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of employees consider offering significant flexibility in where and when they work as a top-three driver of their company's future success?",
+      "answer": "42%.",
+      "rating": 9
+    },
+    {
+      "question": "What is flexibility stigma?",
+      "answer": "The unfair judgment that employees often face when they work flexible hours or work from home.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of companies have tracked the impact of their return-to-office policies on key DEI outcomes?",
+      "answer": "30%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of companies have redesigned performance evaluations to emphasize results, not where and when employees work?",
+      "answer": "29%.",
+      "rating": 9
+    },
+    {
+      "question": "What is one step companies can take to fix the broken rung for women, with a focus on women of color?",
+      "answer": "Track inputs and outcomes, specifically who is put up for and who receives promotions, by race and gender combined.",
+      "rating": 10
+    },
+    {
+      "question": "What action can companies take to ensure a level playing field across work arrangements?",
+      "answer": "Redesign performance reviews to focus on results, rather than when and where work gets done, and track outcomes by work arrangement.",
+      "rating": 10
+    },
+    {
+      "question": "What percentage of companies have trained managers on how to work with remote and flex employees?",
+      "answer": "50%.",
+      "rating": 8
+    },
+    {
+      "question": "What is the first step to uncover inequities in the promotions process?",
+      "answer": "Track who is put up for and who receives promotions, by race and gender combined.",
+      "rating": 9
+    },
+    {
+      "question": "Why should companies track promotions with an intersectional lens?",
+      "answer": "To identify and address the obstacles faced by women of color and to identify otherwise invisible gaps and refine their promotions processes.",
+      "rating": 9
+    },
+    {
+      "question": "What actions can companies take to de-bias performance reviews and promotions?",
+      "answer": "Send 'bias' reminders, appoint a 'bias monitor', and have reviewers explain the rationale behind their performance evaluations and promotion recommendations.",
+      "rating": 9
+    },
+    {
+      "question": "Why are formal mentorship and sponsorship programs particularly impactful for women of color?",
+      "answer": "Because women of color tend to get less career advice and have less access to senior leaders.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of companies track the outcomes of their career development programs by gender and race combined?",
+      "answer": "Less than half.",
+      "rating": 7
+    },
+    {
+      "question": "What is a key characteristic of evaluation tools that companies should use?",
+      "answer": "They should be designed to gather measurable, objective input that can be compared across candidates.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies regularly audit DEI policies and programs?",
+      "answer": "The exact percentage is not specified, but it is implied to be higher than 'all other companies' based on the chart.",
+      "rating": 7
+    },
+    {
+      "question": "What do research findings say about the impact of anti-bias training over time?",
+      "answer": "Research shows that anti-bias training can wear off over time.",
+      "rating": 8
+    },
+    {
+      "question": "Why are formal mentorship and sponsorship programs particularly important for women of color?",
+      "answer": "Because women of color tend to get less career advice and have less access to senior leaders.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of companies track the outcomes of sponsorship and mentorship programs by gender and race combined?",
+      "answer": "Fewer than 1 in 5.",
+      "rating": 8
+    },
+    {
+      "question": "According to employees, what percentage of companies have clear and consistent criteria for evaluating performance?",
+      "answer": "42%.",
+      "rating": 9
+    },
+    {
+      "question": "According to companies, what percentage have quantifiable measures for performance?",
+      "answer": "62%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the difference in percentage between top performing companies and all other companies that have DEI tracking and metrics?",
+      "answer": "Top performing companies: 80%, All other companies: 61%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies have career development programs with tailored content for women of color?",
+      "answer": "64%.",
+      "rating": 9
+    },
+    {
+      "question": "Do top performing companies train managers to manage employees working remotely and/or at flexible times?",
+      "answer": "Yes, 79% of top performing companies do so.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies evaluate employees for contributing to a positive culture during performance reviews?",
+      "answer": "81%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies offer childcare reimbursements?",
+      "answer": "43%.",
+      "rating": 9
+    },
+    {
+      "question": "What is the basis of the data analysis in the report?",
+      "answer": "The data are based on an analysis of top performers\u2014companies that have a higher representation of women and women of color than their industry peers.",
+      "rating": 8
+    },
+    {
+      "question": "What percentage of top performing companies regularly audit DEI policies and programs?",
+      "answer": "80%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies have career development programs with tailored content for women of color?",
+      "answer": "45%.",
+      "rating": 9
+    },
+    {
+      "question": "How many companies participated in the study?",
+      "answer": "276 companies.",
+      "rating": 9
+    },
+    {
+      "question": "How many employees participated in the study?",
+      "answer": "More than 27,000 employees.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies train managers to manage employees working remotely and/or at flexible times?",
+      "answer": "76%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies evaluate employees for contributing to a positive culture during performance reviews?",
+      "answer": "67%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of top performing companies offer childcare reimbursements?",
+      "answer": "43%.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of organizations report having manager trainings on effectively supporting employee well-being?",
+      "answer": "85%",
+      "rating": 9
+    },
+    {
+      "question": "How many companies participated in the study conducted by McKinsey & Company and LeanIn.Org?",
+      "answer": "276",
+      "rating": 9
+    },
+    {
+      "question": "What is the name of the training program offered by Lean In to identify and challenge bias?",
+      "answer": "50 Ways to Fight Bias",
+      "rating": 10
+    },
+    {
+      "question": "How many leaders have been enrolled in McKinsey's Connected Leaders Academy?",
+      "answer": "67,000",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of organizations evaluate employees for contributing to a positive culture during performance reviews?",
+      "answer": "91%",
+      "rating": 8
+    },
+    {
+      "question": "Who helped McKinsey & Company and LeanIn.Org in conducting the surveys for the study?",
+      "answer": "Qualtrics and IntelliSurvey",
+      "rating": 9
+    },
+    {
+      "question": "Who cofounded the Women in the Workplace study in 2015?",
+      "answer": "Rachel Thomas.",
+      "rating": 7
+    },
+    {
+      "question": "What is Rachel Thomas's role at LeanIn.Org?",
+      "answer": "CEO and cofounder.",
+      "rating": 9
+    },
+    {
+      "question": "Who is the editor in chief and VP of education at LeanIn.Org?",
+      "answer": "Caroline Fairchild.",
+      "rating": 8
+    },
+    {
+      "question": "What is Gina Cardazone's area of specialization?",
+      "answer": "Community and cultural psychology, specializing in mixed-methods research.",
+      "rating": 9
+    },
+    {
+      "question": "Who cofounded the Women in the Workplace research alongside Lareina Yee?",
+      "answer": "Alexis Krivkovich.",
+      "rating": 8
+    },
+    {
+      "question": "What is Lareina Yee's role at McKinsey?",
+      "answer": "Senior partner in McKinsey's Bay Area office and chair of McKinsey's Global Technology Council.",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of Emily Field's book?",
+      "answer": "Power to the Middle: Why Managers Hold the Keys to the Future of Work.",
+      "rating": 10
+    },
+    {
+      "question": "What is the name of the program aimed at fostering meaningful inclusive leadership behaviors?",
+      "answer": "Inclusion Incubator program.",
+      "rating": 8
+    },
+    {
+      "question": "Who is Emily Field and what is her role at McKinsey?",
+      "answer": "Emily Field is a partner in McKinsey\u2019s Seattle office in the People and Organizational Performance practice.",
+      "rating": 9
+    },
+    {
+      "question": "What is the main topic of the report?",
+      "answer": "The report is about the corporate pipeline by industry, specifically the representation of women in corporate America across various industries.",
+      "rating": 9
+    },
+    {
+      "question": "How many companies were researched for this report?",
+      "answer": "The report is based on research from 276 companies across the United States and Canada.",
+      "rating": 9
+    },
+    {
+      "question": "What is the percentage of women in C-Suite positions in the Healthcare Systems and Services industry?",
+      "answer": "32%.",
+      "rating": 8
+    },
+    {
+      "question": "Which industry has the lowest percentage of women in C-Suite positions?",
+      "answer": "Oil and Gas, with 13%.",
+      "rating": 8
+    },
+    {
+      "question": "Who are the authors mentioned in the text?",
+      "answer": "Emily Field, Nicole Robinson, and Sandra Kuegele are mentioned as authors or having authored relevant works.",
+      "rating": 9
+    },
+    {
+      "question": "What is the title of Emily Field's book?",
+      "answer": "Power to the Middle: Why Managers Hold the Keys to the Future of Work.",
+      "rating": 10
+    },
+    {
+      "question": "Since when have McKinsey & Company and LeanIn.Org been conducting annual research on women in the workplace?",
+      "answer": "2015.",
+      "rating": 10
+    },
+    {
+      "question": "How many companies participated in the research for this report?",
+      "answer": "276 companies across the United States and Canada.",
+      "rating": 10
+    },
+    {
+      "question": "What type of data did the participating companies submit?",
+      "answer": "Talent pipeline data, and 274 of them also submitted HR policies and programs data.",
+      "rating": 10
+    },
+    {
+      "question": "How many employees were surveyed on their workplace experiences?",
+      "answer": "More than 27,000 employees from 33 companies.",
+      "rating": 9
+    },
+    {
+      "question": "How were the companies grouped for the purpose of the research?",
+      "answer": "Companies were grouped by industry to create benchmarks that provide peer comparisons.",
+      "rating": 9
+    },
+    {
+      "question": "How were the industry data weighted?",
+      "answer": "Industry data were weighted by the composition of the Fortune 500 in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What is the percentage of women in the C-Suite in the Healthcare Systems and Services industry?",
+      "answer": "32%.",
+      "rating": 8
+    },
+    {
+      "question": "Which industry has the lowest percentage of women in the C-Suite?",
+      "answer": "Oil and Gas with 13%.",
+      "rating": 8
+    },
+    {
+      "question": "How many women and nonbinary individuals were interviewed for the research?",
+      "answer": "39 women and nonbinary individuals.",
+      "rating": 9
+    },
+    {
+      "question": "How were company results weighted in the study?",
+      "answer": "Company results were averaged for each industry and weighted by the composition of the Fortune 500 in 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What percentage of the Fortune 500 was attributed to the Finance industry in 2022?",
+      "answer": "19%.",
+      "rating": 8
+    },
+    {
+      "question": "How were employees categorized in the study?",
+      "answer": "Employees were categorized into six levels (L1-L6) based on standard definitions, taking into account reporting structure and salaries.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of L1 in the employee categorization?",
+      "answer": "L1 includes Executives: CEO and direct reports to CEO, responsible for company operations and profitability.",
+      "rating": 10
+    },
+    {
+      "question": "When did the talent pipeline data collection occur?",
+      "answer": "Between May and July 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What did the talent pipeline data reflect?",
+      "answer": "Representation of men and women as of December 31, 2022, as well as personnel changes during 2022.",
+      "rating": 9
+    },
+    {
+      "question": "What type of data did companies report for the talent pipeline?",
+      "answer": "Representation of men and women, number of men and women hired, promoted, and who left the company.",
+      "rating": 9
+    },
+    {
+      "question": "When were employees surveyed on their workplace experiences?",
+      "answer": "Between June and August 2023.",
+      "rating": 9
+    },
+    {
+      "question": "What are the three levels of employees defined in the talent pipeline?",
+      "answer": "L4\u2014Directors, L5\u2014Managers, and L6\u2014Entry level.",
+      "rating": 8
+    },
+    {
+      "question": "What data did companies report for men and women in the talent pipeline?",
+      "answer": "The number of men and women who were hired, promoted, and who left the company.",
+      "rating": 9
+    },
+    {
+      "question": "How were promotion rates calculated?",
+      "answer": "By dividing the number of promotions of that gender into a level by the number of employees of that gender in the level below at the start of the year.",
+      "rating": 10
+    },
+    {
+      "question": "How many employees participated in the Employee Experience Survey?",
+      "answer": "More than 27,000 employees from 33 organizations.",
+      "rating": 8
+    },
+    {
+      "question": "What type of questions were included in the Employee Experience Survey?",
+      "answer": "Multiple themes such as overall satisfaction, flexibility and remote/hybrid workplaces, advancement, employee well-being, equity, mentorship, sponsorship, as well as demographic questions.",
+      "rating": 9
+    },
+    {
+      "question": "How were survey results reported?",
+      "answer": "As an unweighted polled average of responses across companies.",
+      "rating": 8
+    },
+    {
+      "question": "What was the criteria for highlighting differences between genders or other groups in the survey results?",
+      "answer": "Differences that are statistically significant to a 95 percent confidence level and/or reflect a difference of at least five percentage points between two groups.",
+      "rating": 9
+    },
+    {
+      "question": "How were the top two and bottom two boxes of the response scale handled in the analyses?",
+      "answer": "They were aggregated.",
+      "rating": 7
+    },
+    {
+      "question": "What was the criteria for highlighting differences between groups in the report?",
+      "answer": "Differences were statistically significant to a 95 percent confidence level and/or reflected a difference of at least five percentage points between two groups.",
+      "rating": 9
+    },
+    {
+      "question": "How was the Remote Work Status Composite Variable defined?",
+      "answer": "It was defined as Remote (never or less than one day a week on-site), Hybrid (1-4 days a week on-site), and On-site (5 days a week on-site).",
+      "rating": 9
+    },
+    {
+      "question": "How many organizations provided information on gender diversity policies and programs?",
+      "answer": "Two hundred seventy-four organizations.",
+      "rating": 8
+    },
+    {
+      "question": "How many individual interviews were conducted for the qualitative interviews?",
+      "answer": "38 women, men, and nonbinary employees across multiple industries.",
+      "rating": 7
+    },
+    {
+      "question": "What was the basis for DEI best practices?",
+      "answer": "A top performer analysis conducted with pipeline data and HR survey data, supplemented by external research, past Women in the Workplace studies, and responses from subject matter experts.",
+      "rating": 9
+    },
+    {
+      "question": "How many companies were used for the top performer analysis?",
+      "answer": "271 companies that participated in both the Talent Pipeline and HR Surveys in 2023.",
+      "rating": 9
+    },
+    {
+      "question": "How were the key HR practices and policies that drive progress defined?",
+      "answer": "They were defined as practices where there was a statistically significant difference in the percentage of top performing organizations and non-top performing organizations that have adopted that practice.",
+      "rating": 9
+    },
+    {
+      "question": "How were the top quartile of companies identified?",
+      "answer": "The companies were ranked by the extent to which they outperformed this year\u2019s industry benchmarks for total women and women of color representation from L1 to L6 in the pipeline.",
+      "rating": 8
+    },
+    {
+      "question": "What was the basis for identifying key HR practices and policies that drive progress?",
+      "answer": "The key HR practices and policies were based on the top performer analysis, where there was a statistically significant difference in the percentage of top performing organizations (n = 69) and non\u2013top performing organizations (n = 202) that have adopted that practice.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of 'women' in this study?",
+      "answer": "In this study, 'women' includes cisgender and transgender women.",
+      "rating": 10
+    },
+    {
+      "question": "What is meant by 'senior leadership' in this report?",
+      "answer": "Except where otherwise noted, 'senior leadership' refers to individuals at the vice president level or above (L1 to L3 in Methodology).",
+      "rating": 10
+    },
+    {
+      "question": "What does 'flexible work' or 'flexibility' refer to in this report?",
+      "answer": "Except where otherwise noted, 'flexible work' or 'flexibility' refers to remote or hybrid work, as well as flexible work options such as the ability to set your own hours.",
+      "rating": 10
+    },
+    {
+      "question": "What time period do the pipeline data in this report reflect?",
+      "answer": "Pipeline data in this report are based on data from the end of 2022 and do not reflect changes through 2023.",
+      "rating": 9
+    },
+    {
+      "question": "When was the pipeline data in this report last updated?",
+      "answer": "The end of 2022.",
+      "rating": 7
+    },
+    {
+      "question": "What organizations collaborated on the 'Women in the Workplace 2022' report?",
+      "answer": "LeanIn.Org and McKinsey & Company.",
+      "rating": 9
+    },
+    {
+      "question": "What is the definition of 'young women' and 'young men' in this report?",
+      "answer": "Employees 30 and under.",
+      "rating": 8
+    },
+    {
+      "question": "How is 'entry-level workers' defined in this study?",
+      "answer": "Individual contributors responsible for carrying out discrete tasks and participating on teams, typically in an office or corporate setting.",
+      "rating": 9
+    },
+    {
+      "question": "What is 'psychological safety' according to Amy Edmondson?",
+      "answer": "The belief among employees that it\u2019s safe to take interpersonal risks, meaning they won\u2019t be punished or humiliated for proposing new ideas, raising concerns, or admitting mistakes.",
+      "rating": 10
+    },
+    {
+      "question": "What does 'Asian women' refer to in this report?",
+      "answer": "Women of South Asian, East Asian, and Southeast Asian origin or descent, excluding individuals of Pacific Islander, Native Hawaiian, West Asian, or Middle Eastern origin or descent.",
+      "rating": 9
+    },
+    {
+      "question": "What does 'experiencing microaggressions' refer to in the study?",
+      "answer": "Selecting anything other than 'None of the above' from a list of experiences such as having others take credit for your ideas, being interrupted, or being judged because of your accent.",
+      "rating": 9
+    },
+    {
+      "question": "What is 'self-shielding' in the context of this study?",
+      "answer": "Selecting any response from a list that includes feeling pressure to change appearance, toning down what you say, hiding aspects of your identity, or code-switching to blend in at work.",
+      "rating": 9
+    },
+    {
+      "question": "How is 'LGBTQ+ women' categorized in the report?",
+      "answer": "All women identifying as lesbian, bisexual, pansexual, otherwise nonheterosexual, and/or transgender were analyzed and reported in a single category due to small sample sizes.",
+      "rating": 9
+    },
+    {
+      "question": "What does 'mothers of young children' refer to in the study?",
+      "answer": "Women with at least one child under the age of four years old.",
+      "rating": 9
+    }
+  ],
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the Women in the Workplace study first launched?"
+      },
+      {
+        "role": "assistant",
+        "content": "2015"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who launched the Women in the Workplace study?"
+      },
+      {
+        "role": "assistant",
+        "content": "McKinsey & Company and LeanIn.Org"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies participated in the Women in the Workplace study between 2015 and 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "Over 900"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many people were surveyed on their workplace experiences between 2015 and 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 450,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of C-suite leaders are women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 1 in 4 or 28%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of C-suite leaders are women of color?"
+      },
+      {
+        "role": "assistant",
+        "content": "1 in 16"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "By how much has the representation of women in the C-suite changed since 2015?"
+      },
+      {
+        "role": "assistant",
+        "content": "+11 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the change in representation of women at the VP level from 2015 to 2023?"
+      },
+      {
+        "role": "assistant",
+        "content": "+6 percentage points"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of C-suite leaders are women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 1 in 4."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of C-suite executives are Latina?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only 1 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How has the ambition of women changed since the pandemic?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women are more ambitious than before the pandemic."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is fueling women's ambition according to the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flexibility is fueling that ambition."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are women as committed to their careers as men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, women are equally as ambitious as men."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women want to be promoted to the next level?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 8 in 10 women."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does the representation of women of color change as they move up the corporate pipeline?"
+      },
+      {
+        "role": "assistant",
+        "content": "Their representation drops by two-thirds."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women of color say their career is important to them?"
+      },
+      {
+        "role": "assistant",
+        "content": "96%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women want to be promoted to the next level this year?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 8 in 10 women want to be promoted to the next level this year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do women of color compare to white women in terms of ambition?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women of color are even more ambitious than white women: 96% say that their career is important to them, and 88% want to be promoted to the next level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Is there a difference in ambition between women who work hybrid or remotely and those who work on-site?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women who work hybrid or remotely are as ambitious as women and men who work on-site."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How does workplace flexibility affect women's ambitions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Workplace flexibility helps unlock women's ambitions. Women who work flexibly are just as ambitious as women who don't work flexibly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are women who prioritize their personal lives less ambitious?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, women who are investing more in their personal lives are just as ambitious as those who aren't."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do men compare to women in terms of prioritizing their personal lives and being ambitious?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 60% of men are taking more steps to prioritize their personal lives, and like women, they are just as ambitious as men who aren't."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the biggest barrier to women's advancement according to the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'broken rung' is the greatest obstacle women face on the path to senior leadership."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the 'broken rung' referring to in the context of women's career advancement?"
+      },
+      {
+        "role": "assistant",
+        "content": "The 'broken rung' refers to the first critical step up to manager, where women face their biggest hurdle."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "For every 100 men promoted from entry level to manager, how many women were promoted?"
+      },
+      {
+        "role": "assistant",
+        "content": "87 women were promoted."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the trend for women of color being promoted to manager compared to men?"
+      },
+      {
+        "role": "assistant",
+        "content": "For every 100 men, 73 women of color were promoted to manager, down from 82 women of color last year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to the text, what is the main driver of the 'broken rung'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bias, specifically 'performance bias', is a strong driver of the broken rung."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do women ask for promotions as often as men at the entry and manager levels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, women at the entry and manager levels ask for promotions as often as men do."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Are women more likely to leave their company compared to men?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, women are not more likely to leave their company; this year, 17 percent of entry-level men chose to leave, compared to 16 percent of women at the same level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often do entry-level men and women choose to leave their company?"
+      },
+      {
+        "role": "assistant",
+        "content": "17 percent of entry-level men and 16 percent of entry-level women chose to leave their company this year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is 'performance bias' and how does it affect women in their careers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Performance bias refers to the unfair thinking that women are hired and promoted based on past accomplishments, while men are hired and promoted based on future potential. This can especially disadvantage women at the first promotion to manager."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women under 30 say their age has contributed to missing out on a raise, promotion, or chance to get ahead?"
+      },
+      {
+        "role": "assistant",
+        "content": "Almost a quarter of women 30 and under say that their age has contributed to them missing out on a raise, promotion, or chance to get ahead."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the typical ratio of men to women at the manager level in a company?"
+      },
+      {
+        "role": "assistant",
+        "content": "Men hold 60 percent of manager-level positions, while women occupy 40 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the impact of microaggressions on women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Microaggressions have a large and lasting impact on women, causing acute stress, signaling disrespect, and negatively impacting their careers and health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often are women interrupted or have comments made about their emotional state compared to men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women are twice as likely to be interrupted and hear comments on their emotional state compared to men."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is 'self-shielding' or 'self-monitoring' in the context of microaggressions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Self-shielding or self-monitoring refers to efforts to avoid or protect oneself from mistreatment by continuously modifying one's behaviors, including code-switching, restricting self-expression, or hiding aspects of one's identity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the impact of microaggressions on women in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Microaggressions signal disrespect, cause acute stress, and can negatively impact women\u2019s careers and health."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How often do women experience microaggressions compared to men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women experience microaggressions at a significantly higher rate than men."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What happens to women who experience microaggressions at work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women who experience microaggressions are much less likely to feel psychologically safe, which makes it harder to take risks, propose new ideas, or raise concerns."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is self-shielding in the context of microaggressions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Self-shielding refers to when women adjust the way they look or act in an effort to protect themselves from microaggressions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the consequence of women self-shielding at work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women who self-shield are three times more likely to think about quitting their jobs and four times more likely to almost always be burned out."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who coined the term microaggressions and in what year?"
+      },
+      {
+        "role": "assistant",
+        "content": "The term microaggressions was coined in 1970 by researchers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do companies risk losing talented employees due to microaggressions?"
+      },
+      {
+        "role": "assistant",
+        "content": "By leaving microaggressions unchecked, companies miss out on everything women have to offer and risk losing talented employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Asian and Black women experience microaggressions compared to white women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Asian and Black women are seven times more likely than white women to be confused with someone of the same race and ethnicity."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the effect of microaggressions on women in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Microaggressions lead to negative outcomes for women, making them more likely to feel burned out, consider leaving their company, and feel they don't have an equal opportunity to advance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which group of women feels the most pressure to hide their full identities at work?"
+      },
+      {
+        "role": "assistant",
+        "content": "LGBTQ+ women feel the most pressure to hide important parts of their identities to fit in at work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do Black women experience code-switching in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Black women are more than twice as likely as women overall to code-switch at work by changing their mannerisms, tone, or speaking style."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the relationship between experiencing microaggressions and feeling burned out?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women who experience microaggressions and self-shield are 4.2 times more likely to almost always feel burned out."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do women feel the need to self-shield in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women feel the need to self-shield to protect themselves from the harm caused by microaggressions and to avoid being perceived as unlikable, difficult, or aggressive."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Black women have felt invisible or like their accomplishments didn't get noticed at work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Roughly 1 in 4 Black women have felt invisible or like their accomplishments didn't get noticed at work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why did a director who identifies as bisexual feel they were turned down for a promotion?"
+      },
+      {
+        "role": "assistant",
+        "content": "The director felt they were turned down for a promotion because of their hair and not having an 'executive presence', as they didn't wear makeup or jewelry like others going for the role."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a common concern among women of color in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women of color often feel like they need to present themselves in a certain way to be taken seriously or considered, and they face microaggressions based on their identities."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the reality about employees' desire for flexible work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Both men and women see flexibility as a 'top 3' employee benefit and critical to their company's success, with a majority of employees placing a high premium on flexible work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How do employees view flexibility in the context of the future of work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Half of women and a third of men point to 'offering significant flexibility in when and where employees work' as a top-three factor in their company's future success."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why do mothers with young children particularly value flexibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mothers with young children value flexibility not just about where they work, but also when they work, with 38% saying that without flexibility, they would have had to leave their company or reduce their work hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do women continue to value more than men in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flexibility."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is flexibility in the context of the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flexibility refers to remote or hybrid work, as well as flexible work options such as the ability to set your own hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is flexibility important for mothers with young children?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mothers with young children are especially likely to rank flexible scheduling as a top employee benefit, and without flexibility, 38% say that they would have had to otherwise leave their company or reduce their work hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women say that opportunities to work remotely are most important to them?"
+      },
+      {
+        "role": "assistant",
+        "content": "79%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the primary benefit of remote work cited by most women and men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Better work-life balance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees say the ability to work more efficiently and productively is a primary benefit of working remotely?"
+      },
+      {
+        "role": "assistant",
+        "content": "83%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the stress-reducing upsides of remote work cited by women and men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having fewer unpleasant interactions with coworkers and reduced pressure around managing their personal style or appearance."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top benefit of hybrid and remote work cited by women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having an easier time balancing work/life."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one of the biggest benefits of remote work cited by 29% of women and 25% of men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having fewer unpleasant interactions with coworkers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women and men who work remotely say they have reduced pressure around managing their personal style or appearance?"
+      },
+      {
+        "role": "assistant",
+        "content": "53% of women and 36% of men."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top benefit of hybrid and remote work for women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Having an easier time balancing work/life (83% for hybrid and 79% for remote)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies believe a strong organizational culture is a key benefit of on-site work?"
+      },
+      {
+        "role": "assistant",
+        "content": "77 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of men and women who work on-site say a key benefit is feeling more connected to their organization's culture?"
+      },
+      {
+        "role": "assistant",
+        "content": "39 percent of men and 34 percent of women."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Gen Z employees want to work fully remotely?"
+      },
+      {
+        "role": "assistant",
+        "content": "18 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top benefit of on-site work for women and men?"
+      },
+      {
+        "role": "assistant",
+        "content": "Feeling more personally connected to coworkers (61% for women and 62% for men)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have an enterprise-level policy or guidelines regarding remote and hybrid work?"
+      },
+      {
+        "role": "assistant",
+        "content": "57%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies believe a strong organizational culture is a key benefit of on-site work?"
+      },
+      {
+        "role": "assistant",
+        "content": "77 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of men and women who work on-site say a key benefit is feeling more connected to their organization's culture?"
+      },
+      {
+        "role": "assistant",
+        "content": "39 percent of men and 34 percent of women."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of Gen Z employees want to work fully remotely?"
+      },
+      {
+        "role": "assistant",
+        "content": "18 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top benefit of on-site work according to employees working on-site?"
+      },
+      {
+        "role": "assistant",
+        "content": "You feel more personally connected to your coworkers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do men or women benefit more from working on-site?"
+      },
+      {
+        "role": "assistant",
+        "content": "Men are more likely to benefit from working on-site."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have an enterprise-level policy or guidelines regarding remote and hybrid work?"
+      },
+      {
+        "role": "assistant",
+        "content": "57 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many days do most companies with enterprise-wide policies require employees to be in the office?"
+      },
+      {
+        "role": "assistant",
+        "content": "2\u20133 days."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five core areas companies should focus on to support and advance women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tracking outcomes for women\u2019s representation, Empowering managers to be effective people leaders, Addressing microaggressions head on, Unlocking the full potential of flexible work, Fixing the broken rung, once and for all."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the youngest employees want to work fully remotely?"
+      },
+      {
+        "role": "assistant",
+        "content": "18 percent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top benefit of on-site work according to employees working on-site?"
+      },
+      {
+        "role": "assistant",
+        "content": "You feel more personally connected to your coworkers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do men or women benefit more from on-site work?"
+      },
+      {
+        "role": "assistant",
+        "content": "Men are benefiting disproportionately from on-site work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have an enterprise-level policy or guidelines regarding remote and hybrid work?"
+      },
+      {
+        "role": "assistant",
+        "content": "57%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the average number of days required on-site in the public and social sector?"
+      },
+      {
+        "role": "assistant",
+        "content": "2.3 days."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the five core areas companies should focus on to support and advance women?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tracking outcomes for women\u2019s representation, Empowering managers to be effective people leaders, Addressing microaggressions head on, Unlocking the full potential of flexible work, Fixing the broken rung, once and for all."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step to track outcomes to improve women\u2019s experience and progression?"
+      },
+      {
+        "role": "assistant",
+        "content": "Measure employees\u2019 outcomes and experiences\u2014and use the data to fix trouble spots."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is critical for companies to do with their data to improve women's experiences and create equal opportunities for advancement?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mine their data for insights that will improve women\u2019s experiences and create equal opportunities for advancement."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is transparency with diversity, equity, and inclusion (DEI) goals and metrics important?"
+      },
+      {
+        "role": "assistant",
+        "content": "It can send a powerful signal to employees with traditionally marginalized identities that they are supported within the organization."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What role do managers play in driving organizational change?"
+      },
+      {
+        "role": "assistant",
+        "content": "Managers are on the front lines of employees\u2019 experiences and central to driving organizational change."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can companies clarify managers' priorities and reward results?"
+      },
+      {
+        "role": "assistant",
+        "content": "By including responsibilities like career development, DEI, and employee well-being in managers\u2019 job descriptions and performance reviews."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the discrepancy between companies' stated priorities and actual practices regarding DEI in manager performance reviews?"
+      },
+      {
+        "role": "assistant",
+        "content": "Although 61 percent of companies point to DEI as a top manager capability, only 28 percent of people managers say their company recognizes DEI in performance reviews."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What kind of training do managers need to be successful?"
+      },
+      {
+        "role": "assistant",
+        "content": "Repeated, relevant, and high-quality training that emphasizes specific examples of core concepts and includes concrete actions that managers can incorporate into their daily practices."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three most critical mindsets and abilities for managers according to companies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Treating DEI as a top business priority, a strong growth mindset and willingness to evolve as a leader, and the ability to build trusting relationships with teams."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies say DEI is critical to their future success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nearly three in four."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have increased their investment in DEI over the past year?"
+      },
+      {
+        "role": "assistant",
+        "content": "60%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the top driver of future success according to companies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fostering diversity, equity, and inclusion, with 73% of companies selecting it as one of the top 3 most important things to focus on."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of women say their manager treats DEI as a top priority?"
+      },
+      {
+        "role": "assistant",
+        "content": "38%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step to address microaggressions in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make clear that microaggressions are not acceptable by having senior leaders communicate that microaggressions and disrespectful behavior are not welcome."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of men say their manager builds a trusting relationship with them and other team members?"
+      },
+      {
+        "role": "assistant",
+        "content": "64%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should companies provide sample scripts for challenging conversations and standardized questions for one-on-one meetings?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make it easier for managers to foster DEI and to gauge their team members' well-being and job satisfaction."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step to address microaggressions in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Make clear that microaggressions are not acceptable."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How can companies help raise employee awareness about microaggressions?"
+      },
+      {
+        "role": "assistant",
+        "content": "By developing a code of conduct that articulates what supportive and respectful behavior looks like\u2014as well as what\u2019s unacceptable and uncivil behavior."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is bias and allyship training important for employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because most people don\u2019t fully understand how microaggressions work, so they end up saying and doing things that are hurtful, and employees often don\u2019t recognize microaggressions, let alone know what to say or do to be helpful."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the third step to address microaggressions in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Create a culture where it\u2019s normal to surface microaggressions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the benefit of having supportive flexible policies for women in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women are more likely to report having equal opportunities to advance\u2014and are less likely to consider leaving."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step to optimize flexibility in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "Establish clear expectations and norms around working flexibly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why is it important to measure the impact of new initiatives to support flexibility?"
+      },
+      {
+        "role": "assistant",
+        "content": "To carefully track what\u2019s working, and what\u2019s not, and adjust their approach accordingly."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of HR leaders consider offering significant flexibility as a top-three driver of their company\u2019s future success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Less than 10%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of HR leaders consider offering significant flexibility in where and when employees work as a top-three driver of their company's future success?"
+      },
+      {
+        "role": "assistant",
+        "content": "Less than 10%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of employees consider offering significant flexibility in where and when they work as a top-three driver of their company's future success?"
+      },
+      {
+        "role": "assistant",
+        "content": "42%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is flexibility stigma?"
+      },
+      {
+        "role": "assistant",
+        "content": "The unfair judgment that employees often face when they work flexible hours or work from home."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have tracked the impact of their return-to-office policies on key DEI outcomes?"
+      },
+      {
+        "role": "assistant",
+        "content": "30%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have redesigned performance evaluations to emphasize results, not where and when employees work?"
+      },
+      {
+        "role": "assistant",
+        "content": "29%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is one step companies can take to fix the broken rung for women, with a focus on women of color?"
+      },
+      {
+        "role": "assistant",
+        "content": "Track inputs and outcomes, specifically who is put up for and who receives promotions, by race and gender combined."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What action can companies take to ensure a level playing field across work arrangements?"
+      },
+      {
+        "role": "assistant",
+        "content": "Redesign performance reviews to focus on results, rather than when and where work gets done, and track outcomes by work arrangement."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies have trained managers on how to work with remote and flex employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "50%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the first step to uncover inequities in the promotions process?"
+      },
+      {
+        "role": "assistant",
+        "content": "Track who is put up for and who receives promotions, by race and gender combined."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why should companies track promotions with an intersectional lens?"
+      },
+      {
+        "role": "assistant",
+        "content": "To identify and address the obstacles faced by women of color and to identify otherwise invisible gaps and refine their promotions processes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What actions can companies take to de-bias performance reviews and promotions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Send 'bias' reminders, appoint a 'bias monitor', and have reviewers explain the rationale behind their performance evaluations and promotion recommendations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are formal mentorship and sponsorship programs particularly impactful for women of color?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because women of color tend to get less career advice and have less access to senior leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies track the outcomes of their career development programs by gender and race combined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Less than half."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is a key characteristic of evaluation tools that companies should use?"
+      },
+      {
+        "role": "assistant",
+        "content": "They should be designed to gather measurable, objective input that can be compared across candidates."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies regularly audit DEI policies and programs?"
+      },
+      {
+        "role": "assistant",
+        "content": "The exact percentage is not specified, but it is implied to be higher than 'all other companies' based on the chart."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What do research findings say about the impact of anti-bias training over time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Research shows that anti-bias training can wear off over time."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Why are formal mentorship and sponsorship programs particularly important for women of color?"
+      },
+      {
+        "role": "assistant",
+        "content": "Because women of color tend to get less career advice and have less access to senior leaders."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of companies track the outcomes of sponsorship and mentorship programs by gender and race combined?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fewer than 1 in 5."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to employees, what percentage of companies have clear and consistent criteria for evaluating performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "42%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "According to companies, what percentage have quantifiable measures for performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "62%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the difference in percentage between top performing companies and all other companies that have DEI tracking and metrics?"
+      },
+      {
+        "role": "assistant",
+        "content": "Top performing companies: 80%, All other companies: 61%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies have career development programs with tailored content for women of color?"
+      },
+      {
+        "role": "assistant",
+        "content": "64%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Do top performing companies train managers to manage employees working remotely and/or at flexible times?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, 79% of top performing companies do so."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies evaluate employees for contributing to a positive culture during performance reviews?"
+      },
+      {
+        "role": "assistant",
+        "content": "81%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies offer childcare reimbursements?"
+      },
+      {
+        "role": "assistant",
+        "content": "43%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the basis of the data analysis in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The data are based on an analysis of top performers\u2014companies that have a higher representation of women and women of color than their industry peers."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies regularly audit DEI policies and programs?"
+      },
+      {
+        "role": "assistant",
+        "content": "80%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies have career development programs with tailored content for women of color?"
+      },
+      {
+        "role": "assistant",
+        "content": "45%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies participated in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "276 companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees participated in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 27,000 employees."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies train managers to manage employees working remotely and/or at flexible times?"
+      },
+      {
+        "role": "assistant",
+        "content": "76%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies evaluate employees for contributing to a positive culture during performance reviews?"
+      },
+      {
+        "role": "assistant",
+        "content": "67%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of top performing companies offer childcare reimbursements?"
+      },
+      {
+        "role": "assistant",
+        "content": "43%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of organizations report having manager trainings on effectively supporting employee well-being?"
+      },
+      {
+        "role": "assistant",
+        "content": "85%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies participated in the study conducted by McKinsey & Company and LeanIn.Org?"
+      },
+      {
+        "role": "assistant",
+        "content": "276"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the training program offered by Lean In to identify and challenge bias?"
+      },
+      {
+        "role": "assistant",
+        "content": "50 Ways to Fight Bias"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many leaders have been enrolled in McKinsey's Connected Leaders Academy?"
+      },
+      {
+        "role": "assistant",
+        "content": "67,000"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of organizations evaluate employees for contributing to a positive culture during performance reviews?"
+      },
+      {
+        "role": "assistant",
+        "content": "91%"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who helped McKinsey & Company and LeanIn.Org in conducting the surveys for the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Qualtrics and IntelliSurvey"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who cofounded the Women in the Workplace study in 2015?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rachel Thomas."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Rachel Thomas's role at LeanIn.Org?"
+      },
+      {
+        "role": "assistant",
+        "content": "CEO and cofounder."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is the editor in chief and VP of education at LeanIn.Org?"
+      },
+      {
+        "role": "assistant",
+        "content": "Caroline Fairchild."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Gina Cardazone's area of specialization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Community and cultural psychology, specializing in mixed-methods research."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who cofounded the Women in the Workplace research alongside Lareina Yee?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alexis Krivkovich."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is Lareina Yee's role at McKinsey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Senior partner in McKinsey's Bay Area office and chair of McKinsey's Global Technology Council."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Emily Field's book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Power to the Middle: Why Managers Hold the Keys to the Future of Work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the name of the program aimed at fostering meaningful inclusive leadership behaviors?"
+      },
+      {
+        "role": "assistant",
+        "content": "Inclusion Incubator program."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who is Emily Field and what is her role at McKinsey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Emily Field is a partner in McKinsey\u2019s Seattle office in the People and Organizational Performance practice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the main topic of the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The report is about the corporate pipeline by industry, specifically the representation of women in corporate America across various industries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies were researched for this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "The report is based on research from 276 companies across the United States and Canada."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of women in C-Suite positions in the Healthcare Systems and Services industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "32%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which industry has the lowest percentage of women in C-Suite positions?"
+      },
+      {
+        "role": "assistant",
+        "content": "Oil and Gas, with 13%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Who are the authors mentioned in the text?"
+      },
+      {
+        "role": "assistant",
+        "content": "Emily Field, Nicole Robinson, and Sandra Kuegele are mentioned as authors or having authored relevant works."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the title of Emily Field's book?"
+      },
+      {
+        "role": "assistant",
+        "content": "Power to the Middle: Why Managers Hold the Keys to the Future of Work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Since when have McKinsey & Company and LeanIn.Org been conducting annual research on women in the workplace?"
+      },
+      {
+        "role": "assistant",
+        "content": "2015."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies participated in the research for this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "276 companies across the United States and Canada."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of data did the participating companies submit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Talent pipeline data, and 274 of them also submitted HR policies and programs data."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees were surveyed on their workplace experiences?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 27,000 employees from 33 companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were the companies grouped for the purpose of the research?"
+      },
+      {
+        "role": "assistant",
+        "content": "Companies were grouped by industry to create benchmarks that provide peer comparisons."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were the industry data weighted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Industry data were weighted by the composition of the Fortune 500 in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the percentage of women in the C-Suite in the Healthcare Systems and Services industry?"
+      },
+      {
+        "role": "assistant",
+        "content": "32%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "Which industry has the lowest percentage of women in the C-Suite?"
+      },
+      {
+        "role": "assistant",
+        "content": "Oil and Gas with 13%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many women and nonbinary individuals were interviewed for the research?"
+      },
+      {
+        "role": "assistant",
+        "content": "39 women and nonbinary individuals."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were company results weighted in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Company results were averaged for each industry and weighted by the composition of the Fortune 500 in 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What percentage of the Fortune 500 was attributed to the Finance industry in 2022?"
+      },
+      {
+        "role": "assistant",
+        "content": "19%."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were employees categorized in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employees were categorized into six levels (L1-L6) based on standard definitions, taking into account reporting structure and salaries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of L1 in the employee categorization?"
+      },
+      {
+        "role": "assistant",
+        "content": "L1 includes Executives: CEO and direct reports to CEO, responsible for company operations and profitability."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When did the talent pipeline data collection occur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between May and July 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What did the talent pipeline data reflect?"
+      },
+      {
+        "role": "assistant",
+        "content": "Representation of men and women as of December 31, 2022, as well as personnel changes during 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of data did companies report for the talent pipeline?"
+      },
+      {
+        "role": "assistant",
+        "content": "Representation of men and women, number of men and women hired, promoted, and who left the company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When were employees surveyed on their workplace experiences?"
+      },
+      {
+        "role": "assistant",
+        "content": "Between June and August 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What are the three levels of employees defined in the talent pipeline?"
+      },
+      {
+        "role": "assistant",
+        "content": "L4\u2014Directors, L5\u2014Managers, and L6\u2014Entry level."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What data did companies report for men and women in the talent pipeline?"
+      },
+      {
+        "role": "assistant",
+        "content": "The number of men and women who were hired, promoted, and who left the company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were promotion rates calculated?"
+      },
+      {
+        "role": "assistant",
+        "content": "By dividing the number of promotions of that gender into a level by the number of employees of that gender in the level below at the start of the year."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many employees participated in the Employee Experience Survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "More than 27,000 employees from 33 organizations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What type of questions were included in the Employee Experience Survey?"
+      },
+      {
+        "role": "assistant",
+        "content": "Multiple themes such as overall satisfaction, flexibility and remote/hybrid workplaces, advancement, employee well-being, equity, mentorship, sponsorship, as well as demographic questions."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were survey results reported?"
+      },
+      {
+        "role": "assistant",
+        "content": "As an unweighted polled average of responses across companies."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the criteria for highlighting differences between genders or other groups in the survey results?"
+      },
+      {
+        "role": "assistant",
+        "content": "Differences that are statistically significant to a 95 percent confidence level and/or reflect a difference of at least five percentage points between two groups."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were the top two and bottom two boxes of the response scale handled in the analyses?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were aggregated."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the criteria for highlighting differences between groups in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Differences were statistically significant to a 95 percent confidence level and/or reflected a difference of at least five percentage points between two groups."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How was the Remote Work Status Composite Variable defined?"
+      },
+      {
+        "role": "assistant",
+        "content": "It was defined as Remote (never or less than one day a week on-site), Hybrid (1-4 days a week on-site), and On-site (5 days a week on-site)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many organizations provided information on gender diversity policies and programs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Two hundred seventy-four organizations."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many individual interviews were conducted for the qualitative interviews?"
+      },
+      {
+        "role": "assistant",
+        "content": "38 women, men, and nonbinary employees across multiple industries."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the basis for DEI best practices?"
+      },
+      {
+        "role": "assistant",
+        "content": "A top performer analysis conducted with pipeline data and HR survey data, supplemented by external research, past Women in the Workplace studies, and responses from subject matter experts."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How many companies were used for the top performer analysis?"
+      },
+      {
+        "role": "assistant",
+        "content": "271 companies that participated in both the Talent Pipeline and HR Surveys in 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were the key HR practices and policies that drive progress defined?"
+      },
+      {
+        "role": "assistant",
+        "content": "They were defined as practices where there was a statistically significant difference in the percentage of top performing organizations and non-top performing organizations that have adopted that practice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How were the top quartile of companies identified?"
+      },
+      {
+        "role": "assistant",
+        "content": "The companies were ranked by the extent to which they outperformed this year\u2019s industry benchmarks for total women and women of color representation from L1 to L6 in the pipeline."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What was the basis for identifying key HR practices and policies that drive progress?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key HR practices and policies were based on the top performer analysis, where there was a statistically significant difference in the percentage of top performing organizations (n = 69) and non\u2013top performing organizations (n = 202) that have adopted that practice."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of 'women' in this study?"
+      },
+      {
+        "role": "assistant",
+        "content": "In this study, 'women' includes cisgender and transgender women."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is meant by 'senior leadership' in this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Except where otherwise noted, 'senior leadership' refers to individuals at the vice president level or above (L1 to L3 in Methodology)."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'flexible work' or 'flexibility' refer to in this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Except where otherwise noted, 'flexible work' or 'flexibility' refers to remote or hybrid work, as well as flexible work options such as the ability to set your own hours."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What time period do the pipeline data in this report reflect?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pipeline data in this report are based on data from the end of 2022 and do not reflect changes through 2023."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "When was the pipeline data in this report last updated?"
+      },
+      {
+        "role": "assistant",
+        "content": "The end of 2022."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What organizations collaborated on the 'Women in the Workplace 2022' report?"
+      },
+      {
+        "role": "assistant",
+        "content": "LeanIn.Org and McKinsey & Company."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is the definition of 'young women' and 'young men' in this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Employees 30 and under."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is 'entry-level workers' defined in this study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Individual contributors responsible for carrying out discrete tasks and participating on teams, typically in an office or corporate setting."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is 'psychological safety' according to Amy Edmondson?"
+      },
+      {
+        "role": "assistant",
+        "content": "The belief among employees that it\u2019s safe to take interpersonal risks, meaning they won\u2019t be punished or humiliated for proposing new ideas, raising concerns, or admitting mistakes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'Asian women' refer to in this report?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women of South Asian, East Asian, and Southeast Asian origin or descent, excluding individuals of Pacific Islander, Native Hawaiian, West Asian, or Middle Eastern origin or descent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'experiencing microaggressions' refer to in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selecting anything other than 'None of the above' from a list of experiences such as having others take credit for your ideas, being interrupted, or being judged because of your accent."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What is 'self-shielding' in the context of this study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Selecting any response from a list that includes feeling pressure to change appearance, toning down what you say, hiding aspects of your identity, or code-switching to blend in at work."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "How is 'LGBTQ+ women' categorized in the report?"
+      },
+      {
+        "role": "assistant",
+        "content": "All women identifying as lesbian, bisexual, pansexual, otherwise nonheterosexual, and/or transgender were analyzed and reported in a single category due to small sample sizes."
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "You are a helpful AI assistant that provides accurate, detailed responses."
+      },
+      {
+        "role": "user",
+        "content": "What does 'mothers of young children' refer to in the study?"
+      },
+      {
+        "role": "assistant",
+        "content": "Women with at least one child under the age of four years old."
+      }
+    ]
+  ],
+  "metrics": {
+    "total": 215,
+    "filtered": 210,
+    "retention_rate": 0.98,
+    "avg_score": 8.6
+  }
+}

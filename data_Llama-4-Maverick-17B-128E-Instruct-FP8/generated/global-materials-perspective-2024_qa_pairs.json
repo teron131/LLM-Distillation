@@ -1,0 +1,645 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe Global Materials Perspective 2024 report, produced by McKinsey's Global Energy & Materials Practice, explores the demand and supply of materials critical to the energy transition. The report analyzes three energy transition scenarios and two supply scenarios, using data from McKinsey's Metal&MineSpans database, which covers over 11,000 assets across 130 countries. The report categorizes materials into three demand trends driven by the energy transition: those with stable demand, those with increasing demand (e.g., copper, lithium, and rare earth elements), and those with decreasing demand (e.g., thermal coal). The supply scenarios are based on the maturity and likelihood of individual projects in the metals and mining industry. The report aims to provide insights into the changing availability, affordability, and sustainability of materials critical to the energy transition.",
+  "qa_pairs": [
+    {
+      "question": "What is the Global Materials Perspective 2024 report produced by?",
+      "answer": "McKinsey\u2019s Global Energy & Materials Practice."
+    },
+    {
+      "question": "What are the three categories of materials demand trends driven by the energy transition?",
+      "answer": "1. Materials with demand driven by global GDP and middle class growth, 2. Materials with demand positively impacted by the energy transition, and 3. Materials with demand negatively impacted by the energy transition."
+    },
+    {
+      "question": "What is Metal&MineSpans?",
+      "answer": "The Metals & Mining market intelligence solution of McKinsey, combining expertise with proprietary data."
+    },
+    {
+      "question": "How many materials does Metal&MineSpans provide information on?",
+      "answer": "15 materials."
+    },
+    {
+      "question": "What is the focus of the Global Materials Perspective 2024 report?",
+      "answer": "The report primarily focuses on metals and mining, and illustrates trends for materials critical for the at-scale deployment of low-carbon technologies, referred to as 'energy transition materials'."
+    },
+    {
+      "question": "What is the basis of insights provided by Metal&MineSpans?",
+      "answer": "A comprehensive database built bottom-up from referenced public data, proprietary information, and advanced analytics models, backed by McKinsey\u2019s more than 85 years of global Metals & Mining expertise."
+    },
+    {
+      "question": "What is the basis of McKinsey's insights in the Metals & Mining industry?",
+      "answer": "A comprehensive database built bottom-up from referenced public data, proprietary information, and advanced analytics models, backed by McKinsey's more than 85 years of global Metals & Mining expertise."
+    },
+    {
+      "question": "What is the Global Energy & Materials Practice at McKinsey focused on?",
+      "answer": "Deploying deep insights, functional capabilities, and proprietary benchmark and data solutions across the converging energy, materials, and natural resources supply chains to help create substantial and long-lasting value for stakeholders."
+    },
+    {
+      "question": "How many assets are included in McKinsey's Metal&MineSpans database?",
+      "answer": "More than 11,000 assets across more than 130 countries."
+    },
+    {
+      "question": "What are the two supply scenarios explored in the publication?",
+      "answer": "The base-case scenario and the high-case scenario."
+    },
+    {
+      "question": "What projects are included in the base-case scenario?",
+      "answer": "All operating assets (corrected for depletion where relevant), projects currently under construction, projects for which a feasibility study has been conducted and financing secured, and projects for which a feasibility study is currently being conducted."
+    },
+    {
+      "question": "How does the high-case scenario differ from the base-case scenario?",
+      "answer": "The high-case scenario includes the same projects as the base-case scenario, plus projects for which a prefeasibility study has been initiated."
+    },
+    {
+      "question": "What are the two scenarios that the findings in this report are based on?",
+      "answer": "The base-case scenario and the high-case scenario."
+    },
+    {
+      "question": "What is included in the base-case scenario?",
+      "answer": "All operating assets (corrected for depletion where relevant), projects currently under construction, projects for which a feasibility study has been conducted and financing secured, and projects for which a feasibility study is currently being conducted."
+    },
+    {
+      "question": "What is the difference between the base-case scenario and the high-case scenario?",
+      "answer": "The high-case scenario includes projects for which a prefeasibility study has been initiated, in addition to the projects included in the base-case scenario."
+    },
+    {
+      "question": "What is the basis for the supply scenarios?",
+      "answer": "Announced projects to the extent they are available in the public domain."
+    },
+    {
+      "question": "How many energy transition scenarios are explored in McKinsey's Global Energy Perspective 2024?",
+      "answer": "Three bottom-up energy transition scenarios, in addition to a 1.5\u00b0 pathway."
+    },
+    {
+      "question": "What are the names of the three bottom-up energy transition scenarios?",
+      "answer": "Slow Evolution, Continued Momentum, and Sustainable Transformation."
+    },
+    {
+      "question": "What is the reference case for the Global Materials Perspective 2024?",
+      "answer": "The Continued Momentum scenario."
+    },
+    {
+      "question": "What is the projected global temperature increase by 2050 in the Continued Momentum scenario?",
+      "answer": "~2.2\u00b0C."
+    },
+    {
+      "question": "What are the sources of data for the energy transition scenarios?",
+      "answer": "The sources of data include the International Energy Agency (IEA), the Energy Institute, Eurostat, the Intergovernmental Panel on Climate Change (IPCC), Oxford Economics, the United Nations, the US Department of Agriculture (USDA), and the US Energy Information Administration, among others."
+    },
+    {
+      "question": "What is the reference case for McKinsey's Global Materials Perspective 2024?",
+      "answer": "The reference case for McKinsey's Global Materials Perspective 2024 is the Continued Momentum scenario."
+    },
+    {
+      "question": "What is the projected global temperature increase by 2050 in the Continued Momentum scenario?",
+      "answer": "~2.2\u00b0C"
+    },
+    {
+      "question": "What are the main drivers of the global metals and mining industry historically?",
+      "answer": "The industry has been driven by economic growth and the development of the middle class."
+    },
+    {
+      "question": "What is changing the materials landscape according to the text?",
+      "answer": "The energy transition is changing the materials landscape in three main ways."
+    },
+    {
+      "question": "What are the five materials that primarily consist of the global metals and mining industry today?",
+      "answer": "Steel, coal, gold, copper, and aluminum."
+    },
+    {
+      "question": "What percentage of the industry today primarily consists of five materials?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "What are the five materials that primarily make up 80 percent of the industry today?",
+      "answer": "Steel, coal, gold, copper, and aluminum."
+    },
+    {
+      "question": "How is the energy transition changing the materials landscape?",
+      "answer": "The energy transition is changing the materials landscape in three main ways: accelerating demand growth for materials embedded in low-carbon technologies, triggering a long-term shift of the materials demand profile, and driving a long-term reduction of thermal coal in the energy system."
+    },
+    {
+      "question": "Why are key materials for the energy transition crucial?",
+      "answer": "Key materials for the energy transition are crucial to achieve decarbonization in the global energy system."
+    },
+    {
+      "question": "What is the result of a lack of sufficient and affordable supply of key materials for the energy transition?",
+      "answer": "A lack of sufficient and affordable supply would risk hindering the at-speed deployment of crucial low-carbon technologies."
+    },
+    {
+      "question": "What were the finances of the industry like in 2023?",
+      "answer": "Finances were healthy in 2023, although the outlook for 2024 is gloomier."
+    },
+    {
+      "question": "What is happening to the supply of materials?",
+      "answer": "Supply is scaling faster than expected."
+    },
+    {
+      "question": "What is resulting from the concentration of supply?",
+      "answer": "Concentration of supply is increasingly resulting in disruptive policies to protect local industries."
+    },
+    {
+      "question": "What have Chinese investors been doing with global mining assets?",
+      "answer": "Chinese investors have actively ramped up their ownership of global mining assets."
+    },
+    {
+      "question": "What was the revenue of the materials industry in 2023?",
+      "answer": "Approximately $8 trillion."
+    },
+    {
+      "question": "How did the actual production of lithium and nickel in 2023 compare to the 2020 projections?",
+      "answer": "Actual production was nearly 20 percent higher than the projections."
+    },
+    {
+      "question": "What was the EBITDA of the materials industry in 2023?",
+      "answer": "$1.7 trillion."
+    },
+    {
+      "question": "What was the net debt over EBITDA ratio of the materials industry in 2023?",
+      "answer": "1.3 times."
+    },
+    {
+      "question": "How has the battery chemistry mix shifted between 2021 and 2023?",
+      "answer": "The market share of lithium-iron-phosphate (LFP) grew from 25 percent to 40 percent."
+    },
+    {
+      "question": "What percentage of the top 25 global automotive OEMs are moving toward electric motors less reliant on, or entirely free of, rare earth elements (REEs)?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "What was the EBITDA of the metals and mining industry in 2023?",
+      "answer": "$900 billion."
+    },
+    {
+      "question": "What percentage of the top 25 global automotive OEMs are moving towards electric motors less reliant on or entirely free of rare earth elements?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "Which country has built a global leadership position in the refining of a broad series of materials?",
+      "answer": "China."
+    },
+    {
+      "question": "What was the result of China's export controls on certain materials such as gallium, germanium, antimony, and rare earth separation and processing technologies?",
+      "answer": "A significant decrease in export volumes."
+    },
+    {
+      "question": "How has China's ownership in copper, lithium, and nickel mines changed from 2012 to 2023?",
+      "answer": "China's ownership in copper mines increased from approximately 10 percent to 20 percent, in lithium from 10 to 30 percent, and in nickel from 5 to 20 percent."
+    },
+    {
+      "question": "What is expected to be required to incentivize sufficient supply of key materials to come online?",
+      "answer": "Price increases."
+    },
+    {
+      "question": "Which materials are expected to have supply shortages by 2035?",
+      "answer": "Copper, uranium, lithium, REEs, iridium, and sulfur."
+    },
+    {
+      "question": "How might the supply gap be closed for materials with longer development timelines?",
+      "answer": "By demand reduction or continued substitution toward other materials."
+    },
+    {
+      "question": "What is the estimated financing capacity in the industry to scale up production to meet demand until 2035?",
+      "answer": "$5.9 trillion."
+    },
+    {
+      "question": "What is the expected investment need in the industry until 2035?",
+      "answer": "$5.4 trillion."
+    },
+    {
+      "question": "By how much would copper prices need to increase to incentivize sufficient supply to come online by 2035?",
+      "answer": "20 percent to approximately $12,000 per ton."
+    },
+    {
+      "question": "How much would the materials sector's global greenhouse gas emissions decrease by 2035 under a business-as-usual scenario?",
+      "answer": "Close to 15 percent, reaching 6 GtCO\u2082."
+    },
+    {
+      "question": "What percentage of global greenhouse gas emissions is attributed to the materials sector?",
+      "answer": "Around 15 percent."
+    },
+    {
+      "question": "What percentage of surveyed decision makers are willing to pay a premium of around 10 percent for green materials by 2030?",
+      "answer": "Fewer than 15 percent."
+    },
+    {
+      "question": "How many new jobs are expected to be filled in the industry to scale supply to meet demand?",
+      "answer": "Approximately 340,000."
+    },
+    {
+      "question": "What is required to accelerate the scale-up of supply in a sustainable manner?",
+      "answer": "Increased collaboration and efforts to derisk investments."
+    },
+    {
+      "question": "What is the average annual growth rate of the materials industry since 2000?",
+      "answer": "6 percent per annum."
+    },
+    {
+      "question": "What is the estimated size of the materials industry in 2023?",
+      "answer": "About $8 trillion."
+    },
+    {
+      "question": "What percentage of surveyed decision makers are willing to pay a premium of around 10 percent for green materials by 2030?",
+      "answer": "Fewer than 15 percent."
+    },
+    {
+      "question": "What is the average project cost overshoot during the past decade?",
+      "answer": "More than 30 percent."
+    },
+    {
+      "question": "What is required to accelerate scale-up of supply in a sustainable manner?",
+      "answer": "Increased collaboration and efforts to derisk investments."
+    },
+    {
+      "question": "What has been the annual growth rate of the materials industry since 2000?",
+      "answer": "The materials industry has grown revenue by 6 percent per annum since 2000."
+    },
+    {
+      "question": "What was the size of the materials industry in 2023?",
+      "answer": "The materials industry was about $8 trillion in 2023."
+    },
+    {
+      "question": "What was the primary driver of revenue growth in the materials industry from 2020 to 2023?",
+      "answer": "Revenues grew primarily driven by metals and mining, which grew by $1.7 trillion (an increase of approximately 75 percent)."
+    },
+    {
+      "question": "How did EBITDA in metals and mining change from 2020 to 2023?",
+      "answer": "EBITDA in metals and mining nearly doubled, increasing from $500 billion to $900 billion."
+    },
+    {
+      "question": "What is the current state of the materials industry's balance sheets?",
+      "answer": "Overall, balance sheets are healthy, with net debt over EBITDA ratios of 1.3 times\u2014well below the through-cycle average of 1.8 times."
+    },
+    {
+      "question": "Why is 2024 proving to be a challenging year for the materials industry?",
+      "answer": "2024 is proving to be a challenging year due to slowing overall economic growth and a slower-than-expected shift toward low-carbon technologies, both of which are putting downward pressure on price levels."
+    },
+    {
+      "question": "What was the growth in revenues for the materials industry from 2020 to 2023?",
+      "answer": "Revenues grew by approximately $2.4 trillion (more than 40 percent) from 2020 to 2023."
+    },
+    {
+      "question": "Which sector drove the revenue growth in the materials industry from 2020 to 2023?",
+      "answer": "The revenue growth was primarily driven by metals and mining, which grew by $1.7 trillion (an increase of approximately 75 percent)."
+    },
+    {
+      "question": "What was the change in EBITDA for metals and mining from 2020 to 2023?",
+      "answer": "EBITDA in metals and mining nearly doubled, increasing from $500 billion to $900 billion."
+    },
+    {
+      "question": "What is the net debt over EBITDA ratio for the materials industry, and how does it compare to the through-cycle average?",
+      "answer": "The net debt over EBITDA ratio is 1.3 times, which is well below the through-cycle average of 1.8 times."
+    },
+    {
+      "question": "What percentage of metals and mining revenues comes from the top five material value chains?",
+      "answer": "Approximately 80 percent of metals and mining revenues stem from just five materials: steel, thermal coal, gold, copper, and aluminum."
+    },
+    {
+      "question": "What are the top two materials by revenue in the metals and mining industry?",
+      "answer": "Thermal coal and steel account for approximately 60 to 70 percent of revenues."
+    },
+    {
+      "question": "How did the actual production of lithium and nickel compare to the projected supply as of Q1 2020?",
+      "answer": "The actual production of lithium and nickel was nearly 20 percent higher than the projected supply as of Q1 2020."
+    },
+    {
+      "question": "What is the total revenue of the metals and mining industry?",
+      "answer": "The total revenue of the metals and mining industry is $4 trillion."
+    },
+    {
+      "question": "What percentage of revenues do thermal coal and steel account for?",
+      "answer": "Approximately 60 to 70 percent."
+    },
+    {
+      "question": "What is the production volume of thermal coal and steel compared to other materials?",
+      "answer": "More than 30 times higher than all other materials combined."
+    },
+    {
+      "question": "What materials make up another 15 to 20 percent of revenues?",
+      "answer": "Gold, copper, and aluminum."
+    },
+    {
+      "question": "How did the actual production of lithium and nickel compare to the projected supply in 2023?",
+      "answer": "Actual production was nearly 20 percent higher than projected supply."
+    },
+    {
+      "question": "Why did lithium production exceed projections?",
+      "answer": "Assets funded by Australian and US investors came online faster than expected, and there was an unanticipated scale-up of lepidolite assets in China."
+    },
+    {
+      "question": "Why did nickel production exceed projections?",
+      "answer": "The ramp-up stems almost solely from integrated high-pressure acid leach (HPAL) laterite assets in Indonesia."
+    },
+    {
+      "question": "How did copper supply compare to projections?",
+      "answer": "Copper supply lags projections, not only because expected projects did not come online but also because several assets decreased production faster than anticipated."
+    },
+    {
+      "question": "What is driving the ramp-up in nickel supply?",
+      "answer": "The ramp-up in nickel supply stems almost solely from integrated high-pressure acid leach (HPAL) laterite assets in Indonesia."
+    },
+    {
+      "question": "Why have some nickel projects been called back?",
+      "answer": "The accelerated supply buildup in nickel, in combination with a slowdown in electric vehicle (EV) sales, has partly led to recent downward price corrections and some projects being called back."
+    },
+    {
+      "question": "How is copper supply performing relative to projections?",
+      "answer": "Copper supply lags projections not only because of expected projects not coming online but also because several assets decreased production faster than anticipated."
+    },
+    {
+      "question": "What is happening to the chemistry mix for EV batteries?",
+      "answer": "The chemistry mix for EV batteries is increasingly moving away from nickel-manganese-cobalt (NMC) to lithium-iron-phosphate (LFP)."
+    },
+    {
+      "question": "What is the trend among OEMs regarding the use of rare earth elements (REEs) in electric motors?",
+      "answer": "The share of leading OEMs stating they would shift toward electric motors that are less reliant on REEs increased from 30 percent in 2022 to 40 percent in 2023."
+    },
+    {
+      "question": "Why might the shift away from iridium-intensive electrolyzers not be apparent yet?",
+      "answer": "Hydrogen developers may still have flexibility to change electrolyzer designs at a later stage in the project development cycle, which could partially explain why the shift away from iridium-intensive electrolyzers is not yet apparent."
+    },
+    {
+      "question": "How concentrated is the supply of ore for certain materials?",
+      "answer": "The supply of ore is commonly concentrated in a handful of countries, with the top one to three producers often controlling more than 60 percent of supply."
+    },
+    {
+      "question": "Which countries dominate the mining of cobalt and REEs?",
+      "answer": "Approximately 75 percent of cobalt is mined in the Democratic Republic of the Congo, and close to 70 percent of REEs are extracted in China."
+    },
+    {
+      "question": "What percentage of cobalt is mined in the Democratic Republic of the Congo?",
+      "answer": "Approximately 75 percent."
+    },
+    {
+      "question": "Which country has built a global leadership position in refined supply and refining capacity?",
+      "answer": "China."
+    },
+    {
+      "question": "What is the trend of Chinese ownership in copper, lithium, and nickel mining over the past decade?",
+      "answer": "Chinese ownership has increased."
+    },
+    {
+      "question": "By how much did Chinese ownership in copper nearly change from 2012 to 2023?",
+      "answer": "It nearly doubled."
+    },
+    {
+      "question": "What percentage of REEs are extracted in China?",
+      "answer": "Close to 70 percent."
+    },
+    {
+      "question": "In which country did Chinese investors mainly expand their nickel ownership?",
+      "answer": "Indonesia."
+    },
+    {
+      "question": "What has caused supply disruptions in recent years?",
+      "answer": "Highly concentrated supply."
+    },
+    {
+      "question": "Why did nickel prices soar in 2020?",
+      "answer": "Because Indonesia restricted exports of nickel ore."
+    },
+    {
+      "question": "What is the purpose of new policies being enacted by regions and countries regarding critical materials?",
+      "answer": "To increase self-sufficiency, improve the robustness of supply chains, and safeguard the competitiveness of their domestic industries."
+    },
+    {
+      "question": "What does the US Inflation Reduction Act (IRA) include for EVs?",
+      "answer": "Subsidies if a certain share of battery raw materials is sourced in the United States or a country with which the United States has a free trade agreement."
+    },
+    {
+      "question": "What is Canada's Critical Mineral Exploration Tax Credit rate?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What is the aim of the EU Critical Raw Materials Act (CRMA)?",
+      "answer": "To regionalize extraction, processing, and recycling for more than 15 strategic raw materials."
+    },
+    {
+      "question": "What materials were subject to export controls and restrictions in China in the past year?",
+      "answer": "Gallium, germanium, graphite, antimony, and rare earth separation and processing technologies."
+    },
+    {
+      "question": "How is Australia supporting its critical minerals strategy?",
+      "answer": "With loans, guarantees, and equity for strategically important projects."
+    },
+    {
+      "question": "What is the projected growth rate for lithium demand?",
+      "answer": "+475 percent."
+    },
+    {
+      "question": "Which materials are expected to have the highest relative growth in demand?",
+      "answer": "Copper and lithium."
+    },
+    {
+      "question": "What is the demand outlook for materials in 2023?",
+      "answer": "Demand outlook in 2023 remains strong, outpacing historical pace."
+    },
+    {
+      "question": "Which materials are expected to have the highest relative growth in demand?",
+      "answer": "The highest relative growth will come from copper (+30 percent), lithium (+475 percent), and nickel (+60 percent)."
+    },
+    {
+      "question": "What is the expected demand growth trend for materials until 2035?",
+      "answer": "Demand projections remain strong from now until 2035, with demand expected to outpace absolute historical growth in the coming decade compared with the previous decade for all materials considered in this report, except for steel and thermal coal."
+    },
+    {
+      "question": "Which materials are anticipated to face shortages by 2035?",
+      "answer": "REEs, lithium, sulfur, uranium, iridium, and copper may face shortages."
+    },
+    {
+      "question": "How much funds have been committed via Clean Energy Finance Corporation, Export Finance Australia, and Northern Australia Infrastructure Facility as of June 2023?",
+      "answer": "As of June 2023, loans approved of AU $2.3 billion, with another AU $4.0 billion earmarked via the National Reconstruction Fund."
+    },
+    {
+      "question": "What is the expected change in the supply-demand balance for REEs, lithium, and sulfur by 2035 compared to the 2023 perspective?",
+      "answer": "A slight closing of the gap is anticipated for REEs and lithium, while the gap for sulfur remains unchanged."
+    },
+    {
+      "question": "Which materials are still anticipated to face shortages by 2035?",
+      "answer": "REEs, lithium, sulfur, uranium, iridium, and copper are expected to face shortages."
+    },
+    {
+      "question": "What is the main reason for the potential closure of the supply-demand gap for uranium?",
+      "answer": "The supply-demand gap for uranium is likely to be closed by further scaling up supply once demand signals become strong enough, as scaling challenges depend mainly on the uncertain future of nuclear power."
+    },
+    {
+      "question": "Why is the supply-demand gap less likely to close for copper?",
+      "answer": "The supply-demand gap for copper is less likely to close through the accelerated scale-up of supply because of long project timelines or limited high-quality reserves and projects."
+    },
+    {
+      "question": "What is the total mining and processing project capex needed to scale up supply for copper by 2035?",
+      "answer": "~$320 billion"
+    },
+    {
+      "question": "What is the percentage growth in demand for lithium from 2012 to 2035?",
+      "answer": "+475%"
+    },
+    {
+      "question": "How has the anticipated supply-demand gap for nickel and cobalt changed in the past 24 months?",
+      "answer": "Both nickel and cobalt have moved from expected undersupply to oversupply."
+    },
+    {
+      "question": "How much capex is needed by 2035 to scale up supply to meet expected demand?",
+      "answer": "As much as $5.4 trillion."
+    },
+    {
+      "question": "How much power is needed by 2035 to scale up supply to meet expected demand?",
+      "answer": "270 gigawatts."
+    },
+    {
+      "question": "How many new jobs may be needed globally in the metals and mining industry by 2035?",
+      "answer": "~340,000."
+    },
+    {
+      "question": "What percentage of the total investment need is accounted for by the top five materials?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "How is the $5.4 trillion total investment need split?",
+      "answer": "Sustaining current projects (around 60 percent), new project development (35 percent), and exploration (5 percent)."
+    },
+    {
+      "question": "How much power is needed to decarbonize the current industry power supply?",
+      "answer": "1,100 GW."
+    },
+    {
+      "question": "What percentage of the total investment need is estimated to be used for sustaining current projects?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What is the estimated total investment need for the materials industry from 2024-2035?",
+      "answer": "$5.4 trillion."
+    },
+    {
+      "question": "Which five materials account for 80 percent of the total investment need?",
+      "answer": "Steel, thermal coal, gold, copper, and aluminum."
+    },
+    {
+      "question": "What is the estimated financing capacity of the materials industry from 2024-2035?",
+      "answer": "$5.9 trillion."
+    },
+    {
+      "question": "How is the financing capacity of the materials industry broken down?",
+      "answer": "Cash generation net of dividends (approximately $900 billion), debt financing on existing assets (approximately $750 billion), and debt financing of new assets (an additional $900 billion)."
+    },
+    {
+      "question": "Which materials are expected to have the most dominant capex requirements for projects?",
+      "answer": "Copper, nickel, and lithium."
+    },
+    {
+      "question": "What is the estimated financing capacity of the metals and mining industry?",
+      "answer": "$5.9 trillion."
+    },
+    {
+      "question": "What is the estimated capex need for the metals and mining industry?",
+      "answer": "~$5,400 billion."
+    },
+    {
+      "question": "By how much would current copper prices need to increase to drive sufficient supply?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "What is the minimum price required to meet 2035 demand if all copper projects are realized?",
+      "answer": "~$10,000-$15,000 per ton."
+    },
+    {
+      "question": "What factors are considered in the financing capacity of the metals and mining industry?",
+      "answer": "Cash generation net of dividends, debt financing on existing assets up to an investment grade threshold, and debt financing of new assets."
+    },
+    {
+      "question": "How much is the cash generation net of dividends from existing assets estimated to be?",
+      "answer": "~$910 billion."
+    },
+    {
+      "question": "What is the internal rate of return (IRR) used to estimate the incentive price for copper, nickel, and lithium projects?",
+      "answer": "15%."
+    },
+    {
+      "question": "What percentage increase in current copper prices is required to drive sufficient supply to meet demand?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "By approximately what percentage have lithium prices dropped since 2022?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "What is the current price of lithium per ton lithium carbonate equivalent (LCE) as of May 2024?",
+      "answer": "$14,500."
+    },
+    {
+      "question": "By what percentage would nickel prices need to increase to incentivize sufficient supply, assuming the most economical projects are prioritized?",
+      "answer": "5 percent."
+    },
+    {
+      "question": "What is the approximate required price increase for lithium to incentivize sufficient supply, provided all announced projects come online?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "What is the estimated decrease in total metals and mining emissions over the next decade?",
+      "answer": "15 percent."
+    },
+    {
+      "question": "What percentage of global emissions is the metals and mining industry expected to contribute in 2035?",
+      "answer": "13 percent."
+    },
+    {
+      "question": "What are the five factors driving the decrease in emissions from the metals and mining industry?",
+      "answer": "Changes in demand, grid decarbonization, improved circularity, efficiency improvements, and announced net-zero production."
+    },
+    {
+      "question": "What is the largest contributor to emissions for most materials in the metals and mining industry?",
+      "answer": "Electricity-related emissions."
+    },
+    {
+      "question": "By how much is the global grid projected to decarbonize?",
+      "answer": "Close to 50 percent."
+    },
+    {
+      "question": "What is the estimated annual efficiency improvement in the metals and mining industry?",
+      "answer": "0.5 percentage point per annum."
+    },
+    {
+      "question": "How much capacity of steel transitions to new technologies have been announced by 2035?",
+      "answer": "Approximately 40 Mt."
+    },
+    {
+      "question": "By how much would the announced steel transitions lower global emissions?",
+      "answer": "As much as 60 MtCO2."
+    },
+    {
+      "question": "What is the estimated share of emissions by 2035?",
+      "answer": "Approximately 13 percent."
+    },
+    {
+      "question": "What are the five factors driving the decrease in emissions?",
+      "answer": "Changes in demand, grid decarbonization, improved circularity, efficiency improvements, and announced net-zero production."
+    },
+    {
+      "question": "How much is the global grid projected to decarbonize by?",
+      "answer": "Close to 50 percent."
+    },
+    {
+      "question": "What is the largest contributor to emissions for most materials in the metals and mining industry?",
+      "answer": "Electricity-related emissions."
+    },
+    {
+      "question": "What percentage of the industry's overall CO2 emissions is contributed by steel?",
+      "answer": "Approximately 45 percent."
+    },
+    {
+      "question": "Why can't CO2 emissions from producing steel, aluminum, and nickel be abated with green electricity or alternative fuels?",
+      "answer": "Because they are a by-product of the chemical processes and instead require alternative production technologies or carbon capture."
+    },
+    {
+      "question": "What is the primary contributor to emissions intensity?",
+      "answer": "Electricity is often the primary contributor to emissions intensity."
+    },
+    {
+      "question": "Why are costs for low-carbon heating fuels higher?",
+      "answer": "Costs for low-carbon heating fuels, such as biofuels or green hydrogen, are significantly higher than natural gas."
+    },
+    {
+      "question": "How can emissions from producing steel, aluminum, and nickel be abated?",
+      "answer": "These emissions cannot be abated with green electricity or alternative fuels but instead require alternative production technologies or carbon capture."
+    }
+  ]
+}

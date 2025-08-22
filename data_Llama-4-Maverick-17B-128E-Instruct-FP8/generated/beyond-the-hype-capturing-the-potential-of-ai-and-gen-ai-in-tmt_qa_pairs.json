@@ -1,0 +1,2913 @@
+{
+  "summary": "Here is a summary of the document in 3-5 sentences, focusing on the main topic and key concepts:\n\nThe document discusses the potential of generative AI (gen AI) in the technology, media, and telecommunications (TMT) industries, with McKinsey estimating that it could add $380-690 billion in impact across these sectors. To capture this potential, companies must develop strategies to incorporate gen AI into their operations, including building AI-native transformations and investing in data quality and talent. Successful implementation requires a clear vision, decisive approach, and effective management of risks associated with gen AI. The document provides guidance on deploying gen AI, including organizational readiness, data management, and technological considerations, and highlights the potential for significant impact in areas such as customer care, sales, and network operations.",
+  "qa_pairs": [
+    {
+      "question": "What is the estimated annual economic impact of generative AI according to McKinsey research?",
+      "answer": "Between $2.6 trillion and $4.4 trillion."
+    },
+    {
+      "question": "How much impact is generative AI expected to unleash in the technology, media, and telecommunications (TMT) space?",
+      "answer": "Between $380 billion and $690 billion."
+    },
+    {
+      "question": "What are the estimated impacts of gen AI in telecommunications, media, and high tech respectively?",
+      "answer": "$60 billion to $100 billion in telecommunications, $80 billion to $130 billion in media, and about $240 billion to $460 billion in high tech."
+    },
+    {
+      "question": "By when might anything not connected to AI be considered obsolete or ineffective?",
+      "answer": "Within the next three years."
+    },
+    {
+      "question": "How many gen AI use cases has McKinsey identified in TMT across seven business domains?",
+      "answer": "More than 100."
+    },
+    {
+      "question": "How many gen AI use cases has McKinsey identified in TMT across seven business domains?",
+      "answer": "More than 100."
+    },
+    {
+      "question": "What percentage of total impact is expected to come from customer care and sales in telcos using gen AI?",
+      "answer": "Approximately 70 percent."
+    },
+    {
+      "question": "What is the potential revenue increase for telcos using gen AI to enhance interactions between employees and customers?",
+      "answer": "3 to 5 percent."
+    },
+    {
+      "question": "What is the potential increase in productivity for customer care interactions using gen AI?",
+      "answer": "30 to 45 percent."
+    },
+    {
+      "question": "What percentage of repetitive work activities could be automated via gen AI?",
+      "answer": "Up to 70 percent."
+    },
+    {
+      "question": "What is required for telcos to become AI-native organizations at scale?",
+      "answer": "Making the most of technology, data, and governance."
+    },
+    {
+      "question": "What is advised for financial plans regarding gen AI budgets over the next year?",
+      "answer": "Maintaining or increasing gen AI budgets."
+    },
+    {
+      "question": "What is advised for financial plans regarding gen AI budgets over the next year?",
+      "answer": "Financial plans should maintain or increase gen AI budgets over the next year."
+    },
+    {
+      "question": "What are some of the challenges that leaders should expect when implementing gen AI?",
+      "answer": "Leaders should expect challenges such as a shortage of talent, lack of organizational commitment and prioritization, and difficulties in justifying ROI for certain business cases."
+    },
+    {
+      "question": "What is crucial for mitigating the new risks introduced by gen AI?",
+      "answer": "Developing a system of protocols and guardrails, such as building 'moderation' models to check outputs for different risks, will be crucial for mitigating the new risks introduced by gen AI."
+    },
+    {
+      "question": "What is emphasized as important for deploying gen AI?",
+      "answer": "The collection emphasizes the importance of organizational readiness, data management, and technological considerations for deploying gen AI."
+    },
+    {
+      "question": "What is expected to continue evolving in the field of AI?",
+      "answer": "Gen AI is expected to continue evolving with new capabilities and an expanding ecosystem."
+    },
+    {
+      "question": "What is the report 'The economic potential of generative AI: The next productivity frontier' about?",
+      "answer": "The report is about capturing the potential of AI and gen AI in TMT (Technology, Media, and Telecommunications)."
+    },
+    {
+      "question": "Who are the authors of the report 'The economic potential of generative AI: The next productivity frontier'?",
+      "answer": "The authors are Michael Chui, Eric Hazan, Roger Roberts, Alex Singla, Kate Smaje, Alexander Sukharevsky, Lareina Yee, and Rodney Zemmel."
+    },
+    {
+      "question": "What breakthroughs have enabled the rise of generative AI?",
+      "answer": "Significant levels of investment in recent years have helped advance machine learning and deep learning, enabling the rise of generative AI."
+    },
+    {
+      "question": "Why did ChatGPT capture the imagination of people around the world?",
+      "answer": "ChatGPT captured the imagination of people around the world due to its broad utility and preternatural ability to have a conversation with a user."
+    },
+    {
+      "question": "What are some examples of generative AI applications?",
+      "answer": "Examples of generative AI applications include ChatGPT, GitHub Copilot, and Stable Diffusion."
+    },
+    {
+      "question": "What tasks can the latest generative AI applications perform?",
+      "answer": "The latest generative AI applications can perform a range of routine tasks, such as the reorganization and classification of data, writing text, composing music, and creating digital art."
+    },
+    {
+      "question": "How is generative AI defined in the report?",
+      "answer": "For the purposes of this report, we define generative AI as applications typically built using foundation models."
+    },
+    {
+      "question": "What is the total amount of funding for generative AI in the first five months of 2023?",
+      "answer": "$12 billion"
+    },
+    {
+      "question": "What was the average compound growth rate of venture capital and other private external investments in generative AI from 2017 to 2022?",
+      "answer": "74 percent annually"
+    },
+    {
+      "question": "Which continent dominates the generative AI investment landscape?",
+      "answer": "North America"
+    },
+    {
+      "question": "How much did US-based generative AI\u2013related companies raise from 2020 to 2022?",
+      "answer": "About $8 billion"
+    },
+    {
+      "question": "What percentage of total investments in generative AI companies from 2020 to 2022 was accounted for by US-based companies?",
+      "answer": "75 percent"
+    },
+    {
+      "question": "When was ChatGPT released?",
+      "answer": "November 2022"
+    },
+    {
+      "question": "What is the name of the new large language model released by OpenAI four months after ChatGPT?",
+      "answer": "GPT-4"
+    },
+    {
+      "question": "When was ChatGPT released?",
+      "answer": "November 2022."
+    },
+    {
+      "question": "What is the name of the new LLM released by OpenAI four months after ChatGPT?",
+      "answer": "GPT-4."
+    },
+    {
+      "question": "How many tokens of text could Anthropic's generative AI, Claude, process by May 2023?",
+      "answer": "100,000 tokens of text."
+    },
+    {
+      "question": "What percentage of total investments in generative AI companies from 2020 to 2022 was accounted for by US-based companies?",
+      "answer": "75 percent."
+    },
+    {
+      "question": "How much value could generative AI unlock across sectors?",
+      "answer": "Trillions of dollars."
+    },
+    {
+      "question": "How many generative AI use cases were identified by McKinsey & Company?",
+      "answer": "63."
+    },
+    {
+      "question": "What is the estimated total value that could be delivered by the identified generative AI use cases annually?",
+      "answer": "In the range of $2.6 trillion to $4.4 trillion."
+    },
+    {
+      "question": "How many generative AI use cases were identified across 16 business functions?",
+      "answer": "63"
+    },
+    {
+      "question": "What is the estimated total value of the identified generative AI use cases annually?",
+      "answer": "$2.6 trillion to $4.4 trillion"
+    },
+    {
+      "question": "What percentage increase in economic value is estimated to be added by generative AI to the value unlocked by nongenerative AI and analytics?",
+      "answer": "15 to 40 percent"
+    },
+    {
+      "question": "How many occupations were analyzed to estimate the potential impact of generative AI on work activities?",
+      "answer": "850"
+    },
+    {
+      "question": "What is the total economic benefit of generative AI, including major use cases and productivity increases, estimated to be annually?",
+      "answer": "$6.1 trillion to $7.9 trillion"
+    },
+    {
+      "question": "How was the value potential of generative AI use cases estimated?",
+      "answer": "By updating a proprietary McKinsey database of potential AI use cases and drawing on the experience of more than 100 experts in industries and their business functions."
+    },
+    {
+      "question": "How did McKinsey estimate the value potential of generative AI use cases?",
+      "answer": "McKinsey updated a proprietary database of potential AI use cases and drew on the experience of more than 100 experts in industries and their business functions."
+    },
+    {
+      "question": "What was the basis of McKinsey's estimates of the primary value that generative AI could unlock?",
+      "answer": "The estimates were based on use cases for which generative AI could deliver a significant improvement in the outputs that drive key value, excluding those where the sole benefit is the ability to use natural language."
+    },
+    {
+      "question": "What is the potential annual value of generative AI use cases according to McKinsey's estimates?",
+      "answer": "The potential annual value is based on the adoption of generative AI use cases across the entire economy, with estimates considering the economy-wide value generative AI could deliver by increasing the productivity of sales and marketing expenditures."
+    },
+    {
+      "question": "What are the four business functions that could account for approximately 75 percent of the total annual value from generative AI use cases?",
+      "answer": "The four business functions are customer operations, marketing and sales, software engineering, and research and development."
+    },
+    {
+      "question": "What is the basis of McKinsey's estimates of the economic potential of generative AI?",
+      "answer": "The estimates are based on the structure of the global economy in 2022 and do not consider the value generative AI could create if it produced entirely new product or service categories."
+    },
+    {
+      "question": "What are the two dimensions across which the value potential of generative AI is highlighted?",
+      "answer": "Business function and modality."
+    },
+    {
+      "question": "Which four business functions could account for approximately 75 percent of the total annual value from generative AI use cases?",
+      "answer": "Customer operations, marketing and sales, software engineering, and research and development."
+    },
+    {
+      "question": "Why is the potential value of using generative AI for manufacturing and supply chain functions now much lower?",
+      "answer": "Because generative AI use cases exclude most of the numerical and optimization applications that were the main value drivers for previous applications of AI."
+    },
+    {
+      "question": "How could generative AI drive value across an entire organization?",
+      "answer": "By revolutionizing internal knowledge management systems through its natural-language processing capabilities."
+    },
+    {
+      "question": "What percentage of their time did knowledge workers spend searching for and gathering information, according to the McKinsey Global Institute's 2012 estimate?",
+      "answer": "About a fifth, or one day each workweek."
+    },
+    {
+      "question": "How can generative AI improve customer operations?",
+      "answer": "Generative AI has the potential to revolutionize the entire customer operations function, improving the customer experience and agent productivity through digital self-service and enhancing and augmenting agent skills."
+    },
+    {
+      "question": "What were the results of applying generative AI to customer service at a company with 5,000 customer service agents?",
+      "answer": "The application of generative AI increased issue resolution by 14 percent an hour, reduced the time spent handling an issue by 9 percent, reduced agent attrition and requests to speak to a manager by 25 percent."
+    },
+    {
+      "question": "How can generative AI improve customer self-service?",
+      "answer": "Generative AI\u2013fueled chatbots can give immediate and personalized responses to complex customer inquiries regardless of the language or location of the customer."
+    },
+    {
+      "question": "What is the estimated potential reduction in human-serviced customer contacts due to generative AI?",
+      "answer": "Generative AI could further reduce the volume of human-serviced contacts by up to 50 percent, depending on a company\u2019s existing level of automation."
+    },
+    {
+      "question": "How can generative AI increase sales?",
+      "answer": "Because of its ability to rapidly process data on customers and their browsing histories, the technology can identify product suggestions and deals tailored to customer preferences."
+    },
+    {
+      "question": "What is the estimated potential productivity increase from applying generative AI to customer care functions?",
+      "answer": "We estimate that applying generative AI to customer care functions could increase productivity at a value ranging from 30 to 45 percent of current function costs."
+    },
+    {
+      "question": "What is one of the main benefits of applying generative AI to customer care functions?",
+      "answer": "Increase productivity at a value ranging from 30 to 45 percent of current function costs."
+    },
+    {
+      "question": "What is a risk associated with using generative AI in marketing?",
+      "answer": "Infringing on intellectual property rights or producing biased representations of certain demographics because of limited or biased training data."
+    },
+    {
+      "question": "How can generative AI enhance content creation in marketing?",
+      "answer": "Generative AI could significantly reduce the time required for ideation and content drafting, facilitate consistency across different pieces of content, and enhance personalization of marketing messages."
+    },
+    {
+      "question": "What type of data can generative AI help marketers interpret?",
+      "answer": "Abstract data sources such as text, image, and varying structures, including unstructured, inconsistent, and disconnected data from different databases."
+    },
+    {
+      "question": "What is one of the potential operational benefits of using generative AI for marketing?",
+      "answer": "Enhanced use of data, such as interpreting territory performance, synthesized customer feedback, and customer behavior to generate data-informed marketing strategies."
+    },
+    {
+      "question": "What is one of the main benefits of applying generative AI to customer care functions?",
+      "answer": "Increase productivity at a value ranging from 30 to 45 percent of current function costs."
+    },
+    {
+      "question": "What is a risk associated with using generative AI in marketing?",
+      "answer": "Infringing on intellectual property rights or producing biased representations of certain demographics because of limited or biased training data."
+    },
+    {
+      "question": "How can generative AI enhance content creation in marketing?",
+      "answer": "Generative AI could significantly reduce the time required for ideation and content drafting, facilitate consistency across different pieces of content, and enhance personalization of marketing messages."
+    },
+    {
+      "question": "What type of data can generative AI help marketers interpret?",
+      "answer": "Abstract data sources such as text, image, and varying structures, including unstructured, inconsistent, and disconnected data from different databases."
+    },
+    {
+      "question": "What is one of the potential operational benefits of using generative AI for marketing?",
+      "answer": "Enhanced use of data, such as interpreting territory performance, synthesized customer feedback, and customer behavior to generate data-informed marketing strategies."
+    },
+    {
+      "question": "How can generative AI help marketers generate data-informed marketing strategies?",
+      "answer": "Generative AI can help marketers better use data such as territory performance, synthesized customer feedback, and customer behavior to generate data-informed marketing strategies."
+    },
+    {
+      "question": "What is one way generative AI can improve SEO optimization?",
+      "answer": "Generative AI can synthesize key SEO tokens, support specialists in SEO digital content creation, and distribute targeted content to customers."
+    },
+    {
+      "question": "How can generative AI personalize product discovery and search?",
+      "answer": "Generative AI can personalize product discovery and search with multimodal inputs from text, images and speech, and deep understanding of customer profiles."
+    },
+    {
+      "question": "What is the estimated productivity increase for the marketing function due to generative AI?",
+      "answer": "Generative AI could increase the productivity of the marketing function with a value between 5 and 15 percent of total marketing spending."
+    },
+    {
+      "question": "How can generative AI improve sales productivity?",
+      "answer": "Implementing generative AI could increase sales productivity by approximately 3 to 5 percent of current global sales expenditures."
+    },
+    {
+      "question": "What are two use cases for generative AI in sales?",
+      "answer": "Two use cases are: 1) Increase probability of sale by identifying and prioritizing sales leads and suggesting actions to staff, and 2) Improve lead development by synthesizing relevant product sales information and customer profiles and creating discussion scripts."
+    },
+    {
+      "question": "By how much could generative AI increase sales productivity according to the analysis?",
+      "answer": "Approximately 3 to 5 percent of current global sales expenditures."
+    },
+    {
+      "question": "How can generative AI drive value in sales functions beyond the initial productivity increase?",
+      "answer": "By identifying new leads, facilitating more effective outreach, and allowing sales representatives to invest time in higher-quality customer interactions."
+    },
+    {
+      "question": "What is one way generative AI can augment the work of software engineers?",
+      "answer": "By doing pair programming, augmented coding, and generating code when given a natural-language prompt describing what that code should do."
+    },
+    {
+      "question": "What is the estimated direct impact of AI on the productivity of software engineering?",
+      "answer": "The direct impact could range from 20 to 45 percent of current annual spending on the function."
+    },
+    {
+      "question": "How much faster did software developers complete tasks when using Microsoft's GitHub Copilot?",
+      "answer": "56 percent faster than those not using the tool."
+    },
+    {
+      "question": "What was the result of a study on software developers using GitHub Copilot?",
+      "answer": "Software developers using GitHub Copilot completed tasks 56 percent faster than those not using the tool."
+    },
+    {
+      "question": "What did an internal McKinsey study find about the effect of generative AI tools on software engineering teams?",
+      "answer": "The study found that teams trained to use generative AI tools rapidly reduced the time needed to generate and refactor code, and engineers reported a better work experience."
+    },
+    {
+      "question": "What is the potential value of generative AI in R&D costs according to the research?",
+      "answer": "The technology could deliver productivity with a value ranging from 10 to 15 percent of overall R&D costs."
+    },
+    {
+      "question": "How is generative AI being used in the life sciences and chemical industries?",
+      "answer": "Generative AI foundation models are being used for generative design to generate candidate molecules, accelerating the process of developing new drugs and materials."
+    },
+    {
+      "question": "What are the benefits of using generative AI in product design?",
+      "answer": "Generative AI can help product designers reduce costs by selecting and using materials more efficiently, optimize designs for manufacturing, and improve product testing and quality."
+    },
+    {
+      "question": "What is an example of a company using generative AI in R&D?",
+      "answer": "Entos, a biotech pharmaceutical company, has paired generative AI with automated synthetic development tools to design small-molecule therapeutics."
+    },
+    {
+      "question": "What is the potential benefit of using generative AI in generative design?",
+      "answer": "Using generative AI in generative design can produce a higher-quality product, resulting in increased attractiveness and market appeal."
+    },
+    {
+      "question": "How can generative AI help reduce testing time of complex systems?",
+      "answer": "Generative AI can help to reduce testing time of complex systems and accelerate trial phases involving customer testing through its ability to draft scenarios and profile testing candidates."
+    },
+    {
+      "question": "What is the role of deep learning surrogates in the R&D process?",
+      "answer": "Deep learning applications are now revolutionizing the virtual testing phase of the R&D process by using deep learning models to emulate (multi)physics-based simulations at higher speeds and lower costs."
+    },
+    {
+      "question": "What is the advantage of using deep learning surrogates over traditional physics-based simulations?",
+      "answer": "Instead of taking hours to run physics-based models, these deep learning surrogates can produce the results of simulations in just a few seconds, allowing researchers to test many more designs and enabling faster decision making on products and designs."
+    },
+    {
+      "question": "What percentage of the value that generative AI can unlock is estimated to take advantage of multimodal capabilities beyond text to text?",
+      "answer": "Almost one-fifth of the value that generative AI can unlock across our use cases would take advantage of multimodal capabilities beyond text to text."
+    },
+    {
+      "question": "What are some of the recent breakthroughs in generative AI beyond text-based use cases?",
+      "answer": "Recent advances in generative AI have also led to breakthroughs in image generation, as OpenAI\u2019s DALL\u00b7E and Stable Diffusion have so amply illustrated, and much progress is being made in audio, including voice and music, and video."
+    },
+    {
+      "question": "How quickly can deep learning surrogates produce the results of simulations compared to traditional physics-based models?",
+      "answer": "Deep learning surrogates can produce the results of simulations in just a few seconds, whereas traditional physics-based models take hours."
+    },
+    {
+      "question": "What are some of the industries where generative AI is already being applied?",
+      "answer": "Generative AI is already being applied in media industries, including game design."
+    },
+    {
+      "question": "What is the potential value that generative AI can generate across industries?",
+      "answer": "Generative AI has the potential to generate $2.6 trillion to $4.4 trillion in value across industries."
+    },
+    {
+      "question": "How can generative AI be used in R&D?",
+      "answer": "Generative AI systems could create first drafts of circuit designs, architectural drawings, structural engineering designs, and thermal designs based on prompts that describe requirements for a product."
+    },
+    {
+      "question": "Which business function is expected to have the highest impact from generative AI productivity?",
+      "answer": "The text does not provide a specific business function with the highest impact, but it lists various business functions and their potential impact, including Supply chain and operations, Talent and organization, Software engineering, and others."
+    },
+    {
+      "question": "What is required to achieve the use of generative AI in creating designs?",
+      "answer": "Achieving this will require training foundation models in these domains (think of LLMs trained on \u201cdesign languages\u201d)."
+    },
+    {
+      "question": "What is the estimated value that generative AI could generate across industries?",
+      "answer": "$2.6 trillion to $4.4 trillion."
+    },
+    {
+      "question": "What is the estimated additional value that generative AI could contribute to the retail industry?",
+      "answer": "Roughly $310 billion."
+    },
+    {
+      "question": "How does generative AI impact software development in the high tech industry?",
+      "answer": "By increasing the speed and efficiency of software development."
+    },
+    {
+      "question": "What is the main way that technology, including generative AI, can impact work activities?",
+      "answer": "By augmenting work through the automation of individual activities that workers would have otherwise had to do themselves."
+    },
+    {
+      "question": "How many use cases were analyzed to determine the value potential of generative AI across industries?",
+      "answer": "63."
+    },
+    {
+      "question": "When did the McKinsey Global Institute begin analyzing the impact of technological automation of work activities?",
+      "answer": "2017."
+    },
+    {
+      "question": "What percentage of their time did workers spend on activities that had the potential to be automated by adapting technology that existed in 2017?",
+      "answer": "Half."
+    },
+    {
+      "question": "Why does technology adoption at scale not occur overnight?",
+      "answer": "Because developing solutions that automate specific work activities takes time, and even when developed, they might not be economically feasible or immediately adopted across the global economy."
+    },
+    {
+      "question": "What has happened to agricultural employment in China between 1962 and 2013?",
+      "answer": "It went from an 82 percent share of all workers to 13 percent."
+    },
+    {
+      "question": "Why is labor productivity expected to have to accelerate?",
+      "answer": "To achieve economic growth and enhance prosperity due to the slowing growth of the world's workforce and aging populations in some major countries."
+    },
+    {
+      "question": "What could the new capabilities of generative AI, combined with previous technologies, do to the potential for technical automation of individual activities?",
+      "answer": "Accelerate it."
+    },
+    {
+      "question": "What is the expected impact of generative AI on the technical automation of individual activities?",
+      "answer": "The new capabilities of generative AI could accelerate the potential for technical automation of individual activities."
+    },
+    {
+      "question": "By what year was median human performance for natural-language understanding previously expected to be achieved in technology?",
+      "answer": "2027"
+    },
+    {
+      "question": "What is the new estimated year for median human performance for natural-language understanding to be achieved in technology?",
+      "answer": "2023"
+    },
+    {
+      "question": "What is the updated total percentage of hours that could theoretically be automated by integrating existing technologies?",
+      "answer": "60 to 70 percent"
+    },
+    {
+      "question": "What was the previous total percentage of hours that could theoretically be automated?",
+      "answer": "about 50 percent"
+    },
+    {
+      "question": "What is the main reason for the steep technical potential curve?",
+      "answer": "The acceleration in generative AI's natural-language capabilities."
+    },
+    {
+      "question": "What was the global economic growth trend from 2012 to 2022 compared to the two preceding decades?",
+      "answer": "Global economic growth was slower from 2012 to 2022 than in the two preceding decades."
+    },
+    {
+      "question": "What was the main engine of economic growth from 1992 to 2022?",
+      "answer": "Productivity growth was the main engine of economic growth in the three decades from 1992 to 2022."
+    },
+    {
+      "question": "What has been slowing down since 2012?",
+      "answer": "Global economic growth has been slower from 2012 to 2022 than in the two preceding decades."
+    },
+    {
+      "question": "What is the expected annual productivity boost from the automation of individual work activities enabled by generative AI and other technologies from 2023 to 2040?",
+      "answer": "The automation of individual work activities enabled by these technologies could provide the global economy with an annual productivity boost of 0.5 to 3.4 percent from 2023 to 2040."
+    },
+    {
+      "question": "How much of the productivity growth is expected to be contributed by generative AI from 2023 to 2040?",
+      "answer": "Generative AI is expected to contribute 0.1 to 0.6 percentage points of the productivity growth from 2023 to 2040."
+    },
+    {
+      "question": "What is a condition for generative AI to contribute to productivity growth?",
+      "answer": "Individuals affected by the technology must shift to other work activities that at least match their 2022 productivity levels."
+    },
+    {
+      "question": "What has been a significant factor in the slowing down of global economic growth from 2012 to 2022?",
+      "answer": "The COVID-19 pandemic was a significant factor, along with long-term structural challenges including declining birth rates and aging populations."
+    },
+    {
+      "question": "Why is the size of the workforce declining in many large countries?",
+      "answer": "The size of the workforce is already declining in many large countries largely because of aging."
+    },
+    {
+      "question": "What has been the main engine of GDP growth over the past 30 years?",
+      "answer": "Productivity growth."
+    },
+    {
+      "question": "What is the potential annual productivity boost that the automation of individual work activities enabled by generative AI and other technologies could provide to the global economy from 2023 to 2040?",
+      "answer": "0.5 to 3.4 percent."
+    },
+    {
+      "question": "What is the contribution of generative AI to the potential annual productivity boost?",
+      "answer": "0.1 to 0.6 percentage points."
+    },
+    {
+      "question": "What is required for workers affected by generative AI to achieve the potential productivity boost?",
+      "answer": "They need to shift to other work activities that at least match their 2022 productivity levels."
+    },
+    {
+      "question": "What is the impact of generative AI on the types of workers who will experience automation?",
+      "answer": "It has expanded the types of workers who will experience its impact."
+    },
+    {
+      "question": "Why is it necessary for workers to change the work they do in order to achieve the benefits of generative AI?",
+      "answer": "Because a significant number of workers will need to substantially change the work they do, either in their existing occupations or in new ones, to achieve the benefits of generative AI."
+    },
+    {
+      "question": "How has human productivity grown over the past 20 years?",
+      "answer": "Human productivity has grown at a below-average rate for almost 20 years."
+    },
+    {
+      "question": "What is the potential economic impact of generative AI?",
+      "answer": "The rapid development of generative AI is likely to significantly augment the impact of AI overall, generating trillions of dollars of additional value each year and transforming the nature of work."
+    },
+    {
+      "question": "What percentage of work activities could change in the coming decade due to generative AI?",
+      "answer": "About a quarter to a third of work activities could change in the coming decade."
+    },
+    {
+      "question": "What are some of the risks associated with generative AI?",
+      "answer": "Generative AI poses risks such as algorithmic bias, intellectual property infringement, and privacy concerns."
+    },
+    {
+      "question": "Why is it necessary for workers to change their work or transition to new activities?",
+      "answer": "To achieve the benefits of generative AI, a significant number of workers will need to substantially change the work they do, either in their existing occupations or in new ones."
+    },
+    {
+      "question": "What is one of the challenges that stakeholders must address regarding generative AI?",
+      "answer": "Stakeholders must act to prepare to address both the opportunities and the risks associated with generative AI, including concerns about the content that generative AI systems produce."
+    },
+    {
+      "question": "What is one of the risks associated with the intellectual property of generative AI?",
+      "answer": "Infringing on copyrighted, trademarked, patented, or otherwise legally protected materials."
+    },
+    {
+      "question": "How can generative AI be used by bad actors?",
+      "answer": "To accelerate the sophistication and speed of cyberattacks."
+    },
+    {
+      "question": "What is a technique used to manipulate generative AI models?",
+      "answer": "Prompt injection, where a third party gives a model new instructions that trick the model into delivering an output unintended by the model producer and end user."
+    },
+    {
+      "question": "Why is it challenging to explain how generative AI produces a given answer?",
+      "answer": "Because it relies on neural networks with billions of parameters."
+    },
+    {
+      "question": "What is a potential environmental consequence of training large language models?",
+      "answer": "An increase in carbon emissions, with one large language model emitting about 315 tons of carbon dioxide."
+    },
+    {
+      "question": "What is a potential social impact of generative AI on the workforce?",
+      "answer": "The impact on specific groups and local communities could be disproportionately negative."
+    },
+    {
+      "question": "What is a challenge associated with the reliability of generative AI models?",
+      "answer": "They can produce different answers to the same prompts, impeding the user\u2019s ability to assess the accuracy and reliability of outputs."
+    },
+    {
+      "question": "What are some potential malicious uses of generative AI?",
+      "answer": "Generative AI could be used to create and disseminate malicious content such as disinformation, deepfakes, and hate speech."
+    },
+    {
+      "question": "How can generative AI be manipulated to provide malicious outputs?",
+      "answer": "Through a technique called prompt injection, a third party gives a model new instructions that trick the model into delivering an output unintended by the model producer and end user."
+    },
+    {
+      "question": "Why is it challenging to explain how generative AI produces a given answer?",
+      "answer": "Generative AI relies on neural networks with billions of parameters, challenging our ability to explain how any given answer is produced."
+    },
+    {
+      "question": "What is a potential issue with the reliability of generative AI models?",
+      "answer": "Models can produce different answers to the same prompts, impeding the user\u2019s ability to assess the accuracy and reliability of outputs."
+    },
+    {
+      "question": "What is a potential environmental impact of training large language models?",
+      "answer": "Training one large language model can emit about 315 tons of carbon dioxide."
+    },
+    {
+      "question": "How may generative AI affect the workforce?",
+      "answer": "Generative AI may significantly affect the workforce, and the impact on specific groups and local communities could be disproportionately negative."
+    },
+    {
+      "question": "When did generative AI arrive?",
+      "answer": "The arrival of generative AI was in the fall of 2022."
+    },
+    {
+      "question": "What is the potential impact of generative AI on the global economy?",
+      "answer": "Generative AI has the potential to create enormous value for the global economy."
+    },
+    {
+      "question": "Why is it important to understand generative AI?",
+      "answer": "It is important to properly understand this phenomenon and anticipate its impact because it has the potential to dramatically transform how we work and our purpose in society."
+    },
+    {
+      "question": "What is a significant challenge associated with generative AI?",
+      "answer": "Generative AI is capable of language, a skill that can be used to hurt feelings, create misunderstandings, obscure truth, and incite violence and even wars, making it potentially more destabilizing than previous generations of artificial intelligence."
+    },
+    {
+      "question": "What is needed to address the impact of generative AI?",
+      "answer": "Companies, policy makers, consumers, and citizens need to work together to ensure that generative AI delivers on its promise to create significant value while limiting its potential to upset lives and livelihoods."
+    },
+    {
+      "question": "What is the current state of understanding about generative AI?",
+      "answer": "All of us are at the beginning of a journey to understand this technology\u2019s power, reach, and capabilities."
+    },
+    {
+      "question": "What is the estimated additional value that generative AI could create?",
+      "answer": "$2.6 billion to $4.4 trillion."
+    },
+    {
+      "question": "What is the expected impact of new generative AI use cases in the telecom space?",
+      "answer": "$60 billion to $100 billion."
+    },
+    {
+      "question": "Who led the research underpinning the report?",
+      "answer": "Michael Chui, an MGI partner in McKinsey\u2019s Bay Area office, along with other senior partners."
+    },
+    {
+      "question": "How many essential questions should CEOs consider when formulating a strategy for generative AI?",
+      "answer": "Six."
+    },
+    {
+      "question": "What are the two questions that CEOs should consider when formulating a strategy for generative AI?",
+      "answer": "1. Is the opportunity significantly larger than AI? 2. Are we ambitious enough with gen AI?"
+    },
+    {
+      "question": "Who wrote the article 'Making the most of the generative AI opportunity: Six questions for CEOs'?",
+      "answer": "A collaborative effort by Ben Ellencweig, Dana Maor, Alex Singla, Alexander Sukharevsky, Lareina Yee, and Rodney Zemmel."
+    },
+    {
+      "question": "What percentage of AI's total value creation potential is attributed to gen AI?",
+      "answer": "20 to 40 percent."
+    },
+    {
+      "question": "What other technology trends are continuing to make progress alongside gen AI?",
+      "answer": "Web 3.0 and augmented reality and virtual reality (AR/VR)."
+    },
+    {
+      "question": "Why are companies likelier to succeed with gen AI?",
+      "answer": "If they solve for value creation versus simply checking the box."
+    },
+    {
+      "question": "What kind of opportunities can gen AI provide to companies?",
+      "answer": "Disintermediation, radical cost curve shifts, and organic consumer acquisition opportunities."
+    },
+    {
+      "question": "Where do most of today's most popular gen AI products come from?",
+      "answer": "New entrants, with 80 percent coming from them."
+    },
+    {
+      "question": "How should executives view the opportunity presented by emerging technologies?",
+      "answer": "By considering how their organizations can capitalize on the confluence of emerging technology trends."
+    },
+    {
+      "question": "What percentage of today's most popular gen AI products come from new entrants?",
+      "answer": "80 percent."
+    },
+    {
+      "question": "What contributes only about 15 percent of the value of gen AI applications?",
+      "answer": "The most powerful closed-source models."
+    },
+    {
+      "question": "Among the top 50 gen AI applications, what percentage of them are being paid for by consumers?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What is expected to be affected by gen AI over the next 20 years?",
+      "answer": "Up to 60 percent of work activities."
+    },
+    {
+      "question": "What is required to deliver the potential of gen AI?",
+      "answer": "Exceptional human capital."
+    },
+    {
+      "question": "Why are middling employees likely to produce middling results with gen AI?",
+      "answer": "Because gen AI can only deliver if it is combined with exceptional human capital."
+    },
+    {
+      "question": "What percentage of gen AI proofs of concept eventually scale without external intervention or guidance?",
+      "answer": "About 3 percent."
+    },
+    {
+      "question": "What is required for AI models to be effective?",
+      "answer": "Top-down focus, the right tech and people capabilities, proper data access, modular architecture, and effective change management."
+    },
+    {
+      "question": "How many dimensions are involved in creating a digitally capable organization?",
+      "answer": "Six dimensions."
+    },
+    {
+      "question": "What is one of the dimensions involved in creating a digitally capable organization?",
+      "answer": "A business-led digital road map that aligns the senior leadership team on the transformation vision, value, and strategy."
+    },
+    {
+      "question": "What is a risk associated with training a gen AI model?",
+      "answer": "Environmental risk, as it consumes about a million liters of water for cooling."
+    },
+    {
+      "question": "What percentage of AI use cases have been deployed in production?",
+      "answer": "Only one in ten."
+    },
+    {
+      "question": "What is one of the environmental impacts of training a gen AI model?",
+      "answer": "Training a gen AI model consumes about a million liters of water for cooling."
+    },
+    {
+      "question": "How can organizations manage the risks associated with AI?",
+      "answer": "Organizations should set up cross-functional teams to cover their specific risk concerns, establish ethical principles and guidelines for gen AI use, and establish continuous monitoring for gen AI systems to address risk dynamically."
+    },
+    {
+      "question": "What has been the revenue growth experience of AI leaders compared to their peers?",
+      "answer": "AI leaders have experienced a five-year revenue CAGR that is 2.1 times higher than that of peers."
+    },
+    {
+      "question": "What has been the total return to shareholders for AI leaders compared to their peers?",
+      "answer": "AI leaders have experienced a total return to shareholders that is 2.5 times larger than that of peers."
+    },
+    {
+      "question": "Who should lead the conversation about a comprehensive gen AI strategy?",
+      "answer": "CEOs should lead the conversation about a comprehensive gen AI strategy."
+    },
+    {
+      "question": "What have AI leaders experienced in terms of revenue CAGR compared to their peers?",
+      "answer": "A five-year revenue CAGR that is 2.1 times higher than that of peers."
+    },
+    {
+      "question": "Why have telcos not fully adopted AI technology despite facing challenges such as flagging revenues and ROIC?",
+      "answer": "Telcos have yet to fully embrace AI and an AI-focused mindset; instead, models are developed once and not enhanced as the business context evolves, and AI investments are often not aligned with top-level management priorities."
+    },
+    {
+      "question": "What is required for AI deployments to be successful in telcos?",
+      "answer": "AI investments need to be aligned with top-level management priorities, and top executives need to serve as champions of critical AI initiatives."
+    },
+    {
+      "question": "How does an AI-native organization differ from a non-AI-native organization?",
+      "answer": "In an AI-native organization, AI is viewed as a core competency that powers decision making across all departments and organization layers, and AI investments are required to enable most C-level priorities."
+    },
+    {
+      "question": "What is the benefit of having AI connected holistically at all levels and departments in a telco?",
+      "answer": "It will be key to protecting core revenue and driving margin growth in even the most difficult of environments."
+    },
+    {
+      "question": "What notification does Trevor, an associate in a telco mall store, receive when he logs in at the start of his shift?",
+      "answer": "A celebratory notification congratulating him on his high-quality interactions with customers the previous day."
+    },
+    {
+      "question": "Why does Trevor receive a notification pointing him to coaching resources?",
+      "answer": "Because the AI detected that Trevor is underperforming peers in accessory and device protection attach rates."
+    },
+    {
+      "question": "How does Lucile, director of a capital planning team, use AI?",
+      "answer": "To inform highly targeted network investment decisions based on a granular understanding of customer-level network experience scores strongly correlated to commercial outcomes."
+    },
+    {
+      "question": "What are the three factors supporting telcos' move to become AI-native?",
+      "answer": "Increasing accessibility of leading AI technology, rapid explosion of usable data, and proven use cases and outcomes."
+    },
+    {
+      "question": "What are the four critical outcomes that AI-native organizations have achieved through AI deployment?",
+      "answer": "Drive revenue protection and growth through personalization, transform the cost structure, enable a frictionless customer experience, and meet new workplace demands."
+    },
+    {
+      "question": "How have streaming players used AI?",
+      "answer": "To provide highly curated personalized content recommendations based on past user behavior."
+    },
+    {
+      "question": "How are streaming players known to provide content recommendations?",
+      "answer": "Streaming players are known for providing highly curated personalized content recommendations based on past user behavior."
+    },
+    {
+      "question": "What is one of the leading US insurance companies leveraging to reduce human interactions?",
+      "answer": "One of the leading US insurance companies is leveraging AI assistants to reduce and even eliminate human interactions for users to obtain coverage or cancel policies with other carriers."
+    },
+    {
+      "question": "What is the expected increase in IT spending in 2023 despite economic turmoil?",
+      "answer": "IT spending is expected to increase by more than 5 percent in 2023."
+    },
+    {
+      "question": "What concept do telcos need to embrace for the greatest payoff in their shift towards AI?",
+      "answer": "Telcos need to embrace the concept of the AI-native organization\u2014a structure where the technology is deeply embedded across the fabric of the entire enterprise."
+    },
+    {
+      "question": "How can operators protect their core business from further erosion while improving margins?",
+      "answer": "Operators can protect their core business from further erosion while improving margins by using AI to its fullest extent."
+    },
+    {
+      "question": "What is an example of a hyperpersonalized plan and device recommendation for a telco customer?",
+      "answer": "A hyperpersonalized plan and device recommendation could leverage granular behavioral data to create individualized plan recommendations, promos, and messaging for specific devices, locations, and events."
+    },
+    {
+      "question": "What percentage reduction in customer churn did an Asia\u2013Pacific operator achieve after launching a comprehensive customer value management transformation powered by AI?",
+      "answer": "More than 10 percent."
+    },
+    {
+      "question": "What was the uptake in cross-sell for the Asia\u2013Pacific operator after implementing AI-powered customer value management?",
+      "answer": "20 percent."
+    },
+    {
+      "question": "How does the AI system help minimize roaming charges for a customer traveling abroad?",
+      "answer": "The AI system automatically applies the optimal roaming package to her monthly bill."
+    },
+    {
+      "question": "What is the expected outcome for a leading telco using a proactive AI engine to resolve device troubleshooting issues?",
+      "answer": "An approximately 10 percent decrease in device troubleshooting calls."
+    },
+    {
+      "question": "How are some telcos using AI in their retail stores?",
+      "answer": "They use virtual retail assistants displayed on floor screens to conduct multiple transactions with customers and leverage AI tools for delivering more-accurate device grading and trade-ins."
+    },
+    {
+      "question": "What is the ambition of the operator regarding customer satisfaction scores?",
+      "answer": "The operator's ambition is to have the highest customer satisfaction scores among competitors."
+    },
+    {
+      "question": "How are aisle layout and product placement optimized in the store of the near future?",
+      "answer": "Aisle layout and product placement are optimized based on browsing patterns analyzed by machine vision."
+    },
+    {
+      "question": "What is the role of AI tools in managing device SKUs in the store of the near future?",
+      "answer": "Device SKUs are automatically managed to optimize inventory and sales."
+    },
+    {
+      "question": "How do telcos use virtual retail assistants in stores?",
+      "answer": "Telcos use virtual retail assistants displayed on floor screens to conduct multiple transactions with customers, including adding balance to a prepaid account and selling prepaid cards and TV subscriptions."
+    },
+    {
+      "question": "What is the purpose of the AI-based customer network experience 'score' developed by a telecom operator?",
+      "answer": "The score is used to improve the operator's understanding of how customers perceive their network and to inform network deployment decisions."
+    },
+    {
+      "question": "How does AI enable a self-healing network?",
+      "answer": "AI enables a self-healing network by automatically fixing faults, such as auto-switching customers from one carrier frequency to another."
+    },
+    {
+      "question": "What is the benefit of using AI to prioritize the dispatching of emergency crews?",
+      "answer": "AI prioritizes the dispatching of emergency crews based on potential revenue loss or impact on customer experience, freeing up engineering resources for higher-value-added activities."
+    },
+    {
+      "question": "How does the AI-native telco use AI-enabled tools to improve frontline productivity?",
+      "answer": "The AI-native telco uses AI-enabled tools to optimize workforce planning and coaching of frontline employees across multiple teams."
+    },
+    {
+      "question": "What did the telecom operator develop to improve its understanding of customer network experience?",
+      "answer": "An AI-based customer network experience 'score'."
+    },
+    {
+      "question": "How did the AI engine create the customer network experience score?",
+      "answer": "By leveraging granular network-level information for every line with an ML model tailored to each customer's individual network experience and expectations."
+    },
+    {
+      "question": "What were the results of deploying an AI-enabled scheduling and coaching solution for technicians servicing copper and fiber customers?",
+      "answer": "Efficiency gains included 10 to 20 percent capacity generation and improved customer satisfaction scores."
+    },
+    {
+      "question": "How does the AI-enabled nudge engine support employees and their supervisors?",
+      "answer": "By providing personalized celebratory and improvement opportunity nudges."
+    },
+    {
+      "question": "In what ways can AI-powered insights enhance decision making across business functions?",
+      "answer": "By flagging outlier invoices, predicting customers likely to default, flagging employees with high attrition or absenteeism risk, and helping identify informal influencers who can lead change management efforts."
+    },
+    {
+      "question": "How does AI assist in workforce planning?",
+      "answer": "By forecasting across supply-and-demand metrics with higher accuracy, more granularity, and full automation, and by smart scheduling to match supply with demand."
+    },
+    {
+      "question": "How can AI be used in finance?",
+      "answer": "AI can flag outlier invoices for further inspection and predict customers likely to default on the accounts receivable side."
+    },
+    {
+      "question": "What is an example of AI's application in HR?",
+      "answer": "AI can help flag employees with high attrition or absenteeism risk, identify the respective drivers, and help identify informal influencers who can lead change management efforts."
+    },
+    {
+      "question": "How does AI assist in a call-center setting?",
+      "answer": "AI provides insights and tips to reps before customer interaction, assists reps during calls with suggested key phrases and next best actions, and generates reports on rep performance after customer interaction."
+    },
+    {
+      "question": "What was the result of a UK-based transportation company deploying AI to identify drivers of employee attrition and absenteeism?",
+      "answer": "The company estimated a 20 to 25 percent reduction in sick pay and attrition costs after developing targeted interventions based on AI insights."
+    },
+    {
+      "question": "What is a best practice for building AI capabilities?",
+      "answer": "Building core AI capabilities in a modular fashion with reusability in mind, allowing deployment across multiple contexts."
+    },
+    {
+      "question": "How do digital twins affect the deployment of AI?",
+      "answer": "Digital twins create a single source of truth, enabling a one-time curating effort that is leveraged by all use cases, thereby speeding up the time to market of AI use cases."
+    },
+    {
+      "question": "What is the primary benefit of using digital twins in AI deployment?",
+      "answer": "Digital twins create a single source of truth ('build once, use many times') that speeds up time to market of AI use cases."
+    },
+    {
+      "question": "How do digital twins change the way data is curated for AI use cases?",
+      "answer": "From every use case curating data for its own needs to a one-time curating effort that is leveraged by all use cases."
+    },
+    {
+      "question": "What is the role of a digital twin in AI?",
+      "answer": "Digital twins\u2014virtual representations of a physical asset, person, or process with a data product at its core\u2014are the key to unlocking reusable AI."
+    },
+    {
+      "question": "Why is treating AI capabilities as true products important?",
+      "answer": "Assigning dedicated product managers to oversee them ensures that AI capabilities are continuously improved and never built as a onetime solution."
+    },
+    {
+      "question": "What is the purpose of setting up AI labs?",
+      "answer": "To enable fast experimentation with new models, test for feasibility, and validate business value before scaling."
+    },
+    {
+      "question": "What is the benefit of implementing MLOps best practices?",
+      "answer": "To shorten the analytics development life cycle and increase model stability."
+    },
+    {
+      "question": "Why is it recommended to refresh the AI tech stack at least annually?",
+      "answer": "To take advantage of new developments and significant enhancements in tooling that can transform AI workflows."
+    },
+    {
+      "question": "What is the purpose of granting expedited approval to dedicated teams of PMs and data scientists or engineers?",
+      "answer": "To experiment with new models, test for feasibility, and validate business value before scaling."
+    },
+    {
+      "question": "What is the benefit of implementing MLOps best practices?",
+      "answer": "To shorten the analytics development life cycle and increase model stability."
+    },
+    {
+      "question": "Why is it recommended to refresh the AI tech stack at least annually?",
+      "answer": "To take advantage of new developments in tooling that drastically transformed AI workflows."
+    },
+    {
+      "question": "What is critical to improve for attracting and retaining tech talent?",
+      "answer": "Conditions that developers work under, as developer experience is a top factor in determining an employer\u2019s attractiveness."
+    },
+    {
+      "question": "What is required for maintaining and improving AI capabilities?",
+      "answer": "An experimental, iterative mindset focused squarely on product and tech innovation."
+    },
+    {
+      "question": "How can IT and data modernization efforts be sped up?",
+      "answer": "By leveraging reference architectures that have been road-tested in multiple transformations across industries."
+    },
+    {
+      "question": "What is necessary for fostering growing usage of AI?",
+      "answer": "A comprehensive approach focused on both what goes into and comes out of models, including trustworthy AI and change management."
+    },
+    {
+      "question": "What is meant by trustworthy AI?",
+      "answer": "AI solutions that include dimensions such as model explainability, accountability for the outcomes of AI models, and technical robustness."
+    },
+    {
+      "question": "Why are organizations that adopt AI slowly likely to fail?",
+      "answer": "Because innovation projects developed in silos are unlikely to come together to holistically change how technology informs business decision making."
+    },
+    {
+      "question": "What is required for operators to improve their competitiveness in the coming years?",
+      "answer": "Operators need to invest in AI to improve their competitiveness."
+    },
+    {
+      "question": "What is likely to happen to organizations that move at a slow pace in adopting AI?",
+      "answer": "They are likely to fail."
+    },
+    {
+      "question": "What are the biggest drivers of AI adoption?",
+      "answer": "CEO-level sponsorship and full executive alignment throughout the AI-native transformation."
+    },
+    {
+      "question": "What is required for operators to become AI native?",
+      "answer": "They need to create a strategic vision and road map, build priority AI capabilities, and ensure operating model and change management are set up to drive adoption."
+    },
+    {
+      "question": "What is the potential impact of generative AI on telcos?",
+      "answer": "It could be the catalyst to reignite growth after a decade of stagnation."
+    },
+    {
+      "question": "What have some telcos experienced with the use of generative AI?",
+      "answer": "Significant double-digit percentage impact, such as a 40 percent increase in conversion rates for marketing campaigns and a 25 percent increase in call center agent productivity."
+    },
+    {
+      "question": "By how much did a European telco increase conversion rates for marketing campaigns using gen AI?",
+      "answer": "40 percent."
+    },
+    {
+      "question": "How long did it take for the two telcos mentioned to deploy gen AI models?",
+      "answer": "The first went live in two weeks, and the second in five weeks."
+    },
+    {
+      "question": "What is the estimated potential increase in returns on incremental margins for telcos using gen AI in five years?",
+      "answer": "8 to 10 percentage points."
+    },
+    {
+      "question": "What percentage of executives surveyed are cautious to attribute more than 20 percent revenue or cost savings impact by domain?",
+      "answer": "More than 85 percent."
+    },
+    {
+      "question": "What is required for telcos to seize the gen AI opportunity and achieve sustainable growth?",
+      "answer": "Embracing innovation, exploration, and agility at an unprecedented level and moving from decoupled AI efforts to a holistic, AI-native telco."
+    },
+    {
+      "question": "How many telco operators responded to the survey conducted from November 9, 2023, to December 6, 2023?",
+      "answer": "130."
+    },
+    {
+      "question": "When was the online survey conducted?",
+      "answer": "The online survey was conducted from November 9, 2023, to December 6, 2023."
+    },
+    {
+      "question": "How many telco operators responded to the survey?",
+      "answer": "The survey garnered responses from 130 telco operators."
+    },
+    {
+      "question": "What is the potential incremental value of generative AI in the telco industry?",
+      "answer": "Generative AI has the potential to unlock $100 billion in incremental value."
+    },
+    {
+      "question": "What are the domains where telcos have achieved cost reduction with generative AI?",
+      "answer": "Telcos have achieved cost reduction with generative AI in customer service, networks, IT, marketing and sales, and support functions."
+    },
+    {
+      "question": "What is the total AI economic potential in the global telecommunications industry?",
+      "answer": "The total AI economic potential is represented by the sum of the value of advanced analytics, traditional machine learning and deep learning, and new generative AI use cases, which totals to a range of $450-$680 billion for all worker productivity enabled by generative AI."
+    },
+    {
+      "question": "What is the potential total economic impact of generative AI on the global telecommunications industry?",
+      "answer": "The total AI economic potential is between $450\u2013680 billion."
+    },
+    {
+      "question": "What are the two business domains that account for the largest share of total impact from generative AI in telcos?",
+      "answer": "Customer service and marketing and sales."
+    },
+    {
+      "question": "How is a Latin American telco using generative AI to enhance its customer service?",
+      "answer": "The telco is enhancing its customer service AI chatbots to improve agent support and using gen AI to summarize voice and written client interactions."
+    },
+    {
+      "question": "What is the expected cost reduction from using generative AI to summarize voice and written client interactions for the Latin American telco?",
+      "answer": "Up to 80 percent."
+    },
+    {
+      "question": "How is a European telco using generative AI in marketing and sales?",
+      "answer": "The telco is using gen AI to identify new sales leads from customer calls and create personalized messages and visual media to target individual customer microsegments."
+    },
+    {
+      "question": "What was the conversion rate achieved by the European telco's pilot project using generative AI to identify new sales leads?",
+      "answer": "More than 10 percent."
+    },
+    {
+      "question": "What type of data is fed to a gen AI model for marketing purposes?",
+      "answer": "Standard marketing messages, customer data (including household details, type of phone they use, and where they live), and cognitive biases."
+    },
+    {
+      "question": "Which business domains are expected to have the largest share of total impact from gen AI?",
+      "answer": "Customer service and marketing and sales."
+    },
+    {
+      "question": "How is gen AI being used in network operations?",
+      "answer": "To optimize technology configurations, enhance labor productivity, extract customer insights from social media, and improve inventory and network planning and management."
+    },
+    {
+      "question": "What is an example of a telco using gen AI to accelerate network mapping?",
+      "answer": "Analyzing and structuring data about network components from supplier contracts to assess component compatibility and maintenance requirements."
+    },
+    {
+      "question": "How can gen AI improve software development?",
+      "answer": "By streamlining the entire software life cycle, generating and scanning code for vulnerabilities, and enabling software developers to complete coding tasks up to twice as fast."
+    },
+    {
+      "question": "What is the anticipated improvement in employee productivity for a European telco using gen AI?",
+      "answer": "30 percent."
+    },
+    {
+      "question": "How has a European telco utilized generative AI technology?",
+      "answer": "A European telco uses generative AI technology to shorten procurement analysis and negotiation strategy insights, reduce recruiting costs, improve employee productivity, and automate internal content generation."
+    },
+    {
+      "question": "What is the anticipated improvement in employee productivity due to the use of generative AI by the European telco?",
+      "answer": "The company anticipates that the use of generative AI will improve employee productivity by 30 percent."
+    },
+    {
+      "question": "What challenges do telcos face in implementing generative AI?",
+      "answer": "Telcos face challenges such as justifying use cases, finding appropriate talent, and obtaining quality data."
+    },
+    {
+      "question": "How do telco leaders plan to invest in generative AI in the next year?",
+      "answer": "Telco leaders plan to maintain or double their budgets for generative AI and invest in more than 50 dedicated full-time employees."
+    },
+    {
+      "question": "What is the trend in telco leaders' investment in data and analytics due to generative AI?",
+      "answer": "There is a 30-percentage-point increase in business leaders who want to invest in and focus more on data and analytics."
+    },
+    {
+      "question": "How are European telecom operators faring in the adoption of generative AI compared to their North American counterparts?",
+      "answer": "European telecom operators are pulling ahead of those in North America in their adoption of generative AI, especially in areas such as network operations and IT."
+    },
+    {
+      "question": "In which areas are European telecom operators leading North American operators in gen AI adoption?",
+      "answer": "Network operations and IT."
+    },
+    {
+      "question": "What percentage of European telecom operators are using gen AI in network operations compared to North American operators?",
+      "answer": "71 percent compared to 58 percent."
+    },
+    {
+      "question": "What are the core building blocks necessary for scaling gen AI technology?",
+      "answer": "A business-led roadmap, the right talent, an operating model for scale, technology built for speed and innovation, quality data that is easily accessible and managed in a responsible and accountable way, and change management to ensure adoption and scaling."
+    },
+    {
+      "question": "What are the three approaches telco leaders can take when building a gen AI roadmap?",
+      "answer": "Use a commercial, off-the-shelf solution (taker), fine-tune existing large language models with internal data (shaper), or build and train a new foundation model from scratch (maker)."
+    },
+    {
+      "question": "On what areas are small and large telecom operators focusing their gen AI use cases?",
+      "answer": "Customer service and IT in similar measure."
+    },
+    {
+      "question": "What are the three approaches telco leaders can take when building a road map for AI initiatives?",
+      "answer": "The 'taker,' 'shaper,' and 'maker' approach, which refer to using a commercial off-the-shelf solution, fine-tuning existing large language models with internal data, and building and training a new foundation model from scratch, respectively."
+    },
+    {
+      "question": "What percentage of surveyed telco leaders say they buy products off the shelf?",
+      "answer": "Only one-third."
+    },
+    {
+      "question": "What is recommended for telcos when implementing gen AI solutions that aren't very complex or telco specific?",
+      "answer": "Partnering with gen AI solution providers and enterprise software vendors."
+    },
+    {
+      "question": "What is required to capture the full potential of gen AI?",
+      "answer": "Significant upskilling of existing staff, including data scientists and business leaders, on gen AI."
+    },
+    {
+      "question": "How did a large telco ensure its teams had the right skills and capabilities to innovate and execute with gen AI technology?",
+      "answer": "By setting up internal certification and university-led training programs, and creating a badging system to identify gen-AI-ready employees."
+    },
+    {
+      "question": "What was the result for the telco that created a dedicated AI team compared to the one that continued offshoring and outsourcing tech talent?",
+      "answer": "The telco with a dedicated AI team was able to build and deploy four gen AI solutions in the time the other telco took to draft requirements for outsourcing gen AI use-case development."
+    },
+    {
+      "question": "How many gen AI solutions did the second telco build and deploy in the time the first telco took to draft requirements for outsourcing gen AI use-case development?",
+      "answer": "Four gen AI solutions."
+    },
+    {
+      "question": "What new skills are required to implement gen AI technology?",
+      "answer": "Gen AI prompt engineering, and significantly more data engineers and subject matter experts."
+    },
+    {
+      "question": "Why are telcos adopting more centralized decision making around gen AI development?",
+      "answer": "Because a significant portion of implemented gen AI solutions can be adapted and reused in multiple use cases."
+    },
+    {
+      "question": "What is the role of a 'control tower' in gen AI development?",
+      "answer": "To oversee all gen AI investments and development efforts, prioritize the use-case pipeline, identify opportunities for reusability, set key performance indicators, and manage suppliers and risk."
+    },
+    {
+      "question": "What dimensions does a European telco's control tower use to evaluate the effects of its gen AI transformation?",
+      "answer": "Financial impact, user adoption, and model performance."
+    },
+    {
+      "question": "What should a technology blueprint for gen AI include?",
+      "answer": "A framework for determining which large language models to use and when, how to scale a pilot, and a framework for determining which gen AI capabilities can be turned into ready-to-use modules."
+    },
+    {
+      "question": "What is the purpose of a gen AI blueprint in telcos?",
+      "answer": "To lay out how to scale a pilot and have a framework for determining which gen AI capabilities can be turned into ready-to-use modules."
+    },
+    {
+      "question": "Why do telcos need a dedicated gen AI innovation lab?",
+      "answer": "To keep abreast of industry changes and test emerging solutions as new gen AI research and capabilities are announced weekly and sometimes daily."
+    },
+    {
+      "question": "What is Large Language Model Operations (LLMOps)?",
+      "answer": "An emerging practice that aims to streamline the daily management and monitoring of gen AI models."
+    },
+    {
+      "question": "What is the role of a dedicated operations team in LLMOps?",
+      "answer": "To oversee all deployed gen AI models, continuously monitoring for issues and rapidly adapting solutions when needed."
+    },
+    {
+      "question": "How did a US telco improve its customer service agent copilot?",
+      "answer": "By gathering institutional knowledge from agent emails and interactions and creating synthetic data using a large language model to create sample customer questions and answers."
+    },
+    {
+      "question": "What is the goal of the customer service agent copilot developed by a US telco?",
+      "answer": "To reduce average resolution times by 40 percent across more than one million annual chats."
+    },
+    {
+      "question": "How do the company's data scientists enable the chatbot to learn from real situations and challenges?",
+      "answer": "By gathering institutional knowledge from agent emails and interactions."
+    },
+    {
+      "question": "What is used to create sample customer questions and answers for the chatbot?",
+      "answer": "A large language model to create synthetic data."
+    },
+    {
+      "question": "What new concerns come with the use of sophisticated data strategies and tactics?",
+      "answer": "Regulatory, intellectual property, and data privacy concerns."
+    },
+    {
+      "question": "How did a multinational telco hardware provider manage the data access process for gen AI use cases?",
+      "answer": "By creating a robust data access process where data owners, legal, and security experts validate each use case based on several criteria."
+    },
+    {
+      "question": "What was the result of a European telco's initial pilot of a gen-AI-driven knowledge 'expert' without process changes or employee education?",
+      "answer": "Just a 5 percent improvement in productivity."
+    },
+    {
+      "question": "What was the outcome after the European telco dedicated 90 percent of the budget to agent training and change management processes?",
+      "answer": "More than 30 percent productivity improvement."
+    },
+    {
+      "question": "What was the initial productivity improvement achieved by the telco pilot without process changes or employee education?",
+      "answer": "5 percent."
+    },
+    {
+      "question": "What percentage of the budget was dedicated to agent training and change management processes when scaling the solution?",
+      "answer": "90 percent."
+    },
+    {
+      "question": "What was the resulting productivity improvement after dedicating 90 percent of the budget to agent training and change management processes?",
+      "answer": "More than 30 percent."
+    },
+    {
+      "question": "What are some emerging capabilities expected in the next five years that will unlock more opportunities for telcos?",
+      "answer": "Significant improvements in natural language understanding, advances in human-like reasoning across multiple topics, and availability of real-time solutions with increased accuracy and fewer hallucinations."
+    },
+    {
+      "question": "How could gen AI potentially enhance network operations for telcos?",
+      "answer": "With AI copilots that evaluate images from technicians, provide accurate recommendations for remedies, and automatically initiate interventions or work orders."
+    },
+    {
+      "question": "What is required for telcos to successfully adopt gen AI and reverse their stagnant fortunes?",
+      "answer": "A culture of innovation and experimentation enabled by the core building blocks shared in the article."
+    },
+    {
+      "question": "What is the estimated impact of Generative AI on telecom operators according to McKinsey?",
+      "answer": "Between $60 billion and $100 billion."
+    },
+    {
+      "question": "What areas should a Generative AI implementation road map encompass for telcos?",
+      "answer": "Marketing and sales, customer experience (CX), customer service, IT, networks, and support functions."
+    },
+    {
+      "question": "What are the main building blocks for successful Generative AI implementation in telcos?",
+      "answer": "Governance, data, talent, and technologies."
+    },
+    {
+      "question": "What is the expected productivity gain in marketing functions due to Generative AI?",
+      "answer": "5\u201315%."
+    },
+    {
+      "question": "How will Generative AI affect sales according to the text?",
+      "answer": "Pre/post-sales activities will be AI-driven with enhanced lead generation and negotiation will be customized per customer and copiloted with gen AI to enhance customer experience (CX) and boost sales, with a 3\u20135% sales increase."
+    },
+    {
+      "question": "What is the potential productivity gain in IT due to Generative AI?",
+      "answer": "20\u201340%."
+    },
+    {
+      "question": "What is the expected impact of Gen AI on the telco industry?",
+      "answer": "Gen AI is poised to unlock new efficiencies, improving the way telecom operators attract customers, provide service, maintain networks, and develop software and systems, potentially reigniting growth after a long period of stagnation."
+    },
+    {
+      "question": "What are the predicted productivity gains in marketing functions due to Gen AI?",
+      "answer": "5\u201315% productivity gain in marketing functions."
+    },
+    {
+      "question": "How will Gen AI affect customer service in the telco industry?",
+      "answer": "Higher productivity as AI-assisted tools accelerate tech delivery timelines with code development copilots (25\u201330% reduction of time to market), automated documentation, automatic testing, and proactive recommendations, and up to 50% reduction in human-serviced contacts."
+    },
+    {
+      "question": "What is the expected reduction in function costs due to the use of chatbots in customer service?",
+      "answer": "30\u201335% reduction in function costs."
+    },
+    {
+      "question": "What is the recommended approach for telecom players to develop Gen AI use cases?",
+      "answer": "Telecom players should develop a comprehensive road map of Gen AI use cases across the organization."
+    },
+    {
+      "question": "What returns can early movers in Gen AI adoption expect?",
+      "answer": "Returns on incremental margins increasing three to four percentage points in two years and as much as eight to ten percentage points in five years."
+    },
+    {
+      "question": "What is the expected impact of Gen AI on telecom operators?",
+      "answer": "Gen AI is poised to unlock new efficiencies, improving the way telecom operators attract customers, provide service, maintain networks, and develop software and systems, potentially reigniting growth after a long period of stagnation."
+    },
+    {
+      "question": "What productivity gains are expected in marketing functions due to Gen AI?",
+      "answer": "5\u201315% productivity gain is expected in marketing functions."
+    },
+    {
+      "question": "How will Gen AI affect customer service in telecom operators?",
+      "answer": "Higher productivity is expected as AI-assisted tools accelerate tech delivery timelines with code development copilots, automated documentation, automatic testing, and proactive recommendations, leading to up to 50% reduction in human-serviced contacts."
+    },
+    {
+      "question": "What is the estimated return on investment for early movers in Gen AI?",
+      "answer": "Estimates indicate returns on incremental margins increasing three to four percentage points in two years and as much as eight to ten percentage points in five years."
+    },
+    {
+      "question": "What is the recommended step for telecom players to become AI-native?",
+      "answer": "Telecom players should develop a comprehensive road map of Gen AI use cases across the organization and identify use cases across the organization as the first step."
+    },
+    {
+      "question": "How can Gen AI boost sales?",
+      "answer": "Gen AI can boost sales by automatically producing personalized content."
+    },
+    {
+      "question": "What is the potential impact of hyperpersonalized content on conversion rate?",
+      "answer": "15\u201330% increase in conversion rate."
+    },
+    {
+      "question": "How does Gen AI enhance customer experience with product offers?",
+      "answer": "Gen AI enhances customer experience with custom product offers, generating new bundles for each customer, based on segment features and historical data."
+    },
+    {
+      "question": "What is the potential impact of intelligent content generation for marketing campaigns on conversion rate?",
+      "answer": "10% increase in conversion rate."
+    },
+    {
+      "question": "How does Gen AI support the work of call center agents?",
+      "answer": "Gen AI supports the work of agents by simplifying their access to relevant data, personalized recommendations, and best practices."
+    },
+    {
+      "question": "What is the potential impact of analyzing customer feedback using Gen AI on customer satisfaction?",
+      "answer": "10-point increase in customer satisfaction."
+    },
+    {
+      "question": "How can Gen AI optimize campaign investment?",
+      "answer": "Gen AI can optimize the investment mix of campaigns deployed, optimizing conversion rates."
+    },
+    {
+      "question": "What is the potential impact of optimizing campaign investment on leads, calls, and sales?",
+      "answer": "2\u20133% increase in leads, calls, and sales."
+    },
+    {
+      "question": "What is one of the capabilities of Gen AI in terms of content creation?",
+      "answer": "Automatically create marketing content, including images and videos, for ads, social media posts, landing pages, email campaigns, and other marketing channels."
+    },
+    {
+      "question": "How does Gen AI enhance customer experience?",
+      "answer": "Gen AI enhances customer experience with custom product offers, generating new bundles for each customer, based on segment features and historical data."
+    },
+    {
+      "question": "What is the potential impact of using Gen AI for hyperpersonalized text/email communications?",
+      "answer": "15\u201330% increase in conversion rate (CR)."
+    },
+    {
+      "question": "How can Gen AI be used in the context of customer feedback?",
+      "answer": "Gen AI enables the extraction of information from unstructured customer feedback sources (eg, call center, web forms, chatbots, etc) to generate insights and identify issues for further analysis and resolution."
+    },
+    {
+      "question": "What is one of the ways Gen AI can optimize call center efficiencies?",
+      "answer": "Gen AI supports the work of agents by simplifying their access to relevant data, personalized recommendations, and best practices."
+    },
+    {
+      "question": "What is the potential impact of using Gen AI for real-time translation of chatbot answers?",
+      "answer": "5\u201315% increase in productivity."
+    },
+    {
+      "question": "How can Gen AI be applied in the context of sales force upskilling?",
+      "answer": "Upskill sales force (eg, outbound call center sales teams, SME team) by extracting best practices for communication techniques, relationship-building strategies, and persuasive selling approaches."
+    },
+    {
+      "question": "What is the potential impact of using Gen AI for proactive root-cause analysis in customer service?",
+      "answer": "The text does not directly state the potential impact, but it mentions that it can 'enhance call center operations and improve overall customer experience'."
+    },
+    {
+      "question": "What is the potential impact of monitoring consumer sentiment by automatically analyzing social media posts on customer satisfaction?",
+      "answer": "10-point increase in customer satisfaction."
+    },
+    {
+      "question": "What is the potential impact of enhancing call center agent training on call reduction?",
+      "answer": "30\u201350% call reduction."
+    },
+    {
+      "question": "What is the potential cost savings in onboarding and training after enhancing call center agent training?",
+      "answer": "10\u201315% cost savings."
+    },
+    {
+      "question": "How does Gen AI enable after-call log-in automation?",
+      "answer": "Gen AI enables the extraction of information from unstructured data, automatically extrapolating pertinent information and updating the CRM system."
+    },
+    {
+      "question": "What is the potential impact of after-call log-in automation on after-call work (ACW)?",
+      "answer": "50\u201360% reduction in after-call work (ACW)."
+    },
+    {
+      "question": "How can Gen AI improve customer service chatbots?",
+      "answer": "Gen AI enables a 1:1 personalized chatbot experience that proposes an ad hoc solution path, leveraging the customer\u2019s existing information and history."
+    },
+    {
+      "question": "What is the purpose of a Gen-AI-driven customer interaction database?",
+      "answer": "To store relevant information related to each customer-agent interaction, including summaries of intent, outcome, and resolution path."
+    },
+    {
+      "question": "How can Gen AI boost network operations?",
+      "answer": "Gen AI\u2019s ability to act on unstructured data helps teams optimize network operations and reduce downtimes."
+    },
+    {
+      "question": "What is the future state of circuit inventory with Gen AI?",
+      "answer": "Use data from multiple sources to consolidate information and create a unified vision of end-to-end coverage of operator networks and add additional specifications."
+    },
+    {
+      "question": "What is the potential impact of using gen AI to optimize network operations in terms of reduction in customer care tickets?",
+      "answer": "6\u201312% reduction in customer care tickets."
+    },
+    {
+      "question": "How can gen AI assist in network outage resolution?",
+      "answer": "The system automatically runs a diagnostic analysis to identify root cause, helping network admins resolve the issue quickly."
+    },
+    {
+      "question": "What is the potential productivity increase for network employees when using gen AI?",
+      "answer": "10\u201315% increase in productivity of network employees."
+    },
+    {
+      "question": "What is the role of gen AI in code debugging and optimization?",
+      "answer": "Gen AI can accelerate tech delivery timelines with automated code development tools enabling low/no-code development and provide intelligent code suggestions and autocompletion capabilities."
+    },
+    {
+      "question": "What is the potential productivity gain for developers using GitHub Copilot?",
+      "answer": "25\u201330% increase in productivity."
+    },
+    {
+      "question": "How can gen AI assist in legacy code migration?",
+      "answer": "Gen AI can interpret, translate, and generate code, such as migration from legacy systems at scale, automating test development, generating documentation, and performing linting."
+    },
+    {
+      "question": "What is the potential impact of using gen AI for customer value management (CVM) team?",
+      "answer": "20\u201330% increase in productivity for CVM team."
+    },
+    {
+      "question": "What is the potential impact of using gen AI to optimize IT operations and streamline the software life cycle?",
+      "answer": "40\u201355% increase in productivity for code debugging and optimization, 25\u201330% increase in productivity for software development copilot, 20\u201330% increase in productivity for code migration for legacy languages, and 20\u201330% increase in productivity for query assistant."
+    },
+    {
+      "question": "What are some of the prioritized use cases for gen AI in IT operations?",
+      "answer": "Code debugging and optimization, software development copilot, code migration for legacy languages, and query assistant."
+    },
+    {
+      "question": "How can gen AI accelerate tech delivery timelines?",
+      "answer": "With automated code development tools enabling low/no-code development, such as natural-language coding, and automated code development via gen-AI-driven tools, such as GitHub Copilot."
+    },
+    {
+      "question": "What is the role of GitHub Copilot in software development?",
+      "answer": "GitHub Copilot offers intelligent code suggestions and autocompletion capabilities, debugging support, and documentation."
+    },
+    {
+      "question": "What is the telecom industry evolving towards?",
+      "answer": "Game-changing use cases, such as autonomous vehicles, robotic surgery, and seamless digital interactions, that operate on the back of telcos' substantial 5G infrastructure investments."
+    },
+    {
+      "question": "What is driving the telecom industry's evolution?",
+      "answer": "Businesses and consumers seeking out game-changing use cases that operate on the back of telcos' substantial 5G infrastructure investments."
+    },
+    {
+      "question": "What is pushing the telecom industry to rethink the scope of its transformation plans?",
+      "answer": "Ongoing excitement about the potential of AI, driven by advances in generative AI."
+    },
+    {
+      "question": "What is expected to happen to the demand for certain tech roles across US industries over the next decade?",
+      "answer": "Demand is expected to further increase 20 to 30 percent."
+    },
+    {
+      "question": "How is the demand for electrical engineers expected to grow in telcos compared to other sectors by 2031?",
+      "answer": "Telcos' demand for electrical engineers is expected to grow 24.4 percent, compared with 5.9 percent in other sectors."
+    },
+    {
+      "question": "What do McKinsey research findings suggest about diverse organizations?",
+      "answer": "Diverse organizations increasingly outperform their nondiverse peers."
+    },
+    {
+      "question": "What is the current state of telcos' tech talent pools in terms of diversity compared to their overall talent pools?",
+      "answer": "Telcos' current tech talent pools tend to be less diverse than their overall talent pools."
+    },
+    {
+      "question": "By 2031, what is the expected growth rate of telcos' demand for electrical engineers compared to other sectors?",
+      "answer": "Telcos' demand for electrical engineers is expected to grow 24.4 percent, compared with 5.9 percent in other sectors."
+    },
+    {
+      "question": "What is the projected number of connected devices by 2025?",
+      "answer": "The number of connected devices is projected to grow to 51.9 billion by 2025, up from 43 billion in 2020."
+    },
+    {
+      "question": "What percentage of Americans are working from home at least one day a week?",
+      "answer": "51 percent of Americans are working from home at least one day a week."
+    },
+    {
+      "question": "What is the estimated expansion of connectivity to the global population by 2030 due to 5G and 6G?",
+      "answer": "5G and 6G are estimated to expand connectivity to up to 80 percent of the global population by 2030."
+    },
+    {
+      "question": "What type of skills will telcos need to meet the demand for connectivity?",
+      "answer": "Telcos will need talent with skills in network and spectrum design, network engineering, network innovation, network maintenance monitoring, and IoT."
+    },
+    {
+      "question": "What type of engineering and operational capabilities will likely no longer be needed due to legacy technologies?",
+      "answer": "Engineering and operational capabilities specific to legacy technologies, such as digital subscriber line (DSL), 2G and 3G cellular networks, and traditional cable TV infrastructure, will likely no longer be needed."
+    },
+    {
+      "question": "What percentage of Americans work from home at least one day a week?",
+      "answer": "51 percent."
+    },
+    {
+      "question": "What is the estimated expansion of connectivity to the global population by 2030 due to 5G and 6G?",
+      "answer": "Up to 80 percent."
+    },
+    {
+      "question": "What is the primary goal of telcos in adopting edge computing, according to a McKinsey survey?",
+      "answer": "Improving network efficiency and performance."
+    },
+    {
+      "question": "What percentage of telco executives surveyed by McKinsey are already deploying edge computing or actively planning to scale it?",
+      "answer": "A quarter."
+    },
+    {
+      "question": "What skills will be required for telco talent to meet the demands of expanded connectivity and edge computing?",
+      "answer": "Skills in network and spectrum design, network engineering, network innovation, network maintenance, IoT, database management, and security."
+    },
+    {
+      "question": "What is the impact of the rise of cloud-based solutions, automation, and managed services on on-site IT setup and maintenance roles?",
+      "answer": "It will reduce demand for these roles."
+    },
+    {
+      "question": "What are the three technologies that characterize next-generation transportation?",
+      "answer": "Autonomous, connected, electric, and smart technologies."
+    },
+    {
+      "question": "What is the primary goal of more than half of the executives surveyed?",
+      "answer": "Improving network efficiency and performance."
+    },
+    {
+      "question": "What will telcos face as they adopt edge computing?",
+      "answer": "Rising costs from energy consumption, network maintenance, and investments associated with reconfiguring network backhaul and backbone."
+    },
+    {
+      "question": "What kind of talent will telcos need to adopt edge computing?",
+      "answer": "Talent with skills in network and system design, network engineering, network innovation, network maintenance, database management, and security."
+    },
+    {
+      "question": "What is the impact of the rise of cloud-based solutions, automation, and managed services on IT setup and maintenance roles?",
+      "answer": "It will reduce demand for on-site IT setup and maintenance roles."
+    },
+    {
+      "question": "What are the implications of next-generation transportation for the transportation industry?",
+      "answer": "The industry will prioritize electric, hydrogen-based, and hybrid propulsion, and may allow businesses to expand their markets, reaching new customer segments."
+    },
+    {
+      "question": "What will telcos need to do to support the evolution of transportation?",
+      "answer": "Increase bandwidth for mobility, particularly in remote areas, and provide flawless emergency backup coverage."
+    },
+    {
+      "question": "What kind of talent will telcos need to support next-generation transportation?",
+      "answer": "Talent with skills in network design, network engineering, innovation, and maintenance, automation, IoT architecture, UX design, and data science."
+    },
+    {
+      "question": "What is xRAN and what benefits can it bring to telcos?",
+      "answer": "xRAN includes new approaches to RAN such as open RAN, centralized RAN, and virtualized RAN, and can bring flexibility, reduce physical-asset requirements, cut capital and operational spending, and accelerate the deployment of new network services."
+    },
+    {
+      "question": "What may allow businesses to expand their markets and reach new customer segments in previously unserviceable locations?",
+      "answer": "An expected rise in data traffic and autonomous-landing applications."
+    },
+    {
+      "question": "What will telcos need to increase for mobility, particularly in remote areas?",
+      "answer": "Bandwidth."
+    },
+    {
+      "question": "What is 'vehicle to everything' (V2X) technology?",
+      "answer": "A technology that allows vehicles to connect with their surroundings, including other vehicles and human drivers."
+    },
+    {
+      "question": "What skills will telcos need to develop algorithms for vehicle connectivity?",
+      "answer": "Network design skills."
+    },
+    {
+      "question": "What are the new approaches to RAN that can bring flexibility to telcos' relationship with OEMs?",
+      "answer": "xRAN, including open RAN (ORAN), centralized RAN (CRAN), and virtualized RAN (VRAN)."
+    },
+    {
+      "question": "What percentage of telco executives plan to invest in ORAN?",
+      "answer": "76 percent of executives at incumbent telcos and 88 percent of executives at new entrants."
+    },
+    {
+      "question": "What skills will telcos need to accomplish the transition to xRAN?",
+      "answer": "Talent skilled in agile working, data engineering, cloud, product management, and DevOps."
+    },
+    {
+      "question": "Why will xRAN improve telcos' total cost of ownership?",
+      "answer": "By allowing them to choose different suppliers for different needs."
+    },
+    {
+      "question": "What will become more prevalent as companies seek to gain a competitive edge by establishing stakeholders' trust?",
+      "answer": "Zero trust architecture, digital identity, and privacy engineering."
+    },
+    {
+      "question": "What percentage of executives plan to use ORAN for at least 20 to 30 percent of new network build-outs?",
+      "answer": "60 percent."
+    },
+    {
+      "question": "What skills will telcos need to accomplish their ORAN plans?",
+      "answer": "Talent skilled in agile working, data engineering, cloud, product management, and DevOps."
+    },
+    {
+      "question": "What will be the impact of xRAN on telcos' total cost of ownership?",
+      "answer": "xRAN has the potential to improve telcos' total cost of ownership by allowing them to choose different suppliers for different needs."
+    },
+    {
+      "question": "What skills will telcos need to realize the potential of xRAN and digital identity?",
+      "answer": "Talent with skills in digital identity development, cybersecurity solution architecture and engineering, automation, privacy engineering, network engineering, network maintenance, and DevOps."
+    },
+    {
+      "question": "How can telcos use AI to optimize their networks?",
+      "answer": "Telcos can use AI to optimize networks by managing resources based on real-time traffic and data analysis."
+    },
+    {
+      "question": "What skills will telcos need to maximize the AI opportunity?",
+      "answer": "Talent with skills in interface design, natural language processing engineering, data engineering, data science, and security."
+    },
+    {
+      "question": "How can telcos reduce the costs associated with network infrastructure management?",
+      "answer": "By coupling AI-powered cameras and sensors with AI-enabled network maintenance automation."
+    },
+    {
+      "question": "What is one way generative AI can transform customer experience?",
+      "answer": "By supplying customers with highly personalized content, offers, and proactive service-related outreach based on usage patterns, purchase history, and other considerations."
+    },
+    {
+      "question": "What percentage of telco executives believe that quantum technology will be a differentiating advantage in the next five years?",
+      "answer": "52 percent, with an additional 32 percent saying they somewhat agree with this assessment."
+    },
+    {
+      "question": "What is the highest strategic value seen by executives in developing quantum technology?",
+      "answer": "Developing quantum key distribution (QKD) networks, which allow for the secure exchange of cryptographic keys."
+    },
+    {
+      "question": "Why are organizations concerned about 'harvest now, decrypt later' attacks?",
+      "answer": "Because bad actors steal encrypted data in hopes of using quantum computers to decrypt it in the future."
+    },
+    {
+      "question": "What talent will telcos need to maximize the AI opportunity?",
+      "answer": "Talent with skills in interface design, natural language processing engineering, data engineering, data science, and security."
+    },
+    {
+      "question": "What is the potential impact of quantum computing on conventional encryption methods?",
+      "answer": "It will put them at risk by opening new attack vectors."
+    },
+    {
+      "question": "What type of attacks are organizations concerned about, where bad actors steal encrypted data to decrypt it in the future using quantum computers?",
+      "answer": "\u201cHarvest now, decrypt later\u201d attacks."
+    },
+    {
+      "question": "How can telcos combat sophisticated threats using quantum technology?",
+      "answer": "By using tools like QKD (Quantum Key Distribution), which alerts communicating parties to any eavesdropping attempts on encrypted exchanges."
+    },
+    {
+      "question": "What is required for telcos to move beyond internal discussions and test-and-learn pilots on quantum technology?",
+      "answer": "Talent with expertise in quantum technology, high-performance computing, software and hardware security, network engineering, and product management."
+    },
+    {
+      "question": "What is the first phase in developing a telco talent road map?",
+      "answer": "Identifying the talent implications of business strategy."
+    },
+    {
+      "question": "How can telcos start the process of getting the right tech talent in place?",
+      "answer": "By defining their vision for business success over the next three to five years and conducting thorough business impact assessments of the seven tech trends."
+    },
+    {
+      "question": "Why might a telco aiming to boost its B2B leadership invest heavily in edge computing and quantum technology?",
+      "answer": "Because these technologies enable faster data processing and secure communications, which are particularly attractive to business clients."
+    },
+    {
+      "question": "Which technology trend might a telco focusing on global reach and seamless connectivity deprioritize?",
+      "answer": "Quantum technology, if it does not immediately contribute to expanded network coverage."
+    },
+    {
+      "question": "What might a telco aiming to boost its B2B leadership invest heavily in?",
+      "answer": "Edge computing and quantum technology."
+    },
+    {
+      "question": "Why might a telco prioritize AI?",
+      "answer": "To enhance customer engagement and customer service through personalized offerings, automated responses, and proactive outreach."
+    },
+    {
+      "question": "What might a telco focusing on global reach and seamless connectivity prioritize?",
+      "answer": "Ever-expanding connectivity by investing heavily in 6G."
+    },
+    {
+      "question": "What is the primary goal of a telco that prioritizes xRAN?",
+      "answer": "To increase network flexibility while reducing costs."
+    },
+    {
+      "question": "What questions might telcos consider when determining which talent pools to prioritize?",
+      "answer": "What is the business value at risk if we don\u2019t secure this talent pool? How scarce is the market for this type of talent? How difficult is it to upskill existing or readily available talent to fill this gap? How demographically diverse are the traditional sources for this talent pool?"
+    },
+    {
+      "question": "What might a telco looking to position itself as a technology pioneer prioritize?",
+      "answer": "Quantum technology."
+    },
+    {
+      "question": "What are the key enablers for a comprehensive talent strategy?",
+      "answer": "Flexible work arrangements, learning and development platforms, and talent management solutions that span the employee life cycle."
+    },
+    {
+      "question": "What is the third phase of the process for telcos to manage tech talent?",
+      "answer": "Design tech talent strategy and operating model."
+    },
+    {
+      "question": "What is the current state of tech unemployment in the United States?",
+      "answer": "Tech unemployment in the United States is 2.1 percent."
+    },
+    {
+      "question": "How long did it take for US tech sector workers who were laid off in 2022 to find a new job?",
+      "answer": "Close to three-quarters of US tech sector workers who were laid off in 2022 found a job within three months."
+    },
+    {
+      "question": "What percentage of computer science graduates in the US are women?",
+      "answer": "21 percent of those graduating with a bachelor\u2019s degree in computer science in the US are women."
+    },
+    {
+      "question": "What do digital talents prioritize when it comes to career development?",
+      "answer": "Digital talent places a premium on career development and advancement potential\u2014prioritizing these on par with compensation."
+    },
+    {
+      "question": "What are the three phases mentioned for telcos to manage tech talent?",
+      "answer": "The three phases are: Phase two: Assess talent gaps and define talent priorities, Phase three: Design tech talent strategy and operating model. Although not directly stated, it can be inferred that there is a Phase one, but the text only provides 'Over time, they can adjust and expand into other talent pools' as a preceding statement."
+    },
+    {
+      "question": "What is included in a comprehensive talent strategy for telcos?",
+      "answer": "A comprehensive talent strategy should include a portfolio of innovative initiatives to hire, train, and retain tech talent, as well as outline the necessary infrastructure and other enablers."
+    },
+    {
+      "question": "What kind of work arrangements and platforms are considered key enablers for tech talent?",
+      "answer": "Key enablers include flexible work arrangements, learning and development platforms that function as hubs for training resources and online courses, and talent management solutions that span the employee life cycle."
+    },
+    {
+      "question": "What do tech talents value besides career development and compensation?",
+      "answer": "Tech talent values purpose and meaningful work."
+    },
+    {
+      "question": "What do tech workers crave in terms of learning and development opportunities?",
+      "answer": "Tech workers crave opportunities to learn from experts and peers and to build skills by rotating among different projects and teams."
+    },
+    {
+      "question": "What do tech talents value besides skill development?",
+      "answer": "Tech talent values purpose and meaningful work, and wants to understand how their tasks support the mission of the broader organization."
+    },
+    {
+      "question": "How are leading organizations reimagining their work with universities?",
+      "answer": "Leading organizations are establishing durable pipelines designed with their specific talent and diversity needs in mind, moving beyond discrete internship programs and transactional recruiting efforts."
+    },
+    {
+      "question": "What do detailed models used by leading operators assess when identifying target universities for partnerships?",
+      "answer": "These models assess universities' ability to deliver high-quality, diverse talent, and the operator's ability to compete with other companies for talent at each university."
+    },
+    {
+      "question": "What are some examples of holistic university partnerships?",
+      "answer": "Examples include Qualcomm's investment in University of California San Diego, Apple's HBCU C2 initiative with Tennessee State University, and Lockheed Martin's partnership with University of Colorado Boulder."
+    },
+    {
+      "question": "What is the purpose of tech talent consortiums?",
+      "answer": "Tech talent consortiums provide learners of all ages and backgrounds with skill-building opportunities, and are promising models for collaboration among businesses, government agencies, and other players."
+    },
+    {
+      "question": "What is the National GEM Consortium (GEM), and what does it do?",
+      "answer": "GEM recruits demographically diverse students interested in pursuing graduate-level degrees in applied science and engineering, and matches them with member companies in need of their skills, providing stipends and paid summer work experiences."
+    },
+    {
+      "question": "What is the purpose of tech talent consortiums?",
+      "answer": "They provide learners of all ages and backgrounds with skill-building opportunities."
+    },
+    {
+      "question": "What is the National GEM Consortium (GEM)?",
+      "answer": "It recruits demographically diverse students interested in pursuing graduate-level degrees in applied science and engineering and matches them with member companies in need of their skills."
+    },
+    {
+      "question": "What benefits do GEM fellows receive?",
+      "answer": "They receive stipends and paid summer work experiences with companies including Amazon, Meta, Ford, and Tesla."
+    },
+    {
+      "question": "Why is talent strategy critical for telcos' future success?",
+      "answer": "Because multiple elements will need to fall into place for telcos to make the most of emerging technologies, and talent strategy is a critical part of the equation."
+    },
+    {
+      "question": "What is the potential impact of gen AI on business activities?",
+      "answer": "Gen AI could enable automation of up to 70 percent of business activities, across almost all occupations, between now and 2030."
+    },
+    {
+      "question": "How is gen AI being integrated into everyday work?",
+      "answer": "It is being embedded in everyday tools, like email, word processing applications, and meeting software."
+    },
+    {
+      "question": "According to McKinsey research, what percentage of business activities could be automated by 2030 due to gen AI?",
+      "answer": "Up to 70 percent."
+    },
+    {
+      "question": "What is the potential impact of gen AI on the global economy?",
+      "answer": "Adding trillions of dollars in value."
+    },
+    {
+      "question": "What is the current stage of gen AI development and usage?",
+      "answer": "Only in its nascent stages."
+    },
+    {
+      "question": "What is the central task for senior leaders regarding gen AI?",
+      "answer": "To demystify the technology for others."
+    },
+    {
+      "question": "How might gen AI affect employees' fears about their jobs?",
+      "answer": "Senior leaders could counter employees' prevailing fears of 'replacement and loss' with messaging about gen AI's potential for 'augmentation and improvement'."
+    },
+    {
+      "question": "What is the expected impact of gen AI on professions traditionally requiring higher levels of education?",
+      "answer": "Gen AI will have an especially profound effect on them."
+    },
+    {
+      "question": "By when could about half of today's business activities be automated due to gen AI, according to McKinsey research?",
+      "answer": "A decade earlier than previous estimates had projected."
+    },
+    {
+      "question": "What type of professions will be especially affected by gen AI?",
+      "answer": "Professions traditionally requiring higher levels of education, such as educators and lawyers."
+    },
+    {
+      "question": "What are the organization-wide implications of gen AI?",
+      "answer": "Leaders should consider all the primary, secondary, and even tertiary effects of gen AI, including business use cases, required changes at a functional level, and potential disruptions to industries or business models."
+    },
+    {
+      "question": "How can gen AI applications impact corporate culture?",
+      "answer": "Gen AI applications can create more organizational transparency and connectivity, and can be a catalyst for culture change."
+    },
+    {
+      "question": "What cultural traits are important for organizations to become truly enabled by gen AI?",
+      "answer": "Traits such as adaptability, speed, agility, trust, integrity, learning and experimentation, innovation, and a willingness to change."
+    },
+    {
+      "question": "What was the biggest obstacle to digital success according to previous McKinsey Digital surveys?",
+      "answer": "A culture that was averse to risk and experimentation."
+    },
+    {
+      "question": "What should leaders consider when thinking about talent management approaches in the context of gen AI?",
+      "answer": "Leaders should consider how gen AI applications will have unprecedented effects on organizations' approaches to talent management."
+    },
+    {
+      "question": "What type of professions will be especially affected by gen AI?",
+      "answer": "Professions traditionally requiring higher levels of education, such as educators and lawyers."
+    },
+    {
+      "question": "What are the organization-wide implications of gen AI?",
+      "answer": "Leaders should consider all the primary, secondary, and even tertiary effects of gen AI, including business use cases, required changes at a functional level, and potential disruptions to industries or business models."
+    },
+    {
+      "question": "How can gen AI applications impact corporate culture?",
+      "answer": "Gen AI applications can create more organizational transparency and connectivity, and can be a catalyst for culture change."
+    },
+    {
+      "question": "What cultural traits are important for organizations to become truly enabled by gen AI?",
+      "answer": "Traits such as adaptability, speed, agility, trust, integrity, learning and experimentation, innovation, and a willingness to change."
+    },
+    {
+      "question": "What was the biggest obstacle to digital success according to previous McKinsey Digital surveys?",
+      "answer": "A culture that was averse to risk and experimentation."
+    },
+    {
+      "question": "How will gen AI applications affect organizations' approaches to talent management?",
+      "answer": "Gen AI applications will have unprecedented effects on organizations' approaches to talent management."
+    },
+    {
+      "question": "What cultural traits are crucial for organizational success with gen AI?",
+      "answer": "adaptability, speed, agility, trust, integrity, learning and experimentation, innovation, and a willingness to change"
+    },
+    {
+      "question": "What did the 2023 McKinsey Digital survey find regarding organizations with strong, innovative cultures?",
+      "answer": "a significant synergy between organizations with strong, innovative cultures and their ability to increase value through new digital technologies, including gen AI"
+    },
+    {
+      "question": "What was the biggest obstacle to digital success according to previous McKinsey surveys?",
+      "answer": "a culture that was averse to risk and experimentation"
+    },
+    {
+      "question": "What type of talent will be in high demand due to gen AI?",
+      "answer": "those who have mastered working with and alongside gen AI, especially those who build and engineer gen AI tools and those who are in the business of generating content via gen AI (creators)"
+    },
+    {
+      "question": "What steps should business leaders take to speed up the search for tech talent?",
+      "answer": "first identify the types of gen AI applications they need to build, then use those insights to identify the type and amount of tech talent they will need in the short term\u2014and how to retain that talent for the longer term"
+    },
+    {
+      "question": "What types of roles will organizations need to create value from gen AI?",
+      "answer": "engineering and software development talent, as well as translator roles\u2014including implementation coaches, educators, and trainers"
+    },
+    {
+      "question": "Why must applications be continuously updated?",
+      "answer": "Applications must be continuously updated or risk losing utility."
+    },
+    {
+      "question": "What type of talent will organizations need to create value from gen AI?",
+      "answer": "Organizations will need engineering and software development talent, as well as translator roles, including implementation coaches, educators, and trainers."
+    },
+    {
+      "question": "What are the top factors technology professionals consider when evaluating a job opportunity?",
+      "answer": "Opportunities for career development, the potential for advancement, and compensation are the top factors technology professionals consider."
+    },
+    {
+      "question": "What programs can senior leaders explore to retain top tech talent?",
+      "answer": "Senior leaders can explore programs such as peer-to-peer learning, functional rotations, and upskilling to retain top tech talent."
+    },
+    {
+      "question": "What are some risks associated with gen AI applications?",
+      "answer": "Some risks associated with gen AI applications include concerns about biases that may be built into the applications, questions about the reliability of gen AI models, and the potential for intellectual property to be inadvertently exposed."
+    },
+    {
+      "question": "Why is it important for business leaders to anticipate potential responses to gen AI risks?",
+      "answer": "It's the only way to maintain trust with and among employees, investors, and customers."
+    },
+    {
+      "question": "What are some risks associated with gen AI applications?",
+      "answer": "Concerns about biases that may be built into gen AI applications, which could negatively affect specific groups in an organization, and reliability of gen AI models, which can produce different answers to the same prompts and present \u201challucinations\u201d as compelling facts."
+    },
+    {
+      "question": "How could bad actors use gen AI models?",
+      "answer": "Bad actors could plug sensitive customer, supplier, or employee data into a gen AI model to create disinformation, deepfakes, and other types of malicious content."
+    },
+    {
+      "question": "What role will organizations need to take in regards to gen AI?",
+      "answer": "Organizations will need to take a proactive role in educating regulators about the business uses of gen AI and engaging with standards bodies to ensure a safe and competitive future with the technology."
+    },
+    {
+      "question": "How can gen AI be used to support employee learning?",
+      "answer": "New employees can use gen AI to go through training on a new technology, at their own pace, on their own terms, allowing them to increase the extent and speed of their learning. Instructors may also use a gen-AI-enabled \u201cteaching assistant\u201d app to create engaging training modules and track progress."
+    },
+    {
+      "question": "What is recommended for work processes when implementing gen AI?",
+      "answer": "Work processes should enable short, quick cycles of experimentation and iteration and high-quality feedback loops among employees, leaders, and the gen AI applications themselves."
+    },
+    {
+      "question": "What type of teams are recommended for gen AI projects?",
+      "answer": "Small cross-functional teams working end to end on projects and initiatives."
+    },
+    {
+      "question": "What is the key factor that should remain at the center of discussions according to the text?",
+      "answer": "Value creation."
+    },
+    {
+      "question": "How can gen AI applications assist employees?",
+      "answer": "Gen AI applications can assist employees by suggesting new lines of code, outlining different versions of a marketing campaign, creating first drafts, and facilitating the training and upskilling process."
+    },
+    {
+      "question": "What was the result of a recent study on software engineers using gen AI?",
+      "answer": "Software engineers completed their coding tasks up to twice as fast and reported more satisfaction with the process."
+    },
+    {
+      "question": "How can gen AI benefit middle managers?",
+      "answer": "Gen AI can empower middle managers by freeing up more capacity for higher-value leadership tasks, such as strategy-focused work and people management."
+    },
+    {
+      "question": "What opportunity does the emergence of gen AI present for organizations?",
+      "answer": "The emergence of gen AI presents an opportunity for organizations to reinvent their talent management practices, particularly in attracting, retaining, and developing talent."
+    },
+    {
+      "question": "What is suggested for work processes to be effective with gen AI?",
+      "answer": "Work processes should enable short, quick cycles of experimentation and iteration and high-quality feedback loops among employees, leaders, and gen AI applications."
+    },
+    {
+      "question": "How can gen AI be used by HR professionals?",
+      "answer": "HR professionals could use gen AI to send personalized outreach emails to candidates and to design job search experiences for candidates in underrepresented groups."
+    },
+    {
+      "question": "What role do middle managers play in increasing employees' comfort with gen AI?",
+      "answer": "Middle managers have a critical role to play in increasing employees' comfort with both short-term gen-AI-enabled work and long-term collaborations with the technology."
+    },
+    {
+      "question": "How can the use of gen AI benefit middle managers?",
+      "answer": "The use of gen AI can free up more capacity for middle managers, so they can shift their attention to higher-value leadership tasks, such as strategy-focused work and people management."
+    },
+    {
+      "question": "How can gen AI help organizations with talent management practices?",
+      "answer": "Gen AI presents an opportunity for organizations to hone their approaches to attracting, retaining, and developing talent, particularly when it comes to creators and tech professionals."
+    },
+    {
+      "question": "What is one way HR professionals can use gen AI to improve talent management?",
+      "answer": "HR professionals could use gen AI to send personalized outreach emails to candidates and to design job search experiences for candidates in underrepresented groups."
+    },
+    {
+      "question": "What is the dual responsibility of senior leaders regarding gen AI?",
+      "answer": "Senior leaders face the dual responsibility of quickly implementing gen AI today and anticipating future versions of gen AI technologies and their implications."
+    },
+    {
+      "question": "How can senior leaders encourage the development and adoption of gen AI?",
+      "answer": "Senior leaders will need to be evangelists for gen AI, working with other business unit and technology leaders to allocate resources to update technology infrastructure and facilitate the gen AI rollout."
+    },
+    {
+      "question": "What should senior leaders communicate clearly about when introducing gen AI?",
+      "answer": "Senior leaders should speak clearly about the business objectives of gen AI, communicating early and often about gen AI's role in 'augmenting versus replacing' jobs."
+    },
+    {
+      "question": "Why is it difficult for senior leaders to make a case for a gen-AI-enabled future if they don't understand the technology?",
+      "answer": "It will be more difficult to make this case for, and lead their teams into, a gen-AI-enabled future."
+    },
+    {
+      "question": "How can senior leaders stay updated on advances in AI technology and applications?",
+      "answer": "One way is to establish forums that provide ongoing professional education on advances in AI technology and applications."
+    },
+    {
+      "question": "What are the three steps that leaders can take to capture early gains and stay ahead of competitors in introducing gen AI in their organizations?",
+      "answer": "Demystify gen AI for everyone, Identify two or three high-impact use cases\u2014and just get started, and implicitly a third step is to set up a sustainable engine for the rapid upskilling of employees and scaling of gen AI and other digital capabilities."
+    },
+    {
+      "question": "Why should senior leaders develop a deep understanding of gen AI and associated capabilities?",
+      "answer": "So they can help to demystify the technology for the rest of the organization."
+    },
+    {
+      "question": "What should senior leaders consider when vetting gen AI pilots?",
+      "answer": "The business or industry risks or opportunities associated with implementing the gen AI pilot, as well as how hard or easy it will be to move the pilot into production and make it a part of employees\u2019 day-to-day experiences."
+    },
+    {
+      "question": "What is the estimated annual economic benefit of generative AI across 63 use cases?",
+      "answer": "$2.6 trillion to $4.4 trillion."
+    },
+    {
+      "question": "What percentage of leading organizations note that managing data is a top challenge preventing them from scaling AI use cases?",
+      "answer": "72 percent."
+    },
+    {
+      "question": "What is considered a determining factor in what's possible with generative AI?",
+      "answer": "Data and its underlying foundations."
+    },
+    {
+      "question": "What should senior leaders do after vetting gen AI initiatives?",
+      "answer": "Steer resources accordingly and monitor and measure the outputs from gen AI initiatives and pilots."
+    },
+    {
+      "question": "Why is upskilling programs important for employees in the context of gen AI?",
+      "answer": "Employees will need to learn to manage and work with gen AI tools that are themselves ever evolving."
+    },
+    {
+      "question": "What is the estimated annual economic benefit of generative AI across 63 use cases?",
+      "answer": "$2.6 trillion to $4.4 trillion."
+    },
+    {
+      "question": "What percentage of leading organizations note that managing data is a top challenge preventing them from scaling AI use cases?",
+      "answer": "72 percent."
+    },
+    {
+      "question": "What is the first action that data leaders should consider when moving from experimentation to scale with generative AI?",
+      "answer": "Let value be your guide."
+    },
+    {
+      "question": "What are the three business archetypes related to generative AI mentioned in the text?",
+      "answer": "Taker, Shaper, and Maker."
+    },
+    {
+      "question": "What is the role of a CDO in a 'Taker' business regarding generative AI?",
+      "answer": "To focus on making quality data available for generative AI models and subsequently validating the outputs."
+    },
+    {
+      "question": "How many clients has the author worked with on large generative AI data programs?",
+      "answer": "More than a dozen."
+    },
+    {
+      "question": "What is the seventh action that data leaders should consider when scaling generative AI?",
+      "answer": "Track rigorously and intervene quickly."
+    },
+    {
+      "question": "What is the main role of the CDO in supporting the Shaper approach to generative AI?",
+      "answer": "The CDO has the biggest role to play in supporting the Shaper approach, which involves assessing how the business's data management needs to evolve and what changes to the data architecture are needed to enable the desired outputs."
+    },
+    {
+      "question": "What are the three approaches to generative AI mentioned in the text?",
+      "answer": "The three approaches are: Shaper, Maker, and Taker. Shaper involves accessing models and fine-tuning them on the business's own data, Maker involves building its own foundational models, and Taker involves accessing commoditized capabilities."
+    },
+    {
+      "question": "What is required for hyperpersonalization, a promising generative AI use case?",
+      "answer": "Hyperpersonalization requires clean customer data, strong guardrails for data protection, and pipelines to access multiple data sources."
+    },
+    {
+      "question": "Why is it a red flag if CDOs spend 90 percent of their time on initiatives related to generative AI?",
+      "answer": "It's a red flag because generative AI is just one part of the broader data portfolio, and much of the potential value to a business comes from traditional AI, business intelligence, and machine learning (ML)."
+    },
+    {
+      "question": "What is the significant shift in data organizations due to generative AI?",
+      "answer": "The significant shift is that generative AI's ability to work with unstructured data, such as chats, videos, and code, has gotten much bigger in terms of scope of value."
+    },
+    {
+      "question": "What are the two clear priorities for a CDO who wants to move beyond the basic Taker archetype?",
+      "answer": "The first is to fix the data architecture's foundations, and the second is to determine which upgrades to the data architecture are needed to fulfill the requirements of high-value use cases."
+    },
+    {
+      "question": "Why is it necessary to fix the data architecture's foundations?",
+      "answer": "Because the cracks in the system a business could get away with before will become big problems with generative AI, and many of the advantages of generative AI will simply not be possible without a strong data foundation."
+    },
+    {
+      "question": "What are the five key components of the data architecture that CDOs need to prioritize as part of the enterprise tech stack?",
+      "answer": "Unstructured data stores, data preprocessing, vector databases, LLM integrations, and other related components mentioned in Exhibit 2."
+    },
+    {
+      "question": "Why are unstructured data stores necessary for generative AI?",
+      "answer": "Because large language models (LLMs) primarily work with unstructured data for most use cases, and data leaders need to map out all unstructured data sources and establish metadata tagging standards."
+    },
+    {
+      "question": "What is the purpose of vector databases in generative AI?",
+      "answer": "To prioritize content and create 'embeddings' (numerical representations of text meanings) to streamline access to context, allowing generative AI models to access just the most relevant information."
+    },
+    {
+      "question": "What type of databases can companies often use to start working with generative AI instead of building vector databases?",
+      "answer": "Existing NoSQL databases."
+    },
+    {
+      "question": "What is required within the existing data architecture to enable generative AI?",
+      "answer": "Upgrades."
+    },
+    {
+      "question": "What are some examples of frameworks that can help facilitate integrations with multiple systems for LLMs?",
+      "answer": "LangChain, Semantic Kernel for Azure, Bedrock for AWS, or Vertex AI for Google Cloud."
+    },
+    {
+      "question": "What is the role of CDOs in managing the integration of knowledge graphs or data models and ontologies into the prompt?",
+      "answer": "CDOs need to manage integration of knowledge graphs or data models and ontologies into the prompt to improve output."
+    },
+    {
+      "question": "Why do CDOs need to set standards and prequalify sources for data repositories across the business?",
+      "answer": "To ensure the data that is fed into the models follows specific protocols."
+    },
+    {
+      "question": "What percentage of senior IT leaders believe generative AI technology is introducing new security risk to their data?",
+      "answer": "71 percent."
+    },
+    {
+      "question": "Why is pinpointing data quality issues more difficult in generative AI models than in classical ML models?",
+      "answer": "Because there's so much more data and much of it is unstructured, making it difficult to use existing tracking tools."
+    },
+    {
+      "question": "What are the four areas where CDOs need to develop interventions across the data life cycle to fix data quality issues?",
+      "answer": "Source data, preprocessing, output from LLM, and the text does not explicitly state the fourth area, but the mentioned areas are: Source data, Preprocessing, Output from LLM."
+    },
+    {
+      "question": "What is the cost associated with training a single LLM?",
+      "answer": "Millions of dollars."
+    },
+    {
+      "question": "How can CDOs regulate access to sensitive data?",
+      "answer": "By basing access on roles."
+    },
+    {
+      "question": "What is one way CDOs can ensure PII data is removed during data preprocessing for LLM training?",
+      "answer": "Using synthetic data (through data fabricators) and nonsensitive identifiers can help."
+    },
+    {
+      "question": "What percentage of code published on GitHub is written by AI?",
+      "answer": "41 percent."
+    },
+    {
+      "question": "What type of engineers should CDOs focus on hiring for generative AI?",
+      "answer": "Data engineers, architects, and back-end engineers."
+    },
+    {
+      "question": "Why will the skills of data scientists be less critical with the adoption of generative AI?",
+      "answer": "Because generative AI allows people with less advanced technical capabilities to use natural language in doing basic analysis."
+    },
+    {
+      "question": "What is the projected outcome for the talent gap in the near future?",
+      "answer": "The talent gap will increase further."
+    },
+    {
+      "question": "When should CDOs build their own data governance tools rather than relying on vendors?",
+      "answer": "For data governance processes that are unique to the business."
+    },
+    {
+      "question": "What is crucial for CDOs to set up to manage progress on their generative AI initiatives?",
+      "answer": "Systems to actively track and manage progress."
+    },
+    {
+      "question": "What type of KPIs are used to track progress and identify root causes of issues in generative AI initiatives?",
+      "answer": "Core KPIs and operational KPIs."
+    },
+    {
+      "question": "What is crucial for CDOs to set up to manage progress on their generative AI initiatives?",
+      "answer": "Systems to actively track and manage progress on their generative AI initiatives."
+    },
+    {
+      "question": "What are effective metrics made up of?",
+      "answer": "A set of core KPIs and operational KPIs."
+    },
+    {
+      "question": "What are some examples of core KPIs for generative AI initiatives?",
+      "answer": "Cost of additional components, additional revenue enabled by integration of specific data sources, time-to-market to develop a generative AI\u2013powered application, and end-user satisfaction."
+    },
+    {
+      "question": "What are some examples of operational KPIs for generative AI initiatives?",
+      "answer": "Tracking which data is being used most, how models are performing, where data quality is poor, how many requests are being made against a given dataset, and which use cases are generating the most activity and value."
+    },
+    {
+      "question": "What is the purpose of tracking KPIs for generative AI initiatives?",
+      "answer": "To provide a fact base for leadership to track progress, make rapid adjustments, and trade-off decisions against other initiatives."
+    },
+    {
+      "question": "How can knowing which data sources are most used for high-value models help CDOs?",
+      "answer": "It allows CDOs to prioritize investments to improve data quality at those sources."
+    },
+    {
+      "question": "What are some generative AI opportunities along the data value chain?",
+      "answer": "Data discovery, data ingestion, data storage and curation, data processing, data access, data consumption, data governance, and data interpretation."
+    },
+    {
+      "question": "What should a core set of KPIs include according to McKinsey & Company?",
+      "answer": "A core set of KPIs should include cost of additional components, such as vector databases and consumption of LLMs as a service, additional revenue enabled by integration of specific data sources with generative AI application workflows, time-to-market to develop a generative AI\u2013powered application, and end-user satisfaction with how the data has improved the application."
+    },
+    {
+      "question": "What is required for effective investment, budgeting, and reallocation in the context of generative AI?",
+      "answer": "Effective investment, budgeting, and reallocation will depend on CDOs developing a FinOps-like capability to manage the entire new cost structure growing around generative AI."
+    },
+    {
+      "question": "Why is data governance important in the context of generative AI?",
+      "answer": "Effective data governance programs should remain in place but be extended to incorporate generative AI\u2013related decisions, as data cannot be an afterthought in generative AI."
+    },
+    {
+      "question": "What role should CDOs play in businesses that want to capture value from generative AI?",
+      "answer": "CDOs should not merely manage data but understand how to use data to lead the business."
+    },
+    {
+      "question": "What kind of capability do CDOs need to develop to manage costs related to generative AI?",
+      "answer": "CDOs need to develop a FinOps-like capability to track a new range of costs, including the number of generative AI model requests, API consumption charges, and compute and storage charges from cloud providers."
+    },
+    {
+      "question": "What is the estimated annual value that generative AI could add according to McKinsey research?",
+      "answer": "The equivalent of $2.6 trillion to $4.4 trillion."
+    },
+    {
+      "question": "How many actions can CIOs and CTOs take to reimagine business and technology with generative AI?",
+      "answer": "Nine actions."
+    },
+    {
+      "question": "What is the first action that CIOs and CTOs can take to create value with generative AI?",
+      "answer": "Move quickly to determine the company\u2019s posture for the adoption of generative AI, and develop practical communications to, and appropriate access for, employees."
+    },
+    {
+      "question": "Why is building and operating your own generative AI models potentially costly?",
+      "answer": "It can cost tens to hundreds of millions of dollars, at least in the near term."
+    },
+    {
+      "question": "What is the purpose of creating a centralized, cross-functional generative AI platform team?",
+      "answer": "To provide approved models to product and application teams on demand."
+    },
+    {
+      "question": "What is the first step for CIOs and CTOs to adopt generative AI in their company?",
+      "answer": "Determine the company\u2019s posture for the adoption of generative AI."
+    },
+    {
+      "question": "Why should CIOs and CTOs work with risk leaders regarding generative AI?",
+      "answer": "To balance the real need for risk mitigation with the importance of building generative AI skills in the business."
+    },
+    {
+      "question": "What is one of the measures companies have taken to manage the use of generative AI?",
+      "answer": "Rolled out firmwide communications about generative AI, provided broad access to generative AI for specific user groups, created pop-ups that warn users any time they input internal data into a model, and built a guidelines page that appears each time users access a publicly available generative AI service."
+    },
+    {
+      "question": "What is the role of CIOs and CTOs in identifying use cases for generative AI?",
+      "answer": "To work with the CEO, CFO, and other business leaders to think through how generative AI challenges existing business models, opens doors to new ones, and creates new sources of value."
+    },
+    {
+      "question": "What is recommended to upgrade enterprise technology architecture?",
+      "answer": "To integrate and manage generative AI models and orchestrate how they operate with each other and existing AI and machine learning (ML) models, applications, and data sources."
+    },
+    {
+      "question": "Why is it necessary to invest in upskilling key roles for generative AI?",
+      "answer": "Because the impact of generative AI varies by role and proficiency levels, and training programs need to be tailored accordingly."
+    },
+    {
+      "question": "What percentage can generative AI lift productivity for certain marketing use cases?",
+      "answer": "Roughly 10 percent."
+    },
+    {
+      "question": "How much can generative AI coding support help software engineers develop code faster?",
+      "answer": "35 to 45 percent faster."
+    },
+    {
+      "question": "What percentage of technology budgets can technical debt account for?",
+      "answer": "20 to 40 percent."
+    },
+    {
+      "question": "By how much can generative AI improve customer support?",
+      "answer": "Up to 40 percent."
+    },
+    {
+      "question": "What are the three areas where CIOs and CTOs can focus their initial energies to reimagine the technology function?",
+      "answer": "Software development, technical debt, and IT operations (ITOps)."
+    },
+    {
+      "question": "How can generative AI help in software development besides coding?",
+      "answer": "Automate the testing process, simulate edge cases, and accelerate the onboarding of new developers."
+    },
+    {
+      "question": "What is required to capture the benefits of generative AI in software development?",
+      "answer": "Extensive training and automation of integration and deployment pipelines through DevSecOps practices."
+    },
+    {
+      "question": "What percentage of technology budgets can technical debt account for?",
+      "answer": "20 to 40 percent."
+    },
+    {
+      "question": "How can generative AI capabilities help reduce technical debt?",
+      "answer": "Through code refactoring, code translation, and automated test-case generation."
+    },
+    {
+      "question": "What is one way generative AI can improve IT operations?",
+      "answer": "By automating tasks such as password resets, status requests, or basic diagnostics through self-serve agents."
+    },
+    {
+      "question": "What are the three archetypes for developing generative AI capabilities?",
+      "answer": "Taker, Shaper."
+    },
+    {
+      "question": "What is the main difference between the Taker and Shaper archetypes?",
+      "answer": "The Taker archetype uses publicly available models with little or no customization, while the Shaper archetype integrates models with internal data and systems to generate more customized results."
+    },
+    {
+      "question": "What are the two common approaches for integrating data with generative AI models in the Shaper archetype?",
+      "answer": "Bring the model to the data and bring data to the model."
+    },
+    {
+      "question": "How does Cohere deploy foundation models to reduce the need for data transfers?",
+      "answer": "Cohere deploys foundation models on clients' cloud infrastructure."
+    },
+    {
+      "question": "What is the alternative approach to deploying foundation models mentioned in the text?",
+      "answer": "The alternative approach is to 'bring data to the model,' where an organization aggregates its data and deploys a copy of the large model on cloud infrastructure."
+    },
+    {
+      "question": "What is required to build a foundation model according to the Maker archetype?",
+      "answer": "Building a foundation model requires huge volumes of data, deep expertise, and massive compute power."
+    },
+    {
+      "question": "What is the estimated cost of building a foundation model as per the Maker archetype?",
+      "answer": "The cost can be tens or even hundreds of millions of dollars."
+    },
+    {
+      "question": "Why do most organizations turn to a combination of Taker and Shaper archetypes?",
+      "answer": "Most organizations turn to a combination of Taker and Shaper archetypes because the Maker archetype is complex and expensive, and few organizations will adopt it in the short term."
+    },
+    {
+      "question": "What is necessary for generative AI models to generate value?",
+      "answer": "Generative AI models need to be able to work together and with the business's existing systems or applications."
+    },
+    {
+      "question": "What is the prime goal for CIOs and CTOs looking to scale the advantages of generative AI as Shapers or Makers?",
+      "answer": "The prime goal is to upgrade their technology architecture to integrate generative AI models into internal systems and enterprise applications and to build pipelines to various data sources."
+    },
+    {
+      "question": "What has significantly reduced the effort required to connect different generative AI models with other applications and data sources?",
+      "answer": "Recent advances in integration and orchestration frameworks, such as LangChain and LlamaIndex, have significantly reduced the effort required."
+    },
+    {
+      "question": "What is an example of an estimated total cost of ownership for the Taker archetype?",
+      "answer": "For an off-the-shelf coding assistant, the estimated total cost of ownership is ~$0.5 million for integration, requiring a team of 6 working for 3 to 4 months."
+    },
+    {
+      "question": "What is the estimated total cost of ownership for an off-the-shelf coding assistant?",
+      "answer": "~ $0.5 million to $2.0 million, onetime"
+    },
+    {
+      "question": "What is the cost of building a plug-in layer on top of a third-party model API for a general-purpose customer service chatbot?",
+      "answer": "~$2.0 million"
+    },
+    {
+      "question": "How much does model inference cost annually for 1,000 daily users of an off-the-shelf coding assistant?",
+      "answer": "~$0.2 million"
+    },
+    {
+      "question": "What is the estimated cost of fine-tuning a model per training run for a customer service chatbot fine-tuned with sector-specific knowledge?",
+      "answer": "~$0.1 million to $6.0 million"
+    },
+    {
+      "question": "How much does it cost to train a foundation model for assisting in patient diagnosis?",
+      "answer": "~ $5.0 million to $200.0 million, onetime"
+    },
+    {
+      "question": "What is the recurring annual cost for model inference for a foundation model trained for assisting in patient diagnosis per 1,000 users?",
+      "answer": "~$0.1 million to $1.0 million"
+    },
+    {
+      "question": "What is the cost of data and model pipeline building for a customer service chatbot fine-tuned with sector-specific knowledge?",
+      "answer": "~$0.5 million"
+    },
+    {
+      "question": "How much does plug-in-layer maintenance cost annually for a customer service chatbot fine-tuned with sector-specific knowledge?",
+      "answer": "up to ~$0.3 million"
+    },
+    {
+      "question": "What is the estimated annual cost of model inference per 1,000 users?",
+      "answer": "~$0.1 million to $1.0 million."
+    },
+    {
+      "question": "How many machine learning engineers are assumed for model maintenance?",
+      "answer": "3 to 5."
+    },
+    {
+      "question": "What is the estimated annual cost for MLOps platform?",
+      "answer": "$250,000."
+    },
+    {
+      "question": "How many parameters is the model trained on?",
+      "answer": "65 billion to 1 trillion."
+    },
+    {
+      "question": "What are the two key elements required for integrating generative AI effectively?",
+      "answer": "Context management and caching, and policy management."
+    },
+    {
+      "question": "What is the purpose of caching in the technology architecture?",
+      "answer": "To store results to frequently asked questions to enable faster and cheaper responses."
+    },
+    {
+      "question": "What is the estimated cost of plug-in-layer maintenance recurring annually?",
+      "answer": "Up to ~$0.3 million."
+    },
+    {
+      "question": "How many patients is each physician assumed to see per day?",
+      "answer": "20 to 25."
+    },
+    {
+      "question": "What is the purpose of caching in generative AI?",
+      "answer": "Caching stores results to frequently asked questions to enable faster and cheaper responses."
+    },
+    {
+      "question": "What is the role of policy management in generative AI?",
+      "answer": "Policy management ensures appropriate access to enterprise data assets."
+    },
+    {
+      "question": "What is the function of a model hub in generative AI?",
+      "answer": "A model hub contains trained and approved models that can be provisioned on demand and acts as a repository for model checkpoints, weights, and parameters."
+    },
+    {
+      "question": "Why is a data architecture necessary for generative AI?",
+      "answer": "A data architecture is necessary to enable access to quality data and connect generative AI models to internal data sources."
+    },
+    {
+      "question": "What is required to optimize data for generative AI use?",
+      "answer": "Standards and guidelines need to be put in place to optimize data for generative AI use, such as augmenting training data with synthetic samples, converting media types into standardized data formats, and adding metadata."
+    },
+    {
+      "question": "What is the role of CIOs, CTOs, and chief data officers in developing a data architecture for generative AI?",
+      "answer": "CIOs, CTOs, and chief data officers need to work closely together to categorize and organize data, ensure existing infrastructure can support data storage and handling, and prioritize the development of data pipelines."
+    },
+    {
+      "question": "What is the purpose of a prompt library in generative AI?",
+      "answer": "A prompt library contains optimized instructions for generative AI models, including prompt versioning as models are updated."
+    },
+    {
+      "question": "What is the function of MLOps platform in generative AI?",
+      "answer": "MLOps platform includes upgraded MLOps capabilities to account for the complexity of generative AI models and includes instrumentation to measure task-specific performance."
+    },
+    {
+      "question": "What is required to optimize data for generative AI use?",
+      "answer": "Putting in place standards and guidelines, such as augmenting training data with synthetic samples, converting media types into standardized data formats, adding metadata, and updating data."
+    },
+    {
+      "question": "What is the role of a generative AI platform team?",
+      "answer": "The core focus of a generative AI platform team is developing and maintaining a platform service where approved generative AI models can be provisioned on demand for use by product and application teams."
+    },
+    {
+      "question": "What is included in the tech stack for generative AI?",
+      "answer": "The tech stack for generative AI includes users, apps, models, data, tooling, infrastructure, and policy management, with components such as data sources, data platforms, model hub, and MLOps platform."
+    },
+    {
+      "question": "How can tech leaders ensure their infrastructure supports generative AI applications?",
+      "answer": "By ensuring existing infrastructure or cloud services can support the storage and handling of vast volumes of data needed for generative AI applications."
+    },
+    {
+      "question": "What is the purpose of developing data pipelines for generative AI?",
+      "answer": "To connect generative AI models to relevant data sources that provide 'contextual understanding'."
+    },
+    {
+      "question": "What is the first step for CIOs and CTOs to integrate generative AI capabilities into their operating model?",
+      "answer": "The first step is setting up a generative AI platform team whose core focus is developing and maintaining a platform service where approved generative AI models can be provisioned on demand for use by product and application teams."
+    },
+    {
+      "question": "What are some key roles required for the generative AI platform team?",
+      "answer": "Key roles include software engineers, data engineers, data scientists, MLOps engineers, ML engineers, and risk experts."
+    },
+    {
+      "question": "How did the use of GitHub Copilot affect the productivity of software engineers?",
+      "answer": "Using GitHub Copilot helped software engineers write code 35 to 45 percent faster."
+    },
+    {
+      "question": "How did the benefits of using generative AI vary among software engineers with different skill levels?",
+      "answer": "Highly skilled developers saw gains of up to 50 to 80 percent, while junior developers experienced a 7 to 10 percent decline in speed."
+    },
+    {
+      "question": "Why did junior developers experience a decline in speed when using generative AI tools?",
+      "answer": "The output of the generative AI tools requires engineers to critique, validate, and improve the code, which inexperienced software engineers struggle to do."
+    },
+    {
+      "question": "What is the recommended approach for technology leaders to build the workforce of the future?",
+      "answer": "Technology leaders should rethink their talent management strategy, hire a core set of top generative AI talent, and put in place retention mechanisms."
+    },
+    {
+      "question": "What is the effect of generative AI on productivity in less technical roles like customer service?",
+      "answer": "Productivity increases by 14 percent."
+    },
+    {
+      "question": "Who should technology leaders work with to rethink their talent management strategy?",
+      "answer": "The chief human resources officer (CHRO)."
+    },
+    {
+      "question": "What should tech leaders put in place to retain top generative AI talent?",
+      "answer": "Retention mechanisms such as competitive salaries and opportunities to be involved in important strategic work for the business."
+    },
+    {
+      "question": "What is a crucial focus for tech leaders beyond hiring top generative AI talent?",
+      "answer": "Upskilling people based on a clear view of what skills are needed by role, proficiency level, and business goals."
+    },
+    {
+      "question": "What new skill set will software engineers need to review code created by generative AI?",
+      "answer": "Understanding what good code looks like, reviewing code for functionality, complexity, quality, and readability, and scanning for vulnerabilities."
+    },
+    {
+      "question": "What is the proposed change in the talent pyramid structure due to generative AI?",
+      "answer": "A shift from a classic talent pyramid to a structure more like a diamond, where the bulk of the technical workforce is made up of experienced people."
+    },
+    {
+      "question": "What are some of the ethical risks associated with generative AI?",
+      "answer": "Hallucinations, accidental release of confidential personally identifiable information, inherent bias in large datasets, and uncertainty related to intellectual property (IP)."
+    },
+    {
+      "question": "What is one of the risks associated with Generative AI?",
+      "answer": "One of the risks associated with Generative AI is 'hallucinations,' whereby the generative AI model presents an incorrect response based on the highest-probability response."
+    },
+    {
+      "question": "What is recommended to mitigate the risk of 'hallucinations' in Generative AI?",
+      "answer": "Proven risk-mitigation actions for hallucinations can include adjusting the level of creativity (known as the 'temperature') of a model when it generates responses; augmenting the model with relevant internal data to provide more context; using libraries that impose guardrails on what can be generated; using 'moderation' models to check outputs; and adding clear disclaimers."
+    },
+    {
+      "question": "Why is it critical to establish sensitive data tagging protocols?",
+      "answer": "To protect data privacy, it is critical to establish and enforce sensitive data tagging protocols."
+    },
+    {
+      "question": "How can CIOs and CTOs mitigate risk to intellectual property when using Generative AI?",
+      "answer": "CIOs and CTOs should insist that providers of foundation models maintain transparency regarding the IP (data sources, licensing, and ownership rights) of the datasets used."
+    },
+    {
+      "question": "What is the expected growth rate of Generative AI?",
+      "answer": "Generative AI is poised to be one of the fastest-growing technology categories we've ever seen."
+    },
+    {
+      "question": "Why do regulators need to keep pace with the advancements in generative AI?",
+      "answer": "Because AI and its supercharged breakthrough, generative AI, are all about rapid advancements, and rule makers are under pressure to keep up."
+    },
+    {
+      "question": "What is the challenge for risk and compliance functions with the adoption of gen AI?",
+      "answer": "To balance the use of this new technology amid an evolving\u2014and uneven\u2014regulatory framework."
+    },
+    {
+      "question": "What are some concerns associated with gen AI systems?",
+      "answer": "A potential lack of transparency in the functioning of gen AI systems, the data used to train them, issues of bias and fairness, potential intellectual property infringements, possible privacy violations, third-party risk, as well as security concerns."
+    },
+    {
+      "question": "Why has gen AI drawn regulatory scrutiny?",
+      "answer": "Due to concerns about the risks associated with gen AI, such as lack of transparency, bias, intellectual property infringements, privacy violations, and security concerns."
+    },
+    {
+      "question": "What is the expected total economic impact of gen AI annually?",
+      "answer": "$2.6 trillion to $4.4 trillion."
+    },
+    {
+      "question": "What happens when gen AI platforms are found hallucinating?",
+      "answer": "Major gen AI companies have lost significant market value."
+    },
+    {
+      "question": "What happens when major gen AI companies' platforms are found hallucinating?",
+      "answer": "They have lost significant market value."
+    },
+    {
+      "question": "What is the goal of establishing harmonized international regulatory standards for gen AI?",
+      "answer": "To stimulate international trade and data transfers."
+    },
+    {
+      "question": "Have any countries passed comprehensive AI or gen AI regulation to date?",
+      "answer": "No."
+    },
+    {
+      "question": "What are the common themes in the regulatory landscape for AI that have emerged globally?",
+      "answer": "Transparency, diversity, nondiscrimination, and fairness, human agency and oversight, and privacy and data governance."
+    },
+    {
+      "question": "What do regulators want to ensure regarding AI output?",
+      "answer": "That users are informed when they engage with any AI system and are provided with information about their rights and about the capabilities and limitations of the system."
+    },
+    {
+      "question": "What kind of approaches have different countries taken to regulate AI?",
+      "answer": "Broad AI regulation supported by existing data protection and cybersecurity regulations, sector-specific laws, and more general principles or guidelines-based approaches."
+    },
+    {
+      "question": "What is one of the goals of regulators regarding AI systems?",
+      "answer": "To ensure that AI systems are free of bias and that the output does not result in discrimination or unfair treatment of people."
+    },
+    {
+      "question": "What is the ideal role of humans in relation to AI systems?",
+      "answer": "AI systems should be developed and used as tools that serve people, uphold human dignity and personal autonomy, and function in a way that can be appropriately controlled and overseen by humans."
+    },
+    {
+      "question": "What is the desired outcome regarding technical robustness and safety of AI systems?",
+      "answer": "To minimize unintended and unexpected harm by ensuring that AI systems are robust, operate as expected, remain stable, and can rectify user errors."
+    },
+    {
+      "question": "What is the status of AI governance-related policy and regulatory efforts globally?",
+      "answer": "AI governance-related policy and regulatory efforts are under way globally."
+    },
+    {
+      "question": "Why is it challenging for organizations to navigate regulations while planning long-term AI strategies?",
+      "answer": "Many rules are still new and, thus, prone to frequent updates."
+    },
+    {
+      "question": "What type of AI regulations are being proposed or implemented?",
+      "answer": "Examples include nonbinding principles (e.g., OECD), general AI legislation proposed, and vertical-specific AI regulations."
+    },
+    {
+      "question": "When did the Senate approve the draft regulatory framework on artificial intelligence in Brazil?",
+      "answer": "Dec 2022."
+    },
+    {
+      "question": "Why was ChatGPT temporarily banned in Italy?",
+      "answer": "Because of privacy concerns."
+    },
+    {
+      "question": "What is the potential fine for non-compliance with the EU's proposed AI regulation?",
+      "answer": "Up to 7 percent of annual global revenues."
+    },
+    {
+      "question": "What are the four key areas for preemptive actions that organizations can take to get ahead of looming legal changes related to AI?",
+      "answer": "The text only mentions one key area, which is 'Transparency'. It involves creating a taxonomy and inventory of models, classifying them in accordance with regulation, and recording all usage across the organization."
+    },
+    {
+      "question": "What happened in the US in relation to AI in October 2023?",
+      "answer": "A US presidential executive order on AI was issued."
+    },
+    {
+      "question": "Why should organizations act swiftly to address AI regulations?",
+      "answer": "To avoid large legal, reputational, organizational, and financial risks."
+    },
+    {
+      "question": "What are the four key areas that organizations can take preemptive actions in to get ahead of looming legal changes related to AI and gen AI?",
+      "answer": "The four key areas are: Transparency, Governance, Data, model, and technology management, and Individual rights."
+    },
+    {
+      "question": "What is the purpose of creating a taxonomy and inventory of models in the context of Transparency?",
+      "answer": "To classify models in accordance with regulation and record all usage across the organization in a central repository that is clear to those inside and outside the organization."
+    },
+    {
+      "question": "What should be included in the governance structure for AI and gen AI?",
+      "answer": "A definition of all roles and responsibilities in AI and gen AI management and the development of an incident management plan to address any issues that may arise from AI and gen AI use."
+    },
+    {
+      "question": "Why is data management crucial for AI and gen AI models?",
+      "answer": "Because data is the foundation of all AI and gen AI models, and the quality of the data input mirrors the final output of the model."
+    },
+    {
+      "question": "What is the purpose of model management in AI and gen AI development and use?",
+      "answer": "To minimize the organization\u2019s risks and ensure that all AI and gen AI models uphold fairness and bias controls, proper functioning, transparency, clarity, and enablement of human oversight."
+    },
+    {
+      "question": "How should organizations approach designing and using AI?",
+      "answer": "By taking a customer-centric approach that considers the ethical implications of the data used and its potential impact on customers."
+    },
+    {
+      "question": "What is necessary for users to exercise their rights when it comes to AI?",
+      "answer": "Establishing a point of contact that provides transparency."
+    },
+    {
+      "question": "What approach should be taken when designing and using AI?",
+      "answer": "A customer-centric approach that considers the ethical implications of the data used and its potential impact on customers."
+    },
+    {
+      "question": "Why is it important to prioritize ethical considerations when using AI?",
+      "answer": "Because not everything legal is necessarily ethical."
+    },
+    {
+      "question": "What is happening to gen AI models in terms of their capabilities?",
+      "answer": "They are becoming multimodal, able to see, hear, and talk, and can interact with the world by connecting to data and IT systems."
+    },
+    {
+      "question": "What are the six major gen AI trends that will shape 2024's agenda?",
+      "answer": "1. Gen AI can see, hear, and talk. 2. Gen AI can interact with the world. 3. Gen AI models are easier to control. 4. Gen AI development is being democratized. 5. Gen AI is a platform play. 6 is not directly stated in the provided text snippet."
+    },
+    {
+      "question": "How is gen AI development being made more accessible?",
+      "answer": "Through low code/no code interfaces, such as OpenAI's 'GPTs' product."
+    },
+    {
+      "question": "What are the four principles for CEOs to consider as they drive their gen AI agendas?",
+      "answer": "The text does not explicitly state the four principles, but mentions that they draw from experiences building gen AI applications with clients and decades of delivering digital and analytics transformations."
+    },
+    {
+      "question": "Why is it important for CEOs to set a gen AI strategy top-down?",
+      "answer": "Allowing dozens of gen AI projects to spawn across an organization puts at-scale value creation at risk, and a top-down strategy brings focus and helps create enduring strategic distance between the organization and its competitors."
+    },
+    {
+      "question": "What are some examples of gen AI use cases in different industries?",
+      "answer": "Retail banks are using customer-facing chatbots and hyperpersonalization, service operations are building workflow copilots, and IT services players are investing in software engineering productivity tools."
+    },
+    {
+      "question": "What is the '2x2 approach' that smart organizations are taking with gen AI?",
+      "answer": "Smart organizations are identifying two fast use cases to register quick wins and working on two slower, more transformational use cases that will change day-to-day business operations."
+    },
+    {
+      "question": "Why is it not enough for organizations to just buy off-the-shelf gen AI solutions?",
+      "answer": "Organizations are struggling to capture value from these solutions because they need to reframe from one isolated use case to the full software delivery life cycle and reimagine entire workflows and domains to track value against clear business outcomes."
+    },
+    {
+      "question": "What is an example of an organization reimagining its end-to-end process using gen AI?",
+      "answer": "An insurer reimagined its end-to-end claims process, from first notice of loss to payment, and identified gen AI, digital, and analytics opportunities at each step, resulting in a step-change impact on end-to-end handling time."
+    },
+    {
+      "question": "What has happened to GPT-4 API costs for the average enterprise customer?",
+      "answer": "GPT-4 API costs declined two to three times for the average enterprise customer."
+    },
+    {
+      "question": "What is an example of an insurer reimagining its end-to-end claims process?",
+      "answer": "An insurer identified gen AI, digital, and analytics opportunities for each step along the way, from first notice of loss to payment, ultimately making a step-change impact on end-to-end handling time."
+    },
+    {
+      "question": "What are the two main strategies for organizations when it comes to gen AI?",
+      "answer": "Buy selectively and build strategically."
+    },
+    {
+      "question": "Why are some organizations choosing to 'build' their gen AI capabilities?",
+      "answer": "They are identifying use cases that create strategic competitive advantages against their peers by compounding existing strengths in their domain expertise, workflow integration, or regulatory know-how."
+    },
+    {
+      "question": "What is the problem with proofs of concept (POCs) in gen AI?",
+      "answer": "POCs do not scale well into production and their performance rapidly degrades without the appropriate engineering and experimentation."
+    },
+    {
+      "question": "How did OpenAI's engineers improve the accuracy of their demo POC?",
+      "answer": "After a few months and a dozen or so experiments (for example, fine-tuning, reranking, metadata tagging, data labeling, model self-assessment, risk guardrails), they achieved 98 percent accuracy from an initial 45 percent."
+    },
+    {
+      "question": "What is one way organizations are scaling their gen AI capabilities?",
+      "answer": "They are turning to reusable code components to accelerate development, which has been seen to accelerate delivery by 25 to 50 percent."
+    },
+    {
+      "question": "By how much have the components accelerated delivery?",
+      "answer": "25 to 50 percent."
+    },
+    {
+      "question": "What is expected to be the focus in the coming year regarding gen AI?",
+      "answer": "Delivering real business value to justify the billions in investment."
+    },
+    {
+      "question": "What will 2024 be the year of, according to the article?",
+      "answer": "Lasting impact at scale."
+    },
+    {
+      "question": "Where was the article originally published?",
+      "answer": "QuantumBlack, AI by McKinsey Medium blog on November 29, 2023."
+    },
+    {
+      "question": "What is the purpose of the gen AI solutions listed in the exhibit?",
+      "answer": "To demonstrate the practical potential of generative AI and help organizations understand ways gen AI might fit within their organization."
+    },
+    {
+      "question": "What is the 'Media call agent' gen AI solution/tool used for?",
+      "answer": "To assist with user support queries and generate fast, high-quality knowledge searches for agents serving customers during calls."
+    },
+    {
+      "question": "What is the 'Insight synthesis agent' gen AI solution/tool used for?",
+      "answer": "To help a global information services company generate quicker and more meaningful insights into consumer behavior."
+    },
+    {
+      "question": "What is the purpose of the gen AI solution 'Document Q&A solution'?",
+      "answer": "To assist with user support queries in app-managed services projects."
+    },
+    {
+      "question": "What is the function of the 'Insight synthesis agent'?",
+      "answer": "To pull data from diverse sources to assist with revenue cycle processes."
+    },
+    {
+      "question": "What is 'Voice-to-voice automation'?",
+      "answer": "A voice bot that responds to customer questions with customized answers and/or quick automated tasks."
+    },
+    {
+      "question": "What is the definition of Artificial Intelligence (AI)?",
+      "answer": "The ability of software to perform tasks that traditionally require human intelligence."
+    },
+    {
+      "question": "What is Deep Learning?",
+      "answer": "A subset of machine learning that uses deep neural networks, which are layers of connected 'neurons' whose connections have parameters or weights that can be trained."
+    },
+    {
+      "question": "What is an Application Programming Interface (API)?",
+      "answer": "A way to programmatically access (usually external) models, datasets, or other pieces of software."
+    },
+    {
+      "question": "What is the purpose of the 'Media call agent' Gen AI solution?",
+      "answer": "To help a global tech and media company generate fast, high-quality knowledge searches for agents serving customers during calls."
+    },
+    {
+      "question": "What is the 'Insight synthesis agent' Gen AI solution used for?",
+      "answer": "To pull data from diverse sources to assist with revenue cycle processes."
+    },
+    {
+      "question": "What is the definition of Artificial Intelligence (AI)?",
+      "answer": "The ability of software to perform tasks that traditionally require human intelligence."
+    },
+    {
+      "question": "What is Deep Learning?",
+      "answer": "A subset of machine learning that uses deep neural networks, which are layers of connected 'neurons' whose connections have parameters or weights that can be trained."
+    },
+    {
+      "question": "What is the purpose of the 'RFP generator' Gen AI tool?",
+      "answer": "To let users input the context of a request for proposal (RFP) and follow up with chat prompts to generate new RFP content automatically."
+    },
+    {
+      "question": "What is an Application Programming Interface (API)?",
+      "answer": "A way to programmatically access (usually external) models, datasets, or other pieces of software."
+    },
+    {
+      "question": "What type of data is a foundation model trained on?",
+      "answer": "Vast quantities of unstructured, unlabeled data."
+    },
+    {
+      "question": "What is the process of adapting a pretrained foundation model to perform better in a specific task called?",
+      "answer": "Fine-tuning."
+    },
+    {
+      "question": "What is generative AI typically built using?",
+      "answer": "Foundation models."
+    },
+    {
+      "question": "What are examples of foundation models?",
+      "answer": "GPT-4, PaLM, DALL\u00b7E 2, and Stable Diffusion."
+    },
+    {
+      "question": "What type of processing units are useful for deep learning applications?",
+      "answer": "Graphics processing units (GPUs)."
+    },
+    {
+      "question": "What is the primary function of large language models (LLMs)?",
+      "answer": "Processing massive amounts of unstructured text and learning the relationships between words or portions of words."
+    },
+    {
+      "question": "What is machine learning (ML) a subset of?",
+      "answer": "AI."
+    },
+    {
+      "question": "What is prompt engineering?",
+      "answer": "The process of designing, refining, and optimizing input prompts to guide a generative AI model toward producing desired outputs."
+    },
+    {
+      "question": "What is self-attention?",
+      "answer": "A mechanism that aims to mimic cognitive attention, relating different positions of a single sequence to compute a representation of the sequence."
+    },
+    {
+      "question": "What is structured data?",
+      "answer": "Tabular data (for example, organized in tables, databases, or spreadsheets) that can be used to train some machine learning models effectively."
+    },
+    {
+      "question": "How do machine learning algorithms make predictions and recommendations?",
+      "answer": "Machine learning algorithms detect patterns and learn how to make predictions and recommendations by processing data and experiences, rather than by receiving explicit programming instruction."
+    },
+    {
+      "question": "What is modality in the context of data?",
+      "answer": "Modality is a high-level data category such as numbers, text, images, video, and audio."
+    },
+    {
+      "question": "How is labor productivity growth achieved?",
+      "answer": "Labor productivity growth comes from increases in the amount of capital available to each worker, the education and experience of the workforce, and improvements in technology."
+    },
+    {
+      "question": "What is prompt engineering?",
+      "answer": "Prompt engineering refers to the process of designing, refining, and optimizing input prompts to guide a generative AI model toward producing desired (that is, accurate) outputs."
+    },
+    {
+      "question": "What is self-attention in the context of AI?",
+      "answer": "Self-attention is a mechanism that aims to mimic cognitive attention, relating different positions of a single sequence to compute a representation of the sequence."
+    },
+    {
+      "question": "What is structured data?",
+      "answer": "Structured data is tabular data (for example, organized in tables, databases, or spreadsheets) that can be used to train some machine learning models effectively."
+    },
+    {
+      "question": "How do transformers work?",
+      "answer": "Transformers rely on self-attention mechanisms to transform a sequence of inputs into a sequence of outputs while focusing its attention on important parts of the context around the inputs."
+    },
+    {
+      "question": "What is technical automation potential?",
+      "answer": "Technical automation potential refers to the share of the work time that could be automated."
+    },
+    {
+      "question": "What are use cases?",
+      "answer": "Use cases are applications targeted to a specific business challenge that produce one or more measurable outcomes."
+    },
+    {
+      "question": "What is unstructured data?",
+      "answer": "Unstructured data lacks a consistent format or structure (for example, text, images, and audio files) and typically requires more advanced techniques to extract insights."
+    }
+  ]
+}
