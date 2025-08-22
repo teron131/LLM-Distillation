@@ -46,104 +46,99 @@ prompts:
   # Summary generation prompt
   summary: |
     Summarize this document in 3-5 sentences, focusing on the main topic and key concepts.
-  
+
   # QA pair generation prompt
   qa_generation: |
-    Create question-answer pairs from this text for LLM training.
-    
-    Rules:
-    1. Questions must be about important facts in the text
-    2. Answers must be directly supported by the text
-    3. Return JSON format only:
-    
+    Your task is to create high-quality question-answer pairs from the following text for the purpose of fine-tuning a Large Language Model.
+
+    Adhere to the following rules:
+    1. Base questions on the most important and factual information in the text.
+    2. Ensure answers are directly and fully supported by the content of the text.
+    3. Your response MUST be ONLY a valid JSON array of objects. Do not include any text, explanation, or markdown outside of the JSON array.
+
+    Return the data in this exact JSON format:
     [
-      {{
-        "question": "Question 1?",
-        "answer": "Answer 1."
-      }},
-      {{
-        "question": "Question 2?",
-        "answer": "Answer 2."
-      }}
+      {
+        "question": "A clear and specific question about the text.",
+        "answer": "A concise and accurate answer from the text."
+      },
+      {
+        "question": "Another clear and specific question.",
+        "answer": "Another concise and accurate answer."
+      }
     ]
-    
-    Text:
+
+    Text to process:
     {text}
-  
+
   # QA pair rating prompt
   qa_rating: |
-    Rate each question-answer pair on a scale from 1-10, based on:
-    - Accuracy (0-3): factual correctness
-    - Relevance (0-2): relevance to content
-    - Clarity (0-2): clear language
-    - Usefulness (0-3): value for model learning
-    
-    YOU MUST RETURN A VALID JSON OBJECT OR ARRAY WITH THIS EXACT SCHEMA:
-    {{
-      "question": "Exact question text",
-      "answer": "Exact answer text",
-      "rating": 8
-    }}
-    
-    OR FOR MULTIPLE PAIRS:
+    Your task is to rate the quality of the following question-answer pairs on a scale of 1 to 10.
+    For each pair, consider these criteria:
+    - Accuracy (0-3): Is the answer factually correct based solely on the provided text?
+    - Relevance (0-2): Is the question and answer relevant to the main topics in the provided text?
+    - Clarity (0-2): Is the language clear, concise, and easy to understand for both question and answer?
+    - Usefulness (0-3): How valuable is this pair for fine-tuning an LLM? Does it teach useful information or reasoning?
+
+    You MUST return ONLY a valid JSON array of objects, one for each QA pair, with this EXACT schema:
     [
-      {{"question": "Q1", "answer": "A1", "rating": 8}},
-      {{"question": "Q2", "answer": "A2", "rating": 9}}
+      {
+        "question": "The exact question text here.",
+        "answer": "The exact answer text here.",
+        "rating": <integer rating from 1 to 10>
+      }
+      // Add more objects in this array if there are multiple QA pairs.
+      // Example for multiple pairs: [{"question": "Q1", "answer": "A1", "rating": 8}, {"question": "Q2", "answer": "A2", "rating": 9}]
     ]
-    
-    *** YOUR RESPONSE MUST BE VALID JSON AND NOTHING ELSE - NO EXPLANATION, NO MARKDOWN ***
-    
-    QA pairs to rate:
+
+    DO NOT include any introductory or concluding remarks, explanations, markdown formatting (like code blocks, bullet points, etc. outside the JSON itself), or any text that is not part of the valid JSON array.
+    Your response must be ONLY the JSON array.
+
+    Here are the QA pairs to rate:
     {pairs}
-    
+
   # Chain of Thought generation prompt
   cot_generation: |
-    Create complex reasoning examples from this text that demonstrate chain-of-thought thinking.
-    
-    Each example should have:
-    1. A challenging question that requires step-by-step reasoning
-    2. Detailed reasoning steps that break down the problem
-    3. A concise final answer
-    
-    Return JSON format only:
-    
+    Your task is to create complex reasoning examples from the provided text that demonstrate step-by-step, chain-of-thought thinking.
+
+    Each example must contain:
+    1. A challenging question that cannot be answered with a simple fact lookup and requires multi-step reasoning.
+    2. A detailed "reasoning" section that breaks down the problem, explains the steps taken to arrive at the answer, and references the source text.
+    3. A final, concise "answer".
+
+    You MUST return ONLY a valid JSON array of objects. Do not include any text, explanation, or markdown outside of the JSON array.
+
+    Return the data in this exact JSON format:
     [
-      {{
-        "question": "Complex question about the text?",
-        "reasoning": "Step 1: First, I need to consider...\nStep 2: Then, I analyze...\nStep 3: Finally, I can conclude...",
-        "answer": "Final answer based on the reasoning."
-      }},
-      {{
-        "question": "Another complex question?",
-        "reasoning": "Step 1: First, I'll analyze...\nStep 2: Next, I need to determine...\nStep 3: Based on this analysis...",
-        "answer": "Final answer drawn from the reasoning."
-      }}
+      {
+        "question": "A complex question that requires reasoning.",
+        "reasoning": "Step 1: Analyze the first part of the problem...\nStep 2: Connect this to the second piece of information...\nStep 3: Conclude the final answer based on the previous steps.",
+        "answer": "The final, concise answer."
+      }
     ]
-    
-    Text:
+
+    Text to process:
     {text}
-  
+
   # Chain of Thought enhancement prompt
   cot_enhancement: |
-    You are an expert reasoning assistant. Your task is to enhance the given conversations by adding chain-of-thought reasoning.
-    
-    For each conversation, add detailed step-by-step reasoning to the assistant's responses while preserving the original answer.
-    
-    {include_simple_steps} = Whether to add reasoning to simple responses too. If false, only add reasoning to complex responses.
-    
-    Return the enhanced conversations as a JSON array matching this format:
+    You are an expert reasoning assistant. Your task is to enhance the user-assistant conversations provided below by adding a detailed, step-by-step "chain-of-thought" to the assistant's responses.
+
+    Rules:
+    1. Preserve the original answer in the assistant's response.
+    2. Add the chain-of-thought reasoning *before* the original answer.
+    3. The reasoning should explain how the assistant arrived at its answer.
+    4. {include_simple_steps} Determines if reasoning should be added to simple responses.
+    5. Your entire output MUST BE a valid JSON array of conversations, matching the original structure. Do not add any extra text or markdown.
+
+    Return the enhanced conversations in this exact JSON format:
     [
       [
-        {{"role": "system", "content": "System message"}},
-        {{"role": "user", "content": "User question"}},
-        {{"role": "assistant", "content": "Let me think through this step by step:\n\n1. First, I need to consider...\n2. Then...\n\nTherefore, [original answer]"}}
-      ],
-      [
-        {{"role": "system", "content": "System message"}},
-        {{"role": "user", "content": "Another user question"}},
-        {{"role": "assistant", "content": "Let me work through this:\n\n1. I'll start by...\n2. Next...\n\nIn conclusion, [original answer]"}}
+        {"role": "system", "content": "System message text."},
+        {"role": "user", "content": "User's question."},
+        {"role": "assistant", "content": "Let me think through this step by step:\\n\\n1. First, I need to analyze the user's request...\\n2. Then, I will formulate the steps to find the answer...\\n\\nTherefore, [original answer from the input]"}
       ]
     ]
-    
-    Original conversations:
+
+    Original conversations to enhance:
     {conversations}

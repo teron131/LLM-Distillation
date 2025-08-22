@@ -1,4 +1,3 @@
-import argparse
 import os
 import subprocess
 from pathlib import Path
@@ -19,7 +18,7 @@ def get_GENERATION_MODEL_from_config():
     return config["api-endpoint"]["model"]
 
 
-def update_config_yaml(GENERATION_MODEL: str, JUDGE_MODEL: str):
+def update_config_yaml(GENERATION_MODEL: str):
     """
     Dynamically updates the config.yaml file with the provided API key and model name.
     """
@@ -75,7 +74,7 @@ def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, PAIRS_PER_P
         with open(parsed_file_path, "r") as f:
             content = f.read()
         char_count = len(content)
-        num_qa_pairs = max(1, (char_count // 2000) * PAIRS_PER_PAGE)  # At least 1 pair, 10 per 2000 chars
+        num_qa_pairs = max(1, (char_count // CHARS_PER_PAGE) * PAIRS_PER_PAGE)  # At least 1 pair, 10 per 2000 chars
         print(f"Calculated {num_qa_pairs} QA pairs for {file_path.name} (character count: {char_count}).")
 
         # Create QA pairs
@@ -89,7 +88,7 @@ def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, PAIRS_PER_P
 
     # Step 3: Curate data (now operates on the generated directory)
     _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated"],
+        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated", "--verbose"],
         "Curating data...",
     )
 
@@ -103,16 +102,15 @@ def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, PAIRS_PER_P
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Run synthetic data generation pipeline for a single file.")
-    parser.add_argument("file_path", type=str, help="Path to the single document file to process.")
-    args = parser.parse_args()
+    FILE_PATH = "documents/mckinsey-on-finance-number-80.pdf"
 
     GENERATION_MODEL = "google/gemini-2.5-flash"
     JUDGE_MODEL = "google/gemini-2.5-flash"
     PAIRS_PER_PAGE = 5
+    CHARS_PER_PAGE = 3000
 
     print(f"Updating config.yaml with API key and model name...")
-    update_config_yaml(GENERATION_MODEL, JUDGE_MODEL)
+    update_config_yaml(GENERATION_MODEL)
     print(f"config.yaml updated successfully.")
 
-    run_pipeline_single_file(GENERATION_MODEL, Path(args.file_path), PAIRS_PER_PAGE)
+    run_pipeline_single_file(GENERATION_MODEL, Path(FILE_PATH), PAIRS_PER_PAGE)
