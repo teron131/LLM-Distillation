@@ -18,24 +18,6 @@ def get_GENERATION_MODEL_from_config():
     return config["api-endpoint"]["model"]
 
 
-def update_config_yaml(GENERATION_MODEL: str, JUDGE_MODEL: str):
-    """
-    Dynamically updates the config.yaml file with the provided API key and model name.
-    """
-    with open("config.yaml", "r") as f:
-        config = yaml.safe_load(f)
-
-    config["api-endpoint"]["api_key"] = os.getenv("OPENROUTER_API_KEY")
-    config["api-endpoint"]["model"] = GENERATION_MODEL
-    config["generation"]["batch_size"] = os.cpu_count()
-    config["curate"]["batch_size"] = os.cpu_count()
-    config["curate"]["inference_batch"] = os.cpu_count()
-    config["curate"]["threshold"] = 8.0
-
-    with open("config.yaml", "w") as f:
-        yaml.safe_dump(config, f, indent=2)
-
-
 def _run_command(command: list[str], description: str):
     """Helper function to run a subprocess command and print its description."""
     print(description)
@@ -55,6 +37,7 @@ def run_pipeline(
     JUDGE_MODEL: str,
     documents_dir: str = "./documents/",
     PAIRS_PER_PAGE: int = 5,
+    CHARS_PER_PAGE: int = 2000,
 ):
     """
     Runs the synthetic data kit pipeline based on the start.sh script.
@@ -93,7 +76,7 @@ def run_pipeline(
                 with open(parsed_file_path, "r") as f:
                     content = f.read()
                 char_count = len(content)
-                num_qa_pairs = max(1, (char_count // 2000) * PAIRS_PER_PAGE)  # At least 1 pair, 10 per 2000 chars
+                num_qa_pairs = max(1, (char_count // CHARS_PER_PAGE) * PAIRS_PER_PAGE)  # At least 1 pair, 10 per 2000 chars
                 print(f"Calculated {num_qa_pairs} QA pairs for {doc_file.name} (character count: {char_count}).")
 
                 # Create QA pairs
@@ -121,15 +104,19 @@ def run_pipeline(
 
 
 if __name__ == "__main__":
-    # Get model name from config.yaml
-    GENERATION_MODEL = "google/gemini-2.5-flash"
-    JUDGE_MODEL = "google/gemini-2.5-flash"
     PAIRS_PER_PAGE = 5
+    CHARS_PER_PAGE = 2000
 
-    # Update config.yaml dynamically
-    print(f"Updating config.yaml with API key and model name...")
-    update_config_yaml(GENERATION_MODEL, JUDGE_MODEL)
-    print(f"config.yaml updated successfully.")
+    # Get model name from config.yaml
+    GENERATION_MODEL = get_GENERATION_MODEL_from_config()
+    JUDGE_MODEL = GENERATION_MODEL  # Assume judge model is the same as generation model
+    print(f"Using Generation Model from config.yaml: {GENERATION_MODEL}")
+    print(f"Using Judge Model: {JUDGE_MODEL}")
 
     # Run the pipeline
-    run_pipeline(GENERATION_MODEL, JUDGE_MODEL, PAIRS_PER_PAGE)
+    run_pipeline(
+        GENERATION_MODEL,
+        JUDGE_MODEL,
+        PAIRS_PER_PAGE=PAIRS_PER_PAGE,
+        CHARS_PER_PAGE=CHARS_PER_PAGE,
+    )
