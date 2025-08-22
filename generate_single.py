@@ -18,31 +18,13 @@ def get_GENERATION_MODEL_from_config():
     return config["api-endpoint"]["model"]
 
 
-def update_config_yaml(GENERATION_MODEL: str):
-    """
-    Dynamically updates the config.yaml file with the provided API key and model name.
-    """
-    with open("config.yaml", "r") as f:
-        config = yaml.safe_load(f)
-
-    config["api-endpoint"]["api_key"] = os.getenv("OPENROUTER_API_KEY")
-    config["api-endpoint"]["model"] = GENERATION_MODEL
-    config["generation"]["batch_size"] = os.cpu_count()
-    config["curate"]["batch_size"] = os.cpu_count()
-    config["curate"]["inference_batch"] = os.cpu_count()
-    config["curate"]["threshold"] = 8.0
-
-    with open("config.yaml", "w") as f:
-        yaml.safe_dump(config, f, indent=2)
-
-
 def _run_command(command: list[str], description: str):
     """Helper function to run a subprocess command and print its description."""
     print(description)
     subprocess.run(command, check=True)
 
 
-def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, PAIRS_PER_PAGE: int):
+def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, PAIRS_PER_PAGE: int, CHARS_PER_PAGE: int):
     """
     Runs the synthetic data kit pipeline for a single document.
     """
@@ -104,13 +86,10 @@ def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, PAIRS_PER_P
 if __name__ == "__main__":
     FILE_PATH = "documents/mckinsey-on-finance-number-80.pdf"
 
-    GENERATION_MODEL = "google/gemini-2.5-flash"
-    JUDGE_MODEL = "google/gemini-2.5-flash"
     PAIRS_PER_PAGE = 5
     CHARS_PER_PAGE = 3000
 
-    print(f"Updating config.yaml with API key and model name...")
-    update_config_yaml(GENERATION_MODEL)
-    print(f"config.yaml updated successfully.")
+    GENERATION_MODEL = get_GENERATION_MODEL_from_config()
+    print(f"Using model from config.yaml: {GENERATION_MODEL}")
 
-    run_pipeline_single_file(GENERATION_MODEL, Path(FILE_PATH), PAIRS_PER_PAGE)
+    run_pipeline_single_file(GENERATION_MODEL, Path(FILE_PATH), PAIRS_PER_PAGE, CHARS_PER_PAGE)

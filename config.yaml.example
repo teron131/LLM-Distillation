@@ -1,10 +1,36 @@
+# Master configuration file for Synthetic Data Kit
+
+# Global paths configuration
+paths:
+  # Input data location (directory containing files to process)
+  input: "data/input"           # Directory containing PDF, HTML, DOCX, PPT, TXT files
+  
+  # Output locations (4-stage pipeline directories)
+  output:
+    parsed: "data/parsed"       # Stage 1: Where parsed text files are saved (ingest output)
+    generated: "data/generated" # Stage 2: Where generated QA pairs are saved (create output)
+    curated: "data/curated"     # Stage 3: Where curated QA pairs are saved (curate output)
+    final: "data/final"         # Stage 4: Where final training formats are saved (save-as output)
+
+# LLM Provider configuration
 llm:
+  # Provider selection: "vllm" or "api-endpoint"
   provider: "api-endpoint"
 
+# VLLM server configuration
+vllm:
+  api_base: "http://localhost:8000/v1" # Base URL for VLLM API
+  port: 8000                           # Port for VLLM server
+  model: "meta-llama/Llama-3.3-70B-Instruct" # Default model to use
+  max_retries: 3                       # Number of retries for API calls
+  retry_delay: 1.0                     # Initial delay between retries (seconds)
+  sleep_time: 0.1                      # Small delay in seconds between batches to avoid rate limits
+  
+# API endpoint configuration
 api-endpoint:
-  api_base: "https://openrouter.ai/api/v1"
-  api_key: "HARDCODED_API_KEY"
-  model: "google/gemini-2.5-flash-lite"
+  api_base: "https://api.llama.com/v1" # Optional base URL for API endpoint (null for default API)
+  api_key: "llama_api_key"               # API key for API endpoint or compatible service (can use env var instead)
+  model: "Llama-4-Maverick-17B-128E-Instruct-FP8" # Default model to use
   max_retries: 3                       # Number of retries for API calls
   retry_delay: 1.0                     # Initial delay between retries (seconds)
   sleep_time: 0.5                      # Small delay in seconds between batches to avoid rate limits
@@ -16,12 +42,12 @@ ingest:
 
 # LLM generation parameters
 generation:
-  temperature: 0.1   # Higher = more creative, lower = more deterministic
+  temperature: 0.7   # Higher = more creative, lower = more deterministic
   top_p: 0.95        # Nucleus sampling parameter
   chunk_size: 4000   # Size of text chunks for processing
   overlap: 200       # Overlap between chunks to maintain context
   max_tokens: 4096   # Maximum tokens in LLM responses
-  num_pairs: 50      # Default number of QA pairs to generate
+  num_pairs: 25      # Default number of QA pairs to generate
   num_cot_examples: 5  # Default number of Chain of Thought examples to generate
   num_cot_enhance_examples: null  # Maximum number of conversations to enhance (null = enhance all)
   batch_size: 32     # Number of requests to batch together (for create)
@@ -31,8 +57,8 @@ generation:
 # Content curation parameters
 curate:
   threshold: 7.0     # Default quality threshold (1-10)
-  batch_size: 32      # Number of items per batch for rating (smaller batches for API stability)
-  inference_batch: 32 # Number of batches to process at once with VLLM
+  batch_size: 5      # Number of items per batch for rating (smaller batches for API stability)
+  inference_batch: 5 # Number of batches to process at once with VLLM
   temperature: 0.1   # Temperature for rating (lower = more consistent)
 
 # Format conversion parameters
@@ -46,99 +72,104 @@ prompts:
   # Summary generation prompt
   summary: |
     Summarize this document in 3-5 sentences, focusing on the main topic and key concepts.
-
+  
   # QA pair generation prompt
   qa_generation: |
-    Your task is to create high-quality question-answer pairs from the following text for the purpose of fine-tuning a Large Language Model.
-
-    Adhere to the following rules:
-    1. Base questions on the most important and factual information in the text.
-    2. Ensure answers are directly and fully supported by the content of the text.
-    3. Your response MUST be ONLY a valid JSON array of objects. Do not include any text, explanation, or markdown outside of the JSON array.
-
-    Return the data in this exact JSON format:
+    Create question-answer pairs from this text for LLM training.
+    
+    Rules:
+    1. Questions must be about important facts in the text
+    2. Answers must be directly supported by the text
+    3. Return JSON format only:
+    
     [
-      {
-        "question": "A clear and specific question about the text.",
-        "answer": "A concise and accurate answer from the text."
-      },
-      {
-        "question": "Another clear and specific question.",
-        "answer": "Another concise and accurate answer."
-      }
+      {{
+        "question": "Question 1?",
+        "answer": "Answer 1."
+      }},
+      {{
+        "question": "Question 2?",
+        "answer": "Answer 2."
+      }}
     ]
-
-    Text to process:
+    
+    Text:
     {text}
-
+  
   # QA pair rating prompt
   qa_rating: |
-    Your task is to rate the quality of the following question-answer pairs on a scale of 1 to 10.
-    For each pair, consider these criteria:
-    - Accuracy (0-3): Is the answer factually correct based solely on the provided text?
-    - Relevance (0-2): Is the question and answer relevant to the main topics in the provided text?
-    - Clarity (0-2): Is the language clear, concise, and easy to understand for both question and answer?
-    - Usefulness (0-3): How valuable is this pair for fine-tuning an LLM? Does it teach useful information or reasoning?
-
-    You MUST return ONLY a valid JSON array of objects, one for each QA pair, with this EXACT schema:
+    Rate each question-answer pair on a scale from 1-10, based on:
+    - Accuracy (0-3): factual correctness
+    - Relevance (0-2): relevance to content
+    - Clarity (0-2): clear language
+    - Usefulness (0-3): value for model learning
+    
+    YOU MUST RETURN A VALID JSON OBJECT OR ARRAY WITH THIS EXACT SCHEMA:
+    {{
+      "question": "Exact question text",
+      "answer": "Exact answer text",
+      "rating": 8
+    }}
+    
+    OR FOR MULTIPLE PAIRS:
     [
-      {
-        "question": "The exact question text here.",
-        "answer": "The exact answer text here.",
-        "rating": <integer rating from 1 to 10>
-      }
-      // Add more objects in this array if there are multiple QA pairs.
-      // Example for multiple pairs: [{"question": "Q1", "answer": "A1", "rating": 8}, {"question": "Q2", "answer": "A2", "rating": 9}]
+      {{"question": "Q1", "answer": "A1", "rating": 8}},
+      {{"question": "Q2", "answer": "A2", "rating": 9}}
     ]
-
-    DO NOT include any introductory or concluding remarks, explanations, markdown formatting (like code blocks, bullet points, etc. outside the JSON itself), or any text that is not part of the valid JSON array.
-    Your response must be ONLY the JSON array.
-
-    Here are the QA pairs to rate:
+    
+    *** YOUR RESPONSE MUST BE VALID JSON AND NOTHING ELSE - NO EXPLANATION, NO MARKDOWN ***
+    
+    QA pairs to rate:
     {pairs}
-
+    
   # Chain of Thought generation prompt
   cot_generation: |
-    Your task is to create complex reasoning examples from the provided text that demonstrate step-by-step, chain-of-thought thinking.
-
-    Each example must contain:
-    1. A challenging question that cannot be answered with a simple fact lookup and requires multi-step reasoning.
-    2. A detailed "reasoning" section that breaks down the problem, explains the steps taken to arrive at the answer, and references the source text.
-    3. A final, concise "answer".
-
-    You MUST return ONLY a valid JSON array of objects. Do not include any text, explanation, or markdown outside of the JSON array.
-
-    Return the data in this exact JSON format:
+    Create complex reasoning examples from this text that demonstrate chain-of-thought thinking.
+    
+    Each example should have:
+    1. A challenging question that requires step-by-step reasoning
+    2. Detailed reasoning steps that break down the problem
+    3. A concise final answer
+    
+    Return JSON format only:
+    
     [
-      {
-        "question": "A complex question that requires reasoning.",
-        "reasoning": "Step 1: Analyze the first part of the problem...\nStep 2: Connect this to the second piece of information...\nStep 3: Conclude the final answer based on the previous steps.",
-        "answer": "The final, concise answer."
-      }
+      {{
+        "question": "Complex question about the text?",
+        "reasoning": "Step 1: First, I need to consider...\nStep 2: Then, I analyze...\nStep 3: Finally, I can conclude...",
+        "answer": "Final answer based on the reasoning."
+      }},
+      {{
+        "question": "Another complex question?",
+        "reasoning": "Step 1: First, I'll analyze...\nStep 2: Next, I need to determine...\nStep 3: Based on this analysis...",
+        "answer": "Final answer drawn from the reasoning."
+      }}
     ]
-
-    Text to process:
+    
+    Text:
     {text}
-
+  
   # Chain of Thought enhancement prompt
   cot_enhancement: |
-    You are an expert reasoning assistant. Your task is to enhance the user-assistant conversations provided below by adding a detailed, step-by-step "chain-of-thought" to the assistant's responses.
-
-    Rules:
-    1. Preserve the original answer in the assistant's response.
-    2. Add the chain-of-thought reasoning *before* the original answer.
-    3. The reasoning should explain how the assistant arrived at its answer.
-    4. {include_simple_steps} Determines if reasoning should be added to simple responses.
-    5. Your entire output MUST BE a valid JSON array of conversations, matching the original structure. Do not add any extra text or markdown.
-
-    Return the enhanced conversations in this exact JSON format:
+    You are an expert reasoning assistant. Your task is to enhance the given conversations by adding chain-of-thought reasoning.
+    
+    For each conversation, add detailed step-by-step reasoning to the assistant's responses while preserving the original answer.
+    
+    {include_simple_steps} = Whether to add reasoning to simple responses too. If false, only add reasoning to complex responses.
+    
+    Return the enhanced conversations as a JSON array matching this format:
     [
       [
-        {"role": "system", "content": "System message text."},
-        {"role": "user", "content": "User's question."},
-        {"role": "assistant", "content": "Let me think through this step by step:\\n\\n1. First, I need to analyze the user's request...\\n2. Then, I will formulate the steps to find the answer...\\n\\nTherefore, [original answer from the input]"}
+        {{"role": "system", "content": "System message"}},
+        {{"role": "user", "content": "User question"}},
+        {{"role": "assistant", "content": "Let me think through this step by step:\n\n1. First, I need to consider...\n2. Then...\n\nTherefore, [original answer]"}}
+      ],
+      [
+        {{"role": "system", "content": "System message"}},
+        {{"role": "user", "content": "Another user question"}},
+        {{"role": "assistant", "content": "Let me work through this:\n\n1. I'll start by...\n2. Next...\n\nIn conclusion, [original answer]"}}
       ]
     ]
-
-    Original conversations to enhance:
+    
+    Original conversations:
     {conversations}
