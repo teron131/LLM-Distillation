@@ -1,0 +1,823 @@
+{"question": "When was the McKinsey Global Institute established?", "answer": "The McKinsey Global Institute was established in 1990.", "rating": 9}
+{"question": "What is the mission of the McKinsey Global Institute?", "answer": "The mission is to provide a fact base to aid decision making on the economic and business issues most critical to the world\u2019s companies and policy leaders.", "rating": 10}
+{"question": "What are the five major themes of the McKinsey Global Institute's research?", "answer": "The five major themes are: Productivity and prosperity, Resources of the world, Human potential, Global connections, and Technologies and markets of the future.", "rating": 9}
+{"question": "What is the 'empowerment line' as defined in the research?", "answer": "The empowerment line is the level at which people can afford to meet essential needs such as nutrition, housing, healthcare, and education; they also gain a modest sense of security and have reduced risk of slipping back into poverty.", "rating": 9}
+{"question": "At what daily income level does empowerment start globally, in purchasing power parity terms?", "answer": "Empowerment starts at $12 per day in purchasing power parity terms globally.", "rating": 8}
+{"question": "How many people lived below the empowerment line as of 2020?", "answer": "As of 2020, 4.7 billion people were below the empowerment line.", "rating": 9}
+{"question": "What is the daily empowerment threshold in purchasing power parity terms globally?", "answer": "$12 per day.", "rating": 8}
+{"question": "How many people lived in extreme poverty as of 2020?", "answer": "730 million.", "rating": 9}
+{"question": "What is the estimated number of people below the empowerment line as of 2020?", "answer": "4.7 billion.", "rating": 9}
+{"question": "By when is the carbon budget to limit warming to 1.5\u00b0C trending toward being exhausted?", "answer": "2030.", "rating": 8}
+{"question": "What is the combined empowerment and net-zero investment gaps as a percentage of global GDP annually over the decade?", "answer": "8 percent.", "rating": 8}
+{"question": "How much more spending power would people currently below the empowerment threshold need on average by 2030?", "answer": "40 percent more.", "rating": 8}
+{"question": "How much additional low-emissions investment is needed to get on a net-zero trajectory by 2030?", "answer": "$41 trillion.", "rating": 9}
+{"question": "How much of the global empowerment gap could accelerated growth and better-paying jobs close?", "answer": "Almost two-thirds.", "rating": 7}
+{"question": "What is the estimated unfilled economic gap cumulatively through the decade?", "answer": "$40 trillion.", "rating": 9}
+{"question": "What is the estimated unfilled economic gap globally per year?", "answer": "4 percent of GDP.", "rating": 9}
+{"question": "What is the cumulative unfilled economic gap globally through the decade?", "answer": "$40 trillion.", "rating": 9}
+{"question": "What percentage of the unfilled economic gap is attributed to developing countries?", "answer": "Nearly two-thirds.", "rating": 8}
+{"question": "How much benefits could be unlocked for those below the empowerment line through combined public and private action?", "answer": "$3 trillion.", "rating": 9}
+{"question": "How much could be unlocked from private actors over the decade with public finance support?", "answer": "$17 trillion.", "rating": 8}
+{"question": "What would be the annual cost for high-income economies to shoulder both gaps for the world?", "answer": "3.5 percent of their own GDP.", "rating": 8}
+{"question": "How many people could move above the empowerment line with a global push for growth, innovation, and collaboration?", "answer": "2.1 billion.", "rating": 8}
+{"question": "How many people could be taken out of poverty with a global push for growth, innovation, and collaboration?", "answer": "600 million.", "rating": 8}
+{"question": "What is the estimated cumulative total worldwide boost in low-emissions spending needed above 2020 levels to get on a net-zero trajectory by 2030?", "answer": "$37 trillion.", "rating": 8}
+{"question": "What is the boost in spending power needed for everyone to reach the empowerment line?", "answer": "$41 trillion.", "rating": 8}
+{"question": "By when does the world's carbon budget for holding to a 1.5\u00b0C path is expected to run out?", "answer": "Around the end of the decade.", "rating": 8}
+{"question": "What is the target year for achieving the UN Sustainable Development Goals (SDGs)?", "answer": "2030.", "rating": 10}
+{"question": "How can the combined gap to raise everyone to minimum living standards and get on a net-zero pathway by 2030 be filled?", "answer": "Growth and innovation can deliver half the combined gap; additional societal commitments could fill the rest in tandem with market responses.", "rating": 9}
+{"question": "What is the target year for achieving the SDGs?", "answer": "2030.", "rating": 10}
+{"question": "What are the three main aspects considered in the holistic view presented in Exhibit E1?", "answer": "Growth, economic inclusion, and the net-zero transition.", "rating": 9}
+{"question": "How does productivity-driven growth contribute to a low-emissions future?", "answer": "It lifts incomes, raises living standards, and unlocks the financing capacity needed for a low-emissions future.", "rating": 9}
+{"question": "What is the empowerment gap defined as?", "answer": "The cumulative boost in consumption needed to meet everyone\u2019s essential needs by 2030.", "rating": 8}
+{"question": "What is the net-zero investment gap defined as?", "answer": "The cumulative spending on low-emissions technologies needed over the decade, above what is currently planned.", "rating": 9}
+{"question": "Why is reducing the physical risks of climate change important?", "answer": "Because the poorest populations are most exposed to these risks, and reducing them is part of ensuring general well-being.", "rating": 8}
+{"question": "What is the starting point for the NGFS scenarios used in the sustainability analysis?", "answer": "2020.", "rating": 7}
+{"question": "What percentage of global GDP is required annually to achieve the hypothetical progress over the decade?", "answer": "8 percent.", "rating": 8}
+{"question": "What is the estimated annual societal commitment required to close the remaining economic gaps?", "answer": "2 percent of global GDP.", "rating": 8}
+{"question": "What was the percentage of global net-zero spending made or subsidized by the public sector in 2020?", "answer": "90 percent.", "rating": 8}
+{"question": "What percentage of consumption of people below the empowerment line was supported by public and social spending in 2020?", "answer": "20 percent.", "rating": 8}
+{"question": "What percentage of global net-zero spending was made or subsidized by the public sector in 2020?", "answer": "90 percent.", "rating": 7}
+{"question": "What is the updated extreme poverty line per person per day, as reported by the World Bank?", "answer": "$2.15.", "rating": 9}
+{"question": "What is the proposed global floor for the empowerment line in PPP terms?", "answer": "$12 per person per day.", "rating": 9}
+{"question": "What percentage of consumption of people below the empowerment line was supported by public and social spending on in-kind transfers in 2020?", "answer": "About 20 percent.", "rating": 8}
+{"question": "What are some of the outcomes that improve when people rise meaningfully above poverty?", "answer": "Childhood mortality, life expectancy, years of schooling, digital and financial inclusion, and life satisfaction.", "rating": 9}
+{"question": "What is the global extreme poverty line set by the World Bank?", "answer": "$2.15 per person per day in 2017 purchasing power parity terms.", "rating": 10}
+{"question": "What is the empowerment line defined as?", "answer": "The point at which individuals can meet their essential needs and begin to achieve security.", "rating": 8}
+{"question": "What is included in the components of empowerment?", "answer": "Food, housing and energy, safe water access, transportation, healthcare, education, clothing, and communication.", "rating": 9}
+{"question": "How is the empowerment threshold expressed in the report?", "answer": "In 2020 US dollars, and it ranges between $3 and $50 per capita per day across countries.", "rating": 9}
+{"question": "What is the purpose of establishing each country's empowerment threshold?", "answer": "To size its empowerment gap\u2014the share of the population that falls short of sufficiency as well as the dollar amount that would bridge this gap.", "rating": 9}
+{"question": "How does the World Bank define its global extreme poverty line?", "answer": "The World Bank sets its global extreme poverty line at $2.15 per person per day in 2017 purchasing power parity terms.", "rating": 10}
+{"question": "What is the basis for the World Bank's global extreme poverty line?", "answer": "The World Bank's global extreme poverty line is the median of national poverty lines in more than two dozen of the world\u2019s poorest countries.", "rating": 10}
+{"question": "How does the concept of economic empowerment define a minimum acceptable standard of living?", "answer": "The concept of economic empowerment defines a minimum acceptable standard of living as having the means to afford nutrition, education, healthcare, housing, water and sanitation, and energy.", "rating": 9}
+{"question": "What is the daily income threshold suggested by Homi Kharas to lift people past extreme risk of falling back into poverty?", "answer": "$12 per person per day in PPP terms.", "rating": 8}
+{"question": "Why is an absolute PPP threshold not used for defining basic needs and security worldwide?", "answer": "Because the data set used prices a consistent basket of essential goods and services, not the economy-wide basket used in PPP measures, and some costs vary due to differing norms.", "rating": 8}
+{"question": "Who proposed using the high-income poverty threshold universally?", "answer": "Development economist Lant Pritchett.", "rating": 7}
+{"question": "What is the source of the global multidimensional poverty index 2023?", "answer": "Oxford Poverty & Human Development Initiative and UNDP, 2023.", "rating": 9}
+{"question": "Who proposed a truly global poverty measure in 2013?", "answer": "Martin Ravallion and Shaohua Chen.", "rating": 8}
+{"question": "How is the global middle-class line defined according to Homi Kharas?", "answer": "As $10 in 2005 PPP, later raised to $12 in 2017 PPP.", "rating": 8}
+{"question": "What is the name of the data set that compiles costs of essential goods worldwide?", "answer": "Living wages and income worldwide by WageIndicator Foundation.", "rating": 7}
+{"question": "What is the empowerment line for high-income economy in 2017 PPP?", "answer": "$47.", "rating": 7}
+{"question": "What is the global floor for the empowerment line in 2017 PPP terms?", "answer": "$12", "rating": 7}
+{"question": "How is the empowerment line related to the 'living wage' concept?", "answer": "The empowerment line is a consumption-based counterpart that complements the income-based 'living wage' metric.", "rating": 8}
+{"question": "What is the World Bank's definition of extreme poverty in 2017 PPP terms?", "answer": "$2.15 per person per day", "rating": 9}
+{"question": "What is the significance of the empowerment line in terms of individual well-being?", "answer": "It is the point at which people can begin to invest in themselves and have a fuller range of choices about shaping their lives, conveying the ability to participate in society, the freedom to enjoy life, and individual agency.", "rating": 9}
+{"question": "What is the basis for the extreme poverty spending distribution?", "answer": "India's first decile of household expenditure in the 2011\u201312 National Sample Survey of Household Consumer Expenditure", "rating": 8}
+{"question": "What is the empowerment line for high-income economies in 2017 PPP terms?", "answer": "$47", "rating": 8}
+{"question": "How many people worldwide are not yet fully economically empowered?", "answer": "About 4.7 billion people worldwide (approximately 60 percent of the global population) are not yet fully economically empowered.", "rating": 9}
+{"question": "Where do nearly half of the 4.4 billion people living in low- and middle-income countries reside?", "answer": "Nearly half are in sub-Saharan Africa and India.", "rating": 8}
+{"question": "What is the global population percentage that lives below the empowerment line?", "answer": "61% (4.7 billion) of the global population lives below the empowerment line.", "rating": 9}
+{"question": "How are cost-of-living thresholds adjusted in the analysis?", "answer": "Cost-of-living thresholds are adjusted for the estimated in-kind transfers provided in each country.", "rating": 8}
+{"question": "Why might families have better prospects for meeting their basic needs compared to individuals?", "answer": "Families that combine their resources would have better prospects for meeting their basic needs than individuals below this line living alone.", "rating": 8}
+{"question": "How many people worldwide need a boost in cumulative consumption to achieve universal empowerment by 2030?", "answer": "4.7 billion people.", "rating": 9}
+{"question": "What is the total amount required to boost the cumulative consumption of people below the empowerment line by 2030?", "answer": "Just over $37 trillion.", "rating": 9}
+{"question": "What percentage of the cohort's continued spending at 2020 levels is equivalent to the empowerment gap?", "answer": "40 percent.", "rating": 9}
+{"question": "How many people in high-income countries fall below the empowerment line?", "answer": "More than 300 million.", "rating": 9}
+{"question": "What is the result of leaving many people in vulnerable circumstances?", "answer": "It imposes limits on growth and risks destabilizing societies.", "rating": 8}
+{"question": "What is the expected outcome of achieving empowerment for individuals and the economy?", "answer": "It would create a virtuous cycle, enabling more people to participate in a knowledge-intensive and digital economy, and fueling future growth.", "rating": 9}
+{"question": "What is the net-zero investment gap?", "answer": "The incremental low-emissions spending needed by 2030 to change the climate trajectory.", "rating": 10}
+{"question": "What is the global low-emissions spending need from 2021 to 2030?", "answer": "$55 trillion.", "rating": 10}
+{"question": "What is the net-zero investment gap from 2021 to 2030?", "answer": "$41 trillion.", "rating": 10}
+{"question": "Which sectors have the biggest low-emissions spending needs?", "answer": "Power and mobility.", "rating": 9}
+{"question": "What is the difference between baseline and accelerated global economic growth rates?", "answer": "0.7 percentage point, with baseline growth at 2.7 percent and accelerated growth at 3.4 percent globally.", "rating": 9}
+{"question": "What scenarios are used to quantify the low-emissions spending needed to achieve net-zero emissions by 2030?", "answer": "Scenarios from the Network for Greening the Financial System (NGFS), adjusted for baseline and accelerated growth.", "rating": 8}
+{"question": "What is the total low-emissions spending need from 2021 to 2030?", "answer": "$55 trillion.", "rating": 9}
+{"question": "What is the net-zero investment gap from 2021 to 2030?", "answer": "$41 trillion.", "rating": 9}
+{"question": "How much would low-emissions spending need to scale up globally beyond the baseline scenario in a high-growth world?", "answer": "Almost $5 trillion.", "rating": 8}
+{"question": "What is the cumulative investment and spending required on low-emissions assets over the decade to get on track for net zero in a high-growth world?", "answer": "$55 trillion.", "rating": 9}
+{"question": "How is the rest of the spending need split after modeling?", "answer": "Between private actors (corporations and consumers) and public actors (governments, state-owned enterprises, multilaterals, and philanthropies) based on historical patterns and expert input.", "rating": 8}
+{"question": "How much would low-emissions spending need to scale up globally beyond the baseline scenario?", "answer": "Almost $5 trillion.", "rating": 8}
+{"question": "What is the cumulative investment and spending required on low-emissions assets over the decade to get on track for net zero in a high-growth world?", "answer": "$55 trillion.", "rating": 9}
+{"question": "What is the net-zero investment gap according to the text?", "answer": "$41 trillion.", "rating": 8}
+{"question": "Does the $41 trillion figure include spending on high-emissions assets?", "answer": "No, it excludes spending on high-emissions assets.", "rating": 9}
+{"question": "By how much could moving everyone to the empowerment line raise demand for energy-intensive products and services, and in turn emissions?", "answer": "As much as an additional 15 percent above the effects of accelerated growth alone.", "rating": 9}
+{"question": "How could the burden of carbon taxes on low-income households be mitigated?", "answer": "By recycling carbon tax revenue into transfers or subsidies.", "rating": 10}
+{"question": "What could happen to energy prices if carbon prices are imposed before low-emissions energy sources are widely available?", "answer": "Energy prices could rise in the near term.", "rating": 9}
+{"question": "How could the negative impacts of carbon taxes on low-income households be mitigated?", "answer": "By recycling carbon tax revenue into transfers or subsidies.", "rating": 10}
+{"question": "What is the expected net impact of the net-zero transition on jobs globally?", "answer": "Job gains could slightly outweigh job losses globally.", "rating": 8}
+{"question": "Why is it crucial to manage the net-zero transition effectively?", "answer": "To support consumers and workers in the most affected regions and sectors due to potential substantial churn as jobs are redistributed across industries and regions.", "rating": 9}
+{"question": "What could be the consequence of not acting to curb temperature rise?", "answer": "It could harm growth\u2014and empowerment\u2014substantially through effects such as impairing the ability to work outdoors, agricultural losses, and damage to capital stock.", "rating": 9}
+{"question": "How do the empowerment and net-zero investment gaps vary across different parts of the world?", "answer": "The gaps vary widely in magnitude across different parts of the world, not only in absolute dollar terms but also relative to GDP.", "rating": 8}
+{"question": "What percentage of world GDP is the global empowerment gap equivalent to on average annually by 2030?", "answer": "4 percent.", "rating": 7}
+{"question": "What is the empowerment gap as a percentage of annual GDP in high-income regions?", "answer": "1 percent.", "rating": 8}
+{"question": "What is the empowerment gap as a percentage of GDP in sub-Saharan Africa?", "answer": "45 percent.", "rating": 8}
+{"question": "What is the net-zero investment gap as a percentage of global GDP each year?", "answer": "4 percent.", "rating": 8}
+{"question": "How does the net-zero investment gap in high-income regions compare to their 2020 levels of investment?", "answer": "About four to five times higher.", "rating": 8}
+{"question": "What are the twin challenges faced by most developing regions in terms of net-zero investment?", "answer": "Replacing fossil fuel generation while substantially broadening energy access and meeting the energy needs of growing economies\u2014and doing so in a low-emissions way.", "rating": 9}
+{"question": "What are the twin challenges faced by economies?", "answer": "Replacing fossil fuel generation while substantially broadening energy access and meeting the energy needs of growing economies\u2014and doing so in a low-emissions way.", "rating": 9}
+{"question": "What is the global empowerment gap?", "answer": "$37 trillion.", "rating": 7}
+{"question": "Which region has the largest share of the global empowerment gap?", "answer": "Sub-Saharan Africa with 25%.", "rating": 9}
+{"question": "What is the global net-zero investment gap?", "answer": "$41 trillion.", "rating": 8}
+{"question": "How do developed countries compare to developing countries in terms of reaching net zero emissions?", "answer": "Developed countries typically reach net zero earlier than developing countries.", "rating": 8}
+{"question": "What is the starting point for the scenario described in the text?", "answer": "The NGFS Net Zero 2050 scenario using REMIND-MAgPIE (phase 2), modified for a higher-growth scenario.", "rating": 9}
+{"question": "What is the estimated annual global baseline growth rate?", "answer": "2.7 percent per year globally.", "rating": 8}
+{"question": "How many people could be lifted into empowerment by 2030 due to baseline growth?", "answer": "830 million people.", "rating": 8}
+{"question": "By how much could productivity in farm and non-farm sectors be raised each year across regions?", "answer": "By at least 0.5 to 1.0 percent each year.", "rating": 9}
+{"question": "What would be the result if global growth could reach 3.4 percent annually?", "answer": "More resources would also become available for public goods and social spending.", "rating": 8}
+{"question": "What percentage of lower- and mid-skill workers could see their wages rise by 2030 if equipped to take on higher-skill jobs?", "answer": "Roughly 10 percent.", "rating": 8}
+{"question": "How much of the global empowerment gap could be closed by higher growth combined with creating and filling more productive jobs?", "answer": "An additional $10 trillion.", "rating": 9}
+{"question": "How many people could be lifted into empowerment due to higher growth and more productive jobs?", "answer": "2.1 billion people.", "rating": 9}
+{"question": "What would be the share of the global population below the empowerment line by the end of the decade in the described scenario?", "answer": "30 percent.", "rating": 8}
+{"question": "How many people could be lifted into empowerment and out of poverty if a certain economic scenario is achieved?", "answer": "2.1 billion people could be lifted into empowerment and 600 million more out of poverty.", "rating": 9}
+{"question": "What is the projected share of the global population below the empowerment line by the end of the decade in the described scenario?", "answer": "The share of the global population below the empowerment line drops to 30 percent.", "rating": 9}
+{"question": "By when could accelerated economic growth potentially eliminate the most severe forms of poverty in much of the world?", "answer": "By 2030.", "rating": 8}
+{"question": "What is used as a proxy for poverty in the report?", "answer": "20 percent of the empowerment line is used as a proxy for poverty.", "rating": 8}
+{"question": "How many people could exit poverty in sub-Saharan Africa under accelerated productivity-driven growth?", "answer": "250 million people could exit poverty.", "rating": 8}
+{"question": "How much low-emissions spending could be unlocked this decade through growth and innovation?", "answer": "$15 trillion of new low-emissions spending could be unlocked.", "rating": 9}
+{"question": "What percentage of the $1.4 trillion low-emissions investment in 2020 was fully private?", "answer": "About 10 percent.", "rating": 8}
+{"question": "How much additional low-emissions investment could occur by 2030 without changes to the policy frameworks that existed in 2020?", "answer": "An additional $15 trillion in investment could occur.", "rating": 9}
+{"question": "How much additional investment could occur by 2030 without changes to the 2020 policy frameworks?", "answer": "$15 trillion", "rating": 7}
+{"question": "What percentage of the 'in the money' opportunities are made up by the power and mobility sectors in China, Europe, India, and the United States?", "answer": "About 70 percent", "rating": 8}
+{"question": "What is the estimated amount of new viable investment opportunities across solar and wind generation in certain regions by 2030?", "answer": "Almost $700 billion", "rating": 8}
+{"question": "What proportion of the combined empowerment and net-zero investment gaps could be closed by market forces and continued current policies?", "answer": "Roughly half", "rating": 7}
+{"question": "How much low-emissions spending could become viable for private actors by 2030?", "answer": "$10 trillion", "rating": 8}
+{"question": "What is the estimated amount of additional investment coming on stream by 2030?", "answer": "$14 trillion", "rating": 8}
+{"question": "What could close roughly half of the combined empowerment and net-zero investment gaps at the global level?", "answer": "Market forces\u2014the combination of higher productivity-driven growth, business innovation, and technology advances\u2014plus the continuation of current policies and public commitments.", "rating": 9}
+{"question": "By how much could market-led opportunities and continued current policies get the world toward the combined goals?", "answer": "Potentially halfway.", "rating": 8}
+{"question": "What is the estimated amount of the empowerment gap that could be filled by market-led opportunities and continued current policies?", "answer": "$37 trillion.", "rating": 8}
+{"question": "In which countries could accelerated growth and business innovation erase more than 90 percent of the empowerment gaps by 2030?", "answer": "India and China.", "rating": 9}
+{"question": "How many people could be lifted above the empowerment threshold in India and China by 2030 due to accelerated growth and business innovation?", "answer": "About 700 million people in India and over 730 million in China.", "rating": 9}
+{"question": "What percentage of the net-zero gap could be filled by growth and business-led innovation plus continued current policies?", "answer": "About 30 to 60 percent.", "rating": 9}
+{"question": "What is the total unfilled gap across both empowerment and net zero, cumulative through the decade?", "answer": "$40 trillion.", "rating": 9}
+{"question": "How much of the residual gap is accounted for by developing countries globally?", "answer": "Nearly two-thirds.", "rating": 8}
+{"question": "Which region has the highest unfilled economic gap?", "answer": "Sub-Saharan Africa.", "rating": 8}
+{"question": "What is the global unfilled empowerment gap, in trillion dollars?", "answer": "$13 trillion.", "rating": 9}
+{"question": "What is the global unfilled net-zero investment gap, in trillion dollars?", "answer": "$26 trillion.", "rating": 9}
+{"question": "What percentage of the gap can be filled by growth and business-led innovation globally?", "answer": "Between 30 to 60 percent.", "rating": 9}
+{"question": "What percentage of the global residual gap is accounted for by developing countries?", "answer": "Nearly two-thirds.", "rating": 8}
+{"question": "Which region has the highest unfilled economic gap?", "answer": "Sub-Saharan Africa.", "rating": 8}
+{"question": "What is the global unfilled empowerment gap in trillion dollars?", "answer": "$13.4T.", "rating": 8}
+{"question": "What is the global unfilled net-zero investment gap in trillion dollars?", "answer": "$26.2T.", "rating": 8}
+{"question": "How many people would remain below the empowerment line by 2030 if economic growth stays at the baseline and innovation does not bring down the cost of low-emissions technologies?", "answer": "3.9 billion.", "rating": 9}
+{"question": "What percentage of the population in sub-Saharan Africa is below the empowerment line?", "answer": "90 percent.", "rating": 8}
+{"question": "What is Africa's gap to reach full empowerment as a percentage of GDP?", "answer": "33 percent.", "rating": 8}
+{"question": "What is Africa's gap to reach full empowerment equivalent to?", "answer": "33 percent of GDP.", "rating": 8}
+{"question": "What percentage of Africa's population was below 50 percent of full empowerment in 2020?", "answer": "70 percent.", "rating": 8}
+{"question": "By how much would spending power need to increase to get Africa's population above 50 percent of full empowerment?", "answer": "11 percent of GDP.", "rating": 8}
+{"question": "Which countries could close at least 70 percent of their full empowerment gaps through market-led opportunities?", "answer": "Algeria, Botswana, Egypt, and Morocco.", "rating": 9}
+{"question": "How many people across Africa could be above 50 percent of the empowerment line by 2030 under the accelerated growth scenario?", "answer": "770 million.", "rating": 9}
+{"question": "By how much could the number of people living in extreme poverty drop over the decade under the accelerated growth scenario?", "answer": "Just under 270 million.", "rating": 8}
+{"question": "What strategies could African economies use to accelerate outcomes such as reducing poverty and increasing empowerment?", "answer": "Digitization, talent development, regional collaboration, and industry champions.", "rating": 7}
+{"question": "What is the total empowerment gap in the given scenarios?", "answer": "$37T", "rating": 8}
+{"question": "What is the total net-zero investment gap in the given scenarios?", "answer": "$41T", "rating": 8}
+{"question": "How many people are expected to reach empowerment by 2030 in Scenario C?", "answer": "4.7B", "rating": 8}
+{"question": "What is the expected warming by 2100 in Scenario C?", "answer": "1.5\u00baC", "rating": 9}
+{"question": "What is the cumulative societal commitment with market responses to fill the residual gap in Scenario C from 2021 to 2030?", "answer": "$20T", "rating": 7}
+{"question": "What is the starting point for the empowerment line based on?", "answer": "A global floor of $12 PPP of consumption per capita per day, based on academic research.", "rating": 9}
+{"question": "What is the estimated residual economic gap for universal empowerment?", "answer": "$13 trillion.", "rating": 8}
+{"question": "How could societies potentially close the empowerment gap?", "answer": "By increasing commitments and making essentials more affordable through public support and private/business actions.", "rating": 8}
+{"question": "What are the three main areas where public-private action can make essentials more affordable?", "answer": "Education, Healthcare, and Affordable essentials (including Housing, Food, and Labor-friendly policies).", "rating": 9}
+{"question": "What is the estimated benefit of improving capacity and productivity in essential goods and services to those below the empowerment line?", "answer": "$3 trillion (cumulatively through 2030).", "rating": 9}
+{"question": "Where can additional societal commitment for empowerment come from?", "answer": "A range of sources, including more efficient use of public funds, reprioritized government spending, taxes, debt, multilateral agencies, or philanthropic entities.", "rating": 9}
+{"question": "Where can looking for operational efficiencies and raising the bar for quality ensure that public funds are well spent?", "answer": "In places where the public sector provides essential services.", "rating": 8}
+{"question": "By how much could housing expenditures be lowered globally if all countries emulated their best-performing peers?", "answer": "11 percent.", "rating": 8}
+{"question": "By how much could health outcomes improve globally if each country matched its best-performing peer over the next decade?", "answer": "36 percent.", "rating": 8}
+{"question": "What is one way local governments can lower costs for private developers in housing?", "answer": "By changing regulations related to land use, density, and permitting.", "rating": 8}
+{"question": "What is the estimated unfilled global gap that needs to be addressed?", "answer": "$10 trillion.", "rating": 7}
+{"question": "What percentage of total global government budgets over the decade would be required to achieve full empowerment?", "answer": "3 percent.", "rating": 8}
+{"question": "What is the residual unfilled net-zero investment gap after accounting for market forces, technological advances, and current policies?", "answer": "$26 trillion, cumulative through the decade.", "rating": 9}
+{"question": "What is the estimated residual unfilled net-zero investment gap through the decade?", "answer": "$26 trillion.", "rating": 8}
+{"question": "What percentage of global GDP annually is equivalent to the residual unfilled net-zero investment gap?", "answer": "3 percent.", "rating": 8}
+{"question": "How much public funding could potentially unlock in additional positive impact collectively to 2030?", "answer": "Almost $17 trillion.", "rating": 8}
+{"question": "What is the estimated amount of public funding required to unlock additional positive impact?", "answer": "Just under $10 trillion.", "rating": 8}
+{"question": "What percentage of the total $55 trillion needed through 2030 could be private in-the-money spending?", "answer": "One-quarter.", "rating": 7}
+{"question": "How much of the total investment could potentially come from private actors?", "answer": "$31 trillion.", "rating": 9}
+{"question": "What percentage of crowded-in private spending could occur in the building and mobility sectors?", "answer": "About 70 percent.", "rating": 9}
+{"question": "What is the estimated amount of avoided investment due to additional R&D, economies of scale, and learning by doing?", "answer": "Up to $4 trillion.", "rating": 9}
+{"question": "What percentage of total global government budgets over the decade is represented by the $10 trillion public commitment to be on track for net zero?", "answer": "About 3 percent.", "rating": 9}
+{"question": "What is required to fully close the net-zero investment gap?", "answer": "Fully closing the net-zero investment gap relies on the assumption that higher public commitments can activate more private capital.", "rating": 8}
+{"question": "What is the estimated net-zero investment gap by 2030?", "answer": "The net-zero investment gap is estimated to be $41 trillion by 2030.", "rating": 9}
+{"question": "How can governments address the residual gaps in net-zero investment?", "answer": "Governments could explore making their spending more efficient, reallocating existing spending, issuing new debt, or raising taxes.", "rating": 9}
+{"question": "What role can carbon pricing play in achieving net zero?", "answer": "Carbon pricing can play a role in spurring the switch away from high-carbon assets.", "rating": 8}
+{"question": "What is the total low-emissions spending need?", "answer": "The total low-emissions spending need is shown in Exhibit E12, but the exact figure is not directly stated in the text; however, the 2020 low-emissions spending extended over the decade is mentioned.", "rating": 7}
+{"question": "What is meant by a technology being 'in the money'?", "answer": "A low-emissions technology is 'in the money' if it is cost-competitive with its high-emissions alternative, meaning its total cost of ownership is lower.", "rating": 9}
+{"question": "How does the use of carbon taxes instead of subsidies affect the need for additional public support to reach net zero?", "answer": "Using carbon taxes instead of subsidies reduces the need for additional public support to reach net zero by 0.4 percentage point of GDP.", "rating": 9}
+{"question": "What is the impact of carbon taxes on the residual empowerment gap unless mitigated by revenue recycling?", "answer": "The residual empowerment gap would rise by 0.2 percentage point of GDP on average annually unless mitigated by revenue recycling.", "rating": 9}
+{"question": "Why is achieving full empowerment and a net-zero trajectory challenging for lower- and middle-income countries?", "answer": "Allocating large amounts to the net-zero transition could eat into existing social welfare programs, potentially worsening the empowerment gap, and debt is also problematic as 60 percent of low-income countries are already in debt distress or approaching it.", "rating": 9}
+{"question": "What would be required for high-income countries to take on the combined residual gaps in the entire world?", "answer": "It would require an amount equivalent to about 3.5 percent of their GDP on an average annual basis.", "rating": 9}
+{"question": "How much can the empowerment gap be closed by baseline growth?", "answer": "Almost 40 percent of the empowerment gap can be closed by baseline growth.", "rating": 8}
+{"question": "What is the effect of one extra percentage point of growth on the unfilled empowerment gap?", "answer": "One extra percentage point of growth reduces the unfilled empowerment gap by more than one percentage point of GDP.", "rating": 8}
+{"question": "How much additional public debt can be incurred globally without raising the 2020 global public debt\u2013to-GDP ratio?", "answer": "More than $30 trillion.", "rating": 8}
+{"question": "What is the estimated carbon price range used by NGFS for emerging economies like India and the United States?", "answer": "About $78 per ton of emissions for emerging economies like India to about $300 in the United States.", "rating": 7}
+{"question": "How many people could be brought out of poverty due to higher growth and innovation?", "answer": "600 million more people.", "rating": 8}
+{"question": "What is required for developing economies to help more people exit poverty?", "answer": "They need to double down on productivity, skill development, and technological leapfrogging, and may also need institutional reforms.", "rating": 9}
+{"question": "What is the role of innovation in achieving net zero and lowering the associated costs?", "answer": "Relentlessly focusing on technology development is one of the keys to getting to net zero and lowering the price tag associated with doing so.", "rating": 9}
+{"question": "What is the effect of innovation and technology adoption on job skills and basic needs?", "answer": "Innovation and technology adoption generate demand for higher skills and better jobs, and can bring down the costs (and prices) of basic needs.", "rating": 9}
+{"question": "What is needed to tap efficiency-boosting opportunities and bring down the costs of basic needs?", "answer": "Innovation is needed to tap efficiency-boosting opportunities and bring down the costs (and prices) of basic needs.", "rating": 9}
+{"question": "What are some of the sweeping transformations required to lift minimum living standards and contain climate change?", "answer": "Creating new multilateral financing vehicles, integrating low-income countries into global flows of capital and trade, developing sustainable cities with affordable housing, strengthening education and healthcare systems worldwide, and designing effective carbon markets.", "rating": 9}
+{"question": "Who needs to combine their capabilities and expertise to make progress toward empowerment and net zero?", "answer": "Private actors, governments, and NGOs and nonprofits need to combine their capabilities and expertise.", "rating": 9}
+{"question": "What is required for countries to take on generational transformations?", "answer": "An entirely different magnitude of public\u2013private cooperation is needed.", "rating": 8}
+{"question": "What data sources were used for the net-zero modeling in this research?", "answer": "Several proprietary McKinsey assets, including McKinsey Net Zero Analytics, McKinsey Hydrogen Insights, the McKinsey Center for Future Mobility, and McKinsey Power Solutions, as well as external sources such as the International Energy Agency (IEA).", "rating": 9}
+{"question": "How many people worldwide exited extreme poverty in the three decades preceding the pandemic?", "answer": "A billion people worldwide exited extreme poverty.", "rating": 8}
+{"question": "What is the World Bank's poverty line set at?", "answer": "$2.15 per day.", "rating": 9}
+{"question": "By how much has mortality for children under age five been reduced since 1990?", "answer": "Almost 60 percent.", "rating": 8}
+{"question": "How many people were still in extreme poverty worldwide as of 2020?", "answer": "730 million people.", "rating": 9}
+{"question": "Why have development experts discussed setting a higher bar for living standards?", "answer": "To take into account the vulnerability of the cohort that is not formally counted as 'poor' but still unable to secure an economic foothold.", "rating": 9}
+{"question": "What is the target year of the Sustainable Development Goals?", "answer": "2030.", "rating": 8}
+{"question": "What is the empowerment line a metric to ensure for everyone?", "answer": "Everyone has the means to meet their essential needs, including food, housing and energy, safe water access, transportation, healthcare, education, clothing, and communication, with small margins for spending toward civic engagement and a savings buffer.", "rating": 9}
+{"question": "What is the estimated range of the empowerment line across countries in 2020 US dollar terms?", "answer": "Between $3 and $50 per capita per day.", "rating": 8}
+{"question": "What does empowerment enable people to do?", "answer": "Make real choices about discretionary purchases and invest in themselves.", "rating": 9}
+{"question": "Why was 2020 chosen as a starting point for the analysis?", "answer": "In part because of data availability and also to provide a clear decade-long line of sight.", "rating": 8}
+{"question": "What is the empowerment line?", "answer": "The empowerment line is the point at which individuals can meet their essential needs and begin to achieve security.", "rating": 9}
+{"question": "What is the global floor for the minimum level of consumption needed in the lowest-income countries?", "answer": "$12 (in purchasing power parity, or PPP, terms) per person per day in developing countries.", "rating": 9}
+{"question": "What is the daily spending pattern for the empowerment line in low-/middle-income economies?", "answer": "$12 PPP.", "rating": 7}
+{"question": "What is the daily spending pattern for the empowerment line in high-income economies?", "answer": "$47 PPP.", "rating": 7}
+{"question": "What are the components of empowerment?", "answer": "Food, Healthcare, Education, Housing and energy, Communication, Transportation, Clothing, Safe water access, Savings buffer, and Civic engagement.", "rating": 9}
+{"question": "How do the means required to achieve sufficiency in basic needs vary?", "answer": "They vary by stage of development.", "rating": 7}
+{"question": "What is the source of the cost-of-living data used to raise the floor for countries at higher income levels?", "answer": "Detailed 2022 and 2023 cost-of-living data from the WageIndicator Foundation.", "rating": 9}
+{"question": "Who collects and shares data on wages and the cost of living globally?", "answer": "The WageIndicator Foundation.", "rating": 9}
+{"question": "What is the definition of extreme poverty according to the World Bank?", "answer": "$2.15 per person per day in 2017 PPP terms.", "rating": 9}
+{"question": "What is used to derive the empowerment distribution for a low-/middle-income economy?", "answer": "Spending required to meet basic needs, derived from WageIndicator Foundation data for India.", "rating": 8}
+{"question": "Why is having one empowerment threshold for a given country not ideal?", "answer": "It does not reflect how housing and other costs vary from region to region within the country.", "rating": 9}
+{"question": "What is the empowerment line for a high-income economy?", "answer": "$47 PPP.", "rating": 7}
+{"question": "What is the global empowerment line in 2017 PPP terms?", "answer": "$12.", "rating": 8}
+{"question": "Who provides the data on wages and the cost of living used to derive the empowerment distribution for India?", "answer": "WageIndicator Foundation.", "rating": 8}
+{"question": "How is the global empowerment line floor adjusted for each country?", "answer": "Using International Monetary Fund (IMF) and OECD data to account for in-kind transfers such as universal healthcare and free public K\u201312 schools.", "rating": 9}
+{"question": "What is the definition of extreme poverty according to the World Bank?", "answer": "$2.15 per person per day in 2017 PPP terms.", "rating": 9}
+{"question": "Why do empowerment thresholds vary across countries?", "answer": "Because they reflect each country's cost of living and context.", "rating": 8}
+{"question": "What is the purpose of the WageIndicator Foundation?", "answer": "To collect and share data on wages and the cost of living globally to create labor market transparency and advocate for workers earning fair wages.", "rating": 9}
+{"question": "How do in-kind transfers affect the empowerment threshold?", "answer": "They lower out-of-pocket costs needed for individuals and families, such as healthcare and education costs.", "rating": 8}
+{"question": "What percentage of the global population was not fully economically empowered as of 2020?", "answer": "Approximately 60 percent.", "rating": 9}
+{"question": "How many people worldwide were not fully economically empowered as of 2020?", "answer": "About 4.7 billion people.", "rating": 9}
+{"question": "How many people in low- and middle-income countries were not fully economically empowered as of 2020?", "answer": "Some 4.4 billion people.", "rating": 9}
+{"question": "What is the concept of economic empowerment according to the text?", "answer": "The point at which people can begin to invest in themselves and make choices about issues such as where they live and what paths they will pursue as workers and consumers.", "rating": 9}
+{"question": "How many people worldwide live below the empowerment line?", "answer": "4.7 billion people live below the empowerment line.", "rating": 9}
+{"question": "What percentage of the global population lives below the empowerment line?", "answer": "61% of the global population lives below the empowerment line.", "rating": 9}
+{"question": "How many people globally meet less than 20 percent of their essential needs?", "answer": "Some 850 million people globally meet less than 20 percent of their essential needs.", "rating": 9}
+{"question": "What is the global floor for the empowerment line in PPP terms?", "answer": "The global floor is $12 PPP, however, it is mentioned as $122 in 2020 $.", "rating": 7}
+{"question": "What is the empowerment line for the EU, and why is it higher than the global floor?", "answer": "The empowerment line for the EU is $32\u00b3, and it is higher given its single-market nature and to harmonize the line in PPP terms within the bloc.", "rating": 7}
+{"question": "Which regions are home to more than 40 percent of the global population below the empowerment line?", "answer": "Sub-Saharan Africa and India are home to more than 40 percent of the global population below the empowerment line.", "rating": 9}
+{"question": "What is the estimated global empowerment gap through 2030?", "answer": "$37 trillion.", "rating": 8}
+{"question": "What percentage of households in the United States spend more than 30 percent of their income on housing?", "answer": "About 30 percent.", "rating": 8}
+{"question": "What is the gap in life expectancy between low- and high-income countries?", "answer": "18 years.", "rating": 8}
+{"question": "What is one of the challenges faced by people living below the empowerment line in terms of housing?", "answer": "They may have to accept poorly maintained housing, take on longer daily commutes, crowd too many people into small spaces, or pay rent that strains their monthly budget.", "rating": 9}
+{"question": "How does the text describe the financial situation of people living below the empowerment line?", "answer": "They typically lack savings to cushion against emergencies or build a more secure retirement and live paycheck to paycheck, demanding a constant financial balancing act.", "rating": 9}
+{"question": "What is the difference in average life expectancy between the lowest and highest income quintiles in India?", "answer": "Eight years.", "rating": 8}
+{"question": "What is one of the problems related to education in some parts of Africa?", "answer": "The cost of school fees prevents some children from enrolling.", "rating": 8}
+{"question": "What is the estimated global empowerment gap cumulative through 2030?", "answer": "$37 trillion.", "rating": 8}
+{"question": "What is the average annual empowerment gap as a percentage of the population's 2020 spending levels?", "answer": "About 40 percent.", "rating": 8}
+{"question": "How is the size of the empowerment gap affected by the chosen threshold and timeframe?", "answer": "Lowering the threshold or allowing the trajectory to play out over a longer timeframe would produce different results.", "rating": 7}
+{"question": "What is the empowerment gap as a percentage of GDP in high-income regions, including the EU, Japan, and the United States?", "answer": "1 percent.", "rating": 8}
+{"question": "What is the empowerment gap as a percentage of GDP in China on an annual average basis to 2030?", "answer": "2 percent.", "rating": 8}
+{"question": "By when is the entire population supposed to be lifted to the empowerment line according to the analysis?", "answer": "2030.", "rating": 9}
+{"question": "What is assumed about the spending power of people below the empowerment line between 2020 and 2030?", "answer": "They gain a bit more spending power each year.", "rating": 7}
+{"question": "What is the empowerment gap equivalent to in high-income regions, including the EU, Japan, and the United States, as a percentage of GDP each year?", "answer": "1 percent of GDP each year.", "rating": 9}
+{"question": "What is the annual average empowerment gap as a percentage of GDP in sub-Saharan Africa?", "answer": "45 percent of GDP.", "rating": 9}
+{"question": "How does the empowerment gap in India change if the threshold is set 50 percent lower?", "answer": "India's gap would be 3 percent of GDP.", "rating": 8}
+{"question": "What is the cumulative empowerment gap in sub-Saharan Africa from 2021 to 2030 in trillion dollars?", "answer": "9.3 trillion dollars.", "rating": 9}
+{"question": "Why might China still have populations below the empowerment threshold in 2030, even if the gap is closed by 2020 standards?", "answer": "Because the threshold will rise as a country develops.", "rating": 8}
+{"question": "What are the positive human development outcomes correlated with empowerment at a societal level?", "answer": "Reduced childhood mortality, longer life expectancy, additional years of schooling, and expanded digital and financial inclusion.", "rating": 9}
+{"question": "By 2050, what would the global generation coming into adulthood be equipped to do?", "answer": "By 2050, the global generation coming into adulthood would be equipped to fulfill its potential.", "rating": 7}
+{"question": "What can significantly improve an individual\u2019s opportunities for productivity and well-being over a lifetime?", "answer": "Growing up with better health and nutrition, higher-quality education, the ability to buffer shocks, and a more stable environment can significantly improve an individual\u2019s opportunities for productivity and well-being over a lifetime.", "rating": 10}
+{"question": "Why is investing in children considered important from an economic perspective?", "answer": "Investing in children yields enormous economic and societal benefits.", "rating": 8}
+{"question": "What is needed to achieve broad-based prosperity in the decades ahead?", "answer": "The world will need many more educated, empowered adults to achieve broad-based prosperity.", "rating": 8}
+{"question": "Why is empowerment urgent alongside sustainability?", "answer": "Empowerment is urgent alongside sustainability because the net-zero transition requires broad public support, and if people feel that investment to address the climate agenda is crowding out their prospects for a better life, popular pressure could build for countries to opt out of the effort altogether.", "rating": 9}
+{"question": "How are empowerment, growth, and sustainability related?", "answer": "Empowerment is inextricably linked to growth and sustainability.", "rating": 7}
+{"question": "By 2050, what would the global generation coming into adulthood be able to do?", "answer": "By 2050, the global generation coming into adulthood would be equipped to fulfill its potential.", "rating": 7}
+{"question": "What factors can improve an individual\u2019s opportunities for productivity and well-being?", "answer": "Growing up with better health and nutrition, higher-quality education, the ability to buffer shocks, and a more stable environment.", "rating": 9}
+{"question": "Why is investing in children economically important?", "answer": "Investing in children yields enormous economic and societal benefits.", "rating": 7}
+{"question": "Why is empowerment crucial for the net-zero transition?", "answer": "Because the net-zero transition requires broad public support, and people need to feel their prospects for a better life are not being crowded out by climate investments.", "rating": 9}
+{"question": "How are empowerment, growth, and sustainability related?", "answer": "Empowerment is inextricably linked to growth and sustainability.", "rating": 7}
+{"question": "What is the total amount of low-emissions investment and spending needed over the decade to reach net-zero emissions in a scenario of accelerated economic growth?", "answer": "$55 trillion.", "rating": 8}
+{"question": "By when could the world deplete its 'carbon budget' for limiting warming to 1.5\u00b0C relative to preindustrial levels at current emissions levels?", "answer": "The end of the current decade.", "rating": 8}
+{"question": "What is the incremental investment need to reach net-zero emissions relative to 2020 spending levels?", "answer": "$41 trillion.", "rating": 9}
+{"question": "What percentage of global GDP annually is the incremental investment need roughly equivalent to?", "answer": "4 percent.", "rating": 9}
+{"question": "What are some of the areas that the incremental investment need would go toward?", "answer": "Assets that deliver renewable power and other low-emissions sources of energy as well as electric vehicles.", "rating": 8}
+{"question": "What is the total low-emissions investment and spending needed over the decade?", "answer": "$55 trillion.", "rating": 9}
+{"question": "How much of an increase is the needed low-emissions investment and spending relative to 2020 spending levels?", "answer": "$41 trillion.", "rating": 8}
+{"question": "What percentage of global GDP annually is the incremental investment need roughly equivalent to?", "answer": "4 percent.", "rating": 8}
+{"question": "What is the cumulative total of low-emissions investment if the world continued investing at constant 2020 levels through the decade?", "answer": "About $14 trillion.", "rating": 8}
+{"question": "What percentage of all greenhouse gas emissions across countries does the research consider?", "answer": "85 percent.", "rating": 8}
+{"question": "By what year does the research aim to put the world on a path to global net zero?", "answer": "2050.", "rating": 8}
+{"question": "What is the total low-emissions investment required by 2030 to be on track for net zero by 2050?", "answer": "$41 trillion", "rating": 8}
+{"question": "What was the total spending on low-emissions assets in 2020?", "answer": "About $1.4 trillion per year, or 1.7 percent of global GDP.", "rating": 9}
+{"question": "How much did clean energy investment grow in 2021 and 2022 compared to 2020 levels?", "answer": "Only about 15 to 30 percent above 2020 levels.", "rating": 8}
+{"question": "What is the cumulative total of low-emissions investment if the world continued investing at constant 2020 levels through the decade?", "answer": "Only about $14 trillion.", "rating": 8}
+{"question": "What percentage of global greenhouse gas emissions are accounted for in the research analysis?", "answer": "85 percent.", "rating": 8}
+{"question": "What percentage of global GDP is required annually to achieve the net-zero investment need under the accelerated growth scenario?", "answer": "Just under 4 percent.", "rating": 8}
+{"question": "What is the total net-zero investment need under the accelerated economic growth scenario?", "answer": "About $55 trillion.", "rating": 8}
+{"question": "How much of an increase in spending on low-emissions assets is required compared to current levels under the baseline growth scenario?", "answer": "Roughly $37 trillion.", "rating": 7}
+{"question": "What is the assumed annual global GDP growth rate under the baseline scenario?", "answer": "Roughly 2.7 percent.", "rating": 8}
+{"question": "What is the target year for achieving net-zero CO\u2082 emissions according to the NGFS Net Zero 2050 scenario?", "answer": "2050.", "rating": 9}
+{"question": "What is the expected warming limit by 2100 according to the NGFS Net Zero 2050 scenario?", "answer": "1.5 degrees Celsius.", "rating": 9}
+{"question": "What is the total net-zero investment needed by the end of the decade?", "answer": "$55 trillion.", "rating": 8}
+{"question": "What is the net-zero investment gap defined as?", "answer": "The incremental low-emissions spending needed in global energy and land-use systems relative to today\u2019s levels.", "rating": 9}
+{"question": "How much is the incremental increase in low-emissions spending needed through 2030 in a high-growth scenario?", "answer": "$41 trillion.", "rating": 8}
+{"question": "What percentage of global GDP is the net-zero investment gap equivalent to on average each year?", "answer": "Just under 4 percent.", "rating": 8}
+{"question": "By when does the world need to get to net zero according to the report?", "answer": "2050.", "rating": 8}
+{"question": "What happens to high-emissions investment globally in the scenario modeled?", "answer": "It continues but at falling levels.", "rating": 9}
+{"question": "What is the low annual average of high-emissions investment from 2046 to 2050?", "answer": "$700 billion.", "rating": 8}
+{"question": "What percentage of global emissions do the estimates cover?", "answer": "85%.", "rating": 8}
+{"question": "Which sector accounts for more than one-third of the net-zero investment gap in the current decade?", "answer": "Mobility.", "rating": 8}
+{"question": "What is the total low-emissions spending need from 2021 to 2030?", "answer": "$55 trillion.", "rating": 9}
+{"question": "How much is the net-zero investment gap from 2021 to 2030?", "answer": "$41 trillion.", "rating": 9}
+{"question": "What is the net-zero investment need for the mobility sector from 2021 to 2030?", "answer": "$14.7 trillion.", "rating": 9}
+{"question": "How many battery electric and fuel cell electric vehicles are expected by 2030?", "answer": "More than 450 million.", "rating": 9}
+{"question": "What is the starting point for the estimates in the report?", "answer": "The NGFS Net Zero 2050 scenario using REMIND-MAgPIE (phase 2), modified for a higher-growth scenario.", "rating": 8}
+{"question": "What is the additional cumulative gap related to needs in the power sector?", "answer": "About $14 trillion.", "rating": 8}
+{"question": "What are the three categories of fundamental system-level requirements to achieve net-zero emissions?", "answer": "Physical building blocks, Economic and societal adjustments, and Governance, institutions, and commitment.", "rating": 9}
+{"question": "What is required to support new technology deployment?", "answer": "Supply chains would need to be built out, requiring significant capital, the right capabilities, and extensive coordination.", "rating": 9}
+{"question": "Why are natural resources like copper, nickel, and rare earth metals important for the transition to net zero?", "answer": "They need to be carefully managed to minimize bottlenecks and prevent price spikes and inflation.", "rating": 8}
+{"question": "What is required to secure an orderly transition to a net-zero pathway?", "answer": "Leaders need to develop coherent, reliable, and workable policies and help their organizations navigate the changes that lie ahead, with the support of citizens and consumers.", "rating": 7}
+{"question": "What percentage of global electricity would be generated via renewables by 2030 in the NGFS Net Zero by 2050 scenario?", "answer": "70 percent", "rating": 9}
+{"question": "What is the required increase in the stock of heat pumps in the current decade?", "answer": "Five times", "rating": 8}
+{"question": "How much investment is needed in agriculture to promote lower-carbon approaches?", "answer": "$3 trillion", "rating": 8}
+{"question": "What is the total net-zero investment gap globally, cumulative from 2021 to 2030?", "answer": "$41 trillion", "rating": 9}
+{"question": "Which region has the highest investment need in Transmission and Distribution (T&D)?", "answer": "China", "rating": 7}
+{"question": "What is the annualized net-zero investment gap as a percentage of GDP equivalent globally?", "answer": "4 percent", "rating": 8}
+{"question": "What percentage of cement is projected to be produced using low-emissions technologies by 2030?", "answer": "About 25 percent.", "rating": 7}
+{"question": "What are some methods for reducing livestock emissions?", "answer": "Using anaerobic digestors, feed additives, and nitrogen inhibitors.", "rating": 8}
+{"question": "Which sector represents a larger share of the net-zero investment gap in developing countries compared to higher-income economies?", "answer": "Power.", "rating": 7}
+{"question": "What is the projected increase in electricity generation in developing economies compared to higher-income regions by the end of the current decade?", "answer": "Roughly 25 percent in developing economies compared to approximately 10 percent in higher-income regions.", "rating": 9}
+{"question": "By how much do India and sub-Saharan Africa need to expand their electricity generation?", "answer": "More than 60 percent.", "rating": 8}
+{"question": "What percentage of cement is projected to be produced using low-emissions technologies by 2030?", "answer": "About 25 percent.", "rating": 8}
+{"question": "What are the methods to reduce livestock emissions?", "answer": "Using anaerobic digestors, feed additives, and nitrogen inhibitors.", "rating": 8}
+{"question": "Which sector has a larger share in the net-zero investment gap in developing countries?", "answer": "Power.", "rating": 7}
+{"question": "What is the difference in the projected increase in electricity generation between developing and higher-income economies?", "answer": "Roughly 25 percent in developing economies compared to approximately 10 percent in higher-income regions.", "rating": 9}
+{"question": "How much do India and sub-Saharan Africa need to expand electricity generation?", "answer": "More than 60 percent.", "rating": 8}
+{"question": "What is the percentage of total net-zero investment need for T&D spending in emerging economies?", "answer": "Around 15 percent.", "rating": 8}
+{"question": "How much does the United States need to boost low-emissions spending by, cumulative over the decade?", "answer": "$7.4 trillion.", "rating": 9}
+{"question": "What percentage of India's GDP is its net-zero investment gap?", "answer": "14 percent.", "rating": 8}
+{"question": "Why does sub-Saharan Africa have the smallest absolute gap to bridge?", "answer": "Because the region has a relatively small energy-system emissions footprint today and a slower transition compared with other regions.", "rating": 9}
+{"question": "How many times do developing economies need to grow renewable generation?", "answer": "Fourfold.", "rating": 7}
+{"question": "What is the region with the largest gap in investment required for low-emissions agriculture?", "answer": "Latin America.", "rating": 7}
+{"question": "Why do business leaders and policymakers worldwide understand the urgency of acting now?", "answer": "To get on track for net-zero emissions by 2050.", "rating": 8}
+{"question": "What are the primary concerns for billions of people in their roles as citizens, consumers, and workers?", "answer": "Living standards and job opportunities.", "rating": 8}
+{"question": "Why do broadening prosperity and tackling climate change need to be viewed and tackled in tandem?", "answer": "Because they are contemporaneous challenges, with synergies and counteractions.", "rating": 9}
+{"question": "What is the time frame for the research on economic empowerment and net-zero investment, and why is it intentional?", "answer": "The time frame is this decisive decade (until 2030), and it is intentional because the world's carbon budget for holding to a 1.5\u00b0C path is trending toward running out around the end of the decade, and 2030 is the target for the Sustainable Development Goals.", "rating": 10}
+{"question": "Why is economic growth essential for both aspirations of sustainability and inclusion?", "answer": "Because visionary goals are more likely to be pursued when the pie is growing, and growth lifts incomes, raises living standards, and unlocks the financing capacity needed for a net-zero future.", "rating": 9}
+{"question": "What is the starting point for NGFS scenarios used in the sustainability analysis?", "answer": "2020.", "rating": 8}
+{"question": "What are the two aspirations directly quantified in the analysis?", "answer": "Economic inclusion and the net-zero transition.", "rating": 9}
+{"question": "According to the text, how could achieving a net-zero transition and advancing inclusion reinforce growth?", "answer": "By reducing the physical risks and costs of climate change, strengthening societal stability, expanding economic choice, and preparing the next generation with the skills needed to be productive.", "rating": 9}
+{"question": "What is the debate discussed in Box 2?", "answer": "Whether economic growth is harming the planet or could be part of the solution for saving it.", "rating": 8}
+{"question": "What do some academics, such as Jason Hickel, argue regarding economic growth?", "answer": "That the pursuit of growth is a race to ecological disaster and that high-income countries don't need more growth to improve people's lives.", "rating": 9}
+{"question": "What is the debate discussed in Box 2?", "answer": "The debate is about whether economic growth is harming the planet or could be part of the solution for saving it.", "rating": 8}
+{"question": "What is Jason Hickel's stance on economic growth?", "answer": "Jason Hickel believes that the pursuit of growth is a race to ecological disaster and that high-income countries don't need more growth to improve people's lives.", "rating": 9}
+{"question": "According to Steven Chu, what kind of economy should be designed?", "answer": "Steven Chu argues that an economy should be designed based on no growth or even shrinking growth.", "rating": 8}
+{"question": "What is Benjamin Friedman's argument in favor of economic growth?", "answer": "Benjamin Friedman argues that economic growth creates increasingly 'moral' societies, with rising prosperity, greater tolerance, more robust democracies, and a stronger safety net for the disadvantaged.", "rating": 9}
+{"question": "Why does Alessio Terzi believe growth is necessary?", "answer": "Alessio Terzi believes that growth is necessary because it fuels technological innovation, which is required for the net-zero transition.", "rating": 9}
+{"question": "What is the relationship between consumption in high-income economies and export-oriented economies of Asia?", "answer": "Consumption in high-income economies creates the markets for the export-oriented economies of Asia that have lifted many out of poverty.", "rating": 9}
+{"question": "According to the text, what percentage of the empowerment gap can be closed in a scenario of accelerated growth?", "answer": "More than 60 percent.", "rating": 8}
+{"question": "What is required to reach the goals outlined in chapters 1 and 2 for sustainability and inclusion?", "answer": "Channeling roughly 8 percent of global GDP toward these goals each year.", "rating": 9}
+{"question": "What is the relationship between economic growth and the net-zero investment need?", "answer": "The extra economic growth does increase the net-zero investment need, but it also increases the financing capacity to address it.", "rating": 9}
+{"question": "What percentage of global GDP is required to be channeled toward empowerment and net-zero goals each year?", "answer": "8 percent.", "rating": 8}
+{"question": "How much can growth and business-led innovation contribute to meeting the combined gaps?", "answer": "Approximately half.", "rating": 7}
+{"question": "What is the assumed global GDP growth rate in the baseline scenario from Oxford Economics?", "answer": "About 2.7 percent globally on aggregate, varying by country.", "rating": 9}
+{"question": "What is the estimated spending gap for closing the empowerment gap from 2021-2030?", "answer": "$37 trillion.", "rating": 9}
+{"question": "What is the estimated spending gap for financing net-zero investments from 2021-2030?", "answer": "$41 trillion.", "rating": 9}
+{"question": "What is the current level of investment in low-emissions assets relative to the goal of net zero?", "answer": "The current level of investment in low-emissions assets is far too low to get to net zero.", "rating": 8}
+{"question": "By how much can productivity be raised annually across regions, according to prior MGI research?", "answer": "By at least 0.5 to 1.0 percent each year across regions, at an aggregate level.", "rating": 9}
+{"question": "What is the potential annual global growth rate if opportunities for productivity gains are harnessed?", "answer": "3.4 percent annually.", "rating": 8}
+{"question": "What role do advanced technologies, including automation, play in boosting productivity?", "answer": "They have the potential to diffuse well beyond firms at the frontier and into traditional sectors and small and medium-size enterprises, and recent breakthroughs in generative AI show remarkable potential to boost labor productivity.", "rating": 9}
+{"question": "What is required for businesses to redeploy workers into new opportunities at scale in the face of rapid technological change?", "answer": "Innovation and commitment on the part of businesses, including employer-led training and upskilling.", "rating": 9}
+{"question": "What is the goal for the world's R&D machinery on the net-zero side?", "answer": "Making low-emissions technologies cheaper.", "rating": 8}
+{"question": "What is required for businesses to redeploy workers into new opportunities at scale in the face of rapid technological change?", "answer": "Innovation and commitment on the part of businesses.", "rating": 7}
+{"question": "What is the goal that the world's R&D machinery needs to be fully trained on?", "answer": "Making low-emissions technologies cheaper.", "rating": 8}
+{"question": "How much of the $41 trillion net-zero investment gap could occur without changes to the policy frameworks that existed in 2020?", "answer": "Some $15 trillion.", "rating": 9}
+{"question": "What is the estimated amount of spending by private actors on low-emissions technologies that are becoming cost-competitive with traditional alternatives?", "answer": "Some $9 trillion.", "rating": 9}
+{"question": "What percentage of the gap globally can be closed by baseline growth alone?", "answer": "37 percent.", "rating": 9}
+{"question": "What additional percentage of the gap globally can be closed by business-led innovation?", "answer": "26 percent.", "rating": 8}
+{"question": "What is the result of accelerating beyond baseline growth in terms of achieving the combined global aspirations?", "answer": "Getting almost two-thirds of the way there, rather than just a little more than a third.", "rating": 8}
+{"question": "What is the annual rate of decrease in unit capital expenditures for a given technology referred to as?", "answer": "Learning rates.", "rating": 7}
+{"question": "By how much could growth and business innovation erase India's empowerment gap?", "answer": "More than 90 percent.", "rating": 8}
+{"question": "How many people in India and China could be lifted above the empowerment threshold by 2030 due to growth and business innovation?", "answer": "About 700 million people in India and over 730 million in China.", "rating": 9}
+{"question": "What is the assumed increase in productivity growth in China and India above their respective baselines?", "answer": "Almost one percentage point.", "rating": 8}
+{"question": "How many people across the African continent could exceed 50 percent of the empowerment line with accelerated growth?", "answer": "Some 770 million.", "rating": 9}
+{"question": "What is the warming outcome associated with the NGFS Current Policies scenario by 2100?", "answer": "About 3.0\u00b0C.", "rating": 9}
+{"question": "How many people across the African continent could exceed 50 percent of the empowerment line with accelerated growth?", "answer": "770 million.", "rating": 9}
+{"question": "What percentage of the empowerment gap in sub-Saharan Africa can growth momentum close by 2030?", "answer": "23 percent.", "rating": 8}
+{"question": "What is the estimated range that growth and business-led innovation could fill the net-zero gap?", "answer": "30 to 60 percent.", "rating": 9}
+{"question": "How much low-emissions spending could become cost-competitive in the EU and United Kingdom region and the United States by the end of the decade?", "answer": "$1.5 trillion to $2 trillion.", "rating": 9}
+{"question": "What is the total residual gap amounting to across both aspirations after maximizing growth and innovation?", "answer": "$40 trillion.", "rating": 8}
+{"question": "How much of the empowerment gap is unmet in sub-Saharan Africa?", "answer": "40 percent.", "rating": 7}
+{"question": "What is the breakdown of the $40 trillion global total residual gap?", "answer": "Roughly $13 trillion on the empowerment side and $26 trillion in net-zero spending through 2030.", "rating": 9}
+{"question": "What is the total unfilled gap across both empowerment and net-zero aspirations?", "answer": "$40 trillion.", "rating": 10}
+{"question": "How much of the unfilled gap is attributed to the empowerment side?", "answer": "Roughly $13 trillion.", "rating": 9}
+{"question": "How much of the unfilled gap is attributed to net-zero spending through 2030?", "answer": "$26 trillion.", "rating": 9}
+{"question": "Which regions have the highest unfilled economic gap?", "answer": "Sub-Saharan Africa has the highest unfilled economic gap, followed by the United States and China.", "rating": 8}
+{"question": "What percentage of the global GDP is represented by the regions listed in the exhibit?", "answer": "95%.", "rating": 8}
+{"question": "How could the unfilled gaps get closer to being fully closed?", "answer": "Societies could reorient growth more intentionally toward inclusion and sustainability through new policies and injections of public support.", "rating": 7}
+{"question": "What is the source of the data used in the analysis?", "answer": "McKinsey proprietary models; NGFS; Oxford Economics; World Bank; Climate Policy Initiative; FAOSTAT; IEA; Damodaran data; McKinsey Global Institute analysis.", "rating": 9}
+{"question": "What is the global unfilled empowerment gap?", "answer": "$13.4 trillion.", "rating": 8}
+{"question": "What is the global unfilled net-zero investment gap?", "answer": "$26.2 trillion.", "rating": 8}
+{"question": "What is the global unfilled empowerment gap in terms of GDP equivalent?", "answer": "1.3 Global GDP equivalent, which translates to $13.4 trillion.", "rating": 9}
+{"question": "Which region has the highest unfilled economic gap?", "answer": "Sub-Saharan Africa.", "rating": 8}
+{"question": "What is the remaining gap to achieve full empowerment, according to the scenario?", "answer": "$10 trillion, cumulative over the decade.", "rating": 9}
+{"question": "What can help close the unfilled gap on the net-zero side?", "answer": "Regulation and funding support geared toward closing the unfilled gap.", "rating": 8}
+{"question": "What is the global unfilled net-zero investment gap?", "answer": "$26.2 trillion, or 2.5 Global GDP equivalent.", "rating": 9}
+{"question": "How have major economies influenced the offerings of major auto manufacturers?", "answer": "By setting clear mandates for the phase-out of traditional combustion-engine vehicles.", "rating": 8}
+{"question": "What is the estimated amount of societal commitments globally needed over the decade to crowd in private capital and reduce spending needs?", "answer": "$10 trillion.", "rating": 7}
+{"question": "What is the expected outcome if economic growth stays at the baseline but innovation does not bring down the cost of low-emissions technologies as much as expected, and no additional commitments are made?", "answer": "830 million people would cross the empowerment line by 2030, but just under four billion would remain below it, and the world would be on a trajectory to exceed 3.0\u00b0C of warming by 2100.", "rating": 9}
+{"question": "What is the total empowerment gap and net-zero investment gap in trillion dollars?", "answer": "The total empowerment gap is $37 trillion and the net-zero investment gap is $41 trillion.", "rating": 9}
+{"question": "How can public funds be used to improve the economics of specific net-zero projects and technologies?", "answer": "By putting public funds into subsidy schemes or blended finance, such as grants, guarantees, or loans at favorable terms.", "rating": 9}
+{"question": "How many people would remain below the empowerment threshold if the world follows the current trajectory?", "answer": "Just under four billion.", "rating": 8}
+{"question": "What is the expected warming by 2100 if the world follows the current trajectory?", "answer": "3.0\u00b0C.", "rating": 9}
+{"question": "How many people would reach empowerment by 2030 in Scenario A?", "answer": "2.1 billion.", "rating": 8}
+{"question": "What would be the warming by 2100 in Scenario B and Scenario C?", "answer": "1.5\u00b0C.", "rating": 9}
+{"question": "How much societal commitment is required in Scenario B to fill the residual gap?", "answer": "$10T.", "rating": 7}
+{"question": "What is the total empowerment gap in dollar terms?", "answer": "$37T.", "rating": 8}
+{"question": "What is the total net-zero investment gap in dollar terms?", "answer": "$41T.", "rating": 8}
+{"question": "What is the estimated increase in demand for energy-intensive products and services if everyone is moved to the empowerment line?", "answer": "As much as an additional 15 percent above the effects of accelerated growth alone.", "rating": 9}
+{"question": "What are the three scenarios presented for addressing the residual gaps in empowerment and net zero?", "answer": "The three scenarios are: 1) Commitment to partially address either gap, 2) Commitment to fully close both gaps, and a third implied scenario of maintaining the current trajectory.", "rating": 7}
+{"question": "What is the outcome of a commitment to fully close both gaps?", "answer": "The global population would be fully empowered with a higher standard of living, and the world would be on track to achieve net zero by midcentury, hopefully limiting warming to 1.5\u00b0C by 2100.", "rating": 9}
+{"question": "What is the assumption made about public commitments on a large scale?", "answer": "That they would be well targeted and would spur additional private activity and investment.", "rating": 8}
+{"question": "What are some potential consequences of extensive commitments to close the residual gaps?", "answer": "They could distort the baseline economy or have other unanticipated consequences.", "rating": 9}
+{"question": "How do empowerment and the net-zero transition affect each other?", "answer": "As people move toward empowerment, their consumption rises, with implications for sustainability. And as the world moves toward net zero, risks arise for households and labor markets.", "rating": 9}
+{"question": "What happens to car travel and diet as people become more affluent?", "answer": "Many increase car travel and shift to a more meat-based diet.", "rating": 8}
+{"question": "How does industrialization affect the environment?", "answer": "Industrialization has increased environmental degradation, pollution, and greenhouse gas emissions.", "rating": 8}
+{"question": "What is the estimated effect of moving everyone to the empowerment line on emissions?", "answer": "Moving everyone to the empowerment line could raise demand for energy-intensive products and services, and in turn emissions, by as much as an additional 15 percent above the effects of accelerated growth alone.", "rating": 9}
+{"question": "What is necessary to make consumption more sustainable?", "answer": "Accelerating innovation to reduce the cost of sustainable technologies is an important part of making consumption more sustainable.", "rating": 9}
+{"question": "How might the net-zero transition affect jobs worldwide by 2050?", "answer": "The transition could add just over 200 million direct and indirect jobs worldwide by 2050 while causing about 185 million job losses, a small net impact.", "rating": 9}
+{"question": "Which sectors are likely to experience the biggest potential shifts in jobs due to the net-zero transition?", "answer": "The biggest potential shifts are likely to occur in agriculture, auto manufacturing, and power, with significant outright losses in oil, gas, and coal.", "rating": 9}
+{"question": "What could happen to regional economies dependent on fossil fuel extraction and emissions-intensive production during the net-zero transition?", "answer": "They could experience significant dislocation.", "rating": 8}
+{"question": "In how many counties within the United States does more than 10 percent of employment come from coal, oil, and gas, fossil fuel\u2013based power, and automotive manufacturing?", "answer": "44 counties.", "rating": 9}
+{"question": "What is the general characteristic of 'green' jobs compared to 'less green' jobs?", "answer": "They tend to be better-paying (especially at lower skill levels) and less at risk of automation.", "rating": 9}
+{"question": "What could be the effect of green policies and low-emissions innovation on labor productivity?", "answer": "They could boost labor productivity in low-emissions parts of the economy.", "rating": 9}
+{"question": "What is a challenge that needs to be managed during the net-zero transition?", "answer": "Managing job transitions effectively and supporting the workers, sectors, and regions most affected by job losses.", "rating": 9}
+{"question": "In how many counties within the United States is more than 10 percent of employment in coal, oil, and gas, fossil fuel\u2013based power, and automotive manufacturing?", "answer": "44 counties.", "rating": 9}
+{"question": "What is the general characteristic of 'green' jobs compared to 'less green' jobs?", "answer": "They tend to be better-paying (especially at lower skill levels) and less at risk of automation.", "rating": 9}
+{"question": "How could green policies and related low-emissions innovation affect labor productivity?", "answer": "They could boost labor productivity in low-emissions parts of the economy such as renewables and services.", "rating": 9}
+{"question": "What could be the impact of higher energy prices resulting from carbon prices on fossil fuels?", "answer": "It could crowd out consumption and in the near term.", "rating": 7}
+{"question": "How can the revenues generated from carbon taxes be utilized?", "answer": "They can be recycled into economic development of distressed communities or direct transfers to low-income households.", "rating": 9}
+{"question": "What is the effect of innovation on clean technologies compared to dirty technologies?", "answer": "Innovation on clean technologies spills over to other sectors of the economy at a faster rate than dirty technologies.", "rating": 8}
+{"question": "What can be done with the revenues generated from carbon taxes?", "answer": "The revenues generated from carbon taxes can be recycled into economic development of distressed communities or direct transfers to low-income households.", "rating": 9}
+{"question": "What could happen to lower-income people if climate change is not addressed?", "answer": "Lower-income people would become even more exposed to hazards if climate change is not convincingly addressed.", "rating": 8}
+{"question": "How are empowered households related to net-zero policies?", "answer": "As households become more empowered, they are more likely to be aware of the risks of climate change and, in turn, lend support to net-zero policies.", "rating": 9}
+{"question": "What is discussed in the next two chapters following this chapter?", "answer": "The next two chapters will explore in greater detail a scenario for closing the empowerment gap and then a scenario for closing the net-zero investment gap.", "rating": 9}
+{"question": "What is the total amount needed to lift everyone above the empowerment line?", "answer": "$37 trillion, cumulative over the decade.", "rating": 8}
+{"question": "How much of the empowerment gap can be filled by growth plus business-led innovation focused on upskilling workers?", "answer": "Almost two-thirds of the total gap.", "rating": 8}
+{"question": "What is the remaining unfilled empowerment gap after business-led innovation?", "answer": "The unfilled gap is shown in Exhibit 15, and it can be addressed through a combination of labor-friendly public and company policies plus public-private action.", "rating": 7}
+{"question": "What are the components that make up the $37 trillion empowerment gap?", "answer": "The components include education, affordable essentials (healthcare, housing, food), and labor-friendly policies.", "rating": 9}
+{"question": "How can the remaining empowerment gap be addressed?", "answer": "Through a combination of more labor-friendly public and company policies plus public-private action to make essential services more affordable and effective.", "rating": 9}
+{"question": "What percentage of the global population lives below the empowerment threshold today?", "answer": "About 60 percent.", "rating": 8}
+{"question": "How can the unfilled empowerment gap be addressed?", "answer": "Through a combination of more labor-friendly public and company policies plus public-private action to make essential services more affordable and effective.", "rating": 9}
+{"question": "What is the total empowerment gap in the given scenario for potentially closing the empowerment gap, cumulative, 2021\u201330?", "answer": "$37 trillion.", "rating": 8}
+{"question": "What is the role of economic growth in human development indicators?", "answer": "Economic growth has produced historic progress in human development indicators over the past two decades\u2014and its role in doing the same in the years to 2030 cannot be overestimated.", "rating": 9}
+{"question": "What percentage of the global population lives below the empowerment threshold today?", "answer": "About 60 percent.", "rating": 8}
+{"question": "What are some of the factors that contribute to Joan's economic empowerment in the illustrative road map for an individual in an advanced economy?", "answer": "Securing a better-paying job with new skills, expanded education budgets, labor-friendly work arrangements, affordable essentials, and additional societal commitment such as new public transportation infrastructure, increased wages and benefits, tax credits, and zoning changes for affordable housing.", "rating": 9}
+{"question": "What are some of the factors that contribute to Aisha's economic empowerment in the illustrative road map for an individual in a developing economy?", "answer": "Shifting to a higher-paying job, government support for mobile health clinics, improved public education, cash transfers, increased productivity of her family farm due to newly constructed roads, and free lunch for her children at school.", "rating": 9}
+{"question": "What are the possible sources of societal commitments that can contribute to economic empowerment?", "answer": "More efficient use of public funds, reprioritized government spending, taxes, debt, multilateral agencies, or philanthropic entities.", "rating": 9}
+{"question": "What percentage of the global population lives below the empowerment threshold today?", "answer": "About 60 percent.", "rating": 8}
+{"question": "What is the estimated effect of baseline global growth averaging 2.7 percent annually on the share of the global population living below the empowerment threshold?", "answer": "It could take that share down to 46 percent.", "rating": 8}
+{"question": "How many people could gain enough purchasing power to cross the empowerment line with baseline global growth?", "answer": "830 million people.", "rating": 9}
+{"question": "What percentage of the global empowerment gap could be filled with baseline global growth?", "answer": "37 percent.", "rating": 9}
+{"question": "Which country could all but eliminate its empowerment gap by the decade's end with baseline global growth?", "answer": "China.", "rating": 8}
+{"question": "How many people could gain enough purchasing power to cross the empowerment line?", "answer": "830 million people.", "rating": 8}
+{"question": "What percentage of the global empowerment gap could be filled if 830 million people gain enough purchasing power?", "answer": "37 percent.", "rating": 8}
+{"question": "How many people worldwide could remain below the empowerment line at the end of the decade with no additional action?", "answer": "3.9 billion people.", "rating": 8}
+{"question": "By how much can businesses pursuing initiatives in their own interest fill the empowerment gap?", "answer": "An additional 26 percent.", "rating": 8}
+{"question": "What is the average annual global growth rate required to boost wages for workers and narrow the empowerment gap?", "answer": "3.4 percent.", "rating": 8}
+{"question": "How many people could be lifted above the empowerment threshold if global growth averages 3.4 percent annually?", "answer": "170 million people.", "rating": 8}
+{"question": "What percentage of lower- and mid-skill workers globally could see their wages rise if they are equipped to take on higher-skill jobs by 2030?", "answer": "Roughly 10 percent.", "rating": 8}
+{"question": "What percentage of the average individual's lifetime earnings is contributed by work experience?", "answer": "46 percent.", "rating": 9}
+{"question": "What percentage of the average individual's lifetime earnings is contributed by work experience according to MGI research?", "answer": "46 percent.", "rating": 9}
+{"question": "What is the estimated impact of upskilling on the global empowerment gap?", "answer": "Upskilling could close an additional $8 trillion of the global empowerment gap.", "rating": 9}
+{"question": "Why will employers need to deliver training and apprenticeships?", "answer": "Employers will need to deliver training and apprenticeships to fill the need for new kinds of skills that may not be readily available, particularly as technologies continue to evolve.", "rating": 9}
+{"question": "What happens to wages if employers take the lead in training workers to move into new roles?", "answer": "Wages could rise for the workers who successfully make these transitions.", "rating": 8}
+{"question": "How much of the global empowerment gap could be closed by upskilling?", "answer": "An additional $8 trillion.", "rating": 7}
+{"question": "How many people could be lifted into empowerment and out of poverty with higher growth and more productive jobs?", "answer": "2.1 billion people into empowerment and 600 million out of poverty.", "rating": 9}
+{"question": "What is the estimated impact of higher growth combined with creating and filling more productive jobs on the global empowerment gap?", "answer": "It could close $10 trillion of the global empowerment gap over and above what baseline growth alone could account for.", "rating": 9}
+{"question": "What would be the result of accelerated productivity-driven growth in sub-Saharan Africa regarding extreme poverty?", "answer": "It could cut the population in extreme poverty in half, translating to 250 million people exiting poverty.", "rating": 9}
+{"question": "What is the remaining gap to fully erase poverty in sub-Saharan Africa in the high-growth scenario?", "answer": "A spending lift of $100 billion over a decade, equivalent to about 5 percent of total public spending in these countries.", "rating": 8}
+{"question": "What would be the population that achieves at least 50 percent of the empowerment standard in 2030 in a high-growth scenario?", "answer": "550 million.", "rating": 7}
+{"question": "How could the remaining unfilled empowerment gap be addressed?", "answer": "With direct transfers to vulnerable households or with increased investment in public goods.", "rating": 8}
+{"question": "What percentage of the global empowerment gap could be closed by businesses reshaping work arrangements and delivering affordable essential products and services?", "answer": "9 percent.", "rating": 8}
+{"question": "What is one of the challenges associated with achieving full universal empowerment?", "answer": "Rising consumption and energy demand that could affect the net-zero challenges.", "rating": 8}
+{"question": "What is an example of an innovation that can advance both inclusion and sustainability?", "answer": "Clean cookstoves.", "rating": 9}
+{"question": "How many people lack access to clean cooking facilities according to the International Energy Agency (IEA)?", "answer": "More than 2.5 billion people.", "rating": 9}
+{"question": "What is the problem associated with traditional cooking methods for millions of women and girls?", "answer": "Drudgery and cooking in unsafe conditions.", "rating": 8}
+{"question": "What organizations have developed clean cookstoves that can be manufactured, installed, and operated at low cost?", "answer": "Companies, entrepreneurs, and nonprofits such as the Clean Cooking Alliance.", "rating": 9}
+{"question": "What is the EcoCasa program in Mexico, and what has it achieved?", "answer": "A joint venture between Mexico's federal mortgage provider, the Inter-American Development Bank, and Germany's development bank (KfW), capitalized with international climate funds. It has financed dozens of developers to build more than 65,000 affordable energy-efficient homes.", "rating": 9}
+{"question": "What is Habitat for Humanity's goal for the homes it builds?", "answer": "To provide homeowners with healthy environments and lower their life-cycle costs by ensuring that its homes are sustainable, durable, and energy efficient.", "rating": 9}
+{"question": "How did La Rolita, a public bus company in Bogot\u00e1, contribute to gender equity and job creation?", "answer": "By hiring women for traditionally male-dominated driving roles, advancing gender equity and creating jobs that have brought people out of the informal economy.", "rating": 9}
+{"question": "How many people lacked electricity in 2022, according to IEA data?", "answer": "Almost 775 million people, most of them in sub-Saharan Africa.", "rating": 8}
+{"question": "What is the World Bank's partnership aimed at achieving in Africa?", "answer": "Fast-tracking off-grid solar technology and mini-grids, with an eye toward eventually expanding them globally.", "rating": 8}
+{"question": "Why are two- and three-wheel EVs considered a viable transportation option in low- and middle-income countries?", "answer": "Because they can provide viable transportation options to households that cannot yet afford cars, and some consumers prefer their mobility and ease of parking in highly congested cities.", "rating": 9}
+{"question": "What are the project priorities for expanding the off-grid energy sector?", "answer": "Systems for schools and medical facilities as well as cold chain storage for farmers.", "rating": 8}
+{"question": "Why are two- and three-wheel electric vehicles (EVs) a viable option for low- and middle-income countries?", "answer": "They provide viable transportation options to households that cannot yet afford cars, and can reduce air pollution.", "rating": 9}
+{"question": "What is the role of smallholder farmers in global food security?", "answer": "They are critical to global food security and stewards of natural resources.", "rating": 9}
+{"question": "What measures can help smallholder farmers adapt to and mitigate climate change?", "answer": "More than 30 measures, including pest management, drought-tolerant seed varieties, soil testing and amendment, animal health monitoring, and rotational grazing.", "rating": 9}
+{"question": "What has been the trend in labor's share of national incomes in recent decades?", "answer": "It has been trending downward across multiple countries, both high-income and developing.", "rating": 9}
+{"question": "What has been the trend of labor share in recent decades across multiple countries?", "answer": "The labor share has been trending downward.", "rating": 8}
+{"question": "What are the implications of the decline in labor share?", "answer": "The decline has broad implications for workers' earnings and prospects, reflecting wages growing more slowly than productivity and a hollowing out of the middle class.", "rating": 9}
+{"question": "How can employers help alleviate the trend of declining labor share?", "answer": "Employers can implement more worker-friendly arrangements such as paying living wages, improving working conditions, expanding leave policies and dependent care support, or improving workers' retirement security.", "rating": 9}
+{"question": "What policy measures could spur employer actions to improve labor share?", "answer": "Policy measures such as raising the minimum wage, strengthening labor regulations, and strengthening the ability to organize and bargain collectively could spur employer actions.", "rating": 9}
+{"question": "By how much could improving labor share contribute to closing the empowerment gap?", "answer": "Improving labor share could help shrink the empowerment gap by an average of just over 1 percent, or $500 billion.", "rating": 9}
+{"question": "What is central to reaching universal empowerment according to the text?", "answer": "Reversing declines in labor's share of national income through upskilling and labor-friendly policies.", "rating": 9}
+{"question": "What are the two main factors that can lead to a potential increase in labor share of income by 2030?", "answer": "Upskilling and labor-friendly policies.", "rating": 8}
+{"question": "Which cohorts are expected to have a higher potential increase from labor-friendly policies by 2030?", "answer": "Cohort A and Cohort C, which have higher GDP per capita.", "rating": 8}
+{"question": "What is the expected change in labor share of income from 2020 to 2030 based on historical trend alone for Cohort A?", "answer": "1.5 percentage points.", "rating": 8}
+{"question": "What is necessary to capture the remaining potential for increasing labor share of income in high-income economies?", "answer": "Shifts in policy and business practices.", "rating": 7}
+{"question": "What are some sectors that have historically paid a greater share of income to labor?", "answer": "Construction and retail.", "rating": 8}
+{"question": "What is the main factor influencing empowerment according to the text?", "answer": "The cost and quality of essential goods and services.", "rating": 8}
+{"question": "What percentage of household consumption is accounted for by food and energy in developing countries such as Brazil, Mexico, and Peru?", "answer": "More than 40 percent.", "rating": 9}
+{"question": "By how much could the amount of daily spending required to be empowered be reduced by 2030 if countries matched their best-performing peers in productivity?", "answer": "An average of 9 percent.", "rating": 9}
+{"question": "What are the main areas where significant gains in empowerment could be seen in advanced economies versus developing economies?", "answer": "In advanced economies, housing and healthcare make up a greater share of the savings opportunity, while in developing economies, significant gains could also be seen from education and food affordability.", "rating": 9}
+{"question": "What percentage of economic growth in the past century can be attributed to improvements in global health?", "answer": "About a third.", "rating": 8}
+{"question": "What percentage of economic growth in the past century is attributed to improvements in global health?", "answer": "About a third.", "rating": 8}
+{"question": "What is the potential reduction in the empowerment gap through productivity improvements in essential services?", "answer": "$3T.", "rating": 7}
+{"question": "Do health outcomes vary across countries at every level of healthcare spending?", "answer": "Yes, health outcomes vary across countries at every level of spending, indicating significant room for more efficient and effective healthcare delivery.", "rating": 9}
+{"question": "What is the metric used to measure healthy life expectancy at birth?", "answer": "Health-adjusted life expectancy (HALE), which combines quality of life as well as length of life.", "rating": 9}
+{"question": "Have any countries improved health outcomes while maintaining or reducing per capita healthcare spending?", "answer": "Yes, countries such as Greece and South Africa have improved health outcomes while maintaining or reducing the level of per capita healthcare spending.", "rating": 8}
+{"question": "Why is 2019 GVA per capita in 2020 PPP used?", "answer": "Due to unavailable HALE data past 2019.", "rating": 8}
+{"question": "What is the opportunity to improve health outcomes globally?", "answer": "36 percent, even keeping current levels of private and public healthcare spending across countries constant.", "rating": 8}
+{"question": "What is the average productivity growth in the construction sector globally over the past two decades?", "answer": "1 percent a year.", "rating": 8}
+{"question": "By how much could improvements to construction productivity lower housing expenditure globally?", "answer": "11 percent, if all countries emulated their best-performing peers.", "rating": 9}
+{"question": "Which countries are mentioned as top historical performers in construction productivity?", "answer": "The Netherlands and Singapore.", "rating": 8}
+{"question": "What is the opportunity to improve health outcomes for high-income economies?", "answer": "26 percent on average.", "rating": 8}
+{"question": "What is the opportunity to improve housing affordability for high-income economies?", "answer": "13 percent on average.", "rating": 8}
+{"question": "How do high-income economies tend to allocate their consumption?", "answer": "They tend to spend a larger share of their consumption on housing.", "rating": 8}
+{"question": "What metric is used to measure learning outcomes in Exhibit 22?", "answer": "Learning-adjusted years of schooling (LAYS).", "rating": 9}
+{"question": "What is LAYS, as used in Exhibit 22?", "answer": "A World Bank metric that weights length of schooling by the quality of a nation\u2019s school system as determined by performance on international tests.", "rating": 10}
+{"question": "What metric is used to reflect both the length and quality of schooling?", "answer": "Learning-adjusted years of schooling (LAYS)", "rating": 9}
+{"question": "How is LAYS determined?", "answer": "By performance on international tests, which weights the number of years spent in school by the quality of a nation's outcomes.", "rating": 9}
+{"question": "What is the difference in improvement opportunity for high-income economies versus middle- and lower-income economies?", "answer": "The improvement opportunity for high-income economies is 16 percent, while for middle- and lower-income economies it is 49 percent.", "rating": 8}
+{"question": "Which countries have exceptionally productive education systems?", "answer": "Ireland, Singapore, and Sweden.", "rating": 8}
+{"question": "How has India expanded learning-adjusted school years?", "answer": "India has significantly expanded learning-adjusted school years while maintaining education spending per capita within its historical band.", "rating": 8}
+{"question": "What is one way to directly raise the spending power of the poorest segments of society?", "answer": "By increasing direct funding for affordable housing, health, and quality education.", "rating": 9}
+{"question": "What can digital tools do to improve social programs?", "answer": "Digital tools can spot leakages while streamlining eligibility processes and delivering benefits more efficiently.", "rating": 9}
+{"question": "What is the remaining global gap after considering various channels for growth?", "answer": "$10 trillion.", "rating": 8}
+{"question": "What is the estimated total amount of low-emissions spending required to reach net-zero emissions by 2030?", "answer": "$55 trillion.", "rating": 8}
+{"question": "What is the estimated net-zero investment gap that needs to be addressed by 2030?", "answer": "Almost $41 trillion.", "rating": 8}
+{"question": "How much was the total low-emissions spending in 2020?", "answer": "About $1.4 trillion.", "rating": 9}
+{"question": "What percentage of the total low-emissions spending in 2020 was fully private?", "answer": "10 percent.", "rating": 8}
+{"question": "How much additional low-emissions spending is expected to come on stream by 2030 if the 2020 level and pattern continue?", "answer": "An additional $14 trillion.", "rating": 9}
+{"question": "What is the NGFS Current Policies scenario based on?", "answer": "The NGFS Current Policies scenario assumes that only currently implemented policies are preserved.", "rating": 9}
+{"question": "What is the estimated annual CO2 emissions from the energy system as of 2020?", "answer": "About 33.9 Gt.", "rating": 9}
+{"question": "What is the residual global carbon budget to remain within 1.5\u00b0C warming with 67 percent probability, according to the IPCC 2021 annual report?", "answer": "400 Gt.", "rating": 8}
+{"question": "By when would the climate budget to limit warming to 1.5\u00b0C run out, assuming constant emissions from 2020?", "answer": "Roughly 10 years, or around the end of 2030.", "rating": 9}
+{"question": "How much of the net-zero investment gap is filled in the scenario described?", "answer": "Slightly less than 40 percent, or some $15 trillion.", "rating": 9}
+{"question": "How much would become viable for private investors and consumers by 2030?", "answer": "$10 trillion, including $9 trillion above and beyond a continuation of today\u2019s levels.", "rating": 9}
+{"question": "What percentage of the net-zero investment gap is filled after accounting for market forces, technological advances, and the continuation of current policies?", "answer": "Slightly less than 40 percent.", "rating": 8}
+{"question": "How much of the net-zero investment gap remains unfilled after market-led opportunities and continued current policies?", "answer": "$26 trillion, cumulative through the decade.", "rating": 9}
+{"question": "What is the total low-emissions spending need to close the net-zero investment gap by 2030?", "answer": "$41 trillion.", "rating": 8}
+{"question": "How much private investment becomes viable by 2030 according to the scenario presented?", "answer": "$10 trillion.", "rating": 8}
+{"question": "What is the equivalent of the remaining unfilled gap as a percentage of global GDP annually?", "answer": "3 percent.", "rating": 8}
+{"question": "What is the total low-emissions investment required for the 2021\u201330 pathway?", "answer": "$55 trillion.", "rating": 9}
+{"question": "How much of the 2020 investment in low-emissions assets and technologies was fully private?", "answer": "About 10 percent.", "rating": 8}
+{"question": "What is the investment gap left if 2020 spending levels continue through 2030?", "answer": "$41 trillion.", "rating": 9}
+{"question": "How much additional investment could come on stream this decade due to baseline economic growth?", "answer": "$3 trillion.", "rating": 8}
+{"question": "What is the assumed global baseline economic growth rate?", "answer": "2.7 percent.", "rating": 9}
+{"question": "How much of the net-zero investment gap can be addressed by growth and technology advances under current policies?", "answer": "$15 trillion.", "rating": 9}
+{"question": "By what year does the economy as a whole reach net-zero CO\u2082 emissions?", "answer": "2050.", "rating": 8}
+{"question": "What is the expected warming limit by 2100 according to the net-zero aspiration?", "answer": "1.5\u00b0C.", "rating": 8}
+{"question": "What are the sources of public funding mentioned in the text?", "answer": "Multilateral agencies, development finance institutions, philanthropies, social investors, and governments.", "rating": 7}
+{"question": "How many key low-emissions technologies were analyzed to address global greenhouse-gas emissions?", "answer": "About 50.", "rating": 8}
+{"question": "What percentage of global greenhouse-gas emissions could be addressed by the deployment of the analyzed technologies?", "answer": "85 percent.", "rating": 8}
+{"question": "What model was employed to allocate investment needs to economic agents?", "answer": "The McKinsey Transition Finance Model (TFM).", "rating": 9}
+{"question": "What are the four factors used to determine the spending allocation in the TFM?", "answer": "Historical investment patterns, technology risk profiles, market risk profiles, and estimated total cost of ownership.", "rating": 9}
+{"question": "Why is the role of public spending larger for certain technologies and regions?", "answer": "Because public spending is larger for technologies further away from commercial maturity and in regions with lower ease of doing business.", "rating": 9}
+{"question": "What determines the total cost of ownership?", "answer": "The total cost of ownership is determined by the capital expenditures associated with purchasing the asset as well as operating expenses.", "rating": 9}
+{"question": "When is a low-emissions technology considered 'in the money' for private actors?", "answer": "A low-emissions technology is considered 'in the money' for private actors if it is cost competitive with its high-emissions alternative under current policy frameworks.", "rating": 9}
+{"question": "What is an alternative approach to grant and concessional funding to bridge cost competitiveness gaps?", "answer": "Imposing a carbon tax to encourage switching away from high-emissions assets is an alternative approach.", "rating": 8}
+{"question": "What assumption is made about individuals and companies in the TFM analysis?", "answer": "The TFM assumes that individuals and companies are economically rational, make spending decisions based on the total cost of ownership and risk level of the assets they plan to acquire, and are forward-looking and possessed of perfect foresight.", "rating": 9}
+{"question": "How much was invested in solar and wind generation in 2020?", "answer": "Some $300 billion was invested in solar and wind generation in 2020.", "rating": 8}
+{"question": "How many heat pumps had been installed globally as of 2020?", "answer": "180 million heat pumps had been installed globally as of 2020.", "rating": 8}
+{"question": "What scenario does the analysis rely on for consistency with the previous analysis published in January 2022?", "answer": "The Phase II scenario.", "rating": 7}
+{"question": "What was the amount invested in solar and wind generation in 2020?", "answer": "Some $300 billion.", "rating": 7}
+{"question": "What was the result of Norway's incentives for buying or leasing electric vehicles?", "answer": "Some two-thirds of new vehicles sold in Norway are now electric.", "rating": 8}
+{"question": "How much additional investment could be filled from growth and innovation under current policy frameworks?", "answer": "$15 trillion.", "rating": 8}
+{"question": "What is the annual global economic growth rate considered in the accelerated growth scenario?", "answer": "3.4 percent.", "rating": 9}
+{"question": "How much would the net-zero investment need increase by under the accelerated growth scenario?", "answer": "Almost $5 trillion worldwide.", "rating": 9}
+{"question": "How much additional opportunities would become attractive for private actors over the decade due to innovation and improved learning rates?", "answer": "About $9 trillion.", "rating": 8}
+{"question": "What is the total amount of low-emissions spending that becomes cost competitive for businesses and consumers without subsidies in the scenario?", "answer": "$10 trillion.", "rating": 8}
+{"question": "How much additional private capital could be crowded in due to improved learning rates?", "answer": "$3 trillion.", "rating": 8}
+{"question": "By how much is public support expected to grow over the decade?", "answer": "$3 trillion.", "rating": 8}
+{"question": "What is the total amount that could be mobilized over 2021\u201330 in the scenario?", "answer": "$29 trillion.", "rating": 8}
+{"question": "What percentage of the total amount mobilized over 2021\u201330 is expected to come from public funding?", "answer": "36 percent.", "rating": 8}
+{"question": "What percentage of private in-the-money spending is expected to be accounted for by private actors?", "answer": "34 percent.", "rating": 8}
+{"question": "Which regions collectively make up about 70 percent of the opportunities coming into focus in this decade?", "answer": "China, Europe, India, and the United States.", "rating": 9}
+{"question": "What percentage of investment needed in the power sector in the mentioned regions will be viable with expected rates of technological advancement?", "answer": "10 to 60 percent.", "rating": 8}
+{"question": "By when could BEV cars reach cost parity with traditional vehicles in many parts of the world?", "answer": "In the latter half of the decade.", "rating": 8}
+{"question": "How much in-the-money spending is driven by consumers and companies in BEV cars in the four mentioned regions?", "answer": "Around $3 trillion.", "rating": 7}
+{"question": "What are the two key sources of uncertainty surrounding projections for the cost of low-emissions technologies?", "answer": "The price of the inputs required for key technologies and the decrease in unit capital cost that can be achieved.", "rating": 9}
+{"question": "Which metals play a critical role in renewable generation, electricity networks, and battery storage technologies?", "answer": "Copper, cobalt, nickel, and lithium.", "rating": 9}
+{"question": "By how much could the price of copper increase on a net-zero trajectory between 2020 and 2030?", "answer": "About 60 percent.", "rating": 8}
+{"question": "By what percentage could the price of copper increase by 2030 on a net-zero trajectory?", "answer": "60 percent.", "rating": 8}
+{"question": "How much additional spending would be needed if learning rates were relatively slow (about 2 percent)?", "answer": "$4 trillion.", "rating": 8}
+{"question": "What would be the main driver of the additional $3 trillion spending if the prices of key inputs increase?", "answer": "The higher cost of batteries.", "rating": 8}
+{"question": "How would the share of private in-the-money investment opportunities change if higher input prices and slower learning rates are combined?", "answer": "It would decrease significantly, from 18 percent to 8 percent.", "rating": 9}
+{"question": "What would be the required total public spending over the decade to pursue a full net-zero pathway?", "answer": "$25 trillion.", "rating": 7}
+{"question": "What is required for a smooth transition to low-emissions technologies?", "answer": "Increased dialogue and coordination between companies operating at different parts of the value chain, between the public and private sectors, and between governments.", "rating": 9}
+{"question": "What is the impact of higher costs on low-emissions spending?", "answer": "Higher costs would decrease 'in-the-money' spending, increasing the need for public support.", "rating": 8}
+{"question": "What is meant by 'in the money' in the context of low-emissions technologies?", "answer": "A low-emissions technology is 'in the money' if it is cost-competitive with its high-emissions alternative (that is, its total cost of ownership is lower).", "rating": 10}
+{"question": "Why is the penetration of renewables relatively low?", "answer": "One reason is the need for transmission and distribution infrastructure to accommodate them.", "rating": 8}
+{"question": "What is one reason for the relatively low penetration of renewables?", "answer": "The need for transmission and distribution infrastructure to accommodate them.", "rating": 8}
+{"question": "How much viable investment opportunities are created in solar and wind generation?", "answer": "Around $850 billion.", "rating": 9}
+{"question": "What is the total increase in private spending in the power sector, including transmission and distribution networks and hydropower generation?", "answer": "About $1.7 trillion.", "rating": 9}
+{"question": "How much is the remaining gap that needs to be addressed globally?", "answer": "Just over $26 trillion.", "rating": 9}
+{"question": "How can policy certainty help in increasing private capital inflows?", "answer": "Policy certainty can offset some of the risks that could otherwise limit inflows of private capital.", "rating": 9}
+{"question": "How much public funding is required to close the gap fully?", "answer": "Almost $10 trillion.", "rating": 7}
+{"question": "What is the expected outcome of a $10 trillion infusion of public funding?", "answer": "It could unlock $17 trillion in additional progress, comprising $13 trillion in private investment and spending, and $4 trillion in avoided spending due to faster technological progress.", "rating": 10}
+{"question": "What is an example of a government measure to support green investments?", "answer": "The US Inflation Reduction Act, which is providing multiple types of subsidies to the tune of $400 billion.", "rating": 9}
+{"question": "What is required to unlock an additional $17 trillion of progress according to the scenario?", "answer": "A $10 trillion infusion of public support.", "rating": 9}
+{"question": "How do 'in the money' opportunities in renewable generation achieve cost competitiveness?", "answer": "They do not require direct subsidies to ensure cost competitiveness vis-\u00e0-vis conventional alternatives.", "rating": 9}
+{"question": "What is one of the prime examples of projects needing a push through public finance?", "answer": "Electricity transmission and distribution.", "rating": 8}
+{"question": "How much public support is needed for the power sector in China, India, and the rest of Asia (outside of Japan) to remain on a net-zero pathway?", "answer": "$3 trillion of incremental support.", "rating": 9}
+{"question": "How much publicly financed investment is required for transmission and distribution (T&D) in the scenario?", "answer": "$700 billion.", "rating": 9}
+{"question": "What is the estimated amount of public funding required to mobilize private spending in low-emissions heating?", "answer": "More than $1.5 trillion", "rating": 8}
+{"question": "How much private spending can be mobilized with more than $1.5 trillion of public funding in low-emissions heating?", "answer": "About $3 trillion", "rating": 8}
+{"question": "What is the total amount of publicly financed investment in T&D in the given scenario?", "answer": "$700 billion", "rating": 8}
+{"question": "Why is sustained public support needed for decarbonizing buildings?", "answer": "Because some key decarbonization technologies, such as heat pumps, are not yet cost competitive relative to gas boilers.", "rating": 9}
+{"question": "What is an example of a successful initiative to support low-emissions heating?", "answer": "Ireland's Sustainable Energy Authority's one-stop shops for home retrofits.", "rating": 8}
+{"question": "What percentage of global emissions do the estimates cover?", "answer": "85%.", "rating": 8}
+{"question": "How much additional public support is needed to ensure the adoption of heavy-duty BEVs is consistent with a net-zero pathway?", "answer": "$200 billion beyond what is expected under current policy frameworks.", "rating": 9}
+{"question": "How much private spending could be mobilized by the additional public support of $200 billion for heavy-duty BEVs?", "answer": "Around $350 billion.", "rating": 9}
+{"question": "What is the total amount of additional funding required to ensure hydrogen-based mobility, green hydrogen production, and the decarbonization of heavy industry progress toward net zero?", "answer": "About $1.9 trillion beyond current policies.", "rating": 9}
+{"question": "How much of the $1.9 trillion required for hydrogen-based mobility, green hydrogen production, and the decarbonization of heavy industry could be provided by societal commitments?", "answer": "About 40 percent.", "rating": 8}
+{"question": "How much is required to decarbonize heavy industry in China alone?", "answer": "About $400 billion.", "rating": 9}
+{"question": "By how much could accelerated learning lower the total spending needed for the transition?", "answer": "About $4 trillion.", "rating": 9}
+{"question": "In which sectors does almost three-fourths of the $4 trillion effect from accelerated learning occur?", "answer": "The power and buildings sectors.", "rating": 9}
+{"question": "How much investment could be avoided in the power sector through accelerated learning?", "answer": "About $1.7 trillion.", "rating": 9}
+{"question": "By how much did the cost of utility-scale photovoltaic systems decrease in the United States from 2010 to 2020?", "answer": "82 percent.", "rating": 9}
+{"question": "What are the costs associated with the labor and other materials needed for photovoltaic system installations known as?", "answer": "Balance-of-system (BOS) costs.", "rating": 10}
+{"question": "What technology in the buildings sector is expected to benefit from accelerated learning?", "answer": "Heat pumps.", "rating": 9}
+{"question": "What has been the learning rate of heat pumps in some countries?", "answer": "More than 20 percent.", "rating": 9}
+{"question": "By what percentage is the unit capital expenditure of heat pumps expected to decrease by 2030 compared to 2020 costs?", "answer": "33 percent (to 67 percent of the 2020 cost).", "rating": 8}
+{"question": "How much savings is estimated to materialize during the current decade if unit costs of heat pumps drop substantially?", "answer": "About $750 billion.", "rating": 9}
+{"question": "What percentage of the total $55 trillion needed in low-emissions spending through 2030 is estimated to be fully in-the-money spending?", "answer": "One-quarter.", "rating": 7}
+{"question": "How much of the $55 trillion needed in low-emissions spending through 2030 could potentially come from private actors?", "answer": "$31 trillion.", "rating": 9}
+{"question": "What percentage of total low-emissions spending is estimated to be fully in-the-money spending by 2030?", "answer": "One-quarter.", "rating": 7}
+{"question": "What is the total amount needed in low-emissions spending through 2030?", "answer": "$55 trillion.", "rating": 9}
+{"question": "How much of the total low-emissions spending could potentially come from private actors?", "answer": "$31 trillion.", "rating": 9}
+{"question": "What percentage of total low-emissions spending is made up of public support in the given scenario?", "answer": "36 percent.", "rating": 8}
+{"question": "What percentage of the total low-emissions spending could be delivered through grants and concessional finance?", "answer": "Just over 20 percent.", "rating": 8}
+{"question": "What is the primary source of private financing in the given scenario?", "answer": "Commercial actors.", "rating": 7}
+{"question": "In which sectors do consumers account for most of the low-emissions spending?", "answer": "Buildings and mobility.", "rating": 8}
+{"question": "What is the share of fully viable private spending from businesses and consumers in meeting the total low-emissions spending need?", "answer": "18 percent.", "rating": 8}
+{"question": "What sectors would most consumer spending on low-emissions technologies occur in?", "answer": "Buildings and mobility.", "rating": 8}
+{"question": "Which sector would have the largest share of commercial spending on low-emissions technologies?", "answer": "Power.", "rating": 8}
+{"question": "How much of the total funding is accounted for by commercial actors?", "answer": "31%.", "rating": 7}
+{"question": "What is the role of government incentives in influencing consumer purchases of low-emissions technologies?", "answer": "Government incentives can influence consumer purchases, such as programs to lower the cost of home energy-efficiency upgrades and electric vehicles.", "rating": 9}
+{"question": "What is the total amount of avoided spending from accelerated learning?", "answer": "$4.0T (7% of funding).", "rating": 8}
+{"question": "Which sectors would most consumer spending on low-emissions technologies occur in?", "answer": "Most consumer spending on low-emissions technologies would occur in buildings and mobility.", "rating": 9}
+{"question": "What is the role of public support in financing low-emissions technologies?", "answer": "Public support is needed to bridge gaps in cost-competitiveness and lower risks for private actors through grant and concessional funding, or through state-owned enterprises providing financing.", "rating": 9}
+{"question": "How is the spending on low-emissions technologies distributed among different actors in the power sector?", "answer": "Commercial actors and state-owned enterprises are expected to drive spending in the power sector, with example technologies including wind and solar generation, transmission, distribution, and battery storage.", "rating": 8}
+{"question": "What are the implications of the remaining gaps in achieving empowerment and net-zero challenge?", "answer": "Societies around the world are left with decisions about whether they have the appetite, capacity, and ability to deploy additional resources against those remaining gaps, and may prioritize one transformation over the other, make partial progress on both fronts, or leave both priorities unaddressed beyond what market forces can do.", "rating": 7}
+{"question": "What is the estimated cumulative amount that could come from enabling more affordable essentials and labor-friendly work arrangements to achieve full empowerment?", "answer": "$3.5 trillion", "rating": 8}
+{"question": "How much of a gap remains to be addressed after enabling more affordable essentials and labor-friendly work arrangements?", "answer": "$10 trillion", "rating": 8}
+{"question": "What is the estimated additional private spending that could be unlocked by $10 trillion of incremental public support cumulatively to 2030 on the net-zero side?", "answer": "$17 trillion", "rating": 8}
+{"question": "What is the total additional societal commitment needed to close both the empowerment and net-zero gaps in full, cumulative through 2030?", "answer": "$20 trillion", "rating": 8}
+{"question": "What percentage of global GDP annually over the decade is equivalent to the additional societal commitments needed to close both gaps?", "answer": "2 percent", "rating": 8}
+{"question": "What are some possible forms that societal commitments on the inclusion side could take?", "answer": "Direct household transfers, greater direct investment in housing, healthcare, and education to expand access or improve affordability.", "rating": 9}
+{"question": "What percentage of GDP is required on an average annual basis for empowerment in lower-income regions?", "answer": "5 percent", "rating": 8}
+{"question": "What is the additional percentage of GDP required to unlock the net-zero investments needed in lower-income regions?", "answer": "2 percent", "rating": 8}
+{"question": "What are the possible forms of societal commitments on the inclusion side?", "answer": "They could involve direct household transfers; greater direct investment in housing, healthcare, and education to expand access or improve the affordability of these services; or both.", "rating": 9}
+{"question": "What are the sources of additional societal commitment?", "answer": "More efficient use of public funds, reprioritized government spending, taxes, debt, multilateral agencies, or philanthropic entities.", "rating": 9}
+{"question": "Who can make societal commitments?", "answer": "Governments, state-owned enterprises, multilateral agencies, development finance institutions, philanthropies (including corporate social responsibility initiatives), and social investors.", "rating": 9}
+{"question": "What are the options for governments to generate resources for big priorities?", "answer": "More efficient or reprioritized government spending, debt, or taxes.", "rating": 9}
+{"question": "What is the expected annual average global growth rate from 2021 to 2030?", "answer": "3.4%.", "rating": 8}
+{"question": "What is the primary source of societal commitments to address big priorities?", "answer": "The bulk of societal commitments would likely come from governments.", "rating": 9}
+{"question": "What are the options for governments to generate resources for big priorities?", "answer": "More efficient or reprioritized government spending, debt, or taxes.", "rating": 9}
+{"question": "What percentage of GDP do governments spend globally on various priorities?", "answer": "36 percent.", "rating": 7}
+{"question": "How can governments make existing spending programs more effective?", "answer": "By making them more transparent, targeted, and productive.", "rating": 9}
+{"question": "What percentage of GDP do governments globally spend on various priorities?", "answer": "36 percent.", "rating": 7}
+{"question": "How can digital tools improve public spending?", "answer": "Digital tools can spot leakages (whether caused by fraud or errors), streamline eligibility processes, and deliver benefits more efficiently.", "rating": 9}
+{"question": "What is an example of a successful digital identification structure?", "answer": "India's Aadhaar, which reduced leakage in the delivery of benefits to the poorest citizens when linked to mobile bank accounts.", "rating": 9}
+{"question": "Why is reallocating funds to high-priority initiatives challenging for developing nations?", "answer": "Most developing nations do not have great flexibility, as seen in India where the additional societal commitment needed to get on a net-zero pathway is more than 50 percent higher than the share of GDP that currently goes to social protection spending.", "rating": 8}
+{"question": "What are the two main options for countries to finance empowerment and net-zero investments?", "answer": "Taking on more public debt (through bond issuance or loans) and improving revenue collection (through taxes).", "rating": 9}
+{"question": "How would borrowing to cover societal commitments affect debt-to-GDP ratios in Japan and the United States?", "answer": "It would make existing debt-to-GDP ratios go up only modestly.", "rating": 8}
+{"question": "What would be the consequence of sub-Saharan Africa taking on more debt to cover societal commitments?", "answer": "Its debt would soar to more than five times 2020 levels as a share of GDP.", "rating": 9}
+{"question": "What would happen to sub-Saharan Africa's debt if it takes the same approach as other regions to finance empowerment and net-zero investments?", "answer": "Its debt would soar to more than five times 2020 levels as a share of GDP.", "rating": 9}
+{"question": "How can countries strengthen their tax revenues according to the text?", "answer": "By pursuing reform in tax administration and compliance.", "rating": 8}
+{"question": "What is the estimated increase in tax revenue as a share of GDP required for high-income regions to close their residual gaps?", "answer": "Less than one percentage point.", "rating": 9}
+{"question": "What is the suggested range of increase in tax revenue as a share of GDP for China, India, other Asian economies, Latin America, and the Middle East to close their residual gaps?", "answer": "Two to five percentage points.", "rating": 9}
+{"question": "How much would sub-Saharan Africa need to increase its tax revenue as a share of GDP to close its residual gap?", "answer": "30 percentage points.", "rating": 9}
+{"question": "What are some alternative options for governments to generate revenues besides tax increases?", "answer": "Introducing user fees for certain services and monetizing public assets.", "rating": 8}
+{"question": "What is the purpose of putting a price on emissions according to the text?", "answer": "To give firms and consumers motivation to change their consumption choices.", "rating": 9}
+{"question": "What are the different forms that a price on emissions could take?", "answer": "Carbon taxes, cap-and-trade regimes, and stricter regulation that puts an implicit price on carbon.", "rating": 9}
+{"question": "Why are carbon taxes considered an efficient tool to contain emissions?", "answer": "Because they impose costs on all emitters that reflect the marginal damage of emissions.", "rating": 10}
+{"question": "What is the main purpose of implementing carbon taxes?", "answer": "To contain emissions by imposing costs on all emitters that reflect the marginal damage of emissions.", "rating": 10}
+{"question": "How do carbon taxes affect high-emitting sectors?", "answer": "They raise their total costs of production.", "rating": 8}
+{"question": "Why are carbon taxes considered effective by their advocates?", "answer": "Because they use market forces (incentives) to shift behavior towards low-emissions alternatives.", "rating": 9}
+{"question": "What is the role of subsidies in the context of carbon taxes?", "answer": "Subsidies could help encourage early high-risk investments in new technologies, advancing learning, before taxes encourage switching away from high-emissions assets.", "rating": 9}
+{"question": "What is assumed in the model used in the research regarding the societal commitment needed for the net-zero investment gap?", "answer": "It is delivered through subsidies and has the same outcome as discouraging high-emissions spending via a carbon tax.", "rating": 8}
+{"question": "What is the estimated carbon price per ton of CO2 in 2030 in the United States according to the NGFS?", "answer": "$302.", "rating": 7}
+{"question": "How would carbon taxes at the NGFS-estimated levels affect the need for additional societal commitments to reach net zero?", "answer": "They would reduce it by 0.4 percent of global GDP (on average annually).", "rating": 9}
+{"question": "What is a potential negative consequence of implementing carbon taxes?", "answer": "They could be regressive in some economies, creating a disproportionate burden for low-income households.", "rating": 9}
+{"question": "What are the projected carbon prices per ton of CO2 in 2030 for the United States, China, and India?", "answer": "$302 in the United States, $162 in China, and $78 in India.", "rating": 8}
+{"question": "By how much would carbon taxes reduce the need for additional societal commitments to reach net zero by 2030?", "answer": "0.4 percent of global GDP (on average annually).", "rating": 7}
+{"question": "What is one way to address the potentially regressive effects of carbon taxes on low-income households?", "answer": "Through revenue recycling\u2014that is, returning the revenues raised through the carbon tax to vulnerable households through transfers.", "rating": 9}
+{"question": "Why is debt a problem for low-income countries in achieving full empowerment and a net-zero trajectory?", "answer": "The IMF estimates that 60 percent of low-income countries are already in debt distress or approaching it.", "rating": 8}
+{"question": "What was noted by some representatives at the 2022 UN General Assembly regarding wealthy nations?", "answer": "That they have not followed through on pledges of international assistance to date.", "rating": 9}
+{"question": "What model is used to project global GDP and other macroeconomic variables in different NGFS climate scenarios?", "answer": "The National Institute Global Econometric Model (NiGEM) from the National Institute of Economic and Social Research (UK).", "rating": 10}
+{"question": "What percentage of GDP would high-income countries need to commit on an average annual basis to close the residual empowerment and net-zero gaps for the entire world?", "answer": "3.5 percent.", "rating": 8}
+{"question": "What is the name of the largest vehicle for climate financing in developing countries, and how much capital does it have?", "answer": "The Green Climate Fund, with $12 billion in capital.", "rating": 8}
+{"question": "What was the outcome of the gathering regarding assistance to low-income countries coping with climate disasters?", "answer": "A deal to create an international fund to assist low-income countries coping with climate disasters.", "rating": 8}
+{"question": "What is the total amount of investments catalyzed by the Green Climate Fund in developing countries?", "answer": "$45 billion.", "rating": 8}
+{"question": "How much did Belize reduce its national debt by in its 2021 refinancing deal with The Nature Conservancy?", "answer": "10 percent.", "rating": 7}
+{"question": "What was the amount of Ecuador's 'blue bond' sold to preserve the Gal\u00e1pagos Islands?", "answer": "$656 million.", "rating": 9}
+{"question": "What was the outcome for the global population living in extreme poverty between 1990 and 2020?", "answer": "The share declined roughly 30 percentage points.", "rating": 9}
+{"question": "What is the average global growth rate in a baseline growth scenario?", "answer": "2.7 percent.", "rating": 8}
+{"question": "What was the change in the share of the global population living in extreme poverty between 1990 and 2020?", "answer": "The share declined roughly 30 percentage points.", "rating": 9}
+{"question": "What is the assumed baseline global growth rate in the model?", "answer": "2.7 percent annually on aggregate.", "rating": 9}
+{"question": "What is the assumed global growth rate in the 'prosperity' growth scenario?", "answer": "3.4 percent annually on aggregate.", "rating": 9}
+{"question": "How does accelerated economic growth affect the size of societal commitments needed to close residual gaps in India?", "answer": "Faster growth shrinks the size of those commitments by more than half, to 4.6 percent of GDP.", "rating": 9}
+{"question": "What is the effect of accelerated growth on the empowerment gap in China?", "answer": "China would reach full empowerment in this scenario with little to no additional commitments.", "rating": 9}
+{"question": "How much additional debt capacity is created by achieving growth of 3.4 percent globally, cumulative through 2030?", "answer": "$31 trillion.", "rating": 8}
+{"question": "What was the global public debt as a share of GDP in 2020?", "answer": "100 percent.", "rating": 8}
+{"question": "What is the additional societal commitment required for the US to close both gaps with faster growth?", "answer": "Less than one percentage point of GDP annually.", "rating": 9}
+{"question": "How does accelerated growth affect the burden for sub-Saharan Africa?", "answer": "The burden would still be high, but it would drop from an amount equivalent to 44 percent to 30 percent of GDP.", "rating": 9}
+{"question": "What is the global growth rate assumed in the baseline scenario?", "answer": "2.7 percent annually on aggregate.", "rating": 9}
+{"question": "What is the global growth rate assumed in the accelerated or 'prosperity' growth scenario?", "answer": "3.4 percent annually on aggregate.", "rating": 9}
+{"question": "How much additional debt capacity is created globally by achieving 3.4 percent growth through 2030?", "answer": "$31 trillion.", "rating": 8}
+{"question": "What was the global public debt as a share of GDP in 2020?", "answer": "100 percent.", "rating": 9}
+{"question": "According to the text, what is crucial for developing economies to help more people exit poverty?", "answer": "Growth, productivity, skill development, technological leapfrogging, and institutional reforms.", "rating": 9}
+{"question": "What kind of collaborations may be needed to integrate low-income countries into global flows?", "answer": "New collaborations to integrate them more fully into global flows of trade, finance, technology, and knowledge.", "rating": 9}
+{"question": "What percentage of global emissions do the sectors covered by the report account for?", "answer": "85%.", "rating": 8}
+{"question": "What is crucial for developing economies to help people exit poverty?", "answer": "Growth, productivity, skill development, technological leapfrogging, and institutional reforms.", "rating": 9}
+{"question": "How many people in lower-income regions could move out of poverty with higher growth and innovation?", "answer": "Around 600 million.", "rating": 9}
+{"question": "What is critical for affordability in the pathway to net zero?", "answer": "Innovation at scale, particularly through technology development.", "rating": 9}
+{"question": "Why is innovation essential for inclusion?", "answer": "It generates demand for higher skills, creates upskilling opportunities, and brings down the costs of meeting basic needs.", "rating": 9}
+{"question": "What is needed to deliver essential services with higher quality and greater effectiveness in healthcare and education systems?", "answer": "Not just spending more, but also getting more out of every dollar.", "rating": 8}
+{"question": "What is UNICEF's Office of Innovation focused on?", "answer": "Pilot programs and integrating technology into its local interventions.", "rating": 8}
+{"question": "What is needed to make progress toward empowerment and net zero?", "answer": "Private actors, governments, and nongovernmental organizations and nonprofits combining their capabilities and expertise\u2014and thinking without limits about how they can contribute to meeting this moment.", "rating": 9}
+{"question": "What is the estimated number of people facing acute hunger worldwide by late 2022?", "answer": "345 million.", "rating": 8}
+{"question": "Why is innovation needed in delivering essential services?", "answer": "To get more out of every dollar to deliver essential services with higher quality and greater effectiveness.", "rating": 9}
+{"question": "What is the main issue with the world's poorest populations in terms of food?", "answer": "They can afford enough food to provide calories but not a nutritious diet.", "rating": 8}
+{"question": "What is UNICEF's Office of Innovation focused on?", "answer": "Pilot programs and integrating technology into its local interventions.", "rating": 8}
+{"question": "What is required to lift minimum living standards and contain climate change?", "answer": "Sweeping transformations, requiring bold approaches in policy, finance, technology, and industry.", "rating": 9}
+{"question": "What is needed to make progress toward empowerment and net zero?", "answer": "Private actors, governments, and nongovernmental organizations and nonprofits combining their capabilities and expertise\u2014and thinking without limits about how they can contribute to meeting this moment.", "rating": 8}
+{"question": "What is the estimated number of people facing acute hunger worldwide by late 2022?", "answer": "345 million.", "rating": 9}
+{"question": "Why is innovation needed in delivering essential services?", "answer": "To get more out of every dollar to deliver essential services with higher quality and greater effectiveness.", "rating": 9}
+{"question": "What is the main issue with the world's poorest populations in terms of food?", "answer": "They can afford enough food to provide calories but not a nutritious diet.", "rating": 7}
+{"question": "What was the impact of the war in Ukraine on global food prices?", "answer": "The disruption sent food and energy prices soaring worldwide.", "rating": 8}
+{"question": "How many people worldwide were facing acute hunger by late 2022?", "answer": "345 million people worldwide were facing acute hunger by late 2022.", "rating": 9}
+{"question": "What are some forms of food assistance provided by government programs?", "answer": "Food assistance can be offered in a variety of forms, including food vouchers, cash transfers, and free school meals.", "rating": 9}
+{"question": "What is the name of the program in the United States that provides benefits to low-income individuals and families to purchase food?", "answer": "The Supplemental Nutrition Assistance Program (SNAP) provides benefits to low-income individuals and families, issuing benefits via debit cards that can be used to purchase eligible food products in retail stores.", "rating": 10}
+{"question": "What was the result of Ghana's fertilizer subsidy program?", "answer": "Ghana's fertilizer subsidy program was found to boost crop yield by almost 25 percent.", "rating": 8}
+{"question": "What is the estimated global population expected to be by 2050?", "answer": "The global population is expected to reach almost ten billion by 2050.", "rating": 8}
+{"question": "What percentage of global rain-fed cropland was affected by moderate to extreme drought in 2022?", "answer": "Up to 14 percent of global rain-fed cropland was affected by moderate to extreme drought in 2022.", "rating": 9}
+{"question": "What is 'climate-smart agriculture'?", "answer": "Climate-smart agriculture is a concept that takes an integrated approach to resilience, adaptation, and emissions reduction.", "rating": 8}
+{"question": "What is the estimated contribution of improvements in global health to economic growth in the past century?", "answer": "About a third of economic growth in the past century can be attributed to improvements in global health.", "rating": 9}
+{"question": "What percentage of economic growth in the past century can be attributed to improvements in global health?", "answer": "About a third.", "rating": 7}
+{"question": "What percentage of global spending on healthcare occurred in high-income countries in 2019?", "answer": "About 80 percent.", "rating": 8}
+{"question": "What is the gap in life expectancy between low- and high-income countries?", "answer": "18 years.", "rating": 8}
+{"question": "By how much could the global disease burden be reduced by applying known interventions?", "answer": "About 40 percent.", "rating": 8}
+{"question": "How many years could people at middle age expect to live in good health if the global disease burden is reduced by 40 percent?", "answer": "A decade.", "rating": 7}
+{"question": "What percentage of healthcare spending was out of pocket in low-income countries?", "answer": "44 percent.", "rating": 9}
+{"question": "What is the life expectancy in Hawaii compared to Mississippi?", "answer": "80.7 years in Hawaii and 71.9 years in Mississippi.", "rating": 9}
+{"question": "What percentage of the world's healthcare workers is in Africa?", "answer": "3 percent.", "rating": 8}
+{"question": "What proportion of the gains in reducing the global disease burden could be achieved from prevention?", "answer": "More than two-thirds.", "rating": 9}
+{"question": "What percentage of health gains could be achieved through prevention?", "answer": "More than two-thirds.", "rating": 9}
+{"question": "What are some cost-effective interventions in low-income countries according to MGI research?", "answer": "Childhood immunizations, prevention and treatment of malaria, safe childbirth, better nutrition, and cardiovascular disease prevention.", "rating": 9}
+{"question": "What is the estimated economic return on investment in known health improvements?", "answer": "$2 to $4 for each $1 invested.", "rating": 9}
+{"question": "How much could GDP growth be accelerated by health improvements?", "answer": "0.4 percent every year.", "rating": 8}
+{"question": "What is required to realize the next wave of health innovations?", "answer": "Ongoing investment in research and development from the private sector, governments, and research institutions.", "rating": 9}
+{"question": "What percentage of renter households in the United States spend more than 30 percent of their income on housing?", "answer": "46 percent.", "rating": 8}
+{"question": "How many urban residents worldwide lived in slums and informal settlements as of 2018?", "answer": "More than a billion.", "rating": 8}
+{"question": "What is a major factor contributing to the lack of affordable housing?", "answer": "An extreme imbalance in supply and demand due to population growth, urbanization, and rising global incomes.", "rating": 9}
+{"question": "What is at the heart of the issue of rising rents and home prices?", "answer": "An extreme imbalance in supply and demand.", "rating": 9}
+{"question": "What percentage of renter households in the United States spend more than 30 percent of their income on housing?", "answer": "46 percent.", "rating": 8}
+{"question": "How many low- and middle-income residents in Europe spend more than 40 percent of their income on housing?", "answer": "At least 100 million.", "rating": 8}
+{"question": "What is the result of a lack of affordable housing on economic growth?", "answer": "It eventually constrains economic growth.", "rating": 8}
+{"question": "What is the average annual productivity growth in the construction sector globally over the past two decades?", "answer": "1 percent.", "rating": 8}
+{"question": "How can private-sector builders boost innovation and productivity in housing development?", "answer": "By taking a value engineering approach to the design process, focusing on procurement and supply-chain management, and using digital tools to improve the design process and monitor productivity on sites.", "rating": 9}
+{"question": "What is the biggest constraint on housing development?", "answer": "Access to land.", "rating": 7}
+{"question": "By how much could unlocking land reduce the cost of owning a standard housing unit?", "answer": "Up to 20 percent.", "rating": 8}
+{"question": "What was the effect of limited labor mobility on aggregate US growth from 1964 to 2009?", "answer": "It lowered aggregate US growth by more than a third.", "rating": 8}
+{"question": "How much did curtailed consumption in Los Angeles County depress the region's GDP?", "answer": "Up to 5 percent.", "rating": 8}
+{"question": "What is required to achieve greater affordability in housing?", "answer": "A dramatic increase in the number of available housing units.", "rating": 9}
+{"question": "What strategy involves building housing on vacant parcels in dense neighborhoods?", "answer": "Building infill housing.", "rating": 9}
+{"question": "What percentage of Vienna's housing stock is 'social housing'?", "answer": "Roughly 40 percent.", "rating": 8}
+{"question": "What is the goal of Thailand's Baan Mankong program?", "answer": "To help the urban poor obtain housing with subsidies and low-cost loans.", "rating": 9}
+{"question": "How many people lacked access to safely managed drinking water in 2020?", "answer": "2 billion.", "rating": 8}
+{"question": "How many people lacked access to safely managed drinking water in 2020?", "answer": "2 billion people.", "rating": 9}
+{"question": "What is the target year for achieving universal access to safely managed drinking water and sanitation services?", "answer": "2030.", "rating": 8}
+{"question": "How many children between the ages of 6 and 18 are out of school around the world?", "answer": "244 million.", "rating": 8}
+{"question": "What percentage of children from ages 6 to 11 in sub-Saharan Africa are not attending school?", "answer": "Almost 20 percent.", "rating": 8}
+{"question": "What skills will be needed in the jobs of the future?", "answer": "Digital and social\u2013emotional skills.", "rating": 7}
+{"question": "What was the estimated learning poverty rate in low- and middle-income countries in 2019?", "answer": "57 percent.", "rating": 9}
+{"question": "What is the estimated learning poverty rate in low- and middle-income countries after the school closures caused by the pandemic?", "answer": "70 percent.", "rating": 9}
+{"question": "How do most states in the United States fund local school districts?", "answer": "Most states provide some level of baseline funding to local school districts, with the remainder generated by local property taxes.", "rating": 8}
+{"question": "What is one of the top priorities for improving learning outcomes in education?", "answer": "One of the top priorities is recruiting, developing, and retaining the highest-quality teachers and school leaders.", "rating": 9}
+{"question": "How does Singapore support its teachers to achieve high student achievement results?", "answer": "Teachers receive comprehensive training, mentoring in the early part of their careers, ongoing professional development, and holistic performance appraisals.", "rating": 9}
+{"question": "What was the focus of Kenya's Tusome program, and what were its results?", "answer": "The program focused on improving foundational literacy in primary schools across Kenya. It revised curricula, provided universal access to the content, and trained teachers with opportunities for continued professional development, producing substantial improvements in reading levels and comprehension.", "rating": 9}
+{"question": "Why is investing in early childhood learning important?", "answer": "Investing in early childhood learning can provide a stronger foundation, as research has consistently found that children who attend high-quality preschool and kindergarten get a head start on learning that continues to yield long-term benefits.", "rating": 9}
+{"question": "What is the title of the World Bank report published in 2018?", "answer": "The 1.5 billion people question: Food, vouchers, or cash transfers?", "rating": 8}
+{"question": "What is the name of the organization that published 'Climate-smart agriculture case studies 2021: Projects from around the world'?", "answer": "Food and Agriculture Organization of the United Nations", "rating": 9}
+{"question": "What is the topic of the report 'Creating a sustainable food future: A menu of solutions to feed nearly 10 billion people by 2050'?", "answer": "A menu of solutions to feed nearly 10 billion people by 2050", "rating": 8}
+{"question": "Who authored the article 'Housing affordability and economic growth'?", "answer": "Jerry Anthony", "rating": 9}
+{"question": "What is the definition of 'slum households' according to the Habitat for Humanity progress report?", "answer": "Lacking durability and protection against the elements, sufficient living space (with no more than three people sharing the same room), access to safe water and sanitation, and security of tenure.", "rating": 9}
+{"question": "What is the name of the journal that published the article 'Health, human productivity, and long-term economic growth'?", "answer": "Journal of Economic History", "rating": 9}
+{"question": "Who published the report 'High-performance health financing for universal health coverage'?", "answer": "World Bank", "rating": 8}
+{"question": "What is the topic of the McKinsey Global Institute report published in July 2020?", "answer": "Prioritizing health: A prescription for prosperity", "rating": 9}
+{"question": "What is the name of the organization that published 'World health statistics 2022: Monitoring health for the SDGs'?", "answer": "World Health Organization", "rating": 9}
+{"question": "Who authored the article 'Rising geographic disparities in US mortality'?", "answer": "Benjamin K. Couillard et al.", "rating": 8}
+{"question": "What are the characteristics that define 'slum households'?", "answer": "Lacking durability and protection against the elements, insufficient living space (with more than three people sharing the same room), lack of access to safe water and sanitation, and insecurity of tenure.", "rating": 9}
+{"question": "Who led the research for the report 'From poverty to empowerment: Raising the bar for sustainable and inclusive growth'?", "answer": "The research was led by Anu Madgavkar, Sven Smit, Mekala Krishnan, Kevin Russell, Rebecca J. Anderson, Jonathan Woetzel, Kweilin Ellingrud, and Tracy Francis.", "rating": 9}
+{"question": "What is the main focus of the report 'From poverty to empowerment: Raising the bar for sustainable and inclusive growth'?", "answer": "The report builds on a larger body of work from the McKinsey Global Institute exploring how to make prosperity more broad-based through productivity and growth as well as research on human capital and the future of work, and also builds on past reports on climate change and the net-zero transition.", "rating": 7}
+{"question": "Who was the chair of MGI involved in the research?", "answer": "Sven Smit, MGI\u2019s chair, based in Amsterdam.", "rating": 9}
+{"question": "Who led the working team for the research?", "answer": "Rebecca J. Anderson.", "rating": 8}
+{"question": "Who were the academic advisers for the research?", "answer": "Martin Baily, Hans-Helmut Kotz, Rakesh Mohan, Sir Christopher Pissarides, Andrew Sheng, Matthew Slaughter, Michael Spence, and Laura Tyson.", "rating": 9}
+{"question": "Who advised on the net-zero analysis?", "answer": "Simon Dietz, Marion Dumas, John Ward, and Samuel Fankhauser.", "rating": 8}
+{"question": "Who were some other experts that provided their time and perspectives for the research?", "answer": "Homi Kharas, Wolfgang Fengler, Paulien Osse, Fiona Dragstra, Ian Hurst, Indermit Gill, Rakesh Kochhar, Pedro Concei\u00e7\u00e3o, Kalpana Kochhar, Vera Songwe, along with their respective teams.", "rating": 9}
+{"question": "Who advised on the net-zero analysis in the report?", "answer": "Simon Dietz, Marion Dumas, and John Ward from the Grantham Research Institute on Climate Change and the Environment, London School of Economics, and Samuel Fankhauser from the University of Oxford.", "rating": 9}
+{"question": "What is Vera Songwe's role in the Liquidity and Sustainability Facility?", "answer": "Vera Songwe is the chair of the Liquidity and Sustainability Facility.", "rating": 8}
+{"question": "Who edited and produced the report?", "answer": "Lisa Renaud, Chuck Burke, and Vasudha Gupta.", "rating": 9}
+{"question": "Was the research commissioned or sponsored by any institution?", "answer": "No, the research is independent and has not been commissioned or sponsored by any business, government, or other institution.", "rating": 10}
+{"question": "Who is the chief economist of the World Bank Group mentioned in the text?", "answer": "Indermit Gill.", "rating": 9}
+{"question": "Who is responsible for any errors in the report?", "answer": "The authors, as stated 'Any errors are our own.'", "rating": 9}
+{"question": "Was the research commissioned or sponsored by any institution?", "answer": "No, it is stated that the research 'has not been commissioned or sponsored in any way by any business, government, or other institution.'", "rating": 10}
+{"question": "When was the report 'From poverty to empowerment: Raising the bar for sustainable and inclusive growth' published?", "answer": "September 2023", "rating": 8}
+{"question": "Who published the report?", "answer": "McKinsey Global Institute", "rating": 8}
