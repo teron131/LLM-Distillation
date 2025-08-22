@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def get_model_name_from_config():
+def get_GENERATION_MODEL_from_config():
     """
     Reads the model name from config.yaml file.
     """
@@ -18,7 +18,7 @@ def get_model_name_from_config():
     return config["api-endpoint"]["model"]
 
 
-def update_config_yaml(model_name: str):
+def update_config_yaml(GENERATION_MODEL: str, JUDGE_MODEL: str):
     """
     Dynamically updates the config.yaml file with the provided API key and model name.
     """
@@ -26,7 +26,7 @@ def update_config_yaml(model_name: str):
         config = yaml.safe_load(f)
 
     config["api-endpoint"]["api_key"] = os.getenv("OPENROUTER_API_KEY")
-    config["api-endpoint"]["model"] = model_name
+    config["api-endpoint"]["model"] = GENERATION_MODEL
     config["generation"]["batch_size"] = os.cpu_count()
     config["curate"]["batch_size"] = os.cpu_count()
     config["curate"]["inference_batch"] = os.cpu_count()
@@ -50,7 +50,7 @@ def clean_input_duplicates(data_dir: Path = Path("./documents")):
         file.unlink()
 
 
-def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
+def run_pipeline(GENERATION_MODEL: str, documents_dir: str = "./documents/"):
     """
     Runs the synthetic data kit pipeline based on the start.sh script.
     The data directory will be dynamic based on the model name.
@@ -58,7 +58,7 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
     # Clean input duplicates
     clean_input_duplicates(Path(documents_dir))
 
-    base_data_dir = Path(f"data_{model_name.split('/')[-1]}")
+    base_data_dir = Path(f"data_{GENERATION_MODEL.split('/')[-1]}")
 
     # Step 1: Create directory structure
     _run_command(
@@ -88,7 +88,7 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
                 with open(parsed_file_path, "r") as f:
                     content = f.read()
                 char_count = len(content)
-                num_qa_pairs = max(1, (char_count // 2000) * 10)  # At least 1 pair, 10 per 2000 chars
+                num_qa_pairs = max(1, (char_count // 2000) * 5)  # At least 1 pair, 10 per 2000 chars
                 print(f"Calculated {num_qa_pairs} QA pairs for {doc_file.name} (character count: {char_count}).")
 
                 # Create QA pairs
@@ -102,7 +102,7 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
 
     # Step 3: Curate data (now operates on the generated directory)
     _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--output", f"{base_data_dir}/curated"],
+        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated"],
         "Curating data...",
     )
 
@@ -117,12 +117,13 @@ def run_pipeline(model_name: str, documents_dir: str = "./documents/"):
 
 if __name__ == "__main__":
     # Get model name from config.yaml
-    MODEL_NAME = get_model_name_from_config()
+    GENERATION_MODEL = "google/gemini-2.5-flash"
+    JUDGE_MODEL = "google/gemini-2.5-flash"
 
     # Update config.yaml dynamically
     print(f"Updating config.yaml with API key and model name...")
-    update_config_yaml(MODEL_NAME)
+    update_config_yaml(GENERATION_MODEL)
     print(f"config.yaml updated successfully.")
 
     # Run the pipeline
-    run_pipeline(MODEL_NAME)
+    run_pipeline(GENERATION_MODEL)
