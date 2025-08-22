@@ -50,7 +50,12 @@ def clean_input_duplicates(data_dir: Path = Path("./documents")):
         file.unlink()
 
 
-def run_pipeline(GENERATION_MODEL: str, documents_dir: str = "./documents/"):
+def run_pipeline(
+    GENERATION_MODEL: str,
+    JUDGE_MODEL: str,
+    documents_dir: str = "./documents/",
+    PAIRS_PER_PAGE: int = 5,
+):
     """
     Runs the synthetic data kit pipeline based on the start.sh script.
     The data directory will be dynamic based on the model name.
@@ -88,7 +93,7 @@ def run_pipeline(GENERATION_MODEL: str, documents_dir: str = "./documents/"):
                 with open(parsed_file_path, "r") as f:
                     content = f.read()
                 char_count = len(content)
-                num_qa_pairs = max(1, (char_count // 2000) * 5)  # At least 1 pair, 10 per 2000 chars
+                num_qa_pairs = max(1, (char_count // 2000) * PAIRS_PER_PAGE)  # At least 1 pair, 10 per 2000 chars
                 print(f"Calculated {num_qa_pairs} QA pairs for {doc_file.name} (character count: {char_count}).")
 
                 # Create QA pairs
@@ -102,7 +107,7 @@ def run_pipeline(GENERATION_MODEL: str, documents_dir: str = "./documents/"):
 
     # Step 3: Curate data (now operates on the generated directory)
     _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated"],
+        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", JUDGE_MODEL, "--output", f"{base_data_dir}/curated"],
         "Curating data...",
     )
 
@@ -119,11 +124,12 @@ if __name__ == "__main__":
     # Get model name from config.yaml
     GENERATION_MODEL = "google/gemini-2.5-flash"
     JUDGE_MODEL = "google/gemini-2.5-flash"
+    PAIRS_PER_PAGE = 5
 
     # Update config.yaml dynamically
     print(f"Updating config.yaml with API key and model name...")
-    update_config_yaml(GENERATION_MODEL)
+    update_config_yaml(GENERATION_MODEL, JUDGE_MODEL)
     print(f"config.yaml updated successfully.")
 
     # Run the pipeline
-    run_pipeline(GENERATION_MODEL)
+    run_pipeline(GENERATION_MODEL, JUDGE_MODEL, PAIRS_PER_PAGE)
