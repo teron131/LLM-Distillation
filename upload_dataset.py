@@ -8,8 +8,8 @@ api = HfApi()
 
 # data_dir = "dataset_hf"
 # repo_id = "OrcinusOrca/YouTube-Cantonese"
-data_dir = "data_gemini-2.5-flash-lite/final"
-repo_id = "OrcinusOrca/McKinsey-docs"
+data_dir = "Llama-4-Maverick-17B-128E-Instruct-FP8"
+repo_id = "OrcinusOrca/McKinsey-reports"
 
 try:
     api.create_repo(
