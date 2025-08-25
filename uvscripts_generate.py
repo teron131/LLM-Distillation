@@ -9,7 +9,7 @@ from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple, Union
+from typing import Dict, List, Optional, Tuple
 
 import numpy as np
 from dotenv import load_dotenv
@@ -35,8 +35,8 @@ logger = logging.getLogger(__name__)
 
 # Batch processing configuration
 SAVE_BATCH_SIZE = 100  # Save every N generated samples
-INFERENCE_BATCH_SIZE = 10  # Batch size for LLM inference
-MAX_WORKERS = os.cpu_count()  # Number of concurrent workers
+INFERENCE_BATCH_SIZE = 32  # Batch size for LLM inference
+MAX_WORKERS = min(os.cpu_count(), INFERENCE_BATCH_SIZE)  # Number of concurrent workers
 SAVE_DIR = Path("./generated_data")
 
 # Prompt templates from the paper
@@ -79,7 +79,7 @@ class ResponseScore(BaseModel):
 
 
 # Quality evaluation prompt template
-QUALITY_EVALUATION_PROMPT = """You are an expert evaluator tasked with scoring the quality of AI responses across multiple specific criteria. Please evaluate the following response and provide scores for each aspect.
+QUALITY_EVALUATION_PROMPT = """You are an expert evaluator tasked with scoring the quality of AI responses across multiple specific criteria. Please evaluate the following response and provide scores for each criterion.
 
 Original Prompt:
 {prompt}
@@ -303,11 +303,26 @@ def process_generation_batch(prompts_batch: List[str], llm: ChatOpenAI, task_typ
             if task_type == "reasoning":
                 question, answer = extract_reasoning_output(output_text)
                 if question and answer:
-                    results.append({"question": question, "answer": answer, "prompt_index": i})
+                    results.append(
+                        {
+                            "question": question,
+                            "answer": answer,
+                            "metadata": {
+                                "prompt_index": i,
+                            },
+                        }
+                    )
             else:
                 synthetic_prompt = extract_instruction_output(output_text)
                 if synthetic_prompt:
-                    results.append({"prompt": synthetic_prompt, "prompt_index": i})
+                    results.append(
+                        {
+                            "prompt": synthetic_prompt,
+                            "metadata": {
+                                "prompt_index": i,
+                            },
+                        }
+                    )
 
         return results
 
@@ -370,11 +385,11 @@ def generate_synthetic_data(
                 try:
                     batch_results = future.result()
 
-                    # Add seed indices to results
+                    # Add seed indices to results metadata
                     for result in batch_results:
-                        prompt_idx = batch_idx * INFERENCE_BATCH_SIZE + result["prompt_index"]
-                        result["seed_indices"] = all_seed_pairs[prompt_idx]
-                        del result["prompt_index"]  # Remove temporary index
+                        prompt_idx = batch_idx * INFERENCE_BATCH_SIZE + result["metadata"]["prompt_index"]
+                        result["metadata"]["seed_indices"] = all_seed_pairs[prompt_idx]
+                        del result["metadata"]["prompt_index"]  # Remove temporary index
                         synthetic_data.append(result)
 
                     # Save batch if we have enough data
@@ -461,7 +476,12 @@ def process_consistency_item(args: Tuple[Dict, ChatOpenAI, int, float]) -> Optio
 
             # Check if majority answer matches original and meets threshold
             if majority_answer == original_answer and count / len(answers) >= threshold:
-                item["consistency_score"] = count / len(answers)
+                # Add consistency metadata
+                if "metadata" not in item:
+                    item["metadata"] = {}
+                item["metadata"]["consistency_score"] = count / len(answers)
+                item["metadata"]["consistency_responses"] = len(answers)
+                item["metadata"]["majority_answer"] = majority_answer
                 return item
 
     except Exception as e:
@@ -498,8 +518,8 @@ def answer_consistency_filter(
                     filtered_data.append(result)
 
                     # Save batch when we reach BATCH_SIZE
-                    if save_path and len(filtered_data) % BATCH_SIZE == 0:
-                        batch_start = len(filtered_data) - BATCH_SIZE
+                    if save_path and len(filtered_data) % SAVE_BATCH_SIZE == 0:
+                        batch_start = len(filtered_data) - SAVE_BATCH_SIZE
                         batch_data = filtered_data[batch_start:]
                         save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
                         batch_num += 1
@@ -508,8 +528,8 @@ def answer_consistency_filter(
                 logger.warning(f"Consistency filtering failed: {e}")
 
     # Save final batch if there are remaining items
-    if save_path and len(filtered_data) % BATCH_SIZE != 0:
-        batch_start = (len(filtered_data) // BATCH_SIZE) * BATCH_SIZE
+    if save_path and len(filtered_data) % SAVE_BATCH_SIZE != 0:
+        batch_start = (len(filtered_data) // SAVE_BATCH_SIZE) * SAVE_BATCH_SIZE
         batch_data = filtered_data[batch_start:]
         save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
 
@@ -542,12 +562,20 @@ def process_rip_item(args: Tuple[Dict, ChatOpenAI, ChatOpenAI, int, float]) -> O
         if quality_scores:
             min_score = min(quality_scores)
             avg_score = sum(quality_scores) / len(quality_scores)
+            max_score = max(quality_scores)
+            std_score = np.std(quality_scores) if len(quality_scores) > 1 else 0.0
 
             # Use minimum score to ensure all responses meet quality threshold
             if min_score >= threshold:
-                item["rip_min_score"] = min_score
-                item["rip_avg_score"] = avg_score
-                item["rip_scores_count"] = len(quality_scores)
+                # Add RIP metadata
+                if "metadata" not in item:
+                    item["metadata"] = {}
+                item["metadata"]["rip_min_score"] = min_score
+                item["metadata"]["rip_avg_score"] = avg_score
+                item["metadata"]["rip_max_score"] = max_score
+                item["metadata"]["rip_std_score"] = std_score
+                item["metadata"]["rip_scores_count"] = len(quality_scores)
+                item["metadata"]["rip_threshold"] = threshold
                 return item
 
     except Exception as e:
@@ -589,8 +617,8 @@ def rip_filter(
                     filtered_data.append(result)
 
                     # Save batch when we reach BATCH_SIZE
-                    if save_path and len(filtered_data) % BATCH_SIZE == 0:
-                        batch_start = len(filtered_data) - BATCH_SIZE
+                    if save_path and len(filtered_data) % SAVE_BATCH_SIZE == 0:
+                        batch_start = len(filtered_data) - SAVE_BATCH_SIZE
                         batch_data = filtered_data[batch_start:]
                         save_batch_jsonl(batch_data, save_path, "rip", batch_num)
                         batch_num += 1
@@ -599,8 +627,8 @@ def rip_filter(
                 logger.warning(f"RIP filtering failed: {e}")
 
     # Save final batch if there are remaining items
-    if save_path and len(filtered_data) % BATCH_SIZE != 0:
-        batch_start = (len(filtered_data) // BATCH_SIZE) * BATCH_SIZE
+    if save_path and len(filtered_data) % SAVE_BATCH_SIZE != 0:
+        batch_start = (len(filtered_data) // SAVE_BATCH_SIZE) * SAVE_BATCH_SIZE
         batch_data = filtered_data[batch_start:]
         save_batch_jsonl(batch_data, save_path, "rip", batch_num)
 
@@ -793,7 +821,7 @@ def main():
 
     # Concurrent processing parameters
     parser.add_argument(
-        "--batch-size",
+        "--save-batch-size",
         type=int,
         default=100,
         help="Batch size for saving JSONL files",
@@ -807,7 +835,7 @@ def main():
     parser.add_argument(
         "--max-workers",
         type=int,
-        default=MAX_WORKERS,
+        default=os.cpu_count(),
         help="Maximum number of concurrent workers",
     )
     parser.add_argument(
@@ -833,12 +861,11 @@ def main():
     args = parser.parse_args()
 
     # Update global configurations
-    global BATCH_SIZE, INFERENCE_BATCH_SIZE, MAX_WORKERS
-    BATCH_SIZE = args.batch_size
+    SAVE_BATCH_SIZE = args.save_batch_size
     INFERENCE_BATCH_SIZE = args.inference_batch_size
     MAX_WORKERS = args.max_workers
 
-    logger.info(f"Using {MAX_WORKERS} workers, inference batch size {INFERENCE_BATCH_SIZE}, save batch size {BATCH_SIZE}")
+    logger.info(f"Using {MAX_WORKERS} workers, inference batch size {INFERENCE_BATCH_SIZE}, save batch size {SAVE_BATCH_SIZE}")
 
     # Set random seeds
     random.seed(args.seed)
@@ -1017,7 +1044,7 @@ uv run cot-self-instruct.py \\
     --generation-model {args.generation_model} \\
     --filter-method {args.filter_method} \\
     --num-samples {args.num_samples} \\
-    --batch-size {args.batch_size} \\
+    --save-batch-size {args.save_batch_size} \\
     --inference-batch-size {args.inference_batch_size} \\
     --max-workers {args.max_workers}"""
         )
