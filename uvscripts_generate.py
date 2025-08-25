@@ -7,6 +7,7 @@ import re
 import sys
 from collections import Counter
 from datetime import datetime
+from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union
 
 import numpy as np
@@ -16,6 +17,7 @@ from google.genai import types
 from huggingface_hub import DatasetCard, login
 from langchain_core.messages import HumanMessage
 from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
 from sklearn.cluster import KMeans
 from tqdm.auto import tqdm
 
@@ -29,6 +31,10 @@ load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+
+# Batch saving configuration
+BATCH_SIZE = 100  # Save every N generated samples
+SAVE_DIR = Path("./generated_data")
 
 # Prompt templates from the paper
 REASONING_PROMPT_TEMPLATE = """You are a reasoning question generator assistant. Your goal is to create a novel, and challenging reasoning question. You are provided the following seed questions:
@@ -55,6 +61,104 @@ Please reply strictly in the following format:
 {prompt1}
 #Prompt 2#:
 {prompt2}"""
+
+
+# Pydantic model for response quality scoring
+class ResponseScore(BaseModel):
+    """Multi-aspect scoring model that evaluates separate criteria and returns a normalized final score."""
+
+    accuracy: int = Field(description="Accuracy and correctness of information (1-10)", ge=1, le=10)
+    helpfulness: int = Field(description="How helpful the response is to the user (1-10)", ge=1, le=10)
+    organization: int = Field(description="Clarity and logical organization of content (1-10)", ge=1, le=10)
+    grammar: int = Field(description="Grammar quality and absence of typos (1-10)", ge=1, le=10)
+    completeness: int = Field(description="How complete and thorough the response is (1-10)", ge=1, le=10)
+    relevance: int = Field(description="Relevance to the original prompt (1-10)", ge=1, le=10)
+
+
+# Quality evaluation prompt template
+QUALITY_EVALUATION_PROMPT = """You are an expert evaluator tasked with scoring the quality of AI responses across multiple specific criteria. Please evaluate the following response and provide scores for each aspect.
+
+Original Prompt:
+{prompt}
+
+Response to Evaluate:
+{response}
+
+Please score the response on a scale of 1-10 for each criterion:
+
+1. **Accuracy** (1-10): How factually correct and accurate is the information? Are there any errors or misleading statements?
+
+2. **Helpfulness** (1-10): How useful is this response to someone with this prompt? Does it address their needs effectively?
+
+3. **Organization** (1-10): How well-structured and clearly organized is the content? Is it easy to follow and logically arranged?
+
+4. **Grammar** (1-10): How good is the grammar, spelling, and overall writing quality? Are there typos or language errors?
+
+5. **Completeness** (1-10): How thorough and complete is the response? Does it adequately cover the topic or question asked?
+
+6. **Relevance** (1-10): How relevant is the response to the original prompt? Does it stay on topic and address what was asked?
+
+Provide a score from 1-10 for each aspect where 1 is very poor and 10 is excellent."""
+
+
+def create_save_dir(output_dataset: str) -> Path:
+    """Create directory for saving generated data."""
+    save_path = SAVE_DIR / output_dataset.replace("/", "_")
+    save_path.mkdir(parents=True, exist_ok=True)
+    return save_path
+
+
+def save_batch_jsonl(data: List[Dict], save_path: Path, stage: str, batch_num: int) -> None:
+    """Save batch of data to JSONL file."""
+    try:
+        filename = f"{stage}_batch_{batch_num:04d}.jsonl"
+        filepath = save_path / filename
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            for item in data:
+                f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+        logger.info(f"Saved batch {batch_num} to {filename} ({len(data)} items)")
+
+    except Exception as e:
+        logger.warning(f"Failed to save batch: {e}")
+
+
+def load_all_batches(save_path: Path, stage: str) -> List[Dict]:
+    """Load all batches for a given stage."""
+    all_data = []
+
+    # Find all batch files for this stage
+    batch_files = sorted(save_path.glob(f"{stage}_batch_*.jsonl"))
+
+    for batch_file in batch_files:
+        try:
+            with open(batch_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    if line.strip():
+                        all_data.append(json.loads(line.strip()))
+            logger.info(f"Loaded {batch_file.name}")
+        except Exception as e:
+            logger.warning(f"Failed to load {batch_file}: {e}")
+
+    return all_data
+
+
+def save_final_jsonl(data: List[Dict], save_path: Path, filename: str = "final_dataset.jsonl") -> Path:
+    """Save final dataset to JSONL file."""
+    try:
+        filepath = save_path / filename
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            for item in data:
+                f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+        logger.info(f"Final dataset saved: {filepath} ({len(data)} items)")
+        return filepath
+
+    except Exception as e:
+        logger.error(f"Failed to save final dataset: {e}")
+        raise
 
 
 def check_openrouter_api_key() -> str:
@@ -147,11 +251,7 @@ def categorize_prompts(prompts: List[str], num_categories: int = 8) -> Dict[int,
     # Get embeddings using Gemini API
     logger.info("Generating embeddings with Gemini...")
     try:
-        result = gemini_client.models.embed_content(
-            model="gemini-embedding-001",
-            contents=prompts,
-            config=types.EmbedContentConfig(task_type="CLUSTERING", output_dimensionality=768),
-        )
+        result = gemini_client.models.embed_content(model="gemini-embedding-001", contents=prompts, config=types.EmbedContentConfig(task_type="CLUSTERING", output_dimensionality=768))
 
         # Extract embeddings and normalize them
         embeddings = []
@@ -189,9 +289,11 @@ def generate_synthetic_data(
     task_type: str,
     num_samples: int,
     categories: Optional[Dict[int, List[int]]] = None,
+    save_path: Optional[Path] = None,
 ) -> List[Dict]:
-    """Generate synthetic data using CoT-Self-Instruct."""
+    """Generate synthetic data using CoT-Self-Instruct with batch saving."""
     synthetic_data = []
+    batch_num = 0
 
     # Set up progress bar
     pbar = tqdm(total=num_samples, desc="Generating synthetic data")
@@ -201,10 +303,7 @@ def generate_synthetic_data(
         if task_type == "reasoning":
             # Random sampling for reasoning tasks
             seeds = random.sample(seed_data, min(2, len(seed_data)))
-            prompt = REASONING_PROMPT_TEMPLATE.format(
-                seed1=seeds[0].get("question", seeds[0].get("prompt", "")),
-                seed2=seeds[1].get("question", seeds[1].get("prompt", "")) if len(seeds) > 1 else seeds[0].get("question", seeds[0].get("prompt", "")),
-            )
+            prompt = REASONING_PROMPT_TEMPLATE.format(seed1=seeds[0].get("question", seeds[0].get("prompt", "")), seed2=seeds[1].get("question", seeds[1].get("prompt", "")) if len(seeds) > 1 else seeds[0].get("question", seeds[0].get("prompt", "")))
         else:
             # Category-aware sampling for instruction tasks
             if categories:
@@ -216,10 +315,7 @@ def generate_synthetic_data(
             else:
                 seeds = random.sample(seed_data, min(2, len(seed_data)))
 
-            prompt = INSTRUCTION_PROMPT_TEMPLATE.format(
-                prompt1=seeds[0].get("prompt", seeds[0].get("question", "")),
-                prompt2=seeds[1].get("prompt", seeds[1].get("question", "")) if len(seeds) > 1 else seeds[0].get("prompt", seeds[0].get("question", "")),
-            )
+            prompt = INSTRUCTION_PROMPT_TEMPLATE.format(prompt1=seeds[0].get("prompt", seeds[0].get("question", "")), prompt2=seeds[1].get("prompt", seeds[1].get("question", "")) if len(seeds) > 1 else seeds[0].get("prompt", seeds[0].get("question", "")))
 
         # Generate using OpenRouter API
         try:
@@ -252,8 +348,50 @@ def generate_synthetic_data(
                 )
                 pbar.update(1)
 
+        # Save batch when we reach BATCH_SIZE
+        if save_path and len(synthetic_data) % BATCH_SIZE == 0:
+            batch_start = len(synthetic_data) - BATCH_SIZE
+            batch_data = synthetic_data[batch_start:]
+            save_batch_jsonl(batch_data, save_path, "generation", batch_num)
+            batch_num += 1
+
+    # Save final batch if there are remaining items
+    if save_path and len(synthetic_data) % BATCH_SIZE != 0:
+        batch_start = (len(synthetic_data) // BATCH_SIZE) * BATCH_SIZE
+        batch_data = synthetic_data[batch_start:]
+        save_batch_jsonl(batch_data, save_path, "generation", batch_num)
+
     pbar.close()
     return synthetic_data
+
+
+def evaluate_response_quality(
+    evaluator_llm: ChatOpenAI,
+    prompt: str,
+    response: str,
+) -> Optional[float]:
+    """Evaluate response quality using structured output, returning a normalized final score."""
+    try:
+        # Create structured LLM for quality evaluation
+        structured_llm = evaluator_llm.with_structured_output(ResponseScore, method="function_calling")
+
+        evaluation_prompt = QUALITY_EVALUATION_PROMPT.format(prompt=prompt, response=response)
+
+        result = structured_llm.invoke([HumanMessage(content=evaluation_prompt)])
+
+        # Calculate final normalized score
+        # Sum all aspect scores and normalize to 0-10 scale
+        total_score = result.accuracy + result.helpfulness + result.organization + result.grammar + result.completeness + result.relevance
+
+        # Normalize: 6 aspects × 10 max score = 60 max total
+        # Normalize to 0-10 scale: (total_score / 60) * 10
+        final_score = (total_score / 60.0) * 10.0
+
+        return final_score
+
+    except Exception as e:
+        logger.warning(f"Quality evaluation failed: {e}")
+        return None
 
 
 def answer_consistency_filter(
@@ -261,11 +399,13 @@ def answer_consistency_filter(
     synthetic_data: List[Dict],
     k_responses: int = 16,
     threshold: float = 0.5,
+    save_path: Optional[Path] = None,
 ) -> List[Dict]:
-    """Filter reasoning tasks using Answer-Consistency."""
+    """Filter reasoning tasks using Answer-Consistency with batch saving."""
     logger.info(f"Applying Answer-Consistency filter with K={k_responses}")
 
     filtered_data = []
+    batch_num = 0
 
     for item in tqdm(synthetic_data, desc="Answer-Consistency filtering"):
         question = item["question"]
@@ -299,6 +439,19 @@ def answer_consistency_filter(
                 item["consistency_score"] = count / len(answers)
                 filtered_data.append(item)
 
+        # Save batch when we reach BATCH_SIZE
+        if save_path and len(filtered_data) % BATCH_SIZE == 0 and len(filtered_data) > 0:
+            batch_start = len(filtered_data) - BATCH_SIZE
+            batch_data = filtered_data[batch_start:]
+            save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
+            batch_num += 1
+
+    # Save final batch if there are remaining items
+    if save_path and len(filtered_data) % BATCH_SIZE != 0:
+        batch_start = (len(filtered_data) // BATCH_SIZE) * BATCH_SIZE
+        batch_data = filtered_data[batch_start:]
+        save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
+
     logger.info(f"Answer-Consistency: kept {len(filtered_data)}/{len(synthetic_data)} examples")
     return filtered_data
 
@@ -308,40 +461,63 @@ def rip_filter(
     synthetic_data: List[Dict],
     reward_model_id: str,
     k_responses: int = 32,
-    threshold: float = 0.5,
+    threshold: float = 6.0,
+    save_path: Optional[Path] = None,
 ) -> List[Dict]:
-    """Filter using Rejecting Instruction Preferences (RIP)."""
-    logger.info(f"Applying RIP filter with K={k_responses} and reward model {reward_model_id}")
+    """Filter using Rejecting Instruction Preferences (RIP) with multi-aspect quality evaluation and batch saving."""
+    logger.info(f"Applying RIP filter with K={k_responses} using multi-aspect quality evaluation")
+    logger.info(f"Quality threshold: {threshold}/10.0 (responses below this normalized score will be rejected)")
 
-    # Note: In a full implementation, you would load and use the actual reward model
-    # For this example, we'll use a placeholder scoring mechanism
-    logger.warning("RIP filtering requires a reward model implementation - using placeholder")
+    # Create evaluator LLM for quality scoring
+    evaluator_llm = get_llm("gpt-4o-mini", temperature=0.1, max_tokens=512)  # Cost-effective model for evaluation
 
     filtered_data = []
+    batch_num = 0
 
-    for item in tqdm(synthetic_data, desc="RIP filtering"):
+    for item in tqdm(synthetic_data, desc="RIP filtering with multi-aspect evaluation"):
         prompt = item.get("prompt", item.get("question", ""))
 
-        # Generate K responses
-        scores = []
+        # Generate K responses and evaluate each
+        quality_scores = []
         for _ in range(k_responses):
             try:
                 response = llm.invoke([HumanMessage(content=prompt)])
-                # In real implementation: score each response with reward model
-                # For now, use length as a proxy (longer responses often score higher)
-                scores.append(len(response.content))
+                response_text = response.content
+
+                # Evaluate response quality (returns normalized score 0-10)
+                quality_score = evaluate_response_quality(evaluator_llm, prompt, response_text)
+
+                if quality_score is not None:
+                    quality_scores.append(quality_score)
+
             except Exception as e:
                 logger.warning(f"RIP filter generation failed: {e}")
                 continue
 
-        # Use minimum score as quality indicator
-        if scores:
-            min_score = min(scores)
-            normalized_score = min_score / 1000  # Normalize to 0-1 range
+        # Calculate minimum quality score as the quality indicator
+        if quality_scores:
+            min_score = min(quality_scores)
+            avg_score = sum(quality_scores) / len(quality_scores)
 
-            if normalized_score >= threshold:
-                item["rip_score"] = normalized_score
+            # Use minimum score to ensure all responses meet quality threshold
+            if min_score >= threshold:
+                item["rip_min_score"] = min_score
+                item["rip_avg_score"] = avg_score
+                item["rip_scores_count"] = len(quality_scores)
                 filtered_data.append(item)
+
+        # Save batch when we reach BATCH_SIZE
+        if save_path and len(filtered_data) % BATCH_SIZE == 0 and len(filtered_data) > 0:
+            batch_start = len(filtered_data) - BATCH_SIZE
+            batch_data = filtered_data[batch_start:]
+            save_batch_jsonl(batch_data, save_path, "rip", batch_num)
+            batch_num += 1
+
+    # Save final batch if there are remaining items
+    if save_path and len(filtered_data) % BATCH_SIZE != 0:
+        batch_start = (len(filtered_data) // BATCH_SIZE) * BATCH_SIZE
+        batch_data = filtered_data[batch_start:]
+        save_batch_jsonl(batch_data, save_path, "rip", batch_num)
 
     logger.info(f"RIP filter: kept {len(filtered_data)}/{len(synthetic_data)} examples")
     return filtered_data
@@ -371,7 +547,7 @@ This dataset was filtered using Answer-Consistency:
 ### RIP (Rejecting Instruction Preferences) Filtering
 This dataset was filtered using RIP:
 - Generated K responses for each synthetic prompt
-- Scored responses using a reward model
+- Scored responses using multi-aspect quality evaluation
 - Kept only prompts with high minimum scores"""
 
     return f"""---
@@ -396,11 +572,12 @@ This dataset contains synthetic {task_type} data generated using the Chain-of-Th
 - **Generation Date**: {generation_time}
 {filter_info}
 ## Methodology
-Generated using CoT-Self-Instruct, which:
+Generated using CoT-Self-Instruct with JSONL batch saving, which:
 1. Uses Gemini embeddings to cluster seed prompts for better sampling diversity
 2. Uses Chain-of-Thought reasoning to analyze seed examples
-3. Generates new synthetic examples of similar quality and complexity via OpenRouter API
-4. Applies quality filtering to ensure high-quality outputs
+3. Generates new synthetic examples with batch saving to JSONL files
+4. Applies quality filtering with batch saving
+5. Saves data locally in JSONL format during processing
 Based on the paper: "CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks" (2025)
 ## Generation Script
 Generated using the CoT-Self-Instruct script from [uv-scripts/synthetic-data](https://huggingface.co/datasets/uv-scripts/synthetic-data).
@@ -414,12 +591,13 @@ uv run https://huggingface.co/datasets/uv-scripts/synthetic-data/raw/main/cot-se
     --task-type {task_type} \\
     --generation-model {generation_model} \\
     --filter-method {filter_method}
-```"""
+```
+"""
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate synthetic data using CoT-Self-Instruct via OpenRouter API with Gemini embeddings",
+        description="Generate synthetic data using CoT-Self-Instruct via OpenRouter API with Gemini embeddings and JSONL batch saving",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
@@ -526,6 +704,19 @@ def main():
         help="Max tokens for filtering",
     )
 
+    # Batch saving parameters
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=100,
+        help="Batch size for saving JSONL files",
+    )
+    parser.add_argument(
+        "--local-save-only",
+        action="store_true",
+        help="Only save locally, do not upload to HuggingFace Hub",
+    )
+
     # Other arguments
     parser.add_argument(
         "--hf-token",
@@ -542,6 +733,10 @@ def main():
 
     args = parser.parse_args()
 
+    # Update global batch size
+    global BATCH_SIZE
+    BATCH_SIZE = args.batch_size
+
     # Set random seeds
     random.seed(args.seed)
     np.random.seed(args.seed)
@@ -552,10 +747,18 @@ def main():
     if args.task_type in ["instruction", "auto"]:
         check_gemini_api_key()
 
-    # Authentication
-    hf_token = args.hf_token or os.environ.get("HF_TOKEN")
-    if hf_token:
-        login(token=hf_token)
+    # Create save directory
+    save_path = create_save_dir(args.output_dataset)
+    logger.info(f"Saving batches to: {save_path}")
+
+    # Authentication for HuggingFace (only if not local-only)
+    if not args.local_save_only:
+        hf_token = args.hf_token or os.environ.get("HF_TOKEN")
+        if hf_token:
+            login(token=hf_token)
+        else:
+            logger.warning("No HF_TOKEN provided - will only save locally")
+            args.local_save_only = True
 
     # Load seed dataset
     logger.info(f"Loading seed dataset: {args.seed_dataset}")
@@ -600,7 +803,7 @@ def main():
 
     generation_llm = get_llm(args.generation_model, temperature=generation_temperature, max_tokens=args.generation_max_tokens)
 
-    # Generate synthetic data
+    # Generate synthetic data with batch saving
     start_time = datetime.now()
     synthetic_data = generate_synthetic_data(
         generation_llm,
@@ -608,9 +811,10 @@ def main():
         args.task_type,
         args.num_samples,
         categories,
+        save_path,
     )
 
-    # Apply filtering
+    # Apply filtering with batch saving
     filter_model = args.filter_model or args.generation_model
     logger.info(f"Using filter model: {filter_model}")
 
@@ -624,14 +828,18 @@ def main():
                 synthetic_data,
                 args.k_responses,
                 args.quality_threshold,
+                save_path,
             )
         elif args.filter_method == "rip":
+            # For RIP, update threshold for normalized scoring (default 6.0/10)
+            rip_threshold = args.quality_threshold if args.quality_threshold > 1.0 else 6.0
             filtered_data = rip_filter(
                 filter_llm,
                 synthetic_data,
                 args.reward_model,
                 args.k_responses,
-                args.quality_threshold,
+                rip_threshold,
+                save_path,
             )
         elif args.filter_method == "both":
             if args.task_type == "reasoning":
@@ -640,17 +848,23 @@ def main():
                     synthetic_data,
                     args.k_responses,
                     args.quality_threshold,
+                    save_path,
                 )
+            rip_threshold = args.quality_threshold if args.quality_threshold > 1.0 else 6.0
             filtered_data = rip_filter(
                 filter_llm,
                 filtered_data,
                 args.reward_model,
                 args.k_responses,
-                args.quality_threshold,
+                rip_threshold,
+                save_path,
             )
 
-    # Create HuggingFace dataset
-    logger.info(f"Creating dataset with {len(filtered_data)} examples")
+    # Save final dataset locally first
+    logger.info(f"Creating final dataset with {len(filtered_data)} examples")
+    local_file_path = save_final_jsonl(filtered_data, save_path)
+
+    # Create HuggingFace dataset from local file
     dataset = Dataset.from_list(filtered_data)
 
     # Create dataset card
@@ -665,19 +879,26 @@ def main():
         generation_time,
     )
 
-    # Push to hub
-    logger.info(f"Pushing dataset to: {args.output_dataset}")
-    # Create dataset card
-    card = DatasetCard(dataset_card)
-    dataset.push_to_hub(args.output_dataset)
-    # Push card separately
-    card.push_to_hub(args.output_dataset)
+    if not args.local_save_only:
+        try:
+            # Push to hub
+            logger.info(f"Pushing dataset to: {args.output_dataset}")
+            dataset.push_to_hub(args.output_dataset)
 
-    logger.info("Done! Dataset available at: https://huggingface.co/datasets/" + args.output_dataset)
+            # Push card separately
+            card = DatasetCard(dataset_card)
+            card.push_to_hub(args.output_dataset)
+
+            logger.info("Done! Dataset available at: https://huggingface.co/datasets/" + args.output_dataset)
+        except Exception as e:
+            logger.error(f"Failed to upload to HuggingFace Hub: {e}")
+            logger.info(f"Dataset saved locally at: {local_file_path}")
+    else:
+        logger.info(f"Dataset saved locally only at: {local_file_path}")
 
     # Print example usage command
     if len(sys.argv) > 1:
-        print("\nTo run with OpenRouter API and Gemini embeddings:")
+        print("\nTo run with OpenRouter API, Gemini embeddings, and JSONL batch saving:")
         print(
             f"""export OPENROUTER_API_KEY=your_openrouter_key
 export GEMINI_API_KEY=your_gemini_key
@@ -687,7 +908,8 @@ uv run cot-self-instruct.py \\
     --task-type {args.task_type} \\
     --generation-model {args.generation_model} \\
     --filter-method {args.filter_method} \\
-    --num-samples {args.num_samples}"""
+    --num-samples {args.num_samples} \\
+    --batch-size {args.batch_size}"""
         )
 
 
