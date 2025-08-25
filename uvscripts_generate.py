@@ -6,6 +6,7 @@ import random
 import re
 import sys
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union
@@ -32,8 +33,10 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
-# Batch saving configuration
-BATCH_SIZE = 100  # Save every N generated samples
+# Batch processing configuration
+SAVE_BATCH_SIZE = 100  # Save every N generated samples
+INFERENCE_BATCH_SIZE = 10  # Batch size for LLM inference
+MAX_WORKERS = os.cpu_count()  # Number of concurrent workers
 SAVE_DIR = Path("./generated_data")
 
 # Prompt templates from the paper
@@ -283,6 +286,36 @@ def categorize_prompts(prompts: List[str], num_categories: int = 8) -> Dict[int,
     return categories
 
 
+def process_generation_batch(prompts_batch: List[str], llm: ChatOpenAI, task_type: str, seed_data: List[Dict]) -> List[Dict]:
+    """Process a batch of generation prompts using batch inference."""
+    try:
+        # Convert prompts to HumanMessage format for batch processing
+        messages_batch = [[HumanMessage(content=prompt)] for prompt in prompts_batch]
+
+        # Use batch inference
+        responses = llm.batch(messages_batch)
+
+        results = []
+        for i, response in enumerate(responses):
+            output_text = response.content
+
+            # Parse output based on task type
+            if task_type == "reasoning":
+                question, answer = extract_reasoning_output(output_text)
+                if question and answer:
+                    results.append({"question": question, "answer": answer, "prompt_index": i})
+            else:
+                synthetic_prompt = extract_instruction_output(output_text)
+                if synthetic_prompt:
+                    results.append({"prompt": synthetic_prompt, "prompt_index": i})
+
+        return results
+
+    except Exception as e:
+        logger.warning(f"Batch generation failed: {e}")
+        return []
+
+
 def generate_synthetic_data(
     llm: ChatOpenAI,
     seed_data: List[Dict],
@@ -290,24 +323,23 @@ def generate_synthetic_data(
     num_samples: int,
     categories: Optional[Dict[int, List[int]]] = None,
     save_path: Optional[Path] = None,
+    max_workers: int = MAX_WORKERS,
 ) -> List[Dict]:
-    """Generate synthetic data using CoT-Self-Instruct with batch saving."""
-    synthetic_data = []
-    batch_num = 0
+    """Generate synthetic data using CoT-Self-Instruct with concurrent batch processing."""
+    logger.info(f"Generating {num_samples} samples with {max_workers} workers and batch size {INFERENCE_BATCH_SIZE}")
 
-    # Set up progress bar
-    pbar = tqdm(total=num_samples, desc="Generating synthetic data")
+    # Prepare all prompts first
+    all_prompts = []
+    all_seed_pairs = []
 
-    while len(synthetic_data) < num_samples:
+    for _ in range(num_samples):
         # Sample seed data
         if task_type == "reasoning":
-            # Random sampling for reasoning tasks
             seeds = random.sample(seed_data, min(2, len(seed_data)))
             prompt = REASONING_PROMPT_TEMPLATE.format(seed1=seeds[0].get("question", seeds[0].get("prompt", "")), seed2=seeds[1].get("question", seeds[1].get("prompt", "")) if len(seeds) > 1 else seeds[0].get("question", seeds[0].get("prompt", "")))
         else:
             # Category-aware sampling for instruction tasks
             if categories:
-                # Pick a random category
                 category = random.choice(list(categories.keys()))
                 category_indices = categories[category]
                 indices = random.sample(category_indices, min(2, len(category_indices)))
@@ -317,51 +349,53 @@ def generate_synthetic_data(
 
             prompt = INSTRUCTION_PROMPT_TEMPLATE.format(prompt1=seeds[0].get("prompt", seeds[0].get("question", "")), prompt2=seeds[1].get("prompt", seeds[1].get("question", "")) if len(seeds) > 1 else seeds[0].get("prompt", seeds[0].get("question", "")))
 
-        # Generate using OpenRouter API
-        try:
-            response = llm.invoke([HumanMessage(content=prompt)])
-            output_text = response.content
-        except Exception as e:
-            logger.warning(f"Generation failed: {e}")
-            continue
+        all_prompts.append(prompt)
+        all_seed_pairs.append([seed_data.index(s) for s in seeds])
 
-        # Parse output
-        if task_type == "reasoning":
-            question, answer = extract_reasoning_output(output_text)
-            if question and answer:
-                synthetic_data.append(
-                    {
-                        "question": question,
-                        "answer": answer,
-                        "seed_indices": [seed_data.index(s) for s in seeds],
-                    }
-                )
-                pbar.update(1)
-        else:
-            synthetic_prompt = extract_instruction_output(output_text)
-            if synthetic_prompt:
-                synthetic_data.append(
-                    {
-                        "prompt": synthetic_prompt,
-                        "seed_indices": [seed_data.index(s) for s in seeds],
-                    }
-                )
-                pbar.update(1)
+    # Process in batches with concurrent execution
+    synthetic_data = []
+    batch_num = 0
 
-        # Save batch when we reach BATCH_SIZE
-        if save_path and len(synthetic_data) % BATCH_SIZE == 0:
-            batch_start = len(synthetic_data) - BATCH_SIZE
-            batch_data = synthetic_data[batch_start:]
-            save_batch_jsonl(batch_data, save_path, "generation", batch_num)
-            batch_num += 1
+    # Split prompts into batches for inference
+    prompt_batches = [all_prompts[i : i + INFERENCE_BATCH_SIZE] for i in range(0, len(all_prompts), INFERENCE_BATCH_SIZE)]
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit batches for processing
+        future_to_batch = {executor.submit(process_generation_batch, batch, llm, task_type, seed_data): (i, batch) for i, batch in enumerate(prompt_batches)}
+
+        # Process results with progress bar
+        with tqdm(total=len(prompt_batches), desc="Processing generation batches") as pbar:
+            for future in as_completed(future_to_batch):
+                batch_idx, batch = future_to_batch[future]
+                try:
+                    batch_results = future.result()
+
+                    # Add seed indices to results
+                    for result in batch_results:
+                        prompt_idx = batch_idx * INFERENCE_BATCH_SIZE + result["prompt_index"]
+                        result["seed_indices"] = all_seed_pairs[prompt_idx]
+                        del result["prompt_index"]  # Remove temporary index
+                        synthetic_data.append(result)
+
+                    # Save batch if we have enough data
+                    if save_path and len(synthetic_data) >= (batch_num + 1) * SAVE_BATCH_SIZE:
+                        batch_start = batch_num * SAVE_BATCH_SIZE
+                        batch_end = (batch_num + 1) * SAVE_BATCH_SIZE
+                        save_batch_jsonl(synthetic_data[batch_start:batch_end], save_path, "generation", batch_num)
+                        batch_num += 1
+
+                except Exception as e:
+                    logger.warning(f"Batch processing failed: {e}")
+
+                pbar.update(1)
 
     # Save final batch if there are remaining items
-    if save_path and len(synthetic_data) % BATCH_SIZE != 0:
-        batch_start = (len(synthetic_data) // BATCH_SIZE) * BATCH_SIZE
+    if save_path and len(synthetic_data) % SAVE_BATCH_SIZE != 0:
+        batch_start = (len(synthetic_data) // SAVE_BATCH_SIZE) * SAVE_BATCH_SIZE
         batch_data = synthetic_data[batch_start:]
         save_batch_jsonl(batch_data, save_path, "generation", batch_num)
 
-    pbar.close()
+    logger.info(f"Generated {len(synthetic_data)} synthetic examples")
     return synthetic_data
 
 
@@ -394,40 +428,31 @@ def evaluate_response_quality(
         return None
 
 
-def answer_consistency_filter(
-    llm: ChatOpenAI,
-    synthetic_data: List[Dict],
-    k_responses: int = 16,
-    threshold: float = 0.5,
-    save_path: Optional[Path] = None,
-) -> List[Dict]:
-    """Filter reasoning tasks using Answer-Consistency with batch saving."""
-    logger.info(f"Applying Answer-Consistency filter with K={k_responses}")
+def process_consistency_item(args: Tuple[Dict, ChatOpenAI, int, float]) -> Optional[Dict]:
+    """Process a single item for answer consistency filtering."""
+    item, llm, k_responses, threshold = args
 
-    filtered_data = []
-    batch_num = 0
+    question = item["question"]
+    original_answer = item["answer"]
 
-    for item in tqdm(synthetic_data, desc="Answer-Consistency filtering"):
-        question = item["question"]
-        original_answer = item["answer"]
+    # Generate K responses using batch inference
+    prompts = [question] * k_responses
+    messages_batch = [[HumanMessage(content=prompt)] for prompt in prompts]
 
-        # Generate K responses
+    try:
+        responses = llm.batch(messages_batch)
+
+        # Extract answers
         answers = []
-        for _ in range(k_responses):
-            try:
-                response = llm.invoke([HumanMessage(content=question)])
-                text = response.content
-
-                # Try to extract boxed answer
-                match = re.search(r"\\boxed\{(.*?)\}", text)
-                if match:
-                    answers.append(match.group(1).strip())
-            except Exception as e:
-                logger.warning(f"Answer consistency check failed: {e}")
-                continue
+        for response in responses:
+            text = response.content
+            # Try to extract boxed answer
+            match = re.search(r"\\boxed\{(.*?)\}", text)
+            if match:
+                answers.append(match.group(1).strip())
 
         if not answers:
-            continue
+            return None
 
         # Get majority answer
         answer_counts = Counter(answers)
@@ -437,14 +462,50 @@ def answer_consistency_filter(
             # Check if majority answer matches original and meets threshold
             if majority_answer == original_answer and count / len(answers) >= threshold:
                 item["consistency_score"] = count / len(answers)
-                filtered_data.append(item)
+                return item
 
-        # Save batch when we reach BATCH_SIZE
-        if save_path and len(filtered_data) % BATCH_SIZE == 0 and len(filtered_data) > 0:
-            batch_start = len(filtered_data) - BATCH_SIZE
-            batch_data = filtered_data[batch_start:]
-            save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
-            batch_num += 1
+    except Exception as e:
+        logger.warning(f"Answer consistency check failed: {e}")
+
+    return None
+
+
+def answer_consistency_filter(
+    llm: ChatOpenAI,
+    synthetic_data: List[Dict],
+    k_responses: int = 16,
+    threshold: float = 0.5,
+    save_path: Optional[Path] = None,
+    max_workers: int = MAX_WORKERS,
+) -> List[Dict]:
+    """Filter reasoning tasks using Answer-Consistency with concurrent processing."""
+    logger.info(f"Applying Answer-Consistency filter with K={k_responses} using {max_workers} workers")
+
+    # Prepare arguments for concurrent processing
+    args_list = [(item, llm, k_responses, threshold) for item in synthetic_data]
+
+    filtered_data = []
+    batch_num = 0
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Process items concurrently with progress bar
+        futures = [executor.submit(process_consistency_item, args) for args in args_list]
+
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Answer-Consistency filtering"):
+            try:
+                result = future.result()
+                if result is not None:
+                    filtered_data.append(result)
+
+                    # Save batch when we reach BATCH_SIZE
+                    if save_path and len(filtered_data) % BATCH_SIZE == 0:
+                        batch_start = len(filtered_data) - BATCH_SIZE
+                        batch_data = filtered_data[batch_start:]
+                        save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
+                        batch_num += 1
+
+            except Exception as e:
+                logger.warning(f"Consistency filtering failed: {e}")
 
     # Save final batch if there are remaining items
     if save_path and len(filtered_data) % BATCH_SIZE != 0:
@@ -456,43 +517,26 @@ def answer_consistency_filter(
     return filtered_data
 
 
-def rip_filter(
-    llm: ChatOpenAI,
-    synthetic_data: List[Dict],
-    reward_model_id: str,
-    k_responses: int = 32,
-    threshold: float = 6.0,
-    save_path: Optional[Path] = None,
-) -> List[Dict]:
-    """Filter using Rejecting Instruction Preferences (RIP) with multi-aspect quality evaluation and batch saving."""
-    logger.info(f"Applying RIP filter with K={k_responses} using multi-aspect quality evaluation")
-    logger.info(f"Quality threshold: {threshold}/10.0 (responses below this normalized score will be rejected)")
+def process_rip_item(args: Tuple[Dict, ChatOpenAI, ChatOpenAI, int, float]) -> Optional[Dict]:
+    """Process a single item for RIP filtering."""
+    item, llm, evaluator_llm, k_responses, threshold = args
 
-    # Create evaluator LLM for quality scoring
-    evaluator_llm = get_llm("gpt-4o-mini", temperature=0.1, max_tokens=512)  # Cost-effective model for evaluation
+    prompt = item.get("prompt", item.get("question", ""))
 
-    filtered_data = []
-    batch_num = 0
+    # Generate K responses using batch inference
+    prompts = [prompt] * k_responses
+    messages_batch = [[HumanMessage(content=p)] for p in prompts]
 
-    for item in tqdm(synthetic_data, desc="RIP filtering with multi-aspect evaluation"):
-        prompt = item.get("prompt", item.get("question", ""))
+    try:
+        responses = llm.batch(messages_batch)
 
-        # Generate K responses and evaluate each
+        # Evaluate response quality for each response
         quality_scores = []
-        for _ in range(k_responses):
-            try:
-                response = llm.invoke([HumanMessage(content=prompt)])
-                response_text = response.content
-
-                # Evaluate response quality (returns normalized score 0-10)
-                quality_score = evaluate_response_quality(evaluator_llm, prompt, response_text)
-
-                if quality_score is not None:
-                    quality_scores.append(quality_score)
-
-            except Exception as e:
-                logger.warning(f"RIP filter generation failed: {e}")
-                continue
+        for response in responses:
+            response_text = response.content
+            quality_score = evaluate_response_quality(evaluator_llm, prompt, response_text)
+            if quality_score is not None:
+                quality_scores.append(quality_score)
 
         # Calculate minimum quality score as the quality indicator
         if quality_scores:
@@ -504,14 +548,55 @@ def rip_filter(
                 item["rip_min_score"] = min_score
                 item["rip_avg_score"] = avg_score
                 item["rip_scores_count"] = len(quality_scores)
-                filtered_data.append(item)
+                return item
 
-        # Save batch when we reach BATCH_SIZE
-        if save_path and len(filtered_data) % BATCH_SIZE == 0 and len(filtered_data) > 0:
-            batch_start = len(filtered_data) - BATCH_SIZE
-            batch_data = filtered_data[batch_start:]
-            save_batch_jsonl(batch_data, save_path, "rip", batch_num)
-            batch_num += 1
+    except Exception as e:
+        logger.warning(f"RIP filtering failed: {e}")
+
+    return None
+
+
+def rip_filter(
+    llm: ChatOpenAI,
+    synthetic_data: List[Dict],
+    reward_model_id: str,
+    k_responses: int = 32,
+    threshold: float = 6.0,
+    save_path: Optional[Path] = None,
+    max_workers: int = MAX_WORKERS,
+) -> List[Dict]:
+    """Filter using Rejecting Instruction Preferences (RIP) with concurrent multi-aspect quality evaluation."""
+    logger.info(f"Applying RIP filter with K={k_responses} using {max_workers} workers")
+    logger.info(f"Quality threshold: {threshold}/10.0 (responses below this normalized score will be rejected)")
+
+    # Create evaluator LLM for quality scoring
+    evaluator_llm = get_llm("gpt-4o-mini", temperature=0.1, max_tokens=512)
+
+    # Prepare arguments for concurrent processing
+    args_list = [(item, llm, evaluator_llm, k_responses, threshold) for item in synthetic_data]
+
+    filtered_data = []
+    batch_num = 0
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Process items concurrently with progress bar
+        futures = [executor.submit(process_rip_item, args) for args in args_list]
+
+        for future in tqdm(as_completed(futures), total=len(futures), desc="RIP filtering with multi-aspect evaluation"):
+            try:
+                result = future.result()
+                if result is not None:
+                    filtered_data.append(result)
+
+                    # Save batch when we reach BATCH_SIZE
+                    if save_path and len(filtered_data) % BATCH_SIZE == 0:
+                        batch_start = len(filtered_data) - BATCH_SIZE
+                        batch_data = filtered_data[batch_start:]
+                        save_batch_jsonl(batch_data, save_path, "rip", batch_num)
+                        batch_num += 1
+
+            except Exception as e:
+                logger.warning(f"RIP filtering failed: {e}")
 
     # Save final batch if there are remaining items
     if save_path and len(filtered_data) % BATCH_SIZE != 0:
@@ -558,9 +643,10 @@ tags:
 - uv-script
 - openrouter-api
 - gemini-embeddings
+- concurrent-processing
 ---
 # CoT-Self-Instruct Synthetic Data
-This dataset contains synthetic {task_type} data generated using the Chain-of-Thought Self-Instruct methodology via OpenRouter API with Gemini embeddings for clustering.
+This dataset contains synthetic {task_type} data generated using the Chain-of-Thought Self-Instruct methodology via OpenRouter API with Gemini embeddings for clustering and concurrent processing for performance.
 ## Generation Details
 - **Source Dataset**: [{source_dataset}](https://huggingface.co/datasets/{source_dataset})
 - **Generation Model**: {generation_model} (via OpenRouter API)
@@ -572,12 +658,13 @@ This dataset contains synthetic {task_type} data generated using the Chain-of-Th
 - **Generation Date**: {generation_time}
 {filter_info}
 ## Methodology
-Generated using CoT-Self-Instruct with JSONL batch saving, which:
+Generated using CoT-Self-Instruct with concurrent processing and JSONL batch saving, which:
 1. Uses Gemini embeddings to cluster seed prompts for better sampling diversity
 2. Uses Chain-of-Thought reasoning to analyze seed examples
-3. Generates new synthetic examples with batch saving to JSONL files
-4. Applies quality filtering with batch saving
+3. Generates new synthetic examples with concurrent batch inference
+4. Applies quality filtering with parallel processing
 5. Saves data locally in JSONL format during processing
+6. Uses ThreadPoolExecutor for concurrent processing and tqdm for progress tracking
 Based on the paper: "CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks" (2025)
 ## Generation Script
 Generated using the CoT-Self-Instruct script from [uv-scripts/synthetic-data](https://huggingface.co/datasets/uv-scripts/synthetic-data).
@@ -597,7 +684,7 @@ uv run https://huggingface.co/datasets/uv-scripts/synthetic-data/raw/main/cot-se
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate synthetic data using CoT-Self-Instruct via OpenRouter API with Gemini embeddings and JSONL batch saving",
+        description="Generate synthetic data using CoT-Self-Instruct via OpenRouter API with concurrent processing",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
@@ -704,12 +791,24 @@ def main():
         help="Max tokens for filtering",
     )
 
-    # Batch saving parameters
+    # Concurrent processing parameters
     parser.add_argument(
         "--batch-size",
         type=int,
         default=100,
         help="Batch size for saving JSONL files",
+    )
+    parser.add_argument(
+        "--inference-batch-size",
+        type=int,
+        default=10,
+        help="Batch size for LLM inference",
+    )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=MAX_WORKERS,
+        help="Maximum number of concurrent workers",
     )
     parser.add_argument(
         "--local-save-only",
@@ -733,9 +832,13 @@ def main():
 
     args = parser.parse_args()
 
-    # Update global batch size
-    global BATCH_SIZE
+    # Update global configurations
+    global BATCH_SIZE, INFERENCE_BATCH_SIZE, MAX_WORKERS
     BATCH_SIZE = args.batch_size
+    INFERENCE_BATCH_SIZE = args.inference_batch_size
+    MAX_WORKERS = args.max_workers
+
+    logger.info(f"Using {MAX_WORKERS} workers, inference batch size {INFERENCE_BATCH_SIZE}, save batch size {BATCH_SIZE}")
 
     # Set random seeds
     random.seed(args.seed)
@@ -803,7 +906,7 @@ def main():
 
     generation_llm = get_llm(args.generation_model, temperature=generation_temperature, max_tokens=args.generation_max_tokens)
 
-    # Generate synthetic data with batch saving
+    # Generate synthetic data with concurrent batch processing
     start_time = datetime.now()
     synthetic_data = generate_synthetic_data(
         generation_llm,
@@ -812,9 +915,10 @@ def main():
         args.num_samples,
         categories,
         save_path,
+        args.max_workers,
     )
 
-    # Apply filtering with batch saving
+    # Apply filtering with concurrent processing
     filter_model = args.filter_model or args.generation_model
     logger.info(f"Using filter model: {filter_model}")
 
@@ -829,6 +933,7 @@ def main():
                 args.k_responses,
                 args.quality_threshold,
                 save_path,
+                args.max_workers,
             )
         elif args.filter_method == "rip":
             # For RIP, update threshold for normalized scoring (default 6.0/10)
@@ -840,6 +945,7 @@ def main():
                 args.k_responses,
                 rip_threshold,
                 save_path,
+                args.max_workers,
             )
         elif args.filter_method == "both":
             if args.task_type == "reasoning":
@@ -849,6 +955,7 @@ def main():
                     args.k_responses,
                     args.quality_threshold,
                     save_path,
+                    args.max_workers,
                 )
             rip_threshold = args.quality_threshold if args.quality_threshold > 1.0 else 6.0
             filtered_data = rip_filter(
@@ -858,6 +965,7 @@ def main():
                 args.k_responses,
                 rip_threshold,
                 save_path,
+                args.max_workers,
             )
 
     # Save final dataset locally first
@@ -898,7 +1006,7 @@ def main():
 
     # Print example usage command
     if len(sys.argv) > 1:
-        print("\nTo run with OpenRouter API, Gemini embeddings, and JSONL batch saving:")
+        print("\nTo run with concurrent processing and batch inference:")
         print(
             f"""export OPENROUTER_API_KEY=your_openrouter_key
 export GEMINI_API_KEY=your_gemini_key
@@ -909,7 +1017,9 @@ uv run cot-self-instruct.py \\
     --generation-model {args.generation_model} \\
     --filter-method {args.filter_method} \\
     --num-samples {args.num_samples} \\
-    --batch-size {args.batch_size}"""
+    --batch-size {args.batch_size} \\
+    --inference-batch-size {args.inference_batch_size} \\
+    --max-workers {args.max_workers}"""
         )
 
 
