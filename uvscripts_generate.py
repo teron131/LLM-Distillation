@@ -1,33 +1,3 @@
-"""
-Generate high-quality synthetic data using Chain-of-Thought Self-Instruct methodology.
-This script implements the CoT-Self-Instruct approach from the paper "CoT-Self-Instruct: 
-Building high-quality synthetic prompts for reasoning and non-reasoning tasks" (2025).
-It supports two modes:
-1. Reasoning tasks: Generates both questions and answers with Chain-of-Thought
-2. Instruction tasks: Generates diverse prompts for general instruction following
-Example usage:
-    # Reasoning tasks with Answer-Consistency filtering
-    uv run cot-self-instruct.py \\
-        --seed-dataset davanstrien/s1k-reasoning \\
-        --output-dataset username/synthetic-math \\
-        --task-type reasoning \\
-        --num-samples 5000 \\
-        --filter-method answer-consistency
-    # Instruction tasks with RIP filtering
-    uv run cot-self-instruct.py \\
-        --seed-dataset wildchat-filtered \\
-        --output-dataset username/synthetic-prompts \\
-        --task-type instruction \\
-        --filter-method rip \\
-        --reward-model Nexusflow/Athene-RM-8B
-    # HF Jobs execution
-    hf jobs uv run --flavor l4x4 \\
-        --image vllm/vllm-openai \\
-        -e HF_TOKEN=$(python3 -c "from huggingface_hub import get_token; print(get_token())") \\
-        https://huggingface.co/datasets/uv-scripts/synthetic-data/raw/main/cot-self-instruct.py \\
-        [args...]
-"""
-
 import argparse
 import json
 import logging
@@ -40,17 +10,22 @@ from datetime import datetime
 from typing import Dict, List, Optional, Tuple, Union
 
 import numpy as np
-import torch
+from dotenv import load_dotenv
+from google import genai
+from google.genai import types
 from huggingface_hub import DatasetCard, login
+from langchain_core.messages import HumanMessage
+from langchain_openai import ChatOpenAI
 from sklearn.cluster import KMeans
 from tqdm.auto import tqdm
-from transformers import AutoTokenizer
-from vllm import LLM, SamplingParams
 
 from datasets import Dataset, load_dataset
 
 # Enable HF Transfer for faster downloads
 os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
+
+# Load environment variables
+load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
@@ -82,20 +57,43 @@ Please reply strictly in the following format:
 {prompt2}"""
 
 
-def check_gpu_availability() -> int:
-    """Check if CUDA is available and return the number of GPUs."""
-    if not torch.cuda.is_available():
-        logger.error("CUDA is not available. This script requires a GPU.")
-        logger.error("Please run on a machine with NVIDIA GPU or use HF Jobs with GPU flavor.")
+def check_openrouter_api_key() -> str:
+    """Check if OpenRouter API key is available."""
+    api_key = os.getenv("OPENROUTER_API_KEY")
+    if not api_key:
+        logger.error("OPENROUTER_API_KEY environment variable is required.")
+        logger.error("Please set your OpenRouter API key: export OPENROUTER_API_KEY=your_key")
         sys.exit(1)
+    return api_key
 
-    num_gpus = torch.cuda.device_count()
-    for i in range(num_gpus):
-        gpu_name = torch.cuda.get_device_name(i)
-        gpu_memory = torch.cuda.get_device_properties(i).total_memory / 1024**3
-        logger.info(f"GPU {i}: {gpu_name} with {gpu_memory:.1f} GB memory")
 
-    return num_gpus
+def check_gemini_api_key() -> str:
+    """Check if Gemini API key is available."""
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        logger.error("GEMINI_API_KEY environment variable is required for embeddings.")
+        logger.error("Please set your Gemini API key: export GEMINI_API_KEY=your_key")
+        sys.exit(1)
+    return api_key
+
+
+def get_llm(model: str, temperature: float = 0.7, max_tokens: int = 2048) -> ChatOpenAI:
+    """Initialize OpenRouter LLM with specified parameters."""
+    api_key = check_openrouter_api_key()
+
+    return ChatOpenAI(
+        model=model,
+        api_key=api_key,
+        base_url="https://openrouter.ai/api/v1",
+        temperature=temperature,
+        max_tokens=max_tokens,
+    )
+
+
+def get_gemini_client() -> genai.Client:
+    """Initialize Gemini client for embeddings."""
+    api_key = check_gemini_api_key()
+    return genai.Client(api_key=api_key)
 
 
 def parse_thinking_output(text: str) -> str:
@@ -140,27 +138,39 @@ def extract_instruction_output(text: str) -> Optional[str]:
 
 
 def categorize_prompts(prompts: List[str], num_categories: int = 8) -> Dict[int, List[int]]:
-    """Categorize prompts using clustering for instruction tasks."""
-    from transformers import AutoModel
+    """Categorize prompts using Gemini embeddings and clustering for instruction tasks."""
+    logger.info(f"Categorizing {len(prompts)} prompts into {num_categories} categories using Gemini embeddings...")
 
-    logger.info(f"Categorizing {len(prompts)} prompts into {num_categories} categories...")
+    # Initialize Gemini client
+    gemini_client = get_gemini_client()
 
-    # Use a small model for embeddings
-    tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/all-MiniLM-L6-v2")
-    model = AutoModel.from_pretrained("sentence-transformers/all-MiniLM-L6-v2")
+    # Get embeddings using Gemini API
+    logger.info("Generating embeddings with Gemini...")
+    try:
+        result = gemini_client.models.embed_content(
+            model="gemini-embedding-001",
+            contents=prompts,
+            config=types.EmbedContentConfig(task_type="CLUSTERING", output_dimensionality=768),
+        )
 
-    # Get embeddings
-    embeddings = []
-    for prompt in tqdm(prompts, desc="Computing embeddings"):
-        inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=512)
-        with torch.no_grad():
-            outputs = model(**inputs)
-            embedding = outputs.last_hidden_state.mean(dim=1).numpy()
-        embeddings.append(embedding[0])
+        # Extract embeddings and normalize them
+        embeddings = []
+        for embedding_obj in result.embeddings:
+            embedding_values = np.array(embedding_obj.values)
+            # Normalize for consistent similarity calculations
+            normalized_embedding = embedding_values / np.linalg.norm(embedding_values)
+            embeddings.append(normalized_embedding)
 
-    # Cluster
+    except Exception as e:
+        logger.error(f"Failed to generate embeddings with Gemini: {e}")
+        logger.error("Please check your GEMINI_API_KEY and try again")
+        sys.exit(1)
+
+    # Cluster embeddings
+    logger.info("Clustering embeddings...")
+    embeddings_matrix = np.array(embeddings)
     kmeans = KMeans(n_clusters=num_categories, random_state=42)
-    labels = kmeans.fit_predict(embeddings)
+    labels = kmeans.fit_predict(embeddings_matrix)
 
     # Group by category
     categories = {}
@@ -169,11 +179,12 @@ def categorize_prompts(prompts: List[str], num_categories: int = 8) -> Dict[int,
             categories[label] = []
         categories[label].append(idx)
 
+    logger.info(f"Created {len(categories)} categories with sizes: {[len(cat) for cat in categories.values()]}")
     return categories
 
 
 def generate_synthetic_data(
-    llm: LLM,
+    llm: ChatOpenAI,
     seed_data: List[Dict],
     task_type: str,
     num_samples: int,
@@ -190,7 +201,10 @@ def generate_synthetic_data(
         if task_type == "reasoning":
             # Random sampling for reasoning tasks
             seeds = random.sample(seed_data, min(2, len(seed_data)))
-            prompt = REASONING_PROMPT_TEMPLATE.format(seed1=seeds[0].get("question", seeds[0].get("prompt", "")), seed2=seeds[1].get("question", seeds[1].get("prompt", "")) if len(seeds) > 1 else seeds[0].get("question", seeds[0].get("prompt", "")))
+            prompt = REASONING_PROMPT_TEMPLATE.format(
+                seed1=seeds[0].get("question", seeds[0].get("prompt", "")),
+                seed2=seeds[1].get("question", seeds[1].get("prompt", "")) if len(seeds) > 1 else seeds[0].get("question", seeds[0].get("prompt", "")),
+            )
         else:
             # Category-aware sampling for instruction tasks
             if categories:
@@ -202,17 +216,18 @@ def generate_synthetic_data(
             else:
                 seeds = random.sample(seed_data, min(2, len(seed_data)))
 
-            prompt = INSTRUCTION_PROMPT_TEMPLATE.format(prompt1=seeds[0].get("prompt", seeds[0].get("question", "")), prompt2=seeds[1].get("prompt", seeds[1].get("question", "")) if len(seeds) > 1 else seeds[0].get("prompt", seeds[0].get("question", "")))
+            prompt = INSTRUCTION_PROMPT_TEMPLATE.format(
+                prompt1=seeds[0].get("prompt", seeds[0].get("question", "")),
+                prompt2=seeds[1].get("prompt", seeds[1].get("question", "")) if len(seeds) > 1 else seeds[0].get("prompt", seeds[0].get("question", "")),
+            )
 
-        # Generate
-        sampling_params = SamplingParams(
-            temperature=0.7 if task_type == "reasoning" else 0.8,
-            top_p=0.95 if task_type == "reasoning" else 0.9,
-            max_tokens=2048,
-        )
-
-        outputs = llm.generate([prompt], sampling_params)
-        output_text = outputs[0].outputs[0].text
+        # Generate using OpenRouter API
+        try:
+            response = llm.invoke([HumanMessage(content=prompt)])
+            output_text = response.content
+        except Exception as e:
+            logger.warning(f"Generation failed: {e}")
+            continue
 
         # Parse output
         if task_type == "reasoning":
@@ -242,7 +257,7 @@ def generate_synthetic_data(
 
 
 def answer_consistency_filter(
-    llm: LLM,
+    llm: ChatOpenAI,
     synthetic_data: List[Dict],
     k_responses: int = 16,
     threshold: float = 0.5,
@@ -257,23 +272,19 @@ def answer_consistency_filter(
         original_answer = item["answer"]
 
         # Generate K responses
-        prompts = [question] * k_responses
-        sampling_params = SamplingParams(
-            temperature=0.6,
-            top_p=0.95,
-            max_tokens=1024,
-        )
-
-        outputs = llm.generate(prompts, sampling_params)
-
-        # Extract answers
         answers = []
-        for output in outputs:
-            text = output.outputs[0].text
-            # Try to extract boxed answer
-            match = re.search(r"\\boxed\{(.*?)\}", text)
-            if match:
-                answers.append(match.group(1).strip())
+        for _ in range(k_responses):
+            try:
+                response = llm.invoke([HumanMessage(content=question)])
+                text = response.content
+
+                # Try to extract boxed answer
+                match = re.search(r"\\boxed\{(.*?)\}", text)
+                if match:
+                    answers.append(match.group(1).strip())
+            except Exception as e:
+                logger.warning(f"Answer consistency check failed: {e}")
+                continue
 
         if not answers:
             continue
@@ -293,7 +304,7 @@ def answer_consistency_filter(
 
 
 def rip_filter(
-    llm: LLM,
+    llm: ChatOpenAI,
     synthetic_data: List[Dict],
     reward_model_id: str,
     k_responses: int = 32,
@@ -312,26 +323,25 @@ def rip_filter(
         prompt = item.get("prompt", item.get("question", ""))
 
         # Generate K responses
-        prompts = [prompt] * k_responses
-        sampling_params = SamplingParams(
-            temperature=1.0,
-            top_p=1.0,
-            max_tokens=1024,
-        )
-
-        outputs = llm.generate(prompts, sampling_params)
-
-        # In real implementation: score each response with reward model
-        # For now, use length as a proxy (longer responses often score higher)
-        scores = [len(output.outputs[0].text) for output in outputs]
+        scores = []
+        for _ in range(k_responses):
+            try:
+                response = llm.invoke([HumanMessage(content=prompt)])
+                # In real implementation: score each response with reward model
+                # For now, use length as a proxy (longer responses often score higher)
+                scores.append(len(response.content))
+            except Exception as e:
+                logger.warning(f"RIP filter generation failed: {e}")
+                continue
 
         # Use minimum score as quality indicator
-        min_score = min(scores) if scores else 0
-        normalized_score = min_score / 1000  # Normalize to 0-1 range
+        if scores:
+            min_score = min(scores)
+            normalized_score = min_score / 1000  # Normalize to 0-1 range
 
-        if normalized_score >= threshold:
-            item["rip_score"] = normalized_score
-            filtered_data.append(item)
+            if normalized_score >= threshold:
+                item["rip_score"] = normalized_score
+                filtered_data.append(item)
 
     logger.info(f"RIP filter: kept {len(filtered_data)}/{len(synthetic_data)} examples")
     return filtered_data
@@ -370,12 +380,15 @@ tags:
 - cot-self-instruct
 - {task_type}
 - uv-script
+- openrouter-api
+- gemini-embeddings
 ---
 # CoT-Self-Instruct Synthetic Data
-This dataset contains synthetic {task_type} data generated using the Chain-of-Thought Self-Instruct methodology.
+This dataset contains synthetic {task_type} data generated using the Chain-of-Thought Self-Instruct methodology via OpenRouter API with Gemini embeddings for clustering.
 ## Generation Details
 - **Source Dataset**: [{source_dataset}](https://huggingface.co/datasets/{source_dataset})
-- **Generation Model**: [{generation_model}](https://huggingface.co/{generation_model})
+- **Generation Model**: {generation_model} (via OpenRouter API)
+- **Embedding Model**: gemini-embedding-001 (for prompt clustering)
 - **Task Type**: {task_type}
 - **Filter Method**: {filter_method}
 - **Generated Examples**: {num_generated:,}
@@ -384,27 +397,29 @@ This dataset contains synthetic {task_type} data generated using the Chain-of-Th
 {filter_info}
 ## Methodology
 Generated using CoT-Self-Instruct, which:
-1. Uses Chain-of-Thought reasoning to analyze seed examples
-2. Generates new synthetic examples of similar quality and complexity
-3. Applies quality filtering to ensure high-quality outputs
+1. Uses Gemini embeddings to cluster seed prompts for better sampling diversity
+2. Uses Chain-of-Thought reasoning to analyze seed examples
+3. Generates new synthetic examples of similar quality and complexity via OpenRouter API
+4. Applies quality filtering to ensure high-quality outputs
 Based on the paper: "CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks" (2025)
 ## Generation Script
 Generated using the CoT-Self-Instruct script from [uv-scripts/synthetic-data](https://huggingface.co/datasets/uv-scripts/synthetic-data).
 To reproduce:
 ```bash
+export OPENROUTER_API_KEY=your_openrouter_key
+export GEMINI_API_KEY=your_gemini_key
 uv run https://huggingface.co/datasets/uv-scripts/synthetic-data/raw/main/cot-self-instruct.py \\
     --seed-dataset {source_dataset} \\
     --output-dataset <your-dataset> \\
     --task-type {task_type} \\
     --generation-model {generation_model} \\
     --filter-method {filter_method}
-```
-"""
+```"""
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate synthetic data using CoT-Self-Instruct",
+        description="Generate synthetic data using CoT-Self-Instruct via OpenRouter API with Gemini embeddings",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
@@ -442,8 +457,8 @@ def main():
     parser.add_argument(
         "--generation-model",
         type=str,
-        default="Qwen/Qwen3-30B-A3B-Thinking-2507",
-        help="Model for synthetic data generation",
+        default="gpt-4o",
+        help="Model for synthetic data generation (via OpenRouter)",
     )
     parser.add_argument(
         "--filter-model",
@@ -466,10 +481,16 @@ def main():
         help="Number of synthetic examples to generate",
     )
     parser.add_argument(
-        "--batch-size",
+        "--generation-temperature",
+        type=float,
+        default=0.7,
+        help="Temperature for generation",
+    )
+    parser.add_argument(
+        "--generation-max-tokens",
         type=int,
-        default=1,
-        help="Batch size for generation",
+        default=2048,
+        help="Max tokens for generation",
     )
 
     # Filtering parameters
@@ -492,19 +513,17 @@ def main():
         default=0.5,
         help="Minimum quality threshold for filtering",
     )
-
-    # GPU configuration
     parser.add_argument(
-        "--tensor-parallel-size",
-        type=int,
-        default=None,
-        help="Number of GPUs for tensor parallelism (auto-detected if not set)",
+        "--filter-temperature",
+        type=float,
+        default=0.6,
+        help="Temperature for filtering",
     )
     parser.add_argument(
-        "--gpu-memory-utilization",
-        type=float,
-        default=0.9,
-        help="GPU memory utilization",
+        "--filter-max-tokens",
+        type=int,
+        default=1024,
+        help="Max tokens for filtering",
     )
 
     # Other arguments
@@ -526,11 +545,12 @@ def main():
     # Set random seeds
     random.seed(args.seed)
     np.random.seed(args.seed)
-    torch.manual_seed(args.seed)
 
-    # Check GPU
-    num_gpus = check_gpu_availability()
-    tensor_parallel_size = args.tensor_parallel_size or num_gpus
+    # Check API keys
+    check_openrouter_api_key()
+    # Only check Gemini API key if we might need embeddings (instruction tasks with clustering)
+    if args.task_type in ["instruction", "auto"]:
+        check_gemini_api_key()
 
     # Authentication
     hf_token = args.hf_token or os.environ.get("HF_TOKEN")
@@ -566,19 +586,19 @@ def main():
     # Convert to list of dicts
     seed_data = seed_dataset.to_list()
 
-    # Categorize prompts for instruction tasks
+    # Categorize prompts for instruction tasks using Gemini embeddings
     categories = None
     if args.task_type == "instruction" and len(seed_data) > 100:
         prompts = [item.get(args.task_column, "") for item in seed_data]
         categories = categorize_prompts(prompts)
 
     # Initialize generation model
-    logger.info(f"Loading generation model: {args.generation_model}")
-    generation_llm = LLM(
-        model=args.generation_model,
-        tensor_parallel_size=tensor_parallel_size,
-        gpu_memory_utilization=args.gpu_memory_utilization,
-    )
+    logger.info(f"Initializing generation model: {args.generation_model}")
+    generation_temperature = args.generation_temperature
+    if args.task_type == "instruction":
+        generation_temperature = 0.8  # Higher temperature for instruction tasks
+
+    generation_llm = get_llm(args.generation_model, temperature=generation_temperature, max_tokens=args.generation_max_tokens)
 
     # Generate synthetic data
     start_time = datetime.now()
@@ -591,18 +611,10 @@ def main():
     )
 
     # Apply filtering
-    filter_llm = generation_llm
-    if args.filter_model and args.filter_model != args.generation_model:
-        logger.info(f"Loading filter model: {args.filter_model}")
-        # Clean up generation model
-        del generation_llm
-        torch.cuda.empty_cache()
+    filter_model = args.filter_model or args.generation_model
+    logger.info(f"Using filter model: {filter_model}")
 
-        filter_llm = LLM(
-            model=args.filter_model,
-            tensor_parallel_size=tensor_parallel_size,
-            gpu_memory_utilization=args.gpu_memory_utilization,
-        )
+    filter_llm = get_llm(filter_model, temperature=args.filter_temperature, max_tokens=args.filter_max_tokens)
 
     filtered_data = synthetic_data
     if args.filter_method != "none":
@@ -663,14 +675,13 @@ def main():
 
     logger.info("Done! Dataset available at: https://huggingface.co/datasets/" + args.output_dataset)
 
-    # Print example HF Jobs command if running locally
+    # Print example usage command
     if len(sys.argv) > 1:
-        print("\nTo run on HF Jobs:")
+        print("\nTo run with OpenRouter API and Gemini embeddings:")
         print(
-            f"""hf jobs uv run --flavor l4x4 \\
-    --image vllm/vllm-openai \\
-    -e HF_TOKEN=$(python3 -c "from huggingface_hub import get_token; print(get_token())") \\
-    https://huggingface.co/datasets/uv-scripts/synthetic-data/raw/main/cot-self-instruct.py \\
+            f"""export OPENROUTER_API_KEY=your_openrouter_key
+export GEMINI_API_KEY=your_gemini_key
+uv run cot-self-instruct.py \\
     --seed-dataset {args.seed_dataset} \\
     --output-dataset {args.output_dataset} \\
     --task-type {args.task_type} \\
