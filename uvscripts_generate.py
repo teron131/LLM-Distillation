@@ -35,7 +35,7 @@ logger = logging.getLogger(__name__)
 
 # Batch processing configuration
 SAVE_BATCH_SIZE = 100  # Save every N generated samples
-INFERENCE_BATCH_SIZE = 32  # Batch size for LLM inference
+INFERENCE_BATCH_SIZE = 10  # Batch size for LLM inference
 MAX_WORKERS = min(os.cpu_count(), INFERENCE_BATCH_SIZE)  # Number of concurrent workers
 SAVE_DIR = Path("./generated_data")
 
@@ -43,13 +43,17 @@ SAVE_DIR = Path("./generated_data")
 REASONING_PROMPT_TEMPLATE = """You are a reasoning question generator assistant. Your goal is to create a novel, and challenging reasoning question. You are provided the following seed questions:
 Seed Question 1: {seed1}
 Seed Question 2: {seed2}
+
 Your task is to:
 1. Write a brand-new, self-contained reasoning question that meets the following requirements:
-(a) The question draws inspiration from the seed question without copying it verbatim, remaining novel and of comparable difficulty.
-(b) The question's final answer should be a single, unambiguous scalar value (e.g., an integer, reduced fraction, exact radical), or another answer type that can be verified in one step (e.g., 'yes/no,' a choice from A to D).
-2. Then reason step by step, solve the new question and format your output as follows:
-[New Question Begin]{{your_generated_question}}[New Question End]
-[Final Answer to New Question Begin]\\boxed{{your_final_answer}}[Final Answer to New Question End]"""
+   (a) The question draws inspiration from the seed question without copying it verbatim, remaining novel and of comparable difficulty.
+   (b) The question's final answer should be a single, unambiguous scalar value (e.g., an integer, reduced fraction, exact radical), or another answer type that can be verified in one step (e.g., 'yes/no,' a choice from A to D).
+2. Then reason step by step to solve the new question.
+
+Please provide:
+- question: The generated reasoning question
+- reasoning_steps: Your step-by-step reasoning to solve the question
+- final_answer: The final answer as a scalar value (just the answer, no additional formatting)"""
 
 INSTRUCTION_PROMPT_TEMPLATE = """You are a prompt generator assistant. Your goal is to create diverse and creative synthetic prompts.
 Please follow the steps below to create synthetic prompts.
@@ -71,11 +75,26 @@ class ResponseScore(BaseModel):
     """Multi-aspect scoring model that evaluates separate criteria and returns a normalized final score."""
 
     accuracy: int = Field(description="Accuracy and correctness of information (1-10)", ge=1, le=10)
+    completeness: int = Field(description="How complete and thorough the response is (1-10)", ge=1, le=10)
+    relevance: int = Field(description="Relevance to the original prompt (1-10)", ge=1, le=10)
     helpfulness: int = Field(description="How helpful the response is to the user (1-10)", ge=1, le=10)
     organization: int = Field(description="Clarity and logical organization of content (1-10)", ge=1, le=10)
     grammar: int = Field(description="Grammar quality and absence of typos (1-10)", ge=1, le=10)
-    completeness: int = Field(description="How complete and thorough the response is (1-10)", ge=1, le=10)
-    relevance: int = Field(description="Relevance to the original prompt (1-10)", ge=1, le=10)
+
+
+# Add new Pydantic models for structured reasoning output
+class ReasoningResponse(BaseModel):
+    """Structured model for reasoning task output."""
+
+    question: str = Field(description="The generated reasoning question")
+    reasoning_steps: str = Field(description="Step-by-step reasoning to solve the question")
+    final_answer: str = Field(description="The final answer as a scalar value (number, fraction, etc.)")
+
+
+class AnswerOnlyResponse(BaseModel):
+    """Structured model for answer-only responses during filtering."""
+
+    final_answer: str = Field(description="The final answer as a scalar value (number, fraction, etc.)")
 
 
 # Quality evaluation prompt template
@@ -91,15 +110,15 @@ Please score the response on a scale of 1-10 for each criterion:
 
 1. **Accuracy** (1-10): How factually correct and accurate is the information? Are there any errors or misleading statements?
 
-2. **Helpfulness** (1-10): How useful is this response to someone with this prompt? Does it address their needs effectively?
+2. **Completeness** (1-10): How thorough and complete is the response? Does it adequately cover the topic or question asked?
 
-3. **Organization** (1-10): How well-structured and clearly organized is the content? Is it easy to follow and logically arranged?
+3. **Relevance** (1-10): How relevant is the response to the original prompt? Does it stay on topic and address what was asked?
 
-4. **Grammar** (1-10): How good is the grammar, spelling, and overall writing quality? Are there typos or language errors?
+4. **Helpfulness** (1-10): How useful is this response to someone with this prompt? Does it address their needs effectively?
 
-5. **Completeness** (1-10): How thorough and complete is the response? Does it adequately cover the topic or question asked?
+5. **Organization** (1-10): How well-structured and clearly organized is the content? Is it easy to follow and logically arranged?
 
-6. **Relevance** (1-10): How relevant is the response to the original prompt? Does it stay on topic and address what was asked?
+6. **Grammar** (1-10): How good is the grammar, spelling, and overall writing quality? Are there typos or language errors?
 
 Provide a score from 1-10 for each aspect where 1 is very poor and 10 is excellent."""
 
@@ -211,25 +230,74 @@ def parse_thinking_output(text: str) -> str:
 
 
 def extract_reasoning_output(text: str) -> Tuple[Optional[str], Optional[str]]:
-    """Extract question and answer from reasoning task output."""
+    """Extract question and answer from reasoning task output.
+
+    DEPRECATED: This function is deprecated for new reasoning tasks.
+    Use structured output with ReasoningResponse model instead.
+    Kept for backward compatibility with existing data.
+    """
     text = parse_thinking_output(text)
 
-    # Extract question
-    question_match = re.search(r"\[New Question Begin\](.*?)\[New Question End\]", text, re.DOTALL)
-    if not question_match:
-        return None, None
-    question = question_match.group(1).strip()
+    # Try multiple patterns to extract question and answer
+    question = None
+    answer = None
 
-    # Extract answer
-    answer_match = re.search(r"\[Final Answer to New Question Begin\]\\?boxed\{(.*?)\}\[Final Answer to New Question End\]", text, re.DOTALL)
-    if not answer_match:
-        # Try without \boxed
-        answer_match = re.search(r"\[Final Answer to New Question Begin\](.*?)\[Final Answer to New Question End\]", text, re.DOTALL)
+    # Pattern 1: Look for the structured format from the prompt
+    question_patterns = [
+        r"question:\s*(.+?)(?=reasoning_steps:|final_answer:|\n\n|\Z)",
+        r"\*\*question\*\*:\s*(.+?)(?=\*\*reasoning_steps\*\*:|\*\*final_answer\*\*:|\n\n|\Z)",
+        r"- question:\s*(.+?)(?=- reasoning_steps:|- final_answer:|\n\n|\Z)",
+        r"\[New Question Begin\](.*?)\[New Question End\]",
+        r"(?:Generated|New)\s+(?:Question|Problem):\s*(.+?)(?=\n\n|Answer:|Solution:|\Z)",
+    ]
 
-    if not answer_match:
-        return question, None
+    answer_patterns = [
+        r"final_answer:\s*(.+?)(?=\n|\Z)",
+        r"\*\*final_answer\*\*:\s*(.+?)(?=\n|\Z)",
+        r"- final_answer:\s*(.+?)(?=\n|\Z)",
+        r"\[Final Answer to New Question Begin\]\\?boxed\{(.*?)\}\[Final Answer to New Question End\]",
+        r"\[Final Answer to New Question Begin\](.*?)\[Final Answer to New Question End\]",
+        r"(?:Final\s+)?(?:Answer|Solution):\s*(.+?)(?=\n|\Z)",
+        r"\\boxed\{([^}]+)\}",
+        r"\$([^$]+)\$(?:\s*$)",
+    ]
 
-    answer = answer_match.group(1).strip()
+    # Try to find question
+    for pattern in question_patterns:
+        match = re.search(pattern, text, re.DOTALL | re.IGNORECASE)
+        if match:
+            question = match.group(1).strip()
+            break
+
+    # Try to find answer
+    for pattern in answer_patterns:
+        match = re.search(pattern, text, re.DOTALL | re.IGNORECASE)
+        if match:
+            answer = match.group(1).strip()
+            break
+
+    # If we still don't have both, try a more aggressive approach
+    if not question or not answer:
+        # Split text into lines and look for structured content
+        lines = [line.strip() for line in text.split("\n") if line.strip()]
+
+        for i, line in enumerate(lines):
+            # Look for question indicators
+            if not question and any(indicator in line.lower() for indicator in ["question:", "problem:", "generated question"]):
+                # Take the rest of the line or next few lines as question
+                question_text = line.split(":", 1)[-1].strip()
+                if not question_text and i + 1 < len(lines):
+                    question_text = lines[i + 1]
+                if question_text:
+                    question = question_text
+
+            # Look for answer indicators
+            if not answer and any(indicator in line.lower() for indicator in ["answer:", "final answer:", "solution:"]):
+                # Take the rest of the line as answer
+                answer_text = line.split(":", 1)[-1].strip()
+                if answer_text:
+                    answer = answer_text
+
     return question, answer
 
 
@@ -287,40 +355,79 @@ def categorize_prompts(prompts: List[str], num_categories: int = 8) -> Dict[int,
 
 
 def process_generation_batch(prompts_batch: List[str], llm: ChatOpenAI, task_type: str, seed_data: List[Dict]) -> List[Dict]:
-    """Process a batch of generation prompts using batch inference."""
+    """Process a batch of generation prompts using individual inference to avoid JSON concatenation issues."""
+    results = []
+
     try:
-        # Convert prompts to HumanMessage format for batch processing
-        messages_batch = [[HumanMessage(content=prompt)] for prompt in prompts_batch]
+        # For reasoning tasks, use structured output with individual requests
+        if task_type == "reasoning":
+            # Try structured output first
+            try:
+                structured_llm = llm.with_structured_output(ReasoningResponse, method="function_calling")
+                use_structured = True
+            except Exception as e:
+                logger.warning(f"Structured output not supported, falling back to text parsing: {e}")
+                use_structured = False
 
-        # Use batch inference
-        responses = llm.batch(messages_batch)
+            for i, prompt in enumerate(prompts_batch):
+                try:
+                    if use_structured:
+                        # Try structured output
+                        response = structured_llm.invoke([HumanMessage(content=prompt)])
 
-        results = []
-        for i, response in enumerate(responses):
-            output_text = response.content
+                        if response and hasattr(response, "question") and hasattr(response, "final_answer"):
+                            # Validate that the response has meaningful content
+                            if response.question.strip() and response.final_answer.strip():
+                                results.append(
+                                    {
+                                        "question": response.question,
+                                        "answer": response.final_answer,  # Store only the final answer for consistency
+                                        "reasoning_steps": response.reasoning_steps,  # Store reasoning separately
+                                        "metadata": {"prompt_index": i},
+                                    }
+                                )
+                            else:
+                                logger.warning(f"Skipping response with empty question or answer")
+                            # Fall back to text parsing for this response
+                            use_structured = False
 
-            # Parse output based on task type
-            if task_type == "reasoning":
-                question, answer = extract_reasoning_output(output_text)
-                if question and answer:
-                    results.append(
-                        {
-                            "question": question,
-                            "answer": answer,
-                            "metadata": {
-                                "prompt_index": i,
-                            },
-                        }
-                    )
-            else:
+                    if not use_structured:
+                        # Fall back to text-based parsing
+                        response = llm.invoke([HumanMessage(content=prompt)])
+                        output_text = response.content
+                        question, answer = extract_reasoning_output(output_text)
+
+                        if question and answer:
+                            results.append(
+                                {
+                                    "question": question,
+                                    "answer": answer,
+                                    "reasoning_steps": output_text,  # Store full output as reasoning
+                                    "metadata": {"prompt_index": i},
+                                }
+                            )
+                        else:
+                            logger.warning(f"Failed to extract question/answer from text output")
+
+                except Exception as e:
+                    logger.warning(f"Individual generation failed for prompt {i}: {e}")
+                    continue
+        else:
+            # For instruction tasks, use original text-based approach with batch processing
+            # Convert prompts to HumanMessage format for batch processing
+            messages_batch = [[HumanMessage(content=prompt)] for prompt in prompts_batch]
+
+            # Use batch inference
+            responses = llm.batch(messages_batch)
+
+            for i, response in enumerate(responses):
+                output_text = response.content
                 synthetic_prompt = extract_instruction_output(output_text)
                 if synthetic_prompt:
                     results.append(
                         {
                             "prompt": synthetic_prompt,
-                            "metadata": {
-                                "prompt_index": i,
-                            },
+                            "metadata": {"prompt_index": i},
                         }
                     )
 
@@ -414,35 +521,6 @@ def generate_synthetic_data(
     return synthetic_data
 
 
-def evaluate_response_quality(
-    evaluator_llm: ChatOpenAI,
-    prompt: str,
-    response: str,
-) -> Optional[float]:
-    """Evaluate response quality using structured output, returning a normalized final score."""
-    try:
-        # Create structured LLM for quality evaluation
-        structured_llm = evaluator_llm.with_structured_output(ResponseScore, method="function_calling")
-
-        evaluation_prompt = QUALITY_EVALUATION_PROMPT.format(prompt=prompt, response=response)
-
-        result = structured_llm.invoke([HumanMessage(content=evaluation_prompt)])
-
-        # Calculate final normalized score
-        # Sum all aspect scores and normalize to 0-10 scale
-        total_score = result.accuracy + result.helpfulness + result.organization + result.grammar + result.completeness + result.relevance
-
-        # Normalize: 6 aspects × 10 max score = 60 max total
-        # Normalize to 0-10 scale: (total_score / 60) * 10
-        final_score = (total_score / 60.0) * 10.0
-
-        return final_score
-
-    except Exception as e:
-        logger.warning(f"Quality evaluation failed: {e}")
-        return None
-
-
 def process_consistency_item(args: Tuple[Dict, ChatOpenAI, int, float]) -> Optional[Dict]:
     """Process a single item for answer consistency filtering."""
     item, llm, k_responses, threshold = args
@@ -450,42 +528,90 @@ def process_consistency_item(args: Tuple[Dict, ChatOpenAI, int, float]) -> Optio
     question = item["question"]
     original_answer = item["answer"]
 
-    # Generate K responses using batch inference
-    prompts = [question] * k_responses
-    messages_batch = [[HumanMessage(content=prompt)] for prompt in prompts]
+    # Debug logging
+    logger.debug(f"Processing consistency for question: {question[:100]}...")
+    logger.debug(f"Original answer: {original_answer}")
+
+    # Create structured LLM for consistent answer extraction
+    structured_llm = llm.with_structured_output(AnswerOnlyResponse, method="function_calling")
+
+    # Create a smart prompt that handles format flexibility
+    answer_prompt = f"""Solve this step by step and provide only the final answer. 
+
+Important: Your answer should match the expected format. If the expected answer is a percentage, provide a percentage. If it's a dollar amount, provide a dollar amount. If it's just a number, provide just the number.
+
+Question: {question}
+
+Provide only the final answer in the most appropriate format."""
+
+    # Generate K responses using individual requests
+    answers = []
+    for _ in range(k_responses):
+        try:
+            response = structured_llm.invoke([HumanMessage(content=answer_prompt)])
+            if hasattr(response, "final_answer") and response.final_answer:
+                answers.append(response.final_answer.strip())
+        except Exception as e:
+            logger.debug(f"Individual answer generation failed: {e}")
+            continue
+
+    logger.debug(f"Generated {len(answers)} answers: {answers}")
+
+    if not answers:
+        logger.debug("No valid answers generated")
+        return None
+
+    # Use a smart LLM to judge answer equivalence instead of manual normalization
+    equivalence_prompt = f"""Compare these answers to determine if they are equivalent, considering different valid formats (e.g., "15%" vs "15 percent" vs "0.15", or "$1.2M" vs "$1,200,000").
+
+Original answer: {original_answer}
+Generated answers: {answers}
+
+For each generated answer, determine if it's equivalent to the original answer. Consider:
+- Percentage formats (15%, 15 percent, 0.15 if representing 15%)
+- Currency formats ($1M, $1,000,000, 1 million dollars)
+- Number formats (fifteen, 15, 15.0)
+- Mathematical equivalence
+
+Count how many of the generated answers are equivalent to the original answer.
+Return only the count as a number."""
 
     try:
-        responses = llm.batch(messages_batch)
+        equivalence_response = llm.invoke([HumanMessage(content=equivalence_prompt)])
+        equivalent_count_text = equivalence_response.content.strip()
 
-        # Extract answers
-        answers = []
-        for response in responses:
-            text = response.content
-            # Try to extract boxed answer
-            match = re.search(r"\\boxed\{(.*?)\}", text)
-            if match:
-                answers.append(match.group(1).strip())
+        # Extract number from response
+        import re
 
-        if not answers:
+        count_match = re.search(r"(\d+)", equivalent_count_text)
+        if count_match:
+            equivalent_count = int(count_match.group(1))
+        else:
+            logger.debug(f"Could not parse equivalence count from: {equivalent_count_text}")
             return None
 
-        # Get majority answer
-        answer_counts = Counter(answers)
-        if answer_counts:
-            majority_answer, count = answer_counts.most_common(1)[0]
+        consistency_ratio = equivalent_count / len(answers)
 
-            # Check if majority answer matches original and meets threshold
-            if majority_answer == original_answer and count / len(answers) >= threshold:
-                # Add consistency metadata
-                if "metadata" not in item:
-                    item["metadata"] = {}
-                item["metadata"]["consistency_score"] = count / len(answers)
-                item["metadata"]["consistency_responses"] = len(answers)
-                item["metadata"]["majority_answer"] = majority_answer
-                return item
+        logger.debug(f"Equivalent answers: {equivalent_count}/{len(answers)} = {consistency_ratio:.2f}")
+
+        # Check if consistency meets threshold
+        if consistency_ratio >= threshold:
+            logger.debug("Item passed consistency filter")
+            # Add consistency metadata
+            if "metadata" not in item:
+                item["metadata"] = {}
+            item["metadata"]["consistency_score"] = consistency_ratio
+            item["metadata"]["consistency_responses"] = len(answers)
+            item["metadata"]["equivalent_count"] = equivalent_count
+            item["metadata"]["all_answers"] = answers[:5]  # Store first 5 answers for debugging
+            item["metadata"]["original_answer"] = original_answer
+            return item
+        else:
+            logger.debug(f"Item failed consistency filter: ratio={consistency_ratio:.2f} >= {threshold}")
 
     except Exception as e:
-        logger.warning(f"Answer consistency check failed: {e}")
+        logger.warning(f"Answer equivalence evaluation failed: {e}")
+        return None
 
     return None
 
@@ -497,9 +623,17 @@ def answer_consistency_filter(
     threshold: float = 0.5,
     save_path: Optional[Path] = None,
     max_workers: int = MAX_WORKERS,
+    save_batch_size: int = 100,
 ) -> List[Dict]:
     """Filter reasoning tasks using Answer-Consistency with concurrent processing."""
     logger.info(f"Applying Answer-Consistency filter with K={k_responses} using {max_workers} workers")
+    logger.info(f"Input data: {len(synthetic_data)} examples")
+
+    # Debug: Log first example to verify data flow
+    if synthetic_data:
+        first_example = synthetic_data[0]
+        logger.info(f"First example question: {first_example.get('question', 'NO QUESTION')[:100]}...")
+        logger.info(f"First example answer: {first_example.get('answer', 'NO ANSWER')}")
 
     # Prepare arguments for concurrent processing
     args_list = [(item, llm, k_responses, threshold) for item in synthetic_data]
@@ -517,9 +651,9 @@ def answer_consistency_filter(
                 if result is not None:
                     filtered_data.append(result)
 
-                    # Save batch when we reach BATCH_SIZE
-                    if save_path and len(filtered_data) % SAVE_BATCH_SIZE == 0:
-                        batch_start = len(filtered_data) - SAVE_BATCH_SIZE
+                    # Save batch when we reach save_batch_size
+                    if save_path and len(filtered_data) % save_batch_size == 0:
+                        batch_start = len(filtered_data) - save_batch_size
                         batch_data = filtered_data[batch_start:]
                         save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
                         batch_num += 1
@@ -528,8 +662,8 @@ def answer_consistency_filter(
                 logger.warning(f"Consistency filtering failed: {e}")
 
     # Save final batch if there are remaining items
-    if save_path and len(filtered_data) % SAVE_BATCH_SIZE != 0:
-        batch_start = (len(filtered_data) // SAVE_BATCH_SIZE) * SAVE_BATCH_SIZE
+    if save_path and len(filtered_data) % save_batch_size != 0:
+        batch_start = (len(filtered_data) // save_batch_size) * save_batch_size
         batch_data = filtered_data[batch_start:]
         save_batch_jsonl(batch_data, save_path, "answer_consistency", batch_num)
 
@@ -576,7 +710,34 @@ def process_rip_item(args: Tuple[Dict, ChatOpenAI, ChatOpenAI, int, float]) -> O
                 item["metadata"]["rip_std_score"] = std_score
                 item["metadata"]["rip_scores_count"] = len(quality_scores)
                 item["metadata"]["rip_threshold"] = threshold
-                return item
+
+                # Add detailed quality metrics
+                action_item = item  # Make a copy
+
+                # Calculate average scores for each aspect
+                avg_accuracy = sum(s["accuracy"] for s in quality_scores) / len(quality_scores)
+                avg_completeness = sum(s["completeness"] for s in quality_scores) / len(quality_scores)
+                avg_relevance = sum(s["relevance"] for s in quality_scores) / len(quality_scores)
+                avg_helpfulness = sum(s["helpfulness"] for s in quality_scores) / len(quality_scores)
+                avg_organization = sum(s["organization"] for s in quality_scores) / len(quality_scores)
+                avg_grammar = sum(s["grammar"] for s in quality_scores) / len(quality_scores)
+
+                action_item["metadata"]["rip_avg_accuracy"] = avg_accuracy
+                action_item["metadata"]["rip_avg_completeness"] = avg_completeness
+                action_item["metadata"]["rip_avg_relevance"] = avg_relevance
+                action_item["metadata"]["rip_avg_helpfulness"] = avg_helpfulness
+                action_item["metadata"]["rip_avg_organization"] = avg_organization
+                action_item["metadata"]["rip_avg_grammar"] = avg_grammar
+
+                # Add individual score ranges for detailed analysis
+                action_item["metadata"]["rip_accuracy_range"] = [min(s["accuracy"] for s in quality_scores), max(s["accuracy"] for s in quality_scores)]
+                action_item["metadata"]["rip_completeness_range"] = [min(s["completeness"] for s in quality_scores), max(s["completeness"] for s in quality_scores)]
+                action_item["metadata"]["rip_relevance_range"] = [min(s["relevance"] for s in quality_scores), max(s["relevance"] for s in quality_scores)]
+                action_item["metadata"]["rip_helpfulness_range"] = [min(s["helpfulness"] for s in quality_scores), max(s["helpfulness"] for s in quality_scores)]
+                action_item["metadata"]["rip_organization_range"] = [min(s["organization"] for s in quality_scores), max(s["organization"] for s in quality_scores)]
+                action_item["metadata"]["rip_grammar_range"] = [min(s["grammar"] for s in quality_scores), max(s["grammar"] for s in quality_scores)]
+
+                return action_item
 
     except Exception as e:
         logger.warning(f"RIP filtering failed: {e}")
@@ -592,6 +753,7 @@ def rip_filter(
     threshold: float = 6.0,
     save_path: Optional[Path] = None,
     max_workers: int = MAX_WORKERS,
+    save_batch_size: int = 100,
 ) -> List[Dict]:
     """Filter using Rejecting Instruction Preferences (RIP) with concurrent multi-aspect quality evaluation."""
     logger.info(f"Applying RIP filter with K={k_responses} using {max_workers} workers")
@@ -616,9 +778,9 @@ def rip_filter(
                 if result is not None:
                     filtered_data.append(result)
 
-                    # Save batch when we reach BATCH_SIZE
-                    if save_path and len(filtered_data) % SAVE_BATCH_SIZE == 0:
-                        batch_start = len(filtered_data) - SAVE_BATCH_SIZE
+                    # Save batch when we reach save_batch_size
+                    if save_path and len(filtered_data) % save_batch_size == 0:
+                        batch_start = len(filtered_data) - save_batch_size
                         batch_data = filtered_data[batch_start:]
                         save_batch_jsonl(batch_data, save_path, "rip", batch_num)
                         batch_num += 1
@@ -627,13 +789,42 @@ def rip_filter(
                 logger.warning(f"RIP filtering failed: {e}")
 
     # Save final batch if there are remaining items
-    if save_path and len(filtered_data) % SAVE_BATCH_SIZE != 0:
-        batch_start = (len(filtered_data) // SAVE_BATCH_SIZE) * SAVE_BATCH_SIZE
+    if save_path and len(filtered_data) % save_batch_size != 0:
+        batch_start = (len(filtered_data) // save_batch_size) * save_batch_size
         batch_data = filtered_data[batch_start:]
         save_batch_jsonl(batch_data, save_path, "rip", batch_num)
 
     logger.info(f"RIP filter: kept {len(filtered_data)}/{len(synthetic_data)} examples")
     return filtered_data
+
+
+def evaluate_response_quality(
+    evaluator_llm: ChatOpenAI,
+    prompt: str,
+    response: str,
+) -> Optional[Dict]:
+    """Evaluate response quality using structured output, returning detailed scores."""
+    try:
+        # Create structured LLM for quality evaluation
+        structured_llm = evaluator_llm.with_structured_output(ResponseScore, method="function_calling")
+
+        evaluation_prompt = QUALITY_EVALUATION_PROMPT.format(prompt=prompt, response=response)
+
+        result = structured_llm.invoke([HumanMessage(content=evaluation_prompt)])
+
+        # Calculate final normalized score
+        # Sum all aspect scores and normalize to 0-10 scale
+        total_score = result.accuracy + result.helpfulness + result.organization + result.grammar + result.completeness + result.relevance
+
+        # Normalize: 6 aspects × 10 max score = 60 max total
+        # Normalize to 0-10 scale: (total_score / 60) * 10
+        final_score = (total_score / 60.0) * 10.0
+
+        return {"final_score": final_score, "accuracy": result.accuracy, "completeness": result.completeness, "relevance": result.relevance, "helpfulness": result.helpfulness, "organization": result.organization, "grammar": result.grammar, "total_raw_score": total_score}
+
+    except Exception as e:
+        logger.warning(f"Quality evaluation failed: {e}")
+        return None
 
 
 def create_dataset_card(
@@ -663,6 +854,9 @@ This dataset was filtered using RIP:
 - Scored responses using multi-aspect quality evaluation
 - Kept only prompts with high minimum scores"""
 
+    # Calculate acceptance rate safely
+    acceptance_rate = (num_filtered / num_generated * 100) if num_generated > 0 else 0.0
+
     return f"""---
 tags:
 - synthetic-data
@@ -674,7 +868,7 @@ tags:
 - concurrent-processing
 ---
 # CoT-Self-Instruct Synthetic Data
-This dataset contains synthetic {task_type} data generated using the Chain-of-Thought Self-Instruct methodology via OpenRouter API with Gemini embeddings for clustering and concurrent processing for performance.
+This dataset contains synthetic {task_type} data generated using the Chain-of-Thought Self-Instruct methodology via OpenRouter API with Gemini embeddings for clustering and concurrent processing.
 ## Generation Details
 - **Source Dataset**: [{source_dataset}](https://huggingface.co/datasets/{source_dataset})
 - **Generation Model**: {generation_model} (via OpenRouter API)
@@ -682,7 +876,7 @@ This dataset contains synthetic {task_type} data generated using the Chain-of-Th
 - **Task Type**: {task_type}
 - **Filter Method**: {filter_method}
 - **Generated Examples**: {num_generated:,}
-- **After Filtering**: {num_filtered:,} ({(num_filtered/num_generated)*100:.1f}% acceptance rate)
+- **After Filtering**: {num_filtered:,} ({acceptance_rate:.1f}% acceptance rate)
 - **Generation Date**: {generation_time}
 {filter_info}
 ## Methodology
@@ -750,19 +944,19 @@ def main():
     parser.add_argument(
         "--generation-model",
         type=str,
-        default="gpt-4o",
+        default="google/gemini-2.5-flash-lite",
         help="Model for synthetic data generation (via OpenRouter)",
     )
     parser.add_argument(
         "--filter-model",
         type=str,
-        default=None,
+        default="google/gemini-2.5-flash-lite",
         help="Model for filtering (defaults to generation model)",
     )
     parser.add_argument(
         "--reward-model",
         type=str,
-        default="Nexusflow/Athene-RM-8B",
+        default="google/gemini-2.5-flash-lite",
         help="Reward model for RIP filtering",
     )
 
@@ -791,7 +985,7 @@ def main():
         "--filter-method",
         type=str,
         choices=["answer-consistency", "rip", "both", "none"],
-        default="answer-consistency",
+        default="both",
         help="Quality filtering method",
     )
     parser.add_argument(
@@ -829,7 +1023,7 @@ def main():
     parser.add_argument(
         "--inference-batch-size",
         type=int,
-        default=10,
+        default=32,
         help="Batch size for LLM inference",
     )
     parser.add_argument(
@@ -860,12 +1054,12 @@ def main():
 
     args = parser.parse_args()
 
-    # Update global configurations
-    SAVE_BATCH_SIZE = args.save_batch_size
-    INFERENCE_BATCH_SIZE = args.inference_batch_size
-    MAX_WORKERS = args.max_workers
+    # Use local variables instead of modifying globals
+    save_batch_size = args.save_batch_size
+    inference_batch_size = args.inference_batch_size
+    max_workers = args.max_workers
 
-    logger.info(f"Using {MAX_WORKERS} workers, inference batch size {INFERENCE_BATCH_SIZE}, save batch size {SAVE_BATCH_SIZE}")
+    logger.info(f"Using {max_workers} workers, inference batch size {inference_batch_size}, save batch size {save_batch_size}")
 
     # Set random seeds
     random.seed(args.seed)
@@ -942,7 +1136,7 @@ def main():
         args.num_samples,
         categories,
         save_path,
-        args.max_workers,
+        max_workers,
     )
 
     # Apply filtering with concurrent processing
@@ -960,7 +1154,8 @@ def main():
                 args.k_responses,
                 args.quality_threshold,
                 save_path,
-                args.max_workers,
+                max_workers,
+                save_batch_size,
             )
         elif args.filter_method == "rip":
             # For RIP, update threshold for normalized scoring (default 6.0/10)
@@ -972,7 +1167,8 @@ def main():
                 args.k_responses,
                 rip_threshold,
                 save_path,
-                args.max_workers,
+                max_workers,
+                save_batch_size,
             )
         elif args.filter_method == "both":
             if args.task_type == "reasoning":
@@ -982,7 +1178,8 @@ def main():
                     args.k_responses,
                     args.quality_threshold,
                     save_path,
-                    args.max_workers,
+                    max_workers,
+                    save_batch_size,
                 )
             rip_threshold = args.quality_threshold if args.quality_threshold > 1.0 else 6.0
             filtered_data = rip_filter(
@@ -992,7 +1189,8 @@ def main():
                 args.k_responses,
                 rip_threshold,
                 save_path,
-                args.max_workers,
+                max_workers,
+                save_batch_size,
             )
 
     # Save final dataset locally first
@@ -1044,9 +1242,9 @@ uv run cot-self-instruct.py \\
     --generation-model {args.generation_model} \\
     --filter-method {args.filter_method} \\
     --num-samples {args.num_samples} \\
-    --save-batch-size {args.save_batch_size} \\
-    --inference-batch-size {args.inference_batch_size} \\
-    --max-workers {args.max_workers}"""
+    --save-batch-size {save_batch_size} \\
+    --inference-batch-size {inference_batch_size} \\
+    --max-workers {max_workers}"""
         )
 
 
