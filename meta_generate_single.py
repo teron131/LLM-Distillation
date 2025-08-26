@@ -1,3 +1,4 @@
+import json
 import os
 import subprocess
 from pathlib import Path
@@ -23,6 +24,37 @@ def _run_command(command: list[str], description: str):
     """Helper function to run a subprocess command and print its description."""
     print(description)
     subprocess.run(command, check=True)
+
+
+def save_cot_as_jsonl(generated_dir: Path, final_dir: Path, file_stem: str):
+    """
+    Extracts cot_examples from the generated JSON file and saves them as a JSONL file,
+    preserving the reasoning field.
+    """
+    generated_file = generated_dir / f"{file_stem}_cot_examples.json"
+    final_file = final_dir / f"{file_stem}_cot_examples.jsonl"
+
+    if not generated_file.exists():
+        print(f"Warning: Generated file not found at {generated_file}. Skipping save for this document.")
+        return
+
+    print(f"Extracting CoT examples from {generated_file} and saving to {final_file}...")
+
+    with open(generated_file, "r", encoding="utf-8") as f_in:
+        data = json.load(f_in)
+
+    cot_examples = data.get("cot_examples")
+
+    if not cot_examples:
+        print(f"Warning: No 'cot_examples' found in {generated_file}. Nothing to save.")
+        return
+
+    with open(final_file, "w", encoding="utf-8") as f_out:
+        for example in cot_examples:
+            json.dump(example, f_out)
+            f_out.write("\n")
+
+    print(f"Successfully saved {len(cot_examples)} CoT examples to {final_file}.")
 
 
 def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, GENERATION_TYPE: Literal["qa", "cot", "summary"], PAIRS_PER_PAGE: int, CHARS_PER_PAGE: int):
@@ -69,17 +101,23 @@ def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, GENERATION_
     else:
         print(f"Warning: Parsed file not found for {file_path.name} at {parsed_file_path}. Skipping generation for this document.")
 
-    # Step 3: Curate data (now operates on the generated directory)
-    _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated", "--verbose"],
-        "Curating data...",
-    )
+    # If generating CoT, skip the curation step as it's not supported.
+    if GENERATION_TYPE == "cot":
+        print("Skipping curation for CoT generation as it is not supported.")
+        # Step 4: Manually extract CoT examples and save as JSONL to preserve reasoning.
+        save_cot_as_jsonl(generated_dir=base_data_dir / "generated", final_dir=base_data_dir / "final", file_stem=file_path.stem)
+    else:
+        # Step 3: Curate data (for QA pairs)
+        _run_command(
+            ["synthetic-data-kit", "-c", "config.yaml", "curate", f"{base_data_dir}/generated/", "--model", GENERATION_MODEL, "--output", f"{base_data_dir}/curated", "--verbose"],
+            "Curating data...",
+        )
 
-    # Step 4: Save as fine-tuning format (now operates on the curated directory)
-    _run_command(
-        ["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "jsonl", "--storage", "json", "--output", f"{base_data_dir}/final"],
-        "Saving data in fine-tuning format...",
-    )
+        # Step 4: Save as fine-tuning format (operates on the curated directory)
+        _run_command(
+            ["synthetic-data-kit", "-c", "config.yaml", "save-as", f"{base_data_dir}/curated/", "-f", "jsonl", "--storage", "json", "--output", f"{base_data_dir}/final"],
+            "Saving data in fine-tuning format...",
+        )
 
     print("Synthetic data generation pipeline completed for single file.")
 
