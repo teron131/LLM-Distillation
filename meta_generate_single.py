@@ -51,7 +51,7 @@ def save_cot_as_jsonl(generated_dir: Path, final_dir: Path, file_stem: str):
 
     with open(final_file, "w", encoding="utf-8") as f_out:
         for example in cot_examples:
-            json.dump(example, f_out)
+            json.dump(example, f_out, indent=4)
             f_out.write("\n")
 
     print(f"Successfully saved {len(cot_examples)} CoT examples to {final_file}.")
