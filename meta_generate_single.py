@@ -26,10 +26,10 @@ def _run_command(command: list[str], description: str):
     subprocess.run(command, check=True)
 
 
-def save_cot_as_jsonl(generated_dir: Path, final_dir: Path, file_stem: str):
+def save_cot_as_jsonl(generated_dir: Path, final_dir: Path, file_stem: str, source_filename: str):
     """
     Extracts cot_examples from the generated JSON file and saves them as a JSONL file,
-    preserving the reasoning field.
+    preserving the reasoning field and adding source filename.
     """
     generated_file = generated_dir / f"{file_stem}_cot_examples.json"
     final_file = final_dir / f"{file_stem}_cot_examples.jsonl"
@@ -51,6 +51,8 @@ def save_cot_as_jsonl(generated_dir: Path, final_dir: Path, file_stem: str):
 
     with open(final_file, "w", encoding="utf-8") as f_out:
         for example in cot_examples:
+            # Add source filename to each example
+            example["source"] = source_filename
             json.dump(example, f_out, indent=4)
             f_out.write("\n")
 
@@ -111,7 +113,7 @@ def run_pipeline_single_file(
     if GENERATION_TYPE == "cot":
         print("Skipping curation for CoT generation as it is not supported.")
         # Step 4: Manually extract CoT examples and save as JSONL to preserve reasoning.
-        save_cot_as_jsonl(generated_dir=base_data_dir / "generated", final_dir=base_data_dir / "final", file_stem=file_path.stem)
+        save_cot_as_jsonl(generated_dir=base_data_dir / "generated", final_dir=base_data_dir / "final", file_stem=file_path.stem, source_filename=file_path.name)
     else:
         # Step 3: Curate data (for QA pairs)
         _run_command(
