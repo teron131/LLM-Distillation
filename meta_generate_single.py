@@ -57,7 +57,13 @@ def save_cot_as_jsonl(generated_dir: Path, final_dir: Path, file_stem: str):
     print(f"Successfully saved {len(cot_examples)} CoT examples to {final_file}.")
 
 
-def run_pipeline_single_file(GENERATION_MODEL: str, file_path: Path, GENERATION_TYPE: Literal["qa", "cot", "summary"], PAIRS_PER_PAGE: int, CHARS_PER_PAGE: int):
+def run_pipeline_single_file(
+    GENERATION_MODEL: str,
+    file_path: Path,
+    GENERATION_TYPE: Literal["qa", "cot", "summary"],
+    PAIRS_PER_PAGE: int,
+    CHARS_PER_PAGE: int,
+):
     """
     Runs the synthetic data kit pipeline for a single document.
     """
