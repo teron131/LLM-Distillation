@@ -9,7 +9,7 @@ api = HfApi()
 # data_dir = "dataset_hf"
 # repo_id = "OrcinusOrca/YouTube-Cantonese"
 data_dir = "datasets"
-repo_id = "OrcinusOrca/McKinsey-reports"
+repo_id = "OrcinusOrca/McKinsey-Reports"
 
 try:
     api.create_repo(
