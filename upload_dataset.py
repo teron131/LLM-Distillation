@@ -19,11 +19,11 @@ try:
 except Exception as e:
     pass
 
-# api.delete_files(
-#     repo_id=repo_id,
-#     repo_type="dataset",
-#     delete_patterns=["*.jsonl"],
-# )
+api.delete_files(
+    repo_id=repo_id,
+    repo_type="dataset",
+    delete_patterns=["*.jsonl"],
+)
 api.upload_large_folder(
     folder_path=data_dir,
     repo_id=repo_id,
