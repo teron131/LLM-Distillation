@@ -77,26 +77,6 @@ def save_final_jsonl(data: List[Dict], save_path: Path, filename: str = "final_d
         raise
 
 
-def check_openrouter_api_key() -> str:
-    """Check if OpenRouter API key is available."""
-    api_key = os.getenv("OPENROUTER_API_KEY")
-    if not api_key:
-        logger.error("OPENROUTER_API_KEY environment variable is required.")
-        logger.error("Please set your OpenRouter API key: export OPENROUTER_API_KEY=your_key")
-        sys.exit(1)
-    return api_key
-
-
-def check_gemini_api_key() -> str:
-    """Check if Gemini API key is available."""
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        logger.error("GEMINI_API_KEY environment variable is required for embeddings.")
-        logger.error("Please set your Gemini API key: export GEMINI_API_KEY=your_key")
-        sys.exit(1)
-    return api_key
-
-
 def parse_thinking_output(text: str) -> str:
     """Remove thinking tokens from model output."""
     # Remove <think>...</think> blocks

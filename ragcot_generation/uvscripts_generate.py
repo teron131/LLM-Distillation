@@ -23,8 +23,6 @@ from sklearn.cluster import KMeans
 from tqdm.auto import tqdm
 
 from datasets import Dataset, load_dataset
-
-# Import context definitions (prompts and structured output models)
 from ragcot_generation.context import (
     INSTRUCTION_PROMPT_TEMPLATE,
     QUALITY_EVALUATION_PROMPT,
@@ -33,11 +31,7 @@ from ragcot_generation.context import (
     ReasoningResponse,
     ResponseScore,
 )
-
-# Import utilities from utils module
 from ragcot_generation.utils import (
-    check_gemini_api_key,
-    check_openrouter_api_key,
     create_dataset_card,
     create_save_dir,
     extract_instruction_output,
@@ -64,31 +58,12 @@ MAX_WORKERS = min(os.cpu_count(), INFERENCE_BATCH_SIZE)  # Number of concurrent 
 SAVE_DIR = Path("./generated_data")
 
 
-def get_llm(model: str, temperature: float = 0.7, max_tokens: int = 2048) -> ChatOpenAI:
-    """Initialize OpenRouter LLM with specified parameters."""
-    api_key = check_openrouter_api_key()
-
-    return ChatOpenAI(
-        model=model,
-        api_key=api_key,
-        base_url="https://openrouter.ai/api/v1",
-        temperature=temperature,
-        max_tokens=max_tokens,
-    )
-
-
-def get_gemini_client() -> genai.Client:
-    """Initialize Gemini client for embeddings."""
-    api_key = check_gemini_api_key()
-    return genai.Client(api_key=api_key)
-
-
 def categorize_prompts(prompts: List[str], num_categories: int = 8) -> Dict[int, List[int]]:
     """Categorize prompts using Gemini embeddings and clustering for instruction tasks."""
     logger.info(f"Categorizing {len(prompts)} prompts into {num_categories} categories using Gemini embeddings...")
 
-    # Initialize Gemini client
-    gemini_client = get_gemini_client()
+    # Initialize Gemini client with proper API key checking
+    gemini_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
     # Get embeddings using Gemini API
     logger.info("Generating embeddings with Gemini...")
@@ -531,7 +506,13 @@ def rip_filter(
     logger.info(f"Quality threshold: {threshold}/10.0 (responses below this normalized score will be rejected)")
 
     # Create evaluator LLM for quality scoring
-    evaluator_llm = get_llm("gpt-4o-mini", temperature=0.1, max_tokens=512)
+    evaluator_llm = ChatOpenAI(
+        model=reward_model_id,
+        api_key=os.getenv("OPENROUTER_API_KEY"),
+        base_url="https://openrouter.ai/api/v1",
+        temperature=0.1,
+        max_tokens=512,
+    )
 
     # Prepare arguments for concurrent processing
     args_list = [(item, llm, evaluator_llm, k_responses, threshold) for item in synthetic_data]
@@ -759,12 +740,6 @@ def main():
     random.seed(args.seed)
     np.random.seed(args.seed)
 
-    # Check API keys
-    check_openrouter_api_key()
-    # Only check Gemini API key if we might need embeddings (instruction tasks with clustering)
-    if args.task_type in ["instruction", "auto"]:
-        check_gemini_api_key()
-
     # Create save directory
     save_path = create_save_dir(args.output_dataset)
     logger.info(f"Saving batches to: {save_path}")
@@ -819,7 +794,13 @@ def main():
     if args.task_type == "instruction":
         generation_temperature = 0.8  # Higher temperature for instruction tasks
 
-    generation_llm = get_llm(args.generation_model, temperature=generation_temperature, max_tokens=args.generation_max_tokens)
+    generation_llm = ChatOpenAI(
+        model=args.generation_model,
+        api_key=os.getenv("OPENROUTER_API_KEY"),
+        base_url="https://openrouter.ai/api/v1",
+        temperature=generation_temperature,
+        max_tokens=args.generation_max_tokens,
+    )
 
     # Generate synthetic data with concurrent batch processing
     start_time = datetime.now()
@@ -837,7 +818,13 @@ def main():
     filter_model = args.filter_model or args.generation_model
     logger.info(f"Using filter model: {filter_model}")
 
-    filter_llm = get_llm(filter_model, temperature=args.filter_temperature, max_tokens=args.filter_max_tokens)
+    filter_llm = ChatOpenAI(
+        model=filter_model,
+        api_key=os.getenv("OPENROUTER_API_KEY"),
+        base_url="https://openrouter.ai/api/v1",
+        temperature=args.filter_temperature,
+        max_tokens=args.filter_max_tokens,
+    )
 
     filtered_data = synthetic_data
     if args.filter_method != "none":
@@ -934,6 +921,8 @@ uv run cot-self-instruct.py \\
     --output-dataset {args.output_dataset} \\
     --task-type {args.task_type} \\
     --generation-model {args.generation_model} \\
+    --filter-model {args.filter_model} \\
+    --reward-model {args.reward_model} \\
     --filter-method {args.filter_method} \\
     --num-samples {args.num_samples} \\
     --save-batch-size {save_batch_size} \\
