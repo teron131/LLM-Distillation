@@ -123,11 +123,11 @@ def run_pipeline(
 
                 # If generating CoT, immediately save using custom function (skip curation)
                 if GENERATION_TYPE == "cot":
-                    save_cot_as_jsonl(generated_dir=generated_output_dir, final_dir=base_data_dir / "final", file_stem=doc_file.stem, source_filename=doc_file.name)
+                    save_cot_as_jsonl(generated_dir=generated_output_dir, final_dir=base_data_dir / "final", file_stem=doc_file.stem, source_filename=doc_file.stem)
 
             # If generating CoT, immediately save using custom function (skip curation)
             if GENERATION_TYPE == "cot":
-                save_cot_as_jsonl(generated_dir=generated_output_dir, final_dir=base_data_dir / "final", file_stem=doc_file.stem, source_filename=doc_file.name)
+                save_cot_as_jsonl(generated_dir=generated_output_dir, final_dir=base_data_dir / "final", file_stem=doc_file.stem, source_filename=doc_file.stem)
             else:
                 print(f"Warning: Parsed file not found for {doc_file.name} at {parsed_file_path}. Skipping generation for this document.")
 
