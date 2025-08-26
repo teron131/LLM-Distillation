@@ -73,7 +73,7 @@ def run_pipeline_single_file(
         print(f"Error: File not found at {file_path}")
         return
 
-    base_data_dir = Path(f"data_{GENERATION_MODEL.split('/')[-1]}")
+    base_data_dir = Path(f"{GENERATION_MODEL.split('/')[-1]}_{GENERATION_TYPE.capitalize()}")
 
     # Step 1: Create directory structure
     _run_command(

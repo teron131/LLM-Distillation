@@ -81,7 +81,7 @@ def run_pipeline(
     # Clean input duplicates
     clean_input_duplicates(Path(documents_dir))
 
-    base_data_dir = Path(f"data_{GENERATION_MODEL.split('/')[-1]}")
+    base_data_dir = Path(f"{GENERATION_MODEL.split('/')[-1]}_{GENERATION_TYPE.capitalize()}")
 
     # Step 1: Create directory structure
     _run_command(
